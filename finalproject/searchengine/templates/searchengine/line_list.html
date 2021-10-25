@@ -1,0 +1,67 @@
+<html>
+
+<head>
+
+        <style>
+              body {
+                font: 18px 'Lucida sans', Arial, Helvetica;
+                text-align: center;
+              }
+
+                table {
+                  font-family: arial, sans-serif;
+                  border-collapse: collapse;
+                  width: 100%;
+                }
+
+                td, th {
+                  border: 1px solid #dddddd;
+                  text-align: left;
+                  padding: 8px;
+                }
+
+                tr:nth-child(even) {
+                  background-color: #dddddd;
+                }
+        </style>
+
+</head>
+
+<body>
+  <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">FunSearch</a>
+        </div>
+      </div>
+  </nav>
+  <h3> The output table </h3>
+
+  {% if results %}
+  <table>
+      <!-- for each appid, i.e. the keys in second level -->
+      <tr>
+          <th></th>
+          <th>DocumentId</th>
+          <th>Score</th>
+          <th>Raw</th>
+      </tr>
+      {% for value in results %}
+          <tr>
+<!--              &lt;!&ndash; loop for each column, so it can write by row &ndash;&gt;-->
+<!--              <td>-->
+<!--                <form method="POST" action="/search">-->
+<!--                  {% csrf_token %}-->
+<!--                  <input type = "hidden" name = "parameter" value = "{{key}}">-->
+<!--                  <input type= "submit" name = "update" value="Dislike">-->
+<!--                </form>-->
+<!--              </td>-->
+              {% for item in value %}
+                  <td> {{ item }}  </td>
+              {% endfor %}
+          </tr>
+      {% endfor %}
+  </table>
+  {% endif %}
+</body>
+</html>
