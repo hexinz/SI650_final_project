@@ -1,17 +1,25 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <style>
 body {
-        background: #555 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAB9JREFUeNpi/P//PwM6YGLAAuCCmpqacC2MRGsHCDAA+fIHfeQbO8kAAAAASUVORK5CYII=);
-        font: 18px 'Lucida sans', Arial, Helvetica;
-        color: #eee;
+        background-image: url("{% static "img/ME2H5Uo-big-bang-theory-wallpaper.jpg" %}");
+        background-repeat:no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        font: 20px 'Lucida sans', Arial, Helvetica;
+        color: #e0ffff;
         text-align: center;
     }
 
     a {
-        color: #ccc;
+        color: #e0ffff;
+        font-size: 20pt;
     }
 
-    /*-------------------------------------*/
+    /*-------------jpg------------------------*/
 
     .cf:before, .cf:after{
       content:"";
@@ -23,17 +31,18 @@ body {
     }
 
     .cf{
-      zoom:1;
+      zoom:1.5;
     }
 
     /*-------------------------------------*/
 
     .form-wrapper {
+        
         width: 450px;
-        padding: 15px;
-        margin: 150px auto 50px auto;
-        background: #444;
-        background: rgba(0,0,0,.2);
+        padding: 20px;
+        margin: 60px auto 50px auto;
+        background:#494e8f;
+        opacity:0.9;
         -moz-border-radius: 10px;
         -webkit-border-radius: 10px;
         border-radius: 10px;
@@ -43,13 +52,16 @@ body {
     }
 
     .form-wrapper input {
-        width: 340px;
-        height: 40px;
+        width: 430px;
+        height: 30px;
         padding: 10px 5px;
         float: left;
-        font: bold 15px 'lucida sans', 'trebuchet MS', 'Tahoma';
+        font: 'lucida sans';
+        color:white;
+        font-size: 20pt;
         border: 0;
-        background: #eee;
+        background: #494e8f;
+        opacity:1;
         -moz-border-radius: 3px 0 0 3px;
         -webkit-border-radius: 3px 0 0 3px;
         border-radius: 3px 0 0 3px;
@@ -57,43 +69,49 @@ body {
 
     .form-wrapper input:focus {
         outline: 0;
-        background: #fff;
+        background: #494e8f;
+        opacity:1;
+        color:white;
+        font-size: 20pt;
         -moz-box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
         -webkit-box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
         box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
     }
 
     .form-wrapper input::-webkit-input-placeholder {
-       color: #999;
+       color:white;
        font-weight: normal;
        font-style: italic;
+       font-size: 20pt;
     }
 
     .form-wrapper input:-moz-placeholder {
-        color: #999;
+        color:white;
         font-weight: normal;
         font-style: italic;
+        font-size: 20pt;
     }
 
     .form-wrapper input:-ms-input-placeholder {
-        color: #999;
+        color:white;
         font-weight: normal;
         font-style: italic;
+        font-size: 20pt;
     }
 
     .form-wrapper button {
 		overflow: visible;
-        position: relative;
-        float: right;
+        
+        float: middle;
         border: 0;
         padding: 0;
         cursor: pointer;
         height: 40px;
         width: 110px;
-        font: bold 15px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
-        color: #fff;
+        font: 'lucida sans';
+        color: #494e8f;
         text-transform: uppercase;
-        background: #d83c3c;
+        background: #e0ffff;
         -moz-border-radius: 0 3px 3px 0;
         -webkit-border-radius: 0 3px 3px 0;
         border-radius: 0 3px 3px 0;
@@ -114,7 +132,7 @@ body {
         position: absolute;
         border-width: 8px 8px 8px 0;
         border-style: solid solid solid none;
-        border-color: transparent #d83c3c transparent;
+        border-color: transparent #e0ffff transparent;
         top: 12px;
         left: -6px;
     }
@@ -141,9 +159,7 @@ body {
 <header>
 <nav class="navbar navbar-inverse">
     <div class="container-fluid">
-      <div class="navbar-header">
-        <a class="navbar-brand" href="/">FunSearch</a>
-      </div>
+      
     </div>
 </nav>
 </header>
@@ -159,3 +175,4 @@ body {
 
 
 </body>
+</html>
