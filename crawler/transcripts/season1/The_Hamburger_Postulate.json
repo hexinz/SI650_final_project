@@ -1,6 +1,6 @@
 {
     "Season": 1,
-    "Episode": 26,
+    "Episode": 3,
     "Title": "The_Hamburger_Postulate",
     "Actor2Line": {
         "Sheldon": [
@@ -37,183 +37,199 @@
                 "Waitresses don't yell at you at Big Boy."
             ],
             [
-                30,
+                31,
                 "We don't. This is a disturbing aberration."
             ],
             [
-                47,
+                49,
                 "He asked her out once, it was an embarrassing failure."
             ],
             [
-                49,
+                51,
                 "Oh, I'm sorry, was that supposed to be a secret?"
             ],
             [
-                57,
+                60,
                 "Well I assume she meant that the two of you together would constitute a couple that others might consider cute. An alternate, and somewhat less likely interpretation, is that you could manufacture one. As in, oh look, Leonard and Lesley made Mr and Mrs Goldfarb, aren't they adorable."
             ],
             [
-                59,
+                62,
                 "You're a lucky man, Leonard."
             ],
             [
-                61,
+                64,
                 "You're talking to one of the three men in the Western hemisphere capable of following that train of thought."
             ],
             [
-                63,
+                66,
                 "I said I could follow it, I didn't say I cared."
             ],
             [
-                96,
+                103,
                 "I need your opinion on a matter of semiotics."
             ],
             [
-                98,
+                105,
                 "Semiotics, the study of signs and symbols \u2013 it's a branch of philosophy related to linguistics."
             ],
             [
-                100,
+                107,
                 "Just come with me."
             ],
             [
-                101,
+                108,
                 "Well?"
             ],
             [
-                103,
+                110,
                 "What does it mean?"
             ],
             [
-                105,
+                112,
                 "Yes, but I was eleven."
             ],
             [
-                107,
+                114,
                 "So you're saying Leonard has a girl in there."
             ],
             [
-                111,
-                "Oh, yes, but there's usually planning, courtship and advance notice. Last time I was able to book a cruise to the Arctic to see a solar eclipse."
-            ],
-            [
-                113,
-                "I didn't have to, the dates just happened to coincide."
-            ],
-            [
-                116,
-                "No, no, wait, hold on."
-            ],
-            [
                 118,
-                "I don't know what the protocol is here. Do I stay, do I leave? Do I wait to greet them with a refreshing beverage?"
+                "(Entering living room)"
             ],
             [
                 120,
-                "Hi, Leonard. It's me, Sheldon. In the living room. I just, I wanted you to know I saw the tie. Message received. You're welcome. You carry on. Give my best to Lesley."
+                "Oh, yes, but there's usually planning, courtship and advance notice. Last time I was able to book a cruise to the Arctic to see a solar eclipse."
             ],
             [
-                121,
-                "My equations, someone's tampered with my equations."
+                122,
+                "I didn't have to, the dates just happened to coincide."
             ],
             [
-                123,
-                "Of course I'm sure. Look at the beta function of quantum chromodynamics, the sign's been changed."
-            ],
-            [
-                125,
-                "Are you insane? Are you out of your mind? Are you.... hey look, that fixes the problem I\u2019ve been having."
+                124,
+                "(Picking up violin case)"
             ],
             [
                 126,
-                "You did this?"
+                "No, no, wait, hold on."
             ],
             [
                 128,
-                "Cool?"
+                "I don't know what the protocol is here. Do I stay, do I leave? Do I wait to greet them with a refreshing beverage?"
             ],
             [
-                131,
-                "Uh-duh, hold on, hold on!"
+                130,
+                "Hi, Leonard. It's me, Sheldon. In the living room. I just, I wanted you to know I saw the tie. Message received. You're welcome. You carry on. Give my best to Lesley."
             ],
             [
                 133,
-                "Who told you you could touch my board?"
+                "(Wakes up, looks at watch, wraps self in blanket, walks towards kitchen)"
             ],
             [
                 135,
-                "I don't come into your house and touch your board."
+                "My equations, someone's tampered with my equations."
             ],
             [
                 137,
-                "Oh, that is so... so..."
+                "Of course I'm sure. Look at the beta function of quantum chromodynamics, the sign's been changed."
             ],
             [
-                138,
-                "Inconsiderate, that is the adjective, inconsiderate."
+                139,
+                "Are you insane? Are you out of your mind? Are you.... hey look, that fixes the problem I\u2019ve been having."
             ],
             [
-                147,
-                "I'm coming."
+                141,
+                "You did this?"
+            ],
+            [
+                143,
+                "Cool?"
+            ],
+            [
+                146,
+                "Uh-duh, hold on, hold on!"
+            ],
+            [
+                148,
+                "Who told you you could touch my board?"
             ],
             [
                 150,
-                "Boy, you're wound awfully tight for a man who just had sexual intercourse."
+                "I don't come into your house and touch your board."
             ],
             [
-                153,
-                "Do you realize I may have to share a Nobel Prize with your booty call?"
+                152,
+                "Oh, that is so... so..."
             ],
             [
-                155,
-                "She's not that intelligent."
+                154,
+                "Inconsiderate, that is the adjective, inconsiderate."
             ],
             [
                 157,
+                "(Inside)"
+            ],
+            [
+                166,
+                "I'm coming."
+            ],
+            [
+                169,
+                "Boy, you're wound awfully tight for a man who just had sexual intercourse."
+            ],
+            [
+                172,
+                "Do you realize I may have to share a Nobel Prize with your booty call?"
+            ],
+            [
+                174,
+                "She's not that intelligent."
+            ],
+            [
+                176,
                 "She got lucky."
             ],
             [
-                159,
+                178,
                 "I don't have to believe in it for her to be lucky."
             ],
             [
-                161,
+                180,
                 "Leonard?"
             ],
             [
-                163,
+                182,
                 "I still don't care."
             ],
             [
-                189,
+                212,
                 "You know, I think I may have misjudged this restaurant."
             ],
             [
-                191,
+                214,
                 "I won't go out on a limb, but I think we may be looking at my new Tuesday hamburger."
             ],
             [
-                193,
+                216,
                 "Way ahead of you. I was thinking of moving Big Boy to Thursdays, and just dropping Soup Plantation."
             ],
             [
-                195,
+                218,
                 "Yeah, the name always confused me anyway, Soup Plantation. You can't grow soup."
             ],
             [
-                197,
+                220,
                 "Terrific, you'll be happy to know that I plan to come here every Tuesday night for the foreseeable future."
             ],
             [
-                199,
+                222,
                 "Who do I speak to about permanently reserving this table?"
             ],
             [
-                203,
+                227,
                 "You know why this hamburger surpasses the Big Boy? This is a single decker hamburger whereas the Big Boy is a double decker. This has a much more satisfying meat to bun to condiment ratio."
             ],
             [
-                205,
+                229,
                 "Of course I'm listening. Blah blah, hopeless Penny delusion, blah blah blah."
             ]
         ],
@@ -235,31 +251,31 @@
                 "I'll take the heart smart platter."
             ],
             [
-                32,
+                33,
                 "And walks in quiet beauty like the night."
             ],
             [
-                45,
+                46,
                 "If you're into music, I happen to be a human beatbox."
             ],
             [
-                52,
+                54,
                 "What's the matter?"
             ],
             [
-                54,
+                56,
                 "How can she take your order when you're too neurotic to talk to her."
             ],
             [
-                181,
+                203,
                 "Hey, look, it's Doctor Stud!"
             ],
             [
-                183,
+                205,
                 "The blogosphere is a-buzzing with news of you and Lesley Winkle making eine kleine bang-bang music."
             ],
             [
-                185,
+                207,
                 "I put it there."
             ]
         ],
@@ -285,244 +301,264 @@
                 "Make it two."
             ],
             [
-                28,
+                29,
                 "Hey Lesley."
             ],
             [
-                31,
+                32,
                 "Lesley, this is Penny, she lives across the hall from Sheldon and me."
             ],
             [
-                34,
+                35,
                 "Lesley and I do research together at the University."
             ],
             [
-                37,
+                38,
                 "What happened to Elliot Wong?"
             ],
             [
-                39,
+                40,
                 "Yeah, sure, why not."
             ],
             [
-                41,
+                42,
                 "Why at my place?"
             ],
             [
-                44,
+                45,
                 "Yeah, my parents felt that naming me Leonard and putting me in advanced placement classes wasn't getting me beaten up enough."
             ],
             [
-                46,
+                48,
                 "Lesley? No, no-oh, what are you kidding?"
             ],
             [
-                48,
+                50,
                 "Thank you Sheldon."
             ],
             [
-                56,
+                59,
                 "What did Penny mean, you'd make a cute couple?"
             ],
             [
-                58,
+                61,
                 "If Penny didn't know that Lesley had already turned me down then that would unambiguously mean that she, Penny, thought that I should her, Lesley, out, indicating that she, Penny, had no interest in me asking her, Penny, out. But because she did know that I had asked Lesley out and that she, Lesley, had turned me down then she, Penny, could be offering consolation. That's too bad, you would have made a cute couple. But while thinking, good, Leonard remains available."
             ],
             [
-                60,
+                63,
                 "How so?"
             ],
             [
-                62,
+                65,
                 "Well, what do you think."
             ],
             [
-                65,
+                69,
                 "Thank you."
             ],
             [
-                70,
+                74,
                 "That was fun, Lesley, thanks for including me."
             ],
             [
-                72,
+                76,
                 "Uh, sure, why not."
             ],
             [
-                74,
-                "Really?"
-            ],
-            [
-                76,
-                "I thought you weren't interested in me."
-            ],
-            [
                 78,
-                "You mean my cello?"
+                "Really?"
             ],
             [
                 80,
-                "No kidding?"
+                "I thought you weren't interested in me."
             ],
             [
                 82,
-                "Gee, uh..."
+                "You mean my cello?"
             ],
             [
                 84,
-                "Penny? What about her?"
+                "No kidding?"
             ],
             [
                 86,
-                "Well, I did have a poppy seed bagel for breakfast, which could give a positive urine test for opiates but certainly not dilate my pupils, so I guess there's no point in bringing it up."
+                "Gee, uh..."
             ],
             [
                 88,
-                "No. No, there's nothing going on between Penny and me."
+                "Penny? What about her?"
             ],
             [
                 90,
-                "Yeah. Yeah, I guess I am."
+                "Well, I did have a poppy seed bagel for breakfast, which could give a positive urine test for opiates but certainly not dilate my pupils, so I guess there's no point in bringing it up."
             ],
             [
                 92,
-                "Yeah, yeah it is good. Did you want to start now?"
+                "No. No, there's nothing going on between Penny and me."
             ],
             [
                 94,
+                "Yeah. Yeah, I guess I am."
+            ],
+            [
+                96,
+                "Yeah, yeah it is good. Did you want to start now?"
+            ],
+            [
+                98,
                 "Oh. Okay. A little musical foreplay. Terrific."
             ],
             [
-                95,
+                99,
                 "I'm good, I'm good to go."
             ],
             [
-                122,
+                134,
+                "(Entering)"
+            ],
+            [
+                136,
                 "Are you sure?"
             ],
             [
-                124,
+                138,
                 "Oh yeah. But doesn't that fix the problem you've been having?"
             ],
             [
-                130,
+                145,
                 "Thank you, I'll see you at work."
             ],
             [
-                140,
+                156,
+                "(Exiting the apartment)"
+            ],
+            [
+                159,
                 "Oh, hi."
             ],
             [
-                142,
+                161,
                 "Pretty good."
             ],
             [
-                144,
+                163,
                 "Pretty, very, there's really no objective scale for delineating variations of good, why do you ask?"
             ],
             [
-                146,
+                165,
                 "Sheldon!"
             ],
             [
-                149,
+                168,
                 "Wuh, I don't.... th-th-th-that's really two different questions, uh, I'm not.... Sheldon, we have to go!"
             ],
             [
-                152,
+                171,
                 "Thank you. What did she mean, she's happy for me? Is she happy because I'm seeing someone, or is she happy because she thinks that I'm happy, because anyone who cared for someone would want them to be happy, even if the reason for their happiness made the first person unhappy. You know, because the second person, though happy, is now romantically unavailable to the first person."
             ],
             [
-                154,
+                173,
                 "You know what, I'm being ridiculous. But who cares what Penny thinks, Lesley is a terrific girl, she's attractive, we like each other, she's extremely intelligent."
             ],
             [
-                156,
+                175,
                 "She fixed your equation."
             ],
             [
-                158,
+                177,
                 "You don't believe in luck."
             ],
             [
-                160,
+                179,
                 "Regardless, I have a chance at a real relationship with Lesley, I'm not going to pass that up for some hypothetical future happiness with a woman who may or may not want me to be happy with a woman who is currently making me happy."
             ],
             [
-                162,
+                181,
                 "Yeah."
             ],
             [
-                164,
+                184,
                 "Hey, Lesley."
             ],
             [
-                166,
+                186,
                 "Brrrr. Why are you smashing a flash frozen banana."
             ],
             [
-                169,
-                "Just extending the intimacy. Do you want to slip over to the radiation lab and share a decontamination shower?"
-            ],
-            [
-                171,
-                "I'm not sure, but I think I'm about to discover how the banana felt."
-            ],
-            [
-                173,
-                "Who wouldn't?"
-            ],
-            [
-                175,
-                "Yeah, well, I'm just glad to be a part of it. So what happens now?"
-            ],
-            [
-                177,
-                "Oh. Okay. Thank you."
-            ],
-            [
-                179,
-                "You want to make plans for New Years."
-            ],
-            [
-                182,
-                "Doctor what?"
-            ],
-            [
-                184,
-                "Wha... how did it get on the internet?"
-            ],
-            [
-                186,
-                "Well, how did you know about it?"
-            ],
-            [
                 188,
-                "Well, that part's true!"
+                "(puts arms around her)"
             ],
             [
                 190,
-                "No kidding."
+                "Just extending the intimacy. Do you want to slip over to the radiation lab and share a decontamination shower?"
             ],
             [
                 192,
-                "Your old Tuesday hamburger will be so broken hearted."
+                "I'm not sure, but I think I'm about to discover how the banana felt."
             ],
             [
                 194,
-                "Really?"
+                "Who wouldn't?"
             ],
             [
-                201,
-                "Oh, to be honest, I don't think it's going to work out."
+                196,
+                "Yeah, well, I'm just glad to be a part of it. So what happens now?"
+            ],
+            [
+                198,
+                "Oh. Okay. Thank you."
+            ],
+            [
+                200,
+                "You want to make plans for New Years."
             ],
             [
                 202,
-                "Well what did she mean by that? Was that just a generic platitude or was that a subtle bid for attention?"
+                "(Leaving)"
             ],
             [
                 204,
+                "Doctor what?"
+            ],
+            [
+                206,
+                "Wha... how did it get on the internet?"
+            ],
+            [
+                208,
+                "Well, how did you know about it?"
+            ],
+            [
+                210,
+                "Well, that part's true!"
+            ],
+            [
+                213,
+                "No kidding."
+            ],
+            [
+                215,
+                "Your old Tuesday hamburger will be so broken hearted."
+            ],
+            [
+                217,
+                "Really?"
+            ],
+            [
+                224,
+                "Oh, to be honest, I don't think it's going to work out."
+            ],
+            [
+                226,
+                "Well what did she mean by that? Was that just a generic platitude or was that a subtle bid for attention?"
+            ],
+            [
+                228,
                 "Are you even listening to me?"
+            ],
+            [
+                230,
+                "(Sheldon nods)"
             ]
         ],
         "Raj": [
@@ -535,19 +571,19 @@
                 "Excuse me, Ganesh is the remover of obstacles, and Shiva is the destroyer. When the smoke clears, Abraham Lincoln will be speaking Hindi and drinking mint juleps."
             ],
             [
-                51,
+                53,
                 "Oh dear."
             ],
             [
-                53,
+                55,
                 "She didn't take my order."
             ],
             [
-                55,
+                57,
                 "Nevertheless, this will be reflected in her tip."
             ],
             [
-                187,
+                209,
                 "A little bird told us. Apparently you are a magnificent beast."
             ]
         ],
@@ -589,257 +625,325 @@
                 "Because you are not at Big Boy!"
             ],
             [
-                33,
+                34,
                 "Howard, I\u2019ve asked you not to do that."
             ],
             [
-                35,
+                36,
                 "Oh, wow, a girl scientist."
             ],
             [
-                43,
+                44,
                 "Yeah, you too. Leonard, I didn't know you played the cello?"
             ],
             [
-                50,
+                47,
+                "(Howard performs some of the worst beatboxing imaginable.)"
+            ],
+            [
+                52,
                 "Oh, that's too bad, you guys would make a cute couple."
             ],
             [
-                97,
-                "I'm sorry?"
-            ],
-            [
-                99,
-                "Okay, sweetie, I know you think you're explaining yourself, but you're really not."
-            ],
-            [
                 102,
-                "Well what?"
+                "(Opening door)"
             ],
             [
                 104,
-                "Oh, come on, you went to college."
+                "I'm sorry?"
             ],
             [
                 106,
-                "Alright, look, a tie on the doorknob usually means someone doesn't want to be disturbed because they're, you know, getting busy."
-            ],
-            [
-                108,
-                "Well, either that or he's lost his tie rack and gotten really into Bryan Adams."
+                "Okay, sweetie, I know you think you're explaining yourself, but you're really not."
             ],
             [
                 109,
-                "We really shouldn't be standing here."
+                "Well what?"
             ],
             [
-                110,
-                "Oh, come on, you know, Leonard's had girls over before, right?"
+                111,
+                "Oh, come on, you went to college."
             ],
             [
-                112,
-                "Wait, you had to leave the state because your roommate was having sex?"
-            ],
-            [
-                114,
-                "So, do you know who's in there?"
+                113,
+                "Alright, look, a tie on the doorknob usually means someone doesn't want to be disturbed because they're, you know, getting busy."
             ],
             [
                 115,
-                "Hmmm. Good for him. Good for Leonard. Okay, night."
+                "Well, either that or he's lost his tie rack and gotten really into Bryan Adams."
             ],
             [
                 117,
-                "What's the matter?"
+                "We really shouldn't be standing here."
             ],
             [
                 119,
+                "Oh, come on, you know, Leonard's had girls over before, right?"
+            ],
+            [
+                121,
+                "Wait, you had to leave the state because your roommate was having sex?"
+            ],
+            [
+                123,
+                "So, do you know who's in there?"
+            ],
+            [
+                125,
+                "Hmmm. Good for him. Good for Leonard. Okay, night."
+            ],
+            [
+                127,
+                "What's the matter?"
+            ],
+            [
+                129,
                 "Gee, Sheldon, you're asking the wrong girl. I'm usually on the other side of the tie."
             ],
             [
-                139,
+                158,
                 "Oh, hey Leonard."
             ],
             [
-                141,
+                160,
                 "So, how's it going?"
             ],
             [
-                143,
+                162,
                 "Just pretty good, I'd think you were doing very good."
             ],
             [
-                145,
+                164,
                 "Well, a little bird told me that you and Lesley hooked up last night."
             ],
             [
-                148,
+                167,
                 "So, is it serious, do you like her?"
             ],
             [
-                151,
+                170,
                 "Alright, well, I'll talk to you later, but, I am so happy for you Leonard."
             ],
             [
-                196,
+                219,
                 "So, how's everything."
             ],
             [
-                198,
+                221,
                 "Really, oh yay!"
             ],
             [
-                200,
+                223,
                 "Um, I don't know, a psychiatrist? So hey, how are things with you and Lesley?"
+            ],
+            [
+                225,
+                "(Walks away smiling)"
+            ]
+        ],
+        "Leslie": [
+            [
+                28,
+                "(Entering)"
             ]
         ],
         "Lesley": [
             [
-                29,
+                30,
                 "I didn't know you ate here."
             ],
             [
-                36,
+                37,
                 "Yep, come for the breasts, stay for the brains. So, I'm glad I ran into you, the physics department string quartet needs a new cellist."
             ],
             [
-                38,
+                39,
                 "He switched over to high energy radiation research, had a little mishap, and now the other guys are uncomfortable sitting next to him. So, are you in?"
             ],
             [
-                40,
+                41,
                 "Great, we rehearse on Tuesdays at your place."
             ],
             [
-                42,
+                43,
                 "Yeah, the department of energy said our regular space is kind of a hot zone. Nice meeting you."
             ],
             [
-                64,
+                68,
                 "I admire your fingering."
             ],
             [
-                66,
+                70,
                 "Maybe some time you can try that on my instrument."
             ],
             [
-                67,
+                71,
                 "Goodnight guys, good job."
             ],
             [
-                71,
+                75,
                 "You're welcome. If you're up for it we could practise that middle section again."
             ],
             [
-                73,
+                77,
                 "Just so we\u2019re clear, you understand that me hanging back to practise with you is a pretext for letting you know that I'm sexually available."
             ],
             [
-                75,
+                79,
                 "Yeah, I'm good to go."
             ],
             [
-                77,
+                81,
                 "That was before I saw you handling that beautiful piece of wood between your legs."
             ],
             [
-                79,
+                83,
                 "No, I mean the obvious crude double entendre. I'm seducing you."
             ],
             [
-                81,
+                85,
                 "What can I say, I'm a passionate and impulsive woman. So how about it?"
             ],
             [
-                83,
+                87,
                 "Is it the waitress?"
             ],
             [
-                85,
+                89,
                 "Well, I thought I saw your pupils dilate when you looked at her, which, unless you're a heroin addict, points to sexual attraction."
             ],
             [
-                87,
+                91,
                 "You and the waitress then?"
             ],
             [
-                89,
+                93,
                 "So, you're open to a sexual relationship?"
             ],
             [
-                91,
+                95,
                 "Good."
             ],
             [
-                93,
+                97,
                 "Why don't we finish the section first."
             ],
             [
-                127,
+                100,
+                "(Exit in direction of bedrooms.)"
+            ],
+            [
+                116,
+                "(Voice off)"
+            ],
+            [
+                140,
+                "(Entering)"
+            ],
+            [
+                142,
                 "Yeah, I noticed it when I got up to get a glass of water, so I fixed it, now you can show that quarks are asymptotically free at high energies. Pretty cool, huh?"
             ],
             [
-                129,
+                144,
                 "Listen, I got to hit the lab. Thanks for a great night."
             ],
             [
-                132,
+                147,
                 "What?"
             ],
             [
-                134,
+                149,
                 "No-one."
             ],
             [
-                136,
+                151,
                 "There are no incorrect equations on my board."
             ],
             [
-                165,
+                153,
+                "(Leaves)"
+            ],
+            [
+                185,
                 "Careful\u00a0 Leonard, liquid nitrogen, 320 degrees below zero."
             ],
             [
-                167,
+                187,
                 "Because I\u2019ve got a bowl of Cheerios and I couldn't find a knife."
             ],
             [
-                168,
+                189,
                 "Uh, what are you doing?"
             ],
             [
-                170,
+                191,
                 "Okay, uh, what exactly do you think's going on between us?"
             ],
             [
-                172,
+                193,
                 "Listen, Leonard, neither of us are neuroscientists but we both understand the biochemistry of sex, I mean, dopamine in our brains is released across synapses causing pleasure. You stick electrodes in a rat's brain, give him an orgasm button, he'll push that thing until he starves to death."
             ],
             [
-                174,
+                195,
                 "Well, the only difference between us and a rat is that you can't stick an electrode in our hypothalamus. That's where you come in."
             ],
             [
-                176,
+                197,
                 "Well, I don't know about your sex drive, but I'm probably good till New Years."
             ],
             [
-                178,
+                199,
                 "Thank you!"
             ],
             [
-                180,
+                201,
                 "Woah, Leonard, please, you're smothering me."
+            ]
+        ],
+        "Scene": [
+            [
+                58,
+                "The stairwell of the apartment building."
+            ],
+            [
+                67,
+                "The apartment living room. The string quartet are practicing."
+            ],
+            [
+                101,
+                "The hallway, Sheldon scuttles out of apartment door and crosses to Penny\u2019s. Knocks on it urgently."
+            ],
+            [
+                131,
+                "In Leonard\u2019s Bedroom. Leonard wakes up next to Lesley, puts on glasses and grins."
+            ],
+            [
+                132,
+                "Living room, Sheldon is sleeping on the sofa, with his head on Lesley\u2019s Violin case."
+            ],
+            [
+                155,
+                "The hallway."
+            ],
+            [
+                183,
+                "Leonard and Lesley\u2019s lab."
+            ],
+            [
+                211,
+                "The Cheesecake Factory."
             ]
         ],
         "Male string quartettist": [
             [
-                68,
+                72,
                 "Thanks."
             ]
         ],
         "Female string quartettist": [
             [
-                69,
+                73,
                 "See you next week."
             ]
         ]
@@ -849,7 +953,8 @@
         "Howard": "/wiki/Howard_Wolowitz",
         "Leonard": "/wiki/Leonard_Hofstadter",
         "Raj": "/wiki/Rajesh_Koothrappali",
-        "Penny": "/wiki/Penny"
+        "Penny": "/wiki/Penny",
+        "Leslie": "/wiki/Leslie"
     },
     "AllLines": [
         "Alright, I'm moving my infantry division, augmented by a battalion of Orcs from Lord of the Rings, we flank the Tennessee Volunteers, and the North once again wins the Battle of Gettysburg.",
@@ -880,6 +985,7 @@
         "Fine, I'll have the Barbecue Burger.",
         "Make it two.",
         "Waitresses don't yell at you at Big Boy.",
+        "(Entering)",
         "Hey Lesley.",
         "I didn't know you ate here.",
         "We don't. This is a disturbing aberration.",
@@ -898,6 +1004,7 @@
         "Yeah, you too. Leonard, I didn't know you played the cello?",
         "Yeah, my parents felt that naming me Leonard and putting me in advanced placement classes wasn't getting me beaten up enough.",
         "If you're into music, I happen to be a human beatbox.",
+        "(Howard performs some of the worst beatboxing imaginable.)",
         "Lesley? No, no-oh, what are you kidding?",
         "He asked her out once, it was an embarrassing failure.",
         "Thank you Sheldon.",
@@ -908,6 +1015,7 @@
         "She didn't take my order.",
         "How can she take your order when you're too neurotic to talk to her.",
         "Nevertheless, this will be reflected in her tip.",
+        "The stairwell of the apartment building.",
         "What did Penny mean, you'd make a cute couple?",
         "Well I assume she meant that the two of you together would constitute a couple that others might consider cute. An alternate, and somewhat less likely interpretation, is that you could manufacture one. As in, oh look, Leonard and Lesley made Mr and Mrs Goldfarb, aren't they adorable.",
         "If Penny didn't know that Lesley had already turned me down then that would unambiguously mean that she, Penny, thought that I should her, Lesley, out, indicating that she, Penny, had no interest in me asking her, Penny, out. But because she did know that I had asked Lesley out and that she, Lesley, had turned me down then she, Penny, could be offering consolation. That's too bad, you would have made a cute couple. But while thinking, good, Leonard remains available.",
@@ -916,6 +1024,7 @@
         "You're talking to one of the three men in the Western hemisphere capable of following that train of thought.",
         "Well, what do you think.",
         "I said I could follow it, I didn't say I cared.",
+        "The apartment living room. The string quartet are practicing.",
         "I admire your fingering.",
         "Thank you.",
         "Maybe some time you can try that on my instrument.",
@@ -948,6 +1057,9 @@
         "Why don't we finish the section first.",
         "Oh. Okay. A little musical foreplay. Terrific.",
         "I'm good, I'm good to go.",
+        "(Exit in direction of bedrooms.)",
+        "The hallway, Sheldon scuttles out of apartment door and crosses to Penny\u2019s. Knocks on it urgently.",
+        "(Opening door)",
         "I need your opinion on a matter of semiotics.",
         "I'm sorry?",
         "Semiotics, the study of signs and symbols \u2013 it's a branch of philosophy related to linguistics.",
@@ -961,23 +1073,31 @@
         "Alright, look, a tie on the doorknob usually means someone doesn't want to be disturbed because they're, you know, getting busy.",
         "So you're saying Leonard has a girl in there.",
         "Well, either that or he's lost his tie rack and gotten really into Bryan Adams.",
+        "(Voice off)",
         "We really shouldn't be standing here.",
+        "(Entering living room)",
         "Oh, come on, you know, Leonard's had girls over before, right?",
         "Oh, yes, but there's usually planning, courtship and advance notice. Last time I was able to book a cruise to the Arctic to see a solar eclipse.",
         "Wait, you had to leave the state because your roommate was having sex?",
         "I didn't have to, the dates just happened to coincide.",
         "So, do you know who's in there?",
+        "(Picking up violin case)",
         "Hmmm. Good for him. Good for Leonard. Okay, night.",
         "No, no, wait, hold on.",
         "What's the matter?",
         "I don't know what the protocol is here. Do I stay, do I leave? Do I wait to greet them with a refreshing beverage?",
         "Gee, Sheldon, you're asking the wrong girl. I'm usually on the other side of the tie.",
         "Hi, Leonard. It's me, Sheldon. In the living room. I just, I wanted you to know I saw the tie. Message received. You're welcome. You carry on. Give my best to Lesley.",
+        "In Leonard\u2019s Bedroom. Leonard wakes up next to Lesley, puts on glasses and grins.",
+        "Living room, Sheldon is sleeping on the sofa, with his head on Lesley\u2019s Violin case.",
+        "(Wakes up, looks at watch, wraps self in blanket, walks towards kitchen)",
+        "(Entering)",
         "My equations, someone's tampered with my equations.",
         "Are you sure?",
         "Of course I'm sure. Look at the beta function of quantum chromodynamics, the sign's been changed.",
         "Oh yeah. But doesn't that fix the problem you've been having?",
         "Are you insane? Are you out of your mind? Are you.... hey look, that fixes the problem I\u2019ve been having.",
+        "(Entering)",
         "You did this?",
         "Yeah, I noticed it when I got up to get a glass of water, so I fixed it, now you can show that quarks are asymptotically free at high energies. Pretty cool, huh?",
         "Cool?",
@@ -990,7 +1110,11 @@
         "I don't come into your house and touch your board.",
         "There are no incorrect equations on my board.",
         "Oh, that is so... so...",
+        "(Leaves)",
         "Inconsiderate, that is the adjective, inconsiderate.",
+        "The hallway.",
+        "(Exiting the apartment)",
+        "(Inside)",
         "Oh, hey Leonard.",
         "Oh, hi.",
         "So, how's it going?",
@@ -1016,10 +1140,12 @@
         "Leonard?",
         "Yeah.",
         "I still don't care.",
+        "Leonard and Lesley\u2019s lab.",
         "Hey, Lesley.",
         "Careful\u00a0 Leonard, liquid nitrogen, 320 degrees below zero.",
         "Brrrr. Why are you smashing a flash frozen banana.",
         "Because I\u2019ve got a bowl of Cheerios and I couldn't find a knife.",
+        "(puts arms around her)",
         "Uh, what are you doing?",
         "Just extending the intimacy. Do you want to slip over to the radiation lab and share a decontamination shower?",
         "Okay, uh, what exactly do you think's going on between us?",
@@ -1033,6 +1159,7 @@
         "Thank you!",
         "You want to make plans for New Years.",
         "Woah, Leonard, please, you're smothering me.",
+        "(Leaving)",
         "Hey, look, it's Doctor Stud!",
         "Doctor what?",
         "The blogosphere is a-buzzing with news of you and Lesley Winkle making eine kleine bang-bang music.",
@@ -1041,6 +1168,7 @@
         "Well, how did you know about it?",
         "A little bird told us. Apparently you are a magnificent beast.",
         "Well, that part's true!",
+        "The Cheesecake Factory.",
         "You know, I think I may have misjudged this restaurant.",
         "No kidding.",
         "I won't go out on a limb, but I think we may be looking at my new Tuesday hamburger.",
@@ -1054,9 +1182,11 @@
         "Who do I speak to about permanently reserving this table?",
         "Um, I don't know, a psychiatrist? So hey, how are things with you and Lesley?",
         "Oh, to be honest, I don't think it's going to work out.",
+        "(Walks away smiling)",
         "Well what did she mean by that? Was that just a generic platitude or was that a subtle bid for attention?",
         "You know why this hamburger surpasses the Big Boy? This is a single decker hamburger whereas the Big Boy is a double decker. This has a much more satisfying meat to bun to condiment ratio.",
         "Are you even listening to me?",
-        "Of course I'm listening. Blah blah, hopeless Penny delusion, blah blah blah."
+        "Of course I'm listening. Blah blah, hopeless Penny delusion, blah blah blah.",
+        "(Sheldon nods)"
     ]
 }

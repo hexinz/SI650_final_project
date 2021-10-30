@@ -1,6 +1,6 @@
 {
     "Season": 1,
-    "Episode": 16,
+    "Episode": 9,
     "Title": "The_Cooper-Hofstadter_Polarization",
     "Actor2Line": {
         "Leonard": [
@@ -9,815 +9,992 @@
                 "Okay, the X10s are online."
             ],
             [
-                6,
+                10,
                 "Hang on, hang on, do you not realize what we just did."
             ],
             [
-                10,
+                14,
                 "No, no, no, you don't get it, um, Howard, enable public access."
             ],
             [
                 17,
+                "(The lamp goes off and on again.)"
+            ],
+            [
+                24,
                 "Wireless webcams, wave hello."
             ],
             [
-                20,
+                28,
                 "Who's running the red Corvette?"
             ],
             [
-                27,
+                36,
                 "Sheldon, why is this letter in the trash?"
             ],
             [
-                29,
+                38,
                 "It's from the Institute for Experimental Physics. They want us to present our paper on the properties of super solids at the topical conference on Bowes-Einstein condensates."
             ],
             [
-                31,
+                40,
                 "Okay... if I may drill down to the bedrock of my question, why did you throw it out."
             ],
             [
-                34,
+                43,
                 "Forget the parties."
             ],
             [
-                36,
+                45,
                 "Are there any other honors I\u2019ve gotten that I don't know about? Did UPS drop off a Nobel Prize with my name on it?"
             ],
             [
-                40,
+                49,
                 "Shut up, Howard. Sheldon, we have to do this."
             ],
             [
-                42,
+                51,
                 "Okay, let me put it this way, I'm doing it."
             ],
             [
-                44,
+                53,
                 "Oh, come on. The only reason you're the lead author is because we went alphabetically."
             ],
             [
-                46,
+                55,
                 "Excuse me, I designed the experiment that proved the hypothesis."
             ],
             [
-                48,
+                57,
                 "So the entire scientific community is just supposed to take your word?"
             ],
             [
-                50,
+                59,
                 "Alright, I don't care what you say, I'm going to the conference and I'm presenting our findings."
             ],
             [
-                52,
+                61,
                 "You forbid it?"
             ],
             [
-                54,
+                63,
                 "Oh, you admit that it's our work."
             ],
             [
-                56,
+                65,
                 "Ah!"
             ],
             [
-                60,
+                69,
+                "(Put\u2019s fingers to head)"
+            ],
+            [
+                71,
                 "They don't, that's why I saved this one."
             ],
             [
-                62,
+                73,
                 "Is this all stuff you want me to try on?"
             ],
             [
-                64,
+                75,
                 "Oh."
             ],
             [
-                66,
+                77,
                 "Oh, that's the bottled city of Kandor."
             ],
             [
-                68,
+                79,
                 "You see, Kandor was the capital city of the planet Krypton, it was miniaturised by Brainiac before Krypton exploded and then rescued by Superman."
             ],
             [
-                70,
+                81,
                 "It's a lot cooler when girls aren't looking at it."
             ],
             [
-                72,
+                83,
                 "Great, be right back."
             ],
             [
-                74,
+                85,
                 "Here?"
             ],
             [
-                76,
+                87,
                 "No, I'm not shy."
             ],
             [
-                78,
+                89,
                 "I know you won't look, why would you look, there's nothing to see, well, not nothing...."
             ],
             [
-                80,
+                91,
                 "Putting them on."
             ],
             [
-                82,
+                93,
                 "No. No. Scientists do not compromise. Our minds are trained to synthesize facts and come to inarguable conclusions. Not to mention, Sheldon is batcrap crazy."
             ],
             [
-                85,
+                96,
                 "Because it's not a costume, it's a flight suit."
             ],
             [
-                87,
+                98,
                 "Uh-huh, it goes with my corduroy suit."
             ],
             [
-                89,
+                100,
                 "Ah. Technically yes, but, if you'll notice, it's reversible. So it works as two."
             ],
             [
-                91,
+                102,
                 "Yeah. Everything since the eighth grade."
             ],
             [
-                93,
+                104,
                 "My last growth spurt."
             ],
             [
-                95,
+                106,
                 "Great."
             ],
             [
-                125,
-                "Okay, I'm leaving for the conference."
-            ],
-            [
-                127,
-                "Sheldon I didn't mean it like that."
-            ],
-            [
-                129,
-                "I don't know, I wasn't choosing my..."
-            ],
-            [
-                131,
-                "No, no not at all. A little bit."
-            ],
-            [
-                134,
-                "Okay, I'm going to ask you one more time, we did the work together, lets present the paper together."
-            ],
-            [
-                136,
-                "Let's go."
-            ],
-            [
-                139,
-                "You're right, this side does look better."
+                140,
+                "(Coming out of apartment)"
             ],
             [
                 142,
-                "You're kidding."
+                "(Sheldon goes into apartment and slams the door)"
             ],
             [
-                144,
-                "All? In particle physics, twenty five is Woodstock."
+                145,
+                "Okay, I'm leaving for the conference."
             ],
             [
-                146,
-                "I wasn't expecting such a crowd, I'm a little nervous."
+                147,
+                "Sheldon I didn't mean it like that."
             ],
             [
-                150,
-                "It's a classic, right?"
+                149,
+                "I don't know, I wasn't choosing my..."
             ],
             [
-                153,
-                "Any other questions?"
-            ],
-            [
-                154,
-                "I didn't skip it, it's just an anecdote. It's not science."
-            ],
-            [
-                156,
-                "You are not Isaac Newton."
-            ],
-            [
-                158,
-                "You cannot possibly be that arrogant."
-            ],
-            [
-                160,
-                "Look, if you weren't happy with my presentation then maybe you should have given it with me."
-            ],
-            [
-                162,
-                "Really, so why did you come?"
-            ],
-            [
-                164,
-                "I didn't screw it up."
-            ],
-            [
-                166,
-                "I\u2019ve had enough of your condescension. Maybe I didn't go to college when I was eleven like you, maybe I got my doctorate at 24 instead of 16, but you are not the only person who is smarter than everyone else in this room. No offense. And I am clearly not the only person who is tormented by insecurity and has an ego in need of constant validation."
-            ],
-            [
-                168,
-                "You cannot blow up my head with your mind."
-            ],
-            [
-                171,
-                "You were trying to blow up my head."
-            ],
-            [
-                173,
-                "It wasn't, it was not, you are a nutcase."
-            ],
-            [
-                177,
-                "You're lucky I didn't run you over."
-            ],
-            [
-                179,
-                "You're right, I'm the problem, I'm the one that needs help."
-            ],
-            [
-                181,
-                "Excuse me. Is there anything you'd like to apologize for?"
-            ],
-            [
-                184,
-                "What?"
-            ],
-            [
-                186,
-                "Oh jeez. Is this suit really look that bad?"
-            ]
-        ],
-        "Sheldon": [
-            [
-                1,
-                "Look at me, look at me, I\u2019ve got goosebumps."
-            ],
-            [
-                8,
-                "No, we turned our stereo down by sending a signal around the world via the internet."
-            ],
-            [
-                13,
-                "Someone in Sezchuan province, China is using his computer to turn our lights on and off."
-            ],
-            [
-                15,
-                "They found the remote controlled cars."
-            ],
-            [
-                19,
-                "You may want to put on slacks."
-            ],
-            [
-                22,
-                "You know, in the future, when we\u2019re disembodied brains in jars, we\u2019re going to look back on this as eight hours well wasted."
-            ],
-            [
-                26,
-                "Not to mention you'd have to power down on Saturdays."
-            ],
-            [
-                28,
-                "Well, there's always the possibility that a trash can spontaneously formed around the letter, but Occam's Razor would suggest that someone threw it out."
-            ],
-            [
-                30,
-                "I know. I read it before I threw it out."
-            ],
-            [
-                32,
-                "Because I have no interest in standing in the Rose Room of the Pasadena Marriott in front of a group of judgmental strangers, who wouldn't recognize true genius if it were standing in front of them giving a speech. Which, if I were there, it would be."
-            ],
-            [
-                37,
-                "Leonard, please don't take this the wrong way, but the day you win a Nobel Prize, is the day I begin my research on the drag co-efficient of tassles on flying carpets."
-            ],
-            [
-                41,
-                "No we don't. We have to take in nourishment, expel waste, and inhale enough oxygen to keep ourselves from dying, everything else is optional."
-            ],
-            [
-                43,
-                "You can't. I'm the lead author."
-            ],
-            [
-                45,
-                "I let you think we went alphabetically to spare you the humiliation of dealing with the fact that it was my idea. Not to put too fine a point on it, but I was throwing you a bone. You're welcome."
-            ],
-            [
-                47,
-                "It doesn't need proving."
-            ],
-            [
-                49,
-                "They're not supposed to, but they should."
-            ],
-            [
-                51,
-                "And I forbid it."
-            ],
-            [
-                53,
-                "If I'm not taking credit for our work then nobody is."
-            ],
-            [
-                55,
-                "No, once again, I'm throwing you a bone. And once again, you are welcome."
-            ],
-            [
-                98,
-                "Uh, just the latest copy of Applied Particle Physics Quarterly."
-            ],
-            [
-                99,
-                "Penny, just to save you from further awkwardness know that I'm perfectly comfortable with the two of us climbing the stairs in silence."
-            ],
-            [
-                100,
-                "Oh dear God!"
-            ],
-            [
-                102,
-                "A little misunder.... Galileo and the Pope had a little misunderstanding."
-            ],
-            [
-                104,
-                "Huh."
-            ],
-            [
-                106,
-                "I don't understand the question."
-            ],
-            [
-                108,
-                "Oh. I hadn't thought about it like that. I wonder if I\u2019ve been experiencing physiological manifestations of some sort of unconscious emotional turmoil."
-            ],
-            [
-                110,
-                "I couldn't poop this morning."
-            ],
-            [
-                112,
-                "It's certainly preferable to my plan."
-            ],
-            [
-                114,
-                "A powerful laxative."
-            ],
-            [
-                116,
-                "Excuse me, little idea?"
-            ],
-            [
-                118,
-                "Of course you didn't, he said little idea?"
-            ],
-            [
-                120,
-                "In what words then, exactly"
-            ],
-            [
-                122,
-                "What did he say?"
-            ],
-            [
-                124,
-                "Don't you ever speak to me again."
-            ],
-            [
-                126,
-                "Have fun presenting my lucky hunch."
-            ],
-            [
-                128,
-                "Then why did you say it."
-            ],
-            [
-                130,
-                "Were you trying to impress Penny?"
-            ],
-            [
-                132,
-                "How\u2019d that work out for you?"
-            ],
-            [
-                133,
-                "Libido 1, truth zero."
-            ],
-            [
-                135,
-                "And I'm telling you for the last time it's pandering, it's undignified and bite me."
+                151,
+                "No, no not at all. A little bit."
             ],
             [
                 155,
-                "Oh, I see, was the apple falling on Newton's head, was that just an anecdote?"
+                "Okay, I'm going to ask you one more time, we did the work together, lets present the paper together."
             ],
             [
                 157,
-                "No, no that's true, gravity would have been apparent to me without the apple."
+                "Let's go."
             ],
             [
-                159,
-                "You continue to underestimate me, my good man."
-            ],
-            [
-                161,
-                "As I have explained repeatedly, unlike you, I don't need validation from lesser minds. No offence."
-            ],
-            [
-                163,
-                "Because I knew you'd screw this up."
+                162,
+                "You're right, this side does look better."
             ],
             [
                 165,
-                "Oh, please. I admit, that spherical chicken joke, that was hilarious. But it was straight downhill from there."
+                "You're kidding."
             ],
             [
                 167,
-                "So you admit that you're an egotist?"
+                "All? In particle physics, twenty five is Woodstock."
             ],
             [
                 169,
-                "Then I'll settle for an aneurysm."
+                "I wasn't expecting such a crowd, I'm a little nervous."
             ],
             [
-                170,
-                "You hit me. You saw him, he hit me."
+                171,
+                "(Raj and Howard laugh.)"
             ],
             [
-                172,
-                "So it was working."
+                174,
+                "It's a classic, right?"
             ],
             [
-                176,
-                "You could have offered me a ride home."
+                177,
+                "(Applause)"
             ],
             [
-                178,
-                "I really don't understand what you're so unhappy about, you begged me to come, I came, there's just no pleasing you."
+                179,
+                "Any other questions?"
             ],
             [
-                180,
-                "Well that's not much of an apology, but I'll take it."
+                181,
+                "I didn't skip it, it's just an anecdote. It's not science."
             ],
             [
-                182,
-                "Yes. I'm sorry I tried to blow up your head. It was uncalled for."
+                183,
+                "You are not Isaac Newton."
             ],
             [
                 185,
-                "Now, who would do that?"
+                "You cannot possibly be that arrogant."
             ],
             [
                 187,
-                "Forget your suit, look at my arms waving, I'm like a flamingo on Ritalin."
+                "Look, if you weren't happy with my presentation then maybe you should have given it with me."
+            ],
+            [
+                189,
+                "Really, so why did you come?"
+            ],
+            [
+                191,
+                "I didn't screw it up."
+            ],
+            [
+                193,
+                "I\u2019ve had enough of your condescension. Maybe I didn't go to college when I was eleven like you, maybe I got my doctorate at 24 instead of 16, but you are not the only person who is smarter than everyone else in this room. No offense. And I am clearly not the only person who is tormented by insecurity and has an ego in need of constant validation."
+            ],
+            [
+                195,
+                "(To audience)"
+            ],
+            [
+                197,
+                "You cannot blow up my head with your mind."
+            ],
+            [
+                199,
+                "(Knocking his hands down)"
+            ],
+            [
+                201,
+                "You were trying to blow up my head."
+            ],
+            [
+                203,
+                "It wasn't, it was not, you are a nutcase."
+            ],
+            [
+                205,
+                "(They start to fight.)"
+            ],
+            [
+                208,
+                "(Getting Sheldon on floor)"
+            ],
+            [
+                211,
+                "You're lucky I didn't run you over."
+            ],
+            [
+                213,
+                "You're right, I'm the problem, I'm the one that needs help."
+            ],
+            [
+                215,
+                "Excuse me. Is there anything you'd like to apologize for?"
+            ],
+            [
+                219,
+                "What?"
+            ],
+            [
+                222,
+                "Oh jeez. Is this suit really look that bad?"
             ]
         ],
         "Howard": [
             [
-                2,
+                1,
+                "(clicks mouse, lamp switches on)"
+            ],
+            [
+                3,
                 "Are we ready on the stereo?"
             ],
             [
-                18,
+                8,
+                "(Using mouse again)"
+            ],
+            [
+                15,
+                "(They all stare around for a moment in silence.)"
+            ],
+            [
+                25,
                 "The monster truck is out of Austin, Texas, and the blue Viper is being operated from suburban Tel Aviv."
             ],
             [
-                21,
+                29,
                 "That would be me."
             ],
             [
-                24,
+                33,
                 "I'm with you. I just have to make sure if I'm a synthetic human I'd still be Jewish. I promised my mother."
             ],
             [
-                33,
+                42,
                 "I don't know, Sheldon, those topical conferences on Bowes-Einstein condensates parties are legendary."
             ],
             [
-                35,
+                44,
                 "Forget the parties? What a nerd."
             ],
             [
-                39,
+                48,
                 "I\u2019ve got one, hey Leonard, your mamma's research methodology is so flawed...."
             ],
             [
-                57,
+                66,
                 "Oh no he dit\u2019nt!"
             ],
             [
-                141,
+                164,
                 "I just checked the house, there's probably twenty, twenty-five people in there."
             ],
             [
-                147,
+                170,
                 "It's okay, just open with a joke, you'll be fine."
             ],
             [
-                149,
+                173,
                 "Let's roll. Hey, nice suit."
             ],
             [
-                175,
+                207,
                 "More often than you'd think."
             ],
             [
-                188,
+                217,
+                "(Entering with Raj)"
+            ],
+            [
+                221,
+                "(They watch)"
+            ],
+            [
+                225,
                 "Uh-oh, here comes \u201cthe talk.\u201d"
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Look at me, look at me, I\u2019ve got goosebumps."
+            ],
+            [
+                12,
+                "No, we turned our stereo down by sending a signal around the world via the internet."
+            ],
+            [
+                19,
+                "Someone in Sezchuan province, China is using his computer to turn our lights on and off."
+            ],
+            [
+                22,
+                "They found the remote controlled cars."
+            ],
+            [
+                26,
+                "You may want to put on slacks."
+            ],
+            [
+                31,
+                "You know, in the future, when we\u2019re disembodied brains in jars, we\u2019re going to look back on this as eight hours well wasted."
+            ],
+            [
+                35,
+                "Not to mention you'd have to power down on Saturdays."
+            ],
+            [
+                37,
+                "Well, there's always the possibility that a trash can spontaneously formed around the letter, but Occam's Razor would suggest that someone threw it out."
+            ],
+            [
+                39,
+                "I know. I read it before I threw it out."
+            ],
+            [
+                41,
+                "Because I have no interest in standing in the Rose Room of the Pasadena Marriott in front of a group of judgmental strangers, who wouldn't recognize true genius if it were standing in front of them giving a speech. Which, if I were there, it would be."
+            ],
+            [
+                46,
+                "Leonard, please don't take this the wrong way, but the day you win a Nobel Prize, is the day I begin my research on the drag co-efficient of tassles on flying carpets."
+            ],
+            [
+                50,
+                "No we don't. We have to take in nourishment, expel waste, and inhale enough oxygen to keep ourselves from dying, everything else is optional."
+            ],
+            [
+                52,
+                "You can't. I'm the lead author."
+            ],
+            [
+                54,
+                "I let you think we went alphabetically to spare you the humiliation of dealing with the fact that it was my idea. Not to put too fine a point on it, but I was throwing you a bone. You're welcome."
+            ],
+            [
+                56,
+                "It doesn't need proving."
+            ],
+            [
+                58,
+                "They're not supposed to, but they should."
+            ],
+            [
+                60,
+                "And I forbid it."
+            ],
+            [
+                62,
+                "If I'm not taking credit for our work then nobody is."
+            ],
+            [
+                64,
+                "No, once again, I'm throwing you a bone. And once again, you are welcome."
+            ],
+            [
+                110,
+                "(Unlocking his mailbox)"
+            ],
+            [
+                112,
+                "Uh, just the latest copy of Applied Particle Physics Quarterly."
+            ],
+            [
+                114,
+                "Penny, just to save you from further awkwardness know that I'm perfectly comfortable with the two of us climbing the stairs in silence."
+            ],
+            [
+                116,
+                "Oh dear God!"
+            ],
+            [
+                118,
+                "A little misunder.... Galileo and the Pope had a little misunderstanding."
+            ],
+            [
+                120,
+                "Huh."
+            ],
+            [
+                122,
+                "I don't understand the question."
+            ],
+            [
+                124,
+                "Oh. I hadn't thought about it like that. I wonder if I\u2019ve been experiencing physiological manifestations of some sort of unconscious emotional turmoil."
+            ],
+            [
+                126,
+                "I couldn't poop this morning."
+            ],
+            [
+                128,
+                "It's certainly preferable to my plan."
+            ],
+            [
+                130,
+                "A powerful laxative."
+            ],
+            [
+                132,
+                "Excuse me, little idea?"
+            ],
+            [
+                134,
+                "Of course you didn't, he said little idea?"
+            ],
+            [
+                136,
+                "In what words then, exactly"
+            ],
+            [
+                138,
+                "What did he say?"
+            ],
+            [
+                141,
+                "Don't you ever speak to me again."
+            ],
+            [
+                146,
+                "Have fun presenting my lucky hunch."
+            ],
+            [
+                148,
+                "Then why did you say it."
+            ],
+            [
+                150,
+                "Were you trying to impress Penny?"
+            ],
+            [
+                152,
+                "How\u2019d that work out for you?"
+            ],
+            [
+                154,
+                "Libido 1, truth zero."
+            ],
+            [
+                156,
+                "And I'm telling you for the last time it's pandering, it's undignified and bite me."
+            ],
+            [
+                159,
+                "(Places fingers to head to try to make Leonard\u2019s brain explode. Leonard leaves.)"
+            ],
+            [
+                180,
+                "(Who previously spoke, now removing his hood and dark glasses)"
+            ],
+            [
+                182,
+                "Oh, I see, was the apple falling on Newton's head, was that just an anecdote?"
+            ],
+            [
+                184,
+                "No, no that's true, gravity would have been apparent to me without the apple."
+            ],
+            [
+                186,
+                "You continue to underestimate me, my good man."
+            ],
+            [
+                188,
+                "As I have explained repeatedly, unlike you, I don't need validation from lesser minds. No offence."
+            ],
+            [
+                190,
+                "Because I knew you'd screw this up."
+            ],
+            [
+                192,
+                "Oh, please. I admit, that spherical chicken joke, that was hilarious. But it was straight downhill from there."
+            ],
+            [
+                194,
+                "So you admit that you're an egotist?"
+            ],
+            [
+                196,
+                "(Tries to explode brain again.)"
+            ],
+            [
+                198,
+                "Then I'll settle for an aneurysm."
+            ],
+            [
+                200,
+                "You hit me. You saw him, he hit me."
+            ],
+            [
+                202,
+                "So it was working."
+            ],
+            [
+                204,
+                "(tries again)"
+            ],
+            [
+                210,
+                "You could have offered me a ride home."
+            ],
+            [
+                212,
+                "I really don't understand what you're so unhappy about, you begged me to come, I came, there's just no pleasing you."
+            ],
+            [
+                214,
+                "Well that's not much of an apology, but I'll take it."
+            ],
+            [
+                216,
+                "Yes. I'm sorry I tried to blow up your head. It was uncalled for."
+            ],
+            [
+                220,
+                "Now, who would do that?"
+            ],
+            [
+                223,
+                "Forget your suit, look at my arms waving, I'm like a flamingo on Ritalin."
             ]
         ],
         "Raj": [
             [
-                3,
+                4,
                 "Go for stereo."
             ],
             [
-                23,
+                32,
                 "I don't want to be in a jar. I want my brain in an android body. Eight feet tall and ripped."
             ],
             [
-                25,
+                34,
                 "I suppose you could have your android penis circumcised. But that's something your Rabbi would have to discuss with the manufacturers."
             ],
             [
-                38,
+                47,
                 "Hoo-hoo-hoo. The only thing missing from that insult was \u201cyo mamma.\u201d"
             ],
             [
-                183,
+                218,
                 "Somebody got the whole thing on a cell phone and put it on YouTube."
             ]
         ],
         "Penny": [
             [
-                4,
-                "It's a little loud."
-            ],
-            [
                 5,
-                "Okay, thanks."
+                "(Entering)"
             ],
             [
                 7,
-                "Yeah, you turned your stereo down with your laptop."
+                "It's a little loud."
             ],
             [
                 9,
-                "Oh. You know you can just get one of those universal remotes at Radio Shack, they're really cheap."
+                "Okay, thanks."
             ],
             [
                 11,
-                "Boy, that's brilliant, but I'll see you."
+                "Yeah, you turned your stereo down with your laptop."
             ],
             [
-                12,
-                "No."
-            ],
-            [
-                14,
-                "Huh, well that's handy. Um, here's a question, why?"
+                13,
+                "Oh. You know you can just get one of those universal remotes at Radio Shack, they're really cheap."
             ],
             [
                 16,
+                "Boy, that's brilliant, but I'll see you."
+            ],
+            [
+                18,
+                "No."
+            ],
+            [
+                20,
+                "Huh, well that's handy. Um, here's a question, why?"
+            ],
+            [
+                23,
                 "Well, wait, wait, what's on top of them."
             ],
             [
-                58,
+                27,
+                "(Seeing red car is trying to get between her legs)"
+            ],
+            [
+                68,
                 "So, how's it going with Sheldon, are you guys still not talking to each other?"
             ],
             [
-                59,
+                70,
                 "Oh, hey, I didn't know they still made corduroy suits!"
             ],
             [
-                61,
+                72,
                 "Okay, well, let's just see what else you have. Okay, here, take this, and this, and this, and these."
             ],
             [
-                63,
+                74,
                 "No, this is stuff I want you to throw out."
             ],
             [
-                65,
+                76,
                 "Seriously, don't even give it to charity, you won't be helping anyone. What's this."
             ],
             [
-                67,
+                78,
                 "Uh-huh."
             ],
             [
-                69,
+                80,
                 "Oh, nice."
             ],
             [
-                71,
+                82,
                 "Here, why don't you put these on while I find a shirt and sport-coat to match."
             ],
             [
-                73,
+                84,
                 "Well, where you going, just put them on."
             ],
             [
-                75,
+                86,
                 "Oh, are you shy?"
             ],
             [
-                77,
+                88,
                 "Don't worry, I won't look."
             ],
             [
-                79,
+                90,
                 "Sweetie, put the pants on."
             ],
             [
-                81,
+                92,
                 "So, you know, isn't there maybe some way you and Sheldon could compromise on this whole presentation thing."
             ],
             [
-                83,
+                94,
                 "What is this?"
             ],
             [
-                84,
+                95,
                 "Oh, why didn't you wear it at Halloween?"
             ],
             [
-                86,
+                97,
                 "Okay, alright, moving on, oh, wow, a paisley shirt."
             ],
             [
-                88,
+                99,
                 "If you mean it should end up in the same place then, I agree. Is this your... your only tie?"
             ],
             [
-                90,
+                101,
                 "Oh, sweetie, I don't think it even works as one. Is this all your clothes?"
             ],
             [
-                92,
+                103,
                 "The... the eighth grade?"
             ],
             [
-                94,
+                105,
                 "Okay, well, I guess we\u2019re back to the corduroy suit."
             ],
             [
-                96,
-                "Hey Sheldon!"
-            ],
-            [
-                97,
-                "Get anything good?"
-            ],
-            [
-                101,
-                "Little misunderstanding, huh."
-            ],
-            [
-                103,
-                "Anyway, I was talking to Leonard this morning and I think he feels really bad about it."
-            ],
-            [
-                105,
-                "Well how do you feel?"
-            ],
-            [
                 107,
-                "Well I'm just asking if it's difficult to be fighting with your best friend."
+                "(Leonard picks up paisley shirt)"
             ],
             [
                 109,
-                "Wait... what?"
+                "Hey Sheldon!"
             ],
             [
                 111,
-                "You should just talk to him, I'm sure you guys can work this out."
+                "Get anything good?"
             ],
             [
                 113,
-                "Which was?"
+                "(Sheldon looks confused)"
             ],
             [
                 115,
-                "Okay, so you absolutely should talk to him, look, I know Leonard values you as a friend, and he told me himself that without your little idea there's no way he could have come up with this whole experiment thing."
+                "(The begin to climb)"
             ],
             [
                 117,
-                "Yeah, I mean he tried to explain it to me, I didn't really understand it but..."
+                "Little misunderstanding, huh."
             ],
             [
                 119,
-                "Uh, well no, no, not in... not in those words."
+                "Anyway, I was talking to Leonard this morning and I think he feels really bad about it."
             ],
             [
                 121,
-                "Um, gee, the exact words aren't written... it's more the spirit in which it's"
+                "Well how do you feel?"
             ],
             [
                 123,
-                "You had a lucky hunch."
+                "Well I'm just asking if it's difficult to be fighting with your best friend."
+            ],
+            [
+                125,
+                "Wait... what?"
+            ],
+            [
+                127,
+                "You should just talk to him, I'm sure you guys can work this out."
+            ],
+            [
+                129,
+                "Which was?"
+            ],
+            [
+                131,
+                "Okay, so you absolutely should talk to him, look, I know Leonard values you as a friend, and he told me himself that without your little idea there's no way he could have come up with this whole experiment thing."
+            ],
+            [
+                133,
+                "Yeah, I mean he tried to explain it to me, I didn't really understand it but..."
+            ],
+            [
+                135,
+                "Uh, well no, no, not in... not in those words."
             ],
             [
                 137,
-                "Bye Sheldon."
+                "Um, gee, the exact words aren't written... it's more the spirit in which it's"
             ],
             [
-                138,
-                "There you go."
-            ],
-            [
-                140,
-                "No, no, I didn't say better, I said less stained."
+                139,
+                "You had a lucky hunch."
             ],
             [
                 143,
+                "(makes \u201che\u2019s screwy\u201d hand movements, turns to go)"
+            ],
+            [
+                153,
+                "(Entering)"
+            ],
+            [
+                158,
+                "Bye Sheldon."
+            ],
+            [
+                161,
+                "There you go."
+            ],
+            [
+                163,
+                "No, no, I didn't say better, I said less stained."
+            ],
+            [
+                166,
                 "Is that all?"
             ],
             [
-                145,
+                168,
                 "Oh, well, then good!"
             ],
             [
-                148,
+                172,
                 "Oh, sorry, I\u2019ve just, I\u2019ve heard it before."
             ],
             [
-                151,
+                175,
                 "I really should have brought my own car."
             ],
             [
-                174,
+                206,
                 "Is this usually how these physics things go?"
+            ],
+            [
+                224,
+                "(Entering)"
+            ]
+        ],
+        "All": [
+            [
+                6,
+                "(calming down, embarrassed)"
+            ]
+        ],
+        "All together": [
+            [
+                21,
+                "(There is a loud noise)"
+            ]
+        ],
+        "Scene": [
+            [
+                30,
+                "Apartment 4A, clearing up."
+            ],
+            [
+                67,
+                "Leonard\u2019s bedroom. Penny is looking through his closet."
+            ],
+            [
+                108,
+                "The ground floor hallway."
+            ],
+            [
+                144,
+                "The apartment. Leonard is dressed in the corduroy suit."
+            ],
+            [
+                160,
+                "A corridor at the conference. Penny is attaching Leonard\u2019s name tag."
+            ],
+            [
+                176,
+                "Leonard is presenting."
+            ],
+            [
+                209,
+                "Aparment 4A"
+            ],
+            [
+                226,
+                "Captioned \u201cSomewhere in China\u201d, two Chinese students watch the video on their computer."
             ]
         ],
         "Voice": [
             [
-                152,
+                178,
                 "Yeah. What the hell was that?"
             ]
         ],
         "Student one": [
             [
-                189,
+                227,
+                "(In captions)"
+            ],
+            [
+                229,
                 "Who's doing that?"
             ]
         ],
         "Student two": [
             [
-                190,
+                228,
+                "(The lights flicker)"
+            ],
+            [
+                230,
                 "Someone from Pasadena, California named... \u201cWolowizard.\u201d"
             ]
         ],
         "Together": [
             [
-                191,
+                231,
                 "Awesome!"
             ]
         ]
     },
     "Actor2Profile": {
         "Leonard": "/wiki/Leonard_Hofstadter",
+        "Howard": "/wiki/Howard_Wolowitz",
         "Sheldon": "/wiki/Sheldon_Cooper",
-        "Raj": "/wiki/Rajesh_Koothrappali"
+        "Raj": "/wiki/Rajesh_Koothrappali",
+        "Penny": "/wiki/Penny"
     },
     "AllLines": [
         "Okay, the X10s are online.",
+        "(clicks mouse, lamp switches on)",
         "Look at me, look at me, I\u2019ve got goosebumps.",
         "Are we ready on the stereo?",
         "Go for stereo.",
+        "(Entering)",
+        "(calming down, embarrassed)",
         "It's a little loud.",
+        "(Using mouse again)",
         "Okay, thanks.",
         "Hang on, hang on, do you not realize what we just did.",
         "Yeah, you turned your stereo down with your laptop.",
         "No, we turned our stereo down by sending a signal around the world via the internet.",
         "Oh. You know you can just get one of those universal remotes at Radio Shack, they're really cheap.",
         "No, no, no, you don't get it, um, Howard, enable public access.",
+        "(They all stare around for a moment in silence.)",
         "Boy, that's brilliant, but I'll see you.",
+        "(The lamp goes off and on again.)",
         "No.",
         "Someone in Sezchuan province, China is using his computer to turn our lights on and off.",
         "Huh, well that's handy. Um, here's a question, why?",
+        "(There is a loud noise)",
         "They found the remote controlled cars.",
         "Well, wait, wait, what's on top of them.",
         "Wireless webcams, wave hello.",
         "The monster truck is out of Austin, Texas, and the blue Viper is being operated from suburban Tel Aviv.",
         "You may want to put on slacks.",
+        "(Seeing red car is trying to get between her legs)",
         "Who's running the red Corvette?",
         "That would be me.",
+        "Apartment 4A, clearing up.",
         "You know, in the future, when we\u2019re disembodied brains in jars, we\u2019re going to look back on this as eight hours well wasted.",
         "I don't want to be in a jar. I want my brain in an android body. Eight feet tall and ripped.",
         "I'm with you. I just have to make sure if I'm a synthetic human I'd still be Jewish. I promised my mother.",
@@ -854,7 +1031,9 @@
         "No, once again, I'm throwing you a bone. And once again, you are welcome.",
         "Ah!",
         "Oh no he dit\u2019nt!",
+        "Leonard\u2019s bedroom. Penny is looking through his closet.",
         "So, how's it going with Sheldon, are you guys still not talking to each other?",
+        "(Put\u2019s fingers to head)",
         "Oh, hey, I didn't know they still made corduroy suits!",
         "They don't, that's why I saved this one.",
         "Okay, well, let's just see what else you have. Okay, here, take this, and this, and this, and these.",
@@ -892,10 +1071,15 @@
         "My last growth spurt.",
         "Okay, well, I guess we\u2019re back to the corduroy suit.",
         "Great.",
+        "(Leonard picks up paisley shirt)",
+        "The ground floor hallway.",
         "Hey Sheldon!",
+        "(Unlocking his mailbox)",
         "Get anything good?",
         "Uh, just the latest copy of Applied Particle Physics Quarterly.",
+        "(Sheldon looks confused)",
         "Penny, just to save you from further awkwardness know that I'm perfectly comfortable with the two of us climbing the stairs in silence.",
+        "(The begin to climb)",
         "Oh dear God!",
         "Little misunderstanding, huh.",
         "A little misunder.... Galileo and the Pope had a little misunderstanding.",
@@ -920,7 +1104,11 @@
         "Um, gee, the exact words aren't written... it's more the spirit in which it's",
         "What did he say?",
         "You had a lucky hunch.",
+        "(Coming out of apartment)",
         "Don't you ever speak to me again.",
+        "(Sheldon goes into apartment and slams the door)",
+        "(makes \u201che\u2019s screwy\u201d hand movements, turns to go)",
+        "The apartment. Leonard is dressed in the corduroy suit.",
         "Okay, I'm leaving for the conference.",
         "Have fun presenting my lucky hunch.",
         "Sheldon I didn't mean it like that.",
@@ -929,11 +1117,14 @@
         "Were you trying to impress Penny?",
         "No, no not at all. A little bit.",
         "How\u2019d that work out for you?",
+        "(Entering)",
         "Libido 1, truth zero.",
         "Okay, I'm going to ask you one more time, we did the work together, lets present the paper together.",
         "And I'm telling you for the last time it's pandering, it's undignified and bite me.",
         "Let's go.",
         "Bye Sheldon.",
+        "(Places fingers to head to try to make Leonard\u2019s brain explode. Leonard leaves.)",
+        "A corridor at the conference. Penny is attaching Leonard\u2019s name tag.",
         "There you go.",
         "You're right, this side does look better.",
         "No, no, I didn't say better, I said less stained.",
@@ -944,12 +1135,16 @@
         "Oh, well, then good!",
         "I wasn't expecting such a crowd, I'm a little nervous.",
         "It's okay, just open with a joke, you'll be fine.",
+        "(Raj and Howard laugh.)",
         "Oh, sorry, I\u2019ve just, I\u2019ve heard it before.",
         "Let's roll. Hey, nice suit.",
         "It's a classic, right?",
         "I really should have brought my own car.",
+        "Leonard is presenting.",
+        "(Applause)",
         "Yeah. What the hell was that?",
         "Any other questions?",
+        "(Who previously spoke, now removing his hood and dark glasses)",
         "I didn't skip it, it's just an anecdote. It's not science.",
         "Oh, I see, was the apple falling on Newton's head, was that just an anecdote?",
         "You are not Isaac Newton.",
@@ -964,14 +1159,21 @@
         "Oh, please. I admit, that spherical chicken joke, that was hilarious. But it was straight downhill from there.",
         "I\u2019ve had enough of your condescension. Maybe I didn't go to college when I was eleven like you, maybe I got my doctorate at 24 instead of 16, but you are not the only person who is smarter than everyone else in this room. No offense. And I am clearly not the only person who is tormented by insecurity and has an ego in need of constant validation.",
         "So you admit that you're an egotist?",
+        "(To audience)",
+        "(Tries to explode brain again.)",
         "You cannot blow up my head with your mind.",
         "Then I'll settle for an aneurysm.",
+        "(Knocking his hands down)",
         "You hit me. You saw him, he hit me.",
         "You were trying to blow up my head.",
         "So it was working.",
         "It wasn't, it was not, you are a nutcase.",
+        "(tries again)",
+        "(They start to fight.)",
         "Is this usually how these physics things go?",
         "More often than you'd think.",
+        "(Getting Sheldon on floor)",
+        "Aparment 4A",
         "You could have offered me a ride home.",
         "You're lucky I didn't run you over.",
         "I really don't understand what you're so unhappy about, you begged me to come, I came, there's just no pleasing you.",
@@ -979,12 +1181,18 @@
         "Well that's not much of an apology, but I'll take it.",
         "Excuse me. Is there anything you'd like to apologize for?",
         "Yes. I'm sorry I tried to blow up your head. It was uncalled for.",
+        "(Entering with Raj)",
         "Somebody got the whole thing on a cell phone and put it on YouTube.",
         "What?",
         "Now, who would do that?",
+        "(They watch)",
         "Oh jeez. Is this suit really look that bad?",
         "Forget your suit, look at my arms waving, I'm like a flamingo on Ritalin.",
+        "(Entering)",
         "Uh-oh, here comes \u201cthe talk.\u201d",
+        "Captioned \u201cSomewhere in China\u201d, two Chinese students watch the video on their computer.",
+        "(In captions)",
+        "(The lights flicker)",
         "Who's doing that?",
         "Someone from Pasadena, California named... \u201cWolowizard.\u201d",
         "Awesome!"

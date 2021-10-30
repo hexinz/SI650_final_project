@@ -1,6 +1,6 @@
 {
     "Season": 1,
-    "Episode": 3,
+    "Episode": 11,
     "Title": "The_Pancake_Batter_Anomaly",
     "Actor2Line": {
         "Sheldon": [
@@ -17,251 +17,279 @@
                 "It must be humbling to suck on so many different levels."
             ],
             [
-                8,
+                10,
                 "From the data at hand you really can't draw that conclusion. All you can say with absolute certainty is that that joke is not funny here."
             ],
             [
-                12,
+                14,
                 "Sick?"
             ],
             [
-                15,
+                16,
+                "(Running to opposite side of the room)"
+            ],
+            [
+                18,
                 "I don't need you to guess, I need you to know, now when did the symptoms first appear?"
             ],
             [
-                17,
+                20,
                 "Friday, was that morning or afternoon?"
             ],
             [
-                19,
+                22,
                 "Think woman, who blew their nose and when?"
             ],
             [
-                21,
+                24,
                 "Oh please, if influenza was only contagious after symptoms appear it would have died out thousands of years ago. Somewhere between tool using and cave painting, homo habilus would have figured out to kill the guy with the runny nose."
             ],
             [
-                24,
+                27,
                 "Thanks for your consideration, now please leave."
             ],
             [
-                27,
+                31,
                 "What?"
             ],
             [
-                29,
+                34,
                 "I'm making petrie dishes to grow throat cultures."
             ],
             [
-                31,
+                36,
                 "I need a growth medium, and someone polished off the apricot yoghurt. Here, swab my throat."
             ],
             [
-                33,
+                38,
                 "Leonard! If I'm going to get ahead of this thing I need to find out what's growing in my throat."
             ],
             [
-                35,
+                40,
                 "We have no idea what pathogen Typhoid Penny has introduced into our environment. And having never been to Nebraska I'm fairly certain that I have no cornhusking antibodies."
             ],
             [
-                37,
+                42,
                 "When I'm lying comatose in a hospital relying on inferior minds to cure me, these jello cultures and my accompanying notes will give them a fighting chance."
             ],
             [
-                40,
-                "I need to measure my fluid intake and output to make sure my kidneys aren't shutting down."
-            ],
-            [
-                42,
-                "No, that measuring cup has always been for urine."
-            ],
-            [
                 44,
-                "It's right here on the bottom."
+                "(Handing him a measuring jug)"
             ],
             [
                 46,
-                "Leonard, where are you?"
+                "I need to measure my fluid intake and output to make sure my kidneys aren't shutting down."
             ],
             [
-                47,
-                "At six-thirty in the morning?"
+                48,
+                "No, that measuring cup has always been for urine."
             ],
             [
-                49,
-                "On Sunday?"
-            ],
-            [
-                51,
-                "Why?"
+                50,
+                "It's right here on the bottom."
             ],
             [
                 53,
-                "Well, I didn't hear the phone ring."
+                "(Shouting)"
             ],
             [
                 55,
-                "Well, as I predicted, I am sick. My fever has been tracking up exponentially since 2am, and I am producing sputum at an alarming rate."
+                "(Voice off)"
             ],
             [
                 57,
-                "No. Not only that, it has shifted from clear to milky green."
+                "(Entering, wrapped in duvet)"
             ],
             [
                 59,
-                "What else would I drink? Gasses? Solids? Ionised plasma?"
+                "Leonard, where are you?"
             ],
             [
                 61,
-                "I want soup."
+                "At six-thirty in the morning?"
             ],
             [
                 63,
-                "We don't have soup."
+                "On Sunday?"
             ],
             [
-                64,
-                "Is that a dog?"
+                65,
+                "Why?"
             ],
             [
-                66,
-                "In the lab?"
+                67,
+                "Well, I didn't hear the phone ring."
             ],
             [
-                86,
-                "Howard, I'm sick."
+                69,
+                "Well, as I predicted, I am sick. My fever has been tracking up exponentially since 2am, and I am producing sputum at an alarming rate."
             ],
             [
-                87,
-                "I need soup."
+                71,
+                "No. Not only that, it has shifted from clear to milky green."
             ],
             [
-                97,
-                "I'm sick, thank you very much."
+                73,
+                "What else would I drink? Gasses? Solids? Ionised plasma?"
             ],
             [
-                99,
-                "You're a carrier. All these people here are doomed. You're doomed!"
-            ],
-            [
-                101,
+                75,
                 "I want soup."
             ],
             [
-                102,
-                "Penny, I have an IQ of 187, don't you imagine that if there were a way for me to have had soup at home I would have thought of it?"
+                77,
+                "We don't have soup."
             ],
             [
-                104,
-                "I did not think of that. Clearly febrile delirium is setting in, please bring me some soup while I still understand what a spoon is for."
+                79,
+                "Is that a dog?"
+            ],
+            [
+                81,
+                "In the lab?"
+            ],
+            [
+                105,
+                "Howard, I'm sick."
             ],
             [
                 107,
-                "Can I get any of those with little frankfurter slices and home made croutons?"
+                "I need soup."
             ],
             [
                 119,
-                "Thanks for bringing me home."
+                "I'm sick, thank you very much."
             ],
             [
                 121,
-                "Good. Good."
+                "You're a carrier. All these people here are doomed. You're doomed!"
             ],
             [
                 123,
-                "Wait, where are you going?"
+                "I want soup."
             ],
             [
                 125,
-                "You're going to leave me?"
+                "Penny, I have an IQ of 187, don't you imagine that if there were a way for me to have had soup at home I would have thought of it?"
             ],
             [
                 127,
+                "I did not think of that. Clearly febrile delirium is setting in, please bring me some soup while I still understand what a spoon is for."
+            ],
+            [
+                130,
+                "Can I get any of those with little frankfurter slices and home made croutons?"
+            ],
+            [
+                132,
+                "(Blows nose into handkerchief. Shows it to next table)"
+            ],
+            [
+                150,
+                "Thanks for bringing me home."
+            ],
+            [
+                152,
+                "Good. Good."
+            ],
+            [
+                154,
+                "Wait, where are you going?"
+            ],
+            [
+                156,
+                "You're going to leave me?"
+            ],
+            [
+                158,
                 "Well, of course, but, not by myself."
             ],
             [
-                129,
+                160,
                 "Well, once. When I was fifteen, and spending the summer at the Heidelberg Institute in Germany."
             ],
             [
-                131,
+                162,
                 "No, visiting professor. Anyway, the local cuisine was a little more sausage-based than I'm used to, and the result was an internal blitzkrieg with my lower intestine playing the part of Czechoslovakia."
             ],
             [
-                133,
+                164,
                 "No. No, my mom had to fly back to Texas to help my dad because the house had slipped off the cinderblocks again."
             ],
             [
-                135,
+                166,
                 "It was tornado season. And it was an aluminum house. Anyway, the housekeeper in the faculty residence didn't speak any English, when I finally managed to convince her I was sick, she said \u201cM\u00f6chtest Du eine Darmsp\u00fclung?\u201d"
             ],
             [
-                137,
+                168,
                 "Based on what happened next, I assume it means \u201cwould you like an enema?\u201d"
             ],
             [
-                139,
+                170,
                 "Well, my mom used to give me sponge baths."
             ],
             [
-                141,
+                172,
                 "Agreed."
             ],
             [
-                155,
+                190,
                 "Wait. Will you please rub this on my chest."
             ],
             [
-                157,
+                192,
                 "Vaporub makes my hands smell funny."
             ],
             [
-                159,
+                194,
                 "Please, please, please, please, please, please, please."
             ],
             [
-                161,
+                196,
                 "No, no, counter-clockwise or my chest hair mats."
             ],
             [
-                163,
+                198,
                 "Can you sing \u201cSoft Kitty\u201d."
             ],
             [
-                165,
+                200,
                 "My mom used to sing it to me when I was sick."
             ],
             [
-                167,
+                202,
                 "I'll teach you. \u201cSoft kitty, warm kitty, little ball of fur, happy kitty, sleepy kitty, purr purr purr.\u201d Now you."
             ],
             [
-                168,
+                204,
                 "Little ball of fur. Keep rubbing."
             ],
             [
-                202,
+                243,
+                "(Off)"
+            ],
+            [
+                248,
                 "Leonard, I'm hungry!"
             ],
             [
-                203,
+                250,
                 "I want grilled cheese."
             ],
             [
-                204,
+                252,
                 "Do you think Penny will come here and take care of us?"
             ],
             [
-                206,
+                254,
                 "I'm very congested."
             ],
             [
-                208,
+                256,
                 "Can you go to the kitchen, and get me the turkey baster labelled mucus."
             ],
             [
-                210,
+                258,
                 "Under the sink, yellow Tupperware bowl."
             ]
         ],
@@ -275,589 +303,755 @@
                 "Just reset the board."
             ],
             [
-                5,
+                6,
                 "Hey!"
             ],
             [
-                7,
+                8,
                 "Yeah, right here. How was Nebraska?"
             ],
             [
-                10,
+                12,
                 "How was your family?"
             ],
             [
-                13,
+                15,
                 "Here we go."
             ],
             [
-                20,
+                23,
                 "Sheldon, relax, she doesn't have any symptoms, I'm sure she's not contagious."
             ],
             [
-                22,
+                25,
                 "Penny, you'll have to excuse Sheldon, he's a bit of a germophobe."
             ],
             [
-                25,
+                28,
                 "You'd better go before he starts spraying you with Lysol."
             ],
             [
-                28,
+                30,
+                "(Sees Penny out. Turns to find Sheldon spraying the air with Lysol.)"
+            ],
+            [
+                33,
                 "What the hell are you doing?"
             ],
             [
-                30,
+                35,
                 "With lime jello?"
             ],
             [
-                32,
+                37,
                 "I don't think so."
             ],
             [
-                34,
+                39,
                 "Sheldon, you are not sick. This is, but you are not."
             ],
             [
-                36,
+                41,
                 "Sheldon, don't you think you're overreacting?"
             ],
             [
-                38,
+                43,
                 "I'm going back to bed."
             ],
             [
-                39,
+                45,
                 "What for?"
             ],
             [
-                41,
+                47,
                 "I mix pancake batter in this!"
             ],
             [
-                43,
+                49,
                 "You had time to make a label for everything in this apartment, including the label maker, but you didn't have ten seconds to make one that said urine cup?"
             ],
             [
-                45,
+                51,
                 "Huh. I guess I owe the Betty Crocker company a letter of apology."
             ],
             [
-                48,
-                "Yes."
-            ],
-            [
-                50,
-                "Yes."
-            ],
-            [
-                52,
-                "They asked me to come in."
-            ],
-            [
-                54,
-                "They texted me."
-            ],
-            [
-                56,
-                "No kidding?"
-            ],
-            [
                 58,
-                "Alright, well, get some rest and drink plenty of fluids."
+                "(Voice on phone)"
             ],
             [
                 60,
-                "Drink whatever you want."
+                "(Running down stairs)"
             ],
             [
                 62,
-                "Then make soup."
+                "Yes."
             ],
             [
-                65,
-                "Yes,"
+                64,
+                "Yes."
             ],
             [
-                67,
-                "Yes, they're training dogs to operate the centrifuge for when they need dogs to operate the centrifuge for blind scientists, I have to go."
+                66,
+                "They asked me to come in."
+            ],
+            [
+                68,
+                "They texted me."
+            ],
+            [
+                70,
+                "No kidding?"
             ],
             [
                 72,
-                "Howard, it's Leonard, code Milky Green."
+                "Alright, well, get some rest and drink plenty of fluids."
             ],
             [
                 74,
-                "Affirmative, with fever."
+                "Drink whatever you want."
             ],
             [
-                83,
-                "Howard, listen to me."
+                76,
+                "Then make soup."
             ],
             [
-                88,
-                "I tried to stop you."
+                78,
+                "(A woman enters the apartment building with a barking dog.)"
+            ],
+            [
+                80,
+                "Yes,"
+            ],
+            [
+                82,
+                "Yes, they're training dogs to operate the centrifuge for when they need dogs to operate the centrifuge for blind scientists, I have to go."
             ],
             [
                 90,
+                "Howard, it's Leonard, code Milky Green."
+            ],
+            [
+                92,
+                "Affirmative, with fever."
+            ],
+            [
+                101,
+                "Howard, listen to me."
+            ],
+            [
+                103,
+                "(Voice)"
+            ],
+            [
+                109,
+                "I tried to stop you."
+            ],
+            [
+                111,
                 "You call Koothrappali, we need to find a place to lay low for the next eighteen to twenty four hours."
             ],
             [
-                94,
+                115,
                 "Five movies, two hours apiece. It's a start."
             ],
             [
-                110,
+                136,
                 "Oh, hi Penny!"
             ],
             [
-                112,
+                138,
                 "I'm... uh... at work."
             ],
             [
-                114,
+                140,
                 "I'm... uh... in a... I'm in a radiation suit. What's up?"
             ],
             [
-                143,
-                "Oh dammit, my glasses. Okay, I'm blind here guys, can you help me find them?"
+                142,
+                "(To Howard and Raj)"
             ],
             [
                 144,
-                "Oh great."
+                "(To Howard and Raj)"
             ],
             [
                 146,
-                "Yeah, at home."
-            ],
-            [
-                150,
-                "You want me to get eye surgery?"
-            ],
-            [
-                153,
-                "I\u2019m thinking!"
-            ],
-            [
-                169,
-                "What do you see, what do you see."
-            ],
-            [
-                171,
-                "Okay, he must be in his bedroom. My spare glasses are in my bedroom, on my dresser, next to my Bat-signal."
-            ],
-            [
-                173,
-                "Raj?"
+                "(Holds phone up, Howard makes warning siren noises)"
             ],
             [
                 175,
-                "Well I can't do it, I can't see anything."
+                "Oh dammit, my glasses. Okay, I'm blind here guys, can you help me find them?"
             ],
             [
                 177,
-                "Fine."
+                "Oh great."
             ],
             [
                 179,
-                "Won't my footsteps set it off?"
+                "Yeah, at home."
             ],
             [
-                181,
-                "Well, how do I carry it if I'm on my hands and knees?"
+                182,
+                "(Dials phone)"
             ],
             [
-                183,
-                "What?"
+                184,
+                "You want me to get eye surgery?"
             ],
             [
-                185,
-                "Then just say go straight."
-            ],
-            [
-                188,
-                "It wasn't on?"
-            ],
-            [
-                190,
-                "Then why did I have to crawl?"
-            ],
-            [
-                192,
-                "Okay, it's on."
-            ],
-            [
-                194,
-                "I know."
-            ],
-            [
-                196,
-                "Hi!"
-            ],
-            [
-                198,
-                "Well, I had to, you see what he's like."
-            ],
-            [
-                200,
-                "No!"
-            ],
-            [
-                201,
-                "W-wait!"
-            ],
-            [
-                205,
-                "I don't think Penny's ever coming here again."
+                187,
+                "I\u2019m thinking!"
             ],
             [
                 207,
-                "Yeah, so?"
+                "What do you see, what do you see."
             ],
             [
                 209,
+                "Okay, he must be in his bedroom. My spare glasses are in my bedroom, on my dresser, next to my Bat-signal."
+            ],
+            [
+                211,
+                "Raj?"
+            ],
+            [
+                213,
+                "Well I can't do it, I can't see anything."
+            ],
+            [
+                215,
+                "Fine."
+            ],
+            [
+                217,
+                "Won't my footsteps set it off?"
+            ],
+            [
+                219,
+                "Well, how do I carry it if I'm on my hands and knees?"
+            ],
+            [
+                222,
+                "What?"
+            ],
+            [
+                224,
+                "Then just say go straight."
+            ],
+            [
+                226,
+                "(Bangs head on a trunk.)"
+            ],
+            [
+                230,
+                "It wasn't on?"
+            ],
+            [
+                232,
+                "Then why did I have to crawl?"
+            ],
+            [
+                234,
+                "Okay, it's on."
+            ],
+            [
+                236,
+                "I know."
+            ],
+            [
+                240,
+                "Hi!"
+            ],
+            [
+                242,
+                "Well, I had to, you see what he's like."
+            ],
+            [
+                245,
+                "No!"
+            ],
+            [
+                247,
+                "W-wait!"
+            ],
+            [
+                249,
+                "(Runs after her and bumps into pillar. Falls semi-conscious to the floor.\u00a0 Sheldon appears in his comforter.)"
+            ],
+            [
+                253,
+                "I don't think Penny's ever coming here again."
+            ],
+            [
+                255,
+                "Yeah, so?"
+            ],
+            [
+                257,
                 "If I stand, I'll vomit."
             ]
         ],
         "Penny": [
             [
-                6,
+                5,
+                "(Knocking and entering)"
+            ],
+            [
+                7,
                 "Did you get my mail."
             ],
             [
                 9,
-                "Boy, it's good to be back."
+                "(Pause)"
             ],
             [
                 11,
+                "Boy, it's good to be back."
+            ],
+            [
+                13,
                 "Ugh, it was the worst trip, everyone got sick over the weekend."
             ],
             [
-                14,
+                17,
                 "Oh, the flu I guess."
             ],
             [
-                16,
+                19,
                 "Maybe Friday."
             ],
             [
-                18,
+                21,
                 "I... I don't..."
             ],
             [
-                23,
+                26,
                 "Oh, it's okay, I understand."
             ],
             [
-                26,
+                29,
                 "Okay, well, thank you for getting my mail."
             ],
             [
-                96,
+                118,
                 "No, just crazy. Sheldon, what are you doing here?"
             ],
             [
-                98,
+                120,
                 "How could you have gotten it from me, I'm not sick."
             ],
             [
-                100,
+                122,
                 "Shhh! Sheldon, what do you want."
             ],
             [
-                103,
-                "You can have soup delivered."
-            ],
-            [
-                105,
-                "Okay, what kind of soup do you want."
-            ],
-            [
-                106,
-                "We have Chicken Tortilla and Potato Leek."
-            ],
-            [
-                108,
-                "No."
-            ],
-            [
-                111,
-                "Hey, where are you?"
-            ],
-            [
-                113,
-                "You sound funny."
-            ],
-            [
-                115,
-                "Yeah, well I'm at work too, and you'll never guess who's here infecting my entire station."
-            ],
-            [
-                116,
-                "He won't leave, he says he's afraid he'll pass out on the bus and someone will harvest his organs."
-            ],
-            [
-                117,
-                "Can you please come get him?"
-            ],
-            [
-                120,
-                "Oh, it's okay, I didn't really need to work today, it's not like I have rent or car payments or anything."
-            ],
-            [
-                122,
-                "Okay, well, you feel better."
-            ],
-            [
                 124,
-                "Um, home, to write some bad checks."
+                "(Over Sheldon\u2019s strange throat clearance)"
             ],
             [
                 126,
-                "Sheldon, you are a grown man, haven't you ever been sick before?"
+                "You can have soup delivered."
             ],
             [
                 128,
-                "Really, never?"
+                "Okay, what kind of soup do you want."
             ],
             [
-                130,
-                "Studying abroad?"
+                129,
+                "We have Chicken Tortilla and Potato Leek."
             ],
             [
-                132,
-                "And there was no-one there to take care of you?"
-            ],
-            [
-                134,
-                "Again?"
-            ],
-            [
-                136,
-                "What does that mean?"
-            ],
-            [
-                138,
-                "Okay, sweetie, I'll take care of you, what do you need?"
-            ],
-            [
-                140,
-                "Okay, ground rules, no sponge baths, and definitely no enemas."
-            ],
-            [
-                154,
-                "Okay, nice and cosy, okay, I\u2019ll see you later."
-            ],
-            [
-                156,
-                "Oh, Sheldon, can\u2019t you do that yourself?"
-            ],
-            [
-                158,
-                "But Sheldon\u2026."
-            ],
-            [
-                160,
-                "I can\u2019t believe I\u2019m doing this."
-            ],
-            [
-                162,
-                "Sorry."
-            ],
-            [
-                164,
-                "What?"
-            ],
-            [
-                166,
-                "I'm sorry, honey, I don't know it."
-            ],
-            [
-                195,
-                "You rat bastard."
-            ],
-            [
-                197,
-                "You deliberately stuck me with Sheldon."
-            ],
-            [
-                199,
-                "Uh, it's okay, sweetie, good news, Leonard's home!"
-            ]
-        ],
-        "Howard": [
-            [
-                68,
-                "I know it's the phone, Ma, I hear the phone."
-            ],
-            [
-                70,
-                "I don't know."
-            ],
-            [
-                73,
-                "Dear Lord, not Milky Green!"
-            ],
-            [
-                76,
-                "It's Leonard."
-            ],
-            [
-                78,
-                "Sheldon's sick."
-            ],
-            [
-                80,
-                "For God's sake, Ma, I'm twenty six years old."
-            ],
-            [
-                82,
-                "Chocolate milk and eggoes please!"
-            ],
-            [
-                84,
-                "Hang on, call waiting."
-            ],
-            [
-                85,
-                "Hello."
-            ],
-            [
-                89,
-                "It's my own fault, I forgot the protocol we put in place after the great ear infection of \u201906."
-            ],
-            [
-                91,
-                "Stand by. Ma, can my friends come over?"
-            ],
-            [
-                93,
-                "That's a negatory. But there's a Planet of the Apes marathon at the New Art today."
-            ],
-            [
-                109,
-                "Look at this, everyone went chimp."
-            ],
-            [
-                118,
-                "Take your stinking paws off my popcorn you damn dirty ape."
-            ],
-            [
-                145,
-                "Sorry, don\u2019t you have a spare."
-            ],
-            [
-                148,
-                "Unless Sheldon\u2019s there, in which case you\u2019ll be trapped forever in his whiny hyper neurotic snot-web."
-            ],
-            [
-                152,
-                "Well?"
-            ],
-            [
-                172,
-                "I'm not going in there."
-            ],
-            [
-                176,
-                "It's all right, wireless mini-cam and Bluetooth headset. We'll be your eyes."
-            ],
-            [
-                178,
-                "One more thing. This is a subsonic impact sensor. If Sheldon gets out of bed and starts to walk, this device will register it and send a signal to the laptop. At that point, based on the geography of the apartment and the ambulatory speed of a sick Sheldon, you'll have seven seconds to get out, glasses or no glasses."
-            ],
-            [
-                180,
-                "No, you'll be on your hands and knees. Now you'll need to get the sensor as close as you can to Sheldon's room."
-            ],
-            [
-                182,
-                "Stay low. Bear left. Now keep true."
-            ],
-            [
-                184,
-                "It means go straight."
-            ],
-            [
-                186,
-                "You don't stay go straight when you're giving bearings, you say keep true."
-            ],
-            [
-                189,
+                131,
                 "No."
             ],
             [
+                137,
+                "Hey, where are you?"
+            ],
+            [
+                139,
+                "You sound funny."
+            ],
+            [
+                141,
+                "Yeah, well I'm at work too, and you'll never guess who's here infecting my entire station."
+            ],
+            [
+                143,
+                "He won't leave, he says he's afraid he'll pass out on the bus and someone will harvest his organs."
+            ],
+            [
+                145,
+                "Can you please come get him?"
+            ],
+            [
+                151,
+                "Oh, it's okay, I didn't really need to work today, it's not like I have rent or car payments or anything."
+            ],
+            [
+                153,
+                "Okay, well, you feel better."
+            ],
+            [
+                155,
+                "Um, home, to write some bad checks."
+            ],
+            [
+                157,
+                "Sheldon, you are a grown man, haven't you ever been sick before?"
+            ],
+            [
+                159,
+                "Really, never?"
+            ],
+            [
+                161,
+                "Studying abroad?"
+            ],
+            [
+                163,
+                "And there was no-one there to take care of you?"
+            ],
+            [
+                165,
+                "Again?"
+            ],
+            [
+                167,
+                "What does that mean?"
+            ],
+            [
+                169,
+                "Okay, sweetie, I'll take care of you, what do you need?"
+            ],
+            [
+                171,
+                "Okay, ground rules, no sponge baths, and definitely no enemas."
+            ],
+            [
+                189,
+                "Okay, nice and cosy, okay, I\u2019ll see you later."
+            ],
+            [
                 191,
-                "Oh, I guess you didn't."
+                "Oh, Sheldon, can\u2019t you do that yourself?"
             ],
             [
                 193,
-                "Good. From this point forward you will have to crawl."
+                "But Sheldon\u2026."
+            ],
+            [
+                195,
+                "I can\u2019t believe I\u2019m doing this."
+            ],
+            [
+                197,
+                "Sorry."
+            ],
+            [
+                199,
+                "What?"
+            ],
+            [
+                201,
+                "I'm sorry, honey, I don't know it."
+            ],
+            [
+                203,
+                "(After a loud sigh)"
+            ],
+            [
+                205,
+                "(Through gritted teeth)"
+            ],
+            [
+                238,
+                "You rat bastard."
+            ],
+            [
+                241,
+                "You deliberately stuck me with Sheldon."
+            ],
+            [
+                244,
+                "Uh, it's okay, sweetie, good news, Leonard's home!"
+            ],
+            [
+                246,
+                "(Handing him vaporub)"
+            ]
+        ],
+        "Scene": [
+            [
+                32,
+                "The kitchen"
+            ],
+            [
+                52,
+                "Sheldon\u2019s bedroom. Sheldon wakes up and coughs. Picks up an electronic thermometer and takes his temperature."
+            ],
+            [
+                54,
+                "Cut to Leonard entering living room in panic, stumbling and trying to put on a pair of trousers."
+            ],
+            [
+                56,
+                "Leonard grabs jacket and leaves through front door."
+            ],
+            [
+                83,
+                "Howard\u2019s bedroom. The phone is ringing."
+            ],
+            [
+                116,
+                "The Cheesecake Factory"
+            ],
+            [
+                133,
+                "The cinema. Everyone is wearing ape masks."
+            ],
+            [
+                149,
+                "The stairwell."
+            ],
+            [
+                173,
+                "The cinema."
+            ],
+            [
+                188,
+                "Sheldon\u2019s bedroom."
+            ],
+            [
+                206,
+                "The living room door, a fiber-optic camera emerges from underneath. We see the scene from its point of view. Cut to outside. Raj is holding a laptop, Howard is feeding the camera under the door."
+            ],
+            [
+                220,
+                "Cut to Leonard entering apartment on hands and knees, carrying the sensor in his teeth."
+            ],
+            [
+                251,
+                "Time shift. Sheldon and Leonard are on the sofa. Sheldon is wrapped in his comforter, Leonard is holding an ice-pack to his head."
             ]
         ],
         "Howard's Mother": [
             [
-                69,
+                84,
+                "(Voice)"
+            ],
+            [
+                86,
                 "Well who's calling at this ungodly hour?"
             ],
             [
-                71,
+                88,
                 "Well ask them why they're calling at this ungodly hour."
             ],
             [
-                75,
+                93,
                 "Who's on the phone."
             ],
             [
-                77,
+                95,
                 "Why is he calling."
             ],
             [
-                79,
+                97,
                 "Were you playing with him?"
             ],
             [
-                81,
+                99,
                 "Excuse me Mr Grown-up. Whadda-ya want for breakfast."
             ],
             [
-                92,
+                113,
                 "I just had the carpets steamed."
+            ]
+        ],
+        "Howard": [
+            [
+                85,
+                "I know it's the phone, Ma, I hear the phone."
+            ],
+            [
+                87,
+                "I don't know."
+            ],
+            [
+                89,
+                "(Into phone)"
+            ],
+            [
+                91,
+                "Dear Lord, not Milky Green!"
+            ],
+            [
+                94,
+                "It's Leonard."
+            ],
+            [
+                96,
+                "Sheldon's sick."
+            ],
+            [
+                98,
+                "For God's sake, Ma, I'm twenty six years old."
+            ],
+            [
+                100,
+                "Chocolate milk and eggoes please!"
+            ],
+            [
+                102,
+                "Hang on, call waiting."
+            ],
+            [
+                104,
+                "Hello."
+            ],
+            [
+                106,
+                "(Imitating his mother\u2019s voice)"
+            ],
+            [
+                108,
+                "(To Leonard)"
+            ],
+            [
+                110,
+                "It's my own fault, I forgot the protocol we put in place after the great ear infection of \u201906."
+            ],
+            [
+                112,
+                "Stand by. Ma, can my friends come over?"
+            ],
+            [
+                114,
+                "That's a negatory. But there's a Planet of the Apes marathon at the New Art today."
+            ],
+            [
+                134,
+                "Look at this, everyone went chimp."
+            ],
+            [
+                148,
+                "Take your stinking paws off my popcorn you damn dirty ape."
+            ],
+            [
+                176,
+                "(Crunching sound)"
+            ],
+            [
+                178,
+                "Sorry, don\u2019t you have a spare."
+            ],
+            [
+                181,
+                "Unless Sheldon\u2019s there, in which case you\u2019ll be trapped forever in his whiny hyper neurotic snot-web."
+            ],
+            [
+                186,
+                "Well?"
+            ],
+            [
+                210,
+                "I'm not going in there."
+            ],
+            [
+                214,
+                "It's all right, wireless mini-cam and Bluetooth headset. We'll be your eyes."
+            ],
+            [
+                216,
+                "One more thing. This is a subsonic impact sensor. If Sheldon gets out of bed and starts to walk, this device will register it and send a signal to the laptop. At that point, based on the geography of the apartment and the ambulatory speed of a sick Sheldon, you'll have seven seconds to get out, glasses or no glasses."
+            ],
+            [
+                218,
+                "No, you'll be on your hands and knees. Now you'll need to get the sensor as close as you can to Sheldon's room."
+            ],
+            [
+                221,
+                "Stay low. Bear left. Now keep true."
+            ],
+            [
+                223,
+                "It means go straight."
+            ],
+            [
+                225,
+                "You don't stay go straight when you're giving bearings, you say keep true."
+            ],
+            [
+                227,
+                "(Time shift, Leonard is now outside bedrooms)"
+            ],
+            [
+                229,
+                "(Leonard now has his head at right angles to his body)"
+            ],
+            [
+                231,
+                "No."
+            ],
+            [
+                233,
+                "Oh, I guess you didn't."
+            ],
+            [
+                235,
+                "Good. From this point forward you will have to crawl."
+            ],
+            [
+                237,
+                "(Camera angle shows a pair of female legs.)"
+            ],
+            [
+                239,
+                "(Running down stairs with Raj)"
             ]
         ],
         "Waitress": [
             [
-                95,
+                117,
                 "Homeless crazy guy at table eighteen."
             ]
         ],
         "Raj": [
             [
-                142,
-                "Here we go, ten and a half hours of apey goodness."
+                135,
+                "(Phone rings)"
             ],
             [
                 147,
-                "Well if you leave now, you can be back before the gorillas rip the crap out of Charlton Heston."
-            ],
-            [
-                149,
-                "How about Lasic?"
-            ],
-            [
-                151,
-                "Would you rather go back to the apartment and deal with Sheldon, or have a stranger carve out your corneas with a laser beam?"
-            ],
-            [
-                170,
-                "The living room appears to be empty."
+                "(Steals some of Howard\u2019s popcorn)"
             ],
             [
                 174,
+                "Here we go, ten and a half hours of apey goodness."
+            ],
+            [
+                180,
+                "Well if you leave now, you can be back before the gorillas rip the crap out of Charlton Heston."
+            ],
+            [
+                183,
+                "How about Lasic?"
+            ],
+            [
+                185,
+                "Would you rather go back to the apartment and deal with Sheldon, or have a stranger carve out your corneas with a laser beam?"
+            ],
+            [
+                208,
+                "The living room appears to be empty."
+            ],
+            [
+                212,
                 "No way, Jose."
             ],
             [
-                187,
+                228,
                 "The... the picture's breaking up."
             ]
         ]
@@ -865,7 +1059,9 @@
     "Actor2Profile": {
         "Sheldon": "/wiki/Sheldon_Cooper",
         "Leonard": "/wiki/Leonard_Hofstadter",
-        "Howard": "/wiki/Howard_Wolowitz"
+        "Penny": "/wiki/Penny",
+        "Howard": "/wiki/Howard_Wolowitz",
+        "Raj": "/wiki/Rajesh_Koothrappali"
     },
     "AllLines": [
         "Checkmate.",
@@ -873,15 +1069,18 @@
         "Obviously you're not well suited for three-dimensional chess, perhaps three dimensional candyland would be more your speed.",
         "Just reset the board.",
         "It must be humbling to suck on so many different levels.",
+        "(Knocking and entering)",
         "Hey!",
         "Did you get my mail.",
         "Yeah, right here. How was Nebraska?",
+        "(Pause)",
         "From the data at hand you really can't draw that conclusion. All you can say with absolute certainty is that that joke is not funny here.",
         "Boy, it's good to be back.",
         "How was your family?",
         "Ugh, it was the worst trip, everyone got sick over the weekend.",
         "Sick?",
         "Here we go.",
+        "(Running to opposite side of the room)",
         "Oh, the flu I guess.",
         "I don't need you to guess, I need you to know, now when did the symptoms first appear?",
         "Maybe Friday.",
@@ -895,7 +1094,9 @@
         "Thanks for your consideration, now please leave.",
         "You'd better go before he starts spraying you with Lysol.",
         "Okay, well, thank you for getting my mail.",
+        "(Sees Penny out. Turns to find Sheldon spraying the air with Lysol.)",
         "What?",
+        "The kitchen",
         "What the hell are you doing?",
         "I'm making petrie dishes to grow throat cultures.",
         "With lime jello?",
@@ -907,6 +1108,7 @@
         "Sheldon, don't you think you're overreacting?",
         "When I'm lying comatose in a hospital relying on inferior minds to cure me, these jello cultures and my accompanying notes will give them a fighting chance.",
         "I'm going back to bed.",
+        "(Handing him a measuring jug)",
         "What for?",
         "I need to measure my fluid intake and output to make sure my kidneys aren't shutting down.",
         "I mix pancake batter in this!",
@@ -914,7 +1116,15 @@
         "You had time to make a label for everything in this apartment, including the label maker, but you didn't have ten seconds to make one that said urine cup?",
         "It's right here on the bottom.",
         "Huh. I guess I owe the Betty Crocker company a letter of apology.",
+        "Sheldon\u2019s bedroom. Sheldon wakes up and coughs. Picks up an electronic thermometer and takes his temperature.",
+        "(Shouting)",
+        "Cut to Leonard entering living room in panic, stumbling and trying to put on a pair of trousers.",
+        "(Voice off)",
+        "Leonard grabs jacket and leaves through front door.",
+        "(Entering, wrapped in duvet)",
+        "(Voice on phone)",
         "Leonard, where are you?",
+        "(Running down stairs)",
         "At six-thirty in the morning?",
         "Yes.",
         "On Sunday?",
@@ -932,14 +1142,18 @@
         "I want soup.",
         "Then make soup.",
         "We don't have soup.",
+        "(A woman enters the apartment building with a barking dog.)",
         "Is that a dog?",
         "Yes,",
         "In the lab?",
         "Yes, they're training dogs to operate the centrifuge for when they need dogs to operate the centrifuge for blind scientists, I have to go.",
+        "Howard\u2019s bedroom. The phone is ringing.",
+        "(Voice)",
         "I know it's the phone, Ma, I hear the phone.",
         "Well who's calling at this ungodly hour?",
         "I don't know.",
         "Well ask them why they're calling at this ungodly hour.",
+        "(Into phone)",
         "Howard, it's Leonard, code Milky Green.",
         "Dear Lord, not Milky Green!",
         "Affirmative, with fever.",
@@ -953,9 +1167,12 @@
         "Chocolate milk and eggoes please!",
         "Howard, listen to me.",
         "Hang on, call waiting.",
+        "(Voice)",
         "Hello.",
         "Howard, I'm sick.",
+        "(Imitating his mother\u2019s voice)",
         "I need soup.",
+        "(To Leonard)",
         "I tried to stop you.",
         "It's my own fault, I forgot the protocol we put in place after the great ear infection of \u201906.",
         "You call Koothrappali, we need to find a place to lay low for the next eighteen to twenty four hours.",
@@ -963,6 +1180,7 @@
         "I just had the carpets steamed.",
         "That's a negatory. But there's a Planet of the Apes marathon at the New Art today.",
         "Five movies, two hours apiece. It's a start.",
+        "The Cheesecake Factory",
         "Homeless crazy guy at table eighteen.",
         "No, just crazy. Sheldon, what are you doing here?",
         "I'm sick, thank you very much.",
@@ -970,6 +1188,7 @@
         "You're a carrier. All these people here are doomed. You're doomed!",
         "Shhh! Sheldon, what do you want.",
         "I want soup.",
+        "(Over Sheldon\u2019s strange throat clearance)",
         "Penny, I have an IQ of 187, don't you imagine that if there were a way for me to have had soup at home I would have thought of it?",
         "You can have soup delivered.",
         "I did not think of that. Clearly febrile delirium is setting in, please bring me some soup while I still understand what a spoon is for.",
@@ -977,16 +1196,24 @@
         "We have Chicken Tortilla and Potato Leek.",
         "Can I get any of those with little frankfurter slices and home made croutons?",
         "No.",
+        "(Blows nose into handkerchief. Shows it to next table)",
+        "The cinema. Everyone is wearing ape masks.",
         "Look at this, everyone went chimp.",
+        "(Phone rings)",
         "Oh, hi Penny!",
         "Hey, where are you?",
         "I'm... uh... at work.",
         "You sound funny.",
         "I'm... uh... in a... I'm in a radiation suit. What's up?",
         "Yeah, well I'm at work too, and you'll never guess who's here infecting my entire station.",
+        "(To Howard and Raj)",
         "He won't leave, he says he's afraid he'll pass out on the bus and someone will harvest his organs.",
+        "(To Howard and Raj)",
         "Can you please come get him?",
+        "(Holds phone up, Howard makes warning siren noises)",
+        "(Steals some of Howard\u2019s popcorn)",
         "Take your stinking paws off my popcorn you damn dirty ape.",
+        "The stairwell.",
         "Thanks for bringing me home.",
         "Oh, it's okay, I didn't really need to work today, it's not like I have rent or car payments or anything.",
         "Good. Good.",
@@ -1010,18 +1237,22 @@
         "Well, my mom used to give me sponge baths.",
         "Okay, ground rules, no sponge baths, and definitely no enemas.",
         "Agreed.",
+        "The cinema.",
         "Here we go, ten and a half hours of apey goodness.",
         "Oh dammit, my glasses. Okay, I'm blind here guys, can you help me find them?",
+        "(Crunching sound)",
         "Oh great.",
         "Sorry, don\u2019t you have a spare.",
         "Yeah, at home.",
         "Well if you leave now, you can be back before the gorillas rip the crap out of Charlton Heston.",
         "Unless Sheldon\u2019s there, in which case you\u2019ll be trapped forever in his whiny hyper neurotic snot-web.",
+        "(Dials phone)",
         "How about Lasic?",
         "You want me to get eye surgery?",
         "Would you rather go back to the apartment and deal with Sheldon, or have a stranger carve out your corneas with a laser beam?",
         "Well?",
         "I\u2019m thinking!",
+        "Sheldon\u2019s bedroom.",
         "Okay, nice and cosy, okay, I\u2019ll see you later.",
         "Wait. Will you please rub this on my chest.",
         "Oh, Sheldon, can\u2019t you do that yourself?",
@@ -1036,7 +1267,10 @@
         "My mom used to sing it to me when I was sick.",
         "I'm sorry, honey, I don't know it.",
         "I'll teach you. \u201cSoft kitty, warm kitty, little ball of fur, happy kitty, sleepy kitty, purr purr purr.\u201d Now you.",
+        "(After a loud sigh)",
         "Little ball of fur. Keep rubbing.",
+        "(Through gritted teeth)",
+        "The living room door, a fiber-optic camera emerges from underneath. We see the scene from its point of view. Cut to outside. Raj is holding a laptop, Howard is feeding the camera under the door.",
         "What do you see, what do you see.",
         "The living room appears to be empty.",
         "Okay, he must be in his bedroom. My spare glasses are in my bedroom, on my dresser, next to my Bat-signal.",
@@ -1050,12 +1284,16 @@
         "Won't my footsteps set it off?",
         "No, you'll be on your hands and knees. Now you'll need to get the sensor as close as you can to Sheldon's room.",
         "Well, how do I carry it if I'm on my hands and knees?",
+        "Cut to Leonard entering apartment on hands and knees, carrying the sensor in his teeth.",
         "Stay low. Bear left. Now keep true.",
         "What?",
         "It means go straight.",
         "Then just say go straight.",
         "You don't stay go straight when you're giving bearings, you say keep true.",
+        "(Bangs head on a trunk.)",
+        "(Time shift, Leonard is now outside bedrooms)",
         "The... the picture's breaking up.",
+        "(Leonard now has his head at right angles to his body)",
         "It wasn't on?",
         "No.",
         "Then why did I have to crawl?",
@@ -1063,15 +1301,21 @@
         "Okay, it's on.",
         "Good. From this point forward you will have to crawl.",
         "I know.",
+        "(Camera angle shows a pair of female legs.)",
         "You rat bastard.",
+        "(Running down stairs with Raj)",
         "Hi!",
         "You deliberately stuck me with Sheldon.",
         "Well, I had to, you see what he's like.",
+        "(Off)",
         "Uh, it's okay, sweetie, good news, Leonard's home!",
         "No!",
+        "(Handing him vaporub)",
         "W-wait!",
         "Leonard, I'm hungry!",
+        "(Runs after her and bumps into pillar. Falls semi-conscious to the floor.\u00a0 Sheldon appears in his comforter.)",
         "I want grilled cheese.",
+        "Time shift. Sheldon and Leonard are on the sofa. Sheldon is wrapped in his comforter, Leonard is holding an ice-pack to his head.",
         "Do you think Penny will come here and take care of us?",
         "I don't think Penny's ever coming here again.",
         "I'm very congested.",

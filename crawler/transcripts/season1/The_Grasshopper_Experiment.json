@@ -1,6 +1,6 @@
 {
     "Season": 1,
-    "Episode": 13,
+    "Episode": 8,
     "Title": "The_Grasshopper_Experiment",
     "Actor2Line": {
         "Sheldon": [
@@ -17,188 +17,200 @@
                 "It's been in every wallet I\u2019ve owned since I was five."
             ],
             [
-                15,
+                6,
+                "(Knock on door)"
+            ],
+            [
+                16,
                 "Hi."
             ],
             [
-                43,
+                45,
                 "If I may, your parents probably don't consider this meddling, while arranged marriages are no longer the norm, Indian parents continue to have a greater than average involvement in their children's lives."
             ],
             [
-                45,
+                47,
                 "You seemed confused."
             ],
             [
-                52,
+                54,
                 "It might speak to a cultural aspiration to have one's children enter the medical profession."
             ],
             [
-                55,
+                57,
                 "What's not to love?"
             ],
             [
-                57,
+                59,
                 "I suggest you go through with it."
             ],
             [
-                59,
+                61,
                 "Romantic love as the basis for marriage has only existed since the nineteenth century. Up until then, arranged marriages were the norm, and it served society quite well."
             ],
             [
-                63,
+                65,
                 "Understandable, but there's a universality to that story which transcends ethnicity."
             ],
             [
-                69,
+                72,
                 "No need, we have the special edition."
             ],
             [
-                90,
+                75,
+                "(On phone)"
+            ],
+            [
+                100,
                 "Okay, there's a lab animal supply company in Reseda you could try, but if your research is going to have human applications may I suggest white mice instead, their brain chemistry is far closer to ours."
             ],
             [
-                95,
+                105,
                 "With certain obvious exceptions. Suicide, for example."
             ],
             [
-                101,
+                113,
                 "I'll have a diet coke."
             ],
             [
-                103,
+                115,
                 "Fine. I'll have a virgin Cuba libre."
             ],
             [
-                105,
+                117,
                 "Yes,"
             ],
             [
-                107,
+                119,
                 "Yes. And would you make it diet?"
             ],
             [
-                109,
+                121,
                 "A Cuba libre traditionally comes in a tall glass with a lime wedge."
             ],
             [
-                111,
+                123,
                 "Bartenders are supposed to have people skills."
             ],
             [
-                127,
+                139,
                 "And now we'll never know."
             ],
             [
-                149,
+                163,
                 "Sorry I'm late."
             ],
             [
-                151,
+                165,
                 "Nothing, I just really didn't want to come. Virgin diet Cuba libre please."
             ],
             [
-                153,
+                167,
                 "In a tall glass, with a lime wedge."
             ],
             [
-                155,
+                169,
                 "So, how's Koothrappali d.... oh my Lord."
             ],
             [
-                157,
+                171,
                 "That's Princess Punchali."
             ],
             [
-                159,
+                173,
                 "No, no, Princess Punchali from The Monkey and the Princess."
             ],
             [
-                161,
+                175,
                 "It's a children's story."
             ],
             [
-                163,
+                177,
                 "When I was a little boy and got sick, which was most of the time, my mother would read it to me. It's about an Indian princess who befriends a monkey, who was mocked by all the other monkeys because he was different. For some reason I related to it quite strongly."
             ],
             [
-                166,
+                180,
                 "That woman looks exactly like the pictures of Princess Punchali in the book. How often does one see a beloved fictional character come to life?"
             ],
             [
-                169,
+                183,
                 "Forgive me your highness, for I am but a monkey, and it is in my nature to climb. I did not mean to gaze upon you as you comb your hair."
             ],
             [
-                171,
+                185,
                 "You are the living embodiment of the beautiful Princess Punchali."
             ],
             [
-                173,
+                187,
                 "A beloved character from an Indian folk tale."
             ],
             [
-                175,
+                189,
                 "You Indian."
             ],
             [
-                177,
+                191,
                 "The resemblance is remarkable. I can practically smell the lotus blossoms woven into your ebony hair."
             ],
             [
-                179,
+                193,
                 "I shower twice a day and wash my hands as often as I can."
             ],
             [
-                183,
+                197,
                 "It was said that the gods fashioned her eyes out of the stars, and that roses were ashamed to bloom in the presence of her ruby lips."
             ],
             [
-                186,
+                200,
                 "What?"
             ],
             [
-                188,
+                202,
                 "I'm not hitting on her."
             ],
             [
-                193,
+                207,
                 "Exactly the kind of spirit with which Princess Punchali led the monkeys to freedom."
             ],
             [
-                197,
+                211,
                 "Luckily for you, she could have you beheaded."
             ],
             [
-                199,
+                213,
                 "I could eat."
             ],
             [
-                215,
+                231,
                 "How would I know, do you have a low sperm count?"
             ],
             [
-                221,
+                237,
                 "What did I do?"
             ],
             [
-                223,
+                239,
                 "Oh. Alright, noted. Sorry."
             ],
             [
-                226,
+                242,
                 "And may I point out she wouldn't have asked me to go with her if you hadn't been drunk and boring."
             ],
             [
-                228,
+                244,
                 "And boring, her words."
             ],
             [
-                240,
+                257,
                 "Okay, well, good night."
             ],
             [
-                242,
+                259,
                 "We ate. She lectured me on the link between gum disease and heart attacks, nothing I didn't already know, and I came home."
+            ],
+            [
+                261,
+                "(Exits)"
             ]
         ],
         "Leonard": [
@@ -215,806 +227,874 @@
                 "Why?"
             ],
             [
-                9,
+                10,
                 "Hi."
             ],
             [
-                13,
+                14,
                 "Hi!"
             ],
             [
-                20,
+                21,
                 "Yeah, we\u2019re not like Haroun and Tanweer!"
             ],
             [
-                51,
+                53,
                 "Actually, I read somewhere that it's one of the most popular programs in India."
             ],
             [
-                53,
+                55,
                 "I bet you're right."
             ],
             [
-                61,
+                63,
                 "I'm not a big fan of musicals, but I love that show."
             ],
             [
-                66,
+                69,
                 "What?"
             ],
             [
-                70,
+                73,
                 "Well, maybe we are like Haroun and Tanweer."
             ],
             [
-                71,
+                77,
                 "Hey, I thought you were finding new friends."
             ],
             [
-                74,
+                81,
                 "So don't call her."
             ],
             [
-                76,
+                83,
                 "So call her."
             ],
             [
-                78,
+                85,
                 "I'm done, anybody else?"
             ],
             [
-                85,
+                94,
                 "Look on the bright side, she might turn out to be a nice, beautiful girl."
             ],
             [
-                88,
+                98,
                 "Oh, hey."
             ],
             [
-                92,
+                102,
                 "His mom's been saying that for years. What's up?"
             ],
             [
-                94,
+                104,
                 "Oh, great, well the key to acquiring proficiency in any task is repetition."
             ],
             [
-                98,
+                107,
+                "(Raj whispers in his ear)"
+            ],
+            [
+                109,
                 "Thank you. This drink is a wonderful example of how liquids with different specific gravities interact in a cylindrical container. Thank you."
             ],
             [
-                99,
+                111,
                 "Whatever you recommend."
             ],
             [
-                118,
+                130,
                 "It's amazing."
             ],
             [
-                124,
+                136,
                 "Um... Raj."
             ],
             [
-                135,
+                147,
                 "Wait a minute, what's the plan here? Let's say he meets her and he likes her and they get married, what's he going to do, stay drunk for the rest of his life?"
             ],
             [
-                150,
+                160,
+                "(To Penny)"
+            ],
+            [
+                164,
                 "What happened?"
             ],
             [
-                156,
+                170,
                 "What?"
             ],
             [
-                158,
+                172,
                 "I'm pretty sure her name's Lalita."
             ],
             [
-                165,
+                179,
                 "We all know the reason. Sheldon, what are you getting at?"
             ],
             [
-                202,
+                216,
                 "Beats the hell out of me."
             ],
             [
-                208,
+                223,
                 "Doctor and Mrs. Koothrappali, in all fairness, it wasn't entirely Raj's fault."
             ],
             [
-                210,
+                225,
                 "No, I'm Leonard."
             ],
             [
-                222,
+                238,
                 "You left with his date. Friends don't do that to each other."
             ],
             [
-                225,
+                241,
                 "Take it, Raj. It's more than I\u2019ve ever gotten."
             ],
             [
-                241,
+                258,
                 "Hold on. What happened with you and Lalita?"
             ],
             [
-                243,
+                260,
                 "So you're not going to see her again?"
             ],
             [
-                244,
+                262,
                 "I wonder who's going to tell his parents they're not having grandchildren."
             ],
             [
-                245,
+                264,
                 "I don't believe it, what's gotten into him?"
             ],
             [
-                247,
+                266,
                 "You didn't?"
             ]
         ],
         "Raj": [
             [
-                6,
+                7,
                 "And this is Leonard and Sheldon's apartment."
             ],
             [
-                8,
+                9,
                 "May I present, live from New Delhi, Dr and Mrs V. M. Koothrappali."
             ],
             [
-                11,
+                12,
                 "Sorry papa."
             ],
             [
-                14,
+                15,
                 "And over here is Sheldon."
             ],
             [
-                16,
+                17,
                 "He lives with Leonard."
             ],
             [
-                18,
+                19,
                 "No, no, not like Haroun and Tanweer."
             ],
             [
-                25,
+                26,
                 "Papa, please don't start."
             ],
             [
-                27,
+                28,
                 "Okay, that's my life, that's my friends, good to see you, say goodbye."
             ],
             [
-                30,
+                31,
                 "What is it papa."
             ],
             [
-                33,
+                35,
                 "The little fat girl that used to kick me in the samosas and call me untouchable."
             ],
             [
-                35,
+                37,
                 "Why did you do that?"
             ],
             [
-                37,
+                39,
                 "But Papa, I'm not supposed..."
             ],
             [
-                40,
+                42,
                 "Spring wedding?"
             ],
             [
-                42,
+                44,
                 "If you don't want to meddle, then why are you meddling?"
             ],
             [
-                44,
+                46,
                 "Why are you telling me about my own culture?"
             ],
             [
-                46,
+                48,
                 "Sorry, Mommy, Papa, but with all due respect I really can't go through..."
             ],
             [
-                49,
+                51,
                 "I don't believe it."
             ],
             [
-                56,
+                58,
                 "Excuse me, hello? My parents are trying to marry me off to a total stranger, what am I going to do?"
             ],
             [
-                58,
+                60,
                 "What?"
             ],
             [
-                65,
+                68,
                 "Okay, I know what I'm going to do."
             ],
             [
-                67,
+                70,
                 "Find new friends."
             ],
             [
-                72,
+                76,
+                "(Entering)"
+            ],
+            [
+                78,
                 "I\u2019ve got some feelers out. In the meantime, listen to this."
             ],
             [
-                73,
+                80,
                 "Can you believe how pushy she is?"
             ],
             [
-                75,
+                82,
                 "If I don't call her, I won't hear the end of it from my parents."
             ],
             [
-                77,
+                84,
                 "How can I call her, you know I can't talk to women."
             ],
             [
-                80,
+                87,
                 "Why?"
             ],
             [
-                81,
+                89,
                 "What are you doing?"
             ],
             [
-                82,
+                91,
                 "For what, making me sound like a Simpsons character?"
             ],
             [
-                84,
+                93,
                 "I didn't want to make this one."
             ],
             [
-                86,
+                95,
                 "Great, then we'll get married, I won't be able to talk to her, and we'll spend the rest of our lives in total silence."
             ],
             [
-                115,
+                127,
                 "Where did my life go, Penny? One day I'm a carefree bachelor, and the next I'm married and driving a minivan to peewee cricket matches in suburban New Delhi."
             ],
             [
-                117,
+                129,
                 "Is there another Penny here? I had such plans. I had dreams. I was going to be the Indira Gandhi of particle astro-physics. But with a penis, of course."
             ],
             [
-                119,
+                131,
                 "Ever since I was a little boy my father wanted me to be a gynaecologist like him. How can I be a gynaecologist, I can barely look a woman in the eye. You know what, I'm not going to let my parents control my future any longer, it's time for a showdown. Somebody give me a computer with a webcam."
             ],
             [
-                121,
+                133,
                 "And it's about to tell my parents that I'm not riding an elephant down the aisle with Lalita Gupta."
             ],
             [
-                123,
+                135,
                 "Haven't you been listening to me, I cannot talk to women."
             ],
             [
-                128,
+                140,
                 "You're right. I... I am talking to you. Hello Penny, how are you?"
             ],
             [
-                130,
+                142,
                 "Okay, now I just need to make sure I have a Lalita before I meet the grasshopper. It's a sweet green miracle."
             ],
             [
-                132,
+                144,
                 "Overdo what? Happiness? Freedom? This warm glow inside of me that promises everything is going to be all hunky donkey?"
             ],
             [
-                134,
+                146,
                 "Okay."
             ],
             [
-                137,
+                150,
                 "I can't believe I'm sitting here next to little Lalita Gupta."
             ],
             [
-                139,
+                152,
                 "Little Lalita. That's kind of fun to say. Little Lalita, Little Lalita, Little Lalita, you should try it."
             ],
             [
-                141,
+                154,
                 "You have lost so much weight! That must have been difficult for you because you were so, so fat! Do you remember?"
             ],
             [
-                143,
+                156,
                 "Of course you do. Who could forget being that fat?"
             ],
             [
-                145,
+                158,
                 "So you're a dental student? Hmm, are you aware that dentists have an extremely high suicide rate? Not as high as, say, air traffic controllers, but then there are far more dentists than air traffic controllers, so in pure numbers you're still winning."
             ],
             [
-                168,
+                182,
                 "Hey guys. This is Lalita Gupta, Lalita this is Leonard and Sheldon and Howard and Penny. Isn't it great, she isn't fat any more!"
             ],
             [
-                181,
+                195,
                 "But you're a dentist, he's nuts."
             ],
             [
-                185,
+                199,
                 "Back off Sheldon."
             ],
             [
-                187,
+                201,
                 "If you do not stop hitting on my lady you will feel the full extent of my wrath."
             ],
             [
-                191,
+                205,
                 "You are my lady. Our parents said so. We are for all intents and purposes one hundred percent hooked up."
             ],
             [
-                194,
+                208,
                 "Oh, screw Princess Punchali."
             ],
             [
-                196,
+                210,
                 "But you're not Princess Punchali."
             ],
             [
-                201,
+                215,
                 "What just happened?"
             ],
             [
-                206,
+                221,
                 "Maybe you should keep your eye on the ball, Papa."
             ],
             [
-                214,
-                "Go ahead, tell my parents why they won't have any grandchildren."
-            ],
-            [
-                216,
-                "This has nothing to do with my sperm count."
-            ],
-            [
-                218,
-                "Yes Mommy."
-            ],
-            [
-                220,
-                "Can we please stop talking about my testicles? Sheldon, tell them what you did."
-            ],
-            [
-                224,
-                "Sorry? That's all you can say is sorry?"
+                227,
+                "(Sheldon enters)"
             ],
             [
                 230,
-                "I'm not an alcoholic."
+                "Go ahead, tell my parents why they won't have any grandchildren."
             ],
             [
                 232,
-                "It was just this one time, Papa, I swear."
+                "This has nothing to do with my sperm count."
+            ],
+            [
+                234,
+                "Yes Mommy."
             ],
             [
                 236,
+                "Can we please stop talking about my testicles? Sheldon, tell them what you did."
+            ],
+            [
+                240,
+                "Sorry? That's all you can say is sorry?"
+            ],
+            [
+                246,
+                "I'm not an alcoholic."
+            ],
+            [
+                248,
+                "It was just this one time, Papa, I swear."
+            ],
+            [
+                252,
                 "But Papa, please...."
             ],
             [
-                239,
+                254,
+                "(to Leonard and Sheldon)"
+            ],
+            [
+                256,
                 "Please wait until I get into the hall."
             ]
         ],
         "Howard": [
             [
-                7,
+                8,
                 "Guess whose parents just got broadband?"
             ],
             [
-                50,
+                33,
+                "(As they gather)"
+            ],
+            [
+                52,
                 "Neither do I. Doogie Howser's been off the air for like twenty years."
             ],
             [
-                54,
+                56,
                 "I bet they love Scrubs."
             ],
             [
-                60,
+                62,
                 "It's the entire premise of Fiddler on the Roof."
             ],
             [
-                62,
+                64,
                 "Me too. Of course, it speaks to me culturally."
             ],
             [
-                64,
+                66,
                 "Let's not forget it's got some really catchy tunes."
             ],
             [
-                68,
+                71,
                 "So who wants to rent Fiddler?"
             ],
             [
-                79,
+                86,
                 "Give me the phone."
             ],
             [
-                83,
+                88,
+                "(Dials)"
+            ],
+            [
+                90,
+                "(In a fake Indian accent)"
+            ],
+            [
+                92,
                 "Fine, next time make your own date."
             ],
             [
-                87,
+                96,
                 "Worked for my parents."
-            ],
-            [
-                113,
-                "I'd like to try a slippery nipple."
             ],
             [
                 125,
+                "I'd like to try a slippery nipple."
+            ],
+            [
+                137,
                 "No, no, let's see how long it takes him."
             ],
             [
-                136,
+                148,
                 "Worked for my parents."
             ],
             [
-                148,
+                162,
                 "I'd say he was doing fine, look at her, last girl my mom set me up with had a moustache and a vestigial tail."
             ],
             [
-                160,
+                174,
                 "Oh, yeah, I tried to watch that online, but they wanted a credit card."
             ],
             [
-                162,
+                176,
                 "Oh, no it isn't."
             ],
             [
-                167,
+                181,
                 "Every year at Comic Con. Every day at Disneyland you can hire Snow White to come to your house. Course they prefer it if you have a kid, but..."
             ],
             [
-                190,
+                204,
                 "And you have no wrath."
             ],
             [
-                203,
+                217,
                 "I'll tell you what just happened, I just learned how to pick up Indian chicks."
             ]
         ],
         "Dr. Koothrappali": [
             [
-                10,
+                11,
                 "Lift up the camera. I'm looking at his crotch."
             ],
             [
-                12,
+                13,
                 "Oh, there's much better. Hi."
             ],
             [
-                21,
+                22,
                 "So are you boys academics like our son?"
             ],
             [
-                23,
+                24,
                 "And your parents are comfortable with your limited earning potential?"
             ],
             [
-                26,
+                27,
                 "God, it's just a question, he's so sensitive."
             ],
             [
-                29,
+                30,
                 "Wait, wait. Before you go we have good news. Put the computer down and gather your friends."
             ],
             [
-                31,
+                32,
                 "Friends."
             ],
             [
-                36,
+                38,
                 "You're 26 years old Rajesh. We want grandchildren."
             ],
             [
-                39,
+                41,
                 "If you decide on a spring wedding, we can avoid monsoon season."
             ],
             [
-                48,
+                50,
                 "Bye bye."
             ],
             [
-                205,
+                220,
                 "I play golf with her father, I won't be able to look at him."
             ],
             [
-                207,
+                222,
                 "Oh, now you're a funny man? This is not funny, Mr Funny Man."
             ],
             [
-                209,
+                224,
                 "This is a family matter Sheldon."
             ],
             [
-                211,
+                226,
                 "Oh, sorry, you all look alike to us."
             ],
             [
-                213,
+                229,
                 "Turn us, turn us."
             ],
             [
-                227,
+                243,
                 "Drunk?"
             ],
             [
-                229,
+                245,
                 "I knew it, he moves to America and becomes an alcoholic."
             ],
             [
-                231,
+                247,
                 "Then why were you drunk?"
             ],
             [
-                233,
+                249,
                 "Are you in denial? Do we have to come over and do an intervention?"
             ],
             [
-                235,
+                251,
                 "Alright. Carry us outside, we want to talk to you in private."
             ],
             [
-                237,
+                253,
                 "Now, Rajesh."
             ],
             [
-                238,
+                255,
                 "Now listen to me...."
             ]
         ],
         "Mrs. Koothrappali": [
             [
-                17,
+                18,
                 "Oh, that's nice. Like Haroun and Tanweer."
             ],
             [
-                19,
+                20,
                 "Such sweet young men, they just adopted the cutest little Punjabi baby."
             ],
             [
-                32,
+                34,
                 "Rajesh, do you remember Lalita Gupta?"
             ],
             [
-                34,
+                36,
                 "Yes. Well, now she's a dental student at USC, so we gave her your contact information."
             ],
             [
-                38,
+                40,
                 "Lalita's parents approve the match."
             ],
             [
-                41,
+                43,
                 "It's up to you dear, we don't want to meddle."
             ],
             [
-                47,
+                49,
                 "Sorry darling, we have to go. Doogie Howser is on. Grandma, it's Doogie time! Bye bye."
             ],
             [
-                204,
+                219,
                 "What are we supposed to say to Lalita's parents?"
             ],
             [
-                212,
+                228,
                 "Who is it? We can't see."
             ],
             [
-                217,
+                233,
                 "You are wearing the boxers that we sent you, aren't you Rajesh."
             ],
             [
-                219,
+                235,
                 "Because you know what happens to the samosas when you wear the tidy whities."
             ],
             [
-                234,
+                250,
                 "Don't embarrass him in front of his friends."
             ]
         ],
         "Together": [
             [
-                22,
+                23,
                 "Yes."
             ],
             [
-                24,
+                25,
                 "Not at all."
             ],
             [
-                28,
+                29,
                 "Bye!"
             ]
         ],
-        "Penny": [
+        "All": [
             [
-                89,
-                "I need some guinea pigs."
+                67,
+                "(various noises of agreement)"
+            ]
+        ],
+        "Scene": [
+            [
+                74,
+                "Apartment 4A"
             ],
             [
-                91,
-                "I swear to God, Sheldon, one day I'm going to get the hang of talking to you."
+                149,
+                "The restaurant."
             ],
             [
-                93,
-                "Well, I finally convinced the restaurant to give me a bar tending shift, so I need to practice making drinks."
+                218,
+                "Apartment 4A. Raj is talking to his parents on the webcam."
             ],
             [
-                96,
-                "So Leonard, how about it?"
-            ],
-            [
-                97,
-                "Okay, here you go, Leonard, one tequila sunrise."
-            ],
-            [
-                100,
-                "Uh, how about a grasshopper. I make a mean grasshopper. Okay? Good. Coming up. Sheldon, what are you going to have?"
-            ],
-            [
-                102,
-                "Okay, can you please order a cocktail, I need to practice mixing drinks."
-            ],
-            [
-                104,
-                "That's, um, rum and coke without the rum."
-            ],
-            [
-                106,
-                "So coke."
-            ],
-            [
-                108,
-                "There's a can in the fridge."
-            ],
-            [
-                110,
-                "Then swim to Cuba."
-            ],
-            [
-                112,
-                "Okay, Raj, here you go. Alright, who's next?"
-            ],
-            [
-                114,
-                "Okay, you're cut off. Anybody need a refill?"
-            ],
-            [
-                116,
-                "A... are you talking to me?"
-            ],
-            [
-                120,
-                "Okay, sweetie, I think that's the grasshopper talking."
-            ],
-            [
-                122,
-                "Okay, calm down, no-one can make you get married. Why don't you just meet this girl and, see what happens."
-            ],
-            [
-                126,
-                "Um, Raj, honey, you say you can't talk to women but... you've been talking to me."
-            ],
-            [
-                129,
-                "I'm fine."
-            ],
-            [
-                131,
-                "Okay, if you're going to drink on this date just promise me you won't overdo it."
-            ],
-            [
-                133,
-                "Yeah, that. Uh, why don't you bring her to my restaurant when I'm tending the bar so I can keep an eye on you?"
-            ],
-            [
-                147,
-                "Drinks do not work that way."
-            ],
-            [
-                152,
-                "Okay."
-            ],
-            [
-                154,
-                "Oh, I'll wedge it right in there."
-            ],
-            [
-                164,
-                "I know the reason."
-            ],
-            [
-                246,
-                "Oh, maybe a couple of virgin Cuba libres that turned out to be kind of ... slutty."
-            ],
-            [
-                248,
-                "Hey, you do your experiments, I do mine."
+                263,
+                "Penny\u2019s restaurant. Sheldon is on the piano, singing \u201cTo Life\u201d from Fiddler on the Roof enthusiastically."
             ]
         ],
         "Lalita": [
             [
-                138,
+                79,
+                "(Voice from Raj\u2019s phone)"
+            ],
+            [
+                151,
                 "Well, you are."
             ],
             [
-                140,
+                153,
                 "No, it's okay."
             ],
             [
-                142,
+                155,
                 "Yes, I do."
             ],
             [
-                144,
+                157,
                 "Well, I\u2019ve been trying."
             ],
             [
-                146,
+                159,
                 "Yay me!"
             ],
             [
-                170,
+                184,
                 "I'm sorry?"
             ],
             [
-                172,
+                186,
                 "Oh, no kidding? Oh, who is that?"
             ],
             [
-                174,
+                188,
                 "Oh. Us Indian, or \u201ccome to our casino\u201d Indian?"
             ],
             [
-                176,
+                190,
                 "Oh."
             ],
             [
-                178,
+                192,
                 "Thanks. I imagine you smell very nice too."
             ],
             [
-                180,
+                194,
                 "Really, so do I."
             ],
             [
-                182,
+                196,
                 "Don't be insulting Rajesh. So, Sheldon, tell me more about this princess you say I look like."
             ],
             [
-                184,
+                198,
                 "Oh my."
             ],
             [
-                189,
+                203,
                 "And I am not your lady."
             ],
             [
-                192,
+                206,
                 "Okay, let's get something straight here. The only reason I came tonight was to get my parents off my case, I certainly don't need to be getting this old world crap from you."
             ],
             [
-                195,
+                209,
                 "Hey, you can't talk to me like that."
             ],
             [
-                198,
+                212,
                 "Sheldon, are you hungry?"
             ],
             [
-                200,
+                214,
                 "Let's go."
+            ]
+        ],
+        "Penny": [
+            [
+                97,
+                "(Knocking and entering)"
+            ],
+            [
+                99,
+                "I need some guinea pigs."
+            ],
+            [
+                101,
+                "I swear to God, Sheldon, one day I'm going to get the hang of talking to you."
+            ],
+            [
+                103,
+                "Well, I finally convinced the restaurant to give me a bar tending shift, so I need to practice making drinks."
+            ],
+            [
+                106,
+                "So Leonard, how about it?"
+            ],
+            [
+                108,
+                "Okay, here you go, Leonard, one tequila sunrise."
+            ],
+            [
+                110,
+                "(Raj whispers in Leonard\u2019s ear.)"
+            ],
+            [
+                112,
+                "Uh, how about a grasshopper. I make a mean grasshopper. Okay? Good. Coming up. Sheldon, what are you going to have?"
+            ],
+            [
+                114,
+                "Okay, can you please order a cocktail, I need to practice mixing drinks."
+            ],
+            [
+                116,
+                "That's, um, rum and coke without the rum."
+            ],
+            [
+                118,
+                "So coke."
+            ],
+            [
+                120,
+                "There's a can in the fridge."
+            ],
+            [
+                122,
+                "Then swim to Cuba."
+            ],
+            [
+                124,
+                "Okay, Raj, here you go. Alright, who's next?"
+            ],
+            [
+                126,
+                "Okay, you're cut off. Anybody need a refill?"
+            ],
+            [
+                128,
+                "A... are you talking to me?"
+            ],
+            [
+                132,
+                "Okay, sweetie, I think that's the grasshopper talking."
+            ],
+            [
+                134,
+                "Okay, calm down, no-one can make you get married. Why don't you just meet this girl and, see what happens."
+            ],
+            [
+                138,
+                "Um, Raj, honey, you say you can't talk to women but... you've been talking to me."
+            ],
+            [
+                141,
+                "I'm fine."
+            ],
+            [
+                143,
+                "Okay, if you're going to drink on this date just promise me you won't overdo it."
+            ],
+            [
+                145,
+                "Yeah, that. Uh, why don't you bring her to my restaurant when I'm tending the bar so I can keep an eye on you?"
+            ],
+            [
+                161,
+                "Drinks do not work that way."
+            ],
+            [
+                166,
+                "Okay."
+            ],
+            [
+                168,
+                "Oh, I'll wedge it right in there."
+            ],
+            [
+                178,
+                "I know the reason."
+            ],
+            [
+                265,
+                "Oh, maybe a couple of virgin Cuba libres that turned out to be kind of ... slutty."
+            ],
+            [
+                267,
+                "Hey, you do your experiments, I do mine."
             ]
         ]
     },
@@ -1024,7 +1104,9 @@
         "Raj": "/wiki/Rajesh_Koothrappali",
         "Howard": "/wiki/Howard_Wolowitz",
         "Dr. Koothrappali": "/wiki/Dr._Koothrappali",
-        "Mrs. Koothrappali": "/wiki/Mrs._Koothrappali"
+        "Mrs. Koothrappali": "/wiki/Mrs._Koothrappali",
+        "Lalita": "/wiki/Lalita",
+        "Penny": "/wiki/Penny"
     },
     "AllLines": [
         "Damn you, walletnook.com.",
@@ -1033,6 +1115,7 @@
         "Okay, now, do you really need the honorary Justice League of America membership card?",
         "It's been in every wallet I\u2019ve owned since I was five.",
         "Why?",
+        "(Knock on door)",
         "And this is Leonard and Sheldon's apartment.",
         "Guess whose parents just got broadband?",
         "May I present, live from New Delhi, Dr and Mrs V. M. Koothrappali.",
@@ -1059,6 +1142,7 @@
         "Wait, wait. Before you go we have good news. Put the computer down and gather your friends.",
         "What is it papa.",
         "Friends.",
+        "(As they gather)",
         "Rajesh, do you remember Lalita Gupta?",
         "The little fat girl that used to kick me in the samosas and call me untouchable.",
         "Yes. Well, now she's a dental student at USC, so we gave her your contact information.",
@@ -1092,14 +1176,19 @@
         "Me too. Of course, it speaks to me culturally.",
         "Understandable, but there's a universality to that story which transcends ethnicity.",
         "Let's not forget it's got some really catchy tunes.",
+        "(various noises of agreement)",
         "Okay, I know what I'm going to do.",
         "What?",
         "Find new friends.",
         "So who wants to rent Fiddler?",
         "No need, we have the special edition.",
         "Well, maybe we are like Haroun and Tanweer.",
+        "Apartment 4A",
+        "(On phone)",
+        "(Entering)",
         "Hey, I thought you were finding new friends.",
         "I\u2019ve got some feelers out. In the meantime, listen to this.",
+        "(Voice from Raj\u2019s phone)",
         "Can you believe how pushy she is?",
         "So don't call her.",
         "If I don't call her, I won't hear the end of it from my parents.",
@@ -1108,13 +1197,16 @@
         "I'm done, anybody else?",
         "Give me the phone.",
         "Why?",
+        "(Dials)",
         "What are you doing?",
+        "(In a fake Indian accent)",
         "For what, making me sound like a Simpsons character?",
         "Fine, next time make your own date.",
         "I didn't want to make this one.",
         "Look on the bright side, she might turn out to be a nice, beautiful girl.",
         "Great, then we'll get married, I won't be able to talk to her, and we'll spend the rest of our lives in total silence.",
         "Worked for my parents.",
+        "(Knocking and entering)",
         "Oh, hey.",
         "I need some guinea pigs.",
         "Okay, there's a lab animal supply company in Reseda you could try, but if your research is going to have human applications may I suggest white mice instead, their brain chemistry is far closer to ours.",
@@ -1124,8 +1216,10 @@
         "Oh, great, well the key to acquiring proficiency in any task is repetition.",
         "With certain obvious exceptions. Suicide, for example.",
         "So Leonard, how about it?",
+        "(Raj whispers in his ear)",
         "Okay, here you go, Leonard, one tequila sunrise.",
         "Thank you. This drink is a wonderful example of how liquids with different specific gravities interact in a cylindrical container. Thank you.",
+        "(Raj whispers in Leonard\u2019s ear.)",
         "Whatever you recommend.",
         "Uh, how about a grasshopper. I make a mean grasshopper. Okay? Good. Coming up. Sheldon, what are you going to have?",
         "I'll have a diet coke.",
@@ -1164,6 +1258,7 @@
         "Okay.",
         "Wait a minute, what's the plan here? Let's say he meets her and he likes her and they get married, what's he going to do, stay drunk for the rest of his life?",
         "Worked for my parents.",
+        "The restaurant.",
         "I can't believe I'm sitting here next to little Lalita Gupta.",
         "Well, you are.",
         "Little Lalita. That's kind of fun to say. Little Lalita, Little Lalita, Little Lalita, you should try it.",
@@ -1174,6 +1269,7 @@
         "Well, I\u2019ve been trying.",
         "So you're a dental student? Hmm, are you aware that dentists have an extremely high suicide rate? Not as high as, say, air traffic controllers, but then there are far more dentists than air traffic controllers, so in pure numbers you're still winning.",
         "Yay me!",
+        "(To Penny)",
         "Drinks do not work that way.",
         "I'd say he was doing fine, look at her, last girl my mom set me up with had a moustache and a vestigial tail.",
         "Sorry I'm late.",
@@ -1231,6 +1327,7 @@
         "What just happened?",
         "Beats the hell out of me.",
         "I'll tell you what just happened, I just learned how to pick up Indian chicks.",
+        "Apartment 4A. Raj is talking to his parents on the webcam.",
         "What are we supposed to say to Lalita's parents?",
         "I play golf with her father, I won't be able to look at him.",
         "Maybe you should keep your eye on the ball, Papa.",
@@ -1239,6 +1336,7 @@
         "This is a family matter Sheldon.",
         "No, I'm Leonard.",
         "Oh, sorry, you all look alike to us.",
+        "(Sheldon enters)",
         "Who is it? We can't see.",
         "Turn us, turn us.",
         "Go ahead, tell my parents why they won't have any grandchildren.",
@@ -1265,13 +1363,16 @@
         "Alright. Carry us outside, we want to talk to you in private.",
         "But Papa, please....",
         "Now, Rajesh.",
+        "(to Leonard and Sheldon)",
         "Now listen to me....",
         "Please wait until I get into the hall.",
         "Okay, well, good night.",
         "Hold on. What happened with you and Lalita?",
         "We ate. She lectured me on the link between gum disease and heart attacks, nothing I didn't already know, and I came home.",
         "So you're not going to see her again?",
+        "(Exits)",
         "I wonder who's going to tell his parents they're not having grandchildren.",
+        "Penny\u2019s restaurant. Sheldon is on the piano, singing \u201cTo Life\u201d from Fiddler on the Roof enthusiastically.",
         "I don't believe it, what's gotten into him?",
         "Oh, maybe a couple of virgin Cuba libres that turned out to be kind of ... slutty.",
         "You didn't?",

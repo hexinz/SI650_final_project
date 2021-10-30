@@ -1,6 +1,6 @@
 {
     "Season": 1,
-    "Episode": 24,
+    "Episode": 10,
     "Title": "The_Loobenfeld_Decay",
     "Actor2Line": {
         "Leonard": [
@@ -17,275 +17,303 @@
                 "Alright, oh wait, they use it to in..."
             ],
             [
-                5,
+                7,
                 "What the hell is that?"
             ],
             [
-                7,
+                10,
+                "(seeing Sheldon has large bag in hand and bin is nearby)"
+            ],
+            [
+                12,
                 "Oh, I give up."
             ],
             [
-                10,
+                15,
                 "Believe it or not, personal growth. What happened?"
             ],
             [
-                13,
+                18,
                 "No you don't. No he doesn't."
             ],
             [
-                15,
+                20,
                 "Oh, congratulations, what a lucky break."
             ],
             [
-                18,
+                23,
                 "No you don't. He doesn't."
             ],
             [
-                22,
+                27,
                 "No, it's this Friday, at eight."
             ],
             [
-                25,
-                "Yes, I did."
-            ],
-            [
-                27,
-                "So?"
-            ],
-            [
                 29,
-                "Sheldon, are you worried about your safety."
+                "(Penny exits singing)"
             ],
             [
                 31,
+                "Yes, I did."
+            ],
+            [
+                33,
+                "So?"
+            ],
+            [
+                35,
+                "Sheldon, are you worried about your safety."
+            ],
+            [
+                37,
                 "That's very true."
             ],
             [
-                32,
+                40,
                 "What?"
             ],
             [
-                34,
+                42,
                 "It's two o\u2019clock in the morning"
             ],
             [
-                39,
+                44,
+                "(Long pause)"
+            ],
+            [
+                46,
+                "(Opening door)"
+            ],
+            [
+                48,
+                "(Following Sheldon into living room)"
+            ],
+            [
+                50,
                 "Sheldon, what is it?"
             ],
             [
-                41,
+                52,
                 "What was I supposed to say."
             ],
             [
-                43,
+                54,
                 "That would have hurt her feelings."
             ],
             [
-                45,
-                "Yes."
-            ],
-            [
-                47,
-                "And what would I have said afterwards?"
-            ],
-            [
-                49,
-                "I couldn't say that, I would have to say, you were terrific and I can't wait to hear you sing again."
-            ],
-            [
-                51,
-                "It's the social protocol, it's what you do when you have a friend who's proud of something they really suck at."
-            ],
-            [
-                53,
-                "Well now you are."
-            ],
-            [
-                55,
+                56,
                 "Yes."
             ],
             [
                 58,
-                "How?"
+                "And what would I have said afterwards?"
+            ],
+            [
+                60,
+                "I couldn't say that, I would have to say, you were terrific and I can't wait to hear you sing again."
+            ],
+            [
+                62,
+                "It's the social protocol, it's what you do when you have a friend who's proud of something they really suck at."
+            ],
+            [
+                64,
+                "Well now you are."
+            ],
+            [
+                66,
+                "Yes."
             ],
             [
                 70,
-                "You told her I lied, why would you tell her I lied?"
+                "(Opening door)"
             ],
             [
                 72,
+                "How?"
+            ],
+            [
+                87,
+                "You told her I lied, why would you tell her I lied?"
+            ],
+            [
+                89,
                 "I'm sorry, I'm not seeing the help."
             ],
             [
-                74,
+                91,
                 "Oh, I'm getting a bad feeling."
             ],
             [
-                76,
+                93,
                 "Your cousin Leopold?"
             ],
             [
-                78,
+                95,
                 "What's important?"
             ],
             [
-                80,
+                97,
                 "Do you have a cousin Leopold."
             ],
             [
-                82,
+                99,
                 "I don't get it, I already told her a lie, why replace it with a different lie?"
             ],
             [
-                84,
+                101,
                 "Un-unravelable?"
             ],
             [
-                86,
+                103,
                 "Okay, why would I go to a drug intervention for your cousing."
             ],
             [
-                88,
+                105,
                 "We\u2019re going to Long Beach?"
             ],
             [
-                90,
+                107,
                 "Oh, come on!"
             ],
             [
-                92,
+                109,
                 "So he goes back into rehab?"
             ],
             [
-                94,
+                111,
                 "You still told her I lied."
             ],
             [
-                96,
+                113,
                 "I don't know. How am I supposed to remember all of this."
             ],
             [
-                98,
+                115,
                 "So she's expecting me to lie about going to a symposium in Pasadena, when in actuality we\u2019re pretending to go to a drug intervention in Long Beach?"
             ],
             [
-                101,
+                118,
+                "(Opening door)"
+            ],
+            [
+                120,
                 "Oh, well, thankyou."
             ],
             [
-                103,
+                122,
                 "I don't know what to say."
             ],
             [
-                104,
+                124,
                 "Oh, okay, alright, good."
             ],
             [
-                109,
+                130,
                 "Howard, I'm sorry... we\u2019re... we\u2019re"
             ],
             [
-                111,
+                132,
                 "I don't know what to say."
             ],
             [
-                113,
+                134,
                 "Howard, listen..."
             ],
             [
-                118,
+                139,
                 "Well... I don't know what to say."
             ],
             [
-                123,
+                145,
                 "Oh, another hug, thank you."
             ],
             [
-                125,
+                147,
                 "Thanks Penny."
             ],
             [
-                128,
+                151,
                 "No, we\u2019re not going to Long Beach."
             ],
             [
-                130,
+                153,
                 "Because Sheldon doesn't have a drug addicted cousin Leopold."
             ],
             [
-                137,
+                160,
                 "Wait, are we really going to Long Beach?"
             ],
             [
-                138,
+                163,
                 "Let it go, Sheldon, the murderer was the first mate whether it makes sense to you or not."
             ],
             [
-                140,
+                165,
                 "What are you talking about, it's fine, she bought it, it's over."
             ],
             [
-                142,
+                167,
                 "Why not?"
             ],
             [
-                144,
+                169,
                 "There is no Leo, how can you say that?"
             ],
             [
-                146,
+                171,
                 "I\u2019ve got a solution."
             ],
             [
-                148,
+                173,
                 "Get out."
             ],
             [
-                150,
+                177,
                 "Who are you?"
             ],
             [
-                152,
+                179,
                 "Oh, God! Sheldon does not have a cousin Leo."
             ],
             [
-                156,
+                184,
                 "Sheldon?"
             ],
             [
-                159,
+                187,
                 "Yeah, I got it, Sheldon, why?"
             ],
             [
-                161,
+                189,
                 "Oh...!"
             ],
             [
-                173,
+                202,
                 "Well, that's Leo. Hey, um, why don't you tell me about your showcase last night?"
             ],
             [
-                175,
+                204,
                 "There were only two people there?"
             ],
             [
-                185,
+                214,
                 "As you can see, detoxing can get pretty ugly, let's give them some privacy."
             ],
             [
-                187,
+                216,
                 "Sounds good."
             ],
             [
-                189,
+                218,
                 "Gee, why wouldn't I?"
             ],
             [
-                191,
+                220,
                 "Yeah! Funny how things work out."
             ],
             [
-                198,
+                228,
                 "How long is he going to stay here."
             ]
         ],
@@ -299,525 +327,619 @@
                 "Artificial intelligences do not have teen fetishes."
             ],
             [
+                5,
+                "(Buzzing noise)"
+            ],
+            [
                 8,
+                "(The continue up the stairs and disappear from view)"
+            ],
+            [
+                13,
                 "I don't guess. As a scientist I reach conclusions based on observation and experimentation, although as I'm saying this it occurs to me you may have been employing a rhetorical device rendering my response moot."
             ],
             [
-                12,
+                17,
                 "I have a conclusion based on an observation."
             ],
             [
-                17,
+                22,
                 "I think I know."
             ],
             [
-                21,
+                26,
                 "I think that's a week from Tuesday at six."
             ],
             [
-                24,
+                30,
                 "You just lied to Penny."
             ],
             [
-                26,
+                32,
                 "And you did it so casually, no rapid breathing, no increase in perspiration."
             ],
             [
-                28,
+                34,
                 "So, lack of a physiological response while lying is characteristic of a violent sociopath."
             ],
             [
-                30,
+                36,
                 "No, I imagine if you were going to kill me you'd have done it a long time ago."
             ],
             [
-                33,
+                39,
+                "(Knock, knock, knock, knock)"
+            ],
+            [
+                41,
                 "I need to speak to you."
             ],
             [
-                35,
+                43,
                 "It's important."
             ],
             [
-                36,
+                45,
                 "Yes."
             ],
             [
-                37,
+                47,
                 "You're right, it can wait until morning."
             ],
             [
-                38,
+                49,
                 "Never mind. I clearly woke you up in the middle of a REM cycle, you're in no state to talk."
             ],
             [
-                40,
+                51,
                 "I'm uncomfortable having been included in your lie to Penny."
             ],
             [
-                42,
+                53,
                 "You could have told her the truth."
             ],
             [
-                44,
+                55,
                 "Is that a relevant factor?"
             ],
             [
-                46,
+                57,
                 "Then I suppose you could have agreed to go."
             ],
             [
-                48,
+                59,
                 "I would suggest something to the effect of, singing is neither an appropriate vocation nor avocation for you, and if you disagree, I'd recommend you have a CAT scan, to look for a tumour pressing on the cognitive processing center of your brain."
             ],
             [
-                50,
+                61,
                 "Why?"
             ],
             [
-                52,
+                63,
                 "I was not aware of that."
             ],
             [
-                54,
+                65,
                 "Oh, alright. Leonard."
             ],
             [
-                56,
+                67,
                 "When we played chess earlier, you were terrific and I can't wait to play you again. Goodnight."
             ],
             [
-                57,
-                "I was analyzing our lie, and I believe we\u2019re in danger of Penny seeing through the ruse."
-            ],
-            [
-                59,
-                "Simple. If she were to log on to www.socalphysicsgroup.org/activities/other, click on upcoming events, scroll down to seminars, download the pdf schedule, and look for the seminar on molecular positronium, well then, bippidy-boppidy-boo, our pants are metaphorically on fire."
-            ],
-            [
-                60,
-                "Well, sir, my trousers will not be igniting today."
-            ],
-            [
-                62,
-                "Of course I do. My watch is linked to the atomic clock in Boulder, Colorado. It's accurate to one tenth of a second. But as I'm saying this it occurs to me that once again your question may have been rhetorical."
-            ],
-            [
-                65,
-                "Yes, well, he lied."
-            ],
-            [
-                67,
-                "He lied, and I'm feeling very uncomfortable about it."
-            ],
-            [
                 69,
-                "Hungry? Tired? I'm sorry this really isn't my strong suit."
+                "(Knock, knock, knock, knock)"
             ],
             [
                 71,
-                "To help you."
+                "I was analyzing our lie, and I believe we\u2019re in danger of Penny seeing through the ruse."
             ],
             [
                 73,
-                "She was going to see through your lie eventually, so I told her that you were lying to protect me."
+                "Simple. If she were to log on to www.socalphysicsgroup.org/activities/other, click on upcoming events, scroll down to seminars, download the pdf schedule, and look for the seminar on molecular positronium, well then, bippidy-boppidy-boo, our pants are metaphorically on fire."
             ],
             [
-                75,
-                "Hunger? Indigestion, I'm sorry I'm really not very good at this. Anyway, Penny now believes that on Friday night, we\u2019re going to participate in my cousin Leopold's drug intervention."
+                74,
+                "Well, sir, my trousers will not be igniting today."
             ],
             [
-                77,
-                "Yea, who most people call Leo, but he also answers to Lee, remember that, it's important."
+                76,
+                "(Knock, knock, knock, knock)"
             ],
             [
-                79,
-                "Details, Leonard, the success or failure of our deceitful enterprise turns on details."
+                78,
+                "Of course I do. My watch is linked to the atomic clock in Boulder, Colorado. It's accurate to one tenth of a second. But as I'm saying this it occurs to me that once again your question may have been rhetorical."
             ],
             [
                 81,
-                "No, I made him up. I think you'd call him Lee."
+                "Yes, well, he lied."
             ],
             [
                 83,
-                "Well, first of all, your lie was laughably transparent, where mine is exquisitely convoluted. While you were sleeping I was weaving an un-unravelable web."
+                "He lied, and I'm feeling very uncomfortable about it."
             ],
             [
                 85,
+                "Hungry? Tired? I'm sorry this really isn't my strong suit."
+            ],
+            [
+                88,
+                "To help you."
+            ],
+            [
+                90,
+                "She was going to see through your lie eventually, so I told her that you were lying to protect me."
+            ],
+            [
+                92,
+                "Hunger? Indigestion, I'm sorry I'm really not very good at this. Anyway, Penny now believes that on Friday night, we\u2019re going to participate in my cousin Leopold's drug intervention."
+            ],
+            [
+                94,
+                "Yea, who most people call Leo, but he also answers to Lee, remember that, it's important."
+            ],
+            [
+                96,
+                "Details, Leonard, the success or failure of our deceitful enterprise turns on details."
+            ],
+            [
+                98,
+                "No, I made him up. I think you'd call him Lee."
+            ],
+            [
+                100,
+                "Well, first of all, your lie was laughably transparent, where mine is exquisitely convoluted. While you were sleeping I was weaving an un-unravelable web."
+            ],
+            [
+                102,
                 "Yes, if she googles Leopold Houston she'll find a Facebook page, an online blog depicting his descent into drug use, and a desperate yet hopeful listing on e-harmony.com."
             ],
             [
-                87,
+                104,
                 "Ah, because it's in Long Beach, and I don't drive."
             ],
             [
-                89,
+                106,
                 "No, of course not, there's no cousin Leo, there's no intervention, focus Leonard."
             ],
             [
-                91,
+                108,
                 "We just leave the house on Friday night, and we return in the wee hours emotionally wrung out from the work of convincing Leo to go back into rehab."
             ],
             [
-                93,
+                110,
                 "Yes, but, he can relapse if Penny ever invites us to go hear her sing again."
             ],
             [
-                95,
+                112,
                 "For a noble purpose, to spare me the social embarrassment of having a drug-addled first cousin, which I'm assuming is embarrassing, yes?"
             ],
             [
-                97,
+                114,
                 "That's the best part, you don't have to, see I told Penny that you would be embarrassed, if you knew that she found out that you had lied, so she's agreed to operate as if the original lie was still in force."
             ],
             [
-                99,
+                116,
                 "Un-unravelable."
             ],
             [
-                116,
+                137,
                 "Okay, sure. I don't see a problem with that."
             ],
             [
-                120,
+                141,
                 "Good for you."
             ],
             [
-                132,
-                "It's a very nice community. The Queen Mary is docked there, once the largest ocean liner in the world, it's now a hotel and restaurant where they host a surprisingly gripping murder mystery dinner."
-            ],
-            [
-                136,
-                "No, no, no, Leonard gets nauseous unless he sits in front, and even then it's iffy."
-            ],
-            [
-                139,
-                "No, that's the least of our worries. I\u2019ve been doing some research on addiction, both the biochemical and behavioral aspects, and I think there's a problem with the current version of our lie."
-            ],
-            [
-                141,
-                "Sadly, it's not. Substance abuse is a lifelong struggle, but beyond that I have realized that the Leo I described would not have agreed to go to rehab."
-            ],
-            [
-                143,
-                "Because Leo is a middle child."
-            ],
-            [
-                145,
-                "You didn't read the bio, did you? He's not just a middle child, he's the quintessential middle child, from a broken home to boot. Psychologically speaking, the attention he gets by rebelling even to the point of self-destruction is more emotionally valuable than the help he would get at rehab."
-            ],
-            [
-                147,
-                "Great, what is it?"
-            ],
-            [
-                153,
-                "Excuse me, we just went over this. As the quintessential middle child, your addiction is rooted in your unmet need for attention."
+                149,
+                "(She leaves)"
             ],
             [
                 155,
-                "For your information, this is all based on solid research, stick with the character profile I wrote for you."
+                "It's a very nice community. The Queen Mary is docked there, once the largest ocean liner in the world, it's now a hotel and restaurant where they host a surprisingly gripping murder mystery dinner."
             ],
             [
-                157,
-                "I'm sorry, Leonard, this is Toby Loobenfeld, he's a research assistant in the particle physics lab, but he also minored in theater at MIT."
+                159,
+                "No, no, no, Leonard gets nauseous unless he sits in front, and even then it's iffy."
             ],
             [
-                160,
-                "Well, you see, while Leo would not have gone into rehab, it is completely plausible that we would have talked him into leaving the motel, and coming home with us."
+                162,
+                "(Knock, knock, knock, knock)"
             ],
             [
-                163,
-                "No. We\u2019re going with middle child, and a generic predisposition to inadequate serotonin production."
+                164,
+                "No, that's the least of our worries. I\u2019ve been doing some research on addiction, both the biochemical and behavioral aspects, and I think there's a problem with the current version of our lie."
             ],
             [
                 166,
-                "Unfortunately, we weren't able to convince him to go to rehab."
+                "Sadly, it's not. Substance abuse is a lifelong struggle, but beyond that I have realized that the Leo I described would not have agreed to go to rehab."
             ],
             [
                 168,
-                "But we did convince him to leave the motel. Come say hello. Leo, this is Penny, our friend and neighbor."
+                "Because Leo is a middle child."
             ],
             [
-                180,
-                "Don't forget his genetic predisposition towards addiction."
+                170,
+                "You didn't read the bio, did you? He's not just a middle child, he's the quintessential middle child, from a broken home to boot. Psychologically speaking, the attention he gets by rebelling even to the point of self-destruction is more emotionally valuable than the help he would get at rehab."
             ],
             [
-                182,
-                "There have been studies."
+                172,
+                "Great, what is it?"
             ],
             [
-                184,
-                "How could there be a double blind study, who would be the control group."
+                174,
+                "(He leaves. A moment later he comes back.)"
+            ],
+            [
+                181,
+                "Excuse me, we just went over this. As the quintessential middle child, your addiction is rooted in your unmet need for attention."
+            ],
+            [
+                183,
+                "For your information, this is all based on solid research, stick with the character profile I wrote for you."
+            ],
+            [
+                185,
+                "I'm sorry, Leonard, this is Toby Loobenfeld, he's a research assistant in the particle physics lab, but he also minored in theater at MIT."
+            ],
+            [
+                188,
+                "Well, you see, while Leo would not have gone into rehab, it is completely plausible that we would have talked him into leaving the motel, and coming home with us."
+            ],
+            [
+                191,
+                "No. We\u2019re going with middle child, and a generic predisposition to inadequate serotonin production."
             ],
             [
                 193,
+                "(There is a knock on the door.)"
+            ],
+            [
+                195,
+                "Unfortunately, we weren't able to convince him to go to rehab."
+            ],
+            [
+                197,
+                "But we did convince him to leave the motel. Come say hello. Leo, this is Penny, our friend and neighbor."
+            ],
+            [
+                209,
+                "Don't forget his genetic predisposition towards addiction."
+            ],
+            [
+                211,
+                "There have been studies."
+            ],
+            [
+                213,
+                "How could there be a double blind study, who would be the control group."
+            ],
+            [
+                222,
                 "Your parents made the right decision."
             ],
             [
-                199,
+                229,
                 "He's a homeless drug addict, Leonard, where is he going to go? Boy, you have a lot to learn about lying."
             ]
         ],
         "Penny": [
             [
                 6,
-                "You'll never guess what just happened."
+                "(Voice off, singing off key)"
             ],
             [
                 9,
-                "What was that?"
+                "(Still singing off)"
             ],
             [
                 11,
-                "Alright, remember when I auditioned for that workshop production of Rent, but I didn't get it and I couldn't figure out why?"
+                "You'll never guess what just happened."
             ],
             [
                 14,
-                "Well, the girl they picked to play Mimi, she dropped out and they asked me to replace her."
+                "What was that?"
             ],
             [
                 16,
-                "It's not a big deal, just a one night showcase, but they invite a lot of casting people and agents so, you never know."
+                "Alright, remember when I auditioned for that workshop production of Rent, but I didn't get it and I couldn't figure out why?"
             ],
             [
                 19,
+                "Well, the girl they picked to play Mimi, she dropped out and they asked me to replace her."
+            ],
+            [
+                21,
+                "It's not a big deal, just a one night showcase, but they invite a lot of casting people and agents so, you never know."
+            ],
+            [
+                24,
                 "It's this Friday at eight, you guys want to come?"
             ],
             [
-                23,
+                28,
                 "Oh, too bad, well, I got to get to rehearsal, see you guys."
             ],
             [
-                61,
+                77,
                 "Do you have any idea what time it is?"
             ],
             [
-                63,
+                79,
                 "What do you want?"
             ],
             [
-                64,
+                80,
                 "I remember symposium."
             ],
             [
-                66,
+                82,
                 "Wait, what?"
             ],
             [
-                68,
+                84,
                 "Well imagine how I'm feeling."
             ],
             [
-                100,
+                119,
                 "Thanks. I just wanted to come by and wish you guys luck with your symposium."
             ],
             [
-                102,
+                121,
                 "You know, I got to tell you, a lot of friends would let their friend go alone, but that's not who you are, you are the kind of guy who stands by a friend when... when he has a symposium to go to."
             ],
             [
-                105,
+                123,
+                "(hugs him.)"
+            ],
+            [
+                126,
                 "Uh-huh!"
             ],
             [
-                107,
+                128,
                 "Uh-huh!"
             ],
             [
-                115,
+                136,
                 "Howard, wait. Sheldon, I think we should tell them."
             ],
             [
-                117,
+                138,
                 "There's no symposium, Leonard lied to me, isn't that right Leonard."
             ],
             [
-                119,
+                140,
                 "It's okay, I do, look, Leonard is helping Sheldon through a family crisis, he made up the whole story about the symposium with Dr Farmin..farm...ian"
             ],
             [
-                121,
+                142,
                 "Hah, yeah! Because he didn't want Sheldon to be embarrassed, and there is nothing to be embarrassed okay, every family in America has a relative holed up in a garage somewhere huffing paint thinner."
             ],
             [
-                122,
+                144,
                 "No, look, Sheldon's cousin Leo escaped rehab, and he's in a Motel 8 at Long Beach, the whole family's going out for an intervention. Leonard is driving Sheldon down there to help him through this because he's such a good man."
             ],
             [
-                124,
+                146,
                 "Alright you guys, good luck."
             ],
             [
-                165,
+                194,
                 "Hi. How did the intervention go."
             ],
             [
-                167,
+                196,
                 "Well, based on what you told me, I'm not surprised."
             ],
             [
-                169,
+                198,
                 "Hi Leo, how are you feeling?"
             ],
             [
-                171,
+                200,
                 "No."
             ],
             [
-                174,
+                203,
                 "Oh, it was okay I guess, wasn't a big turn out but they both really seemed to like it."
             ],
             [
-                176,
+                205,
                 "By the end. Yeah."
             ],
             [
-                178,
+                207,
                 "I'm... I'm sorry."
             ],
             [
-                186,
+                215,
                 "Yeah. Hey, do you want to come over to my place, have coffee?"
             ],
             [
-                188,
+                217,
                 "I have a video of me singing last night, do you want to see it?"
             ],
             [
-                190,
+                219,
                 "This is even better than you coming to the showcase, because now I get to watch you watch me."
             ],
             [
-                196,
+                226,
                 "Leo, you are a very sweet, really funny guy. You're gonna do okay."
             ]
         ],
         "Together": [
             [
-                20,
+                25,
                 "No."
+            ]
+        ],
+        "Scene": [
+            [
+                38,
+                "Outside Leonard\u2019s bedroom."
+            ],
+            [
+                68,
+                "Leonard\u2019s bedroom."
+            ],
+            [
+                75,
+                "Outside Penny\u2019s door."
+            ],
+            [
+                86,
+                "The living room."
+            ],
+            [
+                117,
+                "Apartment 4A"
+            ],
+            [
+                161,
+                "Leonard\u2019s bedroom. The bedside table is piled with Queen Mary memorabilia."
+            ],
+            [
+                175,
+                "The living room. Leonard enters in his dressing gown. There is a strange man eating cereal at the kitchen table."
+            ],
+            [
+                224,
+                "Apartment 4A. Penny is on the sofa with Toby. They are watching TV."
             ]
         ],
         "Howard": [
             [
-                106,
-                "Uh-huh?"
-            ],
-            [
-                108,
-                "Okay. So what's up?"
-            ],
-            [
-                110,
-                "No, no, you're quark-blocking us."
-            ],
-            [
-                112,
-                "Wow."
-            ],
-            [
-                114,
-                "No, it's okay, it's your Millenium Falcon, you and Chewbacca do whatever you want to do. Me and Princess Leia here will find some other way to spend the evening."
-            ],
-            [
-                126,
-                "Yeah, uh, break a leg."
+                125,
+                "(Arriving)"
             ],
             [
                 127,
+                "Uh-huh?"
+            ],
+            [
+                129,
+                "Okay. So what's up?"
+            ],
+            [
+                131,
+                "No, no, you're quark-blocking us."
+            ],
+            [
+                133,
+                "Wow."
+            ],
+            [
+                135,
+                "No, it's okay, it's your Millenium Falcon, you and Chewbacca do whatever you want to do. Me and Princess Leia here will find some other way to spend the evening."
+            ],
+            [
+                143,
+                "(After Raj whispers in his ear)"
+            ],
+            [
+                148,
+                "Yeah, uh, break a leg."
+            ],
+            [
+                150,
                 "So, road trip to Long Beach."
             ],
             [
-                134,
+                157,
                 "I'm game."
             ]
         ],
         "Raj": [
             [
-                129,
+                152,
                 "Why not?"
             ],
             [
-                131,
+                154,
                 "Oh, too bad. I\u2019ve always wanted to go to Long Beach."
             ],
             [
-                133,
+                156,
                 "Sounds fun."
             ],
             [
-                135,
+                158,
                 "Shotgun."
             ]
         ],
         "Strange man": [
             [
-                149,
+                176,
                 "Morning."
             ]
         ],
         "Man": [
             [
-                151,
+                178,
                 "I am Sheldon's cousin Leo."
             ],
             [
-                154,
+                180,
+                "(reads off crib notes)"
+            ],
+            [
+                182,
                 "Oh, Sheldon, are we really going to go with pop psychology."
             ]
         ],
         "Toby": [
             [
-                158,
+                186,
                 "It was more of a double major actually. Theater and physics. You can guess which one my bourgeois parents pushed me towards."
             ],
             [
-                162,
+                190,
                 "Sheldon, how about this as my motivation. When I was fourteen years old I was abused in the Philippines by a club footed Navy chaplain."
             ],
             [
-                164,
+                192,
                 "Swell, how do I play genetic predisposition?"
             ],
             [
-                170,
+                199,
                 "Let me ask you something, Penny. Have you ever woken up in a fleabag motel, covered in your own vomit, next to a transsexual prostitute?"
             ],
             [
-                172,
+                201,
                 "Then don't ask me how I'm feeling."
             ],
             [
-                177,
+                206,
                 "Damn you, Chaplain Horrigan!"
             ],
             [
-                179,
+                208,
                 "The Philippines. 1992. The Subic Bay Naval Station. A young boy on the cusp of manhood. His only companions mongrel dogs and malarial mosquitos. Desperate and alone he reached out to a man who promised to introduce him to a merciful, loving God, but who instead introduced him to a gin pickled tongue shoved down his adolescent throat. What choice did he have but to drink, shoot and snort his pain away."
             ],
             [
-                181,
+                210,
                 "That's never been proven."
             ],
             [
-                183,
+                212,
                 "Not double blind studies."
             ],
             [
-                192,
+                221,
                 "And that he loved the companionship and the wisdom that his own father failed to provide."
             ],
             [
-                194,
+                223,
                 "I cannot work like this!"
             ],
             [
-                195,
+                225,
                 "This is amazing. Just sitting on a couch, watching TV with a woman. Not being drunk, or high, or... or... wondering if you're a dude down there."
             ],
             [
-                197,
+                227,
                 "One day at a time, Penny, one day at a time."
             ]
         ]
@@ -825,6 +947,8 @@
     "Actor2Profile": {
         "Leonard": "/wiki/Leonard_Hofstadter",
         "Sheldon": "/wiki/Sheldon_Cooper",
+        "Penny": "/wiki/Penny",
+        "Howard": "/wiki/Howard_Wolowitz",
         "Raj": "/wiki/Rajesh_Koothrappali",
         "Toby": "/wiki/Toby"
     },
@@ -834,7 +958,12 @@
         "Skynet is kinky? I don't know.",
         "Artificial intelligences do not have teen fetishes.",
         "Alright, oh wait, they use it to in...",
+        "(Buzzing noise)",
+        "(Voice off, singing off key)",
         "What the hell is that?",
+        "(The continue up the stairs and disappear from view)",
+        "(Still singing off)",
+        "(seeing Sheldon has large bag in hand and bin is nearby)",
         "You'll never guess what just happened.",
         "Oh, I give up.",
         "I don't guess. As a scientist I reach conclusions based on observation and experimentation, although as I'm saying this it occurs to me you may have been employing a rhetorical device rendering my response moot.",
@@ -853,6 +982,7 @@
         "I think that's a week from Tuesday at six.",
         "No, it's this Friday, at eight.",
         "Oh, too bad, well, I got to get to rehearsal, see you guys.",
+        "(Penny exits singing)",
         "You just lied to Penny.",
         "Yes, I did.",
         "And you did it so casually, no rapid breathing, no increase in perspiration.",
@@ -861,12 +991,17 @@
         "Sheldon, are you worried about your safety.",
         "No, I imagine if you were going to kill me you'd have done it a long time ago.",
         "That's very true.",
+        "Outside Leonard\u2019s bedroom.",
+        "(Knock, knock, knock, knock)",
         "What?",
         "I need to speak to you.",
         "It's two o\u2019clock in the morning",
         "It's important.",
+        "(Long pause)",
         "Yes.",
+        "(Opening door)",
         "You're right, it can wait until morning.",
+        "(Following Sheldon into living room)",
         "Never mind. I clearly woke you up in the middle of a REM cycle, you're in no state to talk.",
         "Sheldon, what is it?",
         "I'm uncomfortable having been included in your lie to Penny.",
@@ -886,10 +1021,15 @@
         "Oh, alright. Leonard.",
         "Yes.",
         "When we played chess earlier, you were terrific and I can't wait to play you again. Goodnight.",
+        "Leonard\u2019s bedroom.",
+        "(Knock, knock, knock, knock)",
+        "(Opening door)",
         "I was analyzing our lie, and I believe we\u2019re in danger of Penny seeing through the ruse.",
         "How?",
         "Simple. If she were to log on to www.socalphysicsgroup.org/activities/other, click on upcoming events, scroll down to seminars, download the pdf schedule, and look for the seminar on molecular positronium, well then, bippidy-boppidy-boo, our pants are metaphorically on fire.",
         "Well, sir, my trousers will not be igniting today.",
+        "Outside Penny\u2019s door.",
+        "(Knock, knock, knock, knock)",
         "Do you have any idea what time it is?",
         "Of course I do. My watch is linked to the atomic clock in Boulder, Colorado. It's accurate to one tenth of a second. But as I'm saying this it occurs to me that once again your question may have been rhetorical.",
         "What do you want?",
@@ -899,6 +1039,7 @@
         "He lied, and I'm feeling very uncomfortable about it.",
         "Well imagine how I'm feeling.",
         "Hungry? Tired? I'm sorry this really isn't my strong suit.",
+        "The living room.",
         "You told her I lied, why would you tell her I lied?",
         "To help you.",
         "I'm sorry, I'm not seeing the help.",
@@ -929,11 +1070,15 @@
         "That's the best part, you don't have to, see I told Penny that you would be embarrassed, if you knew that she found out that you had lied, so she's agreed to operate as if the original lie was still in force.",
         "So she's expecting me to lie about going to a symposium in Pasadena, when in actuality we\u2019re pretending to go to a drug intervention in Long Beach?",
         "Un-unravelable.",
+        "Apartment 4A",
+        "(Opening door)",
         "Thanks. I just wanted to come by and wish you guys luck with your symposium.",
         "Oh, well, thankyou.",
         "You know, I got to tell you, a lot of friends would let their friend go alone, but that's not who you are, you are the kind of guy who stands by a friend when... when he has a symposium to go to.",
         "I don't know what to say.",
+        "(hugs him.)",
         "Oh, okay, alright, good.",
+        "(Arriving)",
         "Uh-huh!",
         "Uh-huh?",
         "Uh-huh!",
@@ -951,11 +1096,13 @@
         "It's okay, I do, look, Leonard is helping Sheldon through a family crisis, he made up the whole story about the symposium with Dr Farmin..farm...ian",
         "Good for you.",
         "Hah, yeah! Because he didn't want Sheldon to be embarrassed, and there is nothing to be embarrassed okay, every family in America has a relative holed up in a garage somewhere huffing paint thinner.",
+        "(After Raj whispers in his ear)",
         "No, look, Sheldon's cousin Leo escaped rehab, and he's in a Motel 8 at Long Beach, the whole family's going out for an intervention. Leonard is driving Sheldon down there to help him through this because he's such a good man.",
         "Oh, another hug, thank you.",
         "Alright you guys, good luck.",
         "Thanks Penny.",
         "Yeah, uh, break a leg.",
+        "(She leaves)",
         "So, road trip to Long Beach.",
         "No, we\u2019re not going to Long Beach.",
         "Why not?",
@@ -967,6 +1114,8 @@
         "Shotgun.",
         "No, no, no, Leonard gets nauseous unless he sits in front, and even then it's iffy.",
         "Wait, are we really going to Long Beach?",
+        "Leonard\u2019s bedroom. The bedside table is piled with Queen Mary memorabilia.",
+        "(Knock, knock, knock, knock)",
         "Let it go, Sheldon, the murderer was the first mate whether it makes sense to you or not.",
         "No, that's the least of our worries. I\u2019ve been doing some research on addiction, both the biochemical and behavioral aspects, and I think there's a problem with the current version of our lie.",
         "What are you talking about, it's fine, she bought it, it's over.",
@@ -978,10 +1127,13 @@
         "I\u2019ve got a solution.",
         "Great, what is it?",
         "Get out.",
+        "(He leaves. A moment later he comes back.)",
+        "The living room. Leonard enters in his dressing gown. There is a strange man eating cereal at the kitchen table.",
         "Morning.",
         "Who are you?",
         "I am Sheldon's cousin Leo.",
         "Oh, God! Sheldon does not have a cousin Leo.",
+        "(reads off crib notes)",
         "Excuse me, we just went over this. As the quintessential middle child, your addiction is rooted in your unmet need for attention.",
         "Oh, Sheldon, are we really going to go with pop psychology.",
         "For your information, this is all based on solid research, stick with the character profile I wrote for you.",
@@ -994,6 +1146,7 @@
         "Sheldon, how about this as my motivation. When I was fourteen years old I was abused in the Philippines by a club footed Navy chaplain.",
         "No. We\u2019re going with middle child, and a generic predisposition to inadequate serotonin production.",
         "Swell, how do I play genetic predisposition?",
+        "(There is a knock on the door.)",
         "Hi. How did the intervention go.",
         "Unfortunately, we weren't able to convince him to go to rehab.",
         "Well, based on what you told me, I'm not surprised.",
@@ -1024,6 +1177,7 @@
         "And that he loved the companionship and the wisdom that his own father failed to provide.",
         "Your parents made the right decision.",
         "I cannot work like this!",
+        "Apartment 4A. Penny is on the sofa with Toby. They are watching TV.",
         "This is amazing. Just sitting on a couch, watching TV with a woman. Not being drunk, or high, or... or... wondering if you're a dude down there.",
         "Leo, you are a very sweet, really funny guy. You're gonna do okay.",
         "One day at a time, Penny, one day at a time.",
