@@ -1,0 +1,1984 @@
+{
+    "Season": 5,
+    "Episode": 17,
+    "Title": "the rothman disintegration",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "A corridor at the university"
+            ],
+            [
+                26,
+                "Credits sequence."
+            ],
+            [
+                27,
+                "Penny\u2019s apartment."
+            ],
+            [
+                42,
+                "A bathroom at the university."
+            ],
+            [
+                61,
+                "Penny\u2019s apartment."
+            ],
+            [
+                75,
+                "The apartment."
+            ],
+            [
+                109,
+                "A basketball court."
+            ],
+            [
+                114,
+                "Later. Sheldon dribbling ball, approached Kripke, throws it wildly at a pile of mats in the corner."
+            ],
+            [
+                116,
+                "Later. Kripke, dribbling ball, watched by Sheldon, dribbles it all the way into the back wall."
+            ],
+            [
+                121,
+                "Later. Kripke chases ball across room chased by Sheldon. Sounds of collision. Sheldon chases ball back across the room chased by Kripke."
+            ],
+            [
+                122,
+                "Later. Ball hits Sheldon in back of head."
+            ],
+            [
+                129,
+                "Later. A trampoline has been added. Sheldon tries first, ball hits backboard, bounces back in his face. Kripke tries next, with a run up, ends up crashing into the back wall again."
+            ],
+            [
+                130,
+                "Later."
+            ],
+            [
+                140,
+                "Penny\u2019s apartment."
+            ],
+            [
+                165,
+                "Rothman\u2019s office."
+            ],
+            [
+                174,
+                "Amy\u2019s apartment."
+            ],
+            [
+                201,
+                "Rothman\u2019s office. Sheldon is trying to affix paper over a fiercely blowing air vent."
+            ],
+            [
+                222,
+                "Penny\u2019s apartment."
+            ],
+            [
+                235,
+                "Rothman\u2019s office. Sheldon has his head stuck in the hole in the wall."
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "It was a nice retirement party."
+            ],
+            [
+                7,
+                "Hey, look, there\u2019s Rothman\u2019s empty office. Sad."
+            ],
+            [
+                25,
+                "I\u2019m glad that men are wearing hats again. They\u2019re so distinguished."
+            ],
+            [
+                76,
+                "Would you look at this? I paid twenty five dollars to some kid on eBay for a handcrafted Harry Potter wand. He sent me a stick. He went into his backyard, he picked up a stick."
+            ],
+            [
+                78,
+                "Ooh, limited edition. Nice."
+            ],
+            [
+                90,
+                "How about you decide this with Rock-Paper-Scissors-Lizard-Spock?"
+            ],
+            [
+                107,
+                "Is there anything you\u2019re both equally bad at?"
+            ],
+            [
+                119,
+                "Yeah."
+            ],
+            [
+                167,
+                "I\u2019m happy for you, Sheldon. But I have to admit I\u2019m going to miss sharing an office with you."
+            ],
+            [
+                169,
+                "Thank you."
+            ],
+            [
+                208,
+                "Well, at least you finally got a window that opens. That\u2019s nice."
+            ],
+            [
+                210,
+                "What, you don\u2019t like wind chimes?"
+            ],
+            [
+                214,
+                "So?"
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "I guess. Still, it\u2019s a shame Professor Rothman was forced to step down."
+            ],
+            [
+                4,
+                "I wonder how long Sheldon\u2019s got."
+            ],
+            [
+                10,
+                "So sad."
+            ],
+            [
+                77,
+                "It\u2019s numbered."
+            ],
+            [
+                100,
+                "Sheldon, stop. He\u2019s screwing with you."
+            ],
+            [
+                102,
+                "It\u2019s the 21st century. You can\u2019t have a duel."
+            ],
+            [
+                137,
+                "Sheldon was higher."
+            ],
+            [
+                204,
+                "Why don\u2019t you just turn up the thermostat?"
+            ],
+            [
+                212,
+                "The bird?"
+            ],
+            [
+                216,
+                "The growing realization that you are one wacky bastard? Yep."
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "What choice did the university have? He snapped. It happens to theoretical physicists all the time."
+            ],
+            [
+                6,
+                "Can\u2019t be very long."
+            ],
+            [
+                8,
+                "Yeah."
+            ],
+            [
+                18,
+                "You just called dibs."
+            ],
+            [
+                80,
+                "What\u2019s he doing here?"
+            ],
+            [
+                103,
+                "H-h-h-hang on, Howard. Barry, how good of a shot are you?"
+            ],
+            [
+                106,
+                "It\u2019s gonna be hard to find something you\u2019re both equally good at."
+            ],
+            [
+                110,
+                "All right, this is one-on-one. First person to five wins the office. Any questions? Yes, Sheldon?"
+            ],
+            [
+                112,
+                "Balls in the basket. (Throws ball to Sheldon)"
+            ],
+            [
+                118,
+                "You know all those terrible things bullies used to do to us?"
+            ],
+            [
+                120,
+                "I get it."
+            ],
+            [
+                124,
+                "No, he didn\u2019t. Nothing that\u2019s happening here is being done on purpose. Okay, uh, forget one-on-one. Let\u2019s try a free throw contest. First person who makes a basket wins the office."
+            ],
+            [
+                126,
+                "No. No, I\u2019m not."
+            ],
+            [
+                131,
+                "All right, we gave it 45 minutes. It\u2019s no longer funny. Let\u2019s try something else."
+            ],
+            [
+                133,
+                "Uh, on the count of three, both of you bounce the balls as hard as you can. The highest bounce wins the office."
+            ],
+            [
+                136,
+                "All right, that\u2019s enough trash talk. One, two, three."
+            ],
+            [
+                138,
+                "Congratulations, Sheldon. You win office."
+            ],
+            [
+                202,
+                "What are you doing?"
+            ],
+            [
+                206,
+                "Why is there a hole here?"
+            ],
+            [
+                218,
+                "Sheldon, relax."
+            ],
+            [
+                220,
+                "If you\u2019re not happy, why don\u2019t you just let Kripke have the office?"
+            ],
+            [
+                237,
+                "What happened?"
+            ],
+            [
+                239,
+                "Why would you do that?"
+            ],
+            [
+                241,
+                "Hang in there. I\u2019ll be right back. (Takes out phone and takes a photo. Sits down and starts posting it online.)"
+            ]
+        ],
+        "Sheldon": [
+            [
+                5,
+                "These shrimp are all the same size. There\u2019s no the logical order to eat them in."
+            ],
+            [
+                9,
+                "Mm, indeed."
+            ],
+            [
+                11,
+                "Dibs."
+            ],
+            [
+                13,
+                "What are you doing here, Kripke?"
+            ],
+            [
+                15,
+                "This is not your office. It hasn\u2019t been assigned yet."
+            ],
+            [
+                17,
+                "Dibs? This is a university, not a playground. Offices are not assigned because someone called dibs."
+            ],
+            [
+                19,
+                "Shut it. Offices are assigned by seniority. I arrived at the university first."
+            ],
+            [
+                43,
+                "I found him. He\u2019s in the bathroom. President Siebert?"
+            ],
+            [
+                45,
+                "I\u2019m sorry. We just need a word."
+            ],
+            [
+                51,
+                "We tried. His assistant said he was on sabbatical. Although we distinctly heard his office window open and shut."
+            ],
+            [
+                53,
+                "Oh, my. President Siebert, I don\u2019t mean to be an alarmist, but difficulty initiating a urine stream could be a symptom of benign prostatic hyperplasia. If you\u2019re interested, I can send you a link to a YouTube video that\u2019ll show you how to perform your own rectal exam. Yeah, uh, helpful hint, trim your nails first."
+            ],
+            [
+                55,
+                "Oh, he\u2019s just trying to butter you up. And for the record, butter is an excellent lubricant for your rectal exam."
+            ],
+            [
+                58,
+                "Kripke?"
+            ],
+            [
+                60,
+                "You\u2019re in my spot."
+            ],
+            [
+                81,
+                "We\u2019re going to work this office situation out like gentlemen. And if that doesn\u2019t work, I\u2019m going to poison his tea."
+            ],
+            [
+                83,
+                "Kripke. Come in. I\u2019m making tea. Would you like a cup?"
+            ],
+            [
+                85,
+                "Fine. In the interest of preserving our friendship\u2026"
+            ],
+            [
+                87,
+                "Well, that\u2019s a little hard to hear, but all right. As you know, the essence of diplomacy is compromise. With that in mind, I propose the following. I will take Rothman\u2019s office, and you will find a way to be okay with that."
+            ],
+            [
+                89,
+                "You sure I can\u2019t get you that cup of tea?"
+            ],
+            [
+                92,
+                "Rock-Paper-Scissors-Lizard-Spock was created by Internet pioneer Sam Kass as an improvement on the classic game Rock-Paper-Scissors. All hail Sam Kass."
+            ],
+            [
+                95,
+                "Oh, it\u2019s very simple. Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors."
+            ],
+            [
+                97,
+                "Well, of course. Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors."
+            ],
+            [
+                99,
+                "Surely. Scissors cuts paper, paper covers rock, rock\u2026"
+            ],
+            [
+                101,
+                "Is he? Well, then, it seems we have reached an impasse. I see no other option than to challenge you to a duel. I\u2019d smack you with a glove, but just last week I packed away my winter things."
+            ],
+            [
+                111,
+                "Five what?"
+            ],
+            [
+                123,
+                "Hey! He did that on purpose,"
+            ],
+            [
+                127,
+                "Use the force, Sheldon. Use the force. (Throws ball. It goes about two feet in front of him.) I\u2019m gonna need more force."
+            ],
+            [
+                132,
+                "What do you propose?"
+            ],
+            [
+                135,
+                "I don\u2019t think so, Kripke. I\u2019ve bounced many a rubber ball in my day."
+            ],
+            [
+                139,
+                "Who\u2019s unsatisfactory in P.E. now?"
+            ],
+            [
+                166,
+                "Ah, the spoils. I see why victors love them."
+            ],
+            [
+                168,
+                "Oh, of course you are. Feel free to drop by any time."
+            ],
+            [
+                170,
+                "Yeah. Call first. (Pushes him out. Closes door. Rothman is standing naked behind it.)"
+            ],
+            [
+                172,
+                "Professor Rothman. This isn\u2019t your office any more. You\u2019re retired."
+            ],
+            [
+                203,
+                "I\u2019m trying to raise the temperature in here before my nipples tear through my shirt."
+            ],
+            [
+                205,
+                "Aha! Good question. It turns out the thermostat for my new office isn\u2019t in my new office. No. It\u2019s next door, in Professor Davenport\u2019s office, who is currently enjoying the hot flashes associated with menopause."
+            ],
+            [
+                209,
+                "Is it? Listen."
+            ],
+            [
+                211,
+                "No, I hate them, but it gets worse. There it is."
+            ],
+            [
+                213,
+                "Yeah, It\u2019s completely out of tune with the wind chimes."
+            ],
+            [
+                215,
+                "You don\u2019t get it, do you? That\u2019s a mockingbird. Mockingbirds can change their song, which means he\u2019s out of tune on purpose. He\u2019s mocking me. Oh dear. There it is again. Do you feel it?"
+            ],
+            [
+                217,
+                "No. The vibration. We are directly underneath the geology lab, and they\u2019re running their confounded sieve shakers again. Hey, gravel monkeys, if you need to shake rocks, try jiggling your heads around!"
+            ],
+            [
+                219,
+                "How can I relax? My nervous system is being stretched out like the strings of a harp and plucked by holes and birds and wind and the low-hanging scrotum of the difficult-to-evict Professor Rothman."
+            ],
+            [
+                221,
+                "What, and let him win? Do I look crazy to you? We\u2019re trying to think down here, you geode-loving feldspar jockeys! (To the bird) And you, the notes are C, D, E, G and A. You pick one or I am chopping down that tree!"
+            ],
+            [
+                236,
+                "Help! Somebody help!"
+            ],
+            [
+                238,
+                "I was trying to see what was in here and my head got stuck."
+            ],
+            [
+                240,
+                "It\u2019s called scientific curiosity. Now go get butter."
+            ]
+        ],
+        "Kripke": [
+            [
+                12,
+                "What\u2019s up, fewwas?"
+            ],
+            [
+                14,
+                "Ah, measuwing my new office for dwapes."
+            ],
+            [
+                16,
+                "Well, I called dibs at the Chwistmas party when Pwofessor Wothman twied to have intercourse with the toys for tots cowwection box."
+            ],
+            [
+                20,
+                "I awwived at the office first. I\u2019m the pwoverbial earwy bird."
+            ],
+            [
+                47,
+                "Sheldon, give the man some pwivacy. I\u2019m sowwy. This guy\u2019s got no wespect for boundawies."
+            ],
+            [
+                49,
+                "Will you tell this wunatic that Pwofessor Wothman\u2019s office is wightfully mine?"
+            ],
+            [
+                54,
+                "Ignore him, Pwesident Siebert. I\u2019m sure a young man such as yourself has a perfectwy healthy pwostate."
+            ],
+            [
+                57,
+                "Well, as wong as we\u2019re here, I might as well take a weak."
+            ],
+            [
+                59,
+                "Yes?"
+            ],
+            [
+                82,
+                "Cooper."
+            ],
+            [
+                84,
+                "Am I weawing a summer fwock? No, I don\u2019t want tea. Wet\u2019s get down to bwass tacks."
+            ],
+            [
+                86,
+                "We\u2019re not fwiends."
+            ],
+            [
+                88,
+                "How about I take Wothman\u2019s office, and you go suck a wemon?"
+            ],
+            [
+                91,
+                "What the fwig is that?"
+            ],
+            [
+                94,
+                "How does it work?"
+            ],
+            [
+                96,
+                "I\u2019m sowwy. Can you wepeat that?"
+            ],
+            [
+                98,
+                "Almost got it. One more time."
+            ],
+            [
+                105,
+                "You have a compwete advantage in twivia. You have an eidetic memowy. Pwus, I haven\u2019t watched Star Twek since I discovered the stwip cwub near my apartment has a fwee buffet."
+            ],
+            [
+                115,
+                "It\u2019s out, wight?"
+            ],
+            [
+                117,
+                "Time. Wan out of woom."
+            ],
+            [
+                125,
+                "Making it too easy there, Hofstadter."
+            ],
+            [
+                128,
+                "Aw wight, Cooper, pwepare to have your heart bwoken. (Throws ball up. It hits the ceiling and doesn\u2019t come down.) Do I get points for that?"
+            ],
+            [
+                134,
+                "Oh, you are going down, Cooper."
+            ]
+        ],
+        "Rothman (entering, naked)": [
+            [
+                21,
+                "Gentlemen."
+            ]
+        ],
+        "All": [
+            [
+                22,
+                "Professor Rothman."
+            ],
+            [
+                24,
+                "Good evening."
+            ],
+            [
+                93,
+                "Hail."
+            ]
+        ],
+        "Rothman": [
+            [
+                23,
+                "Good evening."
+            ],
+            [
+                171,
+                "Oh. Hello."
+            ],
+            [
+                173,
+                "I think the word you\u2019re looking for is invisible."
+            ]
+        ],
+        "Amy": [
+            [
+                28,
+                "I got you a little something."
+            ],
+            [
+                30,
+                "What\u2019s huge is what you\u2019ve done for me."
+            ],
+            [
+                32,
+                "No, no, before I met you, I was a mousy wallflower. But look at me now. I\u2019m like some kind of downtown hipster party girl. With a posse, a boyfriend and a new lace bra that hooks in the front, of all things. Open it. Open it."
+            ],
+            [
+                34,
+                "I wanted to get you something you didn\u2019t have."
+            ],
+            [
+                36,
+                "Do you like it?"
+            ],
+            [
+                38,
+                "So, uh, where are you gonna hang it?"
+            ],
+            [
+                40,
+                "No problem."
+            ],
+            [
+                141,
+                "Oh, what a great movie."
+            ],
+            [
+                143,
+                "My mother didn\u2019t allow me to watch it. She was afraid it might encourage me to join a gang."
+            ],
+            [
+                145,
+                "I guess I should get going, too. Good night, painting Penny. Good night, real Penny."
+            ],
+            [
+                147,
+                "You don\u2019t have to say good night to painting Amy, \u2019cause she\u2019s never leaving."
+            ],
+            [
+                154,
+                "Thank you. Wait. Where\u2019d the painting go?"
+            ],
+            [
+                156,
+                "Why?"
+            ],
+            [
+                158,
+                "You hate it."
+            ],
+            [
+                160,
+                "I feel like an idiot."
+            ],
+            [
+                162,
+                "Why? So you can just take it down when I leave? I don\u2019t need your pity."
+            ],
+            [
+                164,
+                "I\u2019m just glad I didn\u2019t go for the sculpture."
+            ],
+            [
+                176,
+                "Don\u2019t bother."
+            ],
+            [
+                178,
+                "I\u2019m so humiliated. I sat there the whole time that we were watching Grease, thinking you liked the painting."
+            ],
+            [
+                180,
+                "I was a fool from Summer Lovin\u2019 to the very last rama lama lama ke ding a de dinga a dong."
+            ],
+            [
+                182,
+                "Yes, too much. Because our friendship is fundamentally asymmetrical. I clearly like you more than you like me."
+            ],
+            [
+                184,
+                "I bought you a painting that\u2019s 12 square feet in area. There\u2019s a number."
+            ],
+            [
+                186,
+                "If you don\u2019t like feet, you can try dollars. The painting set me back three grand."
+            ],
+            [
+                188,
+                "I\u2019m sorry, I\u2019m just having trouble believing you right now."
+            ],
+            [
+                190,
+                "No. Damage is done."
+            ],
+            [
+                192,
+                "Oh, my goodness, how could I have not seen that? The painting is a constant reminder that of the three of us, she is the least cool."
+            ],
+            [
+                194,
+                "You have such a good heart."
+            ],
+            [
+                196,
+                "Come on."
+            ],
+            [
+                198,
+                "We\u2019re going to go put this painting back up in your apartment."
+            ],
+            [
+                200,
+                "Oh, screw her. She\u2019s just lucky we let her hang out with us."
+            ],
+            [
+                224,
+                "Little higher on the right."
+            ],
+            [
+                226,
+                "Little more. No. That\u2019s got it."
+            ],
+            [
+                228,
+                "I\u2019ll let you in on a little secret."
+            ],
+            [
+                230,
+                "Originally we were painted nude. But I had him add clothes, \u2019cause I thought it was an unnecessary challenge to our heterosexuality."
+            ],
+            [
+                232,
+                "But if you ever change your mind, all it would take is some warm, soapy water and a couple of sponges."
+            ],
+            [
+                234,
+                "Sure."
+            ]
+        ],
+        "Penny": [
+            [
+                29,
+                "A little something? Oh, it\u2026 what, this is huge."
+            ],
+            [
+                31,
+                "Oh, no, Amy, I haven\u2019t done anything."
+            ],
+            [
+                33,
+                "Okay. (Opens parcel to find a huge and not at all flattering painting of Penny and Amy)"
+            ],
+            [
+                35,
+                "Wow. I-I don\u2019t know what to s\u2026 Wow."
+            ],
+            [
+                37,
+                "Do I like it? Wow."
+            ],
+            [
+                39,
+                "Oh, my God. Hang it. Wow. Um, you know, I\u2019d have to go get a hook and nails and a hammer and\u2026"
+            ],
+            [
+                41,
+                "Oh, look. You, huh, you just, you got it all right there. Wow."
+            ],
+            [
+                63,
+                "So big."
+            ],
+            [
+                65,
+                "So ugly. What am I gonna do?"
+            ],
+            [
+                67,
+                "Is there any chance I\u2019ll learn to love it?"
+            ],
+            [
+                69,
+                "All right, it\u2019s got to go."
+            ],
+            [
+                71,
+                "How about I tell her the painting makes you feel jealous because you\u2019re not in it?"
+            ],
+            [
+                73,
+                "Well, I guess I could take it down and put it up when she comes over, but it\u2019s kind of heavy."
+            ],
+            [
+                142,
+                "I cannot believe you\u2019ve never seen Grease."
+            ],
+            [
+                146,
+                "Good night, real Amy."
+            ],
+            [
+                149,
+                "Bye."
+            ],
+            [
+                151,
+                "Ah, okay. Let us take you off the wall. Out of sight, out of mind. I wish."
+            ],
+            [
+                153,
+                "Sure, sure. Enjoy. I mean, get it back to me when you can, or, you know what, actually, you keep it. It\u2019s just going to be my gift to you. Bye."
+            ],
+            [
+                155,
+                "It\u2019s right over there."
+            ],
+            [
+                157,
+                "I have no idea. That is weird."
+            ],
+            [
+                159,
+                "No. No, no. It\u2019s just, it\u2019s a little big."
+            ],
+            [
+                161,
+                "No, come on, you\u2019re not an idiot. Look, just help me put it back up."
+            ],
+            [
+                163,
+                "Oh, Amy, come on."
+            ],
+            [
+                175,
+                "I came to say I\u2019m sorry."
+            ],
+            [
+                177,
+                "Oh, Amy, please."
+            ],
+            [
+                179,
+                "I know."
+            ],
+            [
+                181,
+                "You\u2019re right. You\u2019re absolutely right. I should have been honest with you and told you the gift was too much."
+            ],
+            [
+                183,
+                "I don\u2019t think you can put a number on how much one person likes another."
+            ],
+            [
+                185,
+                "Amy, come on\u2026"
+            ],
+            [
+                187,
+                "Three gr\u2026 Oh, my God! Look, look, Amy, all you need to know is, you are my friend and I don\u2019t want to lose you out of my life."
+            ],
+            [
+                189,
+                "Grab your hammer."
+            ],
+            [
+                191,
+                "Okay, look, I didn\u2019t want to say this, but the real reason I took the painting down was because it made Bernadette very jealous."
+            ],
+            [
+                193,
+                "Yeah, th-th-th-that\u2019s what it is, so\u2026"
+            ],
+            [
+                195,
+                "Huh, I try."
+            ],
+            [
+                197,
+                "Well where are we going?"
+            ],
+            [
+                199,
+                "Well, what about Bernadette?"
+            ],
+            [
+                223,
+                "How\u2019s that?"
+            ],
+            [
+                225,
+                "Now?"
+            ],
+            [
+                227,
+                "Yeah, okay. That\u2019s, uh, that\u2019s good."
+            ],
+            [
+                229,
+                "Mm."
+            ],
+            [
+                231,
+                "Yeah, good call."
+            ],
+            [
+                233,
+                "You\u2019re talking about the painting, right?"
+            ]
+        ],
+        "Siebert": [
+            [
+                44,
+                "Can\u2019t this wait?"
+            ],
+            [
+                46,
+                "Now? You realize I\u2019m your boss, and I am holding my penis?"
+            ],
+            [
+                48,
+                "What do you want?"
+            ],
+            [
+                50,
+                "Can\u2019t you take this up with your department chairman?"
+            ],
+            [
+                52,
+                "Gentlemen, there\u2019s a task I\u2019m trying to accomplish here, and I\u2019m having trouble doing it."
+            ],
+            [
+                56,
+                "Gentlemen, I\u2019m going to allow the two of you to work this out because A, you\u2019re both brilliant scientists, and B, as far as who gets Rothman\u2019s office, I couldn\u2019t give the furry crack of a rat\u2019s behind."
+            ]
+        ],
+        "Bernadette": [
+            [
+                62,
+                "That is big."
+            ],
+            [
+                64,
+                "And ugly."
+            ],
+            [
+                66,
+                "I don\u2019t know. You can\u2019t take it down. You\u2019ll break her heart. Look at that face. That enormous, unsettling, crazy face."
+            ],
+            [
+                68,
+                "That depends. Do you like pictures of yourself where you look like a man?"
+            ],
+            [
+                70,
+                "What will you tell Amy?"
+            ],
+            [
+                72,
+                "Nuh-uh. What if she gets me one? I already have a picture of me and Howard\u2019s mom getting our hair cornrowed in Venice Beach. I\u2019ve suffered enough."
+            ],
+            [
+                74,
+                "Mmm, too bad you\u2019re not as strong as the dude in the painting."
+            ],
+            [
+                144,
+                "I\u2019ve got to go. I\u2019ve got to get up early. My company\u2019s testing a new steroid that supposedly doesn\u2019t shrink testicles, and the last one there has to do the measuring."
+            ],
+            [
+                148,
+                "Good night, real Penny."
+            ],
+            [
+                150,
+                "Good night, transvestite Penny."
+            ]
+        ],
+        "Sheldon (knock on door)": [
+            [
+                79,
+                "Oh, that\u2019ll be Kripke."
+            ]
+        ],
+        "Sheldon: Not pistols. Minds. A trivia contest, and you may choose the field of battle. Star Trek trivia, Star Trek: Next Generation trivia, Star Trek: Deep Space Nine trivia, Star Trek": [
+            [
+                104,
+                "Voyager trivia, or model trains."
+            ]
+        ],
+        "Both": [
+            [
+                108,
+                "Sports."
+            ]
+        ],
+        "Sheldon (dodging out of the way)": [
+            [
+                113,
+                "Ew!"
+            ]
+        ],
+        "Amy (entering)": [
+            [
+                152,
+                "You know, can I borrow that movie? Those singing hooligans really got my motor running."
+            ]
+        ],
+        "Sheldon: Why is there a hole in my new office? I\u2019ve narrowed it down to two possibilities": [
+            [
+                207,
+                "There was something in the wall that someone outside the wall wanted, or the more disturbing, there was something in the wall that wanted out."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "A corridor at the university"
+        ],
+        [
+            "Raj",
+            "It was a nice retirement party."
+        ],
+        [
+            "Howard",
+            "I guess. Still, it\u2019s a shame Professor Rothman was forced to step down."
+        ],
+        [
+            "Leonard",
+            "What choice did the university have? He snapped. It happens to theoretical physicists all the time."
+        ],
+        [
+            "Howard",
+            "I wonder how long Sheldon\u2019s got."
+        ],
+        [
+            "Sheldon",
+            "These shrimp are all the same size. There\u2019s no the logical order to eat them in."
+        ],
+        [
+            "Leonard",
+            "Can\u2019t be very long."
+        ],
+        [
+            "Raj",
+            "Hey, look, there\u2019s Rothman\u2019s empty office. Sad."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "Mm, indeed."
+        ],
+        [
+            "Howard",
+            "So sad."
+        ],
+        [
+            "Sheldon",
+            "Dibs."
+        ],
+        [
+            "Kripke",
+            "What\u2019s up, fewwas?"
+        ],
+        [
+            "Sheldon",
+            "What are you doing here, Kripke?"
+        ],
+        [
+            "Kripke",
+            "Ah, measuwing my new office for dwapes."
+        ],
+        [
+            "Sheldon",
+            "This is not your office. It hasn\u2019t been assigned yet."
+        ],
+        [
+            "Kripke",
+            "Well, I called dibs at the Chwistmas party when Pwofessor Wothman twied to have intercourse with the toys for tots cowwection box."
+        ],
+        [
+            "Sheldon",
+            "Dibs? This is a university, not a playground. Offices are not assigned because someone called dibs."
+        ],
+        [
+            "Leonard",
+            "You just called dibs."
+        ],
+        [
+            "Sheldon",
+            "Shut it. Offices are assigned by seniority. I arrived at the university first."
+        ],
+        [
+            "Kripke",
+            "I awwived at the office first. I\u2019m the pwoverbial earwy bird."
+        ],
+        [
+            "Rothman (entering, naked)",
+            "Gentlemen."
+        ],
+        [
+            "All",
+            "Professor Rothman."
+        ],
+        [
+            "Rothman",
+            "Good evening."
+        ],
+        [
+            "All",
+            "Good evening."
+        ],
+        [
+            "Raj",
+            "I\u2019m glad that men are wearing hats again. They\u2019re so distinguished."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "I got you a little something."
+        ],
+        [
+            "Penny",
+            "A little something? Oh, it\u2026 what, this is huge."
+        ],
+        [
+            "Amy",
+            "What\u2019s huge is what you\u2019ve done for me."
+        ],
+        [
+            "Penny",
+            "Oh, no, Amy, I haven\u2019t done anything."
+        ],
+        [
+            "Amy",
+            "No, no, before I met you, I was a mousy wallflower. But look at me now. I\u2019m like some kind of downtown hipster party girl. With a posse, a boyfriend and a new lace bra that hooks in the front, of all things. Open it. Open it."
+        ],
+        [
+            "Penny",
+            "Okay. (Opens parcel to find a huge and not at all flattering painting of Penny and Amy)"
+        ],
+        [
+            "Amy",
+            "I wanted to get you something you didn\u2019t have."
+        ],
+        [
+            "Penny",
+            "Wow. I-I don\u2019t know what to s\u2026 Wow."
+        ],
+        [
+            "Amy",
+            "Do you like it?"
+        ],
+        [
+            "Penny",
+            "Do I like it? Wow."
+        ],
+        [
+            "Amy",
+            "So, uh, where are you gonna hang it?"
+        ],
+        [
+            "Penny",
+            "Oh, my God. Hang it. Wow. Um, you know, I\u2019d have to go get a hook and nails and a hammer and\u2026"
+        ],
+        [
+            "Amy",
+            "No problem."
+        ],
+        [
+            "Penny",
+            "Oh, look. You, huh, you just, you got it all right there. Wow."
+        ],
+        [
+            "Scene",
+            "A bathroom at the university."
+        ],
+        [
+            "Sheldon",
+            "I found him. He\u2019s in the bathroom. President Siebert?"
+        ],
+        [
+            "Siebert",
+            "Can\u2019t this wait?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. We just need a word."
+        ],
+        [
+            "Siebert",
+            "Now? You realize I\u2019m your boss, and I am holding my penis?"
+        ],
+        [
+            "Kripke",
+            "Sheldon, give the man some pwivacy. I\u2019m sowwy. This guy\u2019s got no wespect for boundawies."
+        ],
+        [
+            "Siebert",
+            "What do you want?"
+        ],
+        [
+            "Kripke",
+            "Will you tell this wunatic that Pwofessor Wothman\u2019s office is wightfully mine?"
+        ],
+        [
+            "Siebert",
+            "Can\u2019t you take this up with your department chairman?"
+        ],
+        [
+            "Sheldon",
+            "We tried. His assistant said he was on sabbatical. Although we distinctly heard his office window open and shut."
+        ],
+        [
+            "Siebert",
+            "Gentlemen, there\u2019s a task I\u2019m trying to accomplish here, and I\u2019m having trouble doing it."
+        ],
+        [
+            "Sheldon",
+            "Oh, my. President Siebert, I don\u2019t mean to be an alarmist, but difficulty initiating a urine stream could be a symptom of benign prostatic hyperplasia. If you\u2019re interested, I can send you a link to a YouTube video that\u2019ll show you how to perform your own rectal exam. Yeah, uh, helpful hint, trim your nails first."
+        ],
+        [
+            "Kripke",
+            "Ignore him, Pwesident Siebert. I\u2019m sure a young man such as yourself has a perfectwy healthy pwostate."
+        ],
+        [
+            "Sheldon",
+            "Oh, he\u2019s just trying to butter you up. And for the record, butter is an excellent lubricant for your rectal exam."
+        ],
+        [
+            "Siebert",
+            "Gentlemen, I\u2019m going to allow the two of you to work this out because A, you\u2019re both brilliant scientists, and B, as far as who gets Rothman\u2019s office, I couldn\u2019t give the furry crack of a rat\u2019s behind."
+        ],
+        [
+            "Kripke",
+            "Well, as wong as we\u2019re here, I might as well take a weak."
+        ],
+        [
+            "Sheldon",
+            "Kripke?"
+        ],
+        [
+            "Kripke",
+            "Yes?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re in my spot."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "That is big."
+        ],
+        [
+            "Penny",
+            "So big."
+        ],
+        [
+            "Bernadette",
+            "And ugly."
+        ],
+        [
+            "Penny",
+            "So ugly. What am I gonna do?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know. You can\u2019t take it down. You\u2019ll break her heart. Look at that face. That enormous, unsettling, crazy face."
+        ],
+        [
+            "Penny",
+            "Is there any chance I\u2019ll learn to love it?"
+        ],
+        [
+            "Bernadette",
+            "That depends. Do you like pictures of yourself where you look like a man?"
+        ],
+        [
+            "Penny",
+            "All right, it\u2019s got to go."
+        ],
+        [
+            "Bernadette",
+            "What will you tell Amy?"
+        ],
+        [
+            "Penny",
+            "How about I tell her the painting makes you feel jealous because you\u2019re not in it?"
+        ],
+        [
+            "Bernadette",
+            "Nuh-uh. What if she gets me one? I already have a picture of me and Howard\u2019s mom getting our hair cornrowed in Venice Beach. I\u2019ve suffered enough."
+        ],
+        [
+            "Penny",
+            "Well, I guess I could take it down and put it up when she comes over, but it\u2019s kind of heavy."
+        ],
+        [
+            "Bernadette",
+            "Mmm, too bad you\u2019re not as strong as the dude in the painting."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Would you look at this? I paid twenty five dollars to some kid on eBay for a handcrafted Harry Potter wand. He sent me a stick. He went into his backyard, he picked up a stick."
+        ],
+        [
+            "Howard",
+            "It\u2019s numbered."
+        ],
+        [
+            "Raj",
+            "Ooh, limited edition. Nice."
+        ],
+        [
+            "Sheldon (knock on door)",
+            "Oh, that\u2019ll be Kripke."
+        ],
+        [
+            "Leonard",
+            "What\u2019s he doing here?"
+        ],
+        [
+            "Sheldon",
+            "We\u2019re going to work this office situation out like gentlemen. And if that doesn\u2019t work, I\u2019m going to poison his tea."
+        ],
+        [
+            "Kripke",
+            "Cooper."
+        ],
+        [
+            "Sheldon",
+            "Kripke. Come in. I\u2019m making tea. Would you like a cup?"
+        ],
+        [
+            "Kripke",
+            "Am I weawing a summer fwock? No, I don\u2019t want tea. Wet\u2019s get down to bwass tacks."
+        ],
+        [
+            "Sheldon",
+            "Fine. In the interest of preserving our friendship\u2026"
+        ],
+        [
+            "Kripke",
+            "We\u2019re not fwiends."
+        ],
+        [
+            "Sheldon",
+            "Well, that\u2019s a little hard to hear, but all right. As you know, the essence of diplomacy is compromise. With that in mind, I propose the following. I will take Rothman\u2019s office, and you will find a way to be okay with that."
+        ],
+        [
+            "Kripke",
+            "How about I take Wothman\u2019s office, and you go suck a wemon?"
+        ],
+        [
+            "Sheldon",
+            "You sure I can\u2019t get you that cup of tea?"
+        ],
+        [
+            "Raj",
+            "How about you decide this with Rock-Paper-Scissors-Lizard-Spock?"
+        ],
+        [
+            "Kripke",
+            "What the fwig is that?"
+        ],
+        [
+            "Sheldon",
+            "Rock-Paper-Scissors-Lizard-Spock was created by Internet pioneer Sam Kass as an improvement on the classic game Rock-Paper-Scissors. All hail Sam Kass."
+        ],
+        [
+            "All",
+            "Hail."
+        ],
+        [
+            "Kripke",
+            "How does it work?"
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s very simple. Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors."
+        ],
+        [
+            "Kripke",
+            "I\u2019m sowwy. Can you wepeat that?"
+        ],
+        [
+            "Sheldon",
+            "Well, of course. Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors."
+        ],
+        [
+            "Kripke",
+            "Almost got it. One more time."
+        ],
+        [
+            "Sheldon",
+            "Surely. Scissors cuts paper, paper covers rock, rock\u2026"
+        ],
+        [
+            "Howard",
+            "Sheldon, stop. He\u2019s screwing with you."
+        ],
+        [
+            "Sheldon",
+            "Is he? Well, then, it seems we have reached an impasse. I see no other option than to challenge you to a duel. I\u2019d smack you with a glove, but just last week I packed away my winter things."
+        ],
+        [
+            "Howard",
+            "It\u2019s the 21st century. You can\u2019t have a duel."
+        ],
+        [
+            "Leonard",
+            "H-h-h-hang on, Howard. Barry, how good of a shot are you?"
+        ],
+        [
+            "Sheldon: Not pistols. Minds. A trivia contest, and you may choose the field of battle. Star Trek trivia, Star Trek: Next Generation trivia, Star Trek: Deep Space Nine trivia, Star Trek",
+            "Voyager trivia, or model trains."
+        ],
+        [
+            "Kripke",
+            "You have a compwete advantage in twivia. You have an eidetic memowy. Pwus, I haven\u2019t watched Star Twek since I discovered the stwip cwub near my apartment has a fwee buffet."
+        ],
+        [
+            "Leonard",
+            "It\u2019s gonna be hard to find something you\u2019re both equally good at."
+        ],
+        [
+            "Raj",
+            "Is there anything you\u2019re both equally bad at?"
+        ],
+        [
+            "Both",
+            "Sports."
+        ],
+        [
+            "Scene",
+            "A basketball court."
+        ],
+        [
+            "Leonard",
+            "All right, this is one-on-one. First person to five wins the office. Any questions? Yes, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Five what?"
+        ],
+        [
+            "Leonard",
+            "Balls in the basket. (Throws ball to Sheldon)"
+        ],
+        [
+            "Sheldon (dodging out of the way)",
+            "Ew!"
+        ],
+        [
+            "Scene",
+            "Later. Sheldon dribbling ball, approached Kripke, throws it wildly at a pile of mats in the corner."
+        ],
+        [
+            "Kripke",
+            "It\u2019s out, wight?"
+        ],
+        [
+            "Scene",
+            "Later. Kripke, dribbling ball, watched by Sheldon, dribbles it all the way into the back wall."
+        ],
+        [
+            "Kripke",
+            "Time. Wan out of woom."
+        ],
+        [
+            "Leonard",
+            "You know all those terrible things bullies used to do to us?"
+        ],
+        [
+            "Raj",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "I get it."
+        ],
+        [
+            "Scene",
+            "Later. Kripke chases ball across room chased by Sheldon. Sounds of collision. Sheldon chases ball back across the room chased by Kripke."
+        ],
+        [
+            "Scene",
+            "Later. Ball hits Sheldon in back of head."
+        ],
+        [
+            "Sheldon",
+            "Hey! He did that on purpose,"
+        ],
+        [
+            "Leonard",
+            "No, he didn\u2019t. Nothing that\u2019s happening here is being done on purpose. Okay, uh, forget one-on-one. Let\u2019s try a free throw contest. First person who makes a basket wins the office."
+        ],
+        [
+            "Kripke",
+            "Making it too easy there, Hofstadter."
+        ],
+        [
+            "Leonard",
+            "No. No, I\u2019m not."
+        ],
+        [
+            "Sheldon",
+            "Use the force, Sheldon. Use the force. (Throws ball. It goes about two feet in front of him.) I\u2019m gonna need more force."
+        ],
+        [
+            "Kripke",
+            "Aw wight, Cooper, pwepare to have your heart bwoken. (Throws ball up. It hits the ceiling and doesn\u2019t come down.) Do I get points for that?"
+        ],
+        [
+            "Scene",
+            "Later. A trampoline has been added. Sheldon tries first, ball hits backboard, bounces back in his face. Kripke tries next, with a run up, ends up crashing into the back wall again."
+        ],
+        [
+            "Scene",
+            "Later."
+        ],
+        [
+            "Leonard",
+            "All right, we gave it 45 minutes. It\u2019s no longer funny. Let\u2019s try something else."
+        ],
+        [
+            "Sheldon",
+            "What do you propose?"
+        ],
+        [
+            "Leonard",
+            "Uh, on the count of three, both of you bounce the balls as hard as you can. The highest bounce wins the office."
+        ],
+        [
+            "Kripke",
+            "Oh, you are going down, Cooper."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t think so, Kripke. I\u2019ve bounced many a rubber ball in my day."
+        ],
+        [
+            "Leonard",
+            "All right, that\u2019s enough trash talk. One, two, three."
+        ],
+        [
+            "Howard",
+            "Sheldon was higher."
+        ],
+        [
+            "Leonard",
+            "Congratulations, Sheldon. You win office."
+        ],
+        [
+            "Sheldon",
+            "Who\u2019s unsatisfactory in P.E. now?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "Oh, what a great movie."
+        ],
+        [
+            "Penny",
+            "I cannot believe you\u2019ve never seen Grease."
+        ],
+        [
+            "Amy",
+            "My mother didn\u2019t allow me to watch it. She was afraid it might encourage me to join a gang."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ve got to go. I\u2019ve got to get up early. My company\u2019s testing a new steroid that supposedly doesn\u2019t shrink testicles, and the last one there has to do the measuring."
+        ],
+        [
+            "Amy",
+            "I guess I should get going, too. Good night, painting Penny. Good night, real Penny."
+        ],
+        [
+            "Penny",
+            "Good night, real Amy."
+        ],
+        [
+            "Amy",
+            "You don\u2019t have to say good night to painting Amy, \u2019cause she\u2019s never leaving."
+        ],
+        [
+            "Bernadette",
+            "Good night, real Penny."
+        ],
+        [
+            "Penny",
+            "Bye."
+        ],
+        [
+            "Bernadette",
+            "Good night, transvestite Penny."
+        ],
+        [
+            "Penny",
+            "Ah, okay. Let us take you off the wall. Out of sight, out of mind. I wish."
+        ],
+        [
+            "Amy (entering)",
+            "You know, can I borrow that movie? Those singing hooligans really got my motor running."
+        ],
+        [
+            "Penny",
+            "Sure, sure. Enjoy. I mean, get it back to me when you can, or, you know what, actually, you keep it. It\u2019s just going to be my gift to you. Bye."
+        ],
+        [
+            "Amy",
+            "Thank you. Wait. Where\u2019d the painting go?"
+        ],
+        [
+            "Penny",
+            "It\u2019s right over there."
+        ],
+        [
+            "Amy",
+            "Why?"
+        ],
+        [
+            "Penny",
+            "I have no idea. That is weird."
+        ],
+        [
+            "Amy",
+            "You hate it."
+        ],
+        [
+            "Penny",
+            "No. No, no. It\u2019s just, it\u2019s a little big."
+        ],
+        [
+            "Amy",
+            "I feel like an idiot."
+        ],
+        [
+            "Penny",
+            "No, come on, you\u2019re not an idiot. Look, just help me put it back up."
+        ],
+        [
+            "Amy",
+            "Why? So you can just take it down when I leave? I don\u2019t need your pity."
+        ],
+        [
+            "Penny",
+            "Oh, Amy, come on."
+        ],
+        [
+            "Amy",
+            "I\u2019m just glad I didn\u2019t go for the sculpture."
+        ],
+        [
+            "Scene",
+            "Rothman\u2019s office."
+        ],
+        [
+            "Sheldon",
+            "Ah, the spoils. I see why victors love them."
+        ],
+        [
+            "Raj",
+            "I\u2019m happy for you, Sheldon. But I have to admit I\u2019m going to miss sharing an office with you."
+        ],
+        [
+            "Sheldon",
+            "Oh, of course you are. Feel free to drop by any time."
+        ],
+        [
+            "Raj",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Yeah. Call first. (Pushes him out. Closes door. Rothman is standing naked behind it.)"
+        ],
+        [
+            "Rothman",
+            "Oh. Hello."
+        ],
+        [
+            "Sheldon",
+            "Professor Rothman. This isn\u2019t your office any more. You\u2019re retired."
+        ],
+        [
+            "Rothman",
+            "I think the word you\u2019re looking for is invisible."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "I came to say I\u2019m sorry."
+        ],
+        [
+            "Amy",
+            "Don\u2019t bother."
+        ],
+        [
+            "Penny",
+            "Oh, Amy, please."
+        ],
+        [
+            "Amy",
+            "I\u2019m so humiliated. I sat there the whole time that we were watching Grease, thinking you liked the painting."
+        ],
+        [
+            "Penny",
+            "I know."
+        ],
+        [
+            "Amy",
+            "I was a fool from Summer Lovin\u2019 to the very last rama lama lama ke ding a de dinga a dong."
+        ],
+        [
+            "Penny",
+            "You\u2019re right. You\u2019re absolutely right. I should have been honest with you and told you the gift was too much."
+        ],
+        [
+            "Amy",
+            "Yes, too much. Because our friendship is fundamentally asymmetrical. I clearly like you more than you like me."
+        ],
+        [
+            "Penny",
+            "I don\u2019t think you can put a number on how much one person likes another."
+        ],
+        [
+            "Amy",
+            "I bought you a painting that\u2019s 12 square feet in area. There\u2019s a number."
+        ],
+        [
+            "Penny",
+            "Amy, come on\u2026"
+        ],
+        [
+            "Amy",
+            "If you don\u2019t like feet, you can try dollars. The painting set me back three grand."
+        ],
+        [
+            "Penny",
+            "Three gr\u2026 Oh, my God! Look, look, Amy, all you need to know is, you are my friend and I don\u2019t want to lose you out of my life."
+        ],
+        [
+            "Amy",
+            "I\u2019m sorry, I\u2019m just having trouble believing you right now."
+        ],
+        [
+            "Penny",
+            "Grab your hammer."
+        ],
+        [
+            "Amy",
+            "No. Damage is done."
+        ],
+        [
+            "Penny",
+            "Okay, look, I didn\u2019t want to say this, but the real reason I took the painting down was because it made Bernadette very jealous."
+        ],
+        [
+            "Amy",
+            "Oh, my goodness, how could I have not seen that? The painting is a constant reminder that of the three of us, she is the least cool."
+        ],
+        [
+            "Penny",
+            "Yeah, th-th-th-that\u2019s what it is, so\u2026"
+        ],
+        [
+            "Amy",
+            "You have such a good heart."
+        ],
+        [
+            "Penny",
+            "Huh, I try."
+        ],
+        [
+            "Amy",
+            "Come on."
+        ],
+        [
+            "Penny",
+            "Well where are we going?"
+        ],
+        [
+            "Amy",
+            "We\u2019re going to go put this painting back up in your apartment."
+        ],
+        [
+            "Penny",
+            "Well, what about Bernadette?"
+        ],
+        [
+            "Amy",
+            "Oh, screw her. She\u2019s just lucky we let her hang out with us."
+        ],
+        [
+            "Scene",
+            "Rothman\u2019s office. Sheldon is trying to affix paper over a fiercely blowing air vent."
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m trying to raise the temperature in here before my nipples tear through my shirt."
+        ],
+        [
+            "Howard",
+            "Why don\u2019t you just turn up the thermostat?"
+        ],
+        [
+            "Sheldon",
+            "Aha! Good question. It turns out the thermostat for my new office isn\u2019t in my new office. No. It\u2019s next door, in Professor Davenport\u2019s office, who is currently enjoying the hot flashes associated with menopause."
+        ],
+        [
+            "Leonard",
+            "Why is there a hole here?"
+        ],
+        [
+            "Sheldon: Why is there a hole in my new office? I\u2019ve narrowed it down to two possibilities",
+            "There was something in the wall that someone outside the wall wanted, or the more disturbing, there was something in the wall that wanted out."
+        ],
+        [
+            "Raj",
+            "Well, at least you finally got a window that opens. That\u2019s nice."
+        ],
+        [
+            "Sheldon",
+            "Is it? Listen."
+        ],
+        [
+            "Raj",
+            "What, you don\u2019t like wind chimes?"
+        ],
+        [
+            "Sheldon",
+            "No, I hate them, but it gets worse. There it is."
+        ],
+        [
+            "Howard",
+            "The bird?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, It\u2019s completely out of tune with the wind chimes."
+        ],
+        [
+            "Raj",
+            "So?"
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t get it, do you? That\u2019s a mockingbird. Mockingbirds can change their song, which means he\u2019s out of tune on purpose. He\u2019s mocking me. Oh dear. There it is again. Do you feel it?"
+        ],
+        [
+            "Howard",
+            "The growing realization that you are one wacky bastard? Yep."
+        ],
+        [
+            "Sheldon",
+            "No. The vibration. We are directly underneath the geology lab, and they\u2019re running their confounded sieve shakers again. Hey, gravel monkeys, if you need to shake rocks, try jiggling your heads around!"
+        ],
+        [
+            "Leonard",
+            "Sheldon, relax."
+        ],
+        [
+            "Sheldon",
+            "How can I relax? My nervous system is being stretched out like the strings of a harp and plucked by holes and birds and wind and the low-hanging scrotum of the difficult-to-evict Professor Rothman."
+        ],
+        [
+            "Leonard",
+            "If you\u2019re not happy, why don\u2019t you just let Kripke have the office?"
+        ],
+        [
+            "Sheldon",
+            "What, and let him win? Do I look crazy to you? We\u2019re trying to think down here, you geode-loving feldspar jockeys! (To the bird) And you, the notes are C, D, E, G and A. You pick one or I am chopping down that tree!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "How\u2019s that?"
+        ],
+        [
+            "Amy",
+            "Little higher on the right."
+        ],
+        [
+            "Penny",
+            "Now?"
+        ],
+        [
+            "Amy",
+            "Little more. No. That\u2019s got it."
+        ],
+        [
+            "Penny",
+            "Yeah, okay. That\u2019s, uh, that\u2019s good."
+        ],
+        [
+            "Amy",
+            "I\u2019ll let you in on a little secret."
+        ],
+        [
+            "Penny",
+            "Mm."
+        ],
+        [
+            "Amy",
+            "Originally we were painted nude. But I had him add clothes, \u2019cause I thought it was an unnecessary challenge to our heterosexuality."
+        ],
+        [
+            "Penny",
+            "Yeah, good call."
+        ],
+        [
+            "Amy",
+            "But if you ever change your mind, all it would take is some warm, soapy water and a couple of sponges."
+        ],
+        [
+            "Penny",
+            "You\u2019re talking about the painting, right?"
+        ],
+        [
+            "Amy",
+            "Sure."
+        ],
+        [
+            "Scene",
+            "Rothman\u2019s office. Sheldon has his head stuck in the hole in the wall."
+        ],
+        [
+            "Sheldon",
+            "Help! Somebody help!"
+        ],
+        [
+            "Leonard",
+            "What happened?"
+        ],
+        [
+            "Sheldon",
+            "I was trying to see what was in here and my head got stuck."
+        ],
+        [
+            "Leonard",
+            "Why would you do that?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s called scientific curiosity. Now go get butter."
+        ],
+        [
+            "Leonard",
+            "Hang in there. I\u2019ll be right back. (Takes out phone and takes a photo. Sits down and starts posting it online.)"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-17-the-rothman-disintegration/"
+}

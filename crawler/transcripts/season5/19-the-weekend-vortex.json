@@ -1,0 +1,1654 @@
+{
+    "Season": 5,
+    "Episode": 19,
+    "Title": "the weekend vortex",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The stairwell"
+            ],
+            [
+                33,
+                "Credits sequence."
+            ],
+            [
+                34,
+                "The comic book store."
+            ],
+            [
+                55,
+                "Penny\u2019s apartment."
+            ],
+            [
+                85,
+                "Amy\u2019s car."
+            ],
+            [
+                98,
+                "The apartment."
+            ],
+            [
+                113,
+                "Penny\u2019s apartment."
+            ],
+            [
+                133,
+                "The apartment."
+            ],
+            [
+                145,
+                "Penny\u2019s apartment."
+            ],
+            [
+                166,
+                "The apartment."
+            ],
+            [
+                199,
+                "Some time later. The guys are asleep."
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "Hey, want to spend some time playing the new Star Wars game this weekend?"
+            ],
+            [
+                5,
+                "You know what would be great? Let\u2019s do it like the old days."
+            ],
+            [
+                7,
+                "Yeah. Start Saturday morning, go 48 hours, sleeping bags, junk food."
+            ],
+            [
+                11,
+                "We were badass back in the day."
+            ],
+            [
+                14,
+                "It\u2019s on like Alderaan."
+            ],
+            [
+                16,
+                "Woo-hoo!"
+            ],
+            [
+                99,
+                "Here you go. I\u2019ve got everything we\u2019ll need for the big game. Low fat turkey jerky, low-carb beer, 100-calorie snack packs."
+            ],
+            [
+                101,
+                "Hey, I plan on levelling up in the game, not my swimsuit size, thank you very much."
+            ],
+            [
+                108,
+                "What, you invited your girlfriend? This is supposed to be our weekend."
+            ],
+            [
+                138,
+                "Got him. When Gandhi advocated his philosophy of non-violence, I bet he didn\u2019t know how much fun it was killing stuff."
+            ],
+            [
+                167,
+                "Bernadette, remember, your character\u2019s the healer in our group. You\u2019re in charge of healing all of us, not just Howard."
+            ],
+            [
+                186,
+                "But e-excuse me, I have something to say. None of you may realize it, but I was very much looking forward to this weekend. It was gonna be like the old days, the four of us hanging out playing video games before you guys all got girlfriends. Do you have any idea what it\u2019s like to be the only one without a girlfriend? Even if I get one someday, I\u2019ll still be the guy who got a girl after Sheldon Cooper!"
+            ],
+            [
+                196,
+                "Just leave! Okay, now. This is the way it\u2019s supposed to be. Men together, fighting the forces of evil."
+            ],
+            [
+                198,
+                "I can\u2019t believe this is only 64 calories."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Oh, I don\u2019t know. I kind of promised myself I\u2019d get off the computer, be more physically active. Get some exercise."
+            ],
+            [
+                4,
+                "Good point, I\u2019m in."
+            ],
+            [
+                6,
+                "You mean, are you talking gaming marathon?"
+            ],
+            [
+                9,
+                "It would be like our World Of Warcraft a few years ago when the neighbours called the cops on us."
+            ],
+            [
+                12,
+                "All right, let\u2019s do it."
+            ],
+            [
+                15,
+                "Hey, Sheldon, clear your weekend. Starting Saturday morning, Star Wars< marathon"
+            ],
+            [
+                18,
+                "We are going to play the online game."
+            ],
+            [
+                29,
+                "We\u2019ll miss you, Sheldon."
+            ],
+            [
+                46,
+                "I\u2019d make fun of Sheldon for having girl problems if I wasn\u2019t in shock that Sheldon has girl problems."
+            ],
+            [
+                48,
+                "That\u2019s what your father used to say?"
+            ],
+            [
+                56,
+                "Hey, listen, I kind of made plans with the guys this weekend, but then I wondered, because we\u2019re in this relationship-beta-test, if I should have asked you first. Then I thought if I did check with you first, you\u2019d think that I was taking things to seriously. And then, then I got a nosebleed."
+            ],
+            [
+                58,
+                "Oh. I guess I was hoping for a different reaction, but okay."
+            ],
+            [
+                60,
+                "I don\u2019t know, maybe that you\u2019d be a little upset, and then you\u2019d realize that I\u2019m a stallion that has to run free. And that would turn you on a little."
+            ],
+            [
+                62,
+                "Do you mind if I spend the weekend playing video games with the guys?"
+            ],
+            [
+                64,
+                "Ay papi? What is that?"
+            ],
+            [
+                66,
+                "Oh. So you chose that when you become turned on, you turn into Speedy Gonzalez?"
+            ],
+            [
+                68,
+                "Uh-uh."
+            ],
+            [
+                76,
+                "Keep an eye on those expiration dates, I\u2019ve been burned more than once."
+            ],
+            [
+                100,
+                "You pick up a Y chromosome while you were there? You might be short one."
+            ],
+            [
+                103,
+                "Well, we\u2019re always the good guys. In D&D, we\u2019re lawful good, in City Of Heroes, we\u2019re the heroes, in Grand Theft Auto, we pay the prostitutes promptly and never hit them with a bat."
+            ],
+            [
+                106,
+                "Uh, if it\u2019s yoghurt that helps ladies poop, I think Raj beat you to it."
+            ],
+            [
+                111,
+                "Uh, it is, but I think you might\u2019ve waited too long for it to be funny. (Whip sound) I was wrong, it\u2019s still funny."
+            ],
+            [
+                137,
+                "Raj, Imperial Troopers on your tail."
+            ],
+            [
+                139,
+                "All right, I think we got them all. Let\u2019s divide up the loot."
+            ]
+        ],
+        "Howard": [
+            [
+                3,
+                "You\u2019re about to walk up three flights of stairs."
+            ],
+            [
+                8,
+                "Turn off our phones so our moms can\u2019t call."
+            ],
+            [
+                10,
+                "They called the cops because of the smell. They thought we were dead."
+            ],
+            [
+                13,
+                "48 hours of Star Wars gaming."
+            ],
+            [
+                31,
+                "Yeah, but it\u2019s got lightsabres."
+            ],
+            [
+                50,
+                "Look, if you don\u2019t want to go to the party, just don\u2019t go. You\u2019re a grown man. Act like one. Tell Amy you want to spend the weekend having a sleepover and playing video games with your friends. Maybe she\u2019ll dig it. Women like a firm hand on the tiller."
+            ],
+            [
+                53,
+                "Now, I downloaded an app that might be helpful in this situation. (Phone makes whip sound)"
+            ],
+            [
+                105,
+                "Hey, guys, I got a surprise."
+            ],
+            [
+                107,
+                "No. Bernadette\u2019s going to be playing with us. So, that\u2019s pretty cool, huh? Right? Sure it is, yeah."
+            ],
+            [
+                109,
+                "I had no choice. Last night, she said, why don\u2019t we go out for brunch tomorrow and then maybe the Arboretum. And I said, well, no, I promised the guys I was going to play a video game with them all weekend. And she said, that sounds like fun, can I come, too? And then I didn\u2019t answer for a second, and then she said, well, do you not want me to come? And then I bought her a new laptop and the game, and she\u2019s parking the car right now."
+            ],
+            [
+                141,
+                "But I worked hard to get this armour."
+            ],
+            [
+                143,
+                "Fine, I\u2019ll change. (Whip sound) "
+            ],
+            [
+                192,
+                "I\u2019ll miss you."
+            ],
+            [
+                194,
+                "I\u2019ll miss you more."
+            ],
+            [
+                201,
+                "That\u2019s my ride, got to go. (Whip sound)"
+            ]
+        ],
+        "Sheldon": [
+            [
+                17,
+                "Movies or video games? Or board game? Or trading card games? Or Lego\u2019s? Or dress up? Or comic books? Or dramatic readings of novelizations? Yes to all!"
+            ],
+            [
+                19,
+                "The online game? Bully!"
+            ],
+            [
+                21,
+                "Just tell her I can\u2019t come."
+            ],
+            [
+                23,
+                "She\u2019s 93. She won\u2019t be disappointed for very long."
+            ],
+            [
+                25,
+                "Amy, the relationship agreement was not designed for either one of us to get our way."
+            ],
+            [
+                27,
+                "I use it to get the right way. The fact that the right way is also my way is a happy coincidence."
+            ],
+            [
+                30,
+                "Yeah, well, who wants to spend the whole weekend, running around a bunch of pretend planets battling made up monsters. That\u2019s for babies."
+            ],
+            [
+                32,
+                "Yeah, please, Amy! It\u2019s got lightsabres!"
+            ],
+            [
+                35,
+                "Hello Stuart."
+            ],
+            [
+                37,
+                "Yes. I\u2019m attending a party this weekend, for a 93-year-old woman. Can you recommend a gift?"
+            ],
+            [
+                39,
+                "Do you supply the the tennis ball?"
+            ],
+            [
+                41,
+                "Then no. What else?"
+            ],
+            [
+                43,
+                "Well, she\u2019d just look silly wearing that without the rest of the costume."
+            ],
+            [
+                45,
+                "Oh, it\u2019s not your fault. I\u2019ve been to the model train store. I\u2019ve been to Radio Shack. This woman is impossible to shop for."
+            ],
+            [
+                47,
+                "No, Leonard, go ahead and mock. Like my daddy always said, Shelly, women aren\u2019t anything but flippin\u2019 pains in the bottom."
+            ],
+            [
+                49,
+                "Well, I took out the bad words and the yeehaw, but you get the gist."
+            ],
+            [
+                52,
+                "Yeah, I always thought if I were ever enslaved, it would be by an advanced species from another planet, not some hotsy-totsy from Glendale."
+            ],
+            [
+                54,
+                "You\u2019re right. I\u2019m smart as a whip. I should be able to figure this out."
+            ],
+            [
+                69,
+                "(Knock, knock, knock) Penny! (Knock, knock, knock) Penny! (Knock, knock, knock) Penny!"
+            ],
+            [
+                71,
+                "Hello, Penny. I just stopped by to bring you this gift."
+            ],
+            [
+                73,
+                "Now that you\u2019re in my debt, please manipulate Amy into releasing me from my commitment to attend her aunt\u2019s tedious birthday party."
+            ],
+            [
+                75,
+                "All right. I thought the candy might not be enough so let me up the ante. These are Cooper Coupons. These are for various things I can do for you. Um, oh, this one is for one free grammar check. Uh, you could use it for emails, letters, tattoos, what have you. Um, oh, this is fun one. This is an afternoon with me at the California Science Center, where I point out their mistakes."
+            ],
+            [
+                78,
+                "Oh, come on. It\u2019s just a simple favour. Now, when\u2019s the last time I asked you to do something for me?"
+            ],
+            [
+                80,
+                "When is the last time I asked you to do something that wasn\u2019t a medical emergency?"
+            ],
+            [
+                82,
+                "All right, then, I have no choice but to go on to plan B."
+            ],
+            [
+                84,
+                "I\u2019m going to run around outside with a wet head and try to catch a cold."
+            ],
+            [
+                87,
+                "Hello."
+            ],
+            [
+                89,
+                "All right."
+            ],
+            [
+                91,
+                "Yes. I decided to find a way that I could have this experience and enjoy it."
+            ],
+            [
+                93,
+                "Oh, don\u2019t thank me. Thank wireless technology. I realized, I can go to your aunt\u2019s awful party and still spend the whole day gaming with my friends."
+            ],
+            [
+                95,
+                "Oh, I got that covered. Headset. I won\u2019t hear a word the old geezers are saying."
+            ],
+            [
+                97,
+                "Thanks. Ooh, listen, I wouldn\u2019t mind a piece of birthday cake, provided the old gal\u2019s candle blow is clean and dry."
+            ],
+            [
+                102,
+                "Gentlemen, the game offers us a choice between playing for the Republic and the light side, or the Sith Empire and the dark side."
+            ],
+            [
+                104,
+                "Those women are prostitutes? You said they were raising money for stem cell research."
+            ],
+            [
+                110,
+                "Is the whip sound app contextually appropriate here?"
+            ],
+            [
+                112,
+                "Oh, good. Hah-hah!"
+            ],
+            [
+                135,
+                "Dr. Rostenkowski, it may interest you to know that saying pew, pew, pew isn\u2019t as effective as pressing your blaster key. In the same way that saying whee doesn\u2019t make the land speeder go."
+            ],
+            [
+                144,
+                "Hah-hah!"
+            ],
+            [
+                169,
+                "That is the most sickeningly sweet thing I have ever experienced. And I am sipping Kool-Aid through a Red Vine."
+            ],
+            [
+                175,
+                "Armin who?"
+            ],
+            [
+                182,
+                "I think I understand. You\u2019re the one person who can say Sheldon Cooper is your boyfriend, but that rings hollow if you can\u2019t lord him over others in the flesh. I forget what I bring to the party and what I take away when I leave. Please accept these valuable Cooper Coupons as restitution."
+            ],
+            [
+                185,
+                "Well played, Amy Farrah Fowler. Let me get my coat. (Whip sound) Oh, grow up, Leonard."
+            ]
+        ],
+        "Amy": [
+            [
+                20,
+                "Gentlemen, as much as I\u2019m sure Sheldon would enjoy playing intergalactic make-believe, he and I have other plans. We are attending my Aunt Flora\u2019s 93rd birthday party."
+            ],
+            [
+                22,
+                "She\u2019ll be disappointed if we don\u2019t show up."
+            ],
+            [
+                24,
+                "No, hang on. I followed all the protocols set forth by you in the relationship agreement. I made a written record request 72 hours in advance. I checked the tyre pressure on the car. I even contacted the Centres For Disease Control to find out what shots they recommend for travel to Orange County. FYI, it\u2019s none."
+            ],
+            [
+                26,
+                "You use it to get your way."
+            ],
+            [
+                28,
+                "You gave me your word. You\u2019re coming with me."
+            ],
+            [
+                86,
+                "Good morning."
+            ],
+            [
+                88,
+                "I think you\u2019re really going to enjoy yourself today. Not only do you get to meet my relatives, but since my aunt\u2019s nursing home is catering the party, all of the food is incredibly soft. It\u2019s like a vacation for your teeth."
+            ],
+            [
+                90,
+                "You sure you\u2019re okay with this?"
+            ],
+            [
+                92,
+                "Thank you. That means a lot to me."
+            ],
+            [
+                94,
+                "Sheldon, my relatives are going to want to talk to you, and you\u2019re going to be sitting there playing a game? Isn\u2019t that a little rude?"
+            ],
+            [
+                96,
+                "You know, if playing that game is more important to you than honouring your commitment to me, and you don\u2019t mind me showing up at a party all by myself after I\u2019ve already told everybody I\u2019ll be bringing somebody, then, fine. Go home and play your game."
+            ],
+            [
+                115,
+                "My boyfriend\u2019s a jerk."
+            ],
+            [
+                117,
+                "I had to go to my aunt\u2019s party all by myself, and everybody was like, where\u2019s this boyfriend you\u2019re always talking about? Is he real, or did you make him up like Armin the miniature horse breeder?"
+            ],
+            [
+                119,
+                "The pretend boyfriend I invented to get my family off my back. It unravelled quickly when I couldn\u2019t answer the question how\u2019d you two meet?"
+            ],
+            [
+                121,
+                "Oh, that\u2019s good."
+            ],
+            [
+                123,
+                "I panicked and said Woodstock. I just wanted to show Sheldon off to my family."
+            ],
+            [
+                125,
+                "Not just my first boyfriend, he\u2019s the best boyfriend. I mean, think about it. I\u2019m dating Sheldon Cooper."
+            ],
+            [
+                127,
+                "He\u2019s handsome, he\u2019s lanky, he\u2019s brilliant, and his skin has that pale, waxy quality."
+            ],
+            [
+                129,
+                "Yeah."
+            ],
+            [
+                131,
+                "Do you ever worry about Leonard doing that to you?"
+            ],
+            [
+                146,
+                "I don\u2019t think I want to play a game."
+            ],
+            [
+                148,
+                "Like that?"
+            ],
+            [
+                150,
+                "Spent a lot of my childhood throwing coins into wishing wells hoping for friends. At a certain point, you start doing trick shots just to keep things interesting."
+            ],
+            [
+                152,
+                "That\u2019d be my boyfriend. Happier playing his dopey Star Trek game with his friends than hanging out with me."
+            ],
+            [
+                154,
+                "What?"
+            ],
+            [
+                156,
+                "What\u2019s the difference?"
+            ],
+            [
+                158,
+                "How do I get him to treat me better?"
+            ],
+            [
+                160,
+                "No, he loves that."
+            ],
+            [
+                162,
+                "Our record for sitting in a room together and not speaking to each other is six-and-a half hours. He said it was a magical evening."
+            ],
+            [
+                164,
+                "I don\u2019t think I\u2019d be good at that."
+            ],
+            [
+                172,
+                "I\u2019m gonna publicly shame you, and then sit back as societal pressure compels you to modify your behaviour."
+            ],
+            [
+                174,
+                "And if you don\u2019t start treating me better, I\u2019m leaving you for a miniature horse breeder named Armin."
+            ],
+            [
+                176,
+                "Armin\u2026 damn it."
+            ],
+            [
+                178,
+                "You\u2019re hurting me."
+            ],
+            [
+                184,
+                "Ooh, Science Center. Redeeming. Let\u2019s go."
+            ],
+            [
+                188,
+                "What about the Science Center?"
+            ],
+            [
+                190,
+                "Rain check."
+            ]
+        ],
+        "Stuart": [
+            [
+                36,
+                "Hey Sheldon. Help you with anything?"
+            ],
+            [
+                38,
+                "Uh, I don\u2019t know. Could put a tennis ball on the end of Excalibur. Make a pretty badass cane."
+            ],
+            [
+                40,
+                "No."
+            ],
+            [
+                42,
+                "Hmm. Oh, have this collectors edition Batman utility belt. Maybe she can use it as a wearable pill caddy."
+            ],
+            [
+                44,
+                "I\u2019m sorry Sheldon, that\u2019s it. That\u2019s all I got."
+            ]
+        ],
+        "Raj: I can never find the tiller. I got a book": [
+            [
+                51,
+                "it didn\u2019t help."
+            ]
+        ],
+        "Penny": [
+            [
+                57,
+                "You don\u2019t have to check with me. Do whatever you want."
+            ],
+            [
+                59,
+                "Really, what were you hoping for?"
+            ],
+            [
+                61,
+                "Okay, I\u2019m an actress. Ask me again."
+            ],
+            [
+                63,
+                "Whu\u2026 the entire weekend? You mean I wouldn\u2019t see you at all? But I ju\u2026 No, no, I knew what I was getting into. You can\u2019t put a saddle on Leonard Hofstadter. Oh, my, is it getting hot in here? Ay, papi."
+            ],
+            [
+                65,
+                "An acting choice."
+            ],
+            [
+                67,
+                "Choo got a problem with that, papi?"
+            ],
+            [
+                70,
+                "Sorry, Stallion. Your weird friend Giraffe is here."
+            ],
+            [
+                72,
+                "Gummy bears? Thank you."
+            ],
+            [
+                74,
+                "Not a chance."
+            ],
+            [
+                77,
+                "All right, sweetie, I\u2019m not going to get involved in your relationship."
+            ],
+            [
+                79,
+                "Yesterday. You made me look in your ear to see if there was a ladybug in it."
+            ],
+            [
+                81,
+                "Yesterday. You made me look in your ear to see if there was a ladybug in it."
+            ],
+            [
+                83,
+                "What\u2019s that?"
+            ],
+            [
+                114,
+                "Amy, what\u2019s wrong?"
+            ],
+            [
+                116,
+                "Well, I know he didn\u2019t cheat on you, so what happened?"
+            ],
+            [
+                118,
+                "Who\u2019s Armin the miniature horse breeder?"
+            ],
+            [
+                120,
+                "I would have thought at a miniature horse show."
+            ],
+            [
+                122,
+                "Mm."
+            ],
+            [
+                124,
+                "Sure, I get that. I mean, he\u2019s your first boyfriend and all."
+            ],
+            [
+                126,
+                "Yes. On purpose."
+            ],
+            [
+                128,
+                "Well, sickly is the new sexy."
+            ],
+            [
+                130,
+                "Mm. You know, Amy, sometimes when you\u2019re in a relationship with someone you really care about, the sucky part is, it leaves you open to getting hurt."
+            ],
+            [
+                132,
+                "That\u2019s hilarious. No."
+            ],
+            [
+                147,
+                "Oh, come on. They\u2019re playing one across the hall, we should, too. Okay, we are gonna take turns bouncing a quarter off the table, and if it goes into this cup, the other person has to drink. Then you get to go again\u2026"
+            ],
+            [
+                149,
+                "Wow. Yeah, b-beginner\u2019s luck. So, now I will drink this entire cup of beer, and you will go again and we can\u2026 uh\u2026 all right. So, yeah, okay, now I\u2019m gonna drink this entire cup and then I\u2019m going to drink another one\u2026 Okay, seriously, stop. What the hell?"
+            ],
+            [
+                151,
+                "Whoa, whoa, give me a second to catch up here. Hold on. (Sound of cheering)"
+            ],
+            [
+                153,
+                "Wars."
+            ],
+            [
+                155,
+                "Star Wars. They get all cranky when you mix the two up."
+            ],
+            [
+                157,
+                "There\u2019s absolutely no difference."
+            ],
+            [
+                159,
+                "All right. Let me give you a little girlfriend 101. Usually the first move out of the gate is you withhold sex, but that will work better after Sheldon hits puberty. So, I\u2019d say give him the silent treatment."
+            ],
+            [
+                161,
+                "Hmm."
+            ],
+            [
+                163,
+                "All right, then we\u2019re gonna have to go with an oldie but goodie, making a scene."
+            ],
+            [
+                165,
+                "That\u2019s why you\u2019re lucky to have me. Back in Omaha, there are two different restaurants I\u2019m not allowed into. Both Chili\u2019s."
+            ],
+            [
+                171,
+                "Yeah, you pick that bone. You pick that bone clean!"
+            ],
+            [
+                173,
+                "Ooh, burn!"
+            ],
+            [
+                177,
+                "Sheldon, she wanted to show you off to her family, and you stood her up, okay? Look at this adorable, smushy face. Smush, smush, smush, smush."
+            ],
+            [
+                179,
+                "No, Sheldon hurt you."
+            ],
+            [
+                181,
+                "Oh."
+            ],
+            [
+                183,
+                "Sheldon, she doesn\u2019t want your stupid\u2026"
+            ],
+            [
+                187,
+                "And that\u2019s how a girl makes a scene. I\u2019m sorry, sweetie. You\u2019re right. You deserve your weekend. Come on, Amy, let\u2019s go."
+            ],
+            [
+                189,
+                "I\u2019ll let you hold my hair while I throw up."
+            ]
+        ],
+        "Bernadette": [
+            [
+                134,
+                "Get that guy! Get that guy! Pew! Pew! Pew! Pew!"
+            ],
+            [
+                136,
+                "Pew!"
+            ],
+            [
+                140,
+                "Ooh, look at this pretty purple robe I just got. You should put on yours and then we\u2019ll match."
+            ],
+            [
+                142,
+                "Sorry, I just thought it\u2019d be nice if people knew we were a couple."
+            ],
+            [
+                168,
+                "I can\u2019t help it. My Howie Wowie has an owie."
+            ],
+            [
+                191,
+                "I\u2019m gonna go, too."
+            ],
+            [
+                193,
+                "I\u2019ll miss you."
+            ],
+            [
+                195,
+                "No, I\u2019ll\u2026"
+            ]
+        ],
+        "Amy (bursting in)": [
+            [
+                170,
+                "Sheldon Cooper, I\u2019ve got a bone to pick with you, and I\u2019m about to do it in front of all your friends."
+            ]
+        ],
+        "Amy: Before": [
+            [
+                180,
+                "now it\u2019s you."
+            ]
+        ],
+        "All": [
+            [
+                197,
+                "Hear! Hear!"
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                200,
+                "Howard Joel Wolowitz! I\u2019ve been worried sick for two days, and I know you turned off your phone! You open up this door right now because I\u2019ve had it up to here! I have been to the morgue and the hospital, and I spent the last half hour walking up these ferkakta stairs!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The stairwell"
+        ],
+        [
+            "Raj",
+            "Hey, want to spend some time playing the new Star Wars game this weekend?"
+        ],
+        [
+            "Leonard",
+            "Oh, I don\u2019t know. I kind of promised myself I\u2019d get off the computer, be more physically active. Get some exercise."
+        ],
+        [
+            "Howard",
+            "You\u2019re about to walk up three flights of stairs."
+        ],
+        [
+            "Leonard",
+            "Good point, I\u2019m in."
+        ],
+        [
+            "Raj",
+            "You know what would be great? Let\u2019s do it like the old days."
+        ],
+        [
+            "Leonard",
+            "You mean, are you talking gaming marathon?"
+        ],
+        [
+            "Raj",
+            "Yeah. Start Saturday morning, go 48 hours, sleeping bags, junk food."
+        ],
+        [
+            "Howard",
+            "Turn off our phones so our moms can\u2019t call."
+        ],
+        [
+            "Leonard",
+            "It would be like our World Of Warcraft a few years ago when the neighbours called the cops on us."
+        ],
+        [
+            "Howard",
+            "They called the cops because of the smell. They thought we were dead."
+        ],
+        [
+            "Raj",
+            "We were badass back in the day."
+        ],
+        [
+            "Leonard",
+            "All right, let\u2019s do it."
+        ],
+        [
+            "Howard",
+            "48 hours of Star Wars gaming."
+        ],
+        [
+            "Raj",
+            "It\u2019s on like Alderaan."
+        ],
+        [
+            "Leonard",
+            "Hey, Sheldon, clear your weekend. Starting Saturday morning, Star Wars< marathon"
+        ],
+        [
+            "Raj",
+            "Woo-hoo!"
+        ],
+        [
+            "Sheldon",
+            "Movies or video games? Or board game? Or trading card games? Or Lego\u2019s? Or dress up? Or comic books? Or dramatic readings of novelizations? Yes to all!"
+        ],
+        [
+            "Leonard",
+            "We are going to play the online game."
+        ],
+        [
+            "Sheldon",
+            "The online game? Bully!"
+        ],
+        [
+            "Amy",
+            "Gentlemen, as much as I\u2019m sure Sheldon would enjoy playing intergalactic make-believe, he and I have other plans. We are attending my Aunt Flora\u2019s 93rd birthday party."
+        ],
+        [
+            "Sheldon",
+            "Just tell her I can\u2019t come."
+        ],
+        [
+            "Amy",
+            "She\u2019ll be disappointed if we don\u2019t show up."
+        ],
+        [
+            "Sheldon",
+            "She\u2019s 93. She won\u2019t be disappointed for very long."
+        ],
+        [
+            "Amy",
+            "No, hang on. I followed all the protocols set forth by you in the relationship agreement. I made a written record request 72 hours in advance. I checked the tyre pressure on the car. I even contacted the Centres For Disease Control to find out what shots they recommend for travel to Orange County. FYI, it\u2019s none."
+        ],
+        [
+            "Sheldon",
+            "Amy, the relationship agreement was not designed for either one of us to get our way."
+        ],
+        [
+            "Amy",
+            "You use it to get your way."
+        ],
+        [
+            "Sheldon",
+            "I use it to get the right way. The fact that the right way is also my way is a happy coincidence."
+        ],
+        [
+            "Amy",
+            "You gave me your word. You\u2019re coming with me."
+        ],
+        [
+            "Leonard",
+            "We\u2019ll miss you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, who wants to spend the whole weekend, running around a bunch of pretend planets battling made up monsters. That\u2019s for babies."
+        ],
+        [
+            "Howard",
+            "Yeah, but it\u2019s got lightsabres."
+        ],
+        [
+            "Sheldon",
+            "Yeah, please, Amy! It\u2019s got lightsabres!"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Sheldon",
+            "Hello Stuart."
+        ],
+        [
+            "Stuart",
+            "Hey Sheldon. Help you with anything?"
+        ],
+        [
+            "Sheldon",
+            "Yes. I\u2019m attending a party this weekend, for a 93-year-old woman. Can you recommend a gift?"
+        ],
+        [
+            "Stuart",
+            "Uh, I don\u2019t know. Could put a tennis ball on the end of Excalibur. Make a pretty badass cane."
+        ],
+        [
+            "Sheldon",
+            "Do you supply the the tennis ball?"
+        ],
+        [
+            "Stuart",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Then no. What else?"
+        ],
+        [
+            "Stuart",
+            "Hmm. Oh, have this collectors edition Batman utility belt. Maybe she can use it as a wearable pill caddy."
+        ],
+        [
+            "Sheldon",
+            "Well, she\u2019d just look silly wearing that without the rest of the costume."
+        ],
+        [
+            "Stuart",
+            "I\u2019m sorry Sheldon, that\u2019s it. That\u2019s all I got."
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s not your fault. I\u2019ve been to the model train store. I\u2019ve been to Radio Shack. This woman is impossible to shop for."
+        ],
+        [
+            "Leonard",
+            "I\u2019d make fun of Sheldon for having girl problems if I wasn\u2019t in shock that Sheldon has girl problems."
+        ],
+        [
+            "Sheldon",
+            "No, Leonard, go ahead and mock. Like my daddy always said, Shelly, women aren\u2019t anything but flippin\u2019 pains in the bottom."
+        ],
+        [
+            "Leonard",
+            "That\u2019s what your father used to say?"
+        ],
+        [
+            "Sheldon",
+            "Well, I took out the bad words and the yeehaw, but you get the gist."
+        ],
+        [
+            "Howard",
+            "Look, if you don\u2019t want to go to the party, just don\u2019t go. You\u2019re a grown man. Act like one. Tell Amy you want to spend the weekend having a sleepover and playing video games with your friends. Maybe she\u2019ll dig it. Women like a firm hand on the tiller."
+        ],
+        [
+            "Raj: I can never find the tiller. I got a book",
+            "it didn\u2019t help."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I always thought if I were ever enslaved, it would be by an advanced species from another planet, not some hotsy-totsy from Glendale."
+        ],
+        [
+            "Howard",
+            "Now, I downloaded an app that might be helpful in this situation. (Phone makes whip sound)"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right. I\u2019m smart as a whip. I should be able to figure this out."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Leonard",
+            "Hey, listen, I kind of made plans with the guys this weekend, but then I wondered, because we\u2019re in this relationship-beta-test, if I should have asked you first. Then I thought if I did check with you first, you\u2019d think that I was taking things to seriously. And then, then I got a nosebleed."
+        ],
+        [
+            "Penny",
+            "You don\u2019t have to check with me. Do whatever you want."
+        ],
+        [
+            "Leonard",
+            "Oh. I guess I was hoping for a different reaction, but okay."
+        ],
+        [
+            "Penny",
+            "Really, what were you hoping for?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know, maybe that you\u2019d be a little upset, and then you\u2019d realize that I\u2019m a stallion that has to run free. And that would turn you on a little."
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019m an actress. Ask me again."
+        ],
+        [
+            "Leonard",
+            "Do you mind if I spend the weekend playing video games with the guys?"
+        ],
+        [
+            "Penny",
+            "Whu\u2026 the entire weekend? You mean I wouldn\u2019t see you at all? But I ju\u2026 No, no, I knew what I was getting into. You can\u2019t put a saddle on Leonard Hofstadter. Oh, my, is it getting hot in here? Ay, papi."
+        ],
+        [
+            "Leonard",
+            "Ay papi? What is that?"
+        ],
+        [
+            "Penny",
+            "An acting choice."
+        ],
+        [
+            "Leonard",
+            "Oh. So you chose that when you become turned on, you turn into Speedy Gonzalez?"
+        ],
+        [
+            "Penny",
+            "Choo got a problem with that, papi?"
+        ],
+        [
+            "Leonard",
+            "Uh-uh."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny! (Knock, knock, knock) Penny! (Knock, knock, knock) Penny!"
+        ],
+        [
+            "Penny",
+            "Sorry, Stallion. Your weird friend Giraffe is here."
+        ],
+        [
+            "Sheldon",
+            "Hello, Penny. I just stopped by to bring you this gift."
+        ],
+        [
+            "Penny",
+            "Gummy bears? Thank you."
+        ],
+        [
+            "Sheldon",
+            "Now that you\u2019re in my debt, please manipulate Amy into releasing me from my commitment to attend her aunt\u2019s tedious birthday party."
+        ],
+        [
+            "Penny",
+            "Not a chance."
+        ],
+        [
+            "Sheldon",
+            "All right. I thought the candy might not be enough so let me up the ante. These are Cooper Coupons. These are for various things I can do for you. Um, oh, this one is for one free grammar check. Uh, you could use it for emails, letters, tattoos, what have you. Um, oh, this is fun one. This is an afternoon with me at the California Science Center, where I point out their mistakes."
+        ],
+        [
+            "Leonard",
+            "Keep an eye on those expiration dates, I\u2019ve been burned more than once."
+        ],
+        [
+            "Penny",
+            "All right, sweetie, I\u2019m not going to get involved in your relationship."
+        ],
+        [
+            "Sheldon",
+            "Oh, come on. It\u2019s just a simple favour. Now, when\u2019s the last time I asked you to do something for me?"
+        ],
+        [
+            "Penny",
+            "Yesterday. You made me look in your ear to see if there was a ladybug in it."
+        ],
+        [
+            "Sheldon",
+            "When is the last time I asked you to do something that wasn\u2019t a medical emergency?"
+        ],
+        [
+            "Penny",
+            "Yesterday. You made me look in your ear to see if there was a ladybug in it."
+        ],
+        [
+            "Sheldon",
+            "All right, then, I have no choice but to go on to plan B."
+        ],
+        [
+            "Penny",
+            "What\u2019s that?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m going to run around outside with a wet head and try to catch a cold."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s car."
+        ],
+        [
+            "Amy",
+            "Good morning."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Amy",
+            "I think you\u2019re really going to enjoy yourself today. Not only do you get to meet my relatives, but since my aunt\u2019s nursing home is catering the party, all of the food is incredibly soft. It\u2019s like a vacation for your teeth."
+        ],
+        [
+            "Sheldon",
+            "All right."
+        ],
+        [
+            "Amy",
+            "You sure you\u2019re okay with this?"
+        ],
+        [
+            "Sheldon",
+            "Yes. I decided to find a way that I could have this experience and enjoy it."
+        ],
+        [
+            "Amy",
+            "Thank you. That means a lot to me."
+        ],
+        [
+            "Sheldon",
+            "Oh, don\u2019t thank me. Thank wireless technology. I realized, I can go to your aunt\u2019s awful party and still spend the whole day gaming with my friends."
+        ],
+        [
+            "Amy",
+            "Sheldon, my relatives are going to want to talk to you, and you\u2019re going to be sitting there playing a game? Isn\u2019t that a little rude?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I got that covered. Headset. I won\u2019t hear a word the old geezers are saying."
+        ],
+        [
+            "Amy",
+            "You know, if playing that game is more important to you than honouring your commitment to me, and you don\u2019t mind me showing up at a party all by myself after I\u2019ve already told everybody I\u2019ll be bringing somebody, then, fine. Go home and play your game."
+        ],
+        [
+            "Sheldon",
+            "Thanks. Ooh, listen, I wouldn\u2019t mind a piece of birthday cake, provided the old gal\u2019s candle blow is clean and dry."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Here you go. I\u2019ve got everything we\u2019ll need for the big game. Low fat turkey jerky, low-carb beer, 100-calorie snack packs."
+        ],
+        [
+            "Leonard",
+            "You pick up a Y chromosome while you were there? You might be short one."
+        ],
+        [
+            "Raj",
+            "Hey, I plan on levelling up in the game, not my swimsuit size, thank you very much."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, the game offers us a choice between playing for the Republic and the light side, or the Sith Empire and the dark side."
+        ],
+        [
+            "Leonard",
+            "Well, we\u2019re always the good guys. In D&D, we\u2019re lawful good, in City Of Heroes, we\u2019re the heroes, in Grand Theft Auto, we pay the prostitutes promptly and never hit them with a bat."
+        ],
+        [
+            "Sheldon",
+            "Those women are prostitutes? You said they were raising money for stem cell research."
+        ],
+        [
+            "Howard",
+            "Hey, guys, I got a surprise."
+        ],
+        [
+            "Leonard",
+            "Uh, if it\u2019s yoghurt that helps ladies poop, I think Raj beat you to it."
+        ],
+        [
+            "Howard",
+            "No. Bernadette\u2019s going to be playing with us. So, that\u2019s pretty cool, huh? Right? Sure it is, yeah."
+        ],
+        [
+            "Raj",
+            "What, you invited your girlfriend? This is supposed to be our weekend."
+        ],
+        [
+            "Howard",
+            "I had no choice. Last night, she said, why don\u2019t we go out for brunch tomorrow and then maybe the Arboretum. And I said, well, no, I promised the guys I was going to play a video game with them all weekend. And she said, that sounds like fun, can I come, too? And then I didn\u2019t answer for a second, and then she said, well, do you not want me to come? And then I bought her a new laptop and the game, and she\u2019s parking the car right now."
+        ],
+        [
+            "Sheldon",
+            "Is the whip sound app contextually appropriate here?"
+        ],
+        [
+            "Leonard",
+            "Uh, it is, but I think you might\u2019ve waited too long for it to be funny. (Whip sound) I was wrong, it\u2019s still funny."
+        ],
+        [
+            "Sheldon",
+            "Oh, good. Hah-hah!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Amy, what\u2019s wrong?"
+        ],
+        [
+            "Amy",
+            "My boyfriend\u2019s a jerk."
+        ],
+        [
+            "Penny",
+            "Well, I know he didn\u2019t cheat on you, so what happened?"
+        ],
+        [
+            "Amy",
+            "I had to go to my aunt\u2019s party all by myself, and everybody was like, where\u2019s this boyfriend you\u2019re always talking about? Is he real, or did you make him up like Armin the miniature horse breeder?"
+        ],
+        [
+            "Penny",
+            "Who\u2019s Armin the miniature horse breeder?"
+        ],
+        [
+            "Amy",
+            "The pretend boyfriend I invented to get my family off my back. It unravelled quickly when I couldn\u2019t answer the question how\u2019d you two meet?"
+        ],
+        [
+            "Penny",
+            "I would have thought at a miniature horse show."
+        ],
+        [
+            "Amy",
+            "Oh, that\u2019s good."
+        ],
+        [
+            "Penny",
+            "Mm."
+        ],
+        [
+            "Amy",
+            "I panicked and said Woodstock. I just wanted to show Sheldon off to my family."
+        ],
+        [
+            "Penny",
+            "Sure, I get that. I mean, he\u2019s your first boyfriend and all."
+        ],
+        [
+            "Amy",
+            "Not just my first boyfriend, he\u2019s the best boyfriend. I mean, think about it. I\u2019m dating Sheldon Cooper."
+        ],
+        [
+            "Penny",
+            "Yes. On purpose."
+        ],
+        [
+            "Amy",
+            "He\u2019s handsome, he\u2019s lanky, he\u2019s brilliant, and his skin has that pale, waxy quality."
+        ],
+        [
+            "Penny",
+            "Well, sickly is the new sexy."
+        ],
+        [
+            "Amy",
+            "Yeah."
+        ],
+        [
+            "Penny",
+            "Mm. You know, Amy, sometimes when you\u2019re in a relationship with someone you really care about, the sucky part is, it leaves you open to getting hurt."
+        ],
+        [
+            "Amy",
+            "Do you ever worry about Leonard doing that to you?"
+        ],
+        [
+            "Penny",
+            "That\u2019s hilarious. No."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Bernadette",
+            "Get that guy! Get that guy! Pew! Pew! Pew! Pew!"
+        ],
+        [
+            "Sheldon",
+            "Dr. Rostenkowski, it may interest you to know that saying pew, pew, pew isn\u2019t as effective as pressing your blaster key. In the same way that saying whee doesn\u2019t make the land speeder go."
+        ],
+        [
+            "Bernadette",
+            "Pew!"
+        ],
+        [
+            "Leonard",
+            "Raj, Imperial Troopers on your tail."
+        ],
+        [
+            "Raj",
+            "Got him. When Gandhi advocated his philosophy of non-violence, I bet he didn\u2019t know how much fun it was killing stuff."
+        ],
+        [
+            "Leonard",
+            "All right, I think we got them all. Let\u2019s divide up the loot."
+        ],
+        [
+            "Bernadette",
+            "Ooh, look at this pretty purple robe I just got. You should put on yours and then we\u2019ll match."
+        ],
+        [
+            "Howard",
+            "But I worked hard to get this armour."
+        ],
+        [
+            "Bernadette",
+            "Sorry, I just thought it\u2019d be nice if people knew we were a couple."
+        ],
+        [
+            "Howard",
+            "Fine, I\u2019ll change. (Whip sound) "
+        ],
+        [
+            "Sheldon",
+            "Hah-hah!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "I don\u2019t think I want to play a game."
+        ],
+        [
+            "Penny",
+            "Oh, come on. They\u2019re playing one across the hall, we should, too. Okay, we are gonna take turns bouncing a quarter off the table, and if it goes into this cup, the other person has to drink. Then you get to go again\u2026"
+        ],
+        [
+            "Amy",
+            "Like that?"
+        ],
+        [
+            "Penny",
+            "Wow. Yeah, b-beginner\u2019s luck. So, now I will drink this entire cup of beer, and you will go again and we can\u2026 uh\u2026 all right. So, yeah, okay, now I\u2019m gonna drink this entire cup and then I\u2019m going to drink another one\u2026 Okay, seriously, stop. What the hell?"
+        ],
+        [
+            "Amy",
+            "Spent a lot of my childhood throwing coins into wishing wells hoping for friends. At a certain point, you start doing trick shots just to keep things interesting."
+        ],
+        [
+            "Penny",
+            "Whoa, whoa, give me a second to catch up here. Hold on. (Sound of cheering)"
+        ],
+        [
+            "Amy",
+            "That\u2019d be my boyfriend. Happier playing his dopey Star Trek game with his friends than hanging out with me."
+        ],
+        [
+            "Penny",
+            "Wars."
+        ],
+        [
+            "Amy",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Star Wars. They get all cranky when you mix the two up."
+        ],
+        [
+            "Amy",
+            "What\u2019s the difference?"
+        ],
+        [
+            "Penny",
+            "There\u2019s absolutely no difference."
+        ],
+        [
+            "Amy",
+            "How do I get him to treat me better?"
+        ],
+        [
+            "Penny",
+            "All right. Let me give you a little girlfriend 101. Usually the first move out of the gate is you withhold sex, but that will work better after Sheldon hits puberty. So, I\u2019d say give him the silent treatment."
+        ],
+        [
+            "Amy",
+            "No, he loves that."
+        ],
+        [
+            "Penny",
+            "Hmm."
+        ],
+        [
+            "Amy",
+            "Our record for sitting in a room together and not speaking to each other is six-and-a half hours. He said it was a magical evening."
+        ],
+        [
+            "Penny",
+            "All right, then we\u2019re gonna have to go with an oldie but goodie, making a scene."
+        ],
+        [
+            "Amy",
+            "I don\u2019t think I\u2019d be good at that."
+        ],
+        [
+            "Penny",
+            "That\u2019s why you\u2019re lucky to have me. Back in Omaha, there are two different restaurants I\u2019m not allowed into. Both Chili\u2019s."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Bernadette, remember, your character\u2019s the healer in our group. You\u2019re in charge of healing all of us, not just Howard."
+        ],
+        [
+            "Bernadette",
+            "I can\u2019t help it. My Howie Wowie has an owie."
+        ],
+        [
+            "Sheldon",
+            "That is the most sickeningly sweet thing I have ever experienced. And I am sipping Kool-Aid through a Red Vine."
+        ],
+        [
+            "Amy (bursting in)",
+            "Sheldon Cooper, I\u2019ve got a bone to pick with you, and I\u2019m about to do it in front of all your friends."
+        ],
+        [
+            "Penny",
+            "Yeah, you pick that bone. You pick that bone clean!"
+        ],
+        [
+            "Amy",
+            "I\u2019m gonna publicly shame you, and then sit back as societal pressure compels you to modify your behaviour."
+        ],
+        [
+            "Penny",
+            "Ooh, burn!"
+        ],
+        [
+            "Amy",
+            "And if you don\u2019t start treating me better, I\u2019m leaving you for a miniature horse breeder named Armin."
+        ],
+        [
+            "Sheldon",
+            "Armin who?"
+        ],
+        [
+            "Amy",
+            "Armin\u2026 damn it."
+        ],
+        [
+            "Penny",
+            "Sheldon, she wanted to show you off to her family, and you stood her up, okay? Look at this adorable, smushy face. Smush, smush, smush, smush."
+        ],
+        [
+            "Amy",
+            "You\u2019re hurting me."
+        ],
+        [
+            "Penny",
+            "No, Sheldon hurt you."
+        ],
+        [
+            "Amy: Before",
+            "now it\u2019s you."
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Sheldon",
+            "I think I understand. You\u2019re the one person who can say Sheldon Cooper is your boyfriend, but that rings hollow if you can\u2019t lord him over others in the flesh. I forget what I bring to the party and what I take away when I leave. Please accept these valuable Cooper Coupons as restitution."
+        ],
+        [
+            "Penny",
+            "Sheldon, she doesn\u2019t want your stupid\u2026"
+        ],
+        [
+            "Amy",
+            "Ooh, Science Center. Redeeming. Let\u2019s go."
+        ],
+        [
+            "Sheldon",
+            "Well played, Amy Farrah Fowler. Let me get my coat. (Whip sound) Oh, grow up, Leonard."
+        ],
+        [
+            "Raj",
+            "But e-excuse me, I have something to say. None of you may realize it, but I was very much looking forward to this weekend. It was gonna be like the old days, the four of us hanging out playing video games before you guys all got girlfriends. Do you have any idea what it\u2019s like to be the only one without a girlfriend? Even if I get one someday, I\u2019ll still be the guy who got a girl after Sheldon Cooper!"
+        ],
+        [
+            "Penny",
+            "And that\u2019s how a girl makes a scene. I\u2019m sorry, sweetie. You\u2019re right. You deserve your weekend. Come on, Amy, let\u2019s go."
+        ],
+        [
+            "Amy",
+            "What about the Science Center?"
+        ],
+        [
+            "Penny",
+            "I\u2019ll let you hold my hair while I throw up."
+        ],
+        [
+            "Amy",
+            "Rain check."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m gonna go, too."
+        ],
+        [
+            "Howard",
+            "I\u2019ll miss you."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll miss you."
+        ],
+        [
+            "Howard",
+            "I\u2019ll miss you more."
+        ],
+        [
+            "Bernadette",
+            "No, I\u2019ll\u2026"
+        ],
+        [
+            "Raj",
+            "Just leave! Okay, now. This is the way it\u2019s supposed to be. Men together, fighting the forces of evil."
+        ],
+        [
+            "All",
+            "Hear! Hear!"
+        ],
+        [
+            "Raj",
+            "I can\u2019t believe this is only 64 calories."
+        ],
+        [
+            "Scene",
+            "Some time later. The guys are asleep."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Howard Joel Wolowitz! I\u2019ve been worried sick for two days, and I know you turned off your phone! You open up this door right now because I\u2019ve had it up to here! I have been to the morgue and the hospital, and I spent the last half hour walking up these ferkakta stairs!"
+        ],
+        [
+            "Howard",
+            "That\u2019s my ride, got to go. (Whip sound)"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-19-the-weekend-vortex/"
+}

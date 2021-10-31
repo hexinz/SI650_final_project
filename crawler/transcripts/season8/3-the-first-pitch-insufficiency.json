@@ -1,0 +1,1796 @@
+{
+    "Season": 8,
+    "Episode": 3,
+    "Title": "the first pitch insufficiency",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                24,
+                "The stairwell."
+            ],
+            [
+                41,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                53,
+                "Penny\u2019s apartment."
+            ],
+            [
+                72,
+                "A gymnasium. "
+            ],
+            [
+                87,
+                "Amy\u2019s car."
+            ],
+            [
+                100,
+                "The gym."
+            ],
+            [
+                106,
+                "The pub."
+            ],
+            [
+                140,
+                "The gym."
+            ],
+            [
+                148,
+                "The pub."
+            ],
+            [
+                160,
+                "Howard and Bernadette\u2019s apartment. "
+            ],
+            [
+                173,
+                "The pub."
+            ],
+            [
+                189,
+                "Angels Stadium"
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "So, how does this game work? I just throw it, like a real ball?"
+            ],
+            [
+                3,
+                "All right."
+            ],
+            [
+                5,
+                "What\u2019s that about?"
+            ],
+            [
+                13,
+                "The Angels wanted an astronaut to throw out the first pitch, so guess who they called?"
+            ],
+            [
+                15,
+                "Well, a lot of people who weren\u2019t available, but then me."
+            ],
+            [
+                20,
+                "All right, here we go."
+            ],
+            [
+                22,
+                "Cut it out. You\u2019re hurting my feelings."
+            ],
+            [
+                43,
+                "Hey, even professional pitchers need a rubdown after the game."
+            ],
+            [
+                45,
+                "For your information, I also gave Leonard one hell of a high five."
+            ],
+            [
+                47,
+                "They\u2019re doing Space Day and NASA asked me. I felt like I couldn\u2019t say no."
+            ],
+            [
+                49,
+                "Thank you, that would be great."
+            ],
+            [
+                51,
+                "What\u2019s wrong with the way I run?"
+            ],
+            [
+                74,
+                "Well, I was going to, but the day of tryouts I found my dad\u2019s Playboy collection. Threw my arm out."
+            ],
+            [
+                76,
+                "Great. You take this and say when to stop. How much further?"
+            ],
+            [
+                78,
+                "How about now?"
+            ],
+            [
+                80,
+                "Are you saying stop and we\u2019re just too far away to hear you?"
+            ],
+            [
+                82,
+                "Are you kidding me?!"
+            ],
+            [
+                84,
+                "There\u2019s no way this is sixty feet."
+            ],
+            [
+                86,
+                "You realize this isn\u2019t one of those times I want you to exaggerate how long something is."
+            ],
+            [
+                102,
+                "That\u2019s your help? That\u2019s like saying here\u2019s how you fly a plane, get in the airplane, know where you want to go and fly it."
+            ],
+            [
+                143,
+                "That was a close one."
+            ],
+            [
+                147,
+                "Heads up! Watch out!"
+            ],
+            [
+                162,
+                "Hey, Mike. Listen, NASA asked me to throw out the first pitch at an Angels game. You got any advice?"
+            ],
+            [
+                164,
+                "Why shouldn\u2019t I do it?"
+            ],
+            [
+                166,
+                "But it\u2019s for a good cause. What about all the kids that\u2019ll be there?"
+            ],
+            [
+                168,
+                "Well, maybe I\u2019ll do a good job."
+            ],
+            [
+                170,
+                "Okay, thanks for the pep talk."
+            ],
+            [
+                201,
+                "Thanks. I\u2019m proud of me, too."
+            ],
+            [
+                203,
+                "Let\u2019s do it."
+            ],
+            [
+                205,
+                "Wish me luck."
+            ],
+            [
+                208,
+                "Thank you. Thank you."
+            ],
+            [
+                212,
+                "I have a message for the young people here today. When I was asked to throw the first pitch, a little voice in my head said I couldn\u2019t do it. So, I practiced and practiced, and you know what? That little voice was right, but then I remembered that I\u2019m not an athlete. I\u2019m a scientist. So, today\u2019s first pitch will be delivered to home plate by science. Ladies and gentlemen, boys and girls, I present to you a working prototype of the Mars Rover. And here\u2019s the wind-up, and the pitch."
+            ],
+            [
+                214,
+                "\u2018Cause I\u2019m an idiot who didn\u2019t think this through."
+            ],
+            [
+                216,
+                "Okay, while we\u2019re waiting for the ball to arrive, here\u2019s some fun facts about Mars."
+            ],
+            [
+                219,
+                "Okay, booing isn\u2019t gonna make it go any faster."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Yeah, just nice and easy, right over the plate."
+            ],
+            [
+                9,
+                "Baseball."
+            ],
+            [
+                11,
+                "He\u2019s practicing."
+            ],
+            [
+                19,
+                "C\u2019mon now, throw one."
+            ],
+            [
+                23,
+                "Now you know why we\u2019re not outside."
+            ],
+            [
+                31,
+                "Oh, that poor waiter."
+            ],
+            [
+                58,
+                "You don\u2019t even like Yorkshire pudding."
+            ],
+            [
+                61,
+                "Nice to see a busy couple keep the spark of bureaucracy alive."
+            ],
+            [
+                65,
+                "You don\u2019t honestly think that, do you?"
+            ],
+            [
+                67,
+                "There isn\u2019t any ranking. And if there were, we wouldn\u2019t be at the bottom of it."
+            ],
+            [
+                69,
+                "That\u2019s the part you have a problem with?"
+            ],
+            [
+                88,
+                "Okay, I got to, I, I, I, I got to ask. What makes you think that your relationship is so wonderful and ours isn\u2019t?"
+            ],
+            [
+                90,
+                "So do we. And I\u2019ve seen you guys ignore each other for hours doing totally different things."
+            ],
+            [
+                92,
+                "Yeah, toddlers do that."
+            ],
+            [
+                94,
+                "You believe this guy? He has to be the best at everything."
+            ],
+            [
+                97,
+                "Whatever. You can\u2019t even go on a date without checking your relationship agreement."
+            ],
+            [
+                112,
+                "Some perfect couple. He won\u2019t even share his food with her."
+            ],
+            [
+                114,
+                "I\u2019m not jealous. I just think it\u2019s silly for you to compare relationships like they\u2019re something that can be quantified."
+            ],
+            [
+                116,
+                "How ridiculous is he?"
+            ],
+            [
+                118,
+                "Sheldon, you\u2019re just assigning random numbers to things based on your opinion."
+            ],
+            [
+                125,
+                "So, this is accurate?"
+            ],
+            [
+                130,
+                "Fine. We\u2019ll take it right now."
+            ],
+            [
+                132,
+                "What?"
+            ],
+            [
+                134,
+                "Why not?"
+            ],
+            [
+                136,
+                "Come on. It\u2019ll be fun."
+            ],
+            [
+                138,
+                "Sorry."
+            ],
+            [
+                149,
+                "Are you mad at me?"
+            ],
+            [
+                151,
+                "Um, whew? Is this about the test, or is this about us?"
+            ],
+            [
+                153,
+                "What are you worried about?"
+            ],
+            [
+                155,
+                "Yeah, that scares me, too."
+            ],
+            [
+                157,
+                "Sometimes."
+            ],
+            [
+                159,
+                "Okay, well, this might make you feel better. Uh, we\u2019re both scared that our marriage will be a disaster, and so, that\u2019s something that we have in common. Also, we both think I\u2019m not funny. Huh? See, you\u2019re not laughing."
+            ],
+            [
+                177,
+                "I just want to say one more thing about this. Just because Penny and I are very different people does not mean that we\u2019re a bad couple."
+            ],
+            [
+                179,
+                "I killed his Chewbacca slippers."
+            ],
+            [
+                181,
+                "No, no, no, I don\u2019t want to."
+            ],
+            [
+                183,
+                "Because it doesn\u2019t matter. I don\u2019t care if we\u2019re a ten or a two."
+            ],
+            [
+                185,
+                "Marriage is scary. You\u2019re scared, I\u2019m scared. But it doesn\u2019t make me not want to do it. It, it just makes me want to hold your hand and do it with you."
+            ],
+            [
+                192,
+                "This is fun, huh? We get to see our friend throw out the first pitch, have a hot dog, watch the game."
+            ],
+            [
+                210,
+                "On our Quidditch team, he\u2026"
+            ]
+        ],
+        "Raj": [
+            [
+                4,
+                "You suck, Wolowitz."
+            ],
+            [
+                6,
+                "I\u2019m heckling you. It\u2019s a beloved part of baseball."
+            ],
+            [
+                21,
+                "You look like a jackass."
+            ],
+            [
+                73,
+                "So you never played baseball as a kid, not even Little League?"
+            ],
+            [
+                104,
+                "Come on Howard, fire it in."
+            ],
+            [
+                142,
+                "Yup."
+            ],
+            [
+                145,
+                "Is it too late for him to cancel?"
+            ],
+            [
+                190,
+                "Mmm, I love how they put a waterfall at centre field. It really ties the whole stadium together."
+            ]
+        ],
+        "Sheldon": [
+            [
+                7,
+                "He\u2019s right. And given that you\u2019re probably still waiting to be picked for a game that was played in fifth grade, I\u2019m sure you do suck."
+            ],
+            [
+                17,
+                "Well, not just him. May I remind you that you\u2019re talking to the seeker, beater, chaser and water boy of the third place Griffith Park Quidditch team."
+            ],
+            [
+                25,
+                "Did you enjoy my lecture?"
+            ],
+            [
+                27,
+                "Well, if you\u2019re going to serve Cornish game hen, you should either be familiar with the history of Cornwall or be prepared to learn it."
+            ],
+            [
+                30,
+                "Good, I had Cornish game hen."
+            ],
+            [
+                34,
+                "I missed a number of date nights while I was on my train trip, and I\u2019m contractually obligated to make them up under the terms of the Relationship Agreement."
+            ],
+            [
+                37,
+                "If you\u2019re free tomorrow night, I\u2019d love to have you join us on a double date."
+            ],
+            [
+                40,
+                "Oh. Well, then come or don\u2019t. I don\u2019t care."
+            ],
+            [
+                55,
+                "At our committee meeting, Amy made a motion for a picnic in a park, but I tacked so many amendments on that thing it sank like a lead balloon."
+            ],
+            [
+                57,
+                "Yeah, which I was initially sceptical of until I saw online that they serve Yorkshire pudding."
+            ],
+            [
+                59,
+                "No, it\u2019s yucky, but informing people about the history of Yorkshire is yummy, yum-yum."
+            ],
+            [
+                62,
+                "Ignore them, Amy. They\u2019re just jealous because they\u2019ll never have a relationship as good as ours."
+            ],
+            [
+                64,
+                "I wasn\u2019t making a joke, I was merely stating fact. Amy and I have a superior relationship to yours."
+            ],
+            [
+                66,
+                "Leonard, I assumed you knew. The ranking of relationships in our circle by quality is me and Amy, Howard and Bernadette, Raj and his girlfriend, Penny and Chardonnay, Penny and you."
+            ],
+            [
+                89,
+                "For starters, we enjoy spending time together."
+            ],
+            [
+                91,
+                "It\u2019s called parallel play."
+            ],
+            [
+                93,
+                "Not as well as we do."
+            ],
+            [
+                96,
+                "Oh, listen to them. Not even married and the honeymoon\u2019s over."
+            ],
+            [
+                98,
+                "If you\u2019ve got a problem basing a relationship on a contract, I\u2019d like to tell you about 13 plucky colonies that entered a relationship agreement called the U.S. Constitution. And it may not be cool to say so, but I think that love affair is still pretty hot today."
+            ],
+            [
+                109,
+                "May I have one of your fries?"
+            ],
+            [
+                111,
+                "Absolutely not."
+            ],
+            [
+                113,
+                "It has avocado on it. She\u2019s allergic to avocado. Are you so jealous of our relationship you want Amy to die?"
+            ],
+            [
+                115,
+                "Everything is quantifiable. That French fry? A seven. Spider-Man? A nine. The number nine? Oddly, only a four."
+            ],
+            [
+                119,
+                "No, I\u2019m not. French fries have three variables, crispiness, saltiness and shape. Which is why a curly fry only gets a two. If I wanted curls for dinner, I\u2019d order a clown wig."
+            ],
+            [
+                121,
+                "Not according to the work of Berscheid, Snyder and Omoto."
+            ],
+            [
+                124,
+                "Yeah, not to be confused with the French Fry Goodness Inventory. That\u2019s pure Cooper."
+            ],
+            [
+                126,
+                "It\u2019s been around for 25 years, and has been extensively corroborated by other researchers."
+            ],
+            [
+                128,
+                "Kind of? It does it perfectly."
+            ],
+            [
+                176,
+                "Why? We won. You know, I say, next, we take on Koothrappali and his dog. Really give ourselves a challenge."
+            ],
+            [
+                178,
+                "The answer is one simple test away. Hmm? You know, it\u2019s like when I thought there was a possum in my closet. Did I sit around wondering? No, I sent Leonard in with a pointy stick and a bag."
+            ],
+            [
+                184,
+                "Or a one. A one is possible."
+            ],
+            [
+                188,
+                "We got an eight-point-two. Trust me, you\u2019re happy."
+            ],
+            [
+                193,
+                "Whoa. Nobody said anything about watching the game."
+            ],
+            [
+                195,
+                "I expected to see Howard throw the baseball, finish my hot dog, and hightail it across the street to Disneyland just in time for Mickey\u2019s Soundsational Parade."
+            ],
+            [
+                197,
+                "Who\u2019s the bobblehead of?"
+            ],
+            [
+                199,
+                "No, as long as it bobbles."
+            ],
+            [
+                215,
+                "Okay, new plan. We go to Disneyland, play hide and seek on Tom Sawyer\u2019s Island, and then come back and see the end of the pitch."
+            ],
+            [
+                218,
+                "He makes a valid point."
+            ]
+        ],
+        "Penny": [
+            [
+                8,
+                "Hi. What\u2019s going on?"
+            ],
+            [
+                10,
+                "Okay, this is not what I meant when I said go outside and play."
+            ],
+            [
+                12,
+                "For what?"
+            ],
+            [
+                14,
+                "What, you? Really?"
+            ],
+            [
+                16,
+                "That\u2019s so cool. Congratulations. I guess that makes you the athlete of the group."
+            ],
+            [
+                18,
+                "I know. Watching your boyfriend run around with a broomstick between his legs isn\u2019t something you forget."
+            ],
+            [
+                29,
+                "Hey, how was dinner?"
+            ],
+            [
+                33,
+                "You guys are going out two nights in a row?"
+            ],
+            [
+                35,
+                "That\u2019s so hot."
+            ],
+            [
+                38,
+                "Aw."
+            ],
+            [
+                54,
+                "Sheldon, I\u2019m surprised you\u2019d choose to go to a pub."
+            ],
+            [
+                63,
+                "Isn\u2019t this when he says bazooka or something?"
+            ],
+            [
+                68,
+                "Yeah, and actually, I drink Sauvignon Blanc."
+            ],
+            [
+                70,
+                "Relax."
+            ],
+            [
+                95,
+                "So what? Why do you even care?"
+            ],
+            [
+                108,
+                "Uh, we\u2019re not sure. But I want to wait long enough to prove to my mother I\u2019m not pregnant."
+            ],
+            [
+                117,
+                "A hundred."
+            ],
+            [
+                120,
+                "Well, a relationship is more complicated than a French fry."
+            ],
+            [
+                122,
+                "Oh, what did those rascals do now?"
+            ],
+            [
+                127,
+                "Well, kind of takes the romance out of relationships."
+            ],
+            [
+                131,
+                "No, don\u2019t."
+            ],
+            [
+                133,
+                "Just don\u2019t take it."
+            ],
+            [
+                135,
+                "\u2018Cause it\u2019s stupid. Who cares what number it is?"
+            ],
+            [
+                137,
+                "I said I don\u2019t want you to. I\u2019m getting another drink."
+            ],
+            [
+                150,
+                "No, stop being stupid."
+            ],
+            [
+                152,
+                "Look, I don\u2019t need a score on a test to make me worry about something I\u2019m already worried about."
+            ],
+            [
+                154,
+                "That we\u2019re engaged and have nothing in common, and it scares me."
+            ],
+            [
+                156,
+                "It does?"
+            ],
+            [
+                158,
+                "Well, that\u2019s not good. You being blindly infatuated with me was the rock we were building this relationship on."
+            ],
+            [
+                174,
+                "Hey, sorry about that."
+            ],
+            [
+                180,
+                "Let\u2019s just take the test."
+            ],
+            [
+                182,
+                "Oh, well, \u2019cause you know we\u2019re gonna do bad."
+            ],
+            [
+                186,
+                "Leonard."
+            ],
+            [
+                191,
+                "Look at you, talking sports."
+            ],
+            [
+                209,
+                "Can he really throw a ball?"
+            ],
+            [
+                211,
+                "Yeah, that\u2019s a no."
+            ]
+        ],
+        "Amy": [
+            [
+                26,
+                "No, and neither did our waiter."
+            ],
+            [
+                28,
+                "It\u2019s hard to argue with that. And I know because I saw a sad man with a pepper mill desperately try and fail."
+            ],
+            [
+                32,
+                "Sheldon, how about tomorrow night we see a movie?"
+            ],
+            [
+                36,
+                "It\u2019s better than hot, it\u2019s binding."
+            ],
+            [
+                39,
+                "You are aware that a double date doesn\u2019t count as two dates."
+            ],
+            [
+                56,
+                "I then suggested a pub."
+            ],
+            [
+                60,
+                "After a lively debate, that proposal passed by a two-zero margin."
+            ],
+            [
+                71,
+                "There they go, fighting again. You\u2019d never hear her talk that way to Sauvignon Blanc."
+            ],
+            [
+                99,
+                "It\u2019s a good thing I\u2019m not wearing flag underwear right now, \u2019cause there\u2019s about to be a fire."
+            ],
+            [
+                107,
+                "So when do you guys plan on getting married?"
+            ],
+            [
+                110,
+                "Of course. Can I have a bite of your burger?"
+            ],
+            [
+                123,
+                "They developed the Relationship Closeness Inventory, which predicts the stability of a couple based on behaviour."
+            ],
+            [
+                129,
+                "Sheldon and I got an eight-point-two out of ten."
+            ],
+            [
+                139,
+                "I\u2019m gonna let you count this as two dates. They\u2019re a lot of work."
+            ],
+            [
+                175,
+                "No, we\u2019re sorry. We never should have been comparing relationships in the first place."
+            ],
+            [
+                187,
+                "It would make me so happy if you said things like that."
+            ],
+            [
+                194,
+                "Sheldon, what did you expect?"
+            ],
+            [
+                196,
+                "I\u2019ll tell you what. If we stay, I\u2019ll buy you cotton candy and a bobblehead."
+            ],
+            [
+                198,
+                "Does it matter?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                42,
+                "I can\u2019t believe you\u2019re sore."
+            ],
+            [
+                44,
+                "But they throw an actual ball. You were throwing air at a TV."
+            ],
+            [
+                46,
+                "I\u2019m kind of surprised you agreed to do this in front of a stadium full of people."
+            ],
+            [
+                48,
+                "Okay. Well, if you want, I could help you practice. I played a lot of softball growing up."
+            ],
+            [
+                50,
+                "Great. And while we\u2019re at it, maybe we could butch up your run for when you head out to the mound."
+            ],
+            [
+                52,
+                "Oh, just kidding. Nothing."
+            ],
+            [
+                75,
+                "All right, the pitcher\u2019s mound in Major League Baseball is sixty feet, six inches away from home plate."
+            ],
+            [
+                77,
+                "Keep going."
+            ],
+            [
+                79,
+                "I\u2019ll let you know."
+            ],
+            [
+                81,
+                "Okay, stop."
+            ],
+            [
+                83,
+                "That\u2019s sixty feet."
+            ],
+            [
+                85,
+                "I\u2019m looking at it."
+            ],
+            [
+                101,
+                "Okay, it\u2019s not that hard. You just look to where you want to throw it, step towards where you want to throw, and throw it."
+            ],
+            [
+                103,
+                "Just throw the ball. Let\u2019s see what we\u2019re working with."
+            ],
+            [
+                105,
+                "Throw the damn ball!"
+            ],
+            [
+                141,
+                "Think he\u2019s getting any better?"
+            ],
+            [
+                144,
+                "Okay."
+            ],
+            [
+                146,
+                "I think so."
+            ],
+            [
+                172,
+                "He\u2019s so nice."
+            ],
+            [
+                200,
+                "Howie, I am so proud of you."
+            ],
+            [
+                206,
+                "Go get \u2019em."
+            ],
+            [
+                213,
+                "Why is it going so slow?"
+            ]
+        ],
+        "Mike (on Skype)": [
+            [
+                161,
+                "Hey, Froot Loops, what\u2019s up?"
+            ]
+        ],
+        "Mike": [
+            [
+                163,
+                "Yeah. Don\u2019t do it. What else you up to?"
+            ],
+            [
+                165,
+                "There\u2019s no upside. If you do well, no one cares. And if you screw up, you\u2019re an idiot on YouTube forever."
+            ],
+            [
+                167,
+                "That\u2019s what I\u2019m telling you. Kids are the worst. My own daughter tweeted I have a giant nose."
+            ],
+            [
+                169,
+                "I don\u2019t know. In space, you couldn\u2019t even toss me a pen, and that was in zero gravity."
+            ],
+            [
+                171,
+                "Anytime, Froot Loops. Give your wife a hug for me. She\u2019s so much cuter than you, I don\u2019t know how you ever got her."
+            ]
+        ],
+        "Man": [
+            [
+                202,
+                "You ready?"
+            ],
+            [
+                204,
+                "All right."
+            ]
+        ],
+        "Stadium Announcer": [
+            [
+                207,
+                "Ladies and gentlemen, in honour of Space Day at Angel Stadium, the first pitch will be thrown out by NASA astronaut Howard Wolowitz."
+            ]
+        ],
+        "Man in Crowd": [
+            [
+                217,
+                "You suck, Wolowitz!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "So, how does this game work? I just throw it, like a real ball?"
+        ],
+        [
+            "Leonard",
+            "Yeah, just nice and easy, right over the plate."
+        ],
+        [
+            "Howard",
+            "All right."
+        ],
+        [
+            "Raj",
+            "You suck, Wolowitz."
+        ],
+        [
+            "Howard",
+            "What\u2019s that about?"
+        ],
+        [
+            "Raj",
+            "I\u2019m heckling you. It\u2019s a beloved part of baseball."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s right. And given that you\u2019re probably still waiting to be picked for a game that was played in fifth grade, I\u2019m sure you do suck."
+        ],
+        [
+            "Penny",
+            "Hi. What\u2019s going on?"
+        ],
+        [
+            "Leonard",
+            "Baseball."
+        ],
+        [
+            "Penny",
+            "Okay, this is not what I meant when I said go outside and play."
+        ],
+        [
+            "Leonard",
+            "He\u2019s practicing."
+        ],
+        [
+            "Penny",
+            "For what?"
+        ],
+        [
+            "Howard",
+            "The Angels wanted an astronaut to throw out the first pitch, so guess who they called?"
+        ],
+        [
+            "Penny",
+            "What, you? Really?"
+        ],
+        [
+            "Howard",
+            "Well, a lot of people who weren\u2019t available, but then me."
+        ],
+        [
+            "Penny",
+            "That\u2019s so cool. Congratulations. I guess that makes you the athlete of the group."
+        ],
+        [
+            "Sheldon",
+            "Well, not just him. May I remind you that you\u2019re talking to the seeker, beater, chaser and water boy of the third place Griffith Park Quidditch team."
+        ],
+        [
+            "Penny",
+            "I know. Watching your boyfriend run around with a broomstick between his legs isn\u2019t something you forget."
+        ],
+        [
+            "Leonard",
+            "C\u2019mon now, throw one."
+        ],
+        [
+            "Howard",
+            "All right, here we go."
+        ],
+        [
+            "Raj",
+            "You look like a jackass."
+        ],
+        [
+            "Howard",
+            "Cut it out. You\u2019re hurting my feelings."
+        ],
+        [
+            "Leonard",
+            "Now you know why we\u2019re not outside."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Sheldon",
+            "Did you enjoy my lecture?"
+        ],
+        [
+            "Amy",
+            "No, and neither did our waiter."
+        ],
+        [
+            "Sheldon",
+            "Well, if you\u2019re going to serve Cornish game hen, you should either be familiar with the history of Cornwall or be prepared to learn it."
+        ],
+        [
+            "Amy",
+            "It\u2019s hard to argue with that. And I know because I saw a sad man with a pepper mill desperately try and fail."
+        ],
+        [
+            "Penny",
+            "Hey, how was dinner?"
+        ],
+        [
+            "Sheldon",
+            "Good, I had Cornish game hen."
+        ],
+        [
+            "Leonard",
+            "Oh, that poor waiter."
+        ],
+        [
+            "Amy",
+            "Sheldon, how about tomorrow night we see a movie?"
+        ],
+        [
+            "Penny",
+            "You guys are going out two nights in a row?"
+        ],
+        [
+            "Sheldon",
+            "I missed a number of date nights while I was on my train trip, and I\u2019m contractually obligated to make them up under the terms of the Relationship Agreement."
+        ],
+        [
+            "Penny",
+            "That\u2019s so hot."
+        ],
+        [
+            "Amy",
+            "It\u2019s better than hot, it\u2019s binding."
+        ],
+        [
+            "Sheldon",
+            "If you\u2019re free tomorrow night, I\u2019d love to have you join us on a double date."
+        ],
+        [
+            "Penny",
+            "Aw."
+        ],
+        [
+            "Amy",
+            "You are aware that a double date doesn\u2019t count as two dates."
+        ],
+        [
+            "Sheldon",
+            "Oh. Well, then come or don\u2019t. I don\u2019t care."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "I can\u2019t believe you\u2019re sore."
+        ],
+        [
+            "Howard",
+            "Hey, even professional pitchers need a rubdown after the game."
+        ],
+        [
+            "Bernadette",
+            "But they throw an actual ball. You were throwing air at a TV."
+        ],
+        [
+            "Howard",
+            "For your information, I also gave Leonard one hell of a high five."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m kind of surprised you agreed to do this in front of a stadium full of people."
+        ],
+        [
+            "Howard",
+            "They\u2019re doing Space Day and NASA asked me. I felt like I couldn\u2019t say no."
+        ],
+        [
+            "Bernadette",
+            "Okay. Well, if you want, I could help you practice. I played a lot of softball growing up."
+        ],
+        [
+            "Howard",
+            "Thank you, that would be great."
+        ],
+        [
+            "Bernadette",
+            "Great. And while we\u2019re at it, maybe we could butch up your run for when you head out to the mound."
+        ],
+        [
+            "Howard",
+            "What\u2019s wrong with the way I run?"
+        ],
+        [
+            "Bernadette",
+            "Oh, just kidding. Nothing."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Sheldon, I\u2019m surprised you\u2019d choose to go to a pub."
+        ],
+        [
+            "Sheldon",
+            "At our committee meeting, Amy made a motion for a picnic in a park, but I tacked so many amendments on that thing it sank like a lead balloon."
+        ],
+        [
+            "Amy",
+            "I then suggested a pub."
+        ],
+        [
+            "Sheldon",
+            "Yeah, which I was initially sceptical of until I saw online that they serve Yorkshire pudding."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t even like Yorkshire pudding."
+        ],
+        [
+            "Sheldon",
+            "No, it\u2019s yucky, but informing people about the history of Yorkshire is yummy, yum-yum."
+        ],
+        [
+            "Amy",
+            "After a lively debate, that proposal passed by a two-zero margin."
+        ],
+        [
+            "Leonard",
+            "Nice to see a busy couple keep the spark of bureaucracy alive."
+        ],
+        [
+            "Sheldon",
+            "Ignore them, Amy. They\u2019re just jealous because they\u2019ll never have a relationship as good as ours."
+        ],
+        [
+            "Penny",
+            "Isn\u2019t this when he says bazooka or something?"
+        ],
+        [
+            "Sheldon",
+            "I wasn\u2019t making a joke, I was merely stating fact. Amy and I have a superior relationship to yours."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t honestly think that, do you?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, I assumed you knew. The ranking of relationships in our circle by quality is me and Amy, Howard and Bernadette, Raj and his girlfriend, Penny and Chardonnay, Penny and you."
+        ],
+        [
+            "Leonard",
+            "There isn\u2019t any ranking. And if there were, we wouldn\u2019t be at the bottom of it."
+        ],
+        [
+            "Penny",
+            "Yeah, and actually, I drink Sauvignon Blanc."
+        ],
+        [
+            "Leonard",
+            "That\u2019s the part you have a problem with?"
+        ],
+        [
+            "Penny",
+            "Relax."
+        ],
+        [
+            "Amy",
+            "There they go, fighting again. You\u2019d never hear her talk that way to Sauvignon Blanc."
+        ],
+        [
+            "Scene",
+            "A gymnasium. "
+        ],
+        [
+            "Raj",
+            "So you never played baseball as a kid, not even Little League?"
+        ],
+        [
+            "Howard",
+            "Well, I was going to, but the day of tryouts I found my dad\u2019s Playboy collection. Threw my arm out."
+        ],
+        [
+            "Bernadette",
+            "All right, the pitcher\u2019s mound in Major League Baseball is sixty feet, six inches away from home plate."
+        ],
+        [
+            "Howard",
+            "Great. You take this and say when to stop. How much further?"
+        ],
+        [
+            "Bernadette",
+            "Keep going."
+        ],
+        [
+            "Howard",
+            "How about now?"
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll let you know."
+        ],
+        [
+            "Howard",
+            "Are you saying stop and we\u2019re just too far away to hear you?"
+        ],
+        [
+            "Bernadette",
+            "Okay, stop."
+        ],
+        [
+            "Howard",
+            "Are you kidding me?!"
+        ],
+        [
+            "Bernadette",
+            "That\u2019s sixty feet."
+        ],
+        [
+            "Howard",
+            "There\u2019s no way this is sixty feet."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m looking at it."
+        ],
+        [
+            "Howard",
+            "You realize this isn\u2019t one of those times I want you to exaggerate how long something is."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s car."
+        ],
+        [
+            "Leonard",
+            "Okay, I got to, I, I, I, I got to ask. What makes you think that your relationship is so wonderful and ours isn\u2019t?"
+        ],
+        [
+            "Sheldon",
+            "For starters, we enjoy spending time together."
+        ],
+        [
+            "Leonard",
+            "So do we. And I\u2019ve seen you guys ignore each other for hours doing totally different things."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s called parallel play."
+        ],
+        [
+            "Leonard",
+            "Yeah, toddlers do that."
+        ],
+        [
+            "Sheldon",
+            "Not as well as we do."
+        ],
+        [
+            "Leonard",
+            "You believe this guy? He has to be the best at everything."
+        ],
+        [
+            "Penny",
+            "So what? Why do you even care?"
+        ],
+        [
+            "Sheldon",
+            "Oh, listen to them. Not even married and the honeymoon\u2019s over."
+        ],
+        [
+            "Leonard",
+            "Whatever. You can\u2019t even go on a date without checking your relationship agreement."
+        ],
+        [
+            "Sheldon",
+            "If you\u2019ve got a problem basing a relationship on a contract, I\u2019d like to tell you about 13 plucky colonies that entered a relationship agreement called the U.S. Constitution. And it may not be cool to say so, but I think that love affair is still pretty hot today."
+        ],
+        [
+            "Amy",
+            "It\u2019s a good thing I\u2019m not wearing flag underwear right now, \u2019cause there\u2019s about to be a fire."
+        ],
+        [
+            "Scene",
+            "The gym."
+        ],
+        [
+            "Bernadette",
+            "Okay, it\u2019s not that hard. You just look to where you want to throw it, step towards where you want to throw, and throw it."
+        ],
+        [
+            "Howard",
+            "That\u2019s your help? That\u2019s like saying here\u2019s how you fly a plane, get in the airplane, know where you want to go and fly it."
+        ],
+        [
+            "Bernadette",
+            "Just throw the ball. Let\u2019s see what we\u2019re working with."
+        ],
+        [
+            "Raj",
+            "Come on Howard, fire it in."
+        ],
+        [
+            "Bernadette",
+            "Throw the damn ball!"
+        ],
+        [
+            "Scene",
+            "The pub."
+        ],
+        [
+            "Amy",
+            "So when do you guys plan on getting married?"
+        ],
+        [
+            "Penny",
+            "Uh, we\u2019re not sure. But I want to wait long enough to prove to my mother I\u2019m not pregnant."
+        ],
+        [
+            "Sheldon",
+            "May I have one of your fries?"
+        ],
+        [
+            "Amy",
+            "Of course. Can I have a bite of your burger?"
+        ],
+        [
+            "Sheldon",
+            "Absolutely not."
+        ],
+        [
+            "Leonard",
+            "Some perfect couple. He won\u2019t even share his food with her."
+        ],
+        [
+            "Sheldon",
+            "It has avocado on it. She\u2019s allergic to avocado. Are you so jealous of our relationship you want Amy to die?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m not jealous. I just think it\u2019s silly for you to compare relationships like they\u2019re something that can be quantified."
+        ],
+        [
+            "Sheldon",
+            "Everything is quantifiable. That French fry? A seven. Spider-Man? A nine. The number nine? Oddly, only a four."
+        ],
+        [
+            "Leonard",
+            "How ridiculous is he?"
+        ],
+        [
+            "Penny",
+            "A hundred."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you\u2019re just assigning random numbers to things based on your opinion."
+        ],
+        [
+            "Sheldon",
+            "No, I\u2019m not. French fries have three variables, crispiness, saltiness and shape. Which is why a curly fry only gets a two. If I wanted curls for dinner, I\u2019d order a clown wig."
+        ],
+        [
+            "Penny",
+            "Well, a relationship is more complicated than a French fry."
+        ],
+        [
+            "Sheldon",
+            "Not according to the work of Berscheid, Snyder and Omoto."
+        ],
+        [
+            "Penny",
+            "Oh, what did those rascals do now?"
+        ],
+        [
+            "Amy",
+            "They developed the Relationship Closeness Inventory, which predicts the stability of a couple based on behaviour."
+        ],
+        [
+            "Sheldon",
+            "Yeah, not to be confused with the French Fry Goodness Inventory. That\u2019s pure Cooper."
+        ],
+        [
+            "Leonard",
+            "So, this is accurate?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s been around for 25 years, and has been extensively corroborated by other researchers."
+        ],
+        [
+            "Penny",
+            "Well, kind of takes the romance out of relationships."
+        ],
+        [
+            "Sheldon",
+            "Kind of? It does it perfectly."
+        ],
+        [
+            "Amy",
+            "Sheldon and I got an eight-point-two out of ten."
+        ],
+        [
+            "Leonard",
+            "Fine. We\u2019ll take it right now."
+        ],
+        [
+            "Penny",
+            "No, don\u2019t."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Just don\u2019t take it."
+        ],
+        [
+            "Leonard",
+            "Why not?"
+        ],
+        [
+            "Penny",
+            "\u2018Cause it\u2019s stupid. Who cares what number it is?"
+        ],
+        [
+            "Leonard",
+            "Come on. It\u2019ll be fun."
+        ],
+        [
+            "Penny",
+            "I said I don\u2019t want you to. I\u2019m getting another drink."
+        ],
+        [
+            "Leonard",
+            "Sorry."
+        ],
+        [
+            "Amy",
+            "I\u2019m gonna let you count this as two dates. They\u2019re a lot of work."
+        ],
+        [
+            "Scene",
+            "The gym."
+        ],
+        [
+            "Bernadette",
+            "Think he\u2019s getting any better?"
+        ],
+        [
+            "Raj",
+            "Yup."
+        ],
+        [
+            "Howard",
+            "That was a close one."
+        ],
+        [
+            "Bernadette",
+            "Okay."
+        ],
+        [
+            "Raj",
+            "Is it too late for him to cancel?"
+        ],
+        [
+            "Bernadette",
+            "I think so."
+        ],
+        [
+            "Howard",
+            "Heads up! Watch out!"
+        ],
+        [
+            "Scene",
+            "The pub."
+        ],
+        [
+            "Leonard",
+            "Are you mad at me?"
+        ],
+        [
+            "Penny",
+            "No, stop being stupid."
+        ],
+        [
+            "Leonard",
+            "Um, whew? Is this about the test, or is this about us?"
+        ],
+        [
+            "Penny",
+            "Look, I don\u2019t need a score on a test to make me worry about something I\u2019m already worried about."
+        ],
+        [
+            "Leonard",
+            "What are you worried about?"
+        ],
+        [
+            "Penny",
+            "That we\u2019re engaged and have nothing in common, and it scares me."
+        ],
+        [
+            "Leonard",
+            "Yeah, that scares me, too."
+        ],
+        [
+            "Penny",
+            "It does?"
+        ],
+        [
+            "Leonard",
+            "Sometimes."
+        ],
+        [
+            "Penny",
+            "Well, that\u2019s not good. You being blindly infatuated with me was the rock we were building this relationship on."
+        ],
+        [
+            "Leonard",
+            "Okay, well, this might make you feel better. Uh, we\u2019re both scared that our marriage will be a disaster, and so, that\u2019s something that we have in common. Also, we both think I\u2019m not funny. Huh? See, you\u2019re not laughing."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment. "
+        ],
+        [
+            "Mike (on Skype)",
+            "Hey, Froot Loops, what\u2019s up?"
+        ],
+        [
+            "Howard",
+            "Hey, Mike. Listen, NASA asked me to throw out the first pitch at an Angels game. You got any advice?"
+        ],
+        [
+            "Mike",
+            "Yeah. Don\u2019t do it. What else you up to?"
+        ],
+        [
+            "Howard",
+            "Why shouldn\u2019t I do it?"
+        ],
+        [
+            "Mike",
+            "There\u2019s no upside. If you do well, no one cares. And if you screw up, you\u2019re an idiot on YouTube forever."
+        ],
+        [
+            "Howard",
+            "But it\u2019s for a good cause. What about all the kids that\u2019ll be there?"
+        ],
+        [
+            "Mike",
+            "That\u2019s what I\u2019m telling you. Kids are the worst. My own daughter tweeted I have a giant nose."
+        ],
+        [
+            "Howard",
+            "Well, maybe I\u2019ll do a good job."
+        ],
+        [
+            "Mike",
+            "I don\u2019t know. In space, you couldn\u2019t even toss me a pen, and that was in zero gravity."
+        ],
+        [
+            "Howard",
+            "Okay, thanks for the pep talk."
+        ],
+        [
+            "Mike",
+            "Anytime, Froot Loops. Give your wife a hug for me. She\u2019s so much cuter than you, I don\u2019t know how you ever got her."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s so nice."
+        ],
+        [
+            "Scene",
+            "The pub."
+        ],
+        [
+            "Penny",
+            "Hey, sorry about that."
+        ],
+        [
+            "Amy",
+            "No, we\u2019re sorry. We never should have been comparing relationships in the first place."
+        ],
+        [
+            "Sheldon",
+            "Why? We won. You know, I say, next, we take on Koothrappali and his dog. Really give ourselves a challenge."
+        ],
+        [
+            "Leonard",
+            "I just want to say one more thing about this. Just because Penny and I are very different people does not mean that we\u2019re a bad couple."
+        ],
+        [
+            "Sheldon",
+            "The answer is one simple test away. Hmm? You know, it\u2019s like when I thought there was a possum in my closet. Did I sit around wondering? No, I sent Leonard in with a pointy stick and a bag."
+        ],
+        [
+            "Leonard",
+            "I killed his Chewbacca slippers."
+        ],
+        [
+            "Penny",
+            "Let\u2019s just take the test."
+        ],
+        [
+            "Leonard",
+            "No, no, no, I don\u2019t want to."
+        ],
+        [
+            "Penny",
+            "Oh, well, \u2019cause you know we\u2019re gonna do bad."
+        ],
+        [
+            "Leonard",
+            "Because it doesn\u2019t matter. I don\u2019t care if we\u2019re a ten or a two."
+        ],
+        [
+            "Sheldon",
+            "Or a one. A one is possible."
+        ],
+        [
+            "Leonard",
+            "Marriage is scary. You\u2019re scared, I\u2019m scared. But it doesn\u2019t make me not want to do it. It, it just makes me want to hold your hand and do it with you."
+        ],
+        [
+            "Penny",
+            "Leonard."
+        ],
+        [
+            "Amy",
+            "It would make me so happy if you said things like that."
+        ],
+        [
+            "Sheldon",
+            "We got an eight-point-two. Trust me, you\u2019re happy."
+        ],
+        [
+            "Scene",
+            "Angels Stadium"
+        ],
+        [
+            "Raj",
+            "Mmm, I love how they put a waterfall at centre field. It really ties the whole stadium together."
+        ],
+        [
+            "Penny",
+            "Look at you, talking sports."
+        ],
+        [
+            "Leonard",
+            "This is fun, huh? We get to see our friend throw out the first pitch, have a hot dog, watch the game."
+        ],
+        [
+            "Sheldon",
+            "Whoa. Nobody said anything about watching the game."
+        ],
+        [
+            "Amy",
+            "Sheldon, what did you expect?"
+        ],
+        [
+            "Sheldon",
+            "I expected to see Howard throw the baseball, finish my hot dog, and hightail it across the street to Disneyland just in time for Mickey\u2019s Soundsational Parade."
+        ],
+        [
+            "Amy",
+            "I\u2019ll tell you what. If we stay, I\u2019ll buy you cotton candy and a bobblehead."
+        ],
+        [
+            "Sheldon",
+            "Who\u2019s the bobblehead of?"
+        ],
+        [
+            "Amy",
+            "Does it matter?"
+        ],
+        [
+            "Sheldon",
+            "No, as long as it bobbles."
+        ],
+        [
+            "Bernadette",
+            "Howie, I am so proud of you."
+        ],
+        [
+            "Howard",
+            "Thanks. I\u2019m proud of me, too."
+        ],
+        [
+            "Man",
+            "You ready?"
+        ],
+        [
+            "Howard",
+            "Let\u2019s do it."
+        ],
+        [
+            "Man",
+            "All right."
+        ],
+        [
+            "Howard",
+            "Wish me luck."
+        ],
+        [
+            "Bernadette",
+            "Go get \u2019em."
+        ],
+        [
+            "Stadium Announcer",
+            "Ladies and gentlemen, in honour of Space Day at Angel Stadium, the first pitch will be thrown out by NASA astronaut Howard Wolowitz."
+        ],
+        [
+            "Howard",
+            "Thank you. Thank you."
+        ],
+        [
+            "Penny",
+            "Can he really throw a ball?"
+        ],
+        [
+            "Leonard",
+            "On our Quidditch team, he\u2026"
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s a no."
+        ],
+        [
+            "Howard",
+            "I have a message for the young people here today. When I was asked to throw the first pitch, a little voice in my head said I couldn\u2019t do it. So, I practiced and practiced, and you know what? That little voice was right, but then I remembered that I\u2019m not an athlete. I\u2019m a scientist. So, today\u2019s first pitch will be delivered to home plate by science. Ladies and gentlemen, boys and girls, I present to you a working prototype of the Mars Rover. And here\u2019s the wind-up, and the pitch."
+        ],
+        [
+            "Bernadette",
+            "Why is it going so slow?"
+        ],
+        [
+            "Howard",
+            "\u2018Cause I\u2019m an idiot who didn\u2019t think this through."
+        ],
+        [
+            "Sheldon",
+            "Okay, new plan. We go to Disneyland, play hide and seek on Tom Sawyer\u2019s Island, and then come back and see the end of the pitch."
+        ],
+        [
+            "Howard",
+            "Okay, while we\u2019re waiting for the ball to arrive, here\u2019s some fun facts about Mars."
+        ],
+        [
+            "Man in Crowd",
+            "You suck, Wolowitz!"
+        ],
+        [
+            "Sheldon",
+            "He makes a valid point."
+        ],
+        [
+            "Howard",
+            "Okay, booing isn\u2019t gonna make it go any faster."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-03-the-first-pitch-insufficiency/"
+}

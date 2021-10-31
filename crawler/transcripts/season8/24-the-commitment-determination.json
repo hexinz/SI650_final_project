@@ -1,0 +1,2250 @@
+{
+    "Season": 8,
+    "Episode": 24,
+    "Title": "the commitment determination",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                15,
+                "Credits sequence."
+            ],
+            [
+                16,
+                "The comic book store."
+            ],
+            [
+                29,
+                "The stairwell."
+            ],
+            [
+                57,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                80,
+                "The apartment. "
+            ],
+            [
+                109,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                122,
+                "The apartment."
+            ],
+            [
+                149,
+                "A graveyard."
+            ],
+            [
+                156,
+                "The apartment."
+            ],
+            [
+                179,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                192,
+                "The graveyard."
+            ],
+            [
+                195,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                201,
+                "The graveyard."
+            ],
+            [
+                205,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                209,
+                "The graveyard."
+            ],
+            [
+                212,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                214,
+                "Leonard\u2019s car."
+            ],
+            [
+                266,
+                "The apartment. "
+            ]
+        ],
+        "Amy": [
+            [
+                1,
+                "Can you believe it\u2019s been five years since our first date?"
+            ],
+            [
+                3,
+                "That\u2019s what you\u2019re thinking about?"
+            ],
+            [
+                5,
+                "Are any of them me?"
+            ],
+            [
+                7,
+                "What are you doing?"
+            ],
+            [
+                9,
+                "I didn\u2019t kill anything. You did, talking about your stupid TV show."
+            ],
+            [
+                11,
+                "Really? That\u2019s the commitment issue you\u2019re wrestling with? Sheldon, do you understand the irony of your fixation on a man with super speed, while after five years all I can get out of you is a distracted make-out session on a couch?"
+            ],
+            [
+                13,
+                "Oh, sure, I\u2019d love to."
+            ],
+            [
+                269,
+                "I\u2019ve been thinking about them, too, Sheldon. Being your girlfriend is so challenging. Emotionally, physically. I\u2019ve been incredibly patient for years."
+            ],
+            [
+                271,
+                "Okay, well, this isn\u2019t easy to say, because I love you, but I need some time to take a step back and re-evaluate our situation."
+            ],
+            [
+                273,
+                "I hope you understand."
+            ],
+            [
+                275,
+                "Bye, Sheldon."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "I know. Do you think I should start watching The Flash TV show?"
+            ],
+            [
+                4,
+                "Well, one of the things."
+            ],
+            [
+                6,
+                "Yes. I thought, I can\u2019t decide if I should watch The Flash TV show. I know, I\u2019ll ask Amy. Anyway."
+            ],
+            [
+                8,
+                "You\u2019re right, you did kind of kill the mood."
+            ],
+            [
+                10,
+                "Excuse me. Starting to watch a television show that might run for years isn\u2019t a decision to take lightly. I\u2019m wrestling with a big commitment issue here."
+            ],
+            [
+                12,
+                "Irony\u2019s not really my strong suit. But I have been getting better with sarcasm, if you want to give that a try."
+            ],
+            [
+                14,
+                "Whenever you\u2019re ready."
+            ],
+            [
+                33,
+                "Oh, good. You\u2019re here. I need your assistance."
+            ],
+            [
+                35,
+                "What happened?"
+            ],
+            [
+                37,
+                "Been there."
+            ],
+            [
+                39,
+                "Amy\u2019s mad at me, and I\u2019m not clear why."
+            ],
+            [
+                41,
+                "Yes."
+            ],
+            [
+                43,
+                "Well, I just asked her if I should start watching the new Flash TV series."
+            ],
+            [
+                45,
+                "Baffling, right? We were necking like a couple of hooligans under the school bleachers. I stopped so I could ask the question. Next thing I know, good-bye, kissy face. Hello, yelly face."
+            ],
+            [
+                47,
+                "It was. I asked her if she thought I should watch The Flash."
+            ],
+            [
+                50,
+                "Oh, no, not just a season. If I\u2019m in, I\u2019m in for the whole run, even if the quality declines."
+            ],
+            [
+                52,
+                "Yeah. Exactly. You know, I waited ten years to see a guy everyone knows can fly, fly."
+            ],
+            [
+                54,
+                "Oh, not just date night, our fifth anniversary."
+            ],
+            [
+                56,
+                "If that happens, don\u2019t make me wait ten years to watch you eat a tin can."
+            ],
+            [
+                86,
+                "No, and I\u2019m confused. It\u2019s been nearly 24 hours. Amy should have figured out she\u2019s wrong by now."
+            ],
+            [
+                88,
+                "Too slow?"
+            ],
+            [
+                90,
+                "That\u2019s right. It\u2019s called foreplay. And I could make the case that you two aren\u2019t moving forward in your relationship."
+            ],
+            [
+                92,
+                "Hello."
+            ],
+            [
+                94,
+                "But you\u2019ve been engaged for over a year now, and you don\u2019t even have a wedding date."
+            ],
+            [
+                96,
+                "Okay."
+            ],
+            [
+                98,
+                "Okay. If you say so."
+            ],
+            [
+                106,
+                "Okay."
+            ],
+            [
+                108,
+                "Yeah, shut up, Sheldon."
+            ],
+            [
+                127,
+                "Things are good right now."
+            ],
+            [
+                134,
+                "Outdoor? Oh. I can RSVP no right now."
+            ],
+            [
+                142,
+                "Seriously? Airborne worms?"
+            ],
+            [
+                146,
+                "You still didn\u2019t pick a date."
+            ],
+            [
+                157,
+                "I\u2019m sorry I\u2019ve upset you. I shouldn\u2019t have asked so many questions."
+            ],
+            [
+                160,
+                "Well, look at that, even when I\u2019m causing problems, I make the world a better place. Hey, next, why don\u2019t we tackle your penchant for whining and Penny\u2019s love of the ol\u2019 glug-glug?"
+            ],
+            [
+                162,
+                "Ah, well, very well. So does this mean you\u2019ll finally pick a wedding date?"
+            ],
+            [
+                164,
+                "So you\u2019re never getting married? It\u2019s his whining, isn\u2019t it?"
+            ],
+            [
+                166,
+                "It\u2019s amusing that he doesn\u2019t hear it."
+            ],
+            [
+                170,
+                "My aunt and uncle were married 63 years. Towards the end, it was like watching cheese melt."
+            ],
+            [
+                175,
+                "After all these years. I\u2019m really happy for the two of you."
+            ],
+            [
+                178,
+                "Now get out of my spot."
+            ],
+            [
+                268,
+                "Hello. Listen, I\u2019ve been thinking a lot about relationships and how difficult they can be, and I think\u2026"
+            ],
+            [
+                270,
+                "Strongly disagree. Go on."
+            ],
+            [
+                272,
+                "Oh."
+            ],
+            [
+                274,
+                "Okay."
+            ],
+            [
+                276,
+                "Well, Gollum, you\u2019re an expert on rings. What do I do with this one?"
+            ]
+        ],
+        "Stuart": [
+            [
+                17,
+                "I don\u2019t want to rush you, but I\u2019m closing a little early tonight."
+            ],
+            [
+                19,
+                "Uh, no. I overheard Bernadette tell Howard she was making him a meat loaf, and you don\u2019t have to not ask me twice."
+            ],
+            [
+                26,
+                "Sold."
+            ],
+            [
+                28,
+                "Too late. No returns."
+            ],
+            [
+                185,
+                "Hey, guys."
+            ],
+            [
+                187,
+                "Sure. Uh, let me just put this stuff in the fridge. I felt bad for finishing your yoghurt, so I bought more. And, Howard, your favourite fruit is in season. Crunch Berries."
+            ],
+            [
+                190,
+                "What\u2019s up?"
+            ],
+            [
+                196,
+                "Is everything okay?"
+            ],
+            [
+                198,
+                "I know. I may sell comic books at work, but the real superheroes are sitting right in front of me."
+            ],
+            [
+                208,
+                "It\u2019s just my dad, probably calling to wish me a happy birthday. I\u2019ll call him back. You were saying?"
+            ]
+        ],
+        "Raj": [
+            [
+                18,
+                "Ooh. Hot date?"
+            ],
+            [
+                21,
+                "You\u2019re kidding, right?"
+            ],
+            [
+                23,
+                "I guess I\u2019m just more of a Pottery Barn, Crate and Barrel kind of guy. Maybe Pier 1 if I really want to cut loose."
+            ],
+            [
+                25,
+                "No, no, no. Hey, you should totally get it. In fact, I\u2019ll buy it for you."
+            ],
+            [
+                58,
+                "You guys ever notice that Emily has a bit of a twisted side?"
+            ],
+            [
+                60,
+                "No, because she wants to have sex with me in a graveyard."
+            ],
+            [
+                62,
+                "She and I were supposed to watch the new Avengers movie tonight, but it was sold out. So I said, what else do you want to do? She said, let\u2019s go to a cemetery and do it on somebody\u2019s grave."
+            ],
+            [
+                64,
+                "What difference does it make?"
+            ],
+            [
+                67,
+                "Well, what if it\u2019s one consenting adult and one adult who pretends to consent because he\u2019s afraid of being alone?"
+            ],
+            [
+                69,
+                "I don\u2019t know, guys. Maybe this relationship isn\u2019t for me. Maybe I should break up with her."
+            ],
+            [
+                74,
+                "You guys are being jerks."
+            ],
+            [
+                76,
+                "You\u2019re one to talk. You\u2019ve been complaining about Stuart living here for the past year. I don\u2019t see you showing him the door."
+            ],
+            [
+                78,
+                "Baloney, okay? You two are as afraid of hurting someone\u2019s feelings as I am."
+            ],
+            [
+                151,
+                "Oh, yes, we\u2019ve got the moon and the trees and Elizabeth McNulty, who apparently died when she was the same age I am."
+            ],
+            [
+                153,
+                "So does enjoying a meal at a well-lit restaurant, but here we are."
+            ],
+            [
+                155,
+                "Of ghosts, no. Of you, little bit."
+            ],
+            [
+                194,
+                "I think we should talk."
+            ],
+            [
+                202,
+                "Look, I care about you a lot, but we are very different people."
+            ],
+            [
+                204,
+                "No, no, I\u2019m just pointing out that you\u2019re dark on the inside and I\u2019m dark on the outside."
+            ],
+            [
+                211,
+                "End things? I\u2019m trying to tell you that I love you."
+            ]
+        ],
+        "Emily": [
+            [
+                20,
+                "If I stick a light bulb on this, wouldn\u2019t it make a great lamp for my bedroom?"
+            ],
+            [
+                22,
+                "Oh. Is this freaking you out?"
+            ],
+            [
+                24,
+                "All right. Never mind."
+            ],
+            [
+                27,
+                "Raj, you don\u2019t have to do that."
+            ],
+            [
+                150,
+                "Mmm. It\u2019s a beautiful night."
+            ],
+            [
+                152,
+                "Makes you feel alive, doesn\u2019t it?"
+            ],
+            [
+                154,
+                "You aren\u2019t scared, are you?"
+            ],
+            [
+                193,
+                "You okay?"
+            ],
+            [
+                203,
+                "Are you breaking up with me?"
+            ],
+            [
+                210,
+                "Look, Raj, be honest with me. If you want to end things, just do it. Don\u2019t expect me to do it for you."
+            ]
+        ],
+        "Leonard": [
+            [
+                30,
+                "That was really intense."
+            ],
+            [
+                32,
+                "Hey."
+            ],
+            [
+                34,
+                "Can it wait until I put a Band-Aid on a goat bite?"
+            ],
+            [
+                49,
+                "I\u2019m gonna guess that your main concern is the time commitment of watching an entire season of a new show."
+            ],
+            [
+                51,
+                "I get it. Smallville almost wrecked you."
+            ],
+            [
+                82,
+                "Mmm. My pleasure."
+            ],
+            [
+                84,
+                "Yeah. I wish I\u2019d fought harder for the rest of \u2019em."
+            ],
+            [
+                97,
+                "We\u2019re gonna set a date."
+            ],
+            [
+                100,
+                "Really good."
+            ],
+            [
+                102,
+                "And we\u2019ve been busy with our paper."
+            ],
+            [
+                104,
+                "Yeah, we\u2019ll pick a date when we pick a date."
+            ],
+            [
+                123,
+                "So, why haven\u2019t we picked a date?"
+            ],
+            [
+                125,
+                "Well, of course I know why. But just for fun, why?"
+            ],
+            [
+                129,
+                "You still want to get married, right?"
+            ],
+            [
+                131,
+                "I don\u2019t know. Because we don\u2019t have a date?"
+            ],
+            [
+                133,
+                "It\u2019s not just the date. We haven\u2019t talked about anything. Big wedding, small wedding, indoor, outdoor?"
+            ],
+            [
+                136,
+                "Is your dad paying for it?"
+            ],
+            [
+                138,
+                "Okay, two friends each."
+            ],
+            [
+                140,
+                "Fine. I want black-tie."
+            ],
+            [
+                143,
+                "Okay. Well, then it\u2019s settled. Small indoor church wedding, black-tie, no butterflies."
+            ],
+            [
+                145,
+                "Great."
+            ],
+            [
+                148,
+                "Shut up."
+            ],
+            [
+                159,
+                "Yeah, maybe it\u2019s good you got us talking about this stuff."
+            ],
+            [
+                165,
+                "Sheldon, I\u2019m not a whiner."
+            ],
+            [
+                167,
+                "Look, all she\u2019s saying is we are in love so it doesn\u2019t matter if we get married tomorrow or a year from now or 50 years from now."
+            ],
+            [
+                169,
+                "Yeah, but we\u2019ll be old and gross together."
+            ],
+            [
+                172,
+                "Are you saying you want to get married?"
+            ],
+            [
+                174,
+                "I\u2019m in. Let\u2019s do it."
+            ],
+            [
+                177,
+                "Thanks."
+            ],
+            [
+                216,
+                "Doesn\u2019t sound very romantic."
+            ],
+            [
+                218,
+                "I\u2019m sure we\u2019ll find a decent chapel."
+            ],
+            [
+                220,
+                "I know. You think people are gonna be mad?"
+            ],
+            [
+                222,
+                "It is. It is about us."
+            ],
+            [
+                224,
+                "Right. No surprises."
+            ],
+            [
+                226,
+                "Uh, well, there, there\u2019s one thing I feel I should tell you."
+            ],
+            [
+                228,
+                "You know, so we can go into this with no secrets between us."
+            ],
+            [
+                230,
+                "Remember, uh, a couple years back when I was on that research ship in the North Sea?"
+            ],
+            [
+                232,
+                "Okay, well, there, there was a lot of drinking and craziness going on."
+            ],
+            [
+                234,
+                "Okay, um, well, there was this girl."
+            ],
+            [
+                236,
+                "Nothing really. It was just kissing."
+            ],
+            [
+                238,
+                "And then nothing. I stopped it. But it still bothers me, and I wanted you to know."
+            ],
+            [
+                240,
+                "Did you ever do anything like this since we\u2019ve been?"
+            ],
+            [
+                242,
+                "Oh, that\u2019s too bad."
+            ],
+            [
+                244,
+                "Hmm?"
+            ],
+            [
+                246,
+                "Well, like I said, we\u2019re about to get married, and I, I want a clean slate. No secrets."
+            ],
+            [
+                248,
+                "Would you rather I didn\u2019t tell you?"
+            ],
+            [
+                250,
+                "See, now I\u2019m confused. I mean, what, what am I supposed to do?"
+            ],
+            [
+                252,
+                "I can do that. Uh, uh, from now on, this mouth, you and food, that\u2019s it."
+            ],
+            [
+                254,
+                "Yeah?"
+            ],
+            [
+                256,
+                "Right."
+            ],
+            [
+                258,
+                "It wasn\u2019t even very good. She was a smoker, I\u2019d just been seasick."
+            ],
+            [
+                260,
+                "So, we\u2019re still getting married?"
+            ],
+            [
+                262,
+                "Because we love each other."
+            ],
+            [
+                264,
+                "And it\u2019s the happiest day of our lives."
+            ]
+        ],
+        "Penny": [
+            [
+                31,
+                "Well, now we know, next time we go to the farmers\u2019 market, the order is petting zoo first, then buy vegetables."
+            ],
+            [
+                36,
+                "Oh, your buddy got mugged by some baby farm animals."
+            ],
+            [
+                38,
+                "Mmm. So what do you need help with?"
+            ],
+            [
+                40,
+                "Okay. Were you talking before she got upset?"
+            ],
+            [
+                42,
+                "That\u2019s probably it. What\u2019d you say to her?"
+            ],
+            [
+                44,
+                "And that made her angry?"
+            ],
+            [
+                46,
+                "Well, Sheldon, when you\u2019re kissing a girl, she expects the attention to be on her."
+            ],
+            [
+                48,
+                "Yeah. I\u2019m tapping out. Leonard?"
+            ],
+            [
+                53,
+                "Wait, what is wrong with you two? He was talking about television during their date night."
+            ],
+            [
+                55,
+                "Okay, see, that\u2019s even dumber than you wondering if being bitten by a goat would give you the powers of a goat."
+            ],
+            [
+                81,
+                "Thanks for cooking."
+            ],
+            [
+                83,
+                "That carrot was delicious."
+            ],
+            [
+                85,
+                "Still haven\u2019t heard from her?"
+            ],
+            [
+                87,
+                "Hey, I don\u2019t think she\u2019s wrong about you going too slow in the relationship."
+            ],
+            [
+                89,
+                "Yeah, you\u2019ve been going out for years. You haven\u2019t even slept together."
+            ],
+            [
+                91,
+                "Uh, hello."
+            ],
+            [
+                93,
+                "No. Sheldon, we\u2019re getting married."
+            ],
+            [
+                95,
+                "Well, we will. We\u2019re just not in a rush."
+            ],
+            [
+                99,
+                "Yeah, it\u2019s just, things are good right now."
+            ],
+            [
+                101,
+                "I\u2019m focusing on my job."
+            ],
+            [
+                103,
+                "So busy."
+            ],
+            [
+                105,
+                "Yeah."
+            ],
+            [
+                107,
+                "You know, I can see why Amy\u2019s mad at you."
+            ],
+            [
+                124,
+                "You know why."
+            ],
+            [
+                126,
+                "Not in a rush, busy with work\u2026"
+            ],
+            [
+                128,
+                "Really good."
+            ],
+            [
+                130,
+                "Oh, my God. Yes. Why would you even ask that?"
+            ],
+            [
+                132,
+                "Well, you want a date, pick a date."
+            ],
+            [
+                135,
+                "Okay, indoor it is. Big or small?"
+            ],
+            [
+                137,
+                "I doubt it."
+            ],
+            [
+                139,
+                "All right, well, I want it in a church."
+            ],
+            [
+                141,
+                "Fine. I want to release butterflies."
+            ],
+            [
+                144,
+                "Sounds perfect."
+            ],
+            [
+                147,
+                "Stay out of it."
+            ],
+            [
+                158,
+                "No, it\u2019s okay."
+            ],
+            [
+                161,
+                "Uh, Sheldon, I think we\u2019re good for now."
+            ],
+            [
+                163,
+                "Here we go again. Why is everyone so concerned with us setting a date? We\u2019re committed to each other. We\u2019re happy. A ceremony isn\u2019t gonna change anything."
+            ],
+            [
+                168,
+                "Ew, 50? We\u2019ll be old and gross."
+            ],
+            [
+                171,
+                "Um, I\u2019m free tonight."
+            ],
+            [
+                173,
+                "Vegas isn\u2019t that far away."
+            ],
+            [
+                176,
+                "Oh, thank you."
+            ],
+            [
+                215,
+                "Wow, there\u2019s a Denny\u2019s in Vegas you can actually get married in."
+            ],
+            [
+                217,
+                "Yeah, but we could get heart-shaped pancakes."
+            ],
+            [
+                219,
+                "Yeah. This is crazy."
+            ],
+            [
+                221,
+                "Maybe. But this isn\u2019t about them, it\u2019s about us."
+            ],
+            [
+                223,
+                "And you know what the best part is? We took our time. I mean, we met, we were friends for a couple years, then we got together, and then we got untogether, then we worked out all our problems, and now we know everything about each other, we can just go forward with no surprises and no regrets."
+            ],
+            [
+                225,
+                "And no regrets."
+            ],
+            [
+                227,
+                "What?"
+            ],
+            [
+                229,
+                "What?"
+            ],
+            [
+                231,
+                "Yeah."
+            ],
+            [
+                233,
+                "No, you told me."
+            ],
+            [
+                235,
+                "What did you do?"
+            ],
+            [
+                237,
+                "And then what?"
+            ],
+            [
+                239,
+                "All right."
+            ],
+            [
+                241,
+                "Nope, never."
+            ],
+            [
+                243,
+                "You know, can I ask you a question?"
+            ],
+            [
+                245,
+                "Why are you telling me this now?"
+            ],
+            [
+                247,
+                "Really? Because to me, it seems like we\u2019re about to get married and you\u2019re trying to sabotage it."
+            ],
+            [
+                249,
+                "No, I don\u2019t want there to be secrets between us."
+            ],
+            [
+                251,
+                "Uh, keep your mouth off other women."
+            ],
+            [
+                253,
+                "Okay."
+            ],
+            [
+                255,
+                "Look, I\u2019m not happy this happened, but I think I can get past it. I mean, we weren\u2019t engaged at the time, and it was just kissing."
+            ],
+            [
+                257,
+                "Just kissing."
+            ],
+            [
+                259,
+                "Okay, that\u2019s enough. Stop talking."
+            ],
+            [
+                261,
+                "Yes."
+            ],
+            [
+                263,
+                "Yes."
+            ],
+            [
+                265,
+                "Ha-ha, don\u2019t push it."
+            ]
+        ],
+        "Bernadette": [
+            [
+                59,
+                "You mean \u2019cause she has weird tattoos?"
+            ],
+            [
+                66,
+                "The only issue is that everybody has their own thing, and as long as it\u2019s two consenting adults, I guess I don\u2019t see the harm in it."
+            ],
+            [
+                68,
+                "Well, then I guess bring a blanket. The grass gets damp at night."
+            ],
+            [
+                71,
+                "I think if Raj wants to break up with a girl, he can do it."
+            ],
+            [
+                73,
+                "I don\u2019t know."
+            ],
+            [
+                79,
+                "That\u2019s not true. We were just laughing right in your face."
+            ],
+            [
+                110,
+                "Did you eat all my yoghurt?"
+            ],
+            [
+                112,
+                "You know which yoghurt I mean."
+            ],
+            [
+                114,
+                "Maybe Raj is right. Maybe it\u2019s time we tell him he needs to move out."
+            ],
+            [
+                116,
+                "I know, but his store was reopening, and then there were the holidays, and then he was sick."
+            ],
+            [
+                118,
+                "All right. Tonight\u2019s the night."
+            ],
+            [
+                120,
+                "Ooh, I like when you take charge."
+            ],
+            [
+                181,
+                "Right."
+            ],
+            [
+                183,
+                "Howard Joel Wolowitz, you get back here."
+            ],
+            [
+                188,
+                "Don\u2019t let that sway you."
+            ],
+            [
+                191,
+                "So, we need to talk."
+            ],
+            [
+                197,
+                "Well, you\u2019ve been living here a while now."
+            ],
+            [
+                199,
+                "Yeah."
+            ],
+            [
+                206,
+                "So, anyway, what I\u2019m trying to say is\u2026 (phone rings)"
+            ]
+        ],
+        "Howard": [
+            [
+                61,
+                "One more time?"
+            ],
+            [
+                63,
+                "Like, a random person or somebody she knew?"
+            ],
+            [
+                65,
+                "Well, if it\u2019s her father\u2019s grave and they didn\u2019t get along, then you know she holds a grudge."
+            ],
+            [
+                70,
+                "Right. You\u2019re gonna break up with a girl who has sex with you. Can you believe this guy?"
+            ],
+            [
+                72,
+                "How are you saying that with a straight face?"
+            ],
+            [
+                75,
+                "Buddy, other than Jenny Craig, you\u2019ve never broken up with a girl in your life."
+            ],
+            [
+                77,
+                "That\u2019s not the same thing. Emily\u2019s a person. Stuart\u2019s more like an infestation, something you spray for."
+            ],
+            [
+                111,
+                "You mean the one that makes ladies do the thing that ladies pretend they don\u2019t do even though they do?"
+            ],
+            [
+                113,
+                "I didn\u2019t touch it. Must have been Stuart."
+            ],
+            [
+                115,
+                "We should have done it months ago."
+            ],
+            [
+                117,
+                "Yeah, right. Sick. He didn\u2019t have jaundice. He just looks like that."
+            ],
+            [
+                119,
+                "Agreed. When he gets home, I\u2019m dropping the hammer."
+            ],
+            [
+                121,
+                "Oh, I\u2019m not taking charge, you\u2019re the hammer."
+            ],
+            [
+                180,
+                "Bernie, Stuart just pulled up. So remember, the key is to be firm. Show no weakness."
+            ],
+            [
+                182,
+                "Good luck."
+            ],
+            [
+                184,
+                "Never should have told you my middle name."
+            ],
+            [
+                186,
+                "Hey, you got a minute?"
+            ],
+            [
+                189,
+                "It\u2019s hard not to. They taste so much better than real berries."
+            ],
+            [
+                200,
+                "His middle name is David. Go."
+            ],
+            [
+                207,
+                "You need to take that?"
+            ]
+        ],
+        "Howard and Bernadette (singing)": [
+            [
+                213,
+                "Happy birthday to you."
+            ]
+        ],
+        "Amy (on skype)": [
+            [
+                267,
+                "Hello."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Can you believe it\u2019s been five years since our first date?"
+        ],
+        [
+            "Sheldon",
+            "I know. Do you think I should start watching The Flash TV show?"
+        ],
+        [
+            "Amy",
+            "That\u2019s what you\u2019re thinking about?"
+        ],
+        [
+            "Sheldon",
+            "Well, one of the things."
+        ],
+        [
+            "Amy",
+            "Are any of them me?"
+        ],
+        [
+            "Sheldon",
+            "Yes. I thought, I can\u2019t decide if I should watch The Flash TV show. I know, I\u2019ll ask Amy. Anyway."
+        ],
+        [
+            "Amy",
+            "What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right, you did kind of kill the mood."
+        ],
+        [
+            "Amy",
+            "I didn\u2019t kill anything. You did, talking about your stupid TV show."
+        ],
+        [
+            "Sheldon",
+            "Excuse me. Starting to watch a television show that might run for years isn\u2019t a decision to take lightly. I\u2019m wrestling with a big commitment issue here."
+        ],
+        [
+            "Amy",
+            "Really? That\u2019s the commitment issue you\u2019re wrestling with? Sheldon, do you understand the irony of your fixation on a man with super speed, while after five years all I can get out of you is a distracted make-out session on a couch?"
+        ],
+        [
+            "Sheldon",
+            "Irony\u2019s not really my strong suit. But I have been getting better with sarcasm, if you want to give that a try."
+        ],
+        [
+            "Amy",
+            "Oh, sure, I\u2019d love to."
+        ],
+        [
+            "Sheldon",
+            "Whenever you\u2019re ready."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Stuart",
+            "I don\u2019t want to rush you, but I\u2019m closing a little early tonight."
+        ],
+        [
+            "Raj",
+            "Ooh. Hot date?"
+        ],
+        [
+            "Stuart",
+            "Uh, no. I overheard Bernadette tell Howard she was making him a meat loaf, and you don\u2019t have to not ask me twice."
+        ],
+        [
+            "Emily",
+            "If I stick a light bulb on this, wouldn\u2019t it make a great lamp for my bedroom?"
+        ],
+        [
+            "Raj",
+            "You\u2019re kidding, right?"
+        ],
+        [
+            "Emily",
+            "Oh. Is this freaking you out?"
+        ],
+        [
+            "Raj",
+            "I guess I\u2019m just more of a Pottery Barn, Crate and Barrel kind of guy. Maybe Pier 1 if I really want to cut loose."
+        ],
+        [
+            "Emily",
+            "All right. Never mind."
+        ],
+        [
+            "Raj",
+            "No, no, no. Hey, you should totally get it. In fact, I\u2019ll buy it for you."
+        ],
+        [
+            "Stuart",
+            "Sold."
+        ],
+        [
+            "Emily",
+            "Raj, you don\u2019t have to do that."
+        ],
+        [
+            "Stuart",
+            "Too late. No returns."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Leonard",
+            "That was really intense."
+        ],
+        [
+            "Penny",
+            "Well, now we know, next time we go to the farmers\u2019 market, the order is petting zoo first, then buy vegetables."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Oh, good. You\u2019re here. I need your assistance."
+        ],
+        [
+            "Leonard",
+            "Can it wait until I put a Band-Aid on a goat bite?"
+        ],
+        [
+            "Sheldon",
+            "What happened?"
+        ],
+        [
+            "Penny",
+            "Oh, your buddy got mugged by some baby farm animals."
+        ],
+        [
+            "Sheldon",
+            "Been there."
+        ],
+        [
+            "Penny",
+            "Mmm. So what do you need help with?"
+        ],
+        [
+            "Sheldon",
+            "Amy\u2019s mad at me, and I\u2019m not clear why."
+        ],
+        [
+            "Penny",
+            "Okay. Were you talking before she got upset?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "That\u2019s probably it. What\u2019d you say to her?"
+        ],
+        [
+            "Sheldon",
+            "Well, I just asked her if I should start watching the new Flash TV series."
+        ],
+        [
+            "Penny",
+            "And that made her angry?"
+        ],
+        [
+            "Sheldon",
+            "Baffling, right? We were necking like a couple of hooligans under the school bleachers. I stopped so I could ask the question. Next thing I know, good-bye, kissy face. Hello, yelly face."
+        ],
+        [
+            "Penny",
+            "Well, Sheldon, when you\u2019re kissing a girl, she expects the attention to be on her."
+        ],
+        [
+            "Sheldon",
+            "It was. I asked her if she thought I should watch The Flash."
+        ],
+        [
+            "Penny",
+            "Yeah. I\u2019m tapping out. Leonard?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m gonna guess that your main concern is the time commitment of watching an entire season of a new show."
+        ],
+        [
+            "Sheldon",
+            "Oh, no, not just a season. If I\u2019m in, I\u2019m in for the whole run, even if the quality declines."
+        ],
+        [
+            "Leonard",
+            "I get it. Smallville almost wrecked you."
+        ],
+        [
+            "Sheldon",
+            "Yeah. Exactly. You know, I waited ten years to see a guy everyone knows can fly, fly."
+        ],
+        [
+            "Penny",
+            "Wait, what is wrong with you two? He was talking about television during their date night."
+        ],
+        [
+            "Sheldon",
+            "Oh, not just date night, our fifth anniversary."
+        ],
+        [
+            "Penny",
+            "Okay, see, that\u2019s even dumber than you wondering if being bitten by a goat would give you the powers of a goat."
+        ],
+        [
+            "Sheldon",
+            "If that happens, don\u2019t make me wait ten years to watch you eat a tin can."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Raj",
+            "You guys ever notice that Emily has a bit of a twisted side?"
+        ],
+        [
+            "Bernadette",
+            "You mean \u2019cause she has weird tattoos?"
+        ],
+        [
+            "Raj",
+            "No, because she wants to have sex with me in a graveyard."
+        ],
+        [
+            "Howard",
+            "One more time?"
+        ],
+        [
+            "Raj",
+            "She and I were supposed to watch the new Avengers movie tonight, but it was sold out. So I said, what else do you want to do? She said, let\u2019s go to a cemetery and do it on somebody\u2019s grave."
+        ],
+        [
+            "Howard",
+            "Like, a random person or somebody she knew?"
+        ],
+        [
+            "Raj",
+            "What difference does it make?"
+        ],
+        [
+            "Howard",
+            "Well, if it\u2019s her father\u2019s grave and they didn\u2019t get along, then you know she holds a grudge."
+        ],
+        [
+            "Bernadette",
+            "The only issue is that everybody has their own thing, and as long as it\u2019s two consenting adults, I guess I don\u2019t see the harm in it."
+        ],
+        [
+            "Raj",
+            "Well, what if it\u2019s one consenting adult and one adult who pretends to consent because he\u2019s afraid of being alone?"
+        ],
+        [
+            "Bernadette",
+            "Well, then I guess bring a blanket. The grass gets damp at night."
+        ],
+        [
+            "Raj",
+            "I don\u2019t know, guys. Maybe this relationship isn\u2019t for me. Maybe I should break up with her."
+        ],
+        [
+            "Howard",
+            "Right. You\u2019re gonna break up with a girl who has sex with you. Can you believe this guy?"
+        ],
+        [
+            "Bernadette",
+            "I think if Raj wants to break up with a girl, he can do it."
+        ],
+        [
+            "Howard",
+            "How are you saying that with a straight face?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know."
+        ],
+        [
+            "Raj",
+            "You guys are being jerks."
+        ],
+        [
+            "Howard",
+            "Buddy, other than Jenny Craig, you\u2019ve never broken up with a girl in your life."
+        ],
+        [
+            "Raj",
+            "You\u2019re one to talk. You\u2019ve been complaining about Stuart living here for the past year. I don\u2019t see you showing him the door."
+        ],
+        [
+            "Howard",
+            "That\u2019s not the same thing. Emily\u2019s a person. Stuart\u2019s more like an infestation, something you spray for."
+        ],
+        [
+            "Raj",
+            "Baloney, okay? You two are as afraid of hurting someone\u2019s feelings as I am."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s not true. We were just laughing right in your face."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Thanks for cooking."
+        ],
+        [
+            "Leonard",
+            "Mmm. My pleasure."
+        ],
+        [
+            "Penny",
+            "That carrot was delicious."
+        ],
+        [
+            "Leonard",
+            "Yeah. I wish I\u2019d fought harder for the rest of \u2019em."
+        ],
+        [
+            "Penny",
+            "Still haven\u2019t heard from her?"
+        ],
+        [
+            "Sheldon",
+            "No, and I\u2019m confused. It\u2019s been nearly 24 hours. Amy should have figured out she\u2019s wrong by now."
+        ],
+        [
+            "Penny",
+            "Hey, I don\u2019t think she\u2019s wrong about you going too slow in the relationship."
+        ],
+        [
+            "Sheldon",
+            "Too slow?"
+        ],
+        [
+            "Penny",
+            "Yeah, you\u2019ve been going out for years. You haven\u2019t even slept together."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s right. It\u2019s called foreplay. And I could make the case that you two aren\u2019t moving forward in your relationship."
+        ],
+        [
+            "Penny",
+            "Uh, hello."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Penny",
+            "No. Sheldon, we\u2019re getting married."
+        ],
+        [
+            "Sheldon",
+            "But you\u2019ve been engaged for over a year now, and you don\u2019t even have a wedding date."
+        ],
+        [
+            "Penny",
+            "Well, we will. We\u2019re just not in a rush."
+        ],
+        [
+            "Sheldon",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "We\u2019re gonna set a date."
+        ],
+        [
+            "Sheldon",
+            "Okay. If you say so."
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s just, things are good right now."
+        ],
+        [
+            "Leonard",
+            "Really good."
+        ],
+        [
+            "Penny",
+            "I\u2019m focusing on my job."
+        ],
+        [
+            "Leonard",
+            "And we\u2019ve been busy with our paper."
+        ],
+        [
+            "Penny",
+            "So busy."
+        ],
+        [
+            "Leonard",
+            "Yeah, we\u2019ll pick a date when we pick a date."
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "Okay."
+        ],
+        [
+            "Penny",
+            "You know, I can see why Amy\u2019s mad at you."
+        ],
+        [
+            "Sheldon",
+            "Yeah, shut up, Sheldon."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Bernadette",
+            "Did you eat all my yoghurt?"
+        ],
+        [
+            "Howard",
+            "You mean the one that makes ladies do the thing that ladies pretend they don\u2019t do even though they do?"
+        ],
+        [
+            "Bernadette",
+            "You know which yoghurt I mean."
+        ],
+        [
+            "Howard",
+            "I didn\u2019t touch it. Must have been Stuart."
+        ],
+        [
+            "Bernadette",
+            "Maybe Raj is right. Maybe it\u2019s time we tell him he needs to move out."
+        ],
+        [
+            "Howard",
+            "We should have done it months ago."
+        ],
+        [
+            "Bernadette",
+            "I know, but his store was reopening, and then there were the holidays, and then he was sick."
+        ],
+        [
+            "Howard",
+            "Yeah, right. Sick. He didn\u2019t have jaundice. He just looks like that."
+        ],
+        [
+            "Bernadette",
+            "All right. Tonight\u2019s the night."
+        ],
+        [
+            "Howard",
+            "Agreed. When he gets home, I\u2019m dropping the hammer."
+        ],
+        [
+            "Bernadette",
+            "Ooh, I like when you take charge."
+        ],
+        [
+            "Howard",
+            "Oh, I\u2019m not taking charge, you\u2019re the hammer."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "So, why haven\u2019t we picked a date?"
+        ],
+        [
+            "Penny",
+            "You know why."
+        ],
+        [
+            "Leonard",
+            "Well, of course I know why. But just for fun, why?"
+        ],
+        [
+            "Penny",
+            "Not in a rush, busy with work\u2026"
+        ],
+        [
+            "Sheldon",
+            "Things are good right now."
+        ],
+        [
+            "Penny",
+            "Really good."
+        ],
+        [
+            "Leonard",
+            "You still want to get married, right?"
+        ],
+        [
+            "Penny",
+            "Oh, my God. Yes. Why would you even ask that?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. Because we don\u2019t have a date?"
+        ],
+        [
+            "Penny",
+            "Well, you want a date, pick a date."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not just the date. We haven\u2019t talked about anything. Big wedding, small wedding, indoor, outdoor?"
+        ],
+        [
+            "Sheldon",
+            "Outdoor? Oh. I can RSVP no right now."
+        ],
+        [
+            "Penny",
+            "Okay, indoor it is. Big or small?"
+        ],
+        [
+            "Leonard",
+            "Is your dad paying for it?"
+        ],
+        [
+            "Penny",
+            "I doubt it."
+        ],
+        [
+            "Leonard",
+            "Okay, two friends each."
+        ],
+        [
+            "Penny",
+            "All right, well, I want it in a church."
+        ],
+        [
+            "Leonard",
+            "Fine. I want black-tie."
+        ],
+        [
+            "Penny",
+            "Fine. I want to release butterflies."
+        ],
+        [
+            "Sheldon",
+            "Seriously? Airborne worms?"
+        ],
+        [
+            "Leonard",
+            "Okay. Well, then it\u2019s settled. Small indoor church wedding, black-tie, no butterflies."
+        ],
+        [
+            "Penny",
+            "Sounds perfect."
+        ],
+        [
+            "Leonard",
+            "Great."
+        ],
+        [
+            "Sheldon",
+            "You still didn\u2019t pick a date."
+        ],
+        [
+            "Penny",
+            "Stay out of it."
+        ],
+        [
+            "Leonard",
+            "Shut up."
+        ],
+        [
+            "Scene",
+            "A graveyard."
+        ],
+        [
+            "Emily",
+            "Mmm. It\u2019s a beautiful night."
+        ],
+        [
+            "Raj",
+            "Oh, yes, we\u2019ve got the moon and the trees and Elizabeth McNulty, who apparently died when she was the same age I am."
+        ],
+        [
+            "Emily",
+            "Makes you feel alive, doesn\u2019t it?"
+        ],
+        [
+            "Raj",
+            "So does enjoying a meal at a well-lit restaurant, but here we are."
+        ],
+        [
+            "Emily",
+            "You aren\u2019t scared, are you?"
+        ],
+        [
+            "Raj",
+            "Of ghosts, no. Of you, little bit."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry I\u2019ve upset you. I shouldn\u2019t have asked so many questions."
+        ],
+        [
+            "Penny",
+            "No, it\u2019s okay."
+        ],
+        [
+            "Leonard",
+            "Yeah, maybe it\u2019s good you got us talking about this stuff."
+        ],
+        [
+            "Sheldon",
+            "Well, look at that, even when I\u2019m causing problems, I make the world a better place. Hey, next, why don\u2019t we tackle your penchant for whining and Penny\u2019s love of the ol\u2019 glug-glug?"
+        ],
+        [
+            "Penny",
+            "Uh, Sheldon, I think we\u2019re good for now."
+        ],
+        [
+            "Sheldon",
+            "Ah, well, very well. So does this mean you\u2019ll finally pick a wedding date?"
+        ],
+        [
+            "Penny",
+            "Here we go again. Why is everyone so concerned with us setting a date? We\u2019re committed to each other. We\u2019re happy. A ceremony isn\u2019t gonna change anything."
+        ],
+        [
+            "Sheldon",
+            "So you\u2019re never getting married? It\u2019s his whining, isn\u2019t it?"
+        ],
+        [
+            "Leonard",
+            "Sheldon, I\u2019m not a whiner."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s amusing that he doesn\u2019t hear it."
+        ],
+        [
+            "Leonard",
+            "Look, all she\u2019s saying is we are in love so it doesn\u2019t matter if we get married tomorrow or a year from now or 50 years from now."
+        ],
+        [
+            "Penny",
+            "Ew, 50? We\u2019ll be old and gross."
+        ],
+        [
+            "Leonard",
+            "Yeah, but we\u2019ll be old and gross together."
+        ],
+        [
+            "Sheldon",
+            "My aunt and uncle were married 63 years. Towards the end, it was like watching cheese melt."
+        ],
+        [
+            "Penny",
+            "Um, I\u2019m free tonight."
+        ],
+        [
+            "Leonard",
+            "Are you saying you want to get married?"
+        ],
+        [
+            "Penny",
+            "Vegas isn\u2019t that far away."
+        ],
+        [
+            "Leonard",
+            "I\u2019m in. Let\u2019s do it."
+        ],
+        [
+            "Sheldon",
+            "After all these years. I\u2019m really happy for the two of you."
+        ],
+        [
+            "Penny",
+            "Oh, thank you."
+        ],
+        [
+            "Leonard",
+            "Thanks."
+        ],
+        [
+            "Sheldon",
+            "Now get out of my spot."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Howard",
+            "Bernie, Stuart just pulled up. So remember, the key is to be firm. Show no weakness."
+        ],
+        [
+            "Bernadette",
+            "Right."
+        ],
+        [
+            "Howard",
+            "Good luck."
+        ],
+        [
+            "Bernadette",
+            "Howard Joel Wolowitz, you get back here."
+        ],
+        [
+            "Howard",
+            "Never should have told you my middle name."
+        ],
+        [
+            "Stuart",
+            "Hey, guys."
+        ],
+        [
+            "Howard",
+            "Hey, you got a minute?"
+        ],
+        [
+            "Stuart",
+            "Sure. Uh, let me just put this stuff in the fridge. I felt bad for finishing your yoghurt, so I bought more. And, Howard, your favourite fruit is in season. Crunch Berries."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t let that sway you."
+        ],
+        [
+            "Howard",
+            "It\u2019s hard not to. They taste so much better than real berries."
+        ],
+        [
+            "Stuart",
+            "What\u2019s up?"
+        ],
+        [
+            "Bernadette",
+            "So, we need to talk."
+        ],
+        [
+            "Scene",
+            "The graveyard."
+        ],
+        [
+            "Emily",
+            "You okay?"
+        ],
+        [
+            "Raj",
+            "I think we should talk."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Stuart",
+            "Is everything okay?"
+        ],
+        [
+            "Bernadette",
+            "Well, you\u2019ve been living here a while now."
+        ],
+        [
+            "Stuart",
+            "I know. I may sell comic books at work, but the real superheroes are sitting right in front of me."
+        ],
+        [
+            "Bernadette",
+            "Yeah."
+        ],
+        [
+            "Howard",
+            "His middle name is David. Go."
+        ],
+        [
+            "Scene",
+            "The graveyard."
+        ],
+        [
+            "Raj",
+            "Look, I care about you a lot, but we are very different people."
+        ],
+        [
+            "Emily",
+            "Are you breaking up with me?"
+        ],
+        [
+            "Raj",
+            "No, no, I\u2019m just pointing out that you\u2019re dark on the inside and I\u2019m dark on the outside."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Bernadette",
+            "So, anyway, what I\u2019m trying to say is\u2026 (phone rings)"
+        ],
+        [
+            "Howard",
+            "You need to take that?"
+        ],
+        [
+            "Stuart",
+            "It\u2019s just my dad, probably calling to wish me a happy birthday. I\u2019ll call him back. You were saying?"
+        ],
+        [
+            "Scene",
+            "The graveyard."
+        ],
+        [
+            "Emily",
+            "Look, Raj, be honest with me. If you want to end things, just do it. Don\u2019t expect me to do it for you."
+        ],
+        [
+            "Raj",
+            "End things? I\u2019m trying to tell you that I love you."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Howard and Bernadette (singing)",
+            "Happy birthday to you."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Penny",
+            "Wow, there\u2019s a Denny\u2019s in Vegas you can actually get married in."
+        ],
+        [
+            "Leonard",
+            "Doesn\u2019t sound very romantic."
+        ],
+        [
+            "Penny",
+            "Yeah, but we could get heart-shaped pancakes."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sure we\u2019ll find a decent chapel."
+        ],
+        [
+            "Penny",
+            "Yeah. This is crazy."
+        ],
+        [
+            "Leonard",
+            "I know. You think people are gonna be mad?"
+        ],
+        [
+            "Penny",
+            "Maybe. But this isn\u2019t about them, it\u2019s about us."
+        ],
+        [
+            "Leonard",
+            "It is. It is about us."
+        ],
+        [
+            "Penny",
+            "And you know what the best part is? We took our time. I mean, we met, we were friends for a couple years, then we got together, and then we got untogether, then we worked out all our problems, and now we know everything about each other, we can just go forward with no surprises and no regrets."
+        ],
+        [
+            "Leonard",
+            "Right. No surprises."
+        ],
+        [
+            "Penny",
+            "And no regrets."
+        ],
+        [
+            "Leonard",
+            "Uh, well, there, there\u2019s one thing I feel I should tell you."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "You know, so we can go into this with no secrets between us."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "Remember, uh, a couple years back when I was on that research ship in the North Sea?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "Okay, well, there, there was a lot of drinking and craziness going on."
+        ],
+        [
+            "Penny",
+            "No, you told me."
+        ],
+        [
+            "Leonard",
+            "Okay, um, well, there was this girl."
+        ],
+        [
+            "Penny",
+            "What did you do?"
+        ],
+        [
+            "Leonard",
+            "Nothing really. It was just kissing."
+        ],
+        [
+            "Penny",
+            "And then what?"
+        ],
+        [
+            "Leonard",
+            "And then nothing. I stopped it. But it still bothers me, and I wanted you to know."
+        ],
+        [
+            "Penny",
+            "All right."
+        ],
+        [
+            "Leonard",
+            "Did you ever do anything like this since we\u2019ve been?"
+        ],
+        [
+            "Penny",
+            "Nope, never."
+        ],
+        [
+            "Leonard",
+            "Oh, that\u2019s too bad."
+        ],
+        [
+            "Penny",
+            "You know, can I ask you a question?"
+        ],
+        [
+            "Leonard",
+            "Hmm?"
+        ],
+        [
+            "Penny",
+            "Why are you telling me this now?"
+        ],
+        [
+            "Leonard",
+            "Well, like I said, we\u2019re about to get married, and I, I want a clean slate. No secrets."
+        ],
+        [
+            "Penny",
+            "Really? Because to me, it seems like we\u2019re about to get married and you\u2019re trying to sabotage it."
+        ],
+        [
+            "Leonard",
+            "Would you rather I didn\u2019t tell you?"
+        ],
+        [
+            "Penny",
+            "No, I don\u2019t want there to be secrets between us."
+        ],
+        [
+            "Leonard",
+            "See, now I\u2019m confused. I mean, what, what am I supposed to do?"
+        ],
+        [
+            "Penny",
+            "Uh, keep your mouth off other women."
+        ],
+        [
+            "Leonard",
+            "I can do that. Uh, uh, from now on, this mouth, you and food, that\u2019s it."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "Yeah?"
+        ],
+        [
+            "Penny",
+            "Look, I\u2019m not happy this happened, but I think I can get past it. I mean, we weren\u2019t engaged at the time, and it was just kissing."
+        ],
+        [
+            "Leonard",
+            "Right."
+        ],
+        [
+            "Penny",
+            "Just kissing."
+        ],
+        [
+            "Leonard",
+            "It wasn\u2019t even very good. She was a smoker, I\u2019d just been seasick."
+        ],
+        [
+            "Penny",
+            "Okay, that\u2019s enough. Stop talking."
+        ],
+        [
+            "Leonard",
+            "So, we\u2019re still getting married?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "Because we love each other."
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "And it\u2019s the happiest day of our lives."
+        ],
+        [
+            "Penny",
+            "Ha-ha, don\u2019t push it."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Amy (on skype)",
+            "Hello."
+        ],
+        [
+            "Sheldon",
+            "Hello. Listen, I\u2019ve been thinking a lot about relationships and how difficult they can be, and I think\u2026"
+        ],
+        [
+            "Amy",
+            "I\u2019ve been thinking about them, too, Sheldon. Being your girlfriend is so challenging. Emotionally, physically. I\u2019ve been incredibly patient for years."
+        ],
+        [
+            "Sheldon",
+            "Strongly disagree. Go on."
+        ],
+        [
+            "Amy",
+            "Okay, well, this isn\u2019t easy to say, because I love you, but I need some time to take a step back and re-evaluate our situation."
+        ],
+        [
+            "Sheldon",
+            "Oh."
+        ],
+        [
+            "Amy",
+            "I hope you understand."
+        ],
+        [
+            "Sheldon",
+            "Okay."
+        ],
+        [
+            "Amy",
+            "Bye, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Well, Gollum, you\u2019re an expert on rings. What do I do with this one?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-24-the-commitment-determination/"
+}

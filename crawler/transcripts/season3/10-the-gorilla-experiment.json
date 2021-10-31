@@ -1,0 +1,2098 @@
+{
+    "Season": 3,
+    "Episode": 10,
+    "Title": "the gorilla experiment",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment"
+            ],
+            [
+                30,
+                "Credits sequence."
+            ],
+            [
+                32,
+                "A few moments later. "
+            ],
+            [
+                62,
+                "The apartment. Sheldon and Raj are playing a racing game on the Wii."
+            ],
+            [
+                92,
+                "The university cafeteria."
+            ],
+            [
+                124,
+                "The apartment. "
+            ],
+            [
+                148,
+                "Howard\u2019s bedroom."
+            ],
+            [
+                180,
+                "The apartment."
+            ],
+            [
+                220,
+                "Leonard\u2019s lab."
+            ],
+            [
+                255,
+                "The apartment. "
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Hey, Leonard, check this out. (Throws some food in the air and catches it in her mouth)"
+            ],
+            [
+                5,
+                "You want me to put it back?"
+            ],
+            [
+                19,
+                "Oh, come on, it\u2019s fine. We\u2019ll just put it all on the table, you know, family style."
+            ],
+            [
+                24,
+                "Oh, yeah, you can\u2019t sit there."
+            ],
+            [
+                28,
+                "Oh no, no, you see, in the winter, that seat is close enough to the radiator so that he\u2019s warm, yet not so close that he sweats. In the summer, it\u2019s directly in the path of a cross-breeze created by opening windows there and there. It faces the television at an angle that isn\u2019t direct, so he can still talk to everybody, yet not so wide that the picture looks distorted."
+            ],
+            [
+                34,
+                "Oh, thanks. They are cute, aren\u2019t they?"
+            ],
+            [
+                36,
+                "Shoes for Less."
+            ],
+            [
+                38,
+                "Oh, great selection, great prices."
+            ],
+            [
+                41,
+                "Womenfolk?"
+            ],
+            [
+                43,
+                "Just eat your dinner."
+            ],
+            [
+                45,
+                "Yeah, well, I don\u2019t think it\u2019s very funny."
+            ],
+            [
+                47,
+                "Howard, never let her go."
+            ],
+            [
+                70,
+                "It\u2019s not about shoes."
+            ],
+            [
+                72,
+                "Um, actually, can we do it in private?"
+            ],
+            [
+                74,
+                "Thanks, Raj. Okay, so here\u2019s the thing, I was wondering if you could maybe teach me a little physics?"
+            ],
+            [
+                76,
+                "Yeah, okay, cool. I don\u2019t need the PBS special, I just want to know enough so I can talk to Leonard about his job. You know, like Bernadette does."
+            ],
+            [
+                78,
+                "\u2018Cause I want to surprise him."
+            ],
+            [
+                80,
+                "Come on, Sheldon, this is important to me."
+            ],
+            [
+                82,
+                "You\u2019re sitting here playing video games all day."
+            ],
+            [
+                84,
+                "Sure. I did the one with the frogs."
+            ],
+            [
+                86,
+                "Yeah, actually, it was pretty cool. A lot of the girls threw up, but I gutted that thing like a deer."
+            ],
+            [
+                88,
+                "Oh, come on! A smart guy like you, it\u2019ll be a challenge. You can make it like an experiment."
+            ],
+            [
+                90,
+                "Great! It\u2019s a little insulting, but great. I\u2019ll be KoKo."
+            ],
+            [
+                126,
+                "Hey, Sheldon."
+            ],
+            [
+                128,
+                "Ready to get started?"
+            ],
+            [
+                130,
+                "Um, I don\u2019t have one."
+            ],
+            [
+                132,
+                "I have to take notes?"
+            ],
+            [
+                134,
+                "There\u2019s gonna be a test?"
+            ],
+            [
+                136,
+                "Thank you."
+            ],
+            [
+                138,
+                "Ancient Greece?"
+            ],
+            [
+                140,
+                "Um, does this have anything to do with Leonard\u2019s work?"
+            ],
+            [
+                142,
+                "Twenty six hundred years?"
+            ],
+            [
+                144,
+                "I have to go to the bathroom."
+            ],
+            [
+                146,
+                "Not for twenty six hundred years."
+            ],
+            [
+                182,
+                "Uh, we know that\u2026 Newton was a really smart cookie. Oh! Is that where Fig Newtons come from?"
+            ],
+            [
+                184,
+                "Sorry."
+            ],
+            [
+                186,
+                "I don\u2019t know."
+            ],
+            [
+                188,
+                "Hey! You don\u2019t have to be so mean!"
+            ],
+            [
+                190,
+                "No, you just suck at teaching."
+            ],
+            [
+                192,
+                "Oh, God, Sheldon, look I\u2019m trying to understand, but you\u2019re going too fast. Can you just back up a little bit?"
+            ],
+            [
+                194,
+                "Not that far back!"
+            ],
+            [
+                196,
+                "I don\u2019t know. Where were we looking up at the night sky?"
+            ],
+            [
+                198,
+                "Damn it!"
+            ],
+            [
+                200,
+                "Squared?"
+            ],
+            [
+                202,
+                "Aristotle?"
+            ],
+            [
+                204,
+                "Five?"
+            ],
+            [
+                206,
+                "Then I don\u2019t know."
+            ],
+            [
+                208,
+                "Because I\u2019m stupid!"
+            ],
+            [
+                210,
+                "Okay, look, can we just please forget about all this extra stuff and can you just tell me what Leonard does?"
+            ],
+            [
+                212,
+                "Really? That\u2019s it? Well, that doesn\u2019t sound so complicated."
+            ],
+            [
+                214,
+                "Okay, I just have one question. What exactly are sub-atomic particles?"
+            ],
+            [
+                216,
+                "Thank you."
+            ],
+            [
+                218,
+                "Oh, balls."
+            ],
+            [
+                258,
+                "Actually, that\u2019s not true, Leonard. In fact, recently I\u2019ve been thinking that given the parameters of your experiment, the transport of electrons through the aperture the nano-fabricated metal rings is qualitatively no different than the experiment already conducted in the Netherlands. Their observed phase shift in the diffusing electrons inside the metal ring already conclusively demonstrated the electric analogue of the Aharonov-Bohm quantum-interference effect. That\u2019s it. That\u2019s all I know. Oh, wait! Fig Newtons were named after a town in Massachusetts, not the scientist."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Leonard, she\u2019s doing it again."
+            ],
+            [
+                4,
+                "No. It upsets Sheldon when she willy-nilly takes it from the containers without regard for its equitable distribution. This is essentially why you have famine in India."
+            ],
+            [
+                6,
+                "Leonard."
+            ],
+            [
+                9,
+                "Hello."
+            ],
+            [
+                16,
+                "Wait, no, that\u2019s a false equivalency. More does not equal merry. If there were 2,000 people in this apartment right now, would we be celebrating? No, we\u2019d be suffocating."
+            ],
+            [
+                18,
+                "Don\u2019t Sheldon me. We ordered for five people, not six."
+            ],
+            [
+                20,
+                "Oh, sure. And while we\u2019re at it, why don\u2019t we put our hands behind our backs, have an old-fashioned eating contest?"
+            ],
+            [
+                29,
+                "Perhaps there\u2019s hope for you after all."
+            ],
+            [
+                39,
+                "My mother was right. Hell is real."
+            ],
+            [
+                53,
+                "Yes. Leonard\u2019s work is nearly as amazing as third graders growing lima beans in wet paper towels. (Raj whispers to him) While I appreciate the oh, snap, I\u2019m uncomfortable having your moist breath in my ear."
+            ],
+            [
+                57,
+                "Howard?"
+            ],
+            [
+                59,
+                "Your shoes are delightful. Where did you get them?"
+            ],
+            [
+                61,
+                "Bazinga. I don\u2019t care."
+            ],
+            [
+                64,
+                "That\u2019s not fair. I got stuck behind a tree."
+            ],
+            [
+                66,
+                "Just need a little more practice."
+            ],
+            [
+                69,
+                "It\u2019s not about shoes, is it? I don\u2019t think I could go through that again."
+            ],
+            [
+                71,
+                "Then speak."
+            ],
+            [
+                73,
+                "All right. (To Raj) Go away. I agree, it\u2019s rude, but she asked for privacy."
+            ],
+            [
+                75,
+                "A little physics? There\u2019s no such thing. Physics encompasses the entire universe, from quantum particles to supernovas, from spinning electrons to spinning galaxies."
+            ],
+            [
+                77,
+                "Why can\u2019t Leonard teach you?"
+            ],
+            [
+                79,
+                "Can\u2019t you surprise him in some other way? For example, I\u2019m sure he\u2019d be delightfully taken aback if you cleaned your apartment."
+            ],
+            [
+                81,
+                "Penny, this would be a massive undertaking, and my time is both limited and valuable."
+            ],
+            [
+                83,
+                "Okay, point. What sort of foundation do you have? Did you take any science classes in school?"
+            ],
+            [
+                85,
+                "The one with the frogs."
+            ],
+            [
+                87,
+                "I\u2019m sorry, Penny, I don\u2019t think so."
+            ],
+            [
+                89,
+                "Interesting. I suppose if someone could teach sign language to KoKo the gorilla, I could teach you some rudimentary physics."
+            ],
+            [
+                91,
+                "Not likely. KoKo learned to understand over 2,000 words, not one of which had anything to do with shoes."
+            ],
+            [
+                125,
+                "Research journal, entry one. I\u2019m about to embark on one of the great challenges of my scientific career, teaching Penny physics. I\u2019m calling it Project Gorilla."
+            ],
+            [
+                127,
+                "Come in. Take a seat. Subject has arrived. I\u2019ve extended a friendly casual greeting."
+            ],
+            [
+                129,
+                "One moment. Subject appears well-rested and enthusiastic. Apparently, ignorance is bliss. All right, let us begin. Where\u2019s your notebook?"
+            ],
+            [
+                131,
+                "How are you going to take notes without a notebook?"
+            ],
+            [
+                133,
+                "How else are you gonna study for the tests?"
+            ],
+            [
+                135,
+                "Tests. Here. It\u2019s college-ruled. I hope that\u2019s not too intimidating."
+            ],
+            [
+                137,
+                "You\u2019re welcome. Now, Introduction to Physics. What is physics? Physics comes from the ancient Greek word physika. It\u2019s at this point that you\u2019ll want to start taking notes. Physika means the science of natural things. And it is there, in ancient Greece, that our story begins."
+            ],
+            [
+                139,
+                "Hush. If you have questions, raise your hand. It\u2019s a warm summer evening, circa 600 BC, you\u2019ve finished your shopping at the local market, or agora, and you look up at the night sky. There you notice some of the stars seem to move, so you name them planetes, or wanderer. Yes, Penny?"
+            ],
+            [
+                141,
+                "This is the beginning of a twenty six hundred year journey we\u2019re going to take together from the ancient Greeks through Isaac Newton to Niels Bohr to Erwin Schrodinger to the Dutch researchers that Leonard is currently ripping off."
+            ],
+            [
+                143,
+                "Yeah, give or take. As I was saying, it\u2019s a warm summer evening in ancient Greece\u2026 Yes, Penny?"
+            ],
+            [
+                145,
+                "Can\u2019t you hold it?"
+            ],
+            [
+                147,
+                "Project Gorilla, entry two. I am exhausted."
+            ],
+            [
+                181,
+                "Now, remember, Newton realized that Aristotle was wrong and force was not necessary to maintain motion. So let\u2019s plug in our 9.8 meters per second squared as A and we get force, Earth gravity, equals mass times 9.8 meters per second per second. So we can see that MA equals MG and what do we know from this?"
+            ],
+            [
+                183,
+                "No, Fig Newtons are named after a small town in Massachusetts. Don\u2019t write that down!"
+            ],
+            [
+                185,
+                "Now, if MA equals MG what does that imply?"
+            ],
+            [
+                187,
+                "How can you not know? I just told you. Have you suffered a recent blow to the head?"
+            ],
+            [
+                189,
+                "I\u2019m sorry. (Smiling) Have you suffered a recent blow to the head?"
+            ],
+            [
+                191,
+                "Really? Of those two explanations, which one seems the most likely?"
+            ],
+            [
+                193,
+                "All right. It\u2019s a warm summer evening in ancient Greece\u2026"
+            ],
+            [
+                195,
+                "Okay! At what point did you begin to feel lost?"
+            ],
+            [
+                197,
+                "Greece."
+            ],
+            [
+                199,
+                "There\u2019s no need to get frustrated, people learn at different rates. Unlike objects falling in a vacuum, which\u2026? MA equals MG?"
+            ],
+            [
+                201,
+                "No."
+            ],
+            [
+                203,
+                "No."
+            ],
+            [
+                205,
+                "Oh!"
+            ],
+            [
+                207,
+                "Why are you crying?"
+            ],
+            [
+                209,
+                "That\u2019s no reason to cry. One cries because one is sad. For example, I cry because others are stupid and it makes me sad."
+            ],
+            [
+                211,
+                "All right. Leonard is attempting to learn why sub-atomic particles move the way they do."
+            ],
+            [
+                213,
+                "It\u2019s not. That\u2019s why Leonard does it."
+            ],
+            [
+                215,
+                "A good question."
+            ],
+            [
+                217,
+                "And to answer it, we first must ask ourselves, what is physics?"
+            ],
+            [
+                219,
+                "It\u2019s a warm summer evening in ancient Greece\u2026"
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "I think it upsets Sheldon when you play with the food."
+            ],
+            [
+                7,
+                "It upsets Sheldon when you play with the Sheldon."
+            ],
+            [
+                11,
+                "Yeah. Hey."
+            ],
+            [
+                15,
+                "Sure. The more, the merrier."
+            ],
+            [
+                17,
+                "Sheldon\u2026"
+            ],
+            [
+                21,
+                "Relax, it\u2019ll be fine, sit down, you guys."
+            ],
+            [
+                26,
+                "That\u2019s where Sheldon sits."
+            ],
+            [
+                49,
+                "I am. Are you interested in physics?"
+            ],
+            [
+                51,
+                "Actually, my tests of the Aharonov-Bohm quantum interference effect have reached an interesting point. Right now, we\u2019re testing the phase shift due to an electric potential."
+            ],
+            [
+                55,
+                "Yes, I am. You want to see a simulation on my laptop?"
+            ],
+            [
+                97,
+                "Hey, look, it\u2019s Howard and his girlfriend Bernadette."
+            ],
+            [
+                100,
+                "Yeah, no, I got it."
+            ],
+            [
+                102,
+                "Ah, terrific. We\u2019re getting the electron accelerator set up. We should be ready to go day after tomorrow."
+            ],
+            [
+                104,
+                "You\u2019re welcome to come."
+            ],
+            [
+                113,
+                "Excuse me?"
+            ],
+            [
+                115,
+                "Yeah? So?"
+            ],
+            [
+                117,
+                "What are you talking about?"
+            ],
+            [
+                119,
+                "Has it ever worked?"
+            ],
+            [
+                121,
+                "Howard, relax, I\u2019m not interested in your girlfriend."
+            ],
+            [
+                123,
+                "I believe you."
+            ],
+            [
+                222,
+                "What did I do now?"
+            ],
+            [
+                224,
+                "What?"
+            ],
+            [
+                226,
+                "You do have a problem with her hanging out with me."
+            ],
+            [
+                228,
+                "What was I supposed to tell her?"
+            ],
+            [
+                230,
+                "And what would that be?"
+            ],
+            [
+                237,
+                "You told her my experiment was stupid?"
+            ],
+            [
+                239,
+                "Should I, um, leave you two alone?"
+            ],
+            [
+                241,
+                "Okay, good, \u2019cause I wasn\u2019t really gonna go."
+            ],
+            [
+                243,
+                "We\u2019re shocked."
+            ],
+            [
+                245,
+                "Or loud noises, clowns and nuns."
+            ],
+            [
+                247,
+                "He had a panic attack once when he got his head stuck in a sweater."
+            ],
+            [
+                249,
+                "I don\u2019t know. Maybe because I\u2019m crazy?"
+            ],
+            [
+                252,
+                "It\u2019s up to you. He didn\u2019t call your experiment stupid."
+            ],
+            [
+                254,
+                "Tushy face, that is going on Twitter right now."
+            ],
+            [
+                257,
+                "I\u2019m glad you enjoyed it. Most people aren\u2019t that interested in what I do."
+            ]
+        ],
+        "Howard (arriving)": [
+            [
+                8,
+                "What\u2019s up, my nerdizzles? Raj, Sheldon, I want you to meet my girlfriend Bernadette."
+            ]
+        ],
+        "Howard": [
+            [
+                10,
+                "Leonard, Penny, you know my girlfriend Bernadette."
+            ],
+            [
+                12,
+                "Bernadette, say fo\u2019shizzle to my nerdizzles."
+            ],
+            [
+                14,
+                "I hope it\u2019s all right, I told my girlfriend Bernadette she could join us for dinner."
+            ],
+            [
+                40,
+                "Come on, Sheldon. let the womenfolk chat."
+            ],
+            [
+                42,
+                "Gals? Chicks? Utero-Americans?"
+            ],
+            [
+                58,
+                "Yeah?"
+            ],
+            [
+                60,
+                "What?"
+            ],
+            [
+                93,
+                "Hey, fellas. This is my girlfriend Bernadette. My girlfriend Bernadette."
+            ],
+            [
+                95,
+                "Have no idea. Hey, Leonard."
+            ],
+            [
+                98,
+                "Thought I\u2019d give the little woman a tour of the old salt mines."
+            ],
+            [
+                106,
+                "Like Hanukkah in July."
+            ],
+            [
+                108,
+                "No."
+            ],
+            [
+                110,
+                "Could you grab me another napkin, sweetie?"
+            ],
+            [
+                112,
+                "Thanks, honey. (She goes) All right, what is your deal?"
+            ],
+            [
+                114,
+                "Inviting my girlfriend to come see your electron accelerator?"
+            ],
+            [
+                116,
+                "Wow! You really are a piece of work. It\u2019s not enough you get the prom queen, you have to get the head of the decorating committee, too?"
+            ],
+            [
+                118,
+                "Don\u2019t play innocent with me. I practically invented using fancy lab equipment to seduce women."
+            ],
+            [
+                120,
+                "Not so far, but that\u2019s not the point!"
+            ],
+            [
+                122,
+                "I hope not, because you don\u2019t want to mess with me. I\u2019m crazy."
+            ],
+            [
+                150,
+                "Huh?"
+            ],
+            [
+                152,
+                "Oh, that explains a lot."
+            ],
+            [
+                154,
+                "Of course."
+            ],
+            [
+                156,
+                "That\u2019s great, Ma!"
+            ],
+            [
+                159,
+                "No, no, don\u2019t move. Hey, Ma, can I have lamb stew for dinner?"
+            ],
+            [
+                161,
+                "Please? I got a real hankering."
+            ],
+            [
+                163,
+                "Thanks, Ma."
+            ],
+            [
+                165,
+                "Always Le Seur peas with lamb stew!"
+            ],
+            [
+                167,
+                "Then get the regular!"
+            ],
+            [
+                169,
+                "Sorry about that."
+            ],
+            [
+                171,
+                "I\u2019m already on vibrate."
+            ],
+            [
+                173,
+                "Uh, what do you mean?"
+            ],
+            [
+                175,
+                "Really? He said that?"
+            ],
+            [
+                177,
+                "Me? No. I may have mentioned that it\u2019s a little inappropriate to be asking another man\u2019s girlfriend to his experiment without first discussing it with said man."
+            ],
+            [
+                179,
+                "I didn\u2019t say anything like that. I said Leonard has to ask my permission. (Bernadette storms out) Come on, I don\u2019t want to eat lamb stew with my mother. Damn, I was this close on the bra."
+            ],
+            [
+                221,
+                "Okay, I got a bone to pick with you."
+            ],
+            [
+                223,
+                "I was in bed with Bernadette, and you text-blocked me."
+            ],
+            [
+                225,
+                "We were completely naked, about to devour each other when, you text her that I have a problem with her hanging out with you."
+            ],
+            [
+                227,
+                "Yeah, but that\u2019s not what you tell her."
+            ],
+            [
+                229,
+                "I don\u2019t know, something that doesn\u2019t make me come off as a petty, jealous douche."
+            ],
+            [
+                231,
+                "Come on, do I have to think of everything?"
+            ],
+            [
+                233,
+                "Hi."
+            ],
+            [
+                235,
+                "Same thing you\u2019re doing here. I came to see Leonard\u2019s experiment."
+            ],
+            [
+                238,
+                "I was just repeating what Sheldon said. Let\u2019s not get off topic, Bernadette, I need to apologize. I was wrong to tell you who you should be friends with."
+            ],
+            [
+                242,
+                "Look, I know I come off as confident and worldly, but the truth is I\u2019m not."
+            ],
+            [
+                244,
+                "Which is why I tend to feel threatened by other guys."
+            ],
+            [
+                246,
+                "But I now realize how foolish that is."
+            ],
+            [
+                248,
+                "It was a full turtleneck. Why aren\u2019t you helping me?"
+            ],
+            [
+                250,
+                "Bernadette, please, I\u2019m asking you to give me another chance."
+            ]
+        ],
+        "Bernadette": [
+            [
+                13,
+                "I don\u2019t think I can. I don\u2019t have Howard\u2019s street cred."
+            ],
+            [
+                23,
+                "What?"
+            ],
+            [
+                25,
+                "Why not?"
+            ],
+            [
+                27,
+                "He can\u2019t sit somewhere else?"
+            ],
+            [
+                33,
+                "Ooh, I love your shoes."
+            ],
+            [
+                35,
+                "Where\u2019d you get them?"
+            ],
+            [
+                37,
+                "I\u2019ve been meaning to go over there."
+            ],
+            [
+                44,
+                "Don\u2019t take him too seriously, a lot of what he says is intended as humour."
+            ],
+            [
+                46,
+                "Me neither, but he just lights up when I laugh."
+            ],
+            [
+                48,
+                "So, Leonard, Howard says you\u2019re working on fundamental tests of quantum mechanics."
+            ],
+            [
+                50,
+                "Oh, I find it fascinating. If I hadn\u2019t gone into microbiology, I probably would have gone into physics. Or ice dancing."
+            ],
+            [
+                52,
+                "That\u2019s amazing."
+            ],
+            [
+                54,
+                "Are you going to try to set up the voltages using tunnel junctions?"
+            ],
+            [
+                56,
+                "Oh, yeah, show me. In microbiology, the most exciting thing I get to work with is yeast."
+            ],
+            [
+                94,
+                "Who are all those people?"
+            ],
+            [
+                96,
+                "Hi."
+            ],
+            [
+                99,
+                "He doesn\u2019t mean salt mines. He means where he works."
+            ],
+            [
+                101,
+                "So, how\u2019s your experiment going?"
+            ],
+            [
+                103,
+                "Boy, I\u2019d love to see that."
+            ],
+            [
+                105,
+                "Really? Oh, that\u2019d be great. How exciting is that?"
+            ],
+            [
+                107,
+                "Do they have that?"
+            ],
+            [
+                109,
+                "Oh. You got me again. This isn\u2019t non-fat yogurt, this is fatty fat fat. Excuse me."
+            ],
+            [
+                111,
+                "Sure."
+            ],
+            [
+                149,
+                "Howard?"
+            ],
+            [
+                151,
+                "It unhooks in the front."
+            ],
+            [
+                158,
+                "I guess I should go."
+            ],
+            [
+                172,
+                "You know, that one I got. Howard, did you say something to Leonard about me?"
+            ],
+            [
+                174,
+                "He says if I go see his experiment tomorrow it might weird you out."
+            ],
+            [
+                176,
+                "You\u2019re not jealous of Leonard, are you?"
+            ],
+            [
+                178,
+                "Are you saying I need to ask your permission to hang out with Leonard?"
+            ],
+            [
+                232,
+                "Hey, Leonard. Am I too late to see the experiment? Oh, hi."
+            ],
+            [
+                234,
+                "What are you doing here?"
+            ],
+            [
+                236,
+                "No, you didn\u2019t. You said Leonard\u2019s experiment was stupid."
+            ],
+            [
+                240,
+                "No, Leonard, you should hear this."
+            ],
+            [
+                251,
+                "What do you think, Leonard? Should I give him another chance?"
+            ],
+            [
+                253,
+                "Come here, tushy face."
+            ],
+            [
+                256,
+                "Raj, you should\u2019ve seen Leonard\u2019s experiment. The interference pattern was so cool when the electron beam was on."
+            ]
+        ],
+        "Everyone": [
+            [
+                22,
+                "NO!"
+            ]
+        ],
+        "Raj": [
+            [
+                63,
+                "Ha! Eat my dust, racially stereotypical plumber."
+            ],
+            [
+                65,
+                "And a cow and a penguin. Face it dude, whether it\u2019s a real car or a virtual cartoon car, you can\u2019t drive."
+            ],
+            [
+                67,
+                "What you need is cheat codes, motor skills and a magic genie who grants wishes to little boys who suck at Mario Kart."
+            ]
+        ],
+        "Penny (knocking and entering)": [
+            [
+                68,
+                "Hey, Sheldon, can I talk to you for a second?"
+            ]
+        ],
+        "Howard\u2019s Mother": [
+            [
+                153,
+                "Howard, I\u2019m home!"
+            ],
+            [
+                155,
+                "Senior fitness was cancelled. It turns out you can forget how to ride a bike. I\u2019m fine, but, oy, did Sam Harpootian eat gravel."
+            ],
+            [
+                157,
+                "What\u2019s great about an 80-year-old Armenian man with half his chin scraped off?"
+            ],
+            [
+                160,
+                "Lamb stew? I\u2019d have to go to the supermarket."
+            ],
+            [
+                162,
+                "Oh, I can\u2019t say no to my little tushy face. I\u2019ll be back soon."
+            ],
+            [
+                164,
+                "Do you want the regular peas or the Le Seur?"
+            ],
+            [
+                166,
+                "You\u2019re right! When you\u2019re right, you\u2019re right! What if they\u2019re out of the Le Seur?"
+            ],
+            [
+                168,
+                "All right! You don\u2019t have to yell!"
+            ]
+        ],
+        "Bernadette (her phone chimes)": [
+            [
+                170,
+                "Let me just put that on vibrate."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment"
+        ],
+        [
+            "Penny",
+            "Hey, Leonard, check this out. (Throws some food in the air and catches it in her mouth)"
+        ],
+        [
+            "Sheldon",
+            "Leonard, she\u2019s doing it again."
+        ],
+        [
+            "Leonard",
+            "I think it upsets Sheldon when you play with the food."
+        ],
+        [
+            "Sheldon",
+            "No. It upsets Sheldon when she willy-nilly takes it from the containers without regard for its equitable distribution. This is essentially why you have famine in India."
+        ],
+        [
+            "Penny",
+            "You want me to put it back?"
+        ],
+        [
+            "Sheldon",
+            "Leonard."
+        ],
+        [
+            "Leonard",
+            "It upsets Sheldon when you play with the Sheldon."
+        ],
+        [
+            "Howard (arriving)",
+            "What\u2019s up, my nerdizzles? Raj, Sheldon, I want you to meet my girlfriend Bernadette."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Howard",
+            "Leonard, Penny, you know my girlfriend Bernadette."
+        ],
+        [
+            "Leonard",
+            "Yeah. Hey."
+        ],
+        [
+            "Howard",
+            "Bernadette, say fo\u2019shizzle to my nerdizzles."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t think I can. I don\u2019t have Howard\u2019s street cred."
+        ],
+        [
+            "Howard",
+            "I hope it\u2019s all right, I told my girlfriend Bernadette she could join us for dinner."
+        ],
+        [
+            "Leonard",
+            "Sure. The more, the merrier."
+        ],
+        [
+            "Sheldon",
+            "Wait, no, that\u2019s a false equivalency. More does not equal merry. If there were 2,000 people in this apartment right now, would we be celebrating? No, we\u2019d be suffocating."
+        ],
+        [
+            "Leonard",
+            "Sheldon\u2026"
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t Sheldon me. We ordered for five people, not six."
+        ],
+        [
+            "Penny",
+            "Oh, come on, it\u2019s fine. We\u2019ll just put it all on the table, you know, family style."
+        ],
+        [
+            "Sheldon",
+            "Oh, sure. And while we\u2019re at it, why don\u2019t we put our hands behind our backs, have an old-fashioned eating contest?"
+        ],
+        [
+            "Leonard",
+            "Relax, it\u2019ll be fine, sit down, you guys."
+        ],
+        [
+            "Everyone",
+            "NO!"
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Oh, yeah, you can\u2019t sit there."
+        ],
+        [
+            "Bernadette",
+            "Why not?"
+        ],
+        [
+            "Leonard",
+            "That\u2019s where Sheldon sits."
+        ],
+        [
+            "Bernadette",
+            "He can\u2019t sit somewhere else?"
+        ],
+        [
+            "Penny",
+            "Oh no, no, you see, in the winter, that seat is close enough to the radiator so that he\u2019s warm, yet not so close that he sweats. In the summer, it\u2019s directly in the path of a cross-breeze created by opening windows there and there. It faces the television at an angle that isn\u2019t direct, so he can still talk to everybody, yet not so wide that the picture looks distorted."
+        ],
+        [
+            "Sheldon",
+            "Perhaps there\u2019s hope for you after all."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "A few moments later. "
+        ],
+        [
+            "Bernadette",
+            "Ooh, I love your shoes."
+        ],
+        [
+            "Penny",
+            "Oh, thanks. They are cute, aren\u2019t they?"
+        ],
+        [
+            "Bernadette",
+            "Where\u2019d you get them?"
+        ],
+        [
+            "Penny",
+            "Shoes for Less."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ve been meaning to go over there."
+        ],
+        [
+            "Penny",
+            "Oh, great selection, great prices."
+        ],
+        [
+            "Sheldon",
+            "My mother was right. Hell is real."
+        ],
+        [
+            "Howard",
+            "Come on, Sheldon. let the womenfolk chat."
+        ],
+        [
+            "Penny",
+            "Womenfolk?"
+        ],
+        [
+            "Howard",
+            "Gals? Chicks? Utero-Americans?"
+        ],
+        [
+            "Penny",
+            "Just eat your dinner."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t take him too seriously, a lot of what he says is intended as humour."
+        ],
+        [
+            "Penny",
+            "Yeah, well, I don\u2019t think it\u2019s very funny."
+        ],
+        [
+            "Bernadette",
+            "Me neither, but he just lights up when I laugh."
+        ],
+        [
+            "Penny",
+            "Howard, never let her go."
+        ],
+        [
+            "Bernadette",
+            "So, Leonard, Howard says you\u2019re working on fundamental tests of quantum mechanics."
+        ],
+        [
+            "Leonard",
+            "I am. Are you interested in physics?"
+        ],
+        [
+            "Bernadette",
+            "Oh, I find it fascinating. If I hadn\u2019t gone into microbiology, I probably would have gone into physics. Or ice dancing."
+        ],
+        [
+            "Leonard",
+            "Actually, my tests of the Aharonov-Bohm quantum interference effect have reached an interesting point. Right now, we\u2019re testing the phase shift due to an electric potential."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s amazing."
+        ],
+        [
+            "Sheldon",
+            "Yes. Leonard\u2019s work is nearly as amazing as third graders growing lima beans in wet paper towels. (Raj whispers to him) While I appreciate the oh, snap, I\u2019m uncomfortable having your moist breath in my ear."
+        ],
+        [
+            "Bernadette",
+            "Are you going to try to set up the voltages using tunnel junctions?"
+        ],
+        [
+            "Leonard",
+            "Yes, I am. You want to see a simulation on my laptop?"
+        ],
+        [
+            "Bernadette",
+            "Oh, yeah, show me. In microbiology, the most exciting thing I get to work with is yeast."
+        ],
+        [
+            "Sheldon",
+            "Howard?"
+        ],
+        [
+            "Howard",
+            "Yeah?"
+        ],
+        [
+            "Sheldon",
+            "Your shoes are delightful. Where did you get them?"
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Bazinga. I don\u2019t care."
+        ],
+        [
+            "Scene",
+            "The apartment. Sheldon and Raj are playing a racing game on the Wii."
+        ],
+        [
+            "Raj",
+            "Ha! Eat my dust, racially stereotypical plumber."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not fair. I got stuck behind a tree."
+        ],
+        [
+            "Raj",
+            "And a cow and a penguin. Face it dude, whether it\u2019s a real car or a virtual cartoon car, you can\u2019t drive."
+        ],
+        [
+            "Sheldon",
+            "Just need a little more practice."
+        ],
+        [
+            "Raj",
+            "What you need is cheat codes, motor skills and a magic genie who grants wishes to little boys who suck at Mario Kart."
+        ],
+        [
+            "Penny (knocking and entering)",
+            "Hey, Sheldon, can I talk to you for a second?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not about shoes, is it? I don\u2019t think I could go through that again."
+        ],
+        [
+            "Penny",
+            "It\u2019s not about shoes."
+        ],
+        [
+            "Sheldon",
+            "Then speak."
+        ],
+        [
+            "Penny",
+            "Um, actually, can we do it in private?"
+        ],
+        [
+            "Sheldon",
+            "All right. (To Raj) Go away. I agree, it\u2019s rude, but she asked for privacy."
+        ],
+        [
+            "Penny",
+            "Thanks, Raj. Okay, so here\u2019s the thing, I was wondering if you could maybe teach me a little physics?"
+        ],
+        [
+            "Sheldon",
+            "A little physics? There\u2019s no such thing. Physics encompasses the entire universe, from quantum particles to supernovas, from spinning electrons to spinning galaxies."
+        ],
+        [
+            "Penny",
+            "Yeah, okay, cool. I don\u2019t need the PBS special, I just want to know enough so I can talk to Leonard about his job. You know, like Bernadette does."
+        ],
+        [
+            "Sheldon",
+            "Why can\u2019t Leonard teach you?"
+        ],
+        [
+            "Penny",
+            "\u2018Cause I want to surprise him."
+        ],
+        [
+            "Sheldon",
+            "Can\u2019t you surprise him in some other way? For example, I\u2019m sure he\u2019d be delightfully taken aback if you cleaned your apartment."
+        ],
+        [
+            "Penny",
+            "Come on, Sheldon, this is important to me."
+        ],
+        [
+            "Sheldon",
+            "Penny, this would be a massive undertaking, and my time is both limited and valuable."
+        ],
+        [
+            "Penny",
+            "You\u2019re sitting here playing video games all day."
+        ],
+        [
+            "Sheldon",
+            "Okay, point. What sort of foundation do you have? Did you take any science classes in school?"
+        ],
+        [
+            "Penny",
+            "Sure. I did the one with the frogs."
+        ],
+        [
+            "Sheldon",
+            "The one with the frogs."
+        ],
+        [
+            "Penny",
+            "Yeah, actually, it was pretty cool. A lot of the girls threw up, but I gutted that thing like a deer."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, Penny, I don\u2019t think so."
+        ],
+        [
+            "Penny",
+            "Oh, come on! A smart guy like you, it\u2019ll be a challenge. You can make it like an experiment."
+        ],
+        [
+            "Sheldon",
+            "Interesting. I suppose if someone could teach sign language to KoKo the gorilla, I could teach you some rudimentary physics."
+        ],
+        [
+            "Penny",
+            "Great! It\u2019s a little insulting, but great. I\u2019ll be KoKo."
+        ],
+        [
+            "Sheldon",
+            "Not likely. KoKo learned to understand over 2,000 words, not one of which had anything to do with shoes."
+        ],
+        [
+            "Scene",
+            "The university cafeteria."
+        ],
+        [
+            "Howard",
+            "Hey, fellas. This is my girlfriend Bernadette. My girlfriend Bernadette."
+        ],
+        [
+            "Bernadette",
+            "Who are all those people?"
+        ],
+        [
+            "Howard",
+            "Have no idea. Hey, Leonard."
+        ],
+        [
+            "Bernadette",
+            "Hi."
+        ],
+        [
+            "Leonard",
+            "Hey, look, it\u2019s Howard and his girlfriend Bernadette."
+        ],
+        [
+            "Howard",
+            "Thought I\u2019d give the little woman a tour of the old salt mines."
+        ],
+        [
+            "Bernadette",
+            "He doesn\u2019t mean salt mines. He means where he works."
+        ],
+        [
+            "Leonard",
+            "Yeah, no, I got it."
+        ],
+        [
+            "Bernadette",
+            "So, how\u2019s your experiment going?"
+        ],
+        [
+            "Leonard",
+            "Ah, terrific. We\u2019re getting the electron accelerator set up. We should be ready to go day after tomorrow."
+        ],
+        [
+            "Bernadette",
+            "Boy, I\u2019d love to see that."
+        ],
+        [
+            "Leonard",
+            "You\u2019re welcome to come."
+        ],
+        [
+            "Bernadette",
+            "Really? Oh, that\u2019d be great. How exciting is that?"
+        ],
+        [
+            "Howard",
+            "Like Hanukkah in July."
+        ],
+        [
+            "Bernadette",
+            "Do they have that?"
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Bernadette",
+            "Oh. You got me again. This isn\u2019t non-fat yogurt, this is fatty fat fat. Excuse me."
+        ],
+        [
+            "Howard",
+            "Could you grab me another napkin, sweetie?"
+        ],
+        [
+            "Bernadette",
+            "Sure."
+        ],
+        [
+            "Howard",
+            "Thanks, honey. (She goes) All right, what is your deal?"
+        ],
+        [
+            "Leonard",
+            "Excuse me?"
+        ],
+        [
+            "Howard",
+            "Inviting my girlfriend to come see your electron accelerator?"
+        ],
+        [
+            "Leonard",
+            "Yeah? So?"
+        ],
+        [
+            "Howard",
+            "Wow! You really are a piece of work. It\u2019s not enough you get the prom queen, you have to get the head of the decorating committee, too?"
+        ],
+        [
+            "Leonard",
+            "What are you talking about?"
+        ],
+        [
+            "Howard",
+            "Don\u2019t play innocent with me. I practically invented using fancy lab equipment to seduce women."
+        ],
+        [
+            "Leonard",
+            "Has it ever worked?"
+        ],
+        [
+            "Howard",
+            "Not so far, but that\u2019s not the point!"
+        ],
+        [
+            "Leonard",
+            "Howard, relax, I\u2019m not interested in your girlfriend."
+        ],
+        [
+            "Howard",
+            "I hope not, because you don\u2019t want to mess with me. I\u2019m crazy."
+        ],
+        [
+            "Leonard",
+            "I believe you."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "Research journal, entry one. I\u2019m about to embark on one of the great challenges of my scientific career, teaching Penny physics. I\u2019m calling it Project Gorilla."
+        ],
+        [
+            "Penny",
+            "Hey, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Come in. Take a seat. Subject has arrived. I\u2019ve extended a friendly casual greeting."
+        ],
+        [
+            "Penny",
+            "Ready to get started?"
+        ],
+        [
+            "Sheldon",
+            "One moment. Subject appears well-rested and enthusiastic. Apparently, ignorance is bliss. All right, let us begin. Where\u2019s your notebook?"
+        ],
+        [
+            "Penny",
+            "Um, I don\u2019t have one."
+        ],
+        [
+            "Sheldon",
+            "How are you going to take notes without a notebook?"
+        ],
+        [
+            "Penny",
+            "I have to take notes?"
+        ],
+        [
+            "Sheldon",
+            "How else are you gonna study for the tests?"
+        ],
+        [
+            "Penny",
+            "There\u2019s gonna be a test?"
+        ],
+        [
+            "Sheldon",
+            "Tests. Here. It\u2019s college-ruled. I hope that\u2019s not too intimidating."
+        ],
+        [
+            "Penny",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re welcome. Now, Introduction to Physics. What is physics? Physics comes from the ancient Greek word physika. It\u2019s at this point that you\u2019ll want to start taking notes. Physika means the science of natural things. And it is there, in ancient Greece, that our story begins."
+        ],
+        [
+            "Penny",
+            "Ancient Greece?"
+        ],
+        [
+            "Sheldon",
+            "Hush. If you have questions, raise your hand. It\u2019s a warm summer evening, circa 600 BC, you\u2019ve finished your shopping at the local market, or agora, and you look up at the night sky. There you notice some of the stars seem to move, so you name them planetes, or wanderer. Yes, Penny?"
+        ],
+        [
+            "Penny",
+            "Um, does this have anything to do with Leonard\u2019s work?"
+        ],
+        [
+            "Sheldon",
+            "This is the beginning of a twenty six hundred year journey we\u2019re going to take together from the ancient Greeks through Isaac Newton to Niels Bohr to Erwin Schrodinger to the Dutch researchers that Leonard is currently ripping off."
+        ],
+        [
+            "Penny",
+            "Twenty six hundred years?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, give or take. As I was saying, it\u2019s a warm summer evening in ancient Greece\u2026 Yes, Penny?"
+        ],
+        [
+            "Penny",
+            "I have to go to the bathroom."
+        ],
+        [
+            "Sheldon",
+            "Can\u2019t you hold it?"
+        ],
+        [
+            "Penny",
+            "Not for twenty six hundred years."
+        ],
+        [
+            "Sheldon",
+            "Project Gorilla, entry two. I am exhausted."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Bernadette",
+            "Howard?"
+        ],
+        [
+            "Howard",
+            "Huh?"
+        ],
+        [
+            "Bernadette",
+            "It unhooks in the front."
+        ],
+        [
+            "Howard",
+            "Oh, that explains a lot."
+        ],
+        [
+            "Howard\u2019s Mother",
+            "Howard, I\u2019m home!"
+        ],
+        [
+            "Howard",
+            "Of course."
+        ],
+        [
+            "Howard\u2019s Mother",
+            "Senior fitness was cancelled. It turns out you can forget how to ride a bike. I\u2019m fine, but, oy, did Sam Harpootian eat gravel."
+        ],
+        [
+            "Howard",
+            "That\u2019s great, Ma!"
+        ],
+        [
+            "Howard\u2019s Mother",
+            "What\u2019s great about an 80-year-old Armenian man with half his chin scraped off?"
+        ],
+        [
+            "Bernadette",
+            "I guess I should go."
+        ],
+        [
+            "Howard",
+            "No, no, don\u2019t move. Hey, Ma, can I have lamb stew for dinner?"
+        ],
+        [
+            "Howard\u2019s Mother",
+            "Lamb stew? I\u2019d have to go to the supermarket."
+        ],
+        [
+            "Howard",
+            "Please? I got a real hankering."
+        ],
+        [
+            "Howard\u2019s Mother",
+            "Oh, I can\u2019t say no to my little tushy face. I\u2019ll be back soon."
+        ],
+        [
+            "Howard",
+            "Thanks, Ma."
+        ],
+        [
+            "Howard\u2019s Mother",
+            "Do you want the regular peas or the Le Seur?"
+        ],
+        [
+            "Howard",
+            "Always Le Seur peas with lamb stew!"
+        ],
+        [
+            "Howard\u2019s Mother",
+            "You\u2019re right! When you\u2019re right, you\u2019re right! What if they\u2019re out of the Le Seur?"
+        ],
+        [
+            "Howard",
+            "Then get the regular!"
+        ],
+        [
+            "Howard\u2019s Mother",
+            "All right! You don\u2019t have to yell!"
+        ],
+        [
+            "Howard",
+            "Sorry about that."
+        ],
+        [
+            "Bernadette (her phone chimes)",
+            "Let me just put that on vibrate."
+        ],
+        [
+            "Howard",
+            "I\u2019m already on vibrate."
+        ],
+        [
+            "Bernadette",
+            "You know, that one I got. Howard, did you say something to Leonard about me?"
+        ],
+        [
+            "Howard",
+            "Uh, what do you mean?"
+        ],
+        [
+            "Bernadette",
+            "He says if I go see his experiment tomorrow it might weird you out."
+        ],
+        [
+            "Howard",
+            "Really? He said that?"
+        ],
+        [
+            "Bernadette",
+            "You\u2019re not jealous of Leonard, are you?"
+        ],
+        [
+            "Howard",
+            "Me? No. I may have mentioned that it\u2019s a little inappropriate to be asking another man\u2019s girlfriend to his experiment without first discussing it with said man."
+        ],
+        [
+            "Bernadette",
+            "Are you saying I need to ask your permission to hang out with Leonard?"
+        ],
+        [
+            "Howard",
+            "I didn\u2019t say anything like that. I said Leonard has to ask my permission. (Bernadette storms out) Come on, I don\u2019t want to eat lamb stew with my mother. Damn, I was this close on the bra."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Now, remember, Newton realized that Aristotle was wrong and force was not necessary to maintain motion. So let\u2019s plug in our 9.8 meters per second squared as A and we get force, Earth gravity, equals mass times 9.8 meters per second per second. So we can see that MA equals MG and what do we know from this?"
+        ],
+        [
+            "Penny",
+            "Uh, we know that\u2026 Newton was a really smart cookie. Oh! Is that where Fig Newtons come from?"
+        ],
+        [
+            "Sheldon",
+            "No, Fig Newtons are named after a small town in Massachusetts. Don\u2019t write that down!"
+        ],
+        [
+            "Penny",
+            "Sorry."
+        ],
+        [
+            "Sheldon",
+            "Now, if MA equals MG what does that imply?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "How can you not know? I just told you. Have you suffered a recent blow to the head?"
+        ],
+        [
+            "Penny",
+            "Hey! You don\u2019t have to be so mean!"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. (Smiling) Have you suffered a recent blow to the head?"
+        ],
+        [
+            "Penny",
+            "No, you just suck at teaching."
+        ],
+        [
+            "Sheldon",
+            "Really? Of those two explanations, which one seems the most likely?"
+        ],
+        [
+            "Penny",
+            "Oh, God, Sheldon, look I\u2019m trying to understand, but you\u2019re going too fast. Can you just back up a little bit?"
+        ],
+        [
+            "Sheldon",
+            "All right. It\u2019s a warm summer evening in ancient Greece\u2026"
+        ],
+        [
+            "Penny",
+            "Not that far back!"
+        ],
+        [
+            "Sheldon",
+            "Okay! At what point did you begin to feel lost?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know. Where were we looking up at the night sky?"
+        ],
+        [
+            "Sheldon",
+            "Greece."
+        ],
+        [
+            "Penny",
+            "Damn it!"
+        ],
+        [
+            "Sheldon",
+            "There\u2019s no need to get frustrated, people learn at different rates. Unlike objects falling in a vacuum, which\u2026? MA equals MG?"
+        ],
+        [
+            "Penny",
+            "Squared?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Penny",
+            "Aristotle?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Penny",
+            "Five?"
+        ],
+        [
+            "Sheldon",
+            "Oh!"
+        ],
+        [
+            "Penny",
+            "Then I don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "Why are you crying?"
+        ],
+        [
+            "Penny",
+            "Because I\u2019m stupid!"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s no reason to cry. One cries because one is sad. For example, I cry because others are stupid and it makes me sad."
+        ],
+        [
+            "Penny",
+            "Okay, look, can we just please forget about all this extra stuff and can you just tell me what Leonard does?"
+        ],
+        [
+            "Sheldon",
+            "All right. Leonard is attempting to learn why sub-atomic particles move the way they do."
+        ],
+        [
+            "Penny",
+            "Really? That\u2019s it? Well, that doesn\u2019t sound so complicated."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not. That\u2019s why Leonard does it."
+        ],
+        [
+            "Penny",
+            "Okay, I just have one question. What exactly are sub-atomic particles?"
+        ],
+        [
+            "Sheldon",
+            "A good question."
+        ],
+        [
+            "Penny",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "And to answer it, we first must ask ourselves, what is physics?"
+        ],
+        [
+            "Penny",
+            "Oh, balls."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a warm summer evening in ancient Greece\u2026"
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s lab."
+        ],
+        [
+            "Howard",
+            "Okay, I got a bone to pick with you."
+        ],
+        [
+            "Leonard",
+            "What did I do now?"
+        ],
+        [
+            "Howard",
+            "I was in bed with Bernadette, and you text-blocked me."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Howard",
+            "We were completely naked, about to devour each other when, you text her that I have a problem with her hanging out with you."
+        ],
+        [
+            "Leonard",
+            "You do have a problem with her hanging out with me."
+        ],
+        [
+            "Howard",
+            "Yeah, but that\u2019s not what you tell her."
+        ],
+        [
+            "Leonard",
+            "What was I supposed to tell her?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know, something that doesn\u2019t make me come off as a petty, jealous douche."
+        ],
+        [
+            "Leonard",
+            "And what would that be?"
+        ],
+        [
+            "Howard",
+            "Come on, do I have to think of everything?"
+        ],
+        [
+            "Bernadette",
+            "Hey, Leonard. Am I too late to see the experiment? Oh, hi."
+        ],
+        [
+            "Howard",
+            "Hi."
+        ],
+        [
+            "Bernadette",
+            "What are you doing here?"
+        ],
+        [
+            "Howard",
+            "Same thing you\u2019re doing here. I came to see Leonard\u2019s experiment."
+        ],
+        [
+            "Bernadette",
+            "No, you didn\u2019t. You said Leonard\u2019s experiment was stupid."
+        ],
+        [
+            "Leonard",
+            "You told her my experiment was stupid?"
+        ],
+        [
+            "Howard",
+            "I was just repeating what Sheldon said. Let\u2019s not get off topic, Bernadette, I need to apologize. I was wrong to tell you who you should be friends with."
+        ],
+        [
+            "Leonard",
+            "Should I, um, leave you two alone?"
+        ],
+        [
+            "Bernadette",
+            "No, Leonard, you should hear this."
+        ],
+        [
+            "Leonard",
+            "Okay, good, \u2019cause I wasn\u2019t really gonna go."
+        ],
+        [
+            "Howard",
+            "Look, I know I come off as confident and worldly, but the truth is I\u2019m not."
+        ],
+        [
+            "Leonard",
+            "We\u2019re shocked."
+        ],
+        [
+            "Howard",
+            "Which is why I tend to feel threatened by other guys."
+        ],
+        [
+            "Leonard",
+            "Or loud noises, clowns and nuns."
+        ],
+        [
+            "Howard",
+            "But I now realize how foolish that is."
+        ],
+        [
+            "Leonard",
+            "He had a panic attack once when he got his head stuck in a sweater."
+        ],
+        [
+            "Howard",
+            "It was a full turtleneck. Why aren\u2019t you helping me?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. Maybe because I\u2019m crazy?"
+        ],
+        [
+            "Howard",
+            "Bernadette, please, I\u2019m asking you to give me another chance."
+        ],
+        [
+            "Bernadette",
+            "What do you think, Leonard? Should I give him another chance?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s up to you. He didn\u2019t call your experiment stupid."
+        ],
+        [
+            "Bernadette",
+            "Come here, tushy face."
+        ],
+        [
+            "Leonard",
+            "Tushy face, that is going on Twitter right now."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Bernadette",
+            "Raj, you should\u2019ve seen Leonard\u2019s experiment. The interference pattern was so cool when the electron beam was on."
+        ],
+        [
+            "Leonard",
+            "I\u2019m glad you enjoyed it. Most people aren\u2019t that interested in what I do."
+        ],
+        [
+            "Penny",
+            "Actually, that\u2019s not true, Leonard. In fact, recently I\u2019ve been thinking that given the parameters of your experiment, the transport of electrons through the aperture the nano-fabricated metal rings is qualitatively no different than the experiment already conducted in the Netherlands. Their observed phase shift in the diffusing electrons inside the metal ring already conclusively demonstrated the electric analogue of the Aharonov-Bohm quantum-interference effect. That\u2019s it. That\u2019s all I know. Oh, wait! Fig Newtons were named after a town in Massachusetts, not the scientist."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-10-the-gorilla-experiment/"
+}

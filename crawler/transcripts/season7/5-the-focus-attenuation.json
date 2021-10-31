@@ -1,0 +1,1944 @@
+{
+    "Season": 7,
+    "Episode": 5,
+    "Title": "the focus attenuation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The cafeteria."
+            ],
+            [
+                22,
+                "LeonardLike our own science retreat."
+            ],
+            [
+                35,
+                "Penny\u2019s apartment."
+            ],
+            [
+                46,
+                "The apartment."
+            ],
+            [
+                87,
+                "A Vegas hotel room."
+            ],
+            [
+                113,
+                "The apartment. "
+            ],
+            [
+                136,
+                "A bar in Vegas."
+            ],
+            [
+                150,
+                "Leonard\u2019s laboratory."
+            ],
+            [
+                158,
+                "Shortly afterwards."
+            ],
+            [
+                166,
+                "Shortly afterwards."
+            ],
+            [
+                174,
+                "The hotel room."
+            ],
+            [
+                196,
+                "Leonard\u2019s lab."
+            ],
+            [
+                215,
+                "Shortly afterwards."
+            ],
+            [
+                227,
+                "The apartment."
+            ],
+            [
+                230,
+                "The Vegas strip club."
+            ],
+            [
+                235,
+                "The hotel room."
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "Hey, I read that someone invented a way to convert your footsteps into electromagnetic energy so you can charge your cell phone while walking."
+            ],
+            [
+                11,
+                "Easy. Sleeping with Penny."
+            ],
+            [
+                13,
+                "Tricking Penny into getting engaged."
+            ],
+            [
+                21,
+                "Ooh, we could have one of those retreats."
+            ],
+            [
+                27,
+                "We could go up to Big Bear and get a house on the lake."
+            ],
+            [
+                29,
+                "Nothing bad happens in The Lake House."
+            ],
+            [
+                47,
+                "Hey."
+            ],
+            [
+                50,
+                "Why not?"
+            ],
+            [
+                52,
+                "For your information, Emily is working tonight."
+            ],
+            [
+                57,
+                "Ooh, this is exciting. We\u2019re innovating. I feel like we\u2019re in the Facebook movie."
+            ],
+            [
+                60,
+                "Oh. It\u2019s wonderful, and I swear I\u2019m not saying that because Justin Timberlake is in it."
+            ],
+            [
+                62,
+                "Cool. I\u2019ll make the popcorn."
+            ],
+            [
+                74,
+                "Boy, when you met Bernadette, the field of robotics really took a hit."
+            ],
+            [
+                79,
+                "Hey, the future they show in Back to the Future II is only a year away. A lot of the things in that movie haven\u2019t been invented yet."
+            ],
+            [
+                83,
+                "Oh, I have an idea."
+            ],
+            [
+                86,
+                "I\u2019ll make the popcorn."
+            ],
+            [
+                129,
+                "He\u2019s right. Also, what kind of name is Biff? Sounds like when you pop open a can of Pillsbury dough. Biff."
+            ],
+            [
+                133,
+                "Do you know if you look at Austria on a map it actually looks like a wiener?"
+            ],
+            [
+                153,
+                "Plus, this is where our minds are conditioned to focus on work."
+            ],
+            [
+                157,
+                "Go online and look it up."
+            ],
+            [
+                160,
+                "That\u2019s nothing, dude. Go check out how hung Florida is."
+            ],
+            [
+                165,
+                "That cannot be true."
+            ],
+            [
+                167,
+                "Hey, it was match point."
+            ],
+            [
+                169,
+                "Not getting to see who wins at pigeon ping-pong comes to mind."
+            ],
+            [
+                198,
+                "And I really can\u2019t let that happen or the girl who does my eyebrows will think I\u2019ve been cheating on her."
+            ],
+            [
+                209,
+                "Ooh, that is a lot of hair. Ow. And now I\u2019m gonna hear it from Jenny."
+            ],
+            [
+                214,
+                "No way. Not Bill Murray."
+            ],
+            [
+                217,
+                "Huh. Bill Murray did get it wrong."
+            ],
+            [
+                222,
+                "Yeah, sorry for clicking on that."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "We had that idea years ago. How come we never did anything with it?"
+            ],
+            [
+                5,
+                "That\u2019s not what happened."
+            ],
+            [
+                9,
+                "Penny is not the reason I didn\u2019t pursue that idea."
+            ],
+            [
+                15,
+                "I think someone owes me an apology."
+            ],
+            [
+                19,
+                "Well, maybe we have lost our focus."
+            ],
+            [
+                25,
+                "Then we\u2019ll go to a hotel."
+            ],
+            [
+                31,
+                "Fine. Then we\u2019ll just stay here and do it."
+            ],
+            [
+                33,
+                "You would go to a beach house?"
+            ],
+            [
+                37,
+                "Hey. So, the guys and I are talking about having kind of a science retreat this weekend. I just wanted to know if that\u2019s okay. You and I had talked about going to brunch on Sunday."
+            ],
+            [
+                45,
+                "They seem okay with it."
+            ],
+            [
+                48,
+                "Hey."
+            ],
+            [
+                54,
+                "Okay, let\u2019s focus. The girls are gone, we have 48 hours. There are no distractions. Let\u2019s change the world."
+            ],
+            [
+                63,
+                "Guys, in 30 seconds, we went from let\u2019s change the world to let\u2019s watch TV."
+            ],
+            [
+                66,
+                "I, I think I still have it."
+            ],
+            [
+                68,
+                "Ah, here it is. Whoa. I haven\u2019t looked at these in years. Robot girlfriend."
+            ],
+            [
+                70,
+                "Robot prostitute."
+            ],
+            [
+                75,
+                "Okay, let\u2019s just skip all the inventions you can have sex with. All right, no, here we go, ergonomic heated seat cushion."
+            ],
+            [
+                77,
+                "You know, let\u2019s just come up with something new."
+            ],
+            [
+                80,
+                "How cool would that be if we could make one of those a reality?"
+            ],
+            [
+                82,
+                "Well, it\u2019s, it\u2019s possible at absolute zero, but we would have to remove the temperature restrictions."
+            ],
+            [
+                117,
+                "What do you mean?"
+            ],
+            [
+                119,
+                "Had will have placed?"
+            ],
+            [
+                121,
+                "Okay, so, it wasn\u2019t until his 21st birthday that Biff had will have placed his first bet and made his millions. That\u2019s when he altered the timeline."
+            ],
+            [
+                125,
+                "Wait. Is brought right?"
+            ],
+            [
+                127,
+                "I don\u2019t know. You did it to me."
+            ],
+            [
+                131,
+                "Guys."
+            ],
+            [
+                134,
+                "Guys, what are we doing? We sent the girls away so we could focus."
+            ],
+            [
+                151,
+                "All right."
+            ],
+            [
+                154,
+                "So, I\u2019ve been thinking about the hover boards, and maybe there\u2019s a way we could use Maglev technology."
+            ],
+            [
+                161,
+                "I\u2019m sure Mrs. Florida\u2019s walking funny. Can we get back to work?"
+            ],
+            [
+                168,
+                "Some psychologists perform operant conditioning with punishment. Maybe we can come up with a punishment for straying off topic."
+            ],
+            [
+                172,
+                "If only we had one."
+            ],
+            [
+                197,
+                "Okay, so we agree, whenever someone takes us off topic they get their arm hair yanked off."
+            ],
+            [
+                199,
+                "All right, now, one benefit of quantum coupling\u2026"
+            ],
+            [
+                201,
+                "I think it\u2019ll be pretty clear. If not, we\u2019ll take a vote. Oh, and also\u2026"
+            ],
+            [
+                203,
+                "We didn\u2019t have to, that was clearly a tangent. Now come on. Back to work. If we\u2019re leaning towards quantum coupling\u2026 Aah! Why?"
+            ],
+            [
+                206,
+                "Thank you. And now I owe you one."
+            ],
+            [
+                210,
+                "Everyone stop. This was a stupid idea. Negative reinforcement isn\u2019t working."
+            ],
+            [
+                219,
+                "No."
+            ],
+            [
+                221,
+                "Look. We keep procrastinating. We saw Back to the Future II, pigeons playing ping-pong, a bunch of countries that look like genitals and one guy whose genitals look like Denmark."
+            ],
+            [
+                223,
+                "It\u2019s late. We\u2019ve wasted hours. Can we please find it in ourselves to do any amount of work tonight?"
+            ],
+            [
+                225,
+                "So you\u2019re, you\u2019re saying we should stand here in my lab on a Saturday night and watch the rest of Ghostbusters on a crappy laptop?"
+            ],
+            [
+                229,
+                "It really does hold up."
+            ]
+        ],
+        "Howard": [
+            [
+                3,
+                "Probably because we left the diagram of it in the restaurant, and none of us wanted to walk back."
+            ],
+            [
+                7,
+                "No one wants to hear it."
+            ],
+            [
+                12,
+                "Getting Penny to go back out with him after she dumped him."
+            ],
+            [
+                14,
+                "And a few weeks ago, he almost did a pull-up."
+            ],
+            [
+                17,
+                "You admit Amy\u2019s a distraction?"
+            ],
+            [
+                20,
+                "It wouldn\u2019t kill us to get together and brainstorm ideas."
+            ],
+            [
+                23,
+                "My cousin has a cabin out in the woods."
+            ],
+            [
+                49,
+                "Hey. I didn\u2019t think you\u2019d make it."
+            ],
+            [
+                51,
+                "Well, \u2019cause you have a steady girlfriend now, and we assumed you\u2019d have to stay home to lower the food down to her in the pit."
+            ],
+            [
+                56,
+                "Here we go."
+            ],
+            [
+                58,
+                "Oh. I never saw that."
+            ],
+            [
+                65,
+                "Okay. No. Leonard\u2019s right. We\u2019re here to focus. Didn\u2019t we used to have a list of all our ideas?"
+            ],
+            [
+                69,
+                "Mm, that was mine."
+            ],
+            [
+                71,
+                "Also mine."
+            ],
+            [
+                73,
+                "There\u2019s just some things you don\u2019t do with your robot girlfriend."
+            ],
+            [
+                76,
+                "No, it vibrates. Keep going."
+            ],
+            [
+                85,
+                "We got to watch Back to the Future II."
+            ],
+            [
+                114,
+                "Hold on. Pause. Something doesn\u2019t make sense. Look, in 2015, Biff steals the sports almanac and takes the time machine back to 1955, to give it to his younger self. But as soon as he does that, he changes the future, so the 2015 he returns to would be a different 2015, not the 2015 that Marty and Doc were in."
+            ],
+            [
+                123,
+                "What?"
+            ],
+            [
+                130,
+                "Oh, that stuff is so good wrapped around cocktail weenies."
+            ],
+            [
+                155,
+                "Or if we could figure out a way to supercool the materials, we could utilize quantum coupling."
+            ],
+            [
+                159,
+                "Oh, I can\u2019t argue with him. It\u2019s right there on the screen. Austria does look like a wiener."
+            ],
+            [
+                163,
+                "Like behavior modification?"
+            ],
+            [
+                170,
+                "We could snap a rubber band on our wrists every time we get sidetracked."
+            ],
+            [
+                205,
+                "That\u2019s ridiculous. Sheldon, I vote that is not a tangent."
+            ],
+            [
+                208,
+                "Hey."
+            ],
+            [
+                212,
+                "Negative reinforcement is really wrong?"
+            ],
+            [
+                218,
+                "Jump ahead to the Stay Puft Marshmallow Man."
+            ]
+        ],
+        "Sheldon": [
+            [
+                4,
+                "I know the real reason you never made progress with that idea. You thought of it September 22nd, 2007. Two days later, Penny moved in, and so much blood rushed to your genitals, your brain became a ghost town."
+            ],
+            [
+                6,
+                "I remember it distinctly because I had just composed my annual poem commemorating the anniversary of Dr. Seuss\u2019s death."
+            ],
+            [
+                8,
+                "Why, die. Why did he die? Old, told. I was told he was old."
+            ],
+            [
+                10,
+                "Oh, really? Since meeting her, what have been your greatest accomplishments?"
+            ],
+            [
+                16,
+                "Well, don\u2019t feel bad. I think we\u2019ve all been distracted since the girls entered our lives."
+            ],
+            [
+                18,
+                "Oh, very much so. Listen to this. This is from two days ago. Hi. Hope you\u2019re having a good day. Who has time for this constant sexting?"
+            ],
+            [
+                24,
+                "I\u2019m not going to a cabin in the woods. Did you see the movie Cabin in the Woods?"
+            ],
+            [
+                26,
+                "A hotel? Did you see The Shining?"
+            ],
+            [
+                28,
+                "Did you see The Lake House?"
+            ],
+            [
+                30,
+                "Yeah, well, no, not to them. To me. Time traveling mailbox. The only time that traveled was an hour and half of my life down the toilet."
+            ],
+            [
+                32,
+                "Well, you didn\u2019t suggest a beach house."
+            ],
+            [
+                34,
+                "Well, good Lord, no, have you seen Jaws?"
+            ],
+            [
+                53,
+                "Yeah, one would assume, on getting out of the pit."
+            ],
+            [
+                55,
+                "Thinking caps on."
+            ],
+            [
+                59,
+                "Really?"
+            ],
+            [
+                61,
+                "Yeah, I have it on Blu-ray. We should watch it."
+            ],
+            [
+                64,
+                "I\u2019m sorry. Is that a no?"
+            ],
+            [
+                67,
+                "I did not get a clear answer. I\u2019m gonna set this down now."
+            ],
+            [
+                72,
+                "Wait. I\u2019m confused. Why would you need both a robot girlfriend and a robot prostitute?"
+            ],
+            [
+                78,
+                "You know, a number of significant innovations have been inspired by science fiction. The, the geosynchronous satellite from Arthur C. Clarke. The Motorola flip phone, that came from Star Trek. And I\u2019ve long suspected that the idea of an African-American president was stolen from the movie Deep Impact."
+            ],
+            [
+                81,
+                "If we could figure out the scientific basis for Marty\u2019s hover board, that would have universal application."
+            ],
+            [
+                84,
+                "I think I have the same one."
+            ],
+            [
+                116,
+                "Wait. Whoa, whoa. Is placed right?"
+            ],
+            [
+                118,
+                "Is placed the right tense for something that would have happened in the future of a past that was affected by something from the future?"
+            ],
+            [
+                120,
+                "That\u2019s my boy."
+            ],
+            [
+                122,
+                "Yeah, but he had will haven\u2019t placed it!"
+            ],
+            [
+                124,
+                "Unlike Hot Tub Time Machine, this couldn\u2019t be more simple. When Biff gets the almanac in 1955, the alternate future he creates isn\u2019t the one in which Marty and Doc Brown ever use the time machine to travel to 2015. Therefore, in the new timeline, Marty and Doc never brought the time machine\u2026"
+            ],
+            [
+                126,
+                "Marty and Doc never had have had brought?"
+            ],
+            [
+                128,
+                "Oh, I\u2019m going with it. Marty and Doc never had have had brought the time machine to 2015. That means 2015 Biff could also not had have had brought the almanac to 1955 Biff. Therefore, the timeline in which 1955 Biff gets the almanac is also the timeline in which 1955 Biff never gets the almanac. And not just never gets. Never have, never hasn\u2019t, never had have hasn\u2019t."
+            ],
+            [
+                132,
+                "Do you know that the word wiener comes from the German name of the Austrian capital Vienna, or Wien?"
+            ],
+            [
+                135,
+                "I don\u2019t think it worked."
+            ],
+            [
+                152,
+                "Oh, this is already better. There are far fewer distractions in here."
+            ],
+            [
+                156,
+                "Well, I wonder if anyone\u2019s tried that."
+            ],
+            [
+                162,
+                "Yeah, he\u2019s right. Oh, here\u2019s a thought. What if we use some form of operant conditioning techniques to keep us from getting off topic?"
+            ],
+            [
+                164,
+                "Yeah, exactly. Did you know those techniques were used to actually teach pigeons to play ping-pong?"
+            ],
+            [
+                171,
+                "Mmm, not bad. You know, in medieval times, idle chatter was punished with a device called the scold\u2019s bridle. It\u2019s an iron cage that\u2019s locked around the head and pierces the tongue."
+            ],
+            [
+                173,
+                "Oh, I\u2019ll check Amazon."
+            ],
+            [
+                200,
+                "Wait, a question, who decides if someone\u2019s gone off topic?"
+            ],
+            [
+                202,
+                "Ow. We didn\u2019t vote!"
+            ],
+            [
+                204,
+                "You said quantum coupling. That made me think of the show Quantum Leap. That\u2019s a tangent and it\u2019s your fault."
+            ],
+            [
+                207,
+                "Ow. That was your fault."
+            ],
+            [
+                211,
+                "I think you mean positive punishment. Negative reinforcement is the removal of a positive stimulus. It\u2019s a common mistake."
+            ],
+            [
+                213,
+                "Oh, it\u2019s used incorrectly all the time. Even Bill Murray makes that mistake in the first scene of Ghostbusters."
+            ],
+            [
+                220,
+                "Leonard\u2019s right. We can\u2019t just jump ahead. We have to watch the whole movie."
+            ],
+            [
+                224,
+                "But we didn\u2019t see them bust one ghost."
+            ],
+            [
+                226,
+                "No."
+            ]
+        ],
+        "Penny": [
+            [
+                36,
+                "Hey."
+            ],
+            [
+                38,
+                "Want to go to Vegas this weekend?"
+            ],
+            [
+                40,
+                "Bernadette? Girl\u2019s weekend. Vegas. You in?"
+            ],
+            [
+                42,
+                "Yes. I\u2019ll check flights."
+            ],
+            [
+                88,
+                "So, where should we go first?"
+            ],
+            [
+                90,
+                "Nah."
+            ],
+            [
+                92,
+                "No."
+            ],
+            [
+                94,
+                "Oh. Okay."
+            ],
+            [
+                96,
+                "No."
+            ],
+            [
+                98,
+                "Well, we\u2019re in Vegas. I want to go downstairs, get a bucket of margaritas, dance until I vomit all over a roulette wheel and watch it go everywhere."
+            ],
+            [
+                100,
+                "Oh, you will. That\u2019s why they give you the bucket. Uh-oh."
+            ],
+            [
+                102,
+                "It\u2019s my boss. They moved my field ride up to Monday."
+            ],
+            [
+                104,
+                "It means instead of having a week to study, I only have two days."
+            ],
+            [
+                107,
+                "Uh, it\u2019s kind of a lot. You know, let me do a little tonight, and I\u2019ll catch up with you guys later."
+            ],
+            [
+                109,
+                "Yeah, it\u2019s okay. Go ahead."
+            ],
+            [
+                180,
+                "Yeah."
+            ],
+            [
+                182,
+                "You guys look like you\u2019re having fun."
+            ],
+            [
+                185,
+                "That\u2019s a dollar."
+            ],
+            [
+                189,
+                "That sounds so great. But I have a little more studying to do."
+            ],
+            [
+                192,
+                "All right, guys, look, I would love to go out, but I\u2019ve got to get this done, okay? So have fun at the club. And if you get in trouble, find a policeman. And if he\u2019s taking off his pants, he is not a real policeman."
+            ],
+            [
+                195,
+                "To the walk-in closet? Sure."
+            ],
+            [
+                232,
+                "Yep. Shake that thing."
+            ],
+            [
+                236,
+                "Good morning. You want to go to the pool? Come on, you said it yourself, only nerds and losers stay in the room. Wow, it\u2019s bright out. Isn\u2019t it bright? I should probably close these curtains. Nah. Bye."
+            ]
+        ],
+        "Amy": [
+            [
+                39,
+                "Of course I do."
+            ],
+            [
+                44,
+                "I\u2019ll check my underpants. I\u2019m so excited, I think I peed."
+            ],
+            [
+                89,
+                "Ooh. There\u2019s a cover band in the lounge."
+            ],
+            [
+                91,
+                "But they play Barry Manilow."
+            ],
+            [
+                93,
+                "But they\u2019re called Fairly Manilow."
+            ],
+            [
+                95,
+                "Great."
+            ],
+            [
+                99,
+                "What if we don\u2019t want to vomit?"
+            ],
+            [
+                101,
+                "What?"
+            ],
+            [
+                103,
+                "What does that mean?"
+            ],
+            [
+                106,
+                "Can you start in the morning?"
+            ],
+            [
+                110,
+                "So, um, now that Penny\u2019s not coming\u2026"
+            ],
+            [
+                112,
+                "Okay."
+            ],
+            [
+                137,
+                "Maybe after this, you\u2019ll be in the mood for some Manilow."
+            ],
+            [
+                139,
+                "Look at us out, while Penny\u2019s in the room studying."
+            ],
+            [
+                141,
+                "It is. But enough about Penny. Let\u2019s talk about us. We\u2019re looking good."
+            ],
+            [
+                143,
+                "Better than good. I mean, look at you. Your body\u2019s bangin\u2019."
+            ],
+            [
+                145,
+                "Don\u2019t Amy me. We\u2019re always talking about how hot Penny is. Come on, scientist to scientist, how big are those Hadron Colliders?"
+            ],
+            [
+                147,
+                "Oh, don\u2019t be embarrassed. I\u2019ll show you the divot in my spine."
+            ],
+            [
+                149,
+                "No, no, it\u2019s okay. I was born with it. If you put a double-A battery in there, it makes my leg kick."
+            ],
+            [
+                176,
+                "We had a complaint about somebody pooping on a party in there."
+            ],
+            [
+                178,
+                "Why\u2019d you tell her? It was working."
+            ],
+            [
+                183,
+                "We\u2019re having the best time."
+            ],
+            [
+                187,
+                "Hey, Penny, hey, let\u2019s go. We found a place that has Australian male strippers."
+            ],
+            [
+                190,
+                "Can you believe this nerd?"
+            ],
+            [
+                193,
+                "Okay, okay, this is obviously very important to her. Let\u2019s just, we\u2019ll help her study so she can get done quicker. Here, here, I\u2019m gonna quiz you. I\u2019m gonna quiz you. I got your notes. I got your notes. I got your notes. If you want these, they\u2019re gonna be at the strip club."
+            ],
+            [
+                234,
+                "We had some pretty hot corpses in my anatomy class, but none of them moved like that."
+            ],
+            [
+                238,
+                "Okay."
+            ]
+        ],
+        "Bernadette": [
+            [
+                41,
+                "Hell, yeah."
+            ],
+            [
+                43,
+                "I\u2019ll check hotels."
+            ],
+            [
+                97,
+                "Well, what do you want to do?"
+            ],
+            [
+                105,
+                "That sucks."
+            ],
+            [
+                108,
+                "You sure?"
+            ],
+            [
+                111,
+                "We\u2019re not seeing Fairly Manilow."
+            ],
+            [
+                138,
+                "I think after this, I\u2019ll be dead."
+            ],
+            [
+                140,
+                "I\u2019m proud of her. This is a great opportunity. It\u2019s nice to see her take it seriously."
+            ],
+            [
+                142,
+                "We are."
+            ],
+            [
+                144,
+                "Amy."
+            ],
+            [
+                146,
+                "You\u2019re embarrassing me."
+            ],
+            [
+                148,
+                "What?"
+            ],
+            [
+                175,
+                "Housekeeping."
+            ],
+            [
+                177,
+                "It was us the whole time."
+            ],
+            [
+                179,
+                "Was it working?"
+            ],
+            [
+                181,
+                "Oh, I\u2019m so sorry."
+            ],
+            [
+                184,
+                "Guess who won a hundred dollars playing craps."
+            ],
+            [
+                186,
+                "Then guess who wildly overtipped a cocktail waitress."
+            ],
+            [
+                188,
+                "We want to see if they twirl their junk in the other direction."
+            ],
+            [
+                191,
+                "Come on, do you want to sit here being a loser, or do you want to watch me climb into an Australian man\u2019s G-string like a baby kangaroo?"
+            ],
+            [
+                194,
+                "Aren\u2019t you gonna chase her?"
+            ],
+            [
+                231,
+                "See? Isn\u2019t this better than a hotel room?"
+            ],
+            [
+                233,
+                "Have you ever seen a body so fine?"
+            ],
+            [
+                237,
+                "Would you please close the drapes?"
+            ]
+        ],
+        "Leoanard": [
+            [
+                115,
+                "This is Hot Tub Time Machine all over again. If future Biff goes back to 2015 right after he gives young Biff the almanac, he could get back to the 2015 with Marty and Doc in it. Because it wasn\u2019t until his 21st birthday that 1955 Biff placed his first bet."
+            ]
+        ],
+        "Bill Murray (on screen)": [
+            [
+                216,
+                "I\u2019m studying the effect of negative reinforcement on ESP ability."
+            ]
+        ],
+        "All": [
+            [
+                228,
+                "Ghostbusters!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Raj",
+            "Hey, I read that someone invented a way to convert your footsteps into electromagnetic energy so you can charge your cell phone while walking."
+        ],
+        [
+            "Leonard",
+            "We had that idea years ago. How come we never did anything with it?"
+        ],
+        [
+            "Howard",
+            "Probably because we left the diagram of it in the restaurant, and none of us wanted to walk back."
+        ],
+        [
+            "Sheldon",
+            "I know the real reason you never made progress with that idea. You thought of it September 22nd, 2007. Two days later, Penny moved in, and so much blood rushed to your genitals, your brain became a ghost town."
+        ],
+        [
+            "Leonard",
+            "That\u2019s not what happened."
+        ],
+        [
+            "Sheldon",
+            "I remember it distinctly because I had just composed my annual poem commemorating the anniversary of Dr. Seuss\u2019s death."
+        ],
+        [
+            "Howard",
+            "No one wants to hear it."
+        ],
+        [
+            "Sheldon",
+            "Why, die. Why did he die? Old, told. I was told he was old."
+        ],
+        [
+            "Leonard",
+            "Penny is not the reason I didn\u2019t pursue that idea."
+        ],
+        [
+            "Sheldon",
+            "Oh, really? Since meeting her, what have been your greatest accomplishments?"
+        ],
+        [
+            "Raj",
+            "Easy. Sleeping with Penny."
+        ],
+        [
+            "Howard",
+            "Getting Penny to go back out with him after she dumped him."
+        ],
+        [
+            "Raj",
+            "Tricking Penny into getting engaged."
+        ],
+        [
+            "Howard",
+            "And a few weeks ago, he almost did a pull-up."
+        ],
+        [
+            "Leonard",
+            "I think someone owes me an apology."
+        ],
+        [
+            "Sheldon",
+            "Well, don\u2019t feel bad. I think we\u2019ve all been distracted since the girls entered our lives."
+        ],
+        [
+            "Howard",
+            "You admit Amy\u2019s a distraction?"
+        ],
+        [
+            "Sheldon",
+            "Oh, very much so. Listen to this. This is from two days ago. Hi. Hope you\u2019re having a good day. Who has time for this constant sexting?"
+        ],
+        [
+            "Leonard",
+            "Well, maybe we have lost our focus."
+        ],
+        [
+            "Howard",
+            "It wouldn\u2019t kill us to get together and brainstorm ideas."
+        ],
+        [
+            "Raj",
+            "Ooh, we could have one of those retreats."
+        ],
+        [
+            "Scene",
+            "LeonardLike our own science retreat."
+        ],
+        [
+            "Howard",
+            "My cousin has a cabin out in the woods."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not going to a cabin in the woods. Did you see the movie Cabin in the Woods?"
+        ],
+        [
+            "Leonard",
+            "Then we\u2019ll go to a hotel."
+        ],
+        [
+            "Sheldon",
+            "A hotel? Did you see The Shining?"
+        ],
+        [
+            "Raj",
+            "We could go up to Big Bear and get a house on the lake."
+        ],
+        [
+            "Sheldon",
+            "Did you see The Lake House?"
+        ],
+        [
+            "Raj",
+            "Nothing bad happens in The Lake House."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, no, not to them. To me. Time traveling mailbox. The only time that traveled was an hour and half of my life down the toilet."
+        ],
+        [
+            "Leonard",
+            "Fine. Then we\u2019ll just stay here and do it."
+        ],
+        [
+            "Sheldon",
+            "Well, you didn\u2019t suggest a beach house."
+        ],
+        [
+            "Leonard",
+            "You would go to a beach house?"
+        ],
+        [
+            "Sheldon",
+            "Well, good Lord, no, have you seen Jaws?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Leonard",
+            "Hey. So, the guys and I are talking about having kind of a science retreat this weekend. I just wanted to know if that\u2019s okay. You and I had talked about going to brunch on Sunday."
+        ],
+        [
+            "Penny",
+            "Want to go to Vegas this weekend?"
+        ],
+        [
+            "Amy",
+            "Of course I do."
+        ],
+        [
+            "Penny",
+            "Bernadette? Girl\u2019s weekend. Vegas. You in?"
+        ],
+        [
+            "Bernadette",
+            "Hell, yeah."
+        ],
+        [
+            "Penny",
+            "Yes. I\u2019ll check flights."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll check hotels."
+        ],
+        [
+            "Amy",
+            "I\u2019ll check my underpants. I\u2019m so excited, I think I peed."
+        ],
+        [
+            "Leonard",
+            "They seem okay with it."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Hey."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "Hey. I didn\u2019t think you\u2019d make it."
+        ],
+        [
+            "Raj",
+            "Why not?"
+        ],
+        [
+            "Howard",
+            "Well, \u2019cause you have a steady girlfriend now, and we assumed you\u2019d have to stay home to lower the food down to her in the pit."
+        ],
+        [
+            "Raj",
+            "For your information, Emily is working tonight."
+        ],
+        [
+            "Sheldon",
+            "Yeah, one would assume, on getting out of the pit."
+        ],
+        [
+            "Leonard",
+            "Okay, let\u2019s focus. The girls are gone, we have 48 hours. There are no distractions. Let\u2019s change the world."
+        ],
+        [
+            "Sheldon",
+            "Thinking caps on."
+        ],
+        [
+            "Howard",
+            "Here we go."
+        ],
+        [
+            "Raj",
+            "Ooh, this is exciting. We\u2019re innovating. I feel like we\u2019re in the Facebook movie."
+        ],
+        [
+            "Howard",
+            "Oh. I never saw that."
+        ],
+        [
+            "Sheldon",
+            "Really?"
+        ],
+        [
+            "Raj",
+            "Oh. It\u2019s wonderful, and I swear I\u2019m not saying that because Justin Timberlake is in it."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I have it on Blu-ray. We should watch it."
+        ],
+        [
+            "Raj",
+            "Cool. I\u2019ll make the popcorn."
+        ],
+        [
+            "Leonard",
+            "Guys, in 30 seconds, we went from let\u2019s change the world to let\u2019s watch TV."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. Is that a no?"
+        ],
+        [
+            "Howard",
+            "Okay. No. Leonard\u2019s right. We\u2019re here to focus. Didn\u2019t we used to have a list of all our ideas?"
+        ],
+        [
+            "Leonard",
+            "I, I think I still have it."
+        ],
+        [
+            "Sheldon",
+            "I did not get a clear answer. I\u2019m gonna set this down now."
+        ],
+        [
+            "Leonard",
+            "Ah, here it is. Whoa. I haven\u2019t looked at these in years. Robot girlfriend."
+        ],
+        [
+            "Howard",
+            "Mm, that was mine."
+        ],
+        [
+            "Leonard",
+            "Robot prostitute."
+        ],
+        [
+            "Howard",
+            "Also mine."
+        ],
+        [
+            "Sheldon",
+            "Wait. I\u2019m confused. Why would you need both a robot girlfriend and a robot prostitute?"
+        ],
+        [
+            "Howard",
+            "There\u2019s just some things you don\u2019t do with your robot girlfriend."
+        ],
+        [
+            "Raj",
+            "Boy, when you met Bernadette, the field of robotics really took a hit."
+        ],
+        [
+            "Leonard",
+            "Okay, let\u2019s just skip all the inventions you can have sex with. All right, no, here we go, ergonomic heated seat cushion."
+        ],
+        [
+            "Howard",
+            "No, it vibrates. Keep going."
+        ],
+        [
+            "Leonard",
+            "You know, let\u2019s just come up with something new."
+        ],
+        [
+            "Sheldon",
+            "You know, a number of significant innovations have been inspired by science fiction. The, the geosynchronous satellite from Arthur C. Clarke. The Motorola flip phone, that came from Star Trek. And I\u2019ve long suspected that the idea of an African-American president was stolen from the movie Deep Impact."
+        ],
+        [
+            "Raj",
+            "Hey, the future they show in Back to the Future II is only a year away. A lot of the things in that movie haven\u2019t been invented yet."
+        ],
+        [
+            "Leonard",
+            "How cool would that be if we could make one of those a reality?"
+        ],
+        [
+            "Sheldon",
+            "If we could figure out the scientific basis for Marty\u2019s hover board, that would have universal application."
+        ],
+        [
+            "Leonard",
+            "Well, it\u2019s, it\u2019s possible at absolute zero, but we would have to remove the temperature restrictions."
+        ],
+        [
+            "Raj",
+            "Oh, I have an idea."
+        ],
+        [
+            "Sheldon",
+            "I think I have the same one."
+        ],
+        [
+            "Howard",
+            "We got to watch Back to the Future II."
+        ],
+        [
+            "Raj",
+            "I\u2019ll make the popcorn."
+        ],
+        [
+            "Scene",
+            "A Vegas hotel room."
+        ],
+        [
+            "Penny",
+            "So, where should we go first?"
+        ],
+        [
+            "Amy",
+            "Ooh. There\u2019s a cover band in the lounge."
+        ],
+        [
+            "Penny",
+            "Nah."
+        ],
+        [
+            "Amy",
+            "But they play Barry Manilow."
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Amy",
+            "But they\u2019re called Fairly Manilow."
+        ],
+        [
+            "Penny",
+            "Oh. Okay."
+        ],
+        [
+            "Amy",
+            "Great."
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Bernadette",
+            "Well, what do you want to do?"
+        ],
+        [
+            "Penny",
+            "Well, we\u2019re in Vegas. I want to go downstairs, get a bucket of margaritas, dance until I vomit all over a roulette wheel and watch it go everywhere."
+        ],
+        [
+            "Amy",
+            "What if we don\u2019t want to vomit?"
+        ],
+        [
+            "Penny",
+            "Oh, you will. That\u2019s why they give you the bucket. Uh-oh."
+        ],
+        [
+            "Amy",
+            "What?"
+        ],
+        [
+            "Penny",
+            "It\u2019s my boss. They moved my field ride up to Monday."
+        ],
+        [
+            "Amy",
+            "What does that mean?"
+        ],
+        [
+            "Penny",
+            "It means instead of having a week to study, I only have two days."
+        ],
+        [
+            "Bernadette",
+            "That sucks."
+        ],
+        [
+            "Amy",
+            "Can you start in the morning?"
+        ],
+        [
+            "Penny",
+            "Uh, it\u2019s kind of a lot. You know, let me do a little tonight, and I\u2019ll catch up with you guys later."
+        ],
+        [
+            "Bernadette",
+            "You sure?"
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s okay. Go ahead."
+        ],
+        [
+            "Amy",
+            "So, um, now that Penny\u2019s not coming\u2026"
+        ],
+        [
+            "Bernadette",
+            "We\u2019re not seeing Fairly Manilow."
+        ],
+        [
+            "Amy",
+            "Okay."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Howard",
+            "Hold on. Pause. Something doesn\u2019t make sense. Look, in 2015, Biff steals the sports almanac and takes the time machine back to 1955, to give it to his younger self. But as soon as he does that, he changes the future, so the 2015 he returns to would be a different 2015, not the 2015 that Marty and Doc were in."
+        ],
+        [
+            "Leoanard",
+            "This is Hot Tub Time Machine all over again. If future Biff goes back to 2015 right after he gives young Biff the almanac, he could get back to the 2015 with Marty and Doc in it. Because it wasn\u2019t until his 21st birthday that 1955 Biff placed his first bet."
+        ],
+        [
+            "Sheldon",
+            "Wait. Whoa, whoa. Is placed right?"
+        ],
+        [
+            "Leonard",
+            "What do you mean?"
+        ],
+        [
+            "Sheldon",
+            "Is placed the right tense for something that would have happened in the future of a past that was affected by something from the future?"
+        ],
+        [
+            "Leonard",
+            "Had will have placed?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s my boy."
+        ],
+        [
+            "Leonard",
+            "Okay, so, it wasn\u2019t until his 21st birthday that Biff had will have placed his first bet and made his millions. That\u2019s when he altered the timeline."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but he had will haven\u2019t placed it!"
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Unlike Hot Tub Time Machine, this couldn\u2019t be more simple. When Biff gets the almanac in 1955, the alternate future he creates isn\u2019t the one in which Marty and Doc Brown ever use the time machine to travel to 2015. Therefore, in the new timeline, Marty and Doc never brought the time machine\u2026"
+        ],
+        [
+            "Leonard",
+            "Wait. Is brought right?"
+        ],
+        [
+            "Sheldon",
+            "Marty and Doc never had have had brought?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. You did it to me."
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m going with it. Marty and Doc never had have had brought the time machine to 2015. That means 2015 Biff could also not had have had brought the almanac to 1955 Biff. Therefore, the timeline in which 1955 Biff gets the almanac is also the timeline in which 1955 Biff never gets the almanac. And not just never gets. Never have, never hasn\u2019t, never had have hasn\u2019t."
+        ],
+        [
+            "Raj",
+            "He\u2019s right. Also, what kind of name is Biff? Sounds like when you pop open a can of Pillsbury dough. Biff."
+        ],
+        [
+            "Howard",
+            "Oh, that stuff is so good wrapped around cocktail weenies."
+        ],
+        [
+            "Leonard",
+            "Guys."
+        ],
+        [
+            "Sheldon",
+            "Do you know that the word wiener comes from the German name of the Austrian capital Vienna, or Wien?"
+        ],
+        [
+            "Raj",
+            "Do you know if you look at Austria on a map it actually looks like a wiener?"
+        ],
+        [
+            "Leonard",
+            "Guys, what are we doing? We sent the girls away so we could focus."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t think it worked."
+        ],
+        [
+            "Scene",
+            "A bar in Vegas."
+        ],
+        [
+            "Amy",
+            "Maybe after this, you\u2019ll be in the mood for some Manilow."
+        ],
+        [
+            "Bernadette",
+            "I think after this, I\u2019ll be dead."
+        ],
+        [
+            "Amy",
+            "Look at us out, while Penny\u2019s in the room studying."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m proud of her. This is a great opportunity. It\u2019s nice to see her take it seriously."
+        ],
+        [
+            "Amy",
+            "It is. But enough about Penny. Let\u2019s talk about us. We\u2019re looking good."
+        ],
+        [
+            "Bernadette",
+            "We are."
+        ],
+        [
+            "Amy",
+            "Better than good. I mean, look at you. Your body\u2019s bangin\u2019."
+        ],
+        [
+            "Bernadette",
+            "Amy."
+        ],
+        [
+            "Amy",
+            "Don\u2019t Amy me. We\u2019re always talking about how hot Penny is. Come on, scientist to scientist, how big are those Hadron Colliders?"
+        ],
+        [
+            "Bernadette",
+            "You\u2019re embarrassing me."
+        ],
+        [
+            "Amy",
+            "Oh, don\u2019t be embarrassed. I\u2019ll show you the divot in my spine."
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Amy",
+            "No, no, it\u2019s okay. I was born with it. If you put a double-A battery in there, it makes my leg kick."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s laboratory."
+        ],
+        [
+            "Leonard",
+            "All right."
+        ],
+        [
+            "Sheldon",
+            "Oh, this is already better. There are far fewer distractions in here."
+        ],
+        [
+            "Raj",
+            "Plus, this is where our minds are conditioned to focus on work."
+        ],
+        [
+            "Leonard",
+            "So, I\u2019ve been thinking about the hover boards, and maybe there\u2019s a way we could use Maglev technology."
+        ],
+        [
+            "Howard",
+            "Or if we could figure out a way to supercool the materials, we could utilize quantum coupling."
+        ],
+        [
+            "Sheldon",
+            "Well, I wonder if anyone\u2019s tried that."
+        ],
+        [
+            "Raj",
+            "Go online and look it up."
+        ],
+        [
+            "Scene",
+            "Shortly afterwards."
+        ],
+        [
+            "Howard",
+            "Oh, I can\u2019t argue with him. It\u2019s right there on the screen. Austria does look like a wiener."
+        ],
+        [
+            "Raj",
+            "That\u2019s nothing, dude. Go check out how hung Florida is."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sure Mrs. Florida\u2019s walking funny. Can we get back to work?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, he\u2019s right. Oh, here\u2019s a thought. What if we use some form of operant conditioning techniques to keep us from getting off topic?"
+        ],
+        [
+            "Howard",
+            "Like behavior modification?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, exactly. Did you know those techniques were used to actually teach pigeons to play ping-pong?"
+        ],
+        [
+            "Raj",
+            "That cannot be true."
+        ],
+        [
+            "Scene",
+            "Shortly afterwards."
+        ],
+        [
+            "Raj",
+            "Hey, it was match point."
+        ],
+        [
+            "Leonard",
+            "Some psychologists perform operant conditioning with punishment. Maybe we can come up with a punishment for straying off topic."
+        ],
+        [
+            "Raj",
+            "Not getting to see who wins at pigeon ping-pong comes to mind."
+        ],
+        [
+            "Howard",
+            "We could snap a rubber band on our wrists every time we get sidetracked."
+        ],
+        [
+            "Sheldon",
+            "Mmm, not bad. You know, in medieval times, idle chatter was punished with a device called the scold\u2019s bridle. It\u2019s an iron cage that\u2019s locked around the head and pierces the tongue."
+        ],
+        [
+            "Leonard",
+            "If only we had one."
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019ll check Amazon."
+        ],
+        [
+            "Scene",
+            "The hotel room."
+        ],
+        [
+            "Bernadette",
+            "Housekeeping."
+        ],
+        [
+            "Amy",
+            "We had a complaint about somebody pooping on a party in there."
+        ],
+        [
+            "Bernadette",
+            "It was us the whole time."
+        ],
+        [
+            "Amy",
+            "Why\u2019d you tell her? It was working."
+        ],
+        [
+            "Bernadette",
+            "Was it working?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "Oh, I\u2019m so sorry."
+        ],
+        [
+            "Penny",
+            "You guys look like you\u2019re having fun."
+        ],
+        [
+            "Amy",
+            "We\u2019re having the best time."
+        ],
+        [
+            "Bernadette",
+            "Guess who won a hundred dollars playing craps."
+        ],
+        [
+            "Penny",
+            "That\u2019s a dollar."
+        ],
+        [
+            "Bernadette",
+            "Then guess who wildly overtipped a cocktail waitress."
+        ],
+        [
+            "Amy",
+            "Hey, Penny, hey, let\u2019s go. We found a place that has Australian male strippers."
+        ],
+        [
+            "Bernadette",
+            "We want to see if they twirl their junk in the other direction."
+        ],
+        [
+            "Penny",
+            "That sounds so great. But I have a little more studying to do."
+        ],
+        [
+            "Amy",
+            "Can you believe this nerd?"
+        ],
+        [
+            "Bernadette",
+            "Come on, do you want to sit here being a loser, or do you want to watch me climb into an Australian man\u2019s G-string like a baby kangaroo?"
+        ],
+        [
+            "Penny",
+            "All right, guys, look, I would love to go out, but I\u2019ve got to get this done, okay? So have fun at the club. And if you get in trouble, find a policeman. And if he\u2019s taking off his pants, he is not a real policeman."
+        ],
+        [
+            "Amy",
+            "Okay, okay, this is obviously very important to her. Let\u2019s just, we\u2019ll help her study so she can get done quicker. Here, here, I\u2019m gonna quiz you. I\u2019m gonna quiz you. I got your notes. I got your notes. I got your notes. If you want these, they\u2019re gonna be at the strip club."
+        ],
+        [
+            "Bernadette",
+            "Aren\u2019t you gonna chase her?"
+        ],
+        [
+            "Penny",
+            "To the walk-in closet? Sure."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s lab."
+        ],
+        [
+            "Leonard",
+            "Okay, so we agree, whenever someone takes us off topic they get their arm hair yanked off."
+        ],
+        [
+            "Raj",
+            "And I really can\u2019t let that happen or the girl who does my eyebrows will think I\u2019ve been cheating on her."
+        ],
+        [
+            "Leonard",
+            "All right, now, one benefit of quantum coupling\u2026"
+        ],
+        [
+            "Sheldon",
+            "Wait, a question, who decides if someone\u2019s gone off topic?"
+        ],
+        [
+            "Leonard",
+            "I think it\u2019ll be pretty clear. If not, we\u2019ll take a vote. Oh, and also\u2026"
+        ],
+        [
+            "Sheldon",
+            "Ow. We didn\u2019t vote!"
+        ],
+        [
+            "Leonard",
+            "We didn\u2019t have to, that was clearly a tangent. Now come on. Back to work. If we\u2019re leaning towards quantum coupling\u2026 Aah! Why?"
+        ],
+        [
+            "Sheldon",
+            "You said quantum coupling. That made me think of the show Quantum Leap. That\u2019s a tangent and it\u2019s your fault."
+        ],
+        [
+            "Howard",
+            "That\u2019s ridiculous. Sheldon, I vote that is not a tangent."
+        ],
+        [
+            "Leonard",
+            "Thank you. And now I owe you one."
+        ],
+        [
+            "Sheldon",
+            "Ow. That was your fault."
+        ],
+        [
+            "Howard",
+            "Hey."
+        ],
+        [
+            "Raj",
+            "Ooh, that is a lot of hair. Ow. And now I\u2019m gonna hear it from Jenny."
+        ],
+        [
+            "Leonard",
+            "Everyone stop. This was a stupid idea. Negative reinforcement isn\u2019t working."
+        ],
+        [
+            "Sheldon",
+            "I think you mean positive punishment. Negative reinforcement is the removal of a positive stimulus. It\u2019s a common mistake."
+        ],
+        [
+            "Howard",
+            "Negative reinforcement is really wrong?"
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s used incorrectly all the time. Even Bill Murray makes that mistake in the first scene of Ghostbusters."
+        ],
+        [
+            "Raj",
+            "No way. Not Bill Murray."
+        ],
+        [
+            "Scene",
+            "Shortly afterwards."
+        ],
+        [
+            "Bill Murray (on screen)",
+            "I\u2019m studying the effect of negative reinforcement on ESP ability."
+        ],
+        [
+            "Raj",
+            "Huh. Bill Murray did get it wrong."
+        ],
+        [
+            "Howard",
+            "Jump ahead to the Stay Puft Marshmallow Man."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Leonard\u2019s right. We can\u2019t just jump ahead. We have to watch the whole movie."
+        ],
+        [
+            "Leonard",
+            "Look. We keep procrastinating. We saw Back to the Future II, pigeons playing ping-pong, a bunch of countries that look like genitals and one guy whose genitals look like Denmark."
+        ],
+        [
+            "Raj",
+            "Yeah, sorry for clicking on that."
+        ],
+        [
+            "Leonard",
+            "It\u2019s late. We\u2019ve wasted hours. Can we please find it in ourselves to do any amount of work tonight?"
+        ],
+        [
+            "Sheldon",
+            "But we didn\u2019t see them bust one ghost."
+        ],
+        [
+            "Leonard",
+            "So you\u2019re, you\u2019re saying we should stand here in my lab on a Saturday night and watch the rest of Ghostbusters on a crappy laptop?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "All",
+            "Ghostbusters!"
+        ],
+        [
+            "Leonard",
+            "It really does hold up."
+        ],
+        [
+            "Scene",
+            "The Vegas strip club."
+        ],
+        [
+            "Bernadette",
+            "See? Isn\u2019t this better than a hotel room?"
+        ],
+        [
+            "Penny",
+            "Yep. Shake that thing."
+        ],
+        [
+            "Bernadette",
+            "Have you ever seen a body so fine?"
+        ],
+        [
+            "Amy",
+            "We had some pretty hot corpses in my anatomy class, but none of them moved like that."
+        ],
+        [
+            "Scene",
+            "The hotel room."
+        ],
+        [
+            "Penny",
+            "Good morning. You want to go to the pool? Come on, you said it yourself, only nerds and losers stay in the room. Wow, it\u2019s bright out. Isn\u2019t it bright? I should probably close these curtains. Nah. Bye."
+        ],
+        [
+            "Bernadette",
+            "Would you please close the drapes?"
+        ],
+        [
+            "Amy",
+            "Okay."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-05-the-focus-attenuation/"
+}

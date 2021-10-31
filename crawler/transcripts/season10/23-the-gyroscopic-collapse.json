@@ -1,0 +1,2066 @@
+{
+    "Season": 10,
+    "Episode": 23,
+    "Title": "the gyroscopic collapse",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "After a \u201cpreviously on\u201d segment."
+            ],
+            [
+                1,
+                "The apartment. "
+            ],
+            [
+                18,
+                "Outside the lab."
+            ],
+            [
+                27,
+                "Credits sequence."
+            ],
+            [
+                28,
+                "The laboratory ."
+            ],
+            [
+                42,
+                "The apartment. "
+            ],
+            [
+                62,
+                "The stairwell."
+            ],
+            [
+                69,
+                "The apartment. "
+            ],
+            [
+                84,
+                "Howard and Bernadette\u2019s van. "
+            ],
+            [
+                93,
+                "The apartment. "
+            ],
+            [
+                131,
+                "A park. "
+            ],
+            [
+                160,
+                "The stairwell. "
+            ],
+            [
+                180,
+                "Howard and Bernadette\u2019s bathroom. "
+            ],
+            [
+                196,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                213,
+                "The apartment doorway. "
+            ],
+            [
+                221,
+                "like you\u2026"
+            ],
+            [
+                228,
+                "Sheldon and Amy\u2019s apartment. "
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "Champagne, champagne."
+            ],
+            [
+                4,
+                "And for the world\u2019s tallest second grader, apple juice."
+            ],
+            [
+                44,
+                "Oh, I\u2019m sorry to hear that."
+            ],
+            [
+                46,
+                "Um, well, I, yeah, you got me."
+            ],
+            [
+                48,
+                "And when? But also where?"
+            ],
+            [
+                53,
+                "Okay, we\u2019re just gonna circle back to when he\u2019s moving out? Okay, that\u2019s cool."
+            ],
+            [
+                56,
+                "Good for you. "
+            ],
+            [
+                59,
+                "Oh, come on, he\u2019s a grown man, he can take care of himself."
+            ],
+            [
+                61,
+                "Once again, you got me."
+            ],
+            [
+                71,
+                "Oh, hey, what\u2019s going on?"
+            ],
+            [
+                73,
+                "What?"
+            ],
+            [
+                81,
+                "Amy\u2019s got some news."
+            ],
+            [
+                96,
+                "Oh, sweetie, you might not live that long."
+            ],
+            [
+                98,
+                "Oh, stop it, he\u2019ll be fine."
+            ],
+            [
+                100,
+                "Oh, damn, wait, you know, maybe you shouldn\u2019t go."
+            ],
+            [
+                134,
+                "I mean, I like a little brown sugar."
+            ],
+            [
+                136,
+                "Sorry."
+            ],
+            [
+                139,
+                "Oh, come on. Look, if the roles were reversed, he\u2019d be on the first train to New Jersey, or the second train if there were teenagers on the first one."
+            ],
+            [
+                141,
+                "Well, what\u2019s wrong with that?"
+            ],
+            [
+                143,
+                "And yet you bore his child. Neato."
+            ],
+            [
+                146,
+                "Okay, a simple yes will do."
+            ],
+            [
+                149,
+                "Okay, listen to me. Your relationship can handle being long distance for a while. It\u2019s not like you two are very physical."
+            ],
+            [
+                151,
+                "A lot of lectures?"
+            ],
+            [
+                217,
+                "Oh, we would love that."
+            ],
+            [
+                225,
+                "I want to, but I don\u2019t think I can."
+            ],
+            [
+                227,
+                "Okay, I\u2019m good now."
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "Thank you."
+            ],
+            [
+                6,
+                "Hey, a toast. Thank you all for your support while we worked on our Air Force project. And please know that we could not have done it without you, so cheers."
+            ],
+            [
+                15,
+                "First thing tomorrow morning, we\u2019re back at it."
+            ],
+            [
+                20,
+                "Hmm. I don\u2019t care if this thing is burning out my retinas, it makes me feel special. Now, before we field test, I think we\u2026"
+            ],
+            [
+                22,
+                "Where is everything?"
+            ],
+            [
+                24,
+                "It\u2019s a secure lab in a classified facility, only the U.S. government and us."
+            ],
+            [
+                29,
+                "Sir, I, I, I\u2019m sorry but I just don\u2019t get it. You came into our lab in the middle of the night and took our prototype and all of our research and didn\u2019t even tell us?"
+            ],
+            [
+                35,
+                "Are you implementing phase two?"
+            ],
+            [
+                64,
+                "I can\u2019t believe the Air Force would treat us like that."
+            ],
+            [
+                66,
+                "Third floor, wrong apartment."
+            ],
+            [
+                68,
+                "She might disappear, but she\u2019s definitely not cleaning anything."
+            ],
+            [
+                72,
+                "You won\u2019t believe it, the military confiscated our project."
+            ],
+            [
+                79,
+                "Yeah, what\u2019s going on with you guys?"
+            ],
+            [
+                83,
+                "Oh, no. When?"
+            ],
+            [
+                161,
+                "So, are you excited to have your own place again?"
+            ],
+            [
+                163,
+                "Ah, we\u2019ll miss you, too."
+            ],
+            [
+                165,
+                "I\u2019m trying. This is the best I can do. What are you doing?"
+            ],
+            [
+                170,
+                "Uh, could I talk to you in the hall for a sec?"
+            ],
+            [
+                172,
+                "Sheldon, you\u2019re being silly."
+            ],
+            [
+                174,
+                "Do you really care about that last one?"
+            ],
+            [
+                176,
+                "Instead of dwelling on the negative, think about this. Your girlfriend was given an amazing opportunity, which gives you an opportunity to show her that you\u2019re a loving and supportive boyfriend."
+            ],
+            [
+                178,
+                "All right, let me start again. Uh, you and Amy\u2026"
+            ],
+            [
+                215,
+                "Thank you."
+            ],
+            [
+                224,
+                "Should we give them their privacy?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                5,
+                "Thank you. No bendy straw, some party."
+            ],
+            [
+                11,
+                "To success without Raj."
+            ],
+            [
+                14,
+                "Yeah, I\u2019ll definitely live long enough. Vitamin C."
+            ],
+            [
+                17,
+                "I hope his character doesn\u2019t make it into the movie, he\u2019s kind of a bummer."
+            ],
+            [
+                23,
+                "Who else has access to this room?"
+            ],
+            [
+                25,
+                "This is disconcerting. "
+            ],
+            [
+                33,
+                "Where did you move it?"
+            ],
+            [
+                37,
+                "Wait, so you\u2019re just going to take all the work we\u2019ve done for the last year and toss us aside?"
+            ],
+            [
+                41,
+                "If that\u2019s sarcasm, please save it for our enemies."
+            ],
+            [
+                65,
+                "You know, I have a good mind to stop paying my taxes. It\u2019s too bad I enjoy doing them so much. The Air Force did it again. They\u2019re erasing our lives."
+            ],
+            [
+                70,
+                "It\u2019s okay, everything\u2019s here."
+            ],
+            [
+                76,
+                "I feel so betrayed. You know, all my life I thought Uncle Sam was a friendly uncle who brought you presents. Turns out he\u2019s the other kind."
+            ],
+            [
+                78,
+                "Thank you. Can we just talk about something else?"
+            ],
+            [
+                102,
+                "I apologize for exceeding my allotted bathroom time."
+            ],
+            [
+                104,
+                "Not really. Apparently grief can make one less regular."
+            ],
+            [
+                106,
+                "No, I sat and I sat, but to no avail."
+            ],
+            [
+                108,
+                "What\u2019s the occasion?"
+            ],
+            [
+                110,
+                "You\u2019re so kind. You know, I don\u2019t know how I ever got by without you."
+            ],
+            [
+                112,
+                "Well, I thought that, too, but I\u2019ve come to realize, I am completely dependent on you."
+            ],
+            [
+                114,
+                "No, to wake up every morning and know you\u2019re there is a great comfort to me. Mmm, tasteless. How do you do it?"
+            ],
+            [
+                116,
+                "Well, there is our quantum cognition experiment. You and I could spend more time on that."
+            ],
+            [
+                118,
+                "I\u2019m confused. You\u2019re always saying that you want to spend more time with me."
+            ],
+            [
+                120,
+                "Well, a lot, it\u2019s very annoying. Has something changed? Um, is there something that you\u2019re not telling me?"
+            ],
+            [
+                122,
+                "Princeton? A fine institution. The place where Albert Einstein taught. And where Leonard got his PhD, so it may have gone downhill."
+            ],
+            [
+                124,
+                "Well, that\u2019s wonderful. Congratulations."
+            ],
+            [
+                126,
+                "What is there to talk about? You have to take it. It\u2019s important."
+            ],
+            [
+                128,
+                "Thank you, but I\u2019ll be fine."
+            ],
+            [
+                130,
+                "Yes. I may have lost my guidance system and my girlfriend, but I still have a colon full of yesterday\u2019s meals to keep me company. Although, thanks to your high fibre breakfast, I\u2019m sure that\u2019ll be leaving me, too."
+            ],
+            [
+                166,
+                "What does it look like? I\u2019m playing sad harmonica in an apartment as empty as my heart."
+            ],
+            [
+                168,
+                "I got the blues. My baby done left me."
+            ],
+            [
+                173,
+                "Am I? Yesterday I had an Air Force project, a girlfriend who lived with me, and my good friend Raj right across the hall."
+            ],
+            [
+                175,
+                "No, but that list was sounding a little thin."
+            ],
+            [
+                177,
+                "So trick her."
+            ],
+            [
+                198,
+                "No, but you are, so I got you this as a present."
+            ],
+            [
+                200,
+                "No, it is. Leonard pointed out to me that I\u2019m not always a loving and supportive boyfriend, so here\u2019s some quality luggage."
+            ],
+            [
+                202,
+                "The salesman said it could survive a plane crash, so perhaps you should fly inside it."
+            ],
+            [
+                204,
+                "Well, I\u2019m not looking forward to it, but it is a wonderful opportunity and you need to take it. Besides, Princeton is in New Jersey, so it\u2019s not like you\u2019re gonna want to stay. Uh, I know it\u2019s not your birthday, but if you\u2019re interested\u2026"
+            ],
+            [
+                206,
+                "Okay. Oh, and just to be clear, I\u2019m not being intimate with you in order to keep you from going."
+            ],
+            [
+                208,
+                "Well, no, it\u2019s just, I\u2019m just warning you, you know, if you find yourself 3,000 miles away and craving a hit of this, you know, I can\u2019t Skype it to you."
+            ],
+            [
+                210,
+                "All right, then. Let\u2019s go to the bedroom, remove our clothes, fold them neatly and engage in frenzied lovemaking."
+            ],
+            [
+                212,
+                "Or, what if we fold them?"
+            ],
+            [
+                230,
+                "Of course. Here, here, let me. I\u2019ve been doing a little research on New Jersey, and I was delighted to learn that their chief agricultural product is sod."
+            ],
+            [
+                232,
+                "Hmm, yes. Yeah, perhaps I\u2019ve been harder on them than they deserve."
+            ],
+            [
+                234,
+                "It\u2019s hard to say. I\u2019ve never really lived by myself. What if I become strange and eccentric?"
+            ],
+            [
+                236,
+                "Howard Hughes saved his urine in milk bottles."
+            ],
+            [
+                238,
+                "And you\u2019ll text me when you arrive at the airport?"
+            ],
+            [
+                240,
+                "And when you\u2019re at the gate?"
+            ],
+            [
+                242,
+                "And if you see any actors from Game of Thrones in first class?"
+            ],
+            [
+                244,
+                "And don\u2019t forget to Skype me when you arrive."
+            ],
+            [
+                246,
+                "And every morning."
+            ],
+            [
+                248,
+                "Now of course, my 9am is your noon, so let\u2019s avoid the whole good morning, good afternoon minefield, and let\u2019s just say hello. "
+            ],
+            [
+                250,
+                "And just remember, I am proud of you and I support you in all that you do."
+            ],
+            [
+                252,
+                "Oh, and one last thing. If you find yourself working with a male scientist who\u2019s as smart as me, as tall as me and has hair like Thor, well, then I want you to step away from the situation and call me immediately."
+            ]
+        ],
+        "All": [
+            [
+                7,
+                "Cheers."
+            ]
+        ],
+        "Amy": [
+            [
+                8,
+                "You know, it\u2019s nice of you to acknowledge us, but this is your accomplishment."
+            ],
+            [
+                47,
+                "Where are you moving?"
+            ],
+            [
+                52,
+                "Well, good for you. I actually have a little news myself."
+            ],
+            [
+                54,
+                "I was, uh, asked to be a visiting researcher at Princeton."
+            ],
+            [
+                58,
+                "Thanks, but the thing is I\u2019ll be gone for a few months and I don\u2019t know how Sheldon\u2019s gonna feel about that."
+            ],
+            [
+                60,
+                "You really believe that?"
+            ],
+            [
+                77,
+                "Sheldon, I\u2019m so sorry."
+            ],
+            [
+                82,
+                "Yeah, um, Raj is moving out."
+            ],
+            [
+                95,
+                "No, I\u2019m waiting till he\u2019s in a good mood."
+            ],
+            [
+                97,
+                "I don\u2019t know, maybe I shouldn\u2019t go."
+            ],
+            [
+                99,
+                "I guess. And he\u2019ll have you and Leonard right across the hall the whole time."
+            ],
+            [
+                101,
+                "Got to go. Morning."
+            ],
+            [
+                103,
+                "Are you feeling okay?"
+            ],
+            [
+                105,
+                "Oh, I\u2019m sorry to hear that."
+            ],
+            [
+                107,
+                "Oh, the more details, the more sorry. Well, maybe this\u2019ll cheer you up. I made your favorite oatmeal, plain."
+            ],
+            [
+                109,
+                "No occasion, I just wanted to do something nice for you."
+            ],
+            [
+                111,
+                "Oh. That\u2019s sweet, but you, you did just fine on your own."
+            ],
+            [
+                113,
+                "Sheldon, you\u2019re, you\u2019re being silly."
+            ],
+            [
+                115,
+                "You know, what you need to do is put this Air Force project behind you and just dive into something new."
+            ],
+            [
+                117,
+                "Oh, I don\u2019t know, I mean, let\u2019s say we succeed in proving that our consciousness creates reality. I mean, what will we have really accomplished? You know, a loaf of bread\u2019s still three bucks."
+            ],
+            [
+                119,
+                "That is true, I have said that."
+            ],
+            [
+                121,
+                "I was offered a summer research fellowship at Princeton."
+            ],
+            [
+                123,
+                "Yeah, that\u2019s the one."
+            ],
+            [
+                125,
+                "Well, I haven\u2019t accepted it yet. I wanted to talk to you first."
+            ],
+            [
+                127,
+                "So are you."
+            ],
+            [
+                129,
+                "Are, are you sure?"
+            ],
+            [
+                133,
+                "I don\u2019t think plain oatmeal was the point of that story."
+            ],
+            [
+                135,
+                "Guys."
+            ],
+            [
+                138,
+                "I don\u2019t know. Sheldon\u2019s so vulnerable right now."
+            ],
+            [
+                145,
+                "Of course. I get to be part of the first team to use radon markers to map the structures that\u2026"
+            ],
+            [
+                148,
+                "I know, but what if Sheldon\u2026"
+            ],
+            [
+                150,
+                "Hey, you don\u2019t know what goes on behind closed doors."
+            ],
+            [
+                152,
+                "All right, so you know."
+            ],
+            [
+                197,
+                "Hey. You going somewhere?"
+            ],
+            [
+                199,
+                "Sheldon, that isn\u2019t necessary."
+            ],
+            [
+                201,
+                "Thank you."
+            ],
+            [
+                203,
+                "Does this mean you\u2019re okay with me going?"
+            ],
+            [
+                205,
+                "I am."
+            ],
+            [
+                207,
+                "I wasn\u2019t thinking that."
+            ],
+            [
+                209,
+                "That\u2019s a risk I\u2019m willing to take."
+            ],
+            [
+                211,
+                "What if we don\u2019t fold our clothes at all?"
+            ],
+            [
+                229,
+                "Okay, the car is waiting. Do you want to walk me downstairs?"
+            ],
+            [
+                231,
+                "Is it?"
+            ],
+            [
+                233,
+                "Do you think it\u2019s possible you might enjoy being on your own for a little while?"
+            ],
+            [
+                235,
+                "I\u2019ll love you no matter what."
+            ],
+            [
+                237,
+                "We\u2019ll cross that bridge when we come to it."
+            ],
+            [
+                239,
+                "I will."
+            ],
+            [
+                241,
+                "Uh-huh."
+            ],
+            [
+                243,
+                "I don\u2019t know what they look like, but sure."
+            ],
+            [
+                245,
+                "I won\u2019t."
+            ],
+            [
+                247,
+                "Got it."
+            ],
+            [
+                249,
+                "Good thinking."
+            ],
+            [
+                251,
+                "Thank you. That means a lot."
+            ]
+        ],
+        "Bernadette": [
+            [
+                9,
+                "Yeah, you guys did this all on your own."
+            ],
+            [
+                12,
+                "So what happens next?"
+            ],
+            [
+                50,
+                "So you\u2019re gonna be roommates with Bert?"
+            ],
+            [
+                55,
+                "Hey, that\u2019s amazing."
+            ],
+            [
+                74,
+                "You\u2019re kidding. Why would they do that?"
+            ],
+            [
+                85,
+                "You doing okay?"
+            ],
+            [
+                87,
+                "Want me to put on some Neil Diamond? That always makes you feel better."
+            ],
+            [
+                89,
+                "You might be forgetting another accomplishment of the past year."
+            ],
+            [
+                91,
+                "Really? That\u2019s the importance you put on us having a baby?"
+            ],
+            [
+                132,
+                "Really? He doesn\u2019t put raisins or banana slices or anything in it?"
+            ],
+            [
+                137,
+                "You\u2019re still gonna go, right?"
+            ],
+            [
+                140,
+                "Well, distance might be nice. The last time a big project ended for Howie, he wouldn\u2019t stop following me around. He even went with me to get a mammogram."
+            ],
+            [
+                142,
+                "No, he wanted to get one with me, like some kind of weird couple\u2019s massage."
+            ],
+            [
+                144,
+                "You\u2019re excited about this opportunity, right?"
+            ],
+            [
+                147,
+                "You have to go."
+            ],
+            [
+                153,
+                "I\u2019m telling you, if you don\u2019t go you\u2019ll end up regretting it."
+            ],
+            [
+                155,
+                "Oh, great."
+            ],
+            [
+                157,
+                "Oh."
+            ],
+            [
+                159,
+                "It\u2019s too late for me. Save yourself."
+            ],
+            [
+                182,
+                "Come here, let\u2019s talk."
+            ],
+            [
+                184,
+                "Just listen. I don\u2019t know if you realize this, but whenever you\u2019re between projects, you tend to get a little insecure."
+            ],
+            [
+                186,
+                "A little clingy."
+            ],
+            [
+                188,
+                "Oh, oh, oh, okay, stop. Stop. I love when you\u2019re affectionate, but this is not coming from a good place."
+            ],
+            [
+                190,
+                "I signed us up for ballroom dance class."
+            ],
+            [
+                192,
+                "I made us have a baby."
+            ],
+            [
+                194,
+                "Bring it in."
+            ]
+        ],
+        "Raj": [
+            [
+                10,
+                "Without me."
+            ],
+            [
+                16,
+                "Without me."
+            ],
+            [
+                43,
+                "I may be moving out soon. I think I found a place to live."
+            ],
+            [
+                45,
+                "Really? You kept sending me apartment listings."
+            ],
+            [
+                49,
+                "Bert has a room for rent."
+            ],
+            [
+                51,
+                "Uh, no, it\u2019s, uh, pretty private, actually, it\u2019s over his garage. So the only time I\u2019ll see him is when he pulls his car in, does his laundry or practices drums in my dining room."
+            ],
+            [
+                57,
+                "Congratulations."
+            ],
+            [
+                162,
+                "I am, but I\u2019ll miss you guys."
+            ],
+            [
+                164,
+                "You could try saying that without smiling."
+            ],
+            [
+                167,
+                "Why?"
+            ],
+            [
+                169,
+                "Come on, Sheldon. Amy\u2019s only gone for a few months. And now that I\u2019m moving out, your old room is empty, so you can stay there whenever you want."
+            ],
+            [
+                171,
+                "Yeah, sure."
+            ],
+            [
+                214,
+                "Well, here\u2019s your key back."
+            ],
+            [
+                216,
+                "As soon as I have the place set up I\u2019m gonna have you guys over."
+            ],
+            [
+                218,
+                "I really can\u2019t thank you enough for taking me in. You know, I was in a pretty low place in my life."
+            ],
+            [
+                220,
+                "Anyway, uh, as I was saying, I was at a pretty low place in my life and, uh, if it wasn\u2019t for friends"
+            ],
+            [
+                223,
+                "I can\u2019t compete with that. Bye."
+            ]
+        ],
+        "Howard": [
+            [
+                13,
+                "Phase two, we test it, perfect it, and hope to live long enough to see the movie based on our lives starring more attractive versions of us."
+            ],
+            [
+                21,
+                "What the hell?"
+            ],
+            [
+                26,
+                "But the movie did just get good."
+            ],
+            [
+                31,
+                "But why would you do that?"
+            ],
+            [
+                39,
+                "This is all very upsetting."
+            ],
+            [
+                63,
+                "How can you work on something for a year and they just take it?"
+            ],
+            [
+                67,
+                "Although, if anyone\u2019s gonna clean out your apartment and disappear, it\u2019d be Penny."
+            ],
+            [
+                75,
+                "They wouldn\u2019t say."
+            ],
+            [
+                80,
+                "Give us some good news."
+            ],
+            [
+                86,
+                "Not really."
+            ],
+            [
+                88,
+                "No. Then you\u2019ll get all sexed up and I\u2019m not in the mood. I mean, an entire year wasted."
+            ],
+            [
+                90,
+                "Oh. Yeah, yeah, we brought life into the world. "
+            ],
+            [
+                92,
+                "I\u2019m happy about it, but, I mean, it\u2019s not like I did much. I mean, after the first three minutes it was pretty much all you."
+            ],
+            [
+                154,
+                "Hey, wait up."
+            ],
+            [
+                156,
+                "You left something at home. A big hug."
+            ],
+            [
+                158,
+                "I found it right next to these kisses."
+            ],
+            [
+                181,
+                "I missed you."
+            ],
+            [
+                183,
+                "Ooh. Sounds serious. Have I been a bad boy? Am I gonna get a spanking \u2019cause you know."
+            ],
+            [
+                185,
+                "Oh."
+            ],
+            [
+                187,
+                "I know and I\u2019m sorry."
+            ],
+            [
+                189,
+                "Well, excuse me, but what did you do when you worked on that allergy drug for two years and the FDA shut down your project?"
+            ],
+            [
+                191,
+                "Okay, and what did you do when they took you off the antifungal team?"
+            ],
+            [
+                193,
+                "So?"
+            ],
+            [
+                195,
+                "And now the movie just got rated R."
+            ]
+        ],
+        "Computer Voice": [
+            [
+                19,
+                "Leonard Hofstadter. Access granted."
+            ]
+        ],
+        "Col. Williams": [
+            [
+                30,
+                "Sounds like you get it."
+            ],
+            [
+                32,
+                "You guys completed phase one, we\u2019ll take it from here."
+            ],
+            [
+                34,
+                "I can\u2019t tell you that."
+            ],
+            [
+                36,
+                "I can\u2019t tell you that."
+            ],
+            [
+                40,
+                "I\u2019m sorry to hear that. As you know, the primary focus of the United States military is people\u2019s feelings."
+            ]
+        ],
+        "Col: Williams": [
+            [
+                38,
+                "That one I can tell you, yes."
+            ]
+        ],
+        "Penny (on phone)": [
+            [
+                94,
+                "So, did you tell him about Princeton yet?"
+            ]
+        ],
+        "Raj (outside)": [
+            [
+                179,
+                "Can I get my stuff? Sounds like it\u2019s gonna be a while."
+            ]
+        ],
+        "Sheldon (off)": [
+            [
+                219,
+                "Oh, Amy, you naughty vixen."
+            ],
+            [
+                226,
+                "Whoopee!"
+            ]
+        ],
+        "Amy (off)": [
+            [
+                222,
+                "My goodness, that form of stimulation is highly efficient."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "After a \u201cpreviously on\u201d segment."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Champagne, champagne."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "And for the world\u2019s tallest second grader, apple juice."
+        ],
+        [
+            "Sheldon",
+            "Thank you. No bendy straw, some party."
+        ],
+        [
+            "Leonard",
+            "Hey, a toast. Thank you all for your support while we worked on our Air Force project. And please know that we could not have done it without you, so cheers."
+        ],
+        [
+            "All",
+            "Cheers."
+        ],
+        [
+            "Amy",
+            "You know, it\u2019s nice of you to acknowledge us, but this is your accomplishment."
+        ],
+        [
+            "Bernadette",
+            "Yeah, you guys did this all on your own."
+        ],
+        [
+            "Raj",
+            "Without me."
+        ],
+        [
+            "Sheldon",
+            "To success without Raj."
+        ],
+        [
+            "Bernadette",
+            "So what happens next?"
+        ],
+        [
+            "Howard",
+            "Phase two, we test it, perfect it, and hope to live long enough to see the movie based on our lives starring more attractive versions of us."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I\u2019ll definitely live long enough. Vitamin C."
+        ],
+        [
+            "Leonard",
+            "First thing tomorrow morning, we\u2019re back at it."
+        ],
+        [
+            "Raj",
+            "Without me."
+        ],
+        [
+            "Sheldon",
+            "I hope his character doesn\u2019t make it into the movie, he\u2019s kind of a bummer."
+        ],
+        [
+            "Scene",
+            "Outside the lab."
+        ],
+        [
+            "Computer Voice",
+            "Leonard Hofstadter. Access granted."
+        ],
+        [
+            "Leonard",
+            "Hmm. I don\u2019t care if this thing is burning out my retinas, it makes me feel special. Now, before we field test, I think we\u2026"
+        ],
+        [
+            "Howard",
+            "What the hell?"
+        ],
+        [
+            "Leonard",
+            "Where is everything?"
+        ],
+        [
+            "Sheldon",
+            "Who else has access to this room?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s a secure lab in a classified facility, only the U.S. government and us."
+        ],
+        [
+            "Sheldon",
+            "This is disconcerting. "
+        ],
+        [
+            "Howard",
+            "But the movie did just get good."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The laboratory ."
+        ],
+        [
+            "Leonard",
+            "Sir, I, I, I\u2019m sorry but I just don\u2019t get it. You came into our lab in the middle of the night and took our prototype and all of our research and didn\u2019t even tell us?"
+        ],
+        [
+            "Col. Williams",
+            "Sounds like you get it."
+        ],
+        [
+            "Howard",
+            "But why would you do that?"
+        ],
+        [
+            "Col. Williams",
+            "You guys completed phase one, we\u2019ll take it from here."
+        ],
+        [
+            "Sheldon",
+            "Where did you move it?"
+        ],
+        [
+            "Col. Williams",
+            "I can\u2019t tell you that."
+        ],
+        [
+            "Leonard",
+            "Are you implementing phase two?"
+        ],
+        [
+            "Col. Williams",
+            "I can\u2019t tell you that."
+        ],
+        [
+            "Sheldon",
+            "Wait, so you\u2019re just going to take all the work we\u2019ve done for the last year and toss us aside?"
+        ],
+        [
+            "Col: Williams",
+            "That one I can tell you, yes."
+        ],
+        [
+            "Howard",
+            "This is all very upsetting."
+        ],
+        [
+            "Col. Williams",
+            "I\u2019m sorry to hear that. As you know, the primary focus of the United States military is people\u2019s feelings."
+        ],
+        [
+            "Sheldon",
+            "If that\u2019s sarcasm, please save it for our enemies."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "I may be moving out soon. I think I found a place to live."
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019m sorry to hear that."
+        ],
+        [
+            "Raj",
+            "Really? You kept sending me apartment listings."
+        ],
+        [
+            "Penny",
+            "Um, well, I, yeah, you got me."
+        ],
+        [
+            "Amy",
+            "Where are you moving?"
+        ],
+        [
+            "Penny",
+            "And when? But also where?"
+        ],
+        [
+            "Raj",
+            "Bert has a room for rent."
+        ],
+        [
+            "Bernadette",
+            "So you\u2019re gonna be roommates with Bert?"
+        ],
+        [
+            "Raj",
+            "Uh, no, it\u2019s, uh, pretty private, actually, it\u2019s over his garage. So the only time I\u2019ll see him is when he pulls his car in, does his laundry or practices drums in my dining room."
+        ],
+        [
+            "Amy",
+            "Well, good for you. I actually have a little news myself."
+        ],
+        [
+            "Penny",
+            "Okay, we\u2019re just gonna circle back to when he\u2019s moving out? Okay, that\u2019s cool."
+        ],
+        [
+            "Amy",
+            "I was, uh, asked to be a visiting researcher at Princeton."
+        ],
+        [
+            "Bernadette",
+            "Hey, that\u2019s amazing."
+        ],
+        [
+            "Penny",
+            "Good for you. "
+        ],
+        [
+            "Raj",
+            "Congratulations."
+        ],
+        [
+            "Amy",
+            "Thanks, but the thing is I\u2019ll be gone for a few months and I don\u2019t know how Sheldon\u2019s gonna feel about that."
+        ],
+        [
+            "Penny",
+            "Oh, come on, he\u2019s a grown man, he can take care of himself."
+        ],
+        [
+            "Amy",
+            "You really believe that?"
+        ],
+        [
+            "Penny",
+            "Once again, you got me."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Howard",
+            "How can you work on something for a year and they just take it?"
+        ],
+        [
+            "Leonard",
+            "I can\u2019t believe the Air Force would treat us like that."
+        ],
+        [
+            "Sheldon",
+            "You know, I have a good mind to stop paying my taxes. It\u2019s too bad I enjoy doing them so much. The Air Force did it again. They\u2019re erasing our lives."
+        ],
+        [
+            "Leonard",
+            "Third floor, wrong apartment."
+        ],
+        [
+            "Howard",
+            "Although, if anyone\u2019s gonna clean out your apartment and disappear, it\u2019d be Penny."
+        ],
+        [
+            "Leonard",
+            "She might disappear, but she\u2019s definitely not cleaning anything."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "It\u2019s okay, everything\u2019s here."
+        ],
+        [
+            "Penny",
+            "Oh, hey, what\u2019s going on?"
+        ],
+        [
+            "Leonard",
+            "You won\u2019t believe it, the military confiscated our project."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Bernadette",
+            "You\u2019re kidding. Why would they do that?"
+        ],
+        [
+            "Howard",
+            "They wouldn\u2019t say."
+        ],
+        [
+            "Sheldon",
+            "I feel so betrayed. You know, all my life I thought Uncle Sam was a friendly uncle who brought you presents. Turns out he\u2019s the other kind."
+        ],
+        [
+            "Amy",
+            "Sheldon, I\u2019m so sorry."
+        ],
+        [
+            "Sheldon",
+            "Thank you. Can we just talk about something else?"
+        ],
+        [
+            "Leonard",
+            "Yeah, what\u2019s going on with you guys?"
+        ],
+        [
+            "Howard",
+            "Give us some good news."
+        ],
+        [
+            "Penny",
+            "Amy\u2019s got some news."
+        ],
+        [
+            "Amy",
+            "Yeah, um, Raj is moving out."
+        ],
+        [
+            "Leonard",
+            "Oh, no. When?"
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s van. "
+        ],
+        [
+            "Bernadette",
+            "You doing okay?"
+        ],
+        [
+            "Howard",
+            "Not really."
+        ],
+        [
+            "Bernadette",
+            "Want me to put on some Neil Diamond? That always makes you feel better."
+        ],
+        [
+            "Howard",
+            "No. Then you\u2019ll get all sexed up and I\u2019m not in the mood. I mean, an entire year wasted."
+        ],
+        [
+            "Bernadette",
+            "You might be forgetting another accomplishment of the past year."
+        ],
+        [
+            "Howard",
+            "Oh. Yeah, yeah, we brought life into the world. "
+        ],
+        [
+            "Bernadette",
+            "Really? That\u2019s the importance you put on us having a baby?"
+        ],
+        [
+            "Howard",
+            "I\u2019m happy about it, but, I mean, it\u2019s not like I did much. I mean, after the first three minutes it was pretty much all you."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny (on phone)",
+            "So, did you tell him about Princeton yet?"
+        ],
+        [
+            "Amy",
+            "No, I\u2019m waiting till he\u2019s in a good mood."
+        ],
+        [
+            "Penny",
+            "Oh, sweetie, you might not live that long."
+        ],
+        [
+            "Amy",
+            "I don\u2019t know, maybe I shouldn\u2019t go."
+        ],
+        [
+            "Penny",
+            "Oh, stop it, he\u2019ll be fine."
+        ],
+        [
+            "Amy",
+            "I guess. And he\u2019ll have you and Leonard right across the hall the whole time."
+        ],
+        [
+            "Penny",
+            "Oh, damn, wait, you know, maybe you shouldn\u2019t go."
+        ],
+        [
+            "Amy",
+            "Got to go. Morning."
+        ],
+        [
+            "Sheldon",
+            "I apologize for exceeding my allotted bathroom time."
+        ],
+        [
+            "Amy",
+            "Are you feeling okay?"
+        ],
+        [
+            "Sheldon",
+            "Not really. Apparently grief can make one less regular."
+        ],
+        [
+            "Amy",
+            "Oh, I\u2019m sorry to hear that."
+        ],
+        [
+            "Sheldon",
+            "No, I sat and I sat, but to no avail."
+        ],
+        [
+            "Amy",
+            "Oh, the more details, the more sorry. Well, maybe this\u2019ll cheer you up. I made your favorite oatmeal, plain."
+        ],
+        [
+            "Sheldon",
+            "What\u2019s the occasion?"
+        ],
+        [
+            "Amy",
+            "No occasion, I just wanted to do something nice for you."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re so kind. You know, I don\u2019t know how I ever got by without you."
+        ],
+        [
+            "Amy",
+            "Oh. That\u2019s sweet, but you, you did just fine on your own."
+        ],
+        [
+            "Sheldon",
+            "Well, I thought that, too, but I\u2019ve come to realize, I am completely dependent on you."
+        ],
+        [
+            "Amy",
+            "Sheldon, you\u2019re, you\u2019re being silly."
+        ],
+        [
+            "Sheldon",
+            "No, to wake up every morning and know you\u2019re there is a great comfort to me. Mmm, tasteless. How do you do it?"
+        ],
+        [
+            "Amy",
+            "You know, what you need to do is put this Air Force project behind you and just dive into something new."
+        ],
+        [
+            "Sheldon",
+            "Well, there is our quantum cognition experiment. You and I could spend more time on that."
+        ],
+        [
+            "Amy",
+            "Oh, I don\u2019t know, I mean, let\u2019s say we succeed in proving that our consciousness creates reality. I mean, what will we have really accomplished? You know, a loaf of bread\u2019s still three bucks."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m confused. You\u2019re always saying that you want to spend more time with me."
+        ],
+        [
+            "Amy",
+            "That is true, I have said that."
+        ],
+        [
+            "Sheldon",
+            "Well, a lot, it\u2019s very annoying. Has something changed? Um, is there something that you\u2019re not telling me?"
+        ],
+        [
+            "Amy",
+            "I was offered a summer research fellowship at Princeton."
+        ],
+        [
+            "Sheldon",
+            "Princeton? A fine institution. The place where Albert Einstein taught. And where Leonard got his PhD, so it may have gone downhill."
+        ],
+        [
+            "Amy",
+            "Yeah, that\u2019s the one."
+        ],
+        [
+            "Sheldon",
+            "Well, that\u2019s wonderful. Congratulations."
+        ],
+        [
+            "Amy",
+            "Well, I haven\u2019t accepted it yet. I wanted to talk to you first."
+        ],
+        [
+            "Sheldon",
+            "What is there to talk about? You have to take it. It\u2019s important."
+        ],
+        [
+            "Amy",
+            "So are you."
+        ],
+        [
+            "Sheldon",
+            "Thank you, but I\u2019ll be fine."
+        ],
+        [
+            "Amy",
+            "Are, are you sure?"
+        ],
+        [
+            "Sheldon",
+            "Yes. I may have lost my guidance system and my girlfriend, but I still have a colon full of yesterday\u2019s meals to keep me company. Although, thanks to your high fibre breakfast, I\u2019m sure that\u2019ll be leaving me, too."
+        ],
+        [
+            "Scene",
+            "A park. "
+        ],
+        [
+            "Bernadette",
+            "Really? He doesn\u2019t put raisins or banana slices or anything in it?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t think plain oatmeal was the point of that story."
+        ],
+        [
+            "Penny",
+            "I mean, I like a little brown sugar."
+        ],
+        [
+            "Amy",
+            "Guys."
+        ],
+        [
+            "Penny",
+            "Sorry."
+        ],
+        [
+            "Bernadette",
+            "You\u2019re still gonna go, right?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know. Sheldon\u2019s so vulnerable right now."
+        ],
+        [
+            "Penny",
+            "Oh, come on. Look, if the roles were reversed, he\u2019d be on the first train to New Jersey, or the second train if there were teenagers on the first one."
+        ],
+        [
+            "Bernadette",
+            "Well, distance might be nice. The last time a big project ended for Howie, he wouldn\u2019t stop following me around. He even went with me to get a mammogram."
+        ],
+        [
+            "Penny",
+            "Well, what\u2019s wrong with that?"
+        ],
+        [
+            "Bernadette",
+            "No, he wanted to get one with me, like some kind of weird couple\u2019s massage."
+        ],
+        [
+            "Penny",
+            "And yet you bore his child. Neato."
+        ],
+        [
+            "Bernadette",
+            "You\u2019re excited about this opportunity, right?"
+        ],
+        [
+            "Amy",
+            "Of course. I get to be part of the first team to use radon markers to map the structures that\u2026"
+        ],
+        [
+            "Penny",
+            "Okay, a simple yes will do."
+        ],
+        [
+            "Bernadette",
+            "You have to go."
+        ],
+        [
+            "Amy",
+            "I know, but what if Sheldon\u2026"
+        ],
+        [
+            "Penny",
+            "Okay, listen to me. Your relationship can handle being long distance for a while. It\u2019s not like you two are very physical."
+        ],
+        [
+            "Amy",
+            "Hey, you don\u2019t know what goes on behind closed doors."
+        ],
+        [
+            "Penny",
+            "A lot of lectures?"
+        ],
+        [
+            "Amy",
+            "All right, so you know."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m telling you, if you don\u2019t go you\u2019ll end up regretting it."
+        ],
+        [
+            "Howard",
+            "Hey, wait up."
+        ],
+        [
+            "Bernadette",
+            "Oh, great."
+        ],
+        [
+            "Howard",
+            "You left something at home. A big hug."
+        ],
+        [
+            "Bernadette",
+            "Oh."
+        ],
+        [
+            "Howard",
+            "I found it right next to these kisses."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s too late for me. Save yourself."
+        ],
+        [
+            "Scene",
+            "The stairwell. "
+        ],
+        [
+            "Leonard",
+            "So, are you excited to have your own place again?"
+        ],
+        [
+            "Raj",
+            "I am, but I\u2019ll miss you guys."
+        ],
+        [
+            "Leonard",
+            "Ah, we\u2019ll miss you, too."
+        ],
+        [
+            "Raj",
+            "You could try saying that without smiling."
+        ],
+        [
+            "Leonard",
+            "I\u2019m trying. This is the best I can do. What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "What does it look like? I\u2019m playing sad harmonica in an apartment as empty as my heart."
+        ],
+        [
+            "Raj",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "I got the blues. My baby done left me."
+        ],
+        [
+            "Raj",
+            "Come on, Sheldon. Amy\u2019s only gone for a few months. And now that I\u2019m moving out, your old room is empty, so you can stay there whenever you want."
+        ],
+        [
+            "Leonard",
+            "Uh, could I talk to you in the hall for a sec?"
+        ],
+        [
+            "Raj",
+            "Yeah, sure."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you\u2019re being silly."
+        ],
+        [
+            "Sheldon",
+            "Am I? Yesterday I had an Air Force project, a girlfriend who lived with me, and my good friend Raj right across the hall."
+        ],
+        [
+            "Leonard",
+            "Do you really care about that last one?"
+        ],
+        [
+            "Sheldon",
+            "No, but that list was sounding a little thin."
+        ],
+        [
+            "Leonard",
+            "Instead of dwelling on the negative, think about this. Your girlfriend was given an amazing opportunity, which gives you an opportunity to show her that you\u2019re a loving and supportive boyfriend."
+        ],
+        [
+            "Sheldon",
+            "So trick her."
+        ],
+        [
+            "Leonard",
+            "All right, let me start again. Uh, you and Amy\u2026"
+        ],
+        [
+            "Raj (outside)",
+            "Can I get my stuff? Sounds like it\u2019s gonna be a while."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bathroom. "
+        ],
+        [
+            "Howard",
+            "I missed you."
+        ],
+        [
+            "Bernadette",
+            "Come here, let\u2019s talk."
+        ],
+        [
+            "Howard",
+            "Ooh. Sounds serious. Have I been a bad boy? Am I gonna get a spanking \u2019cause you know."
+        ],
+        [
+            "Bernadette",
+            "Just listen. I don\u2019t know if you realize this, but whenever you\u2019re between projects, you tend to get a little insecure."
+        ],
+        [
+            "Howard",
+            "Oh."
+        ],
+        [
+            "Bernadette",
+            "A little clingy."
+        ],
+        [
+            "Howard",
+            "I know and I\u2019m sorry."
+        ],
+        [
+            "Bernadette",
+            "Oh, oh, oh, okay, stop. Stop. I love when you\u2019re affectionate, but this is not coming from a good place."
+        ],
+        [
+            "Howard",
+            "Well, excuse me, but what did you do when you worked on that allergy drug for two years and the FDA shut down your project?"
+        ],
+        [
+            "Bernadette",
+            "I signed us up for ballroom dance class."
+        ],
+        [
+            "Howard",
+            "Okay, and what did you do when they took you off the antifungal team?"
+        ],
+        [
+            "Bernadette",
+            "I made us have a baby."
+        ],
+        [
+            "Howard",
+            "So?"
+        ],
+        [
+            "Bernadette",
+            "Bring it in."
+        ],
+        [
+            "Howard",
+            "And now the movie just got rated R."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "Hey. You going somewhere?"
+        ],
+        [
+            "Sheldon",
+            "No, but you are, so I got you this as a present."
+        ],
+        [
+            "Amy",
+            "Sheldon, that isn\u2019t necessary."
+        ],
+        [
+            "Sheldon",
+            "No, it is. Leonard pointed out to me that I\u2019m not always a loving and supportive boyfriend, so here\u2019s some quality luggage."
+        ],
+        [
+            "Amy",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "The salesman said it could survive a plane crash, so perhaps you should fly inside it."
+        ],
+        [
+            "Amy",
+            "Does this mean you\u2019re okay with me going?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m not looking forward to it, but it is a wonderful opportunity and you need to take it. Besides, Princeton is in New Jersey, so it\u2019s not like you\u2019re gonna want to stay. Uh, I know it\u2019s not your birthday, but if you\u2019re interested\u2026"
+        ],
+        [
+            "Amy",
+            "I am."
+        ],
+        [
+            "Sheldon",
+            "Okay. Oh, and just to be clear, I\u2019m not being intimate with you in order to keep you from going."
+        ],
+        [
+            "Amy",
+            "I wasn\u2019t thinking that."
+        ],
+        [
+            "Sheldon",
+            "Well, no, it\u2019s just, I\u2019m just warning you, you know, if you find yourself 3,000 miles away and craving a hit of this, you know, I can\u2019t Skype it to you."
+        ],
+        [
+            "Amy",
+            "That\u2019s a risk I\u2019m willing to take."
+        ],
+        [
+            "Sheldon",
+            "All right, then. Let\u2019s go to the bedroom, remove our clothes, fold them neatly and engage in frenzied lovemaking."
+        ],
+        [
+            "Amy",
+            "What if we don\u2019t fold our clothes at all?"
+        ],
+        [
+            "Sheldon",
+            "Or, what if we fold them?"
+        ],
+        [
+            "Scene",
+            "The apartment doorway. "
+        ],
+        [
+            "Raj",
+            "Well, here\u2019s your key back."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Raj",
+            "As soon as I have the place set up I\u2019m gonna have you guys over."
+        ],
+        [
+            "Penny",
+            "Oh, we would love that."
+        ],
+        [
+            "Raj",
+            "I really can\u2019t thank you enough for taking me in. You know, I was in a pretty low place in my life."
+        ],
+        [
+            "Sheldon (off)",
+            "Oh, Amy, you naughty vixen."
+        ],
+        [
+            "Raj",
+            "Anyway, uh, as I was saying, I was at a pretty low place in my life and, uh, if it wasn\u2019t for friends"
+        ],
+        [
+            "Scene",
+            "like you\u2026"
+        ],
+        [
+            "Amy (off)",
+            "My goodness, that form of stimulation is highly efficient."
+        ],
+        [
+            "Raj",
+            "I can\u2019t compete with that. Bye."
+        ],
+        [
+            "Leonard",
+            "Should we give them their privacy?"
+        ],
+        [
+            "Penny",
+            "I want to, but I don\u2019t think I can."
+        ],
+        [
+            "Sheldon (off)",
+            "Whoopee!"
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019m good now."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "Okay, the car is waiting. Do you want to walk me downstairs?"
+        ],
+        [
+            "Sheldon",
+            "Of course. Here, here, let me. I\u2019ve been doing a little research on New Jersey, and I was delighted to learn that their chief agricultural product is sod."
+        ],
+        [
+            "Amy",
+            "Is it?"
+        ],
+        [
+            "Sheldon",
+            "Hmm, yes. Yeah, perhaps I\u2019ve been harder on them than they deserve."
+        ],
+        [
+            "Amy",
+            "Do you think it\u2019s possible you might enjoy being on your own for a little while?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s hard to say. I\u2019ve never really lived by myself. What if I become strange and eccentric?"
+        ],
+        [
+            "Amy",
+            "I\u2019ll love you no matter what."
+        ],
+        [
+            "Sheldon",
+            "Howard Hughes saved his urine in milk bottles."
+        ],
+        [
+            "Amy",
+            "We\u2019ll cross that bridge when we come to it."
+        ],
+        [
+            "Sheldon",
+            "And you\u2019ll text me when you arrive at the airport?"
+        ],
+        [
+            "Amy",
+            "I will."
+        ],
+        [
+            "Sheldon",
+            "And when you\u2019re at the gate?"
+        ],
+        [
+            "Amy",
+            "Uh-huh."
+        ],
+        [
+            "Sheldon",
+            "And if you see any actors from Game of Thrones in first class?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know what they look like, but sure."
+        ],
+        [
+            "Sheldon",
+            "And don\u2019t forget to Skype me when you arrive."
+        ],
+        [
+            "Amy",
+            "I won\u2019t."
+        ],
+        [
+            "Sheldon",
+            "And every morning."
+        ],
+        [
+            "Amy",
+            "Got it."
+        ],
+        [
+            "Sheldon",
+            "Now of course, my 9am is your noon, so let\u2019s avoid the whole good morning, good afternoon minefield, and let\u2019s just say hello. "
+        ],
+        [
+            "Amy",
+            "Good thinking."
+        ],
+        [
+            "Sheldon",
+            "And just remember, I am proud of you and I support you in all that you do."
+        ],
+        [
+            "Amy",
+            "Thank you. That means a lot."
+        ],
+        [
+            "Sheldon",
+            "Oh, and one last thing. If you find yourself working with a male scientist who\u2019s as smart as me, as tall as me and has hair like Thor, well, then I want you to step away from the situation and call me immediately."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-23-the-gyroscopic-collapse/"
+}

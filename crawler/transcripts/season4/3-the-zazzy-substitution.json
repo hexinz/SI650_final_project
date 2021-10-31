@@ -1,0 +1,2304 @@
+{
+    "Season": 4,
+    "Episode": 3,
+    "Title": "the zazzy substitution",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. "
+            ],
+            [
+                31,
+                "Credits sequence."
+            ],
+            [
+                33,
+                "The Cheesecake Factory"
+            ],
+            [
+                78,
+                "The stairwell."
+            ],
+            [
+                97,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                128,
+                "The University Cafeteria."
+            ],
+            [
+                163,
+                "The laundry room. "
+            ],
+            [
+                176,
+                "The cafeteria."
+            ],
+            [
+                202,
+                "The apartment. Leonard arrives."
+            ],
+            [
+                225,
+                "The apartment."
+            ],
+            [
+                247,
+                "The kitchen."
+            ],
+            [
+                281,
+                "Outside. Sheldon is sitting at a table with a sign reading \u201cCats $20\u201d)"
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "All right, I\u2019m ready for my next question."
+            ],
+            [
+                3,
+                "Uganda."
+            ],
+            [
+                5,
+                "Kenya rises to power on the export of rhinoceroses. A Central African power block is formed, colonizing North Africa and Europe. When war breaks out, no one can afford the luxury of a rhino. Kenya withers, Uganda triumphs."
+            ],
+            [
+                7,
+                "In a world where a piano is a weapon, not a musical instrument, on what does Scott Joplin play The Maple Leaf Rag?"
+            ],
+            [
+                9,
+                "Defend."
+            ],
+            [
+                11,
+                "You\u2019re right. My apologies."
+            ],
+            [
+                13,
+                "It\u2019s a game we invented. It\u2019s called Counterfactuals."
+            ],
+            [
+                15,
+                "It\u2019s fun for ages eight to eighty. Join us."
+            ],
+            [
+                17,
+                "You\u2019re in luck, this is an easy one. In a world where mankind is ruled by a giant intelligent beaver, what food is no longer consumed?"
+            ],
+            [
+                19,
+                "Leonard, be serious. We\u2019re playing a game here."
+            ],
+            [
+                21,
+                "Incorrect. Obviously, the answer is cheese Danish."
+            ],
+            [
+                26,
+                "Oh, yes. You should\u2019ve been here for the great Jenga tantrum of 2008."
+            ],
+            [
+                46,
+                "Greetings. You all remember Amy Farrah Fowler."
+            ],
+            [
+                50,
+                "Sorry we\u2019re late."
+            ],
+            [
+                54,
+                "I believe she\u2019s experiencing her menses."
+            ],
+            [
+                60,
+                "A juvenile amalgamation of our names. Sheldon and Amy, \u00a0Shamy."
+            ],
+            [
+                66,
+                "I should\u2019ve warned you, one has to navigate a labyrinth of social nonsense before one can be fed here."
+            ],
+            [
+                68,
+                "It\u2019s how they lure you in. I believe it\u2019s called bait and switch."
+            ],
+            [
+                77,
+                "They can\u2019t function without me. I\u2019m the social glue that holds this little group together. You\u2019re welcome."
+            ],
+            [
+                81,
+                "She\u2019s not my girlfriend. She\u2019s a girl and she\u2019s my friend, but there\u2019s no touching or unsanitary exchange of saliva."
+            ],
+            [
+                83,
+                "Although, for the record, on one occasion, she licked her thumb to remove raspberry jelly from the corner of my mouth. It\u2019s an action we both regret to this day."
+            ],
+            [
+                85,
+                "Oh, I never identified with the rebel alliance. Despite their tendency to build Death Stars, I\u2019ve always been more of an empire man."
+            ],
+            [
+                87,
+                "I know what your point is. You\u2019re intimidated by Amy\u2019s intellect. To that I say, buck up."
+            ],
+            [
+                89,
+                "So?"
+            ],
+            [
+                91,
+                "Are you suggesting I terminate my relationship with Amy?"
+            ],
+            [
+                93,
+                "May I point out that for eight long months, I suffered in silence as your female companion filled our apartment with her off-key country music caterwauling, the unappetizing spectacle of her grinding a pumice stone against her calloused feet in our living room, and night after night of uninformative TV documentaries about the Jersey Shore."
+            ],
+            [
+                95,
+                "Yes. And I\u2019d thank you to do the same."
+            ],
+            [
+                139,
+                "Greetings."
+            ],
+            [
+                141,
+                "I brought Amy here to show her some of the work I\u2019m doing."
+            ],
+            [
+                143,
+                "Do I detect a hint of condescension?"
+            ],
+            [
+                146,
+                "Are you suggesting the work of a neurobiologist like Babinski could ever rise to the significance of a physicist like Clarke-Maxwell or Dirac?"
+            ],
+            [
+                148,
+                "You take that back."
+            ],
+            [
+                151,
+                "Excuse me, but a grand unified theory, insofar as it explains everything, will ipso facto explain neurobiology."
+            ],
+            [
+                153,
+                "That\u2019s the rankest psychologism, and was conclusively revealed as hogwash by Gottlob Frege in the 1890s!"
+            ],
+            [
+                155,
+                "I agree. I move our relationship terminate immediately."
+            ],
+            [
+                157,
+                "There being no objections\u2026"
+            ],
+            [
+                159,
+                "The motion carries. Good day, Amy Farrah Fowler."
+            ],
+            [
+                162,
+                "Amen to that."
+            ],
+            [
+                165,
+                "Hello."
+            ],
+            [
+                167,
+                "A breakup would imply she was my girlfriend. She was a girl who was my friend who is now a girl who is not my friend."
+            ],
+            [
+                169,
+                "Regarding what?"
+            ],
+            [
+                171,
+                "I don\u2019t follow."
+            ],
+            [
+                173,
+                "Penny, I assure you, I\u2019m fine. My relationship with Amy was purely intellectual. There were no emotional bonds, the severing of which would cause me any discomfort. The relationship simply outlived its utility, and I\u2019m continuing on with my life as before."
+            ],
+            [
+                175,
+                "Now, if you\u2019ll excuse me, I\u2019m off to buy a pussycat."
+            ],
+            [
+                194,
+                "Oh, gentlemen."
+            ],
+            [
+                196,
+                "My apologies. Raj, Howard, I\u2019d like you to meet Dr. Robert Oppenheimer."
+            ],
+            [
+                199,
+                "Now, if you\u2019ll excuse me, the father of the atomic bomb wants a saucer of milk."
+            ],
+            [
+                204,
+                "Robert Oppenheimer was lonely."
+            ],
+            [
+                206,
+                "Yes. This is Enrico Fermi, Richard Feynman, Edward Teller, Otto Frisch, and Zazzles."
+            ],
+            [
+                208,
+                "I was going to name him Herman von Helmholtz, but he\u2019s so zazzy."
+            ],
+            [
+                210,
+                "About what?"
+            ],
+            [
+                212,
+                "Clowder."
+            ],
+            [
+                214,
+                "A group of cats is a clowder. Or a glaring."
+            ],
+            [
+                216,
+                "It\u2019s the kind of thing you ought to know now that we have one."
+            ],
+            [
+                218,
+                "It wasn\u2019t a breakup. A breakup would imply that Amy was my girlfriend."
+            ],
+            [
+                220,
+                "You didn\u2019t break up, she dumped you."
+            ],
+            [
+                222,
+                "I was there. She dumped you."
+            ],
+            [
+                224,
+                "You don\u2019t have to sell me on cats, Leonard. I\u2019m already a fan. All right, fellas, who\u2019s in the mood for Fancy Feast? Well, that\u2019s not fancy at all."
+            ],
+            [
+                235,
+                "Come in. (They enter. The room is full of cats.)"
+            ],
+            [
+                237,
+                "Mom, what an unexpected pleasure."
+            ],
+            [
+                239,
+                "I\u2019d like you to meet Oppenheimer, Frisch, Panofsky, Feynman, Weisskopf\u2026"
+            ],
+            [
+                241,
+                "What are you doing here?"
+            ],
+            [
+                243,
+                "Oh, that\u2019s preposterous. I\u2019m not pining over anyone."
+            ],
+            [
+                245,
+                "I do not agree. Cats make wonderful companions. They don\u2019t argue or question my intellectual authority, and this little guy here, I think you\u2019ll find to be quite zazzy."
+            ],
+            [
+                249,
+                "Coming!"
+            ],
+            [
+                251,
+                "Aw.(Enters to find Amy) What is she doing here?"
+            ],
+            [
+                254,
+                "Well, rest assured, I am in full possession of my faculties."
+            ],
+            [
+                257,
+                "All right, but you\u2019re not fooling me. Whenever you say we have to talk, it means you want me to listen."
+            ],
+            [
+                259,
+                "Yes, ma\u2019am."
+            ],
+            [
+                261,
+                "That\u2019s a peculiar conclusion. By any standard, Amy is more similar to me than anyone I\u2019ve ever met."
+            ],
+            [
+                263,
+                "Well, whether you see it or not is irrelevant. I can\u2019t see subatomic particles, but nevertheless, they\u2019re there."
+            ],
+            [
+                265,
+                "A physics point."
+            ],
+            [
+                268,
+                "Amy, after consideration, I believe we may have acted rashly. I propose we resume our relationship and attempt to resolve our differences."
+            ],
+            [
+                270,
+                "I\u2019ll go as high as 40."
+            ],
+            [
+                272,
+                "Done. You understand that moving forward, we deal with the fact that my mother does not approve of you?"
+            ],
+            [
+                274,
+                "Would you like to see my cats?"
+            ],
+            [
+                276,
+                "Ah, then you may find Zazzles a little cloying."
+            ],
+            [
+                282,
+                "Thank you, Amy. Here\u2019s your cat. And here\u2019s your $20."
+            ],
+            [
+                284,
+                "Thank you, Amy. Here\u2019s your cat. And here\u2019s your $20."
+            ]
+        ],
+        "Amy": [
+            [
+                2,
+                "In a world where rhinoceroses are domesticated pets, who wins the Second World War?"
+            ],
+            [
+                4,
+                "Defend."
+            ],
+            [
+                6,
+                "Correct. My turn."
+            ],
+            [
+                8,
+                "Tuned bayonets."
+            ],
+            [
+                10,
+                "Isn\u2019t it obvious?"
+            ],
+            [
+                14,
+                "We postulate an alternate world that differs from ours in one key aspect and then pose questions to each other."
+            ],
+            [
+                23,
+                "In a world ruled by a giant beaver, mankind builds many dams to please the beaver overlord. The low-lying city of Copenhagen is flooded. Thousands die. Devastated, the Danes never invent their namesake pastry. How does one miss that?"
+            ],
+            [
+                25,
+                "Is he always like this when he loses?"
+            ],
+            [
+                28,
+                "Perhaps it would be kinder to play a game more suited to his abilities. We\u2019ll close our eyes and count to ten while you hide."
+            ],
+            [
+                30,
+                "Very good, Leonard. But next time, don\u2019t tell us where you\u2019re hiding."
+            ],
+            [
+                49,
+                "Hello."
+            ],
+            [
+                51,
+                "I must take responsibility. I had to stop for feminine hygiene supplies."
+            ],
+            [
+                55,
+                "Actually, I\u2019m not. In order to avoid surprises, I wear them all the time."
+            ],
+            [
+                59,
+                "Shamy?"
+            ],
+            [
+                61,
+                "Oh. I don\u2019t like that. Don\u2019t do that."
+            ],
+            [
+                63,
+                "Well, just recently, I learned that you refer to us as Shamy, and I don\u2019t like that."
+            ],
+            [
+                65,
+                "Like everybody else\u2019s. Subject to entropy, decay and eventual death. Thank you for asking. Why is she not taking our order?"
+            ],
+            [
+                67,
+                "Really? I assumed an establishment called the Cheesecake Factory would function more efficiently."
+            ],
+            [
+                71,
+                "You\u2019re right, he\u2019s a festival of humdrum chitchat."
+            ],
+            [
+                74,
+                "I doubt you\u2019d understand. Sheldon tells me you only have a master\u2019s degree."
+            ],
+            [
+                76,
+                "I\u2019m curious as to why we\u2019re not eating alone."
+            ],
+            [
+                142,
+                "It\u2019s very impressive, for theoretical work."
+            ],
+            [
+                144,
+                "I\u2019m sorry, was I being too subtle? I meant compared to the real-world applications of neurobiology, theoretical physics is, what\u2019s the word I\u2019m looking for? Hmm, cute."
+            ],
+            [
+                147,
+                "I\u2019m stating it outright. Babinski eats Dirac for breakfast and defecates Clarke-Maxwell."
+            ],
+            [
+                149,
+                "Absolutely not. My colleagues and I are mapping the neurological substrates that subserve global information processing, which is required for all cognitive reasoning, including scientific inquiry, making my research ipso facto prior in the ordo cognoscendi. That means it\u2019s better than his research, and by extension, of course, yours."
+            ],
+            [
+                152,
+                "Yes, but if I\u2019m successful, I will be able to map and reproduce your thought processes in deriving a grand unified theory, and therefore, subsume your conclusions under my paradigm."
+            ],
+            [
+                154,
+                "We appear to have reached an impasse."
+            ],
+            [
+                156,
+                "Seconded."
+            ],
+            [
+                160,
+                "Good day, Sheldon Cooper."
+            ],
+            [
+                253,
+                "Your mother thinks you might be losing your mind over me. As a neurobiologist, I was curious."
+            ],
+            [
+                264,
+                "Excellent point."
+            ],
+            [
+                266,
+                "Touche."
+            ],
+            [
+                269,
+                "I\u2019ll agree to that only if you\u2019ll stipulate that 80% of our difficulties were caused by you."
+            ],
+            [
+                271,
+                "Sixty-five."
+            ],
+            [
+                273,
+                "I do. I find being cast in the role of bad girl oddly titillating."
+            ],
+            [
+                275,
+                "I would. I love cats. They\u2019re the epitome of indifference."
+            ],
+            [
+                283,
+                "Next!"
+            ],
+            [
+                285,
+                "Next!"
+            ]
+        ],
+        "Leonard": [
+            [
+                12,
+                "What the hell are you guys playing?"
+            ],
+            [
+                16,
+                "All right. I like a good brainteaser. Give it a whirl."
+            ],
+            [
+                18,
+                "Uh, a BLT where the B stands for beaver? I don\u2019t know."
+            ],
+            [
+                20,
+                "I can figure this out, let\u2019s see. Um, well, beavers eat tree bark. The only tree bark I know that humans consume is cinnamon. So, I\u2019ll say cinnamon."
+            ],
+            [
+                22,
+                "What?"
+            ],
+            [
+                24,
+                "This is ridiculous. You\u2019re just making stuff up."
+            ],
+            [
+                27,
+                "You bumped the table and you know it."
+            ],
+            [
+                29,
+                "I\u2019m going to my room."
+            ],
+            [
+                34,
+                "Did you guys see the paper in The American Physics Journal on supersolids? It\u2019s pretty interesting. This guy\u2019s working from a hypothesis where\u2026"
+            ],
+            [
+                36,
+                "What?"
+            ],
+            [
+                47,
+                "Sure."
+            ],
+            [
+                53,
+                "Okay."
+            ],
+            [
+                56,
+                "Ah, ah."
+            ],
+            [
+                70,
+                "So, this is nice. First time we\u2019ve all gotten together to eat."
+            ],
+            [
+                72,
+                "Okay, that\u2019s all I got. Howard, you\u2019re up."
+            ],
+            [
+                80,
+                "Listen, can I talk to you about your girlfriend?"
+            ],
+            [
+                82,
+                "Got it."
+            ],
+            [
+                84,
+                "Uh-huh. Anyway, I\u2019m not sure she\u2019s the best fit for our little, how should we call it, rebel alliance."
+            ],
+            [
+                86,
+                "Yeah, not my point."
+            ],
+            [
+                88,
+                "Okay, let me just get right to it. Amy is judgmental, sanctimonious and frankly just obnoxious."
+            ],
+            [
+                90,
+                "So we already have you for all that."
+            ],
+            [
+                92,
+                "No, no, of course not. Just have your relationship someplace else."
+            ],
+            [
+                94,
+                "Suffered in silence?"
+            ],
+            [
+                96,
+                "Really? Silence?"
+            ],
+            [
+                109,
+                "I think we need to start entertaining the possibility that the Shamy could go on for years."
+            ],
+            [
+                112,
+                "I did."
+            ],
+            [
+                114,
+                "Well, he pointed out that he kinda, sorta had to put up with you."
+            ],
+            [
+                116,
+                "I didn\u2019t agree with him."
+            ],
+            [
+                118,
+                "I tried, but (Penny starts rubbing her foot with a pumice stone) he made a fairly well-reasoned argument."
+            ],
+            [
+                130,
+                "I assume by never again, you mean never again will you drink all of Penny\u2019s beer, then run down to the gas station for a couple of 40s, a box of Slim Jims and the latest issue of Bombay Badonkadonks."
+            ],
+            [
+                135,
+                "Oh, no."
+            ],
+            [
+                137,
+                "John and Yoko."
+            ],
+            [
+                140,
+                "Hey."
+            ],
+            [
+                150,
+                "I\u2019m sorry, I\u2019m-I\u2019m still trying to work on the defecating Clark Maxwell, so\u2026"
+            ],
+            [
+                177,
+                "I gotta tell you guys, I\u2019m a little worried about Sheldon."
+            ],
+            [
+                179,
+                "No, I mean since the Shamy hit a reef."
+            ],
+            [
+                182,
+                "Uh, went splitsville."
+            ],
+            [
+                184,
+                "Turned to boom-boom."
+            ],
+            [
+                186,
+                "I think Sheldon really misses Amy."
+            ],
+            [
+                188,
+                "He got a cat to keep him company."
+            ],
+            [
+                190,
+                "He takes it everywhere, to bed, to the bathroom."
+            ],
+            [
+                201,
+                "Yeah."
+            ],
+            [
+                203,
+                "Hey. (Turns to see Sheldon now has five cats) Oh, no."
+            ],
+            [
+                205,
+                "So you decided to get the whole Manhattan Project?"
+            ],
+            [
+                207,
+                "Zazzles?"
+            ],
+            [
+                209,
+                "Okay, we need to talk."
+            ],
+            [
+                211,
+                "Cats, Sheldon. You\u2019re clearly upset about Amy being gone, and you\u2019re trying to replace her with a bunch of cats."
+            ],
+            [
+                213,
+                "What?"
+            ],
+            [
+                215,
+                "Okay, yeah, fine."
+            ],
+            [
+                217,
+                "Terrific. My-my point is you need to face up to what you\u2019re feeling with this breakup."
+            ],
+            [
+                219,
+                "Okay, I got it, I got it, she\u2019s not your girlfriend. Now listen to me. I know about loneliness. I know about trying to replace someone with other stuff. When I broke up with Penny, I got back into my cello, I built a bunch of model rockets, I got those weightlifting gloves and that five-pound dumbbell."
+            ],
+            [
+                221,
+                "She didn\u2019t dump me. It was mutual!"
+            ],
+            [
+                223,
+                "Okay, fine. Live with cats. Be like my Aunt Nancy. She had dozens of them. And do you know what happened after she died? They ate her."
+            ],
+            [
+                226,
+                "Hi, Mrs. Cooper. Thanks for coming."
+            ],
+            [
+                228,
+                "He\u2019s in his bedroom."
+            ],
+            [
+                230,
+                "No, she\u2019s real."
+            ],
+            [
+                232,
+                "No, no, it\u2019s not like that. It\u2019s, uh, I don\u2019t know what it\u2019s like. But there is something I should prepare you for."
+            ],
+            [
+                234,
+                "Hold on to that thought. (Knocks on Sheldon\u2019s bedroom door)"
+            ],
+            [
+                236,
+                "Surprise."
+            ],
+            [
+                277,
+                "I saw what you did there."
+            ],
+            [
+                279,
+                "No, no, no, I can do it."
+            ]
+        ],
+        "Raj": [
+            [
+                35,
+                "Spoiler alert! Spoiler alert."
+            ],
+            [
+                37,
+                "Don\u2019t ruin it for me, man. I printed out a PDF to read on the potty."
+            ],
+            [
+                39,
+                "It\u2019s a potty. What do you call it?"
+            ],
+            [
+                41,
+                "That\u2019s a little vulgar for the dinner table, don\u2019t you think?"
+            ],
+            [
+                43,
+                "Potty is innocent. Potty is adorable."
+            ],
+            [
+                45,
+                "If I don\u2019t have to boom-boom."
+            ],
+            [
+                98,
+                "Ah. Nothing makes beer taste better than cool clear Rocky Mountain spring water. Where are the Rocky Mountains, anyway?"
+            ],
+            [
+                100,
+                "Really? I thought they were out West someplace."
+            ],
+            [
+                102,
+                "Philadelphia. Okay, now I get it."
+            ],
+            [
+                104,
+                "I\u2019m very comfortable here. Penny, dear, why don\u2019t you shoot another silver bullet my way?"
+            ],
+            [
+                106,
+                "Ooh, somebody\u2019s been taking bitchy pills."
+            ],
+            [
+                110,
+                "Well, if that\u2019s the case, Penny will have to get satellite TV and maybe once a week run a vacuum through this place."
+            ],
+            [
+                129,
+                "Oh, God, never again."
+            ],
+            [
+                131,
+                "I was homesick."
+            ],
+            [
+                133,
+                "That\u2019s very offensive."
+            ],
+            [
+                181,
+                "What does hit a reef mean?"
+            ],
+            [
+                183,
+                "Pardon?"
+            ],
+            [
+                185,
+                "Ah."
+            ],
+            [
+                189,
+                "You\u2019re kidding."
+            ],
+            [
+                191,
+                "He takes the kitty to the potty?"
+            ],
+            [
+                193,
+                "Don\u2019t try to change me, dude. I am what I am."
+            ],
+            [
+                198,
+                "Hi."
+            ]
+        ],
+        "Howard": [
+            [
+                38,
+                "On the potty? What are you, five?"
+            ],
+            [
+                40,
+                "Toilet."
+            ],
+            [
+                42,
+                "Oh, and potty is okay?"
+            ],
+            [
+                44,
+                "What do you do in the potty, wee-wee?"
+            ],
+            [
+                48,
+                "Nice to see you."
+            ],
+            [
+                52,
+                "Ah, ah."
+            ],
+            [
+                57,
+                "Okay. Toilet\u2019s sounding pretty good now, huh?"
+            ],
+            [
+                73,
+                "Um, tell us about your work, Amy."
+            ],
+            [
+                75,
+                "Raj, do you have any questions for Amy?"
+            ],
+            [
+                99,
+                "Philadelphia."
+            ],
+            [
+                101,
+                "Think about it, Raj. Where did the movie Rocky take place?"
+            ],
+            [
+                108,
+                "Oh, he\u2019s an ass when he doesn\u2019t. You just don\u2019t hear it."
+            ],
+            [
+                119,
+                "You\u2019re not doing that right."
+            ],
+            [
+                121,
+                "Gimme."
+            ],
+            [
+                123,
+                "Trust me."
+            ],
+            [
+                125,
+                "I do this for my mom all the time. See? With the grain."
+            ],
+            [
+                127,
+                "And someday, when you have varicose veins, I\u2019ll show you how to massage them."
+            ],
+            [
+                132,
+                "The highlight of the evening was when you showed us your Bollywood break dancing skills. (Does a stereotyped impersonation of Bollywood dancing.)"
+            ],
+            [
+                134,
+                "Yeah, we all thought so."
+            ],
+            [
+                136,
+                "What?"
+            ],
+            [
+                138,
+                "More like Yoko and Yoko."
+            ],
+            [
+                161,
+                "Women, huh? Can\u2019t live with them, can\u2019t successfully refute their hypotheses."
+            ],
+            [
+                178,
+                "We\u2019re all a little worried about Sheldon."
+            ],
+            [
+                180,
+                "Oh, I thought you were just making a generalization, you know, I\u2019m worried about Sheldon someday setting off a low-yield nuclear device because the cafeteria ran out of lime Jell-O."
+            ],
+            [
+                187,
+                "You should lend him your copy of Bombay Badonkadonks."
+            ],
+            [
+                192,
+                "I thought we discussed the P-word."
+            ],
+            [
+                195,
+                "Hey. Aren\u2019t you going to introduce us to your little friend?"
+            ],
+            [
+                197,
+                "Hello."
+            ],
+            [
+                200,
+                "Okay, I get it. We\u2019re worried about Sheldon."
+            ]
+        ],
+        "Penny": [
+            [
+                58,
+                "Hey, look, it\u2019s Shamy."
+            ],
+            [
+                62,
+                "All righty. What\u2019s new?"
+            ],
+            [
+                64,
+                "I got it. But what I was going for was, you know, how\u2019s your life?"
+            ],
+            [
+                69,
+                "Okay, I\u2019m just gonna walk away, \u2019cause I don\u2019t want to be here."
+            ],
+            [
+                103,
+                "So this is the plan? From now on, we\u2019re just gonna hide out in here to avoid the Shamy?"
+            ],
+            [
+                105,
+                "Get one yourself."
+            ],
+            [
+                107,
+                "God, he\u2019s an ass when he drinks."
+            ],
+            [
+                111,
+                "I thought you were going to talk to Sheldon."
+            ],
+            [
+                113,
+                "Well, what\u2019d he say?"
+            ],
+            [
+                115,
+                "Kinda, sorta had to?"
+            ],
+            [
+                117,
+                "Well, you defended me, right?"
+            ],
+            [
+                120,
+                "What?"
+            ],
+            [
+                122,
+                "No."
+            ],
+            [
+                124,
+                "No!"
+            ],
+            [
+                126,
+                "Wow, that is better."
+            ],
+            [
+                164,
+                "Hey, Sheldon."
+            ],
+            [
+                166,
+                "I hear you broke up with Amy."
+            ],
+            [
+                168,
+                "Wow. That\u2019s like the worst country song ever. So, how are you doing?"
+            ],
+            [
+                170,
+                "Amy."
+            ],
+            [
+                172,
+                "Well, breakups, or whatever the hell this is, can be tough."
+            ],
+            [
+                174,
+                "Okay. Good."
+            ]
+        ],
+        "Leonard and Howard together": [
+            [
+                145,
+                "Oooh!"
+            ]
+        ],
+        "All": [
+            [
+                158,
+                "No, uh-uh."
+            ]
+        ],
+        "Mrs Cooper": [
+            [
+                227,
+                "Where is he?"
+            ],
+            [
+                229,
+                "Now, when you said on the phone he broke up with a girl, you meant an actual girl, not something you kids whipped up in a lab?"
+            ],
+            [
+                231,
+                "Did they sin?"
+            ],
+            [
+                233,
+                "Oh, relax, Leonard, I have raised that boy. I\u2019ve seen him at his best, I\u2019ve seen him at his worst. There\u2019s nothing he can do that\u2019ll surprise me."
+            ],
+            [
+                238,
+                "My, my, that\u2019s a powerful smell."
+            ],
+            [
+                240,
+                "Yeah, I get it. You got a lot of cats and you gave \u2019em cute Jewish names."
+            ],
+            [
+                242,
+                "Leonard called, and he said that you were pining for a young lady."
+            ],
+            [
+                244,
+                "Oh, lambchop, we can quibble what to call it, but I think we can both agree it\u2019s creepy."
+            ],
+            [
+                246,
+                "You should have called sooner."
+            ],
+            [
+                248,
+                "Shelly! Dinner\u2019s ready!"
+            ],
+            [
+                250,
+                "No cats!"
+            ],
+            [
+                252,
+                "I called her."
+            ],
+            [
+                256,
+                "Oh, God bless you, dear. Sheldon, sit down. Let\u2019s talk."
+            ],
+            [
+                258,
+                "Then stop talking."
+            ],
+            [
+                260,
+                "Now, the reason I called Amy over was to find out what type of person she is. And after chatting a bit, I have to say that while she is a perfectly unique young woman, you two are definitely not suited for each other."
+            ],
+            [
+                262,
+                "Oh, I\u2019m sorry, Shelly, I can\u2019t see it."
+            ],
+            [
+                267,
+                "Well, putting aside the pig Latin, it\u2019s a good thing that you two decided to end the relationship so I didn\u2019t have to end it for you."
+            ],
+            [
+                278,
+                "He thinks he\u2019s such a smarty pants. He\u2019s no different from any man. You tell \u2019em not to do something, that\u2019s all they want to do. If I hadn\u2019t told my brother Stumpy not to clear out the wood chipper by hand, we\u2019d still be calling him Edward. Now, don\u2019t you move. I\u2019ll bring over all the food."
+            ],
+            [
+                280,
+                "Well, isn\u2019t that sweet?"
+            ]
+        ],
+        "Leonard (pretending to sneeze)": [
+            [
+                255,
+                "25 cats!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "All right, I\u2019m ready for my next question."
+        ],
+        [
+            "Amy",
+            "In a world where rhinoceroses are domesticated pets, who wins the Second World War?"
+        ],
+        [
+            "Sheldon",
+            "Uganda."
+        ],
+        [
+            "Amy",
+            "Defend."
+        ],
+        [
+            "Sheldon",
+            "Kenya rises to power on the export of rhinoceroses. A Central African power block is formed, colonizing North Africa and Europe. When war breaks out, no one can afford the luxury of a rhino. Kenya withers, Uganda triumphs."
+        ],
+        [
+            "Amy",
+            "Correct. My turn."
+        ],
+        [
+            "Sheldon",
+            "In a world where a piano is a weapon, not a musical instrument, on what does Scott Joplin play The Maple Leaf Rag?"
+        ],
+        [
+            "Amy",
+            "Tuned bayonets."
+        ],
+        [
+            "Sheldon",
+            "Defend."
+        ],
+        [
+            "Amy",
+            "Isn\u2019t it obvious?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right. My apologies."
+        ],
+        [
+            "Leonard",
+            "What the hell are you guys playing?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a game we invented. It\u2019s called Counterfactuals."
+        ],
+        [
+            "Amy",
+            "We postulate an alternate world that differs from ours in one key aspect and then pose questions to each other."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s fun for ages eight to eighty. Join us."
+        ],
+        [
+            "Leonard",
+            "All right. I like a good brainteaser. Give it a whirl."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re in luck, this is an easy one. In a world where mankind is ruled by a giant intelligent beaver, what food is no longer consumed?"
+        ],
+        [
+            "Leonard",
+            "Uh, a BLT where the B stands for beaver? I don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "Leonard, be serious. We\u2019re playing a game here."
+        ],
+        [
+            "Leonard",
+            "I can figure this out, let\u2019s see. Um, well, beavers eat tree bark. The only tree bark I know that humans consume is cinnamon. So, I\u2019ll say cinnamon."
+        ],
+        [
+            "Sheldon",
+            "Incorrect. Obviously, the answer is cheese Danish."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Amy",
+            "In a world ruled by a giant beaver, mankind builds many dams to please the beaver overlord. The low-lying city of Copenhagen is flooded. Thousands die. Devastated, the Danes never invent their namesake pastry. How does one miss that?"
+        ],
+        [
+            "Leonard",
+            "This is ridiculous. You\u2019re just making stuff up."
+        ],
+        [
+            "Amy",
+            "Is he always like this when he loses?"
+        ],
+        [
+            "Sheldon",
+            "Oh, yes. You should\u2019ve been here for the great Jenga tantrum of 2008."
+        ],
+        [
+            "Leonard",
+            "You bumped the table and you know it."
+        ],
+        [
+            "Amy",
+            "Perhaps it would be kinder to play a game more suited to his abilities. We\u2019ll close our eyes and count to ten while you hide."
+        ],
+        [
+            "Leonard",
+            "I\u2019m going to my room."
+        ],
+        [
+            "Amy",
+            "Very good, Leonard. But next time, don\u2019t tell us where you\u2019re hiding."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory"
+        ],
+        [
+            "Leonard",
+            "Did you guys see the paper in The American Physics Journal on supersolids? It\u2019s pretty interesting. This guy\u2019s working from a hypothesis where\u2026"
+        ],
+        [
+            "Raj",
+            "Spoiler alert! Spoiler alert."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Raj",
+            "Don\u2019t ruin it for me, man. I printed out a PDF to read on the potty."
+        ],
+        [
+            "Howard",
+            "On the potty? What are you, five?"
+        ],
+        [
+            "Raj",
+            "It\u2019s a potty. What do you call it?"
+        ],
+        [
+            "Howard",
+            "Toilet."
+        ],
+        [
+            "Raj",
+            "That\u2019s a little vulgar for the dinner table, don\u2019t you think?"
+        ],
+        [
+            "Howard",
+            "Oh, and potty is okay?"
+        ],
+        [
+            "Raj",
+            "Potty is innocent. Potty is adorable."
+        ],
+        [
+            "Howard",
+            "What do you do in the potty, wee-wee?"
+        ],
+        [
+            "Raj",
+            "If I don\u2019t have to boom-boom."
+        ],
+        [
+            "Sheldon",
+            "Greetings. You all remember Amy Farrah Fowler."
+        ],
+        [
+            "Leonard",
+            "Sure."
+        ],
+        [
+            "Howard",
+            "Nice to see you."
+        ],
+        [
+            "Amy",
+            "Hello."
+        ],
+        [
+            "Sheldon",
+            "Sorry we\u2019re late."
+        ],
+        [
+            "Amy",
+            "I must take responsibility. I had to stop for feminine hygiene supplies."
+        ],
+        [
+            "Howard",
+            "Ah, ah."
+        ],
+        [
+            "Leonard",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "I believe she\u2019s experiencing her menses."
+        ],
+        [
+            "Amy",
+            "Actually, I\u2019m not. In order to avoid surprises, I wear them all the time."
+        ],
+        [
+            "Leonard",
+            "Ah, ah."
+        ],
+        [
+            "Howard",
+            "Okay. Toilet\u2019s sounding pretty good now, huh?"
+        ],
+        [
+            "Penny",
+            "Hey, look, it\u2019s Shamy."
+        ],
+        [
+            "Amy",
+            "Shamy?"
+        ],
+        [
+            "Sheldon",
+            "A juvenile amalgamation of our names. Sheldon and Amy, \u00a0Shamy."
+        ],
+        [
+            "Amy",
+            "Oh. I don\u2019t like that. Don\u2019t do that."
+        ],
+        [
+            "Penny",
+            "All righty. What\u2019s new?"
+        ],
+        [
+            "Amy",
+            "Well, just recently, I learned that you refer to us as Shamy, and I don\u2019t like that."
+        ],
+        [
+            "Penny",
+            "I got it. But what I was going for was, you know, how\u2019s your life?"
+        ],
+        [
+            "Amy",
+            "Like everybody else\u2019s. Subject to entropy, decay and eventual death. Thank you for asking. Why is she not taking our order?"
+        ],
+        [
+            "Sheldon",
+            "I should\u2019ve warned you, one has to navigate a labyrinth of social nonsense before one can be fed here."
+        ],
+        [
+            "Amy",
+            "Really? I assumed an establishment called the Cheesecake Factory would function more efficiently."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s how they lure you in. I believe it\u2019s called bait and switch."
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019m just gonna walk away, \u2019cause I don\u2019t want to be here."
+        ],
+        [
+            "Leonard",
+            "So, this is nice. First time we\u2019ve all gotten together to eat."
+        ],
+        [
+            "Amy",
+            "You\u2019re right, he\u2019s a festival of humdrum chitchat."
+        ],
+        [
+            "Leonard",
+            "Okay, that\u2019s all I got. Howard, you\u2019re up."
+        ],
+        [
+            "Howard",
+            "Um, tell us about your work, Amy."
+        ],
+        [
+            "Amy",
+            "I doubt you\u2019d understand. Sheldon tells me you only have a master\u2019s degree."
+        ],
+        [
+            "Howard",
+            "Raj, do you have any questions for Amy?"
+        ],
+        [
+            "Amy",
+            "I\u2019m curious as to why we\u2019re not eating alone."
+        ],
+        [
+            "Sheldon",
+            "They can\u2019t function without me. I\u2019m the social glue that holds this little group together. You\u2019re welcome."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Leonard",
+            "Listen, can I talk to you about your girlfriend?"
+        ],
+        [
+            "Sheldon",
+            "She\u2019s not my girlfriend. She\u2019s a girl and she\u2019s my friend, but there\u2019s no touching or unsanitary exchange of saliva."
+        ],
+        [
+            "Leonard",
+            "Got it."
+        ],
+        [
+            "Sheldon",
+            "Although, for the record, on one occasion, she licked her thumb to remove raspberry jelly from the corner of my mouth. It\u2019s an action we both regret to this day."
+        ],
+        [
+            "Leonard",
+            "Uh-huh. Anyway, I\u2019m not sure she\u2019s the best fit for our little, how should we call it, rebel alliance."
+        ],
+        [
+            "Sheldon",
+            "Oh, I never identified with the rebel alliance. Despite their tendency to build Death Stars, I\u2019ve always been more of an empire man."
+        ],
+        [
+            "Leonard",
+            "Yeah, not my point."
+        ],
+        [
+            "Sheldon",
+            "I know what your point is. You\u2019re intimidated by Amy\u2019s intellect. To that I say, buck up."
+        ],
+        [
+            "Leonard",
+            "Okay, let me just get right to it. Amy is judgmental, sanctimonious and frankly just obnoxious."
+        ],
+        [
+            "Sheldon",
+            "So?"
+        ],
+        [
+            "Leonard",
+            "So we already have you for all that."
+        ],
+        [
+            "Sheldon",
+            "Are you suggesting I terminate my relationship with Amy?"
+        ],
+        [
+            "Leonard",
+            "No, no, of course not. Just have your relationship someplace else."
+        ],
+        [
+            "Sheldon",
+            "May I point out that for eight long months, I suffered in silence as your female companion filled our apartment with her off-key country music caterwauling, the unappetizing spectacle of her grinding a pumice stone against her calloused feet in our living room, and night after night of uninformative TV documentaries about the Jersey Shore."
+        ],
+        [
+            "Leonard",
+            "Suffered in silence?"
+        ],
+        [
+            "Sheldon",
+            "Yes. And I\u2019d thank you to do the same."
+        ],
+        [
+            "Leonard",
+            "Really? Silence?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Raj",
+            "Ah. Nothing makes beer taste better than cool clear Rocky Mountain spring water. Where are the Rocky Mountains, anyway?"
+        ],
+        [
+            "Howard",
+            "Philadelphia."
+        ],
+        [
+            "Raj",
+            "Really? I thought they were out West someplace."
+        ],
+        [
+            "Howard",
+            "Think about it, Raj. Where did the movie Rocky take place?"
+        ],
+        [
+            "Raj",
+            "Philadelphia. Okay, now I get it."
+        ],
+        [
+            "Penny",
+            "So this is the plan? From now on, we\u2019re just gonna hide out in here to avoid the Shamy?"
+        ],
+        [
+            "Raj",
+            "I\u2019m very comfortable here. Penny, dear, why don\u2019t you shoot another silver bullet my way?"
+        ],
+        [
+            "Penny",
+            "Get one yourself."
+        ],
+        [
+            "Raj",
+            "Ooh, somebody\u2019s been taking bitchy pills."
+        ],
+        [
+            "Penny",
+            "God, he\u2019s an ass when he drinks."
+        ],
+        [
+            "Howard",
+            "Oh, he\u2019s an ass when he doesn\u2019t. You just don\u2019t hear it."
+        ],
+        [
+            "Leonard",
+            "I think we need to start entertaining the possibility that the Shamy could go on for years."
+        ],
+        [
+            "Raj",
+            "Well, if that\u2019s the case, Penny will have to get satellite TV and maybe once a week run a vacuum through this place."
+        ],
+        [
+            "Penny",
+            "I thought you were going to talk to Sheldon."
+        ],
+        [
+            "Leonard",
+            "I did."
+        ],
+        [
+            "Penny",
+            "Well, what\u2019d he say?"
+        ],
+        [
+            "Leonard",
+            "Well, he pointed out that he kinda, sorta had to put up with you."
+        ],
+        [
+            "Penny",
+            "Kinda, sorta had to?"
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t agree with him."
+        ],
+        [
+            "Penny",
+            "Well, you defended me, right?"
+        ],
+        [
+            "Leonard",
+            "I tried, but (Penny starts rubbing her foot with a pumice stone) he made a fairly well-reasoned argument."
+        ],
+        [
+            "Howard",
+            "You\u2019re not doing that right."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Howard",
+            "Gimme."
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Howard",
+            "Trust me."
+        ],
+        [
+            "Penny",
+            "No!"
+        ],
+        [
+            "Howard",
+            "I do this for my mom all the time. See? With the grain."
+        ],
+        [
+            "Penny",
+            "Wow, that is better."
+        ],
+        [
+            "Howard",
+            "And someday, when you have varicose veins, I\u2019ll show you how to massage them."
+        ],
+        [
+            "Scene",
+            "The University Cafeteria."
+        ],
+        [
+            "Raj",
+            "Oh, God, never again."
+        ],
+        [
+            "Leonard",
+            "I assume by never again, you mean never again will you drink all of Penny\u2019s beer, then run down to the gas station for a couple of 40s, a box of Slim Jims and the latest issue of Bombay Badonkadonks."
+        ],
+        [
+            "Raj",
+            "I was homesick."
+        ],
+        [
+            "Howard",
+            "The highlight of the evening was when you showed us your Bollywood break dancing skills. (Does a stereotyped impersonation of Bollywood dancing.)"
+        ],
+        [
+            "Raj",
+            "That\u2019s very offensive."
+        ],
+        [
+            "Howard",
+            "Yeah, we all thought so."
+        ],
+        [
+            "Leonard",
+            "Oh, no."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "John and Yoko."
+        ],
+        [
+            "Howard",
+            "More like Yoko and Yoko."
+        ],
+        [
+            "Sheldon",
+            "Greetings."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "I brought Amy here to show her some of the work I\u2019m doing."
+        ],
+        [
+            "Amy",
+            "It\u2019s very impressive, for theoretical work."
+        ],
+        [
+            "Sheldon",
+            "Do I detect a hint of condescension?"
+        ],
+        [
+            "Amy",
+            "I\u2019m sorry, was I being too subtle? I meant compared to the real-world applications of neurobiology, theoretical physics is, what\u2019s the word I\u2019m looking for? Hmm, cute."
+        ],
+        [
+            "Leonard and Howard together",
+            "Oooh!"
+        ],
+        [
+            "Sheldon",
+            "Are you suggesting the work of a neurobiologist like Babinski could ever rise to the significance of a physicist like Clarke-Maxwell or Dirac?"
+        ],
+        [
+            "Amy",
+            "I\u2019m stating it outright. Babinski eats Dirac for breakfast and defecates Clarke-Maxwell."
+        ],
+        [
+            "Sheldon",
+            "You take that back."
+        ],
+        [
+            "Amy",
+            "Absolutely not. My colleagues and I are mapping the neurological substrates that subserve global information processing, which is required for all cognitive reasoning, including scientific inquiry, making my research ipso facto prior in the ordo cognoscendi. That means it\u2019s better than his research, and by extension, of course, yours."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, I\u2019m-I\u2019m still trying to work on the defecating Clark Maxwell, so\u2026"
+        ],
+        [
+            "Sheldon",
+            "Excuse me, but a grand unified theory, insofar as it explains everything, will ipso facto explain neurobiology."
+        ],
+        [
+            "Amy",
+            "Yes, but if I\u2019m successful, I will be able to map and reproduce your thought processes in deriving a grand unified theory, and therefore, subsume your conclusions under my paradigm."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s the rankest psychologism, and was conclusively revealed as hogwash by Gottlob Frege in the 1890s!"
+        ],
+        [
+            "Amy",
+            "We appear to have reached an impasse."
+        ],
+        [
+            "Sheldon",
+            "I agree. I move our relationship terminate immediately."
+        ],
+        [
+            "Amy",
+            "Seconded."
+        ],
+        [
+            "Sheldon",
+            "There being no objections\u2026"
+        ],
+        [
+            "All",
+            "No, uh-uh."
+        ],
+        [
+            "Sheldon",
+            "The motion carries. Good day, Amy Farrah Fowler."
+        ],
+        [
+            "Amy",
+            "Good day, Sheldon Cooper."
+        ],
+        [
+            "Howard",
+            "Women, huh? Can\u2019t live with them, can\u2019t successfully refute their hypotheses."
+        ],
+        [
+            "Sheldon",
+            "Amen to that."
+        ],
+        [
+            "Scene",
+            "The laundry room. "
+        ],
+        [
+            "Penny",
+            "Hey, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Penny",
+            "I hear you broke up with Amy."
+        ],
+        [
+            "Sheldon",
+            "A breakup would imply she was my girlfriend. She was a girl who was my friend who is now a girl who is not my friend."
+        ],
+        [
+            "Penny",
+            "Wow. That\u2019s like the worst country song ever. So, how are you doing?"
+        ],
+        [
+            "Sheldon",
+            "Regarding what?"
+        ],
+        [
+            "Penny",
+            "Amy."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t follow."
+        ],
+        [
+            "Penny",
+            "Well, breakups, or whatever the hell this is, can be tough."
+        ],
+        [
+            "Sheldon",
+            "Penny, I assure you, I\u2019m fine. My relationship with Amy was purely intellectual. There were no emotional bonds, the severing of which would cause me any discomfort. The relationship simply outlived its utility, and I\u2019m continuing on with my life as before."
+        ],
+        [
+            "Penny",
+            "Okay. Good."
+        ],
+        [
+            "Sheldon",
+            "Now, if you\u2019ll excuse me, I\u2019m off to buy a pussycat."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Leonard",
+            "I gotta tell you guys, I\u2019m a little worried about Sheldon."
+        ],
+        [
+            "Howard",
+            "We\u2019re all a little worried about Sheldon."
+        ],
+        [
+            "Leonard",
+            "No, I mean since the Shamy hit a reef."
+        ],
+        [
+            "Howard",
+            "Oh, I thought you were just making a generalization, you know, I\u2019m worried about Sheldon someday setting off a low-yield nuclear device because the cafeteria ran out of lime Jell-O."
+        ],
+        [
+            "Raj",
+            "What does hit a reef mean?"
+        ],
+        [
+            "Leonard",
+            "Uh, went splitsville."
+        ],
+        [
+            "Raj",
+            "Pardon?"
+        ],
+        [
+            "Leonard",
+            "Turned to boom-boom."
+        ],
+        [
+            "Raj",
+            "Ah."
+        ],
+        [
+            "Leonard",
+            "I think Sheldon really misses Amy."
+        ],
+        [
+            "Howard",
+            "You should lend him your copy of Bombay Badonkadonks."
+        ],
+        [
+            "Leonard",
+            "He got a cat to keep him company."
+        ],
+        [
+            "Raj",
+            "You\u2019re kidding."
+        ],
+        [
+            "Leonard",
+            "He takes it everywhere, to bed, to the bathroom."
+        ],
+        [
+            "Raj",
+            "He takes the kitty to the potty?"
+        ],
+        [
+            "Howard",
+            "I thought we discussed the P-word."
+        ],
+        [
+            "Raj",
+            "Don\u2019t try to change me, dude. I am what I am."
+        ],
+        [
+            "Sheldon",
+            "Oh, gentlemen."
+        ],
+        [
+            "Howard",
+            "Hey. Aren\u2019t you going to introduce us to your little friend?"
+        ],
+        [
+            "Sheldon",
+            "My apologies. Raj, Howard, I\u2019d like you to meet Dr. Robert Oppenheimer."
+        ],
+        [
+            "Howard",
+            "Hello."
+        ],
+        [
+            "Raj",
+            "Hi."
+        ],
+        [
+            "Sheldon",
+            "Now, if you\u2019ll excuse me, the father of the atomic bomb wants a saucer of milk."
+        ],
+        [
+            "Howard",
+            "Okay, I get it. We\u2019re worried about Sheldon."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Scene",
+            "The apartment. Leonard arrives."
+        ],
+        [
+            "Leonard",
+            "Hey. (Turns to see Sheldon now has five cats) Oh, no."
+        ],
+        [
+            "Sheldon",
+            "Robert Oppenheimer was lonely."
+        ],
+        [
+            "Leonard",
+            "So you decided to get the whole Manhattan Project?"
+        ],
+        [
+            "Sheldon",
+            "Yes. This is Enrico Fermi, Richard Feynman, Edward Teller, Otto Frisch, and Zazzles."
+        ],
+        [
+            "Leonard",
+            "Zazzles?"
+        ],
+        [
+            "Sheldon",
+            "I was going to name him Herman von Helmholtz, but he\u2019s so zazzy."
+        ],
+        [
+            "Leonard",
+            "Okay, we need to talk."
+        ],
+        [
+            "Sheldon",
+            "About what?"
+        ],
+        [
+            "Leonard",
+            "Cats, Sheldon. You\u2019re clearly upset about Amy being gone, and you\u2019re trying to replace her with a bunch of cats."
+        ],
+        [
+            "Sheldon",
+            "Clowder."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "A group of cats is a clowder. Or a glaring."
+        ],
+        [
+            "Leonard",
+            "Okay, yeah, fine."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s the kind of thing you ought to know now that we have one."
+        ],
+        [
+            "Leonard",
+            "Terrific. My-my point is you need to face up to what you\u2019re feeling with this breakup."
+        ],
+        [
+            "Sheldon",
+            "It wasn\u2019t a breakup. A breakup would imply that Amy was my girlfriend."
+        ],
+        [
+            "Leonard",
+            "Okay, I got it, I got it, she\u2019s not your girlfriend. Now listen to me. I know about loneliness. I know about trying to replace someone with other stuff. When I broke up with Penny, I got back into my cello, I built a bunch of model rockets, I got those weightlifting gloves and that five-pound dumbbell."
+        ],
+        [
+            "Sheldon",
+            "You didn\u2019t break up, she dumped you."
+        ],
+        [
+            "Leonard",
+            "She didn\u2019t dump me. It was mutual!"
+        ],
+        [
+            "Sheldon",
+            "I was there. She dumped you."
+        ],
+        [
+            "Leonard",
+            "Okay, fine. Live with cats. Be like my Aunt Nancy. She had dozens of them. And do you know what happened after she died? They ate her."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t have to sell me on cats, Leonard. I\u2019m already a fan. All right, fellas, who\u2019s in the mood for Fancy Feast? Well, that\u2019s not fancy at all."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Hi, Mrs. Cooper. Thanks for coming."
+        ],
+        [
+            "Mrs Cooper",
+            "Where is he?"
+        ],
+        [
+            "Leonard",
+            "He\u2019s in his bedroom."
+        ],
+        [
+            "Mrs Cooper",
+            "Now, when you said on the phone he broke up with a girl, you meant an actual girl, not something you kids whipped up in a lab?"
+        ],
+        [
+            "Leonard",
+            "No, she\u2019s real."
+        ],
+        [
+            "Mrs Cooper",
+            "Did they sin?"
+        ],
+        [
+            "Leonard",
+            "No, no, it\u2019s not like that. It\u2019s, uh, I don\u2019t know what it\u2019s like. But there is something I should prepare you for."
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, relax, Leonard, I have raised that boy. I\u2019ve seen him at his best, I\u2019ve seen him at his worst. There\u2019s nothing he can do that\u2019ll surprise me."
+        ],
+        [
+            "Leonard",
+            "Hold on to that thought. (Knocks on Sheldon\u2019s bedroom door)"
+        ],
+        [
+            "Sheldon",
+            "Come in. (They enter. The room is full of cats.)"
+        ],
+        [
+            "Leonard",
+            "Surprise."
+        ],
+        [
+            "Sheldon",
+            "Mom, what an unexpected pleasure."
+        ],
+        [
+            "Mrs Cooper",
+            "My, my, that\u2019s a powerful smell."
+        ],
+        [
+            "Sheldon",
+            "I\u2019d like you to meet Oppenheimer, Frisch, Panofsky, Feynman, Weisskopf\u2026"
+        ],
+        [
+            "Mrs Cooper",
+            "Yeah, I get it. You got a lot of cats and you gave \u2019em cute Jewish names."
+        ],
+        [
+            "Sheldon",
+            "What are you doing here?"
+        ],
+        [
+            "Mrs Cooper",
+            "Leonard called, and he said that you were pining for a young lady."
+        ],
+        [
+            "Sheldon",
+            "Oh, that\u2019s preposterous. I\u2019m not pining over anyone."
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, lambchop, we can quibble what to call it, but I think we can both agree it\u2019s creepy."
+        ],
+        [
+            "Sheldon",
+            "I do not agree. Cats make wonderful companions. They don\u2019t argue or question my intellectual authority, and this little guy here, I think you\u2019ll find to be quite zazzy."
+        ],
+        [
+            "Mrs Cooper",
+            "You should have called sooner."
+        ],
+        [
+            "Scene",
+            "The kitchen."
+        ],
+        [
+            "Mrs Cooper",
+            "Shelly! Dinner\u2019s ready!"
+        ],
+        [
+            "Sheldon",
+            "Coming!"
+        ],
+        [
+            "Mrs Cooper",
+            "No cats!"
+        ],
+        [
+            "Sheldon",
+            "Aw.(Enters to find Amy) What is she doing here?"
+        ],
+        [
+            "Mrs Cooper",
+            "I called her."
+        ],
+        [
+            "Amy",
+            "Your mother thinks you might be losing your mind over me. As a neurobiologist, I was curious."
+        ],
+        [
+            "Sheldon",
+            "Well, rest assured, I am in full possession of my faculties."
+        ],
+        [
+            "Leonard (pretending to sneeze)",
+            "25 cats!"
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, God bless you, dear. Sheldon, sit down. Let\u2019s talk."
+        ],
+        [
+            "Sheldon",
+            "All right, but you\u2019re not fooling me. Whenever you say we have to talk, it means you want me to listen."
+        ],
+        [
+            "Mrs Cooper",
+            "Then stop talking."
+        ],
+        [
+            "Sheldon",
+            "Yes, ma\u2019am."
+        ],
+        [
+            "Mrs Cooper",
+            "Now, the reason I called Amy over was to find out what type of person she is. And after chatting a bit, I have to say that while she is a perfectly unique young woman, you two are definitely not suited for each other."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a peculiar conclusion. By any standard, Amy is more similar to me than anyone I\u2019ve ever met."
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, I\u2019m sorry, Shelly, I can\u2019t see it."
+        ],
+        [
+            "Sheldon",
+            "Well, whether you see it or not is irrelevant. I can\u2019t see subatomic particles, but nevertheless, they\u2019re there."
+        ],
+        [
+            "Amy",
+            "Excellent point."
+        ],
+        [
+            "Sheldon",
+            "A physics point."
+        ],
+        [
+            "Amy",
+            "Touche."
+        ],
+        [
+            "Mrs Cooper",
+            "Well, putting aside the pig Latin, it\u2019s a good thing that you two decided to end the relationship so I didn\u2019t have to end it for you."
+        ],
+        [
+            "Sheldon",
+            "Amy, after consideration, I believe we may have acted rashly. I propose we resume our relationship and attempt to resolve our differences."
+        ],
+        [
+            "Amy",
+            "I\u2019ll agree to that only if you\u2019ll stipulate that 80% of our difficulties were caused by you."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll go as high as 40."
+        ],
+        [
+            "Amy",
+            "Sixty-five."
+        ],
+        [
+            "Sheldon",
+            "Done. You understand that moving forward, we deal with the fact that my mother does not approve of you?"
+        ],
+        [
+            "Amy",
+            "I do. I find being cast in the role of bad girl oddly titillating."
+        ],
+        [
+            "Sheldon",
+            "Would you like to see my cats?"
+        ],
+        [
+            "Amy",
+            "I would. I love cats. They\u2019re the epitome of indifference."
+        ],
+        [
+            "Sheldon",
+            "Ah, then you may find Zazzles a little cloying."
+        ],
+        [
+            "Leonard",
+            "I saw what you did there."
+        ],
+        [
+            "Mrs Cooper",
+            "He thinks he\u2019s such a smarty pants. He\u2019s no different from any man. You tell \u2019em not to do something, that\u2019s all they want to do. If I hadn\u2019t told my brother Stumpy not to clear out the wood chipper by hand, we\u2019d still be calling him Edward. Now, don\u2019t you move. I\u2019ll bring over all the food."
+        ],
+        [
+            "Leonard",
+            "No, no, no, I can do it."
+        ],
+        [
+            "Mrs Cooper",
+            "Well, isn\u2019t that sweet?"
+        ],
+        [
+            "Scene",
+            "Outside. Sheldon is sitting at a table with a sign reading \u201cCats $20\u201d)"
+        ],
+        [
+            "Sheldon",
+            "Thank you, Amy. Here\u2019s your cat. And here\u2019s your $20."
+        ],
+        [
+            "Amy",
+            "Next!"
+        ],
+        [
+            "Sheldon",
+            "Thank you, Amy. Here\u2019s your cat. And here\u2019s your $20."
+        ],
+        [
+            "Amy",
+            "Next!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-4-episode-03-the-zazzy-substitution/"
+}

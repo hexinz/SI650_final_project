@@ -1,0 +1,2184 @@
+{
+    "Season": 10,
+    "Episode": 14,
+    "Title": "the emotion detection automation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The stairwell."
+            ],
+            [
+                50,
+                "Credits sequence."
+            ],
+            [
+                51,
+                "The comic book store. "
+            ],
+            [
+                66,
+                "The apartment. "
+            ],
+            [
+                80,
+                "Sheldon\u2019s office."
+            ],
+            [
+                98,
+                "Howard and Bernadette\u2019s kitchen. "
+            ],
+            [
+                110,
+                "The apartment. "
+            ],
+            [
+                156,
+                "Raj\u2019s apartment. "
+            ],
+            [
+                175,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                188,
+                "Raj\u2019s apartment."
+            ],
+            [
+                211,
+                "Sheldon and Amy\u2019s door. "
+            ],
+            [
+                230,
+                "Raj\u2019s apartment. "
+            ],
+            [
+                257,
+                "The apartment. "
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "What\u2019s going on with that woman you\u2019re dating?"
+            ],
+            [
+                3,
+                "Why?"
+            ],
+            [
+                10,
+                "Ignore him. Yeah, sorry about the breakup."
+            ],
+            [
+                15,
+                "You\u2019re not being very nice."
+            ],
+            [
+                19,
+                "Careful, I saw this on Star Trek. Smoke\u2019s gonna come out of his ears soon. Hey."
+            ],
+            [
+                39,
+                "And you think we can get those guys to reprogram Sheldon? Cool."
+            ],
+            [
+                42,
+                "That a bunch of awkward scientists with no social skills would invent a machine to do it for them?"
+            ],
+            [
+                53,
+                "I was thinking maybe a library or a gaming room."
+            ],
+            [
+                55,
+                "I don\u2019t like trains. You like trains."
+            ],
+            [
+                59,
+                "Well, when you get the machine, you can find out."
+            ],
+            [
+                63,
+                "No, Raj, that\u2019s a terrible idea."
+            ],
+            [
+                67,
+                "Hey, great news. The TV I want will fit in the gaming room, and if I leave the curtains open, I can watch it from work."
+            ],
+            [
+                69,
+                "Oh. Yeah. Okay, sure. What\u2019s going on with your brother?"
+            ],
+            [
+                71,
+                "Huh. Is that a good idea? I mean, you think they\u2019ll consider someone who was in prison for selling drugs?"
+            ],
+            [
+                73,
+                "Well, I\u2019m sure he\u2019ll appreciate carrying his samples in a briefcase instead of his colon. How long do you think he\u2019ll stay?"
+            ],
+            [
+                75,
+                "Hmm. Who knows? That\u2019s exciting. I\u2019ll get to wake up every morning and see if he\u2019s still here."
+            ],
+            [
+                77,
+                "Of course not. I mean, he\u2019s your brother."
+            ],
+            [
+                79,
+                "Remember that when the new TV falls off the wall and crushes us both."
+            ],
+            [
+                112,
+                "Yeah, sure. He really worked with the Drug Enforcement Agency?"
+            ],
+            [
+                115,
+                "How\u2019s it working out?"
+            ],
+            [
+                117,
+                "That\u2019s great, I\u2019m happy for you."
+            ],
+            [
+                122,
+                "No, it doesn\u2019t."
+            ],
+            [
+                125,
+                "No."
+            ],
+            [
+                127,
+                "I said no."
+            ],
+            [
+                130,
+                "Fine. You invited your drug dealer brother to stay with us for God knows how long and didn\u2019t bother to ask me first."
+            ],
+            [
+                133,
+                "I\u2019m not saying you have to ask my permission, but you could have talked to me about it before you said it was okay."
+            ],
+            [
+                135,
+                "Our gaming room. I was gonna put a scented candle in it."
+            ],
+            [
+                140,
+                "Because I didn\u2019t want to sound like a jerk."
+            ],
+            [
+                142,
+                "If you get him a job, he\u2019s gonna live here forever!"
+            ],
+            [
+                144,
+                "Has he ever had his own place?"
+            ],
+            [
+                146,
+                "Did it have a metal toilet next to the bed?"
+            ],
+            [
+                150,
+                "Stay out of this. You and your stupid machine started this fight."
+            ],
+            [
+                213,
+                "We owe you an apology."
+            ],
+            [
+                215,
+                "That was six years ago. I\u2019m talking about tonight."
+            ],
+            [
+                218,
+                "And, sorry about the suitcase."
+            ],
+            [
+                221,
+                "Mm, Penny\u2019s gonna call her dad and tell him it\u2019s not a good time for Randall to visit."
+            ],
+            [
+                223,
+                "Oh, you\u2019re his little girl, he can\u2019t stay mad at you."
+            ],
+            [
+                225,
+                "So you\u2019re gonna throw me under the bus?"
+            ],
+            [
+                228,
+                "That\u2019s because we are."
+            ],
+            [
+                264,
+                "We can\u2019t. He was already fixed when I found him at the shelter."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "I broke up with her."
+            ],
+            [
+                4,
+                "She said she didn\u2019t want to see me any more and I found that insulting."
+            ],
+            [
+                6,
+                "I don\u2019t know, she didn\u2019t even give me a reason."
+            ],
+            [
+                8,
+                "Can we not play this game?"
+            ],
+            [
+                11,
+                "That\u2019s okay, I\u2019m fine."
+            ],
+            [
+                13,
+                "I\u2019m not a virgin, Sheldon."
+            ],
+            [
+                26,
+                "It\u2019s okay, I\u2019m fine."
+            ],
+            [
+                28,
+                "Sheldon, when I said I was fine, I meant I didn\u2019t want to talk about it any more."
+            ],
+            [
+                52,
+                "Now that Sheldon\u2019s across the hall, have you decided what you\u2019re doing with his old room?"
+            ],
+            [
+                60,
+                "Maybe I could use it to understand why women keep dumping me."
+            ],
+            [
+                62,
+                "That\u2019s actually not a bad idea. Maybe I could even get them all together, sort of like a, a focus group, to find out what\u2019s wrong with me."
+            ],
+            [
+                101,
+                "Yeah. I\u2019m getting all my exes together in order to discuss why they broke up with me and how I can be a better boyfriend."
+            ],
+            [
+                103,
+                "We are going to find out."
+            ],
+            [
+                105,
+                "Well, I want information in order to improve myself."
+            ],
+            [
+                107,
+                "Don\u2019t worry, I\u2019m a grown man. I have a thick skin."
+            ],
+            [
+                109,
+                "Hey. "
+            ],
+            [
+                157,
+                "Okay, first off, I want to thank you all so much for coming. Howard is here to interpret for Emily, and to take notes. "
+            ],
+            [
+                159,
+                "Uh, heads up, both of you are named Emily, so we\u2019ll call you red-headed Emily, and you, red-headed Emily, Junior."
+            ],
+            [
+                161,
+                "Okay, uh, let\u2019s get things started. Um, why don\u2019t we go around the room, say your name, and why you broke up with me. Want to kick it off?"
+            ],
+            [
+                165,
+                "I did do that. I can be insensitive to other people\u2019s boundaries. Howard, would you write that down?"
+            ],
+            [
+                167,
+                "Uh, next?"
+            ],
+            [
+                169,
+                "Okay, new rule, everybody only gets one. Uh, next?"
+            ],
+            [
+                171,
+                "Oh. He\u2019s here to support me, so anything you have to say you can say in front of him."
+            ],
+            [
+                173,
+                "Howard, get out."
+            ],
+            [
+                192,
+                "Okay, that\u2019s enough. Write down loving son."
+            ],
+            [
+                194,
+                "Yes, I\u2019ll take you back."
+            ],
+            [
+                196,
+                "Well, that\u2019s hard to hear, but I\u2019ll still take you back."
+            ],
+            [
+                199,
+                "Would you stop writing? Wait, so, did all of you go on to better relationships after me?"
+            ],
+            [
+                204,
+                "What did she say?"
+            ],
+            [
+                206,
+                "Okay, maybe we should just end this."
+            ],
+            [
+                208,
+                "Thank you, Howard."
+            ],
+            [
+                232,
+                "Well, that was a waste of time. I\u2019m such an idiot."
+            ],
+            [
+                234,
+                "Maybe I won\u2019t settle down. Maybe I\u2019ll just play the field."
+            ],
+            [
+                236,
+                "Dude, come on."
+            ],
+            [
+                238,
+                "I appreciate the offer, but if things don\u2019t work out with you two, I\u2019m swooping in on her like a vulture."
+            ],
+            [
+                240,
+                "But theoretically, if you and I were in a gay relationship, how would we tell people? Like, print up announcements?"
+            ],
+            [
+                242,
+                "Well, I want to make sure we get invited to all the parades. "
+            ],
+            [
+                244,
+                "Yeah. Well, if you want to march in a fishnet crop top, you better lay off that dip."
+            ],
+            [
+                246,
+                "It was for the girls. They broke up with me, I don\u2019t care if they get fat."
+            ],
+            [
+                248,
+                "Oh, you want to bet? You never exercise."
+            ],
+            [
+                250,
+                "Very mature. Keep eating like that, you\u2019re gonna have a heart attack."
+            ],
+            [
+                252,
+                "You\u2019re such a child."
+            ],
+            [
+                254,
+                "Hey, I was being hypothetical, okay? I would never marry you."
+            ],
+            [
+                256,
+                "Yeah, right. Wait, is it rose gold? Actually, don\u2019t tell me, I want to be surprised."
+            ],
+            [
+                261,
+                "You know, I just read a study that suggests new mothers are better at sensing emotions for up to two years."
+            ]
+        ],
+        "Howard": [
+            [
+                5,
+                "I thought things were going well. What happened?"
+            ],
+            [
+                17,
+                "Sometimes people say things they don\u2019t mean."
+            ],
+            [
+                30,
+                "Because that\u2019s not what people do."
+            ],
+            [
+                44,
+                "You if it\u2019s at MIT, I can make some calls. Maybe we can get Sheldon a prototype."
+            ],
+            [
+                57,
+                "Sheldon, I just heard from the guys at MIT about that emotion reader. They\u2019re sending a prototype for you to beta test."
+            ],
+            [
+                61,
+                "Well, you don\u2019t need a machine for that, just send a survey card to all your ex-girlfriends and tell them if they fill it out they might win a prize."
+            ],
+            [
+                64,
+                "Yeah, I was joking."
+            ],
+            [
+                81,
+                "This thing\u2019s pretty cool. It interprets emotions using a wireless signal to analyse subtle changes in breathing and heart rate."
+            ],
+            [
+                84,
+                "The display is synced to your phone. Give it a try."
+            ],
+            [
+                86,
+                "Okay, remember, it can only detect happy, sad, angry and excited. Not other things you\u2019re feeling, like, what have I done with my life?"
+            ],
+            [
+                91,
+                "Try another one."
+            ],
+            [
+                102,
+                "Oh, God. You went through with that? What is wrong with you?"
+            ],
+            [
+                108,
+                "You\u2019re so stupid."
+            ],
+            [
+                158,
+                "No, he doesn\u2019t think it\u2019s stupid."
+            ],
+            [
+                160,
+                "Hey, you went out with him. I didn\u2019t."
+            ],
+            [
+                163,
+                "Like this one?"
+            ],
+            [
+                166,
+                "Schmuck. Got it."
+            ],
+            [
+                174,
+                "Not a chance. So, you were telling us how Raj was terrible in bed."
+            ],
+            [
+                198,
+                "Sorry, is that Gary with one R or two?"
+            ],
+            [
+                205,
+                "Uh, basically, she traded you for Bruce Wayne."
+            ],
+            [
+                207,
+                "Wait, hang on. I just want to point out to everyone here, this is a man who is going to great lengths to better himself. Even at the risk of being humiliated. And I, for one, think that\u2019s very brave."
+            ],
+            [
+                210,
+                "Well, like you gals, I had to suffer through him to find Bernadette."
+            ],
+            [
+                231,
+                "Thanks, ladies, this was fun. Let\u2019s not wait so long for another bizarre, awkward night."
+            ],
+            [
+                233,
+                "Don\u2019t beat yourself up. That\u2019s what I\u2019m here for."
+            ],
+            [
+                235,
+                "Yeah, the field was just here. The field said no."
+            ],
+            [
+                237,
+                "Okay, I\u2019ll tell you what. I\u2019ll make you a deal. 30 years from now, if you\u2019re still single and things don\u2019t work out with me and Bernadette, you and I can give it a go."
+            ],
+            [
+                239,
+                "Too late. Stuart called dibs."
+            ],
+            [
+                241,
+                "I don\u2019t know. What difference does it make?"
+            ],
+            [
+                243,
+                "Those do look fun."
+            ],
+            [
+                245,
+                "If you didn\u2019t want me to eat it, why\u2019d you put it out?"
+            ],
+            [
+                247,
+                "I\u2019m not gonna get fat."
+            ],
+            [
+                249,
+                "Fine. Look, I\u2019ll exercise right now. One, two. These are crunches, by the way."
+            ],
+            [
+                251,
+                "Okay. How about if I eat like this?"
+            ],
+            [
+                253,
+                "Hey, is that any way to talk to your future husband?"
+            ],
+            [
+                255,
+                "Please. When you see the ring I pick out, you\u2019re gonna melt."
+            ]
+        ],
+        "Sheldon": [
+            [
+                7,
+                "That\u2019s not a problem, we can figure this out. What are the reasons women reject Raj?"
+            ],
+            [
+                9,
+                "Doesn\u2019t like games. That\u2019s one."
+            ],
+            [
+                12,
+                "Of course you\u2019re fine. Not every member of a species finds a mate. Sir Isaac Newton died a virgin, look at the contributions he made."
+            ],
+            [
+                14,
+                "So now you think you\u2019re better than Isaac Newton? Oh, no wonder women don\u2019t like you."
+            ],
+            [
+                16,
+                "What? He said he was fine."
+            ],
+            [
+                18,
+                "Oh, that\u2019s a paradox. I mean if you meant what you just said, then that means you may not have meant what you just said."
+            ],
+            [
+                21,
+                "Well, I thought we were having a nice conversation, but it turns out I was being offensive."
+            ],
+            [
+                23,
+                "Yeah."
+            ],
+            [
+                25,
+                "We were discussing Raj\u2019s recent breakup and apparently, I was insensitive to him."
+            ],
+            [
+                27,
+                "Don\u2019t fall for it. He\u2019ll get you to compare him to a dead virgin, and suddenly you\u2019re the bad guy."
+            ],
+            [
+                29,
+                "Then why didn\u2019t you say that?"
+            ],
+            [
+                31,
+                "Well, I would prefer if people told me exactly what is on their mind."
+            ],
+            [
+                33,
+                "Well, it certainly would be easier. You have no idea what it\u2019s like to struggle with recognizing emotional cues."
+            ],
+            [
+                35,
+                "Thank you."
+            ],
+            [
+                37,
+                "Okay, now you\u2019re just showing off."
+            ],
+            [
+                46,
+                "A machine that reads emotions is intriguing. It could help me be a more considerate friend."
+            ],
+            [
+                48,
+                "It could also help me identify my enemies, discover their fears and then I could use those fears to destroy them."
+            ],
+            [
+                54,
+                "You could make it a train room."
+            ],
+            [
+                56,
+                "I know, and Amy says I can\u2019t have a train room."
+            ],
+            [
+                58,
+                "Wonderful. Although I\u2019m not sure how I feel about being used as a guinea pig."
+            ],
+            [
+                83,
+                "Yes. Now, when the robots rise up, they\u2019ll know that I\u2019ve been rooting for them the whole time."
+            ],
+            [
+                88,
+                "You are happy?"
+            ],
+            [
+                90,
+                "Aw. Somebody\u2019s ignoring their tiny needle teeth, but all right. "
+            ],
+            [
+                93,
+                "Sad."
+            ],
+            [
+                95,
+                "Oh, that makes sense, \u2019cause she\u2019s gone and you miss her."
+            ],
+            [
+                97,
+                "And you\u2019re worried that turkey neck is in your future. What, now, see, now it says you\u2019re mad. Make up your mind."
+            ],
+            [
+                114,
+                "Hey, Leonard, if you\u2019re happy and you know it, no need to clap your hands, because I have an emotion detector."
+            ],
+            [
+                116,
+                "Surprisingly well."
+            ],
+            [
+                118,
+                "No, wait, uh, hold on. Oh, what, you are. Aren\u2019t you sweet?"
+            ],
+            [
+                121,
+                "Oh, ooh! And that makes Leonard angry."
+            ],
+            [
+                123,
+                "What, Leonard, please. I know an angry face when I see it. It\u2019s this red frowny guy on my phone."
+            ],
+            [
+                126,
+                "Yes."
+            ],
+            [
+                128,
+                "It\u2019s like you\u2019re twins."
+            ],
+            [
+                132,
+                "Well, hey. Now she\u2019s angry, too. This thing works like gangbusters."
+            ],
+            [
+                136,
+                "He\u2019s still mad."
+            ],
+            [
+                138,
+                "You first."
+            ],
+            [
+                148,
+                "Hey, I shared my Honey Nut Cheerios with you."
+            ],
+            [
+                151,
+                "You are lucky that this feelings machine doesn\u2019t have feelings."
+            ],
+            [
+                153,
+                "Gladly. Can we storm out?"
+            ],
+            [
+                155,
+                "Fine. I\u2019ll just give them the finger."
+            ],
+            [
+                177,
+                "Not really."
+            ],
+            [
+                179,
+                "I wish I never tried that device. And I know I said the same thing after the massage chair, but this time I mean it."
+            ],
+            [
+                181,
+                "It\u2019s more than that. It\u2019s me. I always knew I had trouble recognizing other people\u2019s emotions, but that machine just made it so real."
+            ],
+            [
+                183,
+                "I thought I was getting better at it, but clearly I\u2019m not."
+            ],
+            [
+                185,
+                "Yeah, but that\u2019s shooting fish in a barrel. You\u2019re kind of a sad sack. I\u2019m sorry, I shouldn\u2019t have said that. I\u2019m just upset."
+            ],
+            [
+                187,
+                "I feel the same way about you. Now, put your glasses back on. You look weird."
+            ],
+            [
+                212,
+                "Yes?"
+            ],
+            [
+                214,
+                "Oh, it\u2019s fine. You needed a suitcase, I wasn\u2019t home, you borrowed a suitcase."
+            ],
+            [
+                216,
+                "Oh. Well, I thought we were going in order."
+            ],
+            [
+                219,
+                "Yeah, well, you should be. Your socks were still in it. I had to throw it away. Anyway, I, uh, trust that you\u2019ve resolved your conflict."
+            ],
+            [
+                227,
+                "Uh, guys, it sounds like you\u2019re getting angry again."
+            ],
+            [
+                229,
+                "Yes. I don\u2019t need an emotion machine. I am one."
+            ],
+            [
+                259,
+                "I did. You know, I\u2019m not even sure how accurate it was. I took it to the train store, it said everyone was sad."
+            ],
+            [
+                265,
+                "Hey, uh, Bernadette, let\u2019s test this theory. What do you think I\u2019m feeling right now?"
+            ],
+            [
+                267,
+                "Keep filling this one with babies. She\u2019s good."
+            ]
+        ],
+        "Penny": [
+            [
+                20,
+                "Hey, boys. How\u2019s it going?"
+            ],
+            [
+                32,
+                "No. No, you don\u2019t, you really don\u2019t. I actually can\u2019t say don\u2019t enough."
+            ],
+            [
+                41,
+                "Wow, I find that hard to believe."
+            ],
+            [
+                43,
+                "I take it back. I believe it."
+            ],
+            [
+                68,
+                "Hey, can you hold off redoing the room? My brother\u2019s coming out here in a few weeks."
+            ],
+            [
+                70,
+                "My dad asked if I can get him a job interview at my work."
+            ],
+            [
+                72,
+                "Well, I sell pharmaceuticals. That\u2019s just a really hard to spell word for drugs."
+            ],
+            [
+                74,
+                "I, I\u2019m not sure. Maybe a few days. Unless he gets the job, then who knows?"
+            ],
+            [
+                76,
+                "You don\u2019t have a problem with this, do you?"
+            ],
+            [
+                78,
+                "Okay. Thank you, you\u2019re the best. Mm."
+            ],
+            [
+                111,
+                "Hey, would you take a look at my brother\u2019s r\u00e9sum\u00e9? I\u2019m trying to help him clean it up a little."
+            ],
+            [
+                113,
+                "He didn\u2019t know it till he was cuffed, but yeah."
+            ],
+            [
+                120,
+                "No, it\u2019s my brother\u2019s. I\u2019m trying to help him get a job out here."
+            ],
+            [
+                124,
+                "What? Are you really upset about Randall coming?"
+            ],
+            [
+                129,
+                "Leonard, if you\u2019re mad about this, just tell me."
+            ],
+            [
+                131,
+                "He\u2019s my brother. I didn\u2019t think I needed your permission."
+            ],
+            [
+                134,
+                "Like you talked to me about your gaming room?"
+            ],
+            [
+                139,
+                "If you were this upset, why didn\u2019t you say so when I told you?"
+            ],
+            [
+                141,
+                "Well, you sound like one now. I don\u2019t see the big deal if my brother comes and stays for a while."
+            ],
+            [
+                143,
+                "He would get his own place."
+            ],
+            [
+                145,
+                "Yes."
+            ],
+            [
+                147,
+                "It still counts. You know, how is this any different from you making me live with Sheldon?"
+            ],
+            [
+                149,
+                "You gave me a bill at the end of every month. "
+            ],
+            [
+                217,
+                "Look, we got really angry at each other, and you just got caught in the middle of it."
+            ],
+            [
+                220,
+                "Yes, we\u2019re fine."
+            ],
+            [
+                222,
+                "Hopefully, he won\u2019t be too upset."
+            ],
+            [
+                224,
+                "He won\u2019t be mad at me. I mean, you\u2019re the one who doesn\u2019t want my brother to come, so\u2026"
+            ],
+            [
+                226,
+                "Oh, I\u2019m gonna throw you so hard, I might actually win a stuffed animal."
+            ],
+            [
+                258,
+                "So, did you wind up sending that machine back?"
+            ],
+            [
+                263,
+                "So, all we need to do is get Sheldon knocked up."
+            ]
+        ],
+        "Bernadette": [
+            [
+                22,
+                "So, normal."
+            ],
+            [
+                38,
+                "You know, I just read that a team at MIT. developed a device that helps people read human emotions."
+            ],
+            [
+                40,
+                "It\u2019s supposed to be accurate, like, 85% of the time."
+            ],
+            [
+                47,
+                "Wouldn\u2019t that be nice."
+            ],
+            [
+                49,
+                "I like the first one."
+            ],
+            [
+                100,
+                "Is that Emily your ex-girlfriend?"
+            ],
+            [
+                104,
+                "Why would you do that, Raj?"
+            ],
+            [
+                106,
+                "You\u2019re not gonna get information, you\u2019re just gonna get criticism that hurts your feelings."
+            ],
+            [
+                260,
+                "I finally got Halley to sleep."
+            ],
+            [
+                266,
+                "Let\u2019s see. You\u2019re better than us, a little bit sorry for us, but mostly glad you don\u2019t have to be us."
+            ]
+        ],
+        "Amy": [
+            [
+                24,
+                "Sheldon, what did you do?"
+            ],
+            [
+                34,
+                "I\u2019m sure it\u2019s extremely frustrating."
+            ],
+            [
+                36,
+                "And also a little sad."
+            ],
+            [
+                45,
+                "What do you think?"
+            ],
+            [
+                82,
+                "It\u2019s amazing a machine can do that."
+            ],
+            [
+                85,
+                "All right. Now, I\u2019m gonna look at some pictures to prompt an emotional response, and we\u2019ll see if the machine can identify them accurately."
+            ],
+            [
+                87,
+                "Okay, I\u2019m looking at the first picture."
+            ],
+            [
+                89,
+                "Yes. I\u2019m looking at puppi"
+            ],
+            [
+                92,
+                "Okay. What does it say I\u2019m feeling?"
+            ],
+            [
+                94,
+                "Yes. I\u2019m looking at a picture of my grandma."
+            ],
+            [
+                96,
+                "Yes."
+            ],
+            [
+                119,
+                "What\u2019s that? Are you working on your resume?"
+            ],
+            [
+                137,
+                "Stop enjoying their fight."
+            ],
+            [
+                152,
+                "Come on, Sheldon, let\u2019s go."
+            ],
+            [
+                154,
+                "I think it loses its impact if we\u2019re chatting about it."
+            ],
+            [
+                176,
+                "Sheldon, dinner\u2019s ready. I made beef loaf, because I know you\u2019re uncomfortable with the non-specificity of meat loaf. Sheldon? Hey, are you okay?"
+            ],
+            [
+                178,
+                "What\u2019s going on?"
+            ],
+            [
+                180,
+                "I\u2019m sorry Leonard and Penny hurt your feelings."
+            ],
+            [
+                182,
+                "Well, everybody has things that they need help with. Like me, I can\u2019t see without my glasses. And right now you\u2019re just a, a cute, pink smudge wearing a childish green smudge."
+            ],
+            [
+                184,
+                "Yes, you are. There have definitely been days when I was sad and you could tell."
+            ],
+            [
+                186,
+                "No, see, right there, you knew you hurt my feelings. And I\u2019m proud of you, for reasons I\u2019m sure have something to do with my father. And if you don\u2019t like that machine, get rid of it. Because I love you exactly the way you are."
+            ],
+            [
+                262,
+                "It\u2019s true. Pregnancy causes physiological changes in the brain that result in increased empathy."
+            ]
+        ],
+        "Sheldon: Really? Uh, little tip": [
+            [
+                65,
+                "jokes are often better when you end them with wocka wocka or ha-cha-cha."
+            ]
+        ],
+        "Raj (on phone)": [
+            [
+                99,
+                "Okay, Emily. Yeah, sounds great. See you then."
+            ]
+        ],
+        "Lucy": [
+            [
+                162,
+                "Oh, okay. Um, I\u2019m Lucy, and I broke up with Raj because I have severe social anxiety, and he kept trying to force me into uncomfortable situations."
+            ],
+            [
+                164,
+                "Yeah."
+            ],
+            [
+                193,
+                "Can I just say something? Going out with Raj was one of the best things that ever happened to me."
+            ],
+            [
+                195,
+                "Let me finish. It\u2019s like I needed to go through that experience to know what exactly I don\u2019t want in a man."
+            ],
+            [
+                200,
+                "Oh, yeah."
+            ]
+        ],
+        "Claire": [
+            [
+                168,
+                "Okay. Um, I\u2019m Claire. And I guess I broke up with you because you were just really needy. Also, you were incredibly vain, like, all the time you spent shaping your eyebrows."
+            ],
+            [
+                191,
+                "Kind of?"
+            ],
+            [
+                202,
+                "Little before, actually."
+            ]
+        ],
+        "Emily": [
+            [
+                170,
+                "Ooh, I\u2019m not sure I\u2019m comfortable sharing details about our relationship in front of Howard."
+            ],
+            [
+                172,
+                "Okay. Well, whenever you and I were in bed\u2026"
+            ],
+            [
+                190,
+                "Oh, yeah, that used to drive me nuts. He\u2019s kind of a mama\u2019s boy."
+            ],
+            [
+                197,
+                "You know, the same thing happened to me. After I broke up with Raj, I met Gary, who\u2019s just amazing."
+            ],
+            [
+                201,
+                "Without question."
+            ],
+            [
+                209,
+                "Honestly, I\u2019m surprised you two didn\u2019t wind up together."
+            ]
+        ],
+        "Howard (translating for other Emily)": [
+            [
+                189,
+                "I thought you were great, but, oh, my God, you were so dominated by your parents."
+            ]
+        ],
+        "Howard (responding to other Emily)": [
+            [
+                203,
+                "Oh, wow. Don\u2019t let him get away."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Leonard",
+            "What\u2019s going on with that woman you\u2019re dating?"
+        ],
+        [
+            "Raj",
+            "I broke up with her."
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Raj",
+            "She said she didn\u2019t want to see me any more and I found that insulting."
+        ],
+        [
+            "Howard",
+            "I thought things were going well. What happened?"
+        ],
+        [
+            "Raj",
+            "I don\u2019t know, she didn\u2019t even give me a reason."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not a problem, we can figure this out. What are the reasons women reject Raj?"
+        ],
+        [
+            "Raj",
+            "Can we not play this game?"
+        ],
+        [
+            "Sheldon",
+            "Doesn\u2019t like games. That\u2019s one."
+        ],
+        [
+            "Leonard",
+            "Ignore him. Yeah, sorry about the breakup."
+        ],
+        [
+            "Raj",
+            "That\u2019s okay, I\u2019m fine."
+        ],
+        [
+            "Sheldon",
+            "Of course you\u2019re fine. Not every member of a species finds a mate. Sir Isaac Newton died a virgin, look at the contributions he made."
+        ],
+        [
+            "Raj",
+            "I\u2019m not a virgin, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "So now you think you\u2019re better than Isaac Newton? Oh, no wonder women don\u2019t like you."
+        ],
+        [
+            "Leonard",
+            "You\u2019re not being very nice."
+        ],
+        [
+            "Sheldon",
+            "What? He said he was fine."
+        ],
+        [
+            "Howard",
+            "Sometimes people say things they don\u2019t mean."
+        ],
+        [
+            "Sheldon",
+            "Oh, that\u2019s a paradox. I mean if you meant what you just said, then that means you may not have meant what you just said."
+        ],
+        [
+            "Leonard",
+            "Careful, I saw this on Star Trek. Smoke\u2019s gonna come out of his ears soon. Hey."
+        ],
+        [
+            "Penny",
+            "Hey, boys. How\u2019s it going?"
+        ],
+        [
+            "Sheldon",
+            "Well, I thought we were having a nice conversation, but it turns out I was being offensive."
+        ],
+        [
+            "Bernadette",
+            "So, normal."
+        ],
+        [
+            "Sheldon",
+            "Yeah."
+        ],
+        [
+            "Amy",
+            "Sheldon, what did you do?"
+        ],
+        [
+            "Sheldon",
+            "We were discussing Raj\u2019s recent breakup and apparently, I was insensitive to him."
+        ],
+        [
+            "Raj",
+            "It\u2019s okay, I\u2019m fine."
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t fall for it. He\u2019ll get you to compare him to a dead virgin, and suddenly you\u2019re the bad guy."
+        ],
+        [
+            "Raj",
+            "Sheldon, when I said I was fine, I meant I didn\u2019t want to talk about it any more."
+        ],
+        [
+            "Sheldon",
+            "Then why didn\u2019t you say that?"
+        ],
+        [
+            "Howard",
+            "Because that\u2019s not what people do."
+        ],
+        [
+            "Sheldon",
+            "Well, I would prefer if people told me exactly what is on their mind."
+        ],
+        [
+            "Penny",
+            "No. No, you don\u2019t, you really don\u2019t. I actually can\u2019t say don\u2019t enough."
+        ],
+        [
+            "Sheldon",
+            "Well, it certainly would be easier. You have no idea what it\u2019s like to struggle with recognizing emotional cues."
+        ],
+        [
+            "Amy",
+            "I\u2019m sure it\u2019s extremely frustrating."
+        ],
+        [
+            "Sheldon",
+            "Thank you."
+        ],
+        [
+            "Amy",
+            "And also a little sad."
+        ],
+        [
+            "Sheldon",
+            "Okay, now you\u2019re just showing off."
+        ],
+        [
+            "Bernadette",
+            "You know, I just read that a team at MIT. developed a device that helps people read human emotions."
+        ],
+        [
+            "Leonard",
+            "And you think we can get those guys to reprogram Sheldon? Cool."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s supposed to be accurate, like, 85% of the time."
+        ],
+        [
+            "Penny",
+            "Wow, I find that hard to believe."
+        ],
+        [
+            "Leonard",
+            "That a bunch of awkward scientists with no social skills would invent a machine to do it for them?"
+        ],
+        [
+            "Penny",
+            "I take it back. I believe it."
+        ],
+        [
+            "Howard",
+            "You if it\u2019s at MIT, I can make some calls. Maybe we can get Sheldon a prototype."
+        ],
+        [
+            "Amy",
+            "What do you think?"
+        ],
+        [
+            "Sheldon",
+            "A machine that reads emotions is intriguing. It could help me be a more considerate friend."
+        ],
+        [
+            "Bernadette",
+            "Wouldn\u2019t that be nice."
+        ],
+        [
+            "Sheldon",
+            "It could also help me identify my enemies, discover their fears and then I could use those fears to destroy them."
+        ],
+        [
+            "Bernadette",
+            "I like the first one."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The comic book store. "
+        ],
+        [
+            "Raj",
+            "Now that Sheldon\u2019s across the hall, have you decided what you\u2019re doing with his old room?"
+        ],
+        [
+            "Leonard",
+            "I was thinking maybe a library or a gaming room."
+        ],
+        [
+            "Sheldon",
+            "You could make it a train room."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t like trains. You like trains."
+        ],
+        [
+            "Sheldon",
+            "I know, and Amy says I can\u2019t have a train room."
+        ],
+        [
+            "Howard",
+            "Sheldon, I just heard from the guys at MIT about that emotion reader. They\u2019re sending a prototype for you to beta test."
+        ],
+        [
+            "Sheldon",
+            "Wonderful. Although I\u2019m not sure how I feel about being used as a guinea pig."
+        ],
+        [
+            "Leonard",
+            "Well, when you get the machine, you can find out."
+        ],
+        [
+            "Raj",
+            "Maybe I could use it to understand why women keep dumping me."
+        ],
+        [
+            "Howard",
+            "Well, you don\u2019t need a machine for that, just send a survey card to all your ex-girlfriends and tell them if they fill it out they might win a prize."
+        ],
+        [
+            "Raj",
+            "That\u2019s actually not a bad idea. Maybe I could even get them all together, sort of like a, a focus group, to find out what\u2019s wrong with me."
+        ],
+        [
+            "Leonard",
+            "No, Raj, that\u2019s a terrible idea."
+        ],
+        [
+            "Howard",
+            "Yeah, I was joking."
+        ],
+        [
+            "Sheldon: Really? Uh, little tip",
+            "jokes are often better when you end them with wocka wocka or ha-cha-cha."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Hey, great news. The TV I want will fit in the gaming room, and if I leave the curtains open, I can watch it from work."
+        ],
+        [
+            "Penny",
+            "Hey, can you hold off redoing the room? My brother\u2019s coming out here in a few weeks."
+        ],
+        [
+            "Leonard",
+            "Oh. Yeah. Okay, sure. What\u2019s going on with your brother?"
+        ],
+        [
+            "Penny",
+            "My dad asked if I can get him a job interview at my work."
+        ],
+        [
+            "Leonard",
+            "Huh. Is that a good idea? I mean, you think they\u2019ll consider someone who was in prison for selling drugs?"
+        ],
+        [
+            "Penny",
+            "Well, I sell pharmaceuticals. That\u2019s just a really hard to spell word for drugs."
+        ],
+        [
+            "Leonard",
+            "Well, I\u2019m sure he\u2019ll appreciate carrying his samples in a briefcase instead of his colon. How long do you think he\u2019ll stay?"
+        ],
+        [
+            "Penny",
+            "I, I\u2019m not sure. Maybe a few days. Unless he gets the job, then who knows?"
+        ],
+        [
+            "Leonard",
+            "Hmm. Who knows? That\u2019s exciting. I\u2019ll get to wake up every morning and see if he\u2019s still here."
+        ],
+        [
+            "Penny",
+            "You don\u2019t have a problem with this, do you?"
+        ],
+        [
+            "Leonard",
+            "Of course not. I mean, he\u2019s your brother."
+        ],
+        [
+            "Penny",
+            "Okay. Thank you, you\u2019re the best. Mm."
+        ],
+        [
+            "Leonard",
+            "Remember that when the new TV falls off the wall and crushes us both."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Howard",
+            "This thing\u2019s pretty cool. It interprets emotions using a wireless signal to analyse subtle changes in breathing and heart rate."
+        ],
+        [
+            "Amy",
+            "It\u2019s amazing a machine can do that."
+        ],
+        [
+            "Sheldon",
+            "Yes. Now, when the robots rise up, they\u2019ll know that I\u2019ve been rooting for them the whole time."
+        ],
+        [
+            "Howard",
+            "The display is synced to your phone. Give it a try."
+        ],
+        [
+            "Amy",
+            "All right. Now, I\u2019m gonna look at some pictures to prompt an emotional response, and we\u2019ll see if the machine can identify them accurately."
+        ],
+        [
+            "Howard",
+            "Okay, remember, it can only detect happy, sad, angry and excited. Not other things you\u2019re feeling, like, what have I done with my life?"
+        ],
+        [
+            "Amy",
+            "Okay, I\u2019m looking at the first picture."
+        ],
+        [
+            "Sheldon",
+            "You are happy?"
+        ],
+        [
+            "Amy",
+            "Yes. I\u2019m looking at puppi"
+        ],
+        [
+            "Sheldon",
+            "Aw. Somebody\u2019s ignoring their tiny needle teeth, but all right. "
+        ],
+        [
+            "Howard",
+            "Try another one."
+        ],
+        [
+            "Amy",
+            "Okay. What does it say I\u2019m feeling?"
+        ],
+        [
+            "Sheldon",
+            "Sad."
+        ],
+        [
+            "Amy",
+            "Yes. I\u2019m looking at a picture of my grandma."
+        ],
+        [
+            "Sheldon",
+            "Oh, that makes sense, \u2019cause she\u2019s gone and you miss her."
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "And you\u2019re worried that turkey neck is in your future. What, now, see, now it says you\u2019re mad. Make up your mind."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen. "
+        ],
+        [
+            "Raj (on phone)",
+            "Okay, Emily. Yeah, sounds great. See you then."
+        ],
+        [
+            "Bernadette",
+            "Is that Emily your ex-girlfriend?"
+        ],
+        [
+            "Raj",
+            "Yeah. I\u2019m getting all my exes together in order to discuss why they broke up with me and how I can be a better boyfriend."
+        ],
+        [
+            "Howard",
+            "Oh, God. You went through with that? What is wrong with you?"
+        ],
+        [
+            "Raj",
+            "We are going to find out."
+        ],
+        [
+            "Bernadette",
+            "Why would you do that, Raj?"
+        ],
+        [
+            "Raj",
+            "Well, I want information in order to improve myself."
+        ],
+        [
+            "Bernadette",
+            "You\u2019re not gonna get information, you\u2019re just gonna get criticism that hurts your feelings."
+        ],
+        [
+            "Raj",
+            "Don\u2019t worry, I\u2019m a grown man. I have a thick skin."
+        ],
+        [
+            "Howard",
+            "You\u2019re so stupid."
+        ],
+        [
+            "Raj",
+            "Hey. "
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Hey, would you take a look at my brother\u2019s r\u00e9sum\u00e9? I\u2019m trying to help him clean it up a little."
+        ],
+        [
+            "Leonard",
+            "Yeah, sure. He really worked with the Drug Enforcement Agency?"
+        ],
+        [
+            "Penny",
+            "He didn\u2019t know it till he was cuffed, but yeah."
+        ],
+        [
+            "Sheldon",
+            "Hey, Leonard, if you\u2019re happy and you know it, no need to clap your hands, because I have an emotion detector."
+        ],
+        [
+            "Leonard",
+            "How\u2019s it working out?"
+        ],
+        [
+            "Sheldon",
+            "Surprisingly well."
+        ],
+        [
+            "Leonard",
+            "That\u2019s great, I\u2019m happy for you."
+        ],
+        [
+            "Sheldon",
+            "No, wait, uh, hold on. Oh, what, you are. Aren\u2019t you sweet?"
+        ],
+        [
+            "Amy",
+            "What\u2019s that? Are you working on your resume?"
+        ],
+        [
+            "Penny",
+            "No, it\u2019s my brother\u2019s. I\u2019m trying to help him get a job out here."
+        ],
+        [
+            "Sheldon",
+            "Oh, ooh! And that makes Leonard angry."
+        ],
+        [
+            "Leonard",
+            "No, it doesn\u2019t."
+        ],
+        [
+            "Sheldon",
+            "What, Leonard, please. I know an angry face when I see it. It\u2019s this red frowny guy on my phone."
+        ],
+        [
+            "Penny",
+            "What? Are you really upset about Randall coming?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "I said no."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s like you\u2019re twins."
+        ],
+        [
+            "Penny",
+            "Leonard, if you\u2019re mad about this, just tell me."
+        ],
+        [
+            "Leonard",
+            "Fine. You invited your drug dealer brother to stay with us for God knows how long and didn\u2019t bother to ask me first."
+        ],
+        [
+            "Penny",
+            "He\u2019s my brother. I didn\u2019t think I needed your permission."
+        ],
+        [
+            "Sheldon",
+            "Well, hey. Now she\u2019s angry, too. This thing works like gangbusters."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not saying you have to ask my permission, but you could have talked to me about it before you said it was okay."
+        ],
+        [
+            "Penny",
+            "Like you talked to me about your gaming room?"
+        ],
+        [
+            "Leonard",
+            "Our gaming room. I was gonna put a scented candle in it."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s still mad."
+        ],
+        [
+            "Amy",
+            "Stop enjoying their fight."
+        ],
+        [
+            "Sheldon",
+            "You first."
+        ],
+        [
+            "Penny",
+            "If you were this upset, why didn\u2019t you say so when I told you?"
+        ],
+        [
+            "Leonard",
+            "Because I didn\u2019t want to sound like a jerk."
+        ],
+        [
+            "Penny",
+            "Well, you sound like one now. I don\u2019t see the big deal if my brother comes and stays for a while."
+        ],
+        [
+            "Leonard",
+            "If you get him a job, he\u2019s gonna live here forever!"
+        ],
+        [
+            "Penny",
+            "He would get his own place."
+        ],
+        [
+            "Leonard",
+            "Has he ever had his own place?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "Did it have a metal toilet next to the bed?"
+        ],
+        [
+            "Penny",
+            "It still counts. You know, how is this any different from you making me live with Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Hey, I shared my Honey Nut Cheerios with you."
+        ],
+        [
+            "Penny",
+            "You gave me a bill at the end of every month. "
+        ],
+        [
+            "Leonard",
+            "Stay out of this. You and your stupid machine started this fight."
+        ],
+        [
+            "Sheldon",
+            "You are lucky that this feelings machine doesn\u2019t have feelings."
+        ],
+        [
+            "Amy",
+            "Come on, Sheldon, let\u2019s go."
+        ],
+        [
+            "Sheldon",
+            "Gladly. Can we storm out?"
+        ],
+        [
+            "Amy",
+            "I think it loses its impact if we\u2019re chatting about it."
+        ],
+        [
+            "Sheldon",
+            "Fine. I\u2019ll just give them the finger."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment. "
+        ],
+        [
+            "Raj",
+            "Okay, first off, I want to thank you all so much for coming. Howard is here to interpret for Emily, and to take notes. "
+        ],
+        [
+            "Howard",
+            "No, he doesn\u2019t think it\u2019s stupid."
+        ],
+        [
+            "Raj",
+            "Uh, heads up, both of you are named Emily, so we\u2019ll call you red-headed Emily, and you, red-headed Emily, Junior."
+        ],
+        [
+            "Howard",
+            "Hey, you went out with him. I didn\u2019t."
+        ],
+        [
+            "Raj",
+            "Okay, uh, let\u2019s get things started. Um, why don\u2019t we go around the room, say your name, and why you broke up with me. Want to kick it off?"
+        ],
+        [
+            "Lucy",
+            "Oh, okay. Um, I\u2019m Lucy, and I broke up with Raj because I have severe social anxiety, and he kept trying to force me into uncomfortable situations."
+        ],
+        [
+            "Howard",
+            "Like this one?"
+        ],
+        [
+            "Lucy",
+            "Yeah."
+        ],
+        [
+            "Raj",
+            "I did do that. I can be insensitive to other people\u2019s boundaries. Howard, would you write that down?"
+        ],
+        [
+            "Howard",
+            "Schmuck. Got it."
+        ],
+        [
+            "Raj",
+            "Uh, next?"
+        ],
+        [
+            "Claire",
+            "Okay. Um, I\u2019m Claire. And I guess I broke up with you because you were just really needy. Also, you were incredibly vain, like, all the time you spent shaping your eyebrows."
+        ],
+        [
+            "Raj",
+            "Okay, new rule, everybody only gets one. Uh, next?"
+        ],
+        [
+            "Emily",
+            "Ooh, I\u2019m not sure I\u2019m comfortable sharing details about our relationship in front of Howard."
+        ],
+        [
+            "Raj",
+            "Oh. He\u2019s here to support me, so anything you have to say you can say in front of him."
+        ],
+        [
+            "Emily",
+            "Okay. Well, whenever you and I were in bed\u2026"
+        ],
+        [
+            "Raj",
+            "Howard, get out."
+        ],
+        [
+            "Howard",
+            "Not a chance. So, you were telling us how Raj was terrible in bed."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "Sheldon, dinner\u2019s ready. I made beef loaf, because I know you\u2019re uncomfortable with the non-specificity of meat loaf. Sheldon? Hey, are you okay?"
+        ],
+        [
+            "Sheldon",
+            "Not really."
+        ],
+        [
+            "Amy",
+            "What\u2019s going on?"
+        ],
+        [
+            "Sheldon",
+            "I wish I never tried that device. And I know I said the same thing after the massage chair, but this time I mean it."
+        ],
+        [
+            "Amy",
+            "I\u2019m sorry Leonard and Penny hurt your feelings."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s more than that. It\u2019s me. I always knew I had trouble recognizing other people\u2019s emotions, but that machine just made it so real."
+        ],
+        [
+            "Amy",
+            "Well, everybody has things that they need help with. Like me, I can\u2019t see without my glasses. And right now you\u2019re just a, a cute, pink smudge wearing a childish green smudge."
+        ],
+        [
+            "Sheldon",
+            "I thought I was getting better at it, but clearly I\u2019m not."
+        ],
+        [
+            "Amy",
+            "Yes, you are. There have definitely been days when I was sad and you could tell."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but that\u2019s shooting fish in a barrel. You\u2019re kind of a sad sack. I\u2019m sorry, I shouldn\u2019t have said that. I\u2019m just upset."
+        ],
+        [
+            "Amy",
+            "No, see, right there, you knew you hurt my feelings. And I\u2019m proud of you, for reasons I\u2019m sure have something to do with my father. And if you don\u2019t like that machine, get rid of it. Because I love you exactly the way you are."
+        ],
+        [
+            "Sheldon",
+            "I feel the same way about you. Now, put your glasses back on. You look weird."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Howard (translating for other Emily)",
+            "I thought you were great, but, oh, my God, you were so dominated by your parents."
+        ],
+        [
+            "Emily",
+            "Oh, yeah, that used to drive me nuts. He\u2019s kind of a mama\u2019s boy."
+        ],
+        [
+            "Claire",
+            "Kind of?"
+        ],
+        [
+            "Raj",
+            "Okay, that\u2019s enough. Write down loving son."
+        ],
+        [
+            "Lucy",
+            "Can I just say something? Going out with Raj was one of the best things that ever happened to me."
+        ],
+        [
+            "Raj",
+            "Yes, I\u2019ll take you back."
+        ],
+        [
+            "Lucy",
+            "Let me finish. It\u2019s like I needed to go through that experience to know what exactly I don\u2019t want in a man."
+        ],
+        [
+            "Raj",
+            "Well, that\u2019s hard to hear, but I\u2019ll still take you back."
+        ],
+        [
+            "Emily",
+            "You know, the same thing happened to me. After I broke up with Raj, I met Gary, who\u2019s just amazing."
+        ],
+        [
+            "Howard",
+            "Sorry, is that Gary with one R or two?"
+        ],
+        [
+            "Raj",
+            "Would you stop writing? Wait, so, did all of you go on to better relationships after me?"
+        ],
+        [
+            "Lucy",
+            "Oh, yeah."
+        ],
+        [
+            "Emily",
+            "Without question."
+        ],
+        [
+            "Claire",
+            "Little before, actually."
+        ],
+        [
+            "Howard (responding to other Emily)",
+            "Oh, wow. Don\u2019t let him get away."
+        ],
+        [
+            "Raj",
+            "What did she say?"
+        ],
+        [
+            "Howard",
+            "Uh, basically, she traded you for Bruce Wayne."
+        ],
+        [
+            "Raj",
+            "Okay, maybe we should just end this."
+        ],
+        [
+            "Howard",
+            "Wait, hang on. I just want to point out to everyone here, this is a man who is going to great lengths to better himself. Even at the risk of being humiliated. And I, for one, think that\u2019s very brave."
+        ],
+        [
+            "Raj",
+            "Thank you, Howard."
+        ],
+        [
+            "Emily",
+            "Honestly, I\u2019m surprised you two didn\u2019t wind up together."
+        ],
+        [
+            "Howard",
+            "Well, like you gals, I had to suffer through him to find Bernadette."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s door. "
+        ],
+        [
+            "Sheldon",
+            "Yes?"
+        ],
+        [
+            "Leonard",
+            "We owe you an apology."
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s fine. You needed a suitcase, I wasn\u2019t home, you borrowed a suitcase."
+        ],
+        [
+            "Leonard",
+            "That was six years ago. I\u2019m talking about tonight."
+        ],
+        [
+            "Sheldon",
+            "Oh. Well, I thought we were going in order."
+        ],
+        [
+            "Penny",
+            "Look, we got really angry at each other, and you just got caught in the middle of it."
+        ],
+        [
+            "Leonard",
+            "And, sorry about the suitcase."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, you should be. Your socks were still in it. I had to throw it away. Anyway, I, uh, trust that you\u2019ve resolved your conflict."
+        ],
+        [
+            "Penny",
+            "Yes, we\u2019re fine."
+        ],
+        [
+            "Leonard",
+            "Mm, Penny\u2019s gonna call her dad and tell him it\u2019s not a good time for Randall to visit."
+        ],
+        [
+            "Penny",
+            "Hopefully, he won\u2019t be too upset."
+        ],
+        [
+            "Leonard",
+            "Oh, you\u2019re his little girl, he can\u2019t stay mad at you."
+        ],
+        [
+            "Penny",
+            "He won\u2019t be mad at me. I mean, you\u2019re the one who doesn\u2019t want my brother to come, so\u2026"
+        ],
+        [
+            "Leonard",
+            "So you\u2019re gonna throw me under the bus?"
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019m gonna throw you so hard, I might actually win a stuffed animal."
+        ],
+        [
+            "Sheldon",
+            "Uh, guys, it sounds like you\u2019re getting angry again."
+        ],
+        [
+            "Leonard",
+            "That\u2019s because we are."
+        ],
+        [
+            "Sheldon",
+            "Yes. I don\u2019t need an emotion machine. I am one."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment. "
+        ],
+        [
+            "Howard",
+            "Thanks, ladies, this was fun. Let\u2019s not wait so long for another bizarre, awkward night."
+        ],
+        [
+            "Raj",
+            "Well, that was a waste of time. I\u2019m such an idiot."
+        ],
+        [
+            "Howard",
+            "Don\u2019t beat yourself up. That\u2019s what I\u2019m here for."
+        ],
+        [
+            "Raj",
+            "Maybe I won\u2019t settle down. Maybe I\u2019ll just play the field."
+        ],
+        [
+            "Howard",
+            "Yeah, the field was just here. The field said no."
+        ],
+        [
+            "Raj",
+            "Dude, come on."
+        ],
+        [
+            "Howard",
+            "Okay, I\u2019ll tell you what. I\u2019ll make you a deal. 30 years from now, if you\u2019re still single and things don\u2019t work out with me and Bernadette, you and I can give it a go."
+        ],
+        [
+            "Raj",
+            "I appreciate the offer, but if things don\u2019t work out with you two, I\u2019m swooping in on her like a vulture."
+        ],
+        [
+            "Howard",
+            "Too late. Stuart called dibs."
+        ],
+        [
+            "Raj",
+            "But theoretically, if you and I were in a gay relationship, how would we tell people? Like, print up announcements?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. What difference does it make?"
+        ],
+        [
+            "Raj",
+            "Well, I want to make sure we get invited to all the parades. "
+        ],
+        [
+            "Howard",
+            "Those do look fun."
+        ],
+        [
+            "Raj",
+            "Yeah. Well, if you want to march in a fishnet crop top, you better lay off that dip."
+        ],
+        [
+            "Howard",
+            "If you didn\u2019t want me to eat it, why\u2019d you put it out?"
+        ],
+        [
+            "Raj",
+            "It was for the girls. They broke up with me, I don\u2019t care if they get fat."
+        ],
+        [
+            "Howard",
+            "I\u2019m not gonna get fat."
+        ],
+        [
+            "Raj",
+            "Oh, you want to bet? You never exercise."
+        ],
+        [
+            "Howard",
+            "Fine. Look, I\u2019ll exercise right now. One, two. These are crunches, by the way."
+        ],
+        [
+            "Raj",
+            "Very mature. Keep eating like that, you\u2019re gonna have a heart attack."
+        ],
+        [
+            "Howard",
+            "Okay. How about if I eat like this?"
+        ],
+        [
+            "Raj",
+            "You\u2019re such a child."
+        ],
+        [
+            "Howard",
+            "Hey, is that any way to talk to your future husband?"
+        ],
+        [
+            "Raj",
+            "Hey, I was being hypothetical, okay? I would never marry you."
+        ],
+        [
+            "Howard",
+            "Please. When you see the ring I pick out, you\u2019re gonna melt."
+        ],
+        [
+            "Raj",
+            "Yeah, right. Wait, is it rose gold? Actually, don\u2019t tell me, I want to be surprised."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "So, did you wind up sending that machine back?"
+        ],
+        [
+            "Sheldon",
+            "I did. You know, I\u2019m not even sure how accurate it was. I took it to the train store, it said everyone was sad."
+        ],
+        [
+            "Bernadette",
+            "I finally got Halley to sleep."
+        ],
+        [
+            "Raj",
+            "You know, I just read a study that suggests new mothers are better at sensing emotions for up to two years."
+        ],
+        [
+            "Amy",
+            "It\u2019s true. Pregnancy causes physiological changes in the brain that result in increased empathy."
+        ],
+        [
+            "Penny",
+            "So, all we need to do is get Sheldon knocked up."
+        ],
+        [
+            "Leonard",
+            "We can\u2019t. He was already fixed when I found him at the shelter."
+        ],
+        [
+            "Sheldon",
+            "Hey, uh, Bernadette, let\u2019s test this theory. What do you think I\u2019m feeling right now?"
+        ],
+        [
+            "Bernadette",
+            "Let\u2019s see. You\u2019re better than us, a little bit sorry for us, but mostly glad you don\u2019t have to be us."
+        ],
+        [
+            "Sheldon",
+            "Keep filling this one with babies. She\u2019s good."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-14-the-emotion-detection-automation/"
+}

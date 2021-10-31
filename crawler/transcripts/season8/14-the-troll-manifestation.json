@@ -1,0 +1,1990 @@
+{
+    "Season": 8,
+    "Episode": 14,
+    "Title": "the troll manifestation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Penny\u2019s apartment."
+            ],
+            [
+                14,
+                "The apartment."
+            ],
+            [
+                32,
+                "Credits sequence."
+            ],
+            [
+                33,
+                "The apartment."
+            ],
+            [
+                58,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                76,
+                "Leonard\u2019s laboratory."
+            ],
+            [
+                105,
+                "Penny\u2019s apartment."
+            ],
+            [
+                122,
+                "The apartment. "
+            ],
+            [
+                131,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                156,
+                "The apartment. "
+            ],
+            [
+                181,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                191,
+                "The apartment. "
+            ],
+            [
+                212,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                229,
+                "An 1800\u2019s house. "
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "So, tell me about your day, how\u2019s it going with the particle detector?"
+            ],
+            [
+                3,
+                "Yeah, I listen to what you say. You\u2019re building a particle detector using superfluid helium."
+            ],
+            [
+                5,
+                "And you know from past experience this table cannot support both our weight. So, how\u2019s the detector going?"
+            ],
+            [
+                7,
+                "Kind of like Sheldon\u2019s ant farm."
+            ],
+            [
+                9,
+                "No, I do. I didn\u2019t write superfluid helium on this napkin for nothing."
+            ],
+            [
+                11,
+                "Hey, if you\u2019re pausing for dramatic effect, I\u2019d keep it moving."
+            ],
+            [
+                13,
+                "Okay, well, if you find him, use the kitchen island, that coffee table will not support both of you."
+            ],
+            [
+                61,
+                "Oh, God. Probably nothing. I think I saw the director twirling a sign outside the Verizon store."
+            ],
+            [
+                63,
+                "What, no, why?"
+            ],
+            [
+                65,
+                "It would be humiliating."
+            ],
+            [
+                70,
+                "Fine, but I\u2019m telling you, it\u2019s terrible."
+            ],
+            [
+                72,
+                "No."
+            ],
+            [
+                109,
+                "Okay, we\u2019ve seen plenty."
+            ],
+            [
+                112,
+                "Okay, well, I\u2019ve been poking around the internet, and I think I found something we\u2019ll enjoy watching even more."
+            ],
+            [
+                114,
+                "Oh, just a video of Bernadette in a beauty pageant."
+            ],
+            [
+                119,
+                "You look like a talking cupcake."
+            ],
+            [
+                132,
+                "How could you not tell us you were in beauty pageants?"
+            ],
+            [
+                136,
+                "No."
+            ],
+            [
+                139,
+                "Okay. We are reading that right now."
+            ],
+            [
+                143,
+                "Why? Is it about you and Sheldon?"
+            ],
+            [
+                145,
+                "Oh, my God, it\u2019s about her and Sheldon."
+            ],
+            [
+                147,
+                "Please show us?"
+            ],
+            [
+                150,
+                "You know I\u2019m gonna read it either way."
+            ],
+            [
+                152,
+                "Amelia and the time-trav\u2026 found it. It was just past dawn on the prairie, and like every morning, Amelia prepared to do her chores. Except something about this morning felt different."
+            ],
+            [
+                154,
+                "Maybe it was the first whisper of winter in the air, or maybe it was the unconscious handsome man with porcelain skin and curious clothing she was about to discover lying in the field. A man who would open her mind to new possibilities and her body to new feelings."
+            ],
+            [
+                182,
+                "\u201cTime travel? I don\u2019t understand,\u201d said Amelia. Cooper stared at her. \u2018Which word don\u2019t you understand, time or travel?\u201d"
+            ],
+            [
+                185,
+                "It stung Amelia when he spoke to her this way. In her little one-room schoolhouse, she was always the smartest student, regularly besting the boys in her class, but this was no boy in front of her, this was a man."
+            ],
+            [
+                187,
+                "Cooper told Amelia about all the strange and incredible things the future would hold, like computers and living past 30. He asked her if she had any questions. All she longed to ask was if his heart was beating as fast as hers, but she was too afraid to hear the answer."
+            ],
+            [
+                189,
+                "So instead she asked if, in the future, Montana ever became a state."
+            ],
+            [
+                213,
+                "With a heavy heart, Amelia stood before the newly repaired time machine. She regretted giving Cooper the part he needed."
+            ],
+            [
+                216,
+                "What? No, I really want to know what happens, and Bernadette really, really, really wants to know what happens."
+            ],
+            [
+                219,
+                "No, it is. Does he stay? Do they kiss? Does she find out about Montana?"
+            ],
+            [
+                224,
+                "Yes."
+            ],
+            [
+                227,
+                "Get out!"
+            ],
+            [
+                238,
+                "You want me to stop reading?"
+            ],
+            [
+                240,
+                "As he stood for Amelia to dry him\u2026"
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Wow, you remember that?"
+            ],
+            [
+                4,
+                "You know, when you talk like that, I want to take you right here on this table."
+            ],
+            [
+                6,
+                "Well, it\u2019s tricky working with superfluids. Whatever container you put them in, they kind of creep up the sides and crawl out all on their own."
+            ],
+            [
+                8,
+                "Exactly, except you don\u2019t have a lunatic running around, yelling, I fed you sugar water, why are you biting me? Come on, this is boring, you really want to talk about this?"
+            ],
+            [
+                10,
+                "Okay, well, this is cool. Uh, there\u2019s a thing called superfluid vacuum theory, where empty space is imagined as a superfluid with all of its qualities, viscosity, density, surface tension\u2026"
+            ],
+            [
+                12,
+                "No, no. People don\u2019t talk about surface tension. If you imagine our three-space as the surface of an N-dimensional superfluid bubble\u2026 This is exciting. This is really exciting. I have to go find Sheldon."
+            ],
+            [
+                15,
+                "Which means a spherical multidimensional superfluid shows the same negative-energy density as space-time. So what do you think? What do you think? So what do you think?"
+            ],
+            [
+                17,
+                "What? Is it wrong? Have you seen it somewhere else?"
+            ],
+            [
+                19,
+                "I know this isn\u2019t my area, and I could never do the math like you can, but could this be something?"
+            ],
+            [
+                21,
+                "No one told you to taste them. Come on, is, is this good or not?"
+            ],
+            [
+                23,
+                "Really?"
+            ],
+            [
+                25,
+                "You do? You\u2019re not messing with me?"
+            ],
+            [
+                27,
+                "You\u2019re giving me a sticker?"
+            ],
+            [
+                29,
+                "I\u2019m not a preschooler."
+            ],
+            [
+                31,
+                "I earned this. Back off."
+            ],
+            [
+                34,
+                "You\u2019re still awake?"
+            ],
+            [
+                36,
+                "You worked out all the math."
+            ],
+            [
+                38,
+                "You wrote a paper on my idea?"
+            ],
+            [
+                40,
+                "When did my idea become our idea?"
+            ],
+            [
+                42,
+                "This is good. Our idea is really good."
+            ],
+            [
+                44,
+                "You know, if no one\u2019s thought of this, yet, this could be a big deal."
+            ],
+            [
+                46,
+                "Wow, it\u2019s all happening so fast. Should we just sleep on it?"
+            ],
+            [
+                48,
+                "You\u2019re sure it\u2019s good?"
+            ],
+            [
+                50,
+                "Okay, partner, let\u2019s do it."
+            ],
+            [
+                52,
+                "One, two three."
+            ],
+            [
+                54,
+                "Well, we did it."
+            ],
+            [
+                56,
+                "Is your tongue blue?"
+            ],
+            [
+                77,
+                "Sheldon, this is superfluid helium. Put this in your mouth, your tongue will freeze and break off."
+            ],
+            [
+                79,
+                "No."
+            ],
+            [
+                82,
+                "Really? What\u2019d they say?"
+            ],
+            [
+                84,
+                "Let me see, let me see. One calls it insightful and innovative. We\u2019re insightful and innovative."
+            ],
+            [
+                86,
+                "Oh, the pleasure is mine, Mr. Innovative. Uh, another one says the concept shows some real out-of-the-box thinking. Do you hear that, Mr. Out-Of-The?"
+            ],
+            [
+                91,
+                "Okay, okay. Uh, the analogy between space-time and a supercooled fluid is either meaningless or false. I wish this blog would devote itself to real science instead of wasting our time with crackpot wannabe theoreticians in a rush to publish."
+            ],
+            [
+                93,
+                "It\u2019s anonymous, and user name General Relativity."
+            ],
+            [
+                95,
+                "Uh, don\u2019t lower yourself to their level."
+            ],
+            [
+                97,
+                "Sheldon, my name\u2019s on that paper, too. There\u2019s no upside to doing this."
+            ],
+            [
+                100,
+                "Upon review, I\u2019ve changed my mind about the Cooper-Hofstadter hypothesis that space-time is like a superfluid. In fact, it\u2019s inspired me to come up with my own theory. Maybe space-time is like two clowns with their heads in a bucket, much like Cooper and Hofstadter."
+            ],
+            [
+                102,
+                "Do it."
+            ],
+            [
+                104,
+                "Somebody else do it."
+            ],
+            [
+                125,
+                "Well, maybe we shouldn\u2019t have sunk to his level."
+            ],
+            [
+                127,
+                "Read it back one more time."
+            ],
+            [
+                129,
+                "And you don\u2019t think that\u2019s too rough?"
+            ],
+            [
+                158,
+                "Do you really want him to write back?"
+            ],
+            [
+                160,
+                "Me-wow."
+            ],
+            [
+                173,
+                "What did you write?"
+            ],
+            [
+                175,
+                "What does that mean?"
+            ],
+            [
+                177,
+                "Are you crazy? You don\u2019t know who this person is. Delete that."
+            ],
+            [
+                180,
+                "Oh, really?"
+            ],
+            [
+                195,
+                "Never noticed that about you."
+            ],
+            [
+                198,
+                "All right, do it. Call him. Let\u2019s find out what this loser\u2019s ever accomplished."
+            ],
+            [
+                203,
+                "You really didn\u2019t like our paper?"
+            ],
+            [
+                207,
+                "Stephen Hawking liked our paper. Said the premise is intriguing."
+            ],
+            [
+                209,
+                "And you as well, Mr. Our-Premise-Is-Intriguing."
+            ],
+            [
+                226,
+                "You will not believe what Stephen Hawking just said."
+            ],
+            [
+                239,
+                "Are you kidding? No, no."
+            ],
+            [
+                242,
+                "Yeah, okay, I\u2019m good."
+            ]
+        ],
+        "Sheldon": [
+            [
+                16,
+                "Hmm."
+            ],
+            [
+                18,
+                "Hmm."
+            ],
+            [
+                20,
+                "Well, you could have set Newton\u2019s gravitational constant to one. And, ugh, the whole thing reeks of blueberry. You know I can\u2019t stand these scented markers."
+            ],
+            [
+                22,
+                "It\u2019s good."
+            ],
+            [
+                24,
+                "I like it. I think you\u2019re on to something."
+            ],
+            [
+                26,
+                "Not at all. In fact, I have got something for just such an occasion. I was starting to think I might never get a chance to give it to you. Good job."
+            ],
+            [
+                28,
+                "Not just a sticker. That is a sticker of a kitty saying me-wow."
+            ],
+            [
+                30,
+                "Fine, I\u2019ll take it back."
+            ],
+            [
+                35,
+                "For a man whose last observation was our universe may be the surface of a multidimensional supercooled liquid, you\u2019re still awake seems like quite the sophomore slump."
+            ],
+            [
+                37,
+                "Oh, I did more than work out all the math. I wrote a paper."
+            ],
+            [
+                39,
+                "I wrote a paper on our idea."
+            ],
+            [
+                41,
+                "When I mixed it with Sheldony goodness and cooked it in the Easy-Bake oven of my mind."
+            ],
+            [
+                43,
+                "Well, the lightbulb in this oven is ridiculously bright."
+            ],
+            [
+                45,
+                "Only way we\u2019ll know for sure is if we post it online to the pre-print server. I have it ready to go, but I wasn\u2019t gonna do it without you."
+            ],
+            [
+                47,
+                "We could, but we always run the risk of someone else beating us to the punch."
+            ],
+            [
+                49,
+                "My name is right on there with yours. That is a surefire mark of quality. That might as well say directed by Joss Whedon."
+            ],
+            [
+                51,
+                "Come on. Click the mouse with me."
+            ],
+            [
+                55,
+                "Yes, we did, my friend."
+            ],
+            [
+                57,
+                "I don\u2019t want to talk about it."
+            ],
+            [
+                78,
+                "Does it smell like blueberries?"
+            ],
+            [
+                80,
+                "Then we\u2019re probably okay."
+            ],
+            [
+                85,
+                "Oh, nice to meet you, Mr. Insightful."
+            ],
+            [
+                87,
+                "I do, indeed, Mr. Box-Thinking."
+            ],
+            [
+                90,
+                "Read another one."
+            ],
+            [
+                92,
+                "Who wrote that?"
+            ],
+            [
+                94,
+                "Well, I\u2019m responding to it."
+            ],
+            [
+                96,
+                "Look, I am simply going to defend our work, scientist to scientist. And failing that, suggest that his mother enjoys a string of both human and non-human lovers."
+            ],
+            [
+                98,
+                "He just left another comment."
+            ],
+            [
+                101,
+                "Can I respond now?"
+            ],
+            [
+                103,
+                "You mess with the bull, you get the horns. I\u2019m about to show this guy just how horny I can be."
+            ],
+            [
+                124,
+                "Hmm. No, not yet."
+            ],
+            [
+                128,
+                "My good sir, we are neither crackpots nor wannabes. In fact, we are experts in our fields. And while you hide behind your anonymity, we stand behind our paper. And later tonight, your mother."
+            ],
+            [
+                130,
+                "We\u2019re just standing behind her. It\u2019s not like we\u2019re gonna say boo and scare her."
+            ],
+            [
+                157,
+                "He still hasn\u2019t responded. What\u2019s taking him so long?"
+            ],
+            [
+                159,
+                "Yeah, I do. Then no matter how he responds, I am going to destroy him with a picture of a bored cat saying oh, really?"
+            ],
+            [
+                165,
+                "He wrote back. Cooper and Hofstadter resorting to juvenile attempts at humour is proof they have nothing to back up their ridiculous paper. It should come as no surprise given they work at Cal Tech, essentially a technical school, where even the physicists are basically engineers. Engineers? Do you know how insulting that is?"
+            ],
+            [
+                168,
+                "Yeah, but it\u2019s still so aggravating."
+            ],
+            [
+                172,
+                "And send."
+            ],
+            [
+                174,
+                "I\u2019m done hiding from bullies. I\u2019m taking this into the real world."
+            ],
+            [
+                176,
+                "I told him we\u2019ll meet him face-to-face anytime, anywhere."
+            ],
+            [
+                179,
+                "Oh, okay, okay, calm down. (Skype tone) It\u2019s him. He\u2019s trying to video chat. Perhaps I shouldn\u2019t have taken this into the real world."
+            ],
+            [
+                194,
+                "Interesting. I can\u2019t think of a single thing I wouldn\u2019t say to someone\u2019s face."
+            ],
+            [
+                197,
+                "He\u2019s right. I say we call this person back. We\u2019ve got no reason to hide."
+            ],
+            [
+                199,
+                "Click it with me. One, two, three, click."
+            ],
+            [
+                201,
+                "Professor Hawking?"
+            ],
+            [
+                205,
+                "Then why are you attacking us?"
+            ],
+            [
+                208,
+                "Good to see you again, Mr. Stephen-Hawking Liked-Our-Paper."
+            ]
+        ],
+        "Together": [
+            [
+                53,
+                "Click."
+            ]
+        ],
+        "Bernadette": [
+            [
+                59,
+                "Okay, movie night, what do you want to watch?"
+            ],
+            [
+                62,
+                "Search for it."
+            ],
+            [
+                64,
+                "\u2018Cause it would be fun to watch."
+            ],
+            [
+                66,
+                "Well, now we have two reasons."
+            ],
+            [
+                68,
+                "Please, can we watch it?"
+            ],
+            [
+                73,
+                "Well, maybe it turned out better than you think."
+            ],
+            [
+                75,
+                "Ho-ho, it really didn\u2019t."
+            ],
+            [
+                110,
+                "No, give me the remote."
+            ],
+            [
+                116,
+                "Okay, I learned my lesson. Making fun of people is wrong."
+            ],
+            [
+                133,
+                "\u2018Cause it\u2019s embarrassing."
+            ],
+            [
+                135,
+                "Yeah, well, Amy writes Little House on the Prairie fan fiction about herself and posts it on the Internet."
+            ],
+            [
+                138,
+                "Sorry, I had to get the spotlight off me, and tearing down other women is part of my pageant training."
+            ],
+            [
+                141,
+                "We got embarrassed tonight. Come on."
+            ],
+            [
+                148,
+                "Please?"
+            ],
+            [
+                153,
+                "Why? Why did it feel different?"
+            ],
+            [
+                183,
+                "Wow, even in your fantasies Sheldon\u2019s kind of exhausting."
+            ],
+            [
+                186,
+                "Here we go."
+            ],
+            [
+                188,
+                "Oh, Amelia."
+            ],
+            [
+                214,
+                "Because she wanted him to give her the part she needed."
+            ],
+            [
+                218,
+                "I was just kidding. I\u2019m sorry. And the story\u2019s really good."
+            ],
+            [
+                220,
+                "Please?"
+            ],
+            [
+                222,
+                "But they didn\u2019t even kiss."
+            ],
+            [
+                228,
+                "Not now!"
+            ]
+        ],
+        "Amy": [
+            [
+                60,
+                "Whatever happened to that ape movie you were in?"
+            ],
+            [
+                67,
+                "They have it."
+            ],
+            [
+                69,
+                "Please?"
+            ],
+            [
+                71,
+                "Have you even seen it?"
+            ],
+            [
+                111,
+                "Careful. She\u2019ll bite your fingers off."
+            ],
+            [
+                113,
+                "What is it?"
+            ],
+            [
+                115,
+                "What?"
+            ],
+            [
+                117,
+                "I haven\u2019t learned my lesson. Play it. Play it."
+            ],
+            [
+                121,
+                "Play it again. Play it again."
+            ],
+            [
+                137,
+                "Why? What did I do?"
+            ],
+            [
+                140,
+                "No, please don\u2019t."
+            ],
+            [
+                142,
+                "But it\u2019s personal."
+            ],
+            [
+                144,
+                "No."
+            ],
+            [
+                146,
+                "It\u2019s not about me and Sheldon. It\u2019s about a young woman in the 1800s named Amelia, and the time-traveling physicist named Cooper she falls in love with."
+            ],
+            [
+                149,
+                "No."
+            ],
+            [
+                151,
+                "Good luck finding it."
+            ],
+            [
+                155,
+                "You know, there was a time when I was alone and had no friends. I\u2019m starting to miss that."
+            ],
+            [
+                184,
+                "He\u2019s like that in the beginning, so she can change him. It\u2019s called good writing. And wishful thinking."
+            ],
+            [
+                190,
+                "In the 1800s that was considered flirting."
+            ],
+            [
+                215,
+                "Okay, that\u2019s enough."
+            ],
+            [
+                217,
+                "You\u2019re just making fun of me."
+            ],
+            [
+                221,
+                "Fine. As Cooper prepared to depart, tears filled Amelia\u2019s eyes. He took her hand in his and said, \u201cI can\u2019t stay, but I will never forget you.\u201d He brushed his fingers against her cheek, then quickly stepped into the machine. \u201cPlease don\u2019t go,\u201d she whispered. But it was too late. The engine hummed to life."
+            ],
+            [
+                223,
+                "She turned away, wiping her eyes. She couldn\u2019t bear to watch her one chance at true love disappear forever. Then she felt a strong hand on her shoulder spin her around. It was Cooper."
+            ],
+            [
+                225,
+                "\u201cWhat about the future?\u201d asked Amelia. He looked deeply into her eyes and whispered, \u201cThere is no future without you.\u201d He pulled her in close. She began to tremble all over. She felt his warm breath\u2026"
+            ]
+        ],
+        "Voice on TV": [
+            [
+                74,
+                "Bananas, get your fresh bananas."
+            ]
+        ],
+        "Howard": [
+            [
+                81,
+                "Hey, your paper got mentioned on the Quantum Diaries physics blog."
+            ],
+            [
+                83,
+                "Uh, it\u2019s basically a summary of the theory, but there\u2019s a bunch of positive comments on the message board."
+            ],
+            [
+                88,
+                "How are you today, Mr. Can-You-Believe-These-Jack-Asses?"
+            ],
+            [
+                126,
+                "It wasn\u2019t that bad."
+            ],
+            [
+                161,
+                "What are you doing?"
+            ],
+            [
+                163,
+                "This wee li\u2019l bairn of a theory nearly blew my kilt off."
+            ],
+            [
+                166,
+                "Yes."
+            ],
+            [
+                170,
+                "Yeah. Dr. Dmitri Plancovik of Moscow University said dis paper great, I love it more than wodka."
+            ],
+            [
+                193,
+                "Well, I think the anonymity makes everyone feel like they can say things they\u2019d never say to your face."
+            ],
+            [
+                210,
+                "How do you do, Mr. I\u2019ll-Admit-That\u2019s-Pretty-Cool?"
+            ]
+        ],
+        "Raj": [
+            [
+                89,
+                "Just dandy, Mr I-Wish-I-Was-Better-At-Improv."
+            ],
+            [
+                99,
+                "What does it say?"
+            ],
+            [
+                123,
+                "Did he respond yet?"
+            ],
+            [
+                162,
+                "I\u2019ve, uh, created some other user accounts so I can post positive comments about their paper."
+            ],
+            [
+                164,
+                "No. You have to read it how Dr. Angus McDougal of the University of Edinburgh would. This wee li\u2019l bairn of a theory nearly blew me kilt off."
+            ],
+            [
+                167,
+                "Guys, this person\u2019s just going out of their way to get a rise out of you."
+            ],
+            [
+                169,
+                "Yeah, well, all the other comments said really nice things. Focus on those."
+            ],
+            [
+                171,
+                "See? Better with the accent."
+            ],
+            [
+                178,
+                "Come on, Sheldon!"
+            ],
+            [
+                192,
+                "I\u2019m so sick of people being mean on the Internet."
+            ],
+            [
+                196,
+                "You know what? At least you guys did something. You know, you, you had a theory, you wrote a paper, you made an actual contribution. All guys like this do is just stand on other people\u2019s work."
+            ],
+            [
+                211,
+                "Yeah, you keep setting me up for failure."
+            ]
+        ],
+        "Penny (on television)": [
+            [
+                106,
+                "Doctor, please help me. I think I might be turning into a killer gorilla."
+            ],
+            [
+                108,
+                "Because regular gorillas are vegetarians, and I just bit the fingers off your receptionist."
+            ]
+        ],
+        "Doctor": [
+            [
+                107,
+                "Why do you think you\u2019re turning into a killer gorilla and not just a regular gorilla?"
+            ]
+        ],
+        "Bernadette (on screen)": [
+            [
+                118,
+                "Hi. I\u2019m Bernadette Maryann Rostenkowski from Yorba Linda, California."
+            ],
+            [
+                120,
+                "And you should pick me for Miss California Quiznos 1999, because I want to (singing) tell you what I want, what I really really want, l tell you what I want, what I really really want, I wanna, I wanna, I wanna, I wanna Really, really, really be Miss California Quiznos 1999."
+            ]
+        ],
+        "Penny: It is": [
+            [
+                134,
+                "it truly is."
+            ]
+        ],
+        "Stephen Hawking": [
+            [
+                200,
+                "Well, hello there."
+            ],
+            [
+                202,
+                "Oh, brother, you should see the look on your faces."
+            ],
+            [
+                204,
+                "I like your paper very much. The premise is intriguing."
+            ],
+            [
+                206,
+                "If you were sitting in a chair for 40 years, you\u2019d get bored, too. Anyway, got to go. I promised to help the neighbour kid with his maths homework. Ciao."
+            ]
+        ],
+        "Amelia": [
+            [
+                230,
+                "Is the water warm enough?"
+            ],
+            [
+                232,
+                "I can fix that. I couldn\u2019t help but notice your unusual undergarments."
+            ],
+            [
+                234,
+                "And what\u2019s the significance of the spider?"
+            ],
+            [
+                236,
+                "There\u2019s a lot of rhyming in the future, isn\u2019t there?"
+            ],
+            [
+                241,
+                "So, tell me, Cooper, are the ways of physical love different in the future?"
+            ]
+        ],
+        "Cooper": [
+            [
+                231,
+                "Given the fact that you took the time to build a wood fire, draw the water from the well and heat it, it would be rude to complain. But since you asked, it\u2019s a little nippy."
+            ],
+            [
+                233,
+                "They\u2019re not undergarments. They\u2019re Underoos. Where I come from, they\u2019re known as underwear that\u2019s fun to wear."
+            ],
+            [
+                235,
+                "Oh, that represents Spider-Man. He does whatever a spider can."
+            ]
+        ],
+        "Leonard (in bed)": [
+            [
+                237,
+                "You\u2019re right. This is even weirder than I thought."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "So, tell me about your day, how\u2019s it going with the particle detector?"
+        ],
+        [
+            "Leonard",
+            "Wow, you remember that?"
+        ],
+        [
+            "Penny",
+            "Yeah, I listen to what you say. You\u2019re building a particle detector using superfluid helium."
+        ],
+        [
+            "Leonard",
+            "You know, when you talk like that, I want to take you right here on this table."
+        ],
+        [
+            "Penny",
+            "And you know from past experience this table cannot support both our weight. So, how\u2019s the detector going?"
+        ],
+        [
+            "Leonard",
+            "Well, it\u2019s tricky working with superfluids. Whatever container you put them in, they kind of creep up the sides and crawl out all on their own."
+        ],
+        [
+            "Penny",
+            "Kind of like Sheldon\u2019s ant farm."
+        ],
+        [
+            "Leonard",
+            "Exactly, except you don\u2019t have a lunatic running around, yelling, I fed you sugar water, why are you biting me? Come on, this is boring, you really want to talk about this?"
+        ],
+        [
+            "Penny",
+            "No, I do. I didn\u2019t write superfluid helium on this napkin for nothing."
+        ],
+        [
+            "Leonard",
+            "Okay, well, this is cool. Uh, there\u2019s a thing called superfluid vacuum theory, where empty space is imagined as a superfluid with all of its qualities, viscosity, density, surface tension\u2026"
+        ],
+        [
+            "Penny",
+            "Hey, if you\u2019re pausing for dramatic effect, I\u2019d keep it moving."
+        ],
+        [
+            "Leonard",
+            "No, no. People don\u2019t talk about surface tension. If you imagine our three-space as the surface of an N-dimensional superfluid bubble\u2026 This is exciting. This is really exciting. I have to go find Sheldon."
+        ],
+        [
+            "Penny",
+            "Okay, well, if you find him, use the kitchen island, that coffee table will not support both of you."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Which means a spherical multidimensional superfluid shows the same negative-energy density as space-time. So what do you think? What do you think? So what do you think?"
+        ],
+        [
+            "Sheldon",
+            "Hmm."
+        ],
+        [
+            "Leonard",
+            "What? Is it wrong? Have you seen it somewhere else?"
+        ],
+        [
+            "Sheldon",
+            "Hmm."
+        ],
+        [
+            "Leonard",
+            "I know this isn\u2019t my area, and I could never do the math like you can, but could this be something?"
+        ],
+        [
+            "Sheldon",
+            "Well, you could have set Newton\u2019s gravitational constant to one. And, ugh, the whole thing reeks of blueberry. You know I can\u2019t stand these scented markers."
+        ],
+        [
+            "Leonard",
+            "No one told you to taste them. Come on, is, is this good or not?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s good."
+        ],
+        [
+            "Leonard",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "I like it. I think you\u2019re on to something."
+        ],
+        [
+            "Leonard",
+            "You do? You\u2019re not messing with me?"
+        ],
+        [
+            "Sheldon",
+            "Not at all. In fact, I have got something for just such an occasion. I was starting to think I might never get a chance to give it to you. Good job."
+        ],
+        [
+            "Leonard",
+            "You\u2019re giving me a sticker?"
+        ],
+        [
+            "Sheldon",
+            "Not just a sticker. That is a sticker of a kitty saying me-wow."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not a preschooler."
+        ],
+        [
+            "Sheldon",
+            "Fine, I\u2019ll take it back."
+        ],
+        [
+            "Leonard",
+            "I earned this. Back off."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "You\u2019re still awake?"
+        ],
+        [
+            "Sheldon",
+            "For a man whose last observation was our universe may be the surface of a multidimensional supercooled liquid, you\u2019re still awake seems like quite the sophomore slump."
+        ],
+        [
+            "Leonard",
+            "You worked out all the math."
+        ],
+        [
+            "Sheldon",
+            "Oh, I did more than work out all the math. I wrote a paper."
+        ],
+        [
+            "Leonard",
+            "You wrote a paper on my idea?"
+        ],
+        [
+            "Sheldon",
+            "I wrote a paper on our idea."
+        ],
+        [
+            "Leonard",
+            "When did my idea become our idea?"
+        ],
+        [
+            "Sheldon",
+            "When I mixed it with Sheldony goodness and cooked it in the Easy-Bake oven of my mind."
+        ],
+        [
+            "Leonard",
+            "This is good. Our idea is really good."
+        ],
+        [
+            "Sheldon",
+            "Well, the lightbulb in this oven is ridiculously bright."
+        ],
+        [
+            "Leonard",
+            "You know, if no one\u2019s thought of this, yet, this could be a big deal."
+        ],
+        [
+            "Sheldon",
+            "Only way we\u2019ll know for sure is if we post it online to the pre-print server. I have it ready to go, but I wasn\u2019t gonna do it without you."
+        ],
+        [
+            "Leonard",
+            "Wow, it\u2019s all happening so fast. Should we just sleep on it?"
+        ],
+        [
+            "Sheldon",
+            "We could, but we always run the risk of someone else beating us to the punch."
+        ],
+        [
+            "Leonard",
+            "You\u2019re sure it\u2019s good?"
+        ],
+        [
+            "Sheldon",
+            "My name is right on there with yours. That is a surefire mark of quality. That might as well say directed by Joss Whedon."
+        ],
+        [
+            "Leonard",
+            "Okay, partner, let\u2019s do it."
+        ],
+        [
+            "Sheldon",
+            "Come on. Click the mouse with me."
+        ],
+        [
+            "Leonard",
+            "One, two three."
+        ],
+        [
+            "Together",
+            "Click."
+        ],
+        [
+            "Leonard",
+            "Well, we did it."
+        ],
+        [
+            "Sheldon",
+            "Yes, we did, my friend."
+        ],
+        [
+            "Leonard",
+            "Is your tongue blue?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t want to talk about it."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Bernadette",
+            "Okay, movie night, what do you want to watch?"
+        ],
+        [
+            "Amy",
+            "Whatever happened to that ape movie you were in?"
+        ],
+        [
+            "Penny",
+            "Oh, God. Probably nothing. I think I saw the director twirling a sign outside the Verizon store."
+        ],
+        [
+            "Bernadette",
+            "Search for it."
+        ],
+        [
+            "Penny",
+            "What, no, why?"
+        ],
+        [
+            "Bernadette",
+            "\u2018Cause it would be fun to watch."
+        ],
+        [
+            "Penny",
+            "It would be humiliating."
+        ],
+        [
+            "Bernadette",
+            "Well, now we have two reasons."
+        ],
+        [
+            "Amy",
+            "They have it."
+        ],
+        [
+            "Bernadette",
+            "Please, can we watch it?"
+        ],
+        [
+            "Amy",
+            "Please?"
+        ],
+        [
+            "Penny",
+            "Fine, but I\u2019m telling you, it\u2019s terrible."
+        ],
+        [
+            "Amy",
+            "Have you even seen it?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Bernadette",
+            "Well, maybe it turned out better than you think."
+        ],
+        [
+            "Voice on TV",
+            "Bananas, get your fresh bananas."
+        ],
+        [
+            "Bernadette",
+            "Ho-ho, it really didn\u2019t."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s laboratory."
+        ],
+        [
+            "Leonard",
+            "Sheldon, this is superfluid helium. Put this in your mouth, your tongue will freeze and break off."
+        ],
+        [
+            "Sheldon",
+            "Does it smell like blueberries?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Then we\u2019re probably okay."
+        ],
+        [
+            "Howard",
+            "Hey, your paper got mentioned on the Quantum Diaries physics blog."
+        ],
+        [
+            "Leonard",
+            "Really? What\u2019d they say?"
+        ],
+        [
+            "Howard",
+            "Uh, it\u2019s basically a summary of the theory, but there\u2019s a bunch of positive comments on the message board."
+        ],
+        [
+            "Leonard",
+            "Let me see, let me see. One calls it insightful and innovative. We\u2019re insightful and innovative."
+        ],
+        [
+            "Sheldon",
+            "Oh, nice to meet you, Mr. Insightful."
+        ],
+        [
+            "Leonard",
+            "Oh, the pleasure is mine, Mr. Innovative. Uh, another one says the concept shows some real out-of-the-box thinking. Do you hear that, Mr. Out-Of-The?"
+        ],
+        [
+            "Sheldon",
+            "I do, indeed, Mr. Box-Thinking."
+        ],
+        [
+            "Howard",
+            "How are you today, Mr. Can-You-Believe-These-Jack-Asses?"
+        ],
+        [
+            "Raj",
+            "Just dandy, Mr I-Wish-I-Was-Better-At-Improv."
+        ],
+        [
+            "Sheldon",
+            "Read another one."
+        ],
+        [
+            "Leonard",
+            "Okay, okay. Uh, the analogy between space-time and a supercooled fluid is either meaningless or false. I wish this blog would devote itself to real science instead of wasting our time with crackpot wannabe theoreticians in a rush to publish."
+        ],
+        [
+            "Sheldon",
+            "Who wrote that?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s anonymous, and user name General Relativity."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m responding to it."
+        ],
+        [
+            "Leonard",
+            "Uh, don\u2019t lower yourself to their level."
+        ],
+        [
+            "Sheldon",
+            "Look, I am simply going to defend our work, scientist to scientist. And failing that, suggest that his mother enjoys a string of both human and non-human lovers."
+        ],
+        [
+            "Leonard",
+            "Sheldon, my name\u2019s on that paper, too. There\u2019s no upside to doing this."
+        ],
+        [
+            "Sheldon",
+            "He just left another comment."
+        ],
+        [
+            "Raj",
+            "What does it say?"
+        ],
+        [
+            "Leonard",
+            "Upon review, I\u2019ve changed my mind about the Cooper-Hofstadter hypothesis that space-time is like a superfluid. In fact, it\u2019s inspired me to come up with my own theory. Maybe space-time is like two clowns with their heads in a bucket, much like Cooper and Hofstadter."
+        ],
+        [
+            "Sheldon",
+            "Can I respond now?"
+        ],
+        [
+            "Leonard",
+            "Do it."
+        ],
+        [
+            "Sheldon",
+            "You mess with the bull, you get the horns. I\u2019m about to show this guy just how horny I can be."
+        ],
+        [
+            "Leonard",
+            "Somebody else do it."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny (on television)",
+            "Doctor, please help me. I think I might be turning into a killer gorilla."
+        ],
+        [
+            "Doctor",
+            "Why do you think you\u2019re turning into a killer gorilla and not just a regular gorilla?"
+        ],
+        [
+            "Penny (on television)",
+            "Because regular gorillas are vegetarians, and I just bit the fingers off your receptionist."
+        ],
+        [
+            "Penny",
+            "Okay, we\u2019ve seen plenty."
+        ],
+        [
+            "Bernadette",
+            "No, give me the remote."
+        ],
+        [
+            "Amy",
+            "Careful. She\u2019ll bite your fingers off."
+        ],
+        [
+            "Penny",
+            "Okay, well, I\u2019ve been poking around the internet, and I think I found something we\u2019ll enjoy watching even more."
+        ],
+        [
+            "Amy",
+            "What is it?"
+        ],
+        [
+            "Penny",
+            "Oh, just a video of Bernadette in a beauty pageant."
+        ],
+        [
+            "Amy",
+            "What?"
+        ],
+        [
+            "Bernadette",
+            "Okay, I learned my lesson. Making fun of people is wrong."
+        ],
+        [
+            "Amy",
+            "I haven\u2019t learned my lesson. Play it. Play it."
+        ],
+        [
+            "Bernadette (on screen)",
+            "Hi. I\u2019m Bernadette Maryann Rostenkowski from Yorba Linda, California."
+        ],
+        [
+            "Penny",
+            "You look like a talking cupcake."
+        ],
+        [
+            "Bernadette (on screen)",
+            "And you should pick me for Miss California Quiznos 1999, because I want to (singing) tell you what I want, what I really really want, l tell you what I want, what I really really want, I wanna, I wanna, I wanna, I wanna Really, really, really be Miss California Quiznos 1999."
+        ],
+        [
+            "Amy",
+            "Play it again. Play it again."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "Did he respond yet?"
+        ],
+        [
+            "Sheldon",
+            "Hmm. No, not yet."
+        ],
+        [
+            "Leonard",
+            "Well, maybe we shouldn\u2019t have sunk to his level."
+        ],
+        [
+            "Howard",
+            "It wasn\u2019t that bad."
+        ],
+        [
+            "Leonard",
+            "Read it back one more time."
+        ],
+        [
+            "Sheldon",
+            "My good sir, we are neither crackpots nor wannabes. In fact, we are experts in our fields. And while you hide behind your anonymity, we stand behind our paper. And later tonight, your mother."
+        ],
+        [
+            "Leonard",
+            "And you don\u2019t think that\u2019s too rough?"
+        ],
+        [
+            "Sheldon",
+            "We\u2019re just standing behind her. It\u2019s not like we\u2019re gonna say boo and scare her."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Penny",
+            "How could you not tell us you were in beauty pageants?"
+        ],
+        [
+            "Bernadette",
+            "\u2018Cause it\u2019s embarrassing."
+        ],
+        [
+            "Penny: It is",
+            "it truly is."
+        ],
+        [
+            "Bernadette",
+            "Yeah, well, Amy writes Little House on the Prairie fan fiction about herself and posts it on the Internet."
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Amy",
+            "Why? What did I do?"
+        ],
+        [
+            "Bernadette",
+            "Sorry, I had to get the spotlight off me, and tearing down other women is part of my pageant training."
+        ],
+        [
+            "Penny",
+            "Okay. We are reading that right now."
+        ],
+        [
+            "Amy",
+            "No, please don\u2019t."
+        ],
+        [
+            "Bernadette",
+            "We got embarrassed tonight. Come on."
+        ],
+        [
+            "Amy",
+            "But it\u2019s personal."
+        ],
+        [
+            "Penny",
+            "Why? Is it about you and Sheldon?"
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Penny",
+            "Oh, my God, it\u2019s about her and Sheldon."
+        ],
+        [
+            "Amy",
+            "It\u2019s not about me and Sheldon. It\u2019s about a young woman in the 1800s named Amelia, and the time-traveling physicist named Cooper she falls in love with."
+        ],
+        [
+            "Penny",
+            "Please show us?"
+        ],
+        [
+            "Bernadette",
+            "Please?"
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Penny",
+            "You know I\u2019m gonna read it either way."
+        ],
+        [
+            "Amy",
+            "Good luck finding it."
+        ],
+        [
+            "Penny",
+            "Amelia and the time-trav\u2026 found it. It was just past dawn on the prairie, and like every morning, Amelia prepared to do her chores. Except something about this morning felt different."
+        ],
+        [
+            "Bernadette",
+            "Why? Why did it feel different?"
+        ],
+        [
+            "Penny",
+            "Maybe it was the first whisper of winter in the air, or maybe it was the unconscious handsome man with porcelain skin and curious clothing she was about to discover lying in the field. A man who would open her mind to new possibilities and her body to new feelings."
+        ],
+        [
+            "Amy",
+            "You know, there was a time when I was alone and had no friends. I\u2019m starting to miss that."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "He still hasn\u2019t responded. What\u2019s taking him so long?"
+        ],
+        [
+            "Leonard",
+            "Do you really want him to write back?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, I do. Then no matter how he responds, I am going to destroy him with a picture of a bored cat saying oh, really?"
+        ],
+        [
+            "Leonard",
+            "Me-wow."
+        ],
+        [
+            "Howard",
+            "What are you doing?"
+        ],
+        [
+            "Raj",
+            "I\u2019ve, uh, created some other user accounts so I can post positive comments about their paper."
+        ],
+        [
+            "Howard",
+            "This wee li\u2019l bairn of a theory nearly blew my kilt off."
+        ],
+        [
+            "Raj",
+            "No. You have to read it how Dr. Angus McDougal of the University of Edinburgh would. This wee li\u2019l bairn of a theory nearly blew me kilt off."
+        ],
+        [
+            "Sheldon",
+            "He wrote back. Cooper and Hofstadter resorting to juvenile attempts at humour is proof they have nothing to back up their ridiculous paper. It should come as no surprise given they work at Cal Tech, essentially a technical school, where even the physicists are basically engineers. Engineers? Do you know how insulting that is?"
+        ],
+        [
+            "Howard",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "Guys, this person\u2019s just going out of their way to get a rise out of you."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but it\u2019s still so aggravating."
+        ],
+        [
+            "Raj",
+            "Yeah, well, all the other comments said really nice things. Focus on those."
+        ],
+        [
+            "Howard",
+            "Yeah. Dr. Dmitri Plancovik of Moscow University said dis paper great, I love it more than wodka."
+        ],
+        [
+            "Raj",
+            "See? Better with the accent."
+        ],
+        [
+            "Sheldon",
+            "And send."
+        ],
+        [
+            "Leonard",
+            "What did you write?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m done hiding from bullies. I\u2019m taking this into the real world."
+        ],
+        [
+            "Leonard",
+            "What does that mean?"
+        ],
+        [
+            "Sheldon",
+            "I told him we\u2019ll meet him face-to-face anytime, anywhere."
+        ],
+        [
+            "Leonard",
+            "Are you crazy? You don\u2019t know who this person is. Delete that."
+        ],
+        [
+            "Raj",
+            "Come on, Sheldon!"
+        ],
+        [
+            "Sheldon",
+            "Oh, okay, okay, calm down. (Skype tone) It\u2019s him. He\u2019s trying to video chat. Perhaps I shouldn\u2019t have taken this into the real world."
+        ],
+        [
+            "Leonard",
+            "Oh, really?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Penny",
+            "\u201cTime travel? I don\u2019t understand,\u201d said Amelia. Cooper stared at her. \u2018Which word don\u2019t you understand, time or travel?\u201d"
+        ],
+        [
+            "Bernadette",
+            "Wow, even in your fantasies Sheldon\u2019s kind of exhausting."
+        ],
+        [
+            "Amy",
+            "He\u2019s like that in the beginning, so she can change him. It\u2019s called good writing. And wishful thinking."
+        ],
+        [
+            "Penny",
+            "It stung Amelia when he spoke to her this way. In her little one-room schoolhouse, she was always the smartest student, regularly besting the boys in her class, but this was no boy in front of her, this was a man."
+        ],
+        [
+            "Bernadette",
+            "Here we go."
+        ],
+        [
+            "Penny",
+            "Cooper told Amelia about all the strange and incredible things the future would hold, like computers and living past 30. He asked her if she had any questions. All she longed to ask was if his heart was beating as fast as hers, but she was too afraid to hear the answer."
+        ],
+        [
+            "Bernadette",
+            "Oh, Amelia."
+        ],
+        [
+            "Penny",
+            "So instead she asked if, in the future, Montana ever became a state."
+        ],
+        [
+            "Amy",
+            "In the 1800s that was considered flirting."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "I\u2019m so sick of people being mean on the Internet."
+        ],
+        [
+            "Howard",
+            "Well, I think the anonymity makes everyone feel like they can say things they\u2019d never say to your face."
+        ],
+        [
+            "Sheldon",
+            "Interesting. I can\u2019t think of a single thing I wouldn\u2019t say to someone\u2019s face."
+        ],
+        [
+            "Leonard",
+            "Never noticed that about you."
+        ],
+        [
+            "Raj",
+            "You know what? At least you guys did something. You know, you, you had a theory, you wrote a paper, you made an actual contribution. All guys like this do is just stand on other people\u2019s work."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s right. I say we call this person back. We\u2019ve got no reason to hide."
+        ],
+        [
+            "Leonard",
+            "All right, do it. Call him. Let\u2019s find out what this loser\u2019s ever accomplished."
+        ],
+        [
+            "Sheldon",
+            "Click it with me. One, two, three, click."
+        ],
+        [
+            "Stephen Hawking",
+            "Well, hello there."
+        ],
+        [
+            "Sheldon",
+            "Professor Hawking?"
+        ],
+        [
+            "Stephen Hawking",
+            "Oh, brother, you should see the look on your faces."
+        ],
+        [
+            "Leonard",
+            "You really didn\u2019t like our paper?"
+        ],
+        [
+            "Stephen Hawking",
+            "I like your paper very much. The premise is intriguing."
+        ],
+        [
+            "Sheldon",
+            "Then why are you attacking us?"
+        ],
+        [
+            "Stephen Hawking",
+            "If you were sitting in a chair for 40 years, you\u2019d get bored, too. Anyway, got to go. I promised to help the neighbour kid with his maths homework. Ciao."
+        ],
+        [
+            "Leonard",
+            "Stephen Hawking liked our paper. Said the premise is intriguing."
+        ],
+        [
+            "Sheldon",
+            "Good to see you again, Mr. Stephen-Hawking Liked-Our-Paper."
+        ],
+        [
+            "Leonard",
+            "And you as well, Mr. Our-Premise-Is-Intriguing."
+        ],
+        [
+            "Howard",
+            "How do you do, Mr. I\u2019ll-Admit-That\u2019s-Pretty-Cool?"
+        ],
+        [
+            "Raj",
+            "Yeah, you keep setting me up for failure."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Penny",
+            "With a heavy heart, Amelia stood before the newly repaired time machine. She regretted giving Cooper the part he needed."
+        ],
+        [
+            "Bernadette",
+            "Because she wanted him to give her the part she needed."
+        ],
+        [
+            "Amy",
+            "Okay, that\u2019s enough."
+        ],
+        [
+            "Penny",
+            "What? No, I really want to know what happens, and Bernadette really, really, really wants to know what happens."
+        ],
+        [
+            "Amy",
+            "You\u2019re just making fun of me."
+        ],
+        [
+            "Bernadette",
+            "I was just kidding. I\u2019m sorry. And the story\u2019s really good."
+        ],
+        [
+            "Penny",
+            "No, it is. Does he stay? Do they kiss? Does she find out about Montana?"
+        ],
+        [
+            "Bernadette",
+            "Please?"
+        ],
+        [
+            "Amy",
+            "Fine. As Cooper prepared to depart, tears filled Amelia\u2019s eyes. He took her hand in his and said, \u201cI can\u2019t stay, but I will never forget you.\u201d He brushed his fingers against her cheek, then quickly stepped into the machine. \u201cPlease don\u2019t go,\u201d she whispered. But it was too late. The engine hummed to life."
+        ],
+        [
+            "Bernadette",
+            "But they didn\u2019t even kiss."
+        ],
+        [
+            "Amy",
+            "She turned away, wiping her eyes. She couldn\u2019t bear to watch her one chance at true love disappear forever. Then she felt a strong hand on her shoulder spin her around. It was Cooper."
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Amy",
+            "\u201cWhat about the future?\u201d asked Amelia. He looked deeply into her eyes and whispered, \u201cThere is no future without you.\u201d He pulled her in close. She began to tremble all over. She felt his warm breath\u2026"
+        ],
+        [
+            "Leonard",
+            "You will not believe what Stephen Hawking just said."
+        ],
+        [
+            "Penny",
+            "Get out!"
+        ],
+        [
+            "Bernadette",
+            "Not now!"
+        ],
+        [
+            "Scene",
+            "An 1800\u2019s house. "
+        ],
+        [
+            "Amelia",
+            "Is the water warm enough?"
+        ],
+        [
+            "Cooper",
+            "Given the fact that you took the time to build a wood fire, draw the water from the well and heat it, it would be rude to complain. But since you asked, it\u2019s a little nippy."
+        ],
+        [
+            "Amelia",
+            "I can fix that. I couldn\u2019t help but notice your unusual undergarments."
+        ],
+        [
+            "Cooper",
+            "They\u2019re not undergarments. They\u2019re Underoos. Where I come from, they\u2019re known as underwear that\u2019s fun to wear."
+        ],
+        [
+            "Amelia",
+            "And what\u2019s the significance of the spider?"
+        ],
+        [
+            "Cooper",
+            "Oh, that represents Spider-Man. He does whatever a spider can."
+        ],
+        [
+            "Amelia",
+            "There\u2019s a lot of rhyming in the future, isn\u2019t there?"
+        ],
+        [
+            "Leonard (in bed)",
+            "You\u2019re right. This is even weirder than I thought."
+        ],
+        [
+            "Penny",
+            "You want me to stop reading?"
+        ],
+        [
+            "Leonard",
+            "Are you kidding? No, no."
+        ],
+        [
+            "Penny",
+            "As he stood for Amelia to dry him\u2026"
+        ],
+        [
+            "Amelia",
+            "So, tell me, Cooper, are the ways of physical love different in the future?"
+        ],
+        [
+            "Leonard",
+            "Yeah, okay, I\u2019m good."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-14-the-troll-manifestation/"
+}

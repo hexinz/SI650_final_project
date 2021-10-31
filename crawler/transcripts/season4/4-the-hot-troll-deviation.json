@@ -1,0 +1,2210 @@
+{
+    "Season": 4,
+    "Episode": 4,
+    "Title": "the hot troll deviation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The Cheesecake Factory."
+            ],
+            [
+                25,
+                "Credits sequence."
+            ],
+            [
+                27,
+                "Howard\u2019s bedroom. Howard enters in a silk dressing gown, puts on romantic music and sets up mood lighting. Gets onto bed."
+            ],
+            [
+                62,
+                "The university cafeteria."
+            ],
+            [
+                96,
+                "Penny\u2019s apartment. Penny is gathering laundry."
+            ],
+            [
+                134,
+                "A corridor at the university."
+            ],
+            [
+                140,
+                "(Sheldon opens his office door. It bangs against a desk. Inside, Raj is sat behind a huge, ornate antique wooden desk in an enormous antique swivel chair.)"
+            ],
+            [
+                176,
+                "The Cheesecake Factory"
+            ],
+            [
+                222,
+                "University corridor."
+            ],
+            [
+                241,
+                "Bernadette\u2019s car. "
+            ],
+            [
+                259,
+                "University corridor. "
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "I\u2019m telling you, if xenon emits ultraviolet light, then those dark matter discoveries must be wrong."
+            ],
+            [
+                3,
+                "Oh, you\u2019re so arrogant. If you were a superhero, your name would be Captain Arrogant. And you know what your superpower would be? Arrogance."
+            ],
+            [
+                7,
+                "Has it occurred to you you\u2019re missing the big picture? If you look at neutron scattering data\u2026"
+            ],
+            [
+                24,
+                "It\u2019s one of his best moves."
+            ],
+            [
+                73,
+                "You\u2019re being unreasonable. Why can\u2019t I have a desk?"
+            ],
+            [
+                75,
+                "You have a desk."
+            ],
+            [
+                77,
+                "But I can\u2019t have one."
+            ],
+            [
+                81,
+                "Oh, but there\u2019s money for a drawer full of Red Vines, a marshmallow shooting rifle, and a super executive ant farm with glow-in-the-dark sand?"
+            ],
+            [
+                84,
+                "Yeah, what if I buy my own desk?"
+            ],
+            [
+                88,
+                "Yes?"
+            ],
+            [
+                92,
+                "And I can put it in your office?"
+            ],
+            [
+                141,
+                "You said I could buy a desk."
+            ],
+            [
+                143,
+                "Is that the American idiom for giant, big-ass desk?"
+            ],
+            [
+                145,
+                "Can you say it again for me?"
+            ],
+            [
+                147,
+                "One more time?"
+            ],
+            [
+                149,
+                "Now three times fast?"
+            ],
+            [
+                151,
+                "That\u2019s for me, Ramon, Julio, Jesus and Rodrigo to know and you to find out."
+            ],
+            [
+                153,
+                "No."
+            ],
+            [
+                155,
+                "No."
+            ],
+            [
+                157,
+                "No."
+            ],
+            [
+                159,
+                "I have three brothers and two sisters, Sheldon, I can do this all day."
+            ],
+            [
+                161,
+                "Knock yourself out."
+            ],
+            [
+                163,
+                "No."
+            ],
+            [
+                165,
+                "No."
+            ],
+            [
+                167,
+                "No. It\u2019s too Brobdingnagian."
+            ],
+            [
+                169,
+                "Well, seeing as its purpose was to piss you off, I\u2019d say it\u2019s spot-on."
+            ],
+            [
+                171,
+                "Thank you."
+            ],
+            [
+                173,
+                "Hey, Sheldon?"
+            ],
+            [
+                175,
+                "No. See what I did there? I turned it around."
+            ],
+            [
+                264,
+                "It\u2019s not gonna work, dude, I grew up in India, an entire subcontinent where cows walk in the street, and nobody has ever had a solid bowel movement."
+            ],
+            [
+                266,
+                "Well, we\u2019ll just see how your noxious gas fares against my cinnamon-apple-scented aroma therapy candles."
+            ],
+            [
+                271,
+                "This is not over."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Yes, well, if we lived in a world where slow-moving xenon produced light, then you\u2019d be correct. Also, pigs would fly, my derriere would produce cotton candy, and The Phantom Menace would be a timeless classic."
+            ],
+            [
+                4,
+                "You\u2019re wrong again. If my superpower were arrogance, my name would be Dr. Arroganto."
+            ],
+            [
+                8,
+                "Oh, Penny? Penny?"
+            ],
+            [
+                10,
+                "Nothing. I just wanted to make Raj stop talking."
+            ],
+            [
+                23,
+                "Hello. I see you decided to go with pathetic and frightened."
+            ],
+            [
+                74,
+                "Our collaboration is a work of the mind. We don\u2019t need desks."
+            ],
+            [
+                76,
+                "Correct."
+            ],
+            [
+                78,
+                "You\u2019re two for two."
+            ],
+            [
+                80,
+                "Oh, Lord, will this day never end? As I\u2019ve explained repeatedly to Dr. Koothrappali, whose ability to comprehend the American idiom fails him when it\u2019s convenient, there\u2019s absolutely no money in my budget for additional office furniture."
+            ],
+            [
+                82,
+                "Yes."
+            ],
+            [
+                85,
+                "That\u2019s ridiculous."
+            ],
+            [
+                87,
+                "Because\u2026"
+            ],
+            [
+                89,
+                "It\u2019s my office."
+            ],
+            [
+                91,
+                "All right, all right. He can buy his own desk."
+            ],
+            [
+                93,
+                "Well, you really want to dot the I\u2019s and cross the T\u2019s, don\u2019t you?"
+            ],
+            [
+                95,
+                "They do some of their best work at night."
+            ],
+            [
+                136,
+                "One question."
+            ],
+            [
+                138,
+                "Why on earth are you telling me all this?"
+            ],
+            [
+                142,
+                "This isn\u2019t a desk. This is a Brobdingnagian monstrosity."
+            ],
+            [
+                144,
+                "It\u2019s actually British."
+            ],
+            [
+                146,
+                "Brobdingnagian."
+            ],
+            [
+                148,
+                "Brobdingnagian."
+            ],
+            [
+                150,
+                "Brobdingnagian, Brobdingna\u2026 How did you even get it in here?"
+            ],
+            [
+                152,
+                "All right, you\u2019ve made your point. A fine prank, very amusing. Now get it out."
+            ],
+            [
+                154,
+                "Yes."
+            ],
+            [
+                156,
+                "Yes."
+            ],
+            [
+                158,
+                "Yes."
+            ],
+            [
+                160,
+                "All right, if you\u2019re not going to remove it, I\u2019ll remove it for you."
+            ],
+            [
+                162,
+                "Help me move my desk."
+            ],
+            [
+                164,
+                "Yes."
+            ],
+            [
+                166,
+                "Yes."
+            ],
+            [
+                168,
+                "Why do you even want this here? Its size is completely disproportionate to its purpose."
+            ],
+            [
+                170,
+                "All right, I see what\u2019s going on. This is the opening salvo in what will be an escalating series of juvenile tit-for-tat exchanges. Well titted."
+            ],
+            [
+                172,
+                "Stand by for my upcoming tat."
+            ],
+            [
+                174,
+                "Yes?"
+            ],
+            [
+                261,
+                "Yes?"
+            ],
+            [
+                263,
+                "I\u2019m making hydrogen sulphide and ammonia gas. Just a little experiment in pest control."
+            ],
+            [
+                265,
+                "Well, we\u2019ll just see how long you can hold out."
+            ],
+            [
+                268,
+                "Yes."
+            ],
+            [
+                270,
+                "Highly. Oh, dear. (Explosion)"
+            ]
+        ],
+        "Howard (laughs)": [
+            [
+                5,
+                "I love watching Raj and Sheldon try to work together."
+            ]
+        ],
+        "Leonard": [
+            [
+                6,
+                "Yeah, it\u2019s like if Alien and Predator decided to go partners in a Jamba Juice."
+            ],
+            [
+                13,
+                "Hang on a second. I could have the fruit platter."
+            ],
+            [
+                15,
+                "Does it have melon on it?"
+            ],
+            [
+                17,
+                "No, I can\u2019t eat melon."
+            ],
+            [
+                19,
+                "When was the last time you saw her?"
+            ],
+            [
+                22,
+                "Hey."
+            ],
+            [
+                63,
+                "You know, you never told me what happened between you and Bernadette."
+            ],
+            [
+                65,
+                "Yeah, I guessed that."
+            ],
+            [
+                67,
+                "That covers anything from farting in bed to killing a homeless guy. Oh, my God. You ran over a hobo."
+            ],
+            [
+                69,
+                "All right, fine. So you want to get back together with her, but you\u2019re too ashamed to face her because of whatever it is you did."
+            ],
+            [
+                71,
+                "Okay. Well, how about this? Kidnap Bernadette from the opera wearing a creepy mask so she doesn\u2019t know it\u2019s you."
+            ],
+            [
+                79,
+                "Why can\u2019t he have a desk, Sheldon?"
+            ],
+            [
+                90,
+                "Sheldon."
+            ],
+            [
+                94,
+                "Why would you want a glow-in-the-dark ant farm?"
+            ],
+            [
+                135,
+                "So anyway, Howard asked Penny to talk to Bernadette, and she did, and Bernadette agreed to meet him for a cup of coffee."
+            ],
+            [
+                137,
+                "Yeah?"
+            ],
+            [
+                139,
+                "I don\u2019t know. Sometimes your movements are so lifelike, I forget you\u2019re not a real boy."
+            ],
+            [
+                224,
+                "Oh, congratulations. Have you broken it to the troll yet?"
+            ],
+            [
+                226,
+                "No. Steve Patterson told me."
+            ],
+            [
+                228,
+                "Yeah."
+            ],
+            [
+                230,
+                "He\u2019s Glissinda the troll."
+            ],
+            [
+                236,
+                "So anyway, that\u2019s great news about you and Bernadette."
+            ],
+            [
+                238,
+                "Ah. Well, I guess for you guys that\u2019s like regular golf."
+            ],
+            [
+                240,
+                "Yeah, and don\u2019t you forget it."
+            ],
+            [
+                260,
+                "Oh, God, what\u2019s that smell? (Knocks on Sheldon\u2019s door. Sheldon answers in a gas mask). Oh-ho-hoo!"
+            ],
+            [
+                262,
+                "What are you doing in there?"
+            ],
+            [
+                267,
+                "Didn\u2019t you say you\u2019re making hydrogen sulphide gas?"
+            ],
+            [
+                269,
+                "Isn\u2019t that flammable?"
+            ]
+        ],
+        "Penny": [
+            [
+                9,
+                "What\u2019s up?"
+            ],
+            [
+                12,
+                "Well, I\u2019d ask you guys if you want dessert, but I know Sheldon doesn\u2019t eat dessert on Tuesdays. And even if Raj wanted something, he couldn\u2019t tell me. Howard won\u2019t order anything, but he will come up with some sort of skeevy comment involving the words pie or cheesecake. And Leonard\u2019s lactose intolerant, so he can\u2019t eat anything here without his intestines blowing up like a balloon animal."
+            ],
+            [
+                14,
+                "You want the fruit platter?"
+            ],
+            [
+                16,
+                "Yeah."
+            ],
+            [
+                18,
+                "Oh, Howard, heads up. Your ex-girlfriend just came in for her shift."
+            ],
+            [
+                100,
+                "Not since I found out the teddy bear you gave me had a webcam in it."
+            ],
+            [
+                102,
+                "Oh, absolutely."
+            ],
+            [
+                104,
+                "Yeah, sure. Just yesterday, she asked, why is Howard hiding under the table?"
+            ],
+            [
+                106,
+                "Oh, no, not at first. Right after I pointed it out."
+            ],
+            [
+                108,
+                "Uh, not that I know of. Hey, while we\u2019re on the subject, why did you guys break up anyway?"
+            ],
+            [
+                110,
+                "Howard, if you want my help, I\u2019ve got to know what happened."
+            ],
+            [
+                112,
+                "Yeah, that\u2019s what I\u2019m counting on. Spill."
+            ],
+            [
+                114,
+                "Um, the online game? Sure."
+            ],
+            [
+                116,
+                "Oh, God. I think I see where this is going."
+            ],
+            [
+                118,
+                "Oh, you\u2019re right. That is so embarrassing."
+            ],
+            [
+                120,
+                "Bernadette or the troll?"
+            ],
+            [
+                122,
+                "Well, what was your side?"
+            ],
+            [
+                124,
+                "Really? And that didn\u2019t make her feel better?"
+            ],
+            [
+                126,
+                "Oh, gee, Howard, I really don\u2019t want to get in the middle of this."
+            ],
+            [
+                128,
+                "Okay, I will think about it."
+            ],
+            [
+                130,
+                "Yeah, I said I\u2019d think about it."
+            ],
+            [
+                132,
+                "Okay, fine. Look, look, I\u2019m calling her now! See?"
+            ],
+            [
+                184,
+                "Hey, how are we doing over here? Can I get you something to drink?"
+            ],
+            [
+                187,
+                "Are you gonna want to order food?"
+            ],
+            [
+                189,
+                "Okay."
+            ],
+            [
+                192,
+                "That\u2019s what I told him when he asked me. I hope that\u2019s not out of line."
+            ],
+            [
+                195,
+                "Oh. I\u2019m sorry."
+            ],
+            [
+                201,
+                "You know, you look thirsty. I brought you some iced tea."
+            ],
+            [
+                203,
+                "It\u2019s passion fruit, new on the menu."
+            ],
+            [
+                205,
+                "Not where I can hear you guys."
+            ],
+            [
+                207,
+                "Yeah, that\u2019ll hold me for a while."
+            ],
+            [
+                213,
+                "Complimentary nachos! You enjoy. Never had sex? Wow."
+            ],
+            [
+                221,
+                "Hey, this is a little awkward, but my manager says I can\u2019t actually give nachos away. So, just take that when you\u2019re ready."
+            ]
+        ],
+        "Howard (after Raj whispers to him)": [
+            [
+                11,
+                "No, no, no. He won. Suck it up."
+            ]
+        ],
+        "Howard": [
+            [
+                20,
+                "Oh, not since we broke up. Wow. How am I going to play this? Sophisticated and relaxed? Friendly, noncommittal? Cold and distant? (Hides under table)."
+            ],
+            [
+                28,
+                "So, my dear, we meet again."
+            ],
+            [
+                30,
+                "I\u2019ve missed you, Katee Sackhoff."
+            ],
+            [
+                32,
+                "Anything."
+            ],
+            [
+                34,
+                "Why are you in bed with me? If we start to question this, it all falls apart."
+            ],
+            [
+                36,
+                "Okay, if you insist."
+            ],
+            [
+                38,
+                "No, Ma!"
+            ],
+            [
+                40,
+                "Maybe it committed suicide! Leave me alone! Now, where were we?"
+            ],
+            [
+                42,
+                "Bernadette? What are you doing here?"
+            ],
+            [
+                44,
+                "No, I\u2019m not."
+            ],
+            [
+                46,
+                "Okay, I\u2019m a little confused here."
+            ],
+            [
+                48,
+                "Not that kind of confused."
+            ],
+            [
+                51,
+                "No, of course not."
+            ],
+            [
+                56,
+                "Wait. Katee, why are you leaving?"
+            ],
+            [
+                59,
+                "Great, Ma!"
+            ],
+            [
+                61,
+                "And with that mental picture, I think we\u2019re done for the evening."
+            ],
+            [
+                64,
+                "I did a stupid thing."
+            ],
+            [
+                66,
+                "It was the kind of thing that makes it kind of hard to face her now."
+            ],
+            [
+                68,
+                "No. Stop asking."
+            ],
+            [
+                70,
+                "In a nutshell."
+            ],
+            [
+                72,
+                "Now, you see, I don\u2019t know if you\u2019re kidding or not."
+            ],
+            [
+                83,
+                "Okay, what if he buys his own desk?"
+            ],
+            [
+                86,
+                "Why?"
+            ],
+            [
+                99,
+                "Would you have opened the door if you knew it was me?"
+            ],
+            [
+                101,
+                "I just have a question. Does Bernadette ever talk about me?"
+            ],
+            [
+                103,
+                "She does?"
+            ],
+            [
+                105,
+                "She saw that, huh?"
+            ],
+            [
+                107,
+                "Let me ask you something else. Is she seeing anybody?"
+            ],
+            [
+                109,
+                "Oh, I\u2019d rather not say."
+            ],
+            [
+                111,
+                "But it\u2019s embarrassing."
+            ],
+            [
+                113,
+                "Okay. Well, you know World of Warcraft?"
+            ],
+            [
+                115,
+                "Well, did you know that the characters in the game can have sex with each other?"
+            ],
+            [
+                117,
+                "Her name was Glissinda the Troll. Bernadette walked in on me while we were doing the cyber-nasty under the Bridge of Souls."
+            ],
+            [
+                119,
+                "Would you talk to her?"
+            ],
+            [
+                121,
+                "Bernadette. She was so mad at me, she wouldn\u2019t even listen to my side of the story."
+            ],
+            [
+                123,
+                "Well, for all we know, Glissinda the Troll wasn\u2019t even a real woman. I mean, she could\u2019ve been a 50-year-old truck driver in New Jersey."
+            ],
+            [
+                125,
+                "Will you talk to her, see if there\u2019s any chance at all we could get back together?"
+            ],
+            [
+                127,
+                "No. Why would you? I\u2019m just another lonely nerd, living with his mother, trying to find any scrap of happiness he can. You know, maybe to make up for the fact that his dad left him when he was 11."
+            ],
+            [
+                129,
+                "You know, I\u2019ve always blamed myself for him leaving. I always thought it was because I wasn\u2019t the son he wanted."
+            ],
+            [
+                131,
+                "I wasn\u2019t athletic, yeah, I was kind of sickly."
+            ],
+            [
+                133,
+                "Thank you."
+            ],
+            [
+                178,
+                "Oh, no, that\u2019s okay. How have you been?"
+            ],
+            [
+                180,
+                "Same. I took a scuba-diving course over the summer, but it turns out I\u2019m terrified of the ocean."
+            ],
+            [
+                182,
+                "You wouldn\u2019t know anybody who wants to buy a wet suit, boy\u2019s large? Yeah, forget it. Not important. So, are you seeing anyone?"
+            ],
+            [
+                185,
+                "Not for me, thanks."
+            ],
+            [
+                188,
+                "Maybe later."
+            ],
+            [
+                190,
+                "So, are you seeing anybody?"
+            ],
+            [
+                194,
+                "Penny, can we have a little privacy?"
+            ],
+            [
+                197,
+                "Well, you know how it is with guys. I mean, we have needs and\u2026"
+            ],
+            [
+                199,
+                "Well, not real girls."
+            ],
+            [
+                204,
+                "Isn\u2019t there somewhere else you can be?"
+            ],
+            [
+                206,
+                "Okay, fine. I\u2019ll admit, there are dark, sordid little corners of the Internet where the name Wolowizard is whispered in hushed tones. But the only reason I go there, the only reason I\u2019ve ever gone there is because I don\u2019t have a real woman in my life. You happy?"
+            ],
+            [
+                209,
+                "Yeah, but we weren\u2019t, I-I mean, you and I never\u2026"
+            ],
+            [
+                211,
+                "Yeah."
+            ],
+            [
+                214,
+                "What do you mean, whose fault was that?"
+            ],
+            [
+                216,
+                "I didn\u2019t think you wanted me to make the move."
+            ],
+            [
+                218,
+                "Really?"
+            ],
+            [
+                220,
+                "Son of a bitch."
+            ],
+            [
+                223,
+                "Yeah, we had a really great talk, and we\u2019re gonna start seeing each other again."
+            ],
+            [
+                225,
+                "Did Penny tell you about that?"
+            ],
+            [
+                227,
+                "The greasy old fat guy in Facilities Management?"
+            ],
+            [
+                229,
+                "How\u2019d he know about it?"
+            ],
+            [
+                237,
+                "Yeah. I think I\u2019m gonna take her to miniature golf."
+            ],
+            [
+                239,
+                "Short jokes? Really? You\u2019re, like, a quarter of an inch taller than me."
+            ],
+            [
+                242,
+                "I had a good time."
+            ],
+            [
+                254,
+                "You said, well, the move, remember?"
+            ],
+            [
+                256,
+                "No, you don\u2019t. It\u2019s me. The lusty charmer with the fancy patter and the hoochie pants."
+            ]
+        ],
+        "Bernadette": [
+            [
+                21,
+                "Hi, guys."
+            ],
+            [
+                41,
+                "I believe you were about to rip off my uniform with your teeth."
+            ],
+            [
+                45,
+                "Clearly you are. Otherwise, based on past experience, we\u2019d be done by now."
+            ],
+            [
+                49,
+                "What\u2019s George Takei doing here?"
+            ],
+            [
+                57,
+                "She\u2019s leaving because you really want to be with me."
+            ],
+            [
+                177,
+                "Sorry, I had to clock out."
+            ],
+            [
+                179,
+                "Okay. You know, busy, school, work. You?"
+            ],
+            [
+                181,
+                "Too bad."
+            ],
+            [
+                183,
+                "Well, to be honest, I\u2026"
+            ],
+            [
+                186,
+                "I\u2019m okay."
+            ],
+            [
+                191,
+                "No."
+            ],
+            [
+                193,
+                "No, it\u2019s fine."
+            ],
+            [
+                196,
+                "What about you, have you been seeing anybody?"
+            ],
+            [
+                198,
+                "So you\u2019ve been seeing other girls?"
+            ],
+            [
+                200,
+                "Does that mean slutty trolls?"
+            ],
+            [
+                202,
+                "Thank you."
+            ],
+            [
+                208,
+                "Howard, you did have a real woman. I was right there in the next room while you were clicking that troll\u2019s brains out."
+            ],
+            [
+                210,
+                "Had sex?"
+            ],
+            [
+                212,
+                "Well, whose fault was that?"
+            ],
+            [
+                215,
+                "Well, we could\u2019ve been having sex, but you never made the move."
+            ],
+            [
+                217,
+                "Howard, a girl doesn\u2019t go out with a man like you, with your looks, your fancy patter and your tight hoochie pants if she\u2019s not expecting him to eventually make the move."
+            ],
+            [
+                219,
+                "Really."
+            ],
+            [
+                243,
+                "Me, too."
+            ],
+            [
+                253,
+                "Mm! What are you doing?"
+            ],
+            [
+                255,
+                "Oh, not now. We\u2019re starting a new relationship. I need to get to know you again."
+            ],
+            [
+                257,
+                "Be patient, we\u2019ll get there."
+            ]
+        ],
+        "Katee Sackhoff": [
+            [
+                29,
+                "Hello, Howard. I\u2019ve missed you."
+            ],
+            [
+                31,
+                "One question."
+            ],
+            [
+                33,
+                "Why am I wearing my Battlestar Galactica flight suit in bed?"
+            ],
+            [
+                35,
+                "Sorry. Oh, ravish me, Howard. My loins ache for you."
+            ],
+            [
+                43,
+                "Well, if I had to guess, I\u2019d say I\u2019m here because you saw me earlier this evening, and you\u2019re still hung up on me."
+            ],
+            [
+                50,
+                "Howard, do you have latent homosexual tendencies?"
+            ],
+            [
+                53,
+                "George, let me ask you something. How did you deal with being typecast as a science fiction icon?"
+            ],
+            [
+                55,
+                "Tell me about it. It\u2019s frackin\u2019 frustrating."
+            ],
+            [
+                244,
+                "Kiss her good night. All right, now a little tongue."
+            ],
+            [
+                246,
+                "Don\u2019t listen to him. She wants it. Tongue. Luh-luh-luh-luh-luh. See? Now make the move."
+            ],
+            [
+                248,
+                "Trust me, she\u2019s ready. Make the move."
+            ],
+            [
+                250,
+                "How would you know?"
+            ],
+            [
+                252,
+                "Listen to me, Howard, it\u2019s time. Make the move, now."
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                37,
+                "Howard, have you seen my girdle?!"
+            ]
+        ],
+        "Mrs Wolowitz": [
+            [
+                39,
+                "I can\u2019t find it, and I\u2019m late for my Weight Watchers meeting!"
+            ],
+            [
+                58,
+                "Howard, I found my girdle! It was in the dryer!"
+            ],
+            [
+                60,
+                "I think it shrunk! I\u2019m spilling out like the Pillsbury Doughboy here!"
+            ]
+        ],
+        "George Takei": [
+            [
+                47,
+                "Oh, my. Can I help?"
+            ],
+            [
+                52,
+                "So you say. Yet, here I am."
+            ],
+            [
+                54,
+                "It\u2019s difficult. You try and stretch as an actor, do Strindberg, O\u2019Neill, but all they want is, Course laid in, Captain."
+            ],
+            [
+                245,
+                "Hold on there. We\u2019ve only just rekindled the romance. Let\u2019s not sully the moment with the exchange of saliva."
+            ],
+            [
+                247,
+                "Mm-mmm. Too soon."
+            ],
+            [
+                249,
+                "No, no, no. A lady wants to be wooed, courted slowly."
+            ],
+            [
+                251,
+                "I read."
+            ],
+            [
+                258,
+                "Told you."
+            ]
+        ],
+        "Penny (picking up a top and sniffing it)": [
+            [
+                97,
+                "Ah, it\u2019s okay."
+            ]
+        ],
+        "Sheldon (voice)": [
+            [
+                98,
+                "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Penny opens door. Howard is stood outside with a hand-held voice recorder.) Penny?"
+            ],
+            [
+                232,
+                "I\u2019ll turn off the music when you get rid of that salmonella-ridden parakeet!"
+            ],
+            [
+                234,
+                "That\u2019s it! Prepare for marshmallow death!"
+            ]
+        ],
+        "Raj (voice)": [
+            [
+                231,
+                "Sorry, dude, the thermostat\u2019s on my side of the room, so it stays Mumbai hot in here until you turn off that stupid Indian music!"
+            ],
+            [
+                233,
+                "Oh, too bad! Sheldon\u2019s pathologically afraid of birds! Hey, look, Sheldon! Birdie, birdie, birdie!"
+            ],
+            [
+                235,
+                "Eat flaming Nerf! (Imitates gunfire)"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The Cheesecake Factory."
+        ],
+        [
+            "Raj",
+            "I\u2019m telling you, if xenon emits ultraviolet light, then those dark matter discoveries must be wrong."
+        ],
+        [
+            "Sheldon",
+            "Yes, well, if we lived in a world where slow-moving xenon produced light, then you\u2019d be correct. Also, pigs would fly, my derriere would produce cotton candy, and The Phantom Menace would be a timeless classic."
+        ],
+        [
+            "Raj",
+            "Oh, you\u2019re so arrogant. If you were a superhero, your name would be Captain Arrogant. And you know what your superpower would be? Arrogance."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re wrong again. If my superpower were arrogance, my name would be Dr. Arroganto."
+        ],
+        [
+            "Howard (laughs)",
+            "I love watching Raj and Sheldon try to work together."
+        ],
+        [
+            "Leonard",
+            "Yeah, it\u2019s like if Alien and Predator decided to go partners in a Jamba Juice."
+        ],
+        [
+            "Raj",
+            "Has it occurred to you you\u2019re missing the big picture? If you look at neutron scattering data\u2026"
+        ],
+        [
+            "Sheldon",
+            "Oh, Penny? Penny?"
+        ],
+        [
+            "Penny",
+            "What\u2019s up?"
+        ],
+        [
+            "Sheldon",
+            "Nothing. I just wanted to make Raj stop talking."
+        ],
+        [
+            "Howard (after Raj whispers to him)",
+            "No, no, no. He won. Suck it up."
+        ],
+        [
+            "Penny",
+            "Well, I\u2019d ask you guys if you want dessert, but I know Sheldon doesn\u2019t eat dessert on Tuesdays. And even if Raj wanted something, he couldn\u2019t tell me. Howard won\u2019t order anything, but he will come up with some sort of skeevy comment involving the words pie or cheesecake. And Leonard\u2019s lactose intolerant, so he can\u2019t eat anything here without his intestines blowing up like a balloon animal."
+        ],
+        [
+            "Leonard",
+            "Hang on a second. I could have the fruit platter."
+        ],
+        [
+            "Penny",
+            "You want the fruit platter?"
+        ],
+        [
+            "Leonard",
+            "Does it have melon on it?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "No, I can\u2019t eat melon."
+        ],
+        [
+            "Penny",
+            "Oh, Howard, heads up. Your ex-girlfriend just came in for her shift."
+        ],
+        [
+            "Leonard",
+            "When was the last time you saw her?"
+        ],
+        [
+            "Howard",
+            "Oh, not since we broke up. Wow. How am I going to play this? Sophisticated and relaxed? Friendly, noncommittal? Cold and distant? (Hides under table)."
+        ],
+        [
+            "Bernadette",
+            "Hi, guys."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Hello. I see you decided to go with pathetic and frightened."
+        ],
+        [
+            "Raj",
+            "It\u2019s one of his best moves."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom. Howard enters in a silk dressing gown, puts on romantic music and sets up mood lighting. Gets onto bed."
+        ],
+        [
+            "Howard",
+            "So, my dear, we meet again."
+        ],
+        [
+            "Katee Sackhoff",
+            "Hello, Howard. I\u2019ve missed you."
+        ],
+        [
+            "Howard",
+            "I\u2019ve missed you, Katee Sackhoff."
+        ],
+        [
+            "Katee Sackhoff",
+            "One question."
+        ],
+        [
+            "Howard",
+            "Anything."
+        ],
+        [
+            "Katee Sackhoff",
+            "Why am I wearing my Battlestar Galactica flight suit in bed?"
+        ],
+        [
+            "Howard",
+            "Why are you in bed with me? If we start to question this, it all falls apart."
+        ],
+        [
+            "Katee Sackhoff",
+            "Sorry. Oh, ravish me, Howard. My loins ache for you."
+        ],
+        [
+            "Howard",
+            "Okay, if you insist."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Howard, have you seen my girdle?!"
+        ],
+        [
+            "Howard",
+            "No, Ma!"
+        ],
+        [
+            "Mrs Wolowitz",
+            "I can\u2019t find it, and I\u2019m late for my Weight Watchers meeting!"
+        ],
+        [
+            "Howard",
+            "Maybe it committed suicide! Leave me alone! Now, where were we?"
+        ],
+        [
+            "Bernadette",
+            "I believe you were about to rip off my uniform with your teeth."
+        ],
+        [
+            "Howard",
+            "Bernadette? What are you doing here?"
+        ],
+        [
+            "Katee Sackhoff",
+            "Well, if I had to guess, I\u2019d say I\u2019m here because you saw me earlier this evening, and you\u2019re still hung up on me."
+        ],
+        [
+            "Howard",
+            "No, I\u2019m not."
+        ],
+        [
+            "Bernadette",
+            "Clearly you are. Otherwise, based on past experience, we\u2019d be done by now."
+        ],
+        [
+            "Howard",
+            "Okay, I\u2019m a little confused here."
+        ],
+        [
+            "George Takei",
+            "Oh, my. Can I help?"
+        ],
+        [
+            "Howard",
+            "Not that kind of confused."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s George Takei doing here?"
+        ],
+        [
+            "Katee Sackhoff",
+            "Howard, do you have latent homosexual tendencies?"
+        ],
+        [
+            "Howard",
+            "No, of course not."
+        ],
+        [
+            "George Takei",
+            "So you say. Yet, here I am."
+        ],
+        [
+            "Katee Sackhoff",
+            "George, let me ask you something. How did you deal with being typecast as a science fiction icon?"
+        ],
+        [
+            "George Takei",
+            "It\u2019s difficult. You try and stretch as an actor, do Strindberg, O\u2019Neill, but all they want is, Course laid in, Captain."
+        ],
+        [
+            "Katee Sackhoff",
+            "Tell me about it. It\u2019s frackin\u2019 frustrating."
+        ],
+        [
+            "Howard",
+            "Wait. Katee, why are you leaving?"
+        ],
+        [
+            "Bernadette",
+            "She\u2019s leaving because you really want to be with me."
+        ],
+        [
+            "Mrs Wolowitz",
+            "Howard, I found my girdle! It was in the dryer!"
+        ],
+        [
+            "Howard",
+            "Great, Ma!"
+        ],
+        [
+            "Mrs Wolowitz",
+            "I think it shrunk! I\u2019m spilling out like the Pillsbury Doughboy here!"
+        ],
+        [
+            "Howard",
+            "And with that mental picture, I think we\u2019re done for the evening."
+        ],
+        [
+            "Scene",
+            "The university cafeteria."
+        ],
+        [
+            "Leonard",
+            "You know, you never told me what happened between you and Bernadette."
+        ],
+        [
+            "Howard",
+            "I did a stupid thing."
+        ],
+        [
+            "Leonard",
+            "Yeah, I guessed that."
+        ],
+        [
+            "Howard",
+            "It was the kind of thing that makes it kind of hard to face her now."
+        ],
+        [
+            "Leonard",
+            "That covers anything from farting in bed to killing a homeless guy. Oh, my God. You ran over a hobo."
+        ],
+        [
+            "Howard",
+            "No. Stop asking."
+        ],
+        [
+            "Leonard",
+            "All right, fine. So you want to get back together with her, but you\u2019re too ashamed to face her because of whatever it is you did."
+        ],
+        [
+            "Howard",
+            "In a nutshell."
+        ],
+        [
+            "Leonard",
+            "Okay. Well, how about this? Kidnap Bernadette from the opera wearing a creepy mask so she doesn\u2019t know it\u2019s you."
+        ],
+        [
+            "Howard",
+            "Now, you see, I don\u2019t know if you\u2019re kidding or not."
+        ],
+        [
+            "Raj",
+            "You\u2019re being unreasonable. Why can\u2019t I have a desk?"
+        ],
+        [
+            "Sheldon",
+            "Our collaboration is a work of the mind. We don\u2019t need desks."
+        ],
+        [
+            "Raj",
+            "You have a desk."
+        ],
+        [
+            "Sheldon",
+            "Correct."
+        ],
+        [
+            "Raj",
+            "But I can\u2019t have one."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re two for two."
+        ],
+        [
+            "Leonard",
+            "Why can\u2019t he have a desk, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Oh, Lord, will this day never end? As I\u2019ve explained repeatedly to Dr. Koothrappali, whose ability to comprehend the American idiom fails him when it\u2019s convenient, there\u2019s absolutely no money in my budget for additional office furniture."
+        ],
+        [
+            "Raj",
+            "Oh, but there\u2019s money for a drawer full of Red Vines, a marshmallow shooting rifle, and a super executive ant farm with glow-in-the-dark sand?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Howard",
+            "Okay, what if he buys his own desk?"
+        ],
+        [
+            "Raj",
+            "Yeah, what if I buy my own desk?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s ridiculous."
+        ],
+        [
+            "Howard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "Because\u2026"
+        ],
+        [
+            "Raj",
+            "Yes?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s my office."
+        ],
+        [
+            "Leonard",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "All right, all right. He can buy his own desk."
+        ],
+        [
+            "Raj",
+            "And I can put it in your office?"
+        ],
+        [
+            "Sheldon",
+            "Well, you really want to dot the I\u2019s and cross the T\u2019s, don\u2019t you?"
+        ],
+        [
+            "Leonard",
+            "Why would you want a glow-in-the-dark ant farm?"
+        ],
+        [
+            "Sheldon",
+            "They do some of their best work at night."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. Penny is gathering laundry."
+        ],
+        [
+            "Penny (picking up a top and sniffing it)",
+            "Ah, it\u2019s okay."
+        ],
+        [
+            "Sheldon (voice)",
+            "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Penny opens door. Howard is stood outside with a hand-held voice recorder.) Penny?"
+        ],
+        [
+            "Howard",
+            "Would you have opened the door if you knew it was me?"
+        ],
+        [
+            "Penny",
+            "Not since I found out the teddy bear you gave me had a webcam in it."
+        ],
+        [
+            "Howard",
+            "I just have a question. Does Bernadette ever talk about me?"
+        ],
+        [
+            "Penny",
+            "Oh, absolutely."
+        ],
+        [
+            "Howard",
+            "She does?"
+        ],
+        [
+            "Penny",
+            "Yeah, sure. Just yesterday, she asked, why is Howard hiding under the table?"
+        ],
+        [
+            "Howard",
+            "She saw that, huh?"
+        ],
+        [
+            "Penny",
+            "Oh, no, not at first. Right after I pointed it out."
+        ],
+        [
+            "Howard",
+            "Let me ask you something else. Is she seeing anybody?"
+        ],
+        [
+            "Penny",
+            "Uh, not that I know of. Hey, while we\u2019re on the subject, why did you guys break up anyway?"
+        ],
+        [
+            "Howard",
+            "Oh, I\u2019d rather not say."
+        ],
+        [
+            "Penny",
+            "Howard, if you want my help, I\u2019ve got to know what happened."
+        ],
+        [
+            "Howard",
+            "But it\u2019s embarrassing."
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s what I\u2019m counting on. Spill."
+        ],
+        [
+            "Howard",
+            "Okay. Well, you know World of Warcraft?"
+        ],
+        [
+            "Penny",
+            "Um, the online game? Sure."
+        ],
+        [
+            "Howard",
+            "Well, did you know that the characters in the game can have sex with each other?"
+        ],
+        [
+            "Penny",
+            "Oh, God. I think I see where this is going."
+        ],
+        [
+            "Howard",
+            "Her name was Glissinda the Troll. Bernadette walked in on me while we were doing the cyber-nasty under the Bridge of Souls."
+        ],
+        [
+            "Penny",
+            "Oh, you\u2019re right. That is so embarrassing."
+        ],
+        [
+            "Howard",
+            "Would you talk to her?"
+        ],
+        [
+            "Penny",
+            "Bernadette or the troll?"
+        ],
+        [
+            "Howard",
+            "Bernadette. She was so mad at me, she wouldn\u2019t even listen to my side of the story."
+        ],
+        [
+            "Penny",
+            "Well, what was your side?"
+        ],
+        [
+            "Howard",
+            "Well, for all we know, Glissinda the Troll wasn\u2019t even a real woman. I mean, she could\u2019ve been a 50-year-old truck driver in New Jersey."
+        ],
+        [
+            "Penny",
+            "Really? And that didn\u2019t make her feel better?"
+        ],
+        [
+            "Howard",
+            "Will you talk to her, see if there\u2019s any chance at all we could get back together?"
+        ],
+        [
+            "Penny",
+            "Oh, gee, Howard, I really don\u2019t want to get in the middle of this."
+        ],
+        [
+            "Howard",
+            "No. Why would you? I\u2019m just another lonely nerd, living with his mother, trying to find any scrap of happiness he can. You know, maybe to make up for the fact that his dad left him when he was 11."
+        ],
+        [
+            "Penny",
+            "Okay, I will think about it."
+        ],
+        [
+            "Howard",
+            "You know, I\u2019ve always blamed myself for him leaving. I always thought it was because I wasn\u2019t the son he wanted."
+        ],
+        [
+            "Penny",
+            "Yeah, I said I\u2019d think about it."
+        ],
+        [
+            "Howard",
+            "I wasn\u2019t athletic, yeah, I was kind of sickly."
+        ],
+        [
+            "Penny",
+            "Okay, fine. Look, look, I\u2019m calling her now! See?"
+        ],
+        [
+            "Howard",
+            "Thank you."
+        ],
+        [
+            "Scene",
+            "A corridor at the university."
+        ],
+        [
+            "Leonard",
+            "So anyway, Howard asked Penny to talk to Bernadette, and she did, and Bernadette agreed to meet him for a cup of coffee."
+        ],
+        [
+            "Sheldon",
+            "One question."
+        ],
+        [
+            "Leonard",
+            "Yeah?"
+        ],
+        [
+            "Sheldon",
+            "Why on earth are you telling me all this?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. Sometimes your movements are so lifelike, I forget you\u2019re not a real boy."
+        ],
+        [
+            "Scene",
+            "(Sheldon opens his office door. It bangs against a desk. Inside, Raj is sat behind a huge, ornate antique wooden desk in an enormous antique swivel chair.)"
+        ],
+        [
+            "Raj",
+            "You said I could buy a desk."
+        ],
+        [
+            "Sheldon",
+            "This isn\u2019t a desk. This is a Brobdingnagian monstrosity."
+        ],
+        [
+            "Raj",
+            "Is that the American idiom for giant, big-ass desk?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s actually British."
+        ],
+        [
+            "Raj",
+            "Can you say it again for me?"
+        ],
+        [
+            "Sheldon",
+            "Brobdingnagian."
+        ],
+        [
+            "Raj",
+            "One more time?"
+        ],
+        [
+            "Sheldon",
+            "Brobdingnagian."
+        ],
+        [
+            "Raj",
+            "Now three times fast?"
+        ],
+        [
+            "Sheldon",
+            "Brobdingnagian, Brobdingna\u2026 How did you even get it in here?"
+        ],
+        [
+            "Raj",
+            "That\u2019s for me, Ramon, Julio, Jesus and Rodrigo to know and you to find out."
+        ],
+        [
+            "Sheldon",
+            "All right, you\u2019ve made your point. A fine prank, very amusing. Now get it out."
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "I have three brothers and two sisters, Sheldon, I can do this all day."
+        ],
+        [
+            "Sheldon",
+            "All right, if you\u2019re not going to remove it, I\u2019ll remove it for you."
+        ],
+        [
+            "Raj",
+            "Knock yourself out."
+        ],
+        [
+            "Sheldon",
+            "Help me move my desk."
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "No. It\u2019s too Brobdingnagian."
+        ],
+        [
+            "Sheldon",
+            "Why do you even want this here? Its size is completely disproportionate to its purpose."
+        ],
+        [
+            "Raj",
+            "Well, seeing as its purpose was to piss you off, I\u2019d say it\u2019s spot-on."
+        ],
+        [
+            "Sheldon",
+            "All right, I see what\u2019s going on. This is the opening salvo in what will be an escalating series of juvenile tit-for-tat exchanges. Well titted."
+        ],
+        [
+            "Raj",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Stand by for my upcoming tat."
+        ],
+        [
+            "Raj",
+            "Hey, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Yes?"
+        ],
+        [
+            "Raj",
+            "No. See what I did there? I turned it around."
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory"
+        ],
+        [
+            "Bernadette",
+            "Sorry, I had to clock out."
+        ],
+        [
+            "Howard",
+            "Oh, no, that\u2019s okay. How have you been?"
+        ],
+        [
+            "Bernadette",
+            "Okay. You know, busy, school, work. You?"
+        ],
+        [
+            "Howard",
+            "Same. I took a scuba-diving course over the summer, but it turns out I\u2019m terrified of the ocean."
+        ],
+        [
+            "Bernadette",
+            "Too bad."
+        ],
+        [
+            "Howard",
+            "You wouldn\u2019t know anybody who wants to buy a wet suit, boy\u2019s large? Yeah, forget it. Not important. So, are you seeing anyone?"
+        ],
+        [
+            "Bernadette",
+            "Well, to be honest, I\u2026"
+        ],
+        [
+            "Penny",
+            "Hey, how are we doing over here? Can I get you something to drink?"
+        ],
+        [
+            "Howard",
+            "Not for me, thanks."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m okay."
+        ],
+        [
+            "Penny",
+            "Are you gonna want to order food?"
+        ],
+        [
+            "Howard",
+            "Maybe later."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Howard",
+            "So, are you seeing anybody?"
+        ],
+        [
+            "Bernadette",
+            "No."
+        ],
+        [
+            "Penny",
+            "That\u2019s what I told him when he asked me. I hope that\u2019s not out of line."
+        ],
+        [
+            "Bernadette",
+            "No, it\u2019s fine."
+        ],
+        [
+            "Howard",
+            "Penny, can we have a little privacy?"
+        ],
+        [
+            "Penny",
+            "Oh. I\u2019m sorry."
+        ],
+        [
+            "Bernadette",
+            "What about you, have you been seeing anybody?"
+        ],
+        [
+            "Howard",
+            "Well, you know how it is with guys. I mean, we have needs and\u2026"
+        ],
+        [
+            "Bernadette",
+            "So you\u2019ve been seeing other girls?"
+        ],
+        [
+            "Howard",
+            "Well, not real girls."
+        ],
+        [
+            "Bernadette",
+            "Does that mean slutty trolls?"
+        ],
+        [
+            "Penny",
+            "You know, you look thirsty. I brought you some iced tea."
+        ],
+        [
+            "Bernadette",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "It\u2019s passion fruit, new on the menu."
+        ],
+        [
+            "Howard",
+            "Isn\u2019t there somewhere else you can be?"
+        ],
+        [
+            "Penny",
+            "Not where I can hear you guys."
+        ],
+        [
+            "Howard",
+            "Okay, fine. I\u2019ll admit, there are dark, sordid little corners of the Internet where the name Wolowizard is whispered in hushed tones. But the only reason I go there, the only reason I\u2019ve ever gone there is because I don\u2019t have a real woman in my life. You happy?"
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019ll hold me for a while."
+        ],
+        [
+            "Bernadette",
+            "Howard, you did have a real woman. I was right there in the next room while you were clicking that troll\u2019s brains out."
+        ],
+        [
+            "Howard",
+            "Yeah, but we weren\u2019t, I-I mean, you and I never\u2026"
+        ],
+        [
+            "Bernadette",
+            "Had sex?"
+        ],
+        [
+            "Howard",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "Well, whose fault was that?"
+        ],
+        [
+            "Penny",
+            "Complimentary nachos! You enjoy. Never had sex? Wow."
+        ],
+        [
+            "Howard",
+            "What do you mean, whose fault was that?"
+        ],
+        [
+            "Bernadette",
+            "Well, we could\u2019ve been having sex, but you never made the move."
+        ],
+        [
+            "Howard",
+            "I didn\u2019t think you wanted me to make the move."
+        ],
+        [
+            "Bernadette",
+            "Howard, a girl doesn\u2019t go out with a man like you, with your looks, your fancy patter and your tight hoochie pants if she\u2019s not expecting him to eventually make the move."
+        ],
+        [
+            "Howard",
+            "Really?"
+        ],
+        [
+            "Bernadette",
+            "Really."
+        ],
+        [
+            "Howard",
+            "Son of a bitch."
+        ],
+        [
+            "Penny",
+            "Hey, this is a little awkward, but my manager says I can\u2019t actually give nachos away. So, just take that when you\u2019re ready."
+        ],
+        [
+            "Scene",
+            "University corridor."
+        ],
+        [
+            "Howard",
+            "Yeah, we had a really great talk, and we\u2019re gonna start seeing each other again."
+        ],
+        [
+            "Leonard",
+            "Oh, congratulations. Have you broken it to the troll yet?"
+        ],
+        [
+            "Howard",
+            "Did Penny tell you about that?"
+        ],
+        [
+            "Leonard",
+            "No. Steve Patterson told me."
+        ],
+        [
+            "Howard",
+            "The greasy old fat guy in Facilities Management?"
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Howard",
+            "How\u2019d he know about it?"
+        ],
+        [
+            "Leonard",
+            "He\u2019s Glissinda the troll."
+        ],
+        [
+            "Raj (voice)",
+            "Sorry, dude, the thermostat\u2019s on my side of the room, so it stays Mumbai hot in here until you turn off that stupid Indian music!"
+        ],
+        [
+            "Sheldon (voice)",
+            "I\u2019ll turn off the music when you get rid of that salmonella-ridden parakeet!"
+        ],
+        [
+            "Raj (voice)",
+            "Oh, too bad! Sheldon\u2019s pathologically afraid of birds! Hey, look, Sheldon! Birdie, birdie, birdie!"
+        ],
+        [
+            "Sheldon (voice)",
+            "That\u2019s it! Prepare for marshmallow death!"
+        ],
+        [
+            "Raj (voice)",
+            "Eat flaming Nerf! (Imitates gunfire)"
+        ],
+        [
+            "Leonard",
+            "So anyway, that\u2019s great news about you and Bernadette."
+        ],
+        [
+            "Howard",
+            "Yeah. I think I\u2019m gonna take her to miniature golf."
+        ],
+        [
+            "Leonard",
+            "Ah. Well, I guess for you guys that\u2019s like regular golf."
+        ],
+        [
+            "Howard",
+            "Short jokes? Really? You\u2019re, like, a quarter of an inch taller than me."
+        ],
+        [
+            "Leonard",
+            "Yeah, and don\u2019t you forget it."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car. "
+        ],
+        [
+            "Howard",
+            "I had a good time."
+        ],
+        [
+            "Bernadette",
+            "Me, too."
+        ],
+        [
+            "Katee Sackhoff",
+            "Kiss her good night. All right, now a little tongue."
+        ],
+        [
+            "George Takei",
+            "Hold on there. We\u2019ve only just rekindled the romance. Let\u2019s not sully the moment with the exchange of saliva."
+        ],
+        [
+            "Katee Sackhoff",
+            "Don\u2019t listen to him. She wants it. Tongue. Luh-luh-luh-luh-luh. See? Now make the move."
+        ],
+        [
+            "George Takei",
+            "Mm-mmm. Too soon."
+        ],
+        [
+            "Katee Sackhoff",
+            "Trust me, she\u2019s ready. Make the move."
+        ],
+        [
+            "George Takei",
+            "No, no, no. A lady wants to be wooed, courted slowly."
+        ],
+        [
+            "Katee Sackhoff",
+            "How would you know?"
+        ],
+        [
+            "George Takei",
+            "I read."
+        ],
+        [
+            "Katee Sackhoff",
+            "Listen to me, Howard, it\u2019s time. Make the move, now."
+        ],
+        [
+            "Bernadette",
+            "Mm! What are you doing?"
+        ],
+        [
+            "Howard",
+            "You said, well, the move, remember?"
+        ],
+        [
+            "Bernadette",
+            "Oh, not now. We\u2019re starting a new relationship. I need to get to know you again."
+        ],
+        [
+            "Howard",
+            "No, you don\u2019t. It\u2019s me. The lusty charmer with the fancy patter and the hoochie pants."
+        ],
+        [
+            "Bernadette",
+            "Be patient, we\u2019ll get there."
+        ],
+        [
+            "George Takei",
+            "Told you."
+        ],
+        [
+            "Scene",
+            "University corridor. "
+        ],
+        [
+            "Leonard",
+            "Oh, God, what\u2019s that smell? (Knocks on Sheldon\u2019s door. Sheldon answers in a gas mask). Oh-ho-hoo!"
+        ],
+        [
+            "Sheldon",
+            "Yes?"
+        ],
+        [
+            "Leonard",
+            "What are you doing in there?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m making hydrogen sulphide and ammonia gas. Just a little experiment in pest control."
+        ],
+        [
+            "Raj",
+            "It\u2019s not gonna work, dude, I grew up in India, an entire subcontinent where cows walk in the street, and nobody has ever had a solid bowel movement."
+        ],
+        [
+            "Sheldon",
+            "Well, we\u2019ll just see how long you can hold out."
+        ],
+        [
+            "Raj",
+            "Well, we\u2019ll just see how your noxious gas fares against my cinnamon-apple-scented aroma therapy candles."
+        ],
+        [
+            "Leonard",
+            "Didn\u2019t you say you\u2019re making hydrogen sulphide gas?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "Isn\u2019t that flammable?"
+        ],
+        [
+            "Sheldon",
+            "Highly. Oh, dear. (Explosion)"
+        ],
+        [
+            "Raj",
+            "This is not over."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-4-episode-04-the-hot-troll-deviation/"
+}

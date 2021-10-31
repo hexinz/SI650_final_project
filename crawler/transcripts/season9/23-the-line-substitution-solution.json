@@ -1,0 +1,1992 @@
+{
+    "Season": 9,
+    "Episode": 23,
+    "Title": "the line substitution solution",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                40,
+                "Credits sequence."
+            ],
+            [
+                41,
+                "The comic book store."
+            ],
+            [
+                61,
+                "Penny\u2019s car."
+            ],
+            [
+                76,
+                "Amy\u2019s car."
+            ],
+            [
+                86,
+                "The cinema line."
+            ],
+            [
+                97,
+                "Penny\u2019s apartment."
+            ],
+            [
+                116,
+                "The cinema line."
+            ],
+            [
+                132,
+                "Penny\u2019s apartment."
+            ],
+            [
+                150,
+                "The cinema line."
+            ],
+            [
+                187,
+                "Penny\u2019s apartment."
+            ],
+            [
+                204,
+                "The cinema line."
+            ],
+            [
+                227,
+                "Penny\u2019s apartment."
+            ],
+            [
+                241,
+                "Howard and Bernadette\u2019s bedroom."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Helium."
+            ],
+            [
+                3,
+                "Yes."
+            ],
+            [
+                5,
+                "Yes. Pi."
+            ],
+            [
+                7,
+                "More specific."
+            ],
+            [
+                9,
+                "Yes."
+            ],
+            [
+                11,
+                "Oh, that\u2019s a Venn Diagram, and I remember because I thought to myself, venn is he gonna stop talking about this diagram?"
+            ],
+            [
+                15,
+                "Okay."
+            ],
+            [
+                19,
+                "Sure."
+            ],
+            [
+                21,
+                "No problem."
+            ],
+            [
+                26,
+                "You really want me to pick up your mother all by myself?"
+            ],
+            [
+                28,
+                "Or a way for you to avoid her?"
+            ],
+            [
+                30,
+                "Fine, if you really want me to, I will pick your mom up."
+            ],
+            [
+                32,
+                "Yeah, you know what, she is my mother-in-law, and I\u2019d like for us to have a good relationship."
+            ],
+            [
+                35,
+                "Okay."
+            ],
+            [
+                37,
+                "Or as I know him?"
+            ],
+            [
+                39,
+                "Ding, ding, ding, ding, ding."
+            ],
+            [
+                63,
+                "Wow. Didn\u2019t even make it out of the parking lot. Uh, you know what, enough about Leonard. Let\u2019s talk about you. What would you like to do while you\u2019re here?"
+            ],
+            [
+                65,
+                "Well, I\u2019d actually like for us to be close, but maybe we start with our favourite books and work our way up to my husband\u2019s sex organs."
+            ],
+            [
+                67,
+                "Um, does Pottery Barn, Spring count?"
+            ],
+            [
+                69,
+                "Uh, for starters, maybe you can not psychoanalyze everything I say?"
+            ],
+            [
+                71,
+                "Uncomfortable."
+            ],
+            [
+                73,
+                "Oh. Sorry. Didn\u2019t know you made those. Hey, listen, what if we have a little mother-in-law, daughter-in-law dinner tonight?"
+            ],
+            [
+                75,
+                "Or I invite a few girlfriends, \u2019cause hearing you say the two of us just sent a chill right down my spine."
+            ],
+            [
+                105,
+                "You know, she\u2019s my mother-in-law. Why can\u2019t I bond with her like that?"
+            ],
+            [
+                110,
+                "You know, being in a relationship with Leonard also comes with its challenges."
+            ],
+            [
+                142,
+                "Um, it has seat warmers."
+            ],
+            [
+                148,
+                "How long have I had spinach in my teeth?"
+            ],
+            [
+                197,
+                "Okay, you know what? This is ridiculous. I\u2019ve been trying to make a connection with you all day, and clearly I\u2019m getting nowhere."
+            ],
+            [
+                199,
+                "What I was seeking was some sort of friendship. But at this point, I\u2019ll take you not insulting me to my face."
+            ],
+            [
+                201,
+                "You\u2019ve been doing it all day. Do you even know what an insult is?"
+            ],
+            [
+                203,
+                "Okay, good example."
+            ],
+            [
+                228,
+                "To be honest, I\u2019m surprised you cared about the wedding at all."
+            ],
+            [
+                231,
+                "It was spur of the moment."
+            ],
+            [
+                234,
+                "Thank you. So if we would have asked you to come to Vegas to see us get married, you would\u2019ve come?"
+            ],
+            [
+                236,
+                "You really think we made a mistake?"
+            ],
+            [
+                238,
+                "Wow. Okay. Well, um, how about this? Maybe while you\u2019re still in town, Leonard and I could have another small ceremony. You know, if you\u2019re interested."
+            ],
+            [
+                240,
+                "She would find it perfectly acceptable. You guys saw it. We bonded."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Yes."
+            ],
+            [
+                4,
+                "Taylor Swift."
+            ],
+            [
+                6,
+                "Yes. Kardashian."
+            ],
+            [
+                8,
+                "Khloe?"
+            ],
+            [
+                10,
+                "See, I remembered because if it looks like Kim it\u2019s Kim, if it looks kind of like Kim it\u2019s Kourtney, and if it looks nothing like Kim it\u2019s Khloe."
+            ],
+            [
+                13,
+                "Oh, well, we decided to use our breakfast time to expand our respective knowledge bases."
+            ],
+            [
+                17,
+                "I\u2019m sorry, who is Mike Drop?"
+            ],
+            [
+                23,
+                "Why don\u2019t you want to get your mother from the airport?"
+            ],
+            [
+                25,
+                "She can cover it in a car ride? I could do 40 minutes on your posture alone."
+            ],
+            [
+                34,
+                "All right, back to learning."
+            ],
+            [
+                36,
+                "Oh, easy, Bill Nye the Science Guy."
+            ],
+            [
+                38,
+                "Creepy old dude from Dancing with the Stars."
+            ],
+            [
+                43,
+                "Oh, well, I have a few questions for him about the last Avengers movie, and a whole lot of answers."
+            ],
+            [
+                48,
+                "Oh, bad news. Amy\u2019s making me go shopping with her later, so looks like none of us can go."
+            ],
+            [
+                52,
+                "You\u2019re really going without me?"
+            ],
+            [
+                54,
+                "You don\u2019t have the authority to save places in the line. If I do that, I\u2019ll be cutting."
+            ],
+            [
+                56,
+                "You know the golden rule of line etiquette. No cuts, no buts, no coconuts."
+            ],
+            [
+                88,
+                "Remember when we camped out for the Doctor Who panel at Comic-Con?"
+            ],
+            [
+                91,
+                "Stuart, what are you doing here?"
+            ],
+            [
+                93,
+                "I don\u2019t understand. You were happy to do this when I hired you. Why, why are you upset with me now?"
+            ],
+            [
+                95,
+                "Well, I suppose turnabout is fair play."
+            ],
+            [
+                121,
+                "Hey. Is everything smoothed out with Amy?"
+            ],
+            [
+                123,
+                "Did you make the apology as sincere as I would have?"
+            ],
+            [
+                125,
+                "Oh, well, that\u2019s laying it on a little thick."
+            ],
+            [
+                127,
+                "I suppose so. But if I get out of the line, I\u2019ll lose my spot."
+            ],
+            [
+                129,
+                "You would do that?"
+            ],
+            [
+                131,
+                "You\u2019re a good man."
+            ],
+            [
+                143,
+                "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy."
+            ],
+            [
+                145,
+                "Hello, everyone. Oh, Beverly, good to see you. I\u2019d love to chat, but there\u2019s a line that could start moving any minute, so let\u2019s do this. Amy? A proper apology requires three steps. Step one, an admission of wrongdoing. Amy, I was wrong. Step two, a promise never to repeat said action. Amy, that action will never be repeated, and that\u2019s a promise. Step three, an earnest request for forgiveness. Amy, I hope you can forgive me. And I hope you do it right now, \u2019cause there\u2019s an Uber waiting downstairs, and I don\u2019t want to repeat this apology nonsense with my driver Ganesh."
+            ],
+            [
+                147,
+                "Oh, thanks, you\u2019re a peach. Beverly, we\u2019ll catch up soon. Bernadette, it was a pleasure as always, Penny, you have spinach in your teeth."
+            ],
+            [
+                155,
+                "I\u2019m back."
+            ],
+            [
+                157,
+                "It went well. Yeah, I\u2019ve learned that if you never say you\u2019re sorry, the times you do really puts them on their heels. Uh, Stuart, I relieve you of your line duties."
+            ],
+            [
+                166,
+                "Did you see that? He just cut the line."
+            ],
+            [
+                168,
+                "No, it\u2019s not fine. It is a breach of line etiquette."
+            ],
+            [
+                170,
+                "What if every person in front of us let someone cut?"
+            ],
+            [
+                172,
+                "What if each of those people let someone cut?"
+            ],
+            [
+                174,
+                "But then each of those people let someone cut?"
+            ],
+            [
+                176,
+                "Excuse me."
+            ],
+            [
+                178,
+                "Uh, uh, I couldn\u2019t help but notice that you cut the line."
+            ],
+            [
+                180,
+                "Well, no. It\u2019s not cool. If there were reserved seating, and we all had tickets, that would be fine. But this line is first-come, first-served. Not show up tardy and nevertheless be first served. Right here."
+            ],
+            [
+                182,
+                "You need to go to the back of the line."
+            ],
+            [
+                184,
+                "Mrs. Wunch in fourth grade. And my slogan was a line that\u2019s straight is a line that\u2019s great."
+            ],
+            [
+                205,
+                "What about Joss Whedon\u2019s work makes you think he\u2019d be okay with rule-breakers and line-cutters?"
+            ],
+            [
+                207,
+                "They work for SHIELD, which is a sanctioned department of the U.S. Government. Do you work for a sanctioned department of the U.S. Government?"
+            ],
+            [
+                210,
+                "Excuse me, excuse me, can I please see a show of hands? Who here takes issue with this person cutting the line?"
+            ],
+            [
+                212,
+                "Well, what a sad state of affairs. That you\u2019ve all been so ground down by life, you don\u2019t even notice when someone disrespects you."
+            ],
+            [
+                214,
+                "You know, right now, at the back of this line, there\u2019s a movie fan like you who\u2019s not going to get in, because this person simply doesn\u2019t care. Yeah, well, 61 years ago, there was another person at the back of the line and her name was Rosa Parks."
+            ],
+            [
+                216,
+                "Now, let\u2019s follow in that brave woman\u2019s footsteps, and stand up for ourselves. And, and I realize that she stood up by remaining seated, but now is not the time to enjoy the irony of that. Now, I ask you again. Who here takes issue with this person\u2026"
+            ],
+            [
+                218,
+                "I most certainly did not."
+            ],
+            [
+                221,
+                "Excuse me, I paid someone to wait in line for me, and then when I arrived, he left, so what you saw, my good woman, was swapsies, not cutsies. Oh, no, no, no, no, wait, I ask you all again, a show of hands. Who here takes issue\u2026 well, stop moving. he\u2019s gonna get in."
+            ],
+            [
+                223,
+                "No, I can\u2019t. This isn\u2019t right."
+            ],
+            [
+                225,
+                "No, I could\u2019ve done more."
+            ]
+        ],
+        "Leonard": [
+            [
+                12,
+                "What are you guys doing?"
+            ],
+            [
+                14,
+                "Oh, let me try."
+            ],
+            [
+                16,
+                "Hmm, atom of hydrogen, Adam of Maroon 5, mic drop."
+            ],
+            [
+                18,
+                "Oh, hey, Penny, do you want to go to the airport with me later to pick up my mother?"
+            ],
+            [
+                20,
+                "Thanks."
+            ],
+            [
+                22,
+                "Hey, Penny, um, since you\u2019re already gonna be at the airport, do I need to go?"
+            ],
+            [
+                24,
+                "Well, I can do without the 40-minute car ride where she criticizes every aspect of my life."
+            ],
+            [
+                27,
+                "Hmm, I just feel like it would be a good chance for you to bond."
+            ],
+            [
+                29,
+                "I don\u2019t know what he\u2019s putting on those cards, but you are smarter than ever."
+            ],
+            [
+                31,
+                "Seriously?"
+            ],
+            [
+                33,
+                "That is very mature of you, so I\u2019m gonna go ahead and say, suckah."
+            ],
+            [
+                44,
+                "When\u2019s the screening?"
+            ],
+            [
+                47,
+                "Penny\u2019s busy with my mother, so I\u2019m in."
+            ],
+            [
+                49,
+                "You do realize we\u2019re allowed to have fun without you?"
+            ],
+            [
+                53,
+                "It\u2019s not a big deal. Go shopping with Amy, and we\u2019ll save a spot in line for you."
+            ],
+            [
+                55,
+                "People do it all the time."
+            ],
+            [
+                90,
+                "Waking up, wondering which one of those fans stole our wallets."
+            ],
+            [
+                126,
+                "You think it\u2019s time you apologize to her yourself?"
+            ],
+            [
+                154,
+                "So, when the aliens brought you back, they just left the probe in?"
+            ],
+            [
+                156,
+                "Hey, how\u2019d it go?"
+            ],
+            [
+                171,
+                "We\u2019d still get in."
+            ],
+            [
+                173,
+                "Still get in."
+            ],
+            [
+                175,
+                "We\u2019d still get in, but first I\u2019d hit you over the head with his stick chair."
+            ],
+            [
+                177,
+                "Oh, please don\u2019t."
+            ],
+            [
+                181,
+                "No."
+            ],
+            [
+                186,
+                "Boy, I wish I could say no."
+            ],
+            [
+                215,
+                "Okay, you may have to pretend you\u2019re black to get us out of here."
+            ],
+            [
+                222,
+                "Buddy, let it go."
+            ],
+            [
+                224,
+                "You did everything you could."
+            ],
+            [
+                226,
+                "Now, now, you denigrated the memory of a great civil rights pioneer. That\u2019s all anyone could ask."
+            ]
+        ],
+        "Raj": [
+            [
+                42,
+                "Did you guys see there\u2019s an Avengers screening? Joss Whedon\u2019s gonna show some deleted scenes and do a question and answer session."
+            ],
+            [
+                45,
+                "Uh, it\u2019s tonight, but it\u2019s first-come, first-served, so we should probably get there early and wait in line."
+            ],
+            [
+                51,
+                "Uh, I\u2019d say by three."
+            ],
+            [
+                89,
+                "Yeah, sleeping under the stars with other fans who love the show as much as we do."
+            ],
+            [
+                117,
+                "Boy, all this standing\u2019s making me tired. Good thing I brought my collapsible stick chair."
+            ],
+            [
+                119,
+                "Sticks and stones may break my bones, but chairs on sticks are comfy."
+            ],
+            [
+                152,
+                "You can\u2019t make me feel bad."
+            ],
+            [
+                209,
+                "He\u2019s got him there. The D even stands for department."
+            ]
+        ],
+        "Howard": [
+            [
+                46,
+                "Let\u2019s do it."
+            ],
+            [
+                50,
+                "In fact, that\u2019s usually the trick to it. What time do we need to get there?"
+            ],
+            [
+                57,
+                "If you really care that much, there are apps now that\u2019ll let you hire people to do stuff like errands and wait in lines."
+            ],
+            [
+                59,
+                "Some of these guys make over $20 an hour."
+            ],
+            [
+                87,
+                "We\u2019ve waited in a lot of lines together, haven\u2019t we?"
+            ],
+            [
+                118,
+                "Not the stick chair. You look like an idiot on that thing."
+            ],
+            [
+                151,
+                "You look like you come with a kickstand."
+            ],
+            [
+                153,
+                "Hmm, maybe not. Leonard?"
+            ],
+            [
+                159,
+                "I\u2019ll give you a dollar if you make fun of Raj."
+            ],
+            [
+                161,
+                "Five."
+            ],
+            [
+                163,
+                "Uh, if you ever need a reference or anything, just let me know."
+            ],
+            [
+                169,
+                "We\u2019re near the front of the line. We\u2019ll get in either way."
+            ],
+            [
+                213,
+                "I can\u2019t believe we\u2019re gonna get beat up, and it\u2019s not because of your chair."
+            ]
+        ],
+        "Stuart": [
+            [
+                58,
+                "People are actually waiting in lines as a job? Boy, makes me feel better about my life."
+            ],
+            [
+                60,
+                "And now I feel worse again."
+            ],
+            [
+                77,
+                "Hey."
+            ],
+            [
+                79,
+                "I thought that might come up. Sheldon hired me to go shopping with you."
+            ],
+            [
+                81,
+                "No, it\u2019s not like that. There\u2019s a long line he\u2019d rather stand in. So what are we doing? Old Navy, Build-A-Bear? I get paid either way."
+            ],
+            [
+                83,
+                "You sure? I\u2019m happy to hold your bag. And Sheldon gave me money for a hotdog on a stick."
+            ],
+            [
+                85,
+                "Look, lady, I just work here."
+            ],
+            [
+                92,
+                "Sheldon, you are the most inconsiderate person I have ever met in my entire life. Where do you get off sending me to shop with your girlfriend?"
+            ],
+            [
+                94,
+                "Oh, I\u2019m not upset with you, but Amy\u2019s pretty bent out of shape, so she hired me to let you have it."
+            ],
+            [
+                96,
+                "You\u2019re darn right it\u2019s fair play, you selfish jerk."
+            ],
+            [
+                113,
+                "Sheldon says he\u2019s sorry."
+            ],
+            [
+                115,
+                "I would have done it for three."
+            ],
+            [
+                120,
+                "Hey."
+            ],
+            [
+                122,
+                "Uh, no, she\u2019s still pretty mad."
+            ],
+            [
+                124,
+                "I said, Sheldon says he\u2019s sorry."
+            ],
+            [
+                128,
+                "I\u2019m happy to hold your place till you get back."
+            ],
+            [
+                130,
+                "Consider it my way of getting more of your money."
+            ],
+            [
+                158,
+                "Anyone else need anything before I go?"
+            ],
+            [
+                160,
+                "That\u2019s mean."
+            ],
+            [
+                162,
+                "You look like Tigger if Tigger looked like a jackass."
+            ]
+        ],
+        "Beverly": [
+            [
+                62,
+                "I\u2019m not surprised Leonard chose to avoid picking me up. He\u2019s battled intimacy issues his whole life. Does he have difficulty maintaining erections?"
+            ],
+            [
+                64,
+                "Dear, I\u2019m a psychiatrist. You don\u2019t have to avoid having intimate conversations with me."
+            ],
+            [
+                66,
+                "Very well. What\u2019s the last book you read?"
+            ],
+            [
+                68,
+                "Penny, it\u2019s only natural to want your mother-in-law to like you, and I acknowledge I can be an intimidating person. So what can I do to make this process easier for you?"
+            ],
+            [
+                70,
+                "And how does it make you feel when I psychoanalyze everything you say?"
+            ],
+            [
+                72,
+                "That was a joke, dear."
+            ],
+            [
+                74,
+                "So just the two of us?"
+            ],
+            [
+                99,
+                "Maybe he couldn\u2019t get a word in edgewise."
+            ],
+            [
+                101,
+                "Oh, it\u2019s all right, dear. Sheldon has a brilliant and complicated mind. It\u2019s understandable that being in a relationship with him could be trying."
+            ],
+            [
+                103,
+                "Well, I do admire your resolve. You\u2019re an extraordinary woman."
+            ],
+            [
+                108,
+                "Oh, well, that still could be a big step for Sheldon."
+            ],
+            [
+                111,
+                "Yes. Well, what can you do?"
+            ],
+            [
+                134,
+                "Oh, I didn\u2019t realize you two work together."
+            ],
+            [
+                136,
+                "Oh, what are you currently developing?"
+            ],
+            [
+                138,
+                "That\u2019s interesting. I just attended a lecture on pediatric anxiety."
+            ],
+            [
+                140,
+                "It was."
+            ],
+            [
+                149,
+                "Since the airport, dear."
+            ],
+            [
+                188,
+                "That was very nice of Sheldon to apologize."
+            ],
+            [
+                190,
+                "Your relationship with him is fascinating. I\u2019m preparing to write a book on high-achieving couples, and I would love to interview the both of you."
+            ],
+            [
+                192,
+                "Really? Do you think he would be interested in being interviewed as well?"
+            ],
+            [
+                194,
+                "Wonderful. I\u2019ll give you my contact information."
+            ],
+            [
+                196,
+                "About what?"
+            ],
+            [
+                198,
+                "Well, are you seeking a connection or just some form of validation?"
+            ],
+            [
+                200,
+                "My intention was never to insult you."
+            ],
+            [
+                202,
+                "Well, it\u2019s not a clinical term. But one example would be your marrying my son, and not inviting me or even telling me the wedding was taking place."
+            ],
+            [
+                229,
+                "I\u2019m still human, Penny. Not getting invited to my own son\u2019s wedding is difficult to ignore."
+            ],
+            [
+                233,
+                "I could\u2019ve watched it on the Internet?"
+            ],
+            [
+                235,
+                "No, I would\u2019ve said you\u2019re making a huge mistake. But an invitation would\u2019ve been nice."
+            ],
+            [
+                237,
+                "At the time I did. But I\u2019ve never seen Leonard so happy, so perhaps I was wrong."
+            ],
+            [
+                239,
+                "I would find that perfectly acceptable."
+            ]
+        ],
+        "Amy": [
+            [
+                78,
+                "What are you doing here? You\u2019re not Sheldon."
+            ],
+            [
+                80,
+                "Hold on. He paid you to get out of spending time with me?"
+            ],
+            [
+                82,
+                "We\u2019re not going shopping together."
+            ],
+            [
+                84,
+                "Can you understand why I might be annoyed right now?"
+            ],
+            [
+                98,
+                "You know, just when I think we\u2019re making progress in our relationship, we revert to our old patterns where thoughts and feelings go unexpressed. I mean, if he didn\u2019t want to go shopping with me, why didn\u2019t he just say so?"
+            ],
+            [
+                100,
+                "I\u2019m sorry, I\u2019ve been going on and on."
+            ],
+            [
+                102,
+                "I called him babe once. He asked me to get a drug test."
+            ],
+            [
+                104,
+                "Thank you."
+            ],
+            [
+                107,
+                "Do you realize it took me five years to get a massage from him?"
+            ],
+            [
+                109,
+                "Three minutes. And he used a kitchen timer. I felt like a soft-boiled egg."
+            ],
+            [
+                114,
+                "Bernadette, I\u2019ll give you five dollars to slam the door."
+            ],
+            [
+                139,
+                "Oh, was it, uh, Dr. Jenofski? I just saw his TED Talk."
+            ],
+            [
+                144,
+                "Come in."
+            ],
+            [
+                146,
+                "Fine."
+            ],
+            [
+                189,
+                "Well, he\u2019s come a long way. Or a short way very slowly, so it feels like a long way."
+            ],
+            [
+                191,
+                "Oh, sure. I\u2019ll, I\u2019ll talk to Sheldon about it. You know, Bernadette\u2019s husband is a former astronaut."
+            ],
+            [
+                230,
+                "I know how you feel. She didn\u2019t invite any of us."
+            ]
+        ],
+        "Bernadette": [
+            [
+                106,
+                "Amy\u2019s with Sheldon who she loves like a son. You\u2019re with her son, who she doesn\u2019t."
+            ],
+            [
+                133,
+                "So, Beverly, did you know Penny is the number three sales rep at our pharmaceutical company?"
+            ],
+            [
+                135,
+                "Well, we don\u2019t exactly. I\u2019m a microbiologist for the research team."
+            ],
+            [
+                137,
+                "Some exciting new anti-anxiety drugs."
+            ],
+            [
+                141,
+                "Well, let\u2019s get back to Penny. Hey, weren\u2019t you telling me something great about your company car?"
+            ],
+            [
+                193,
+                "Do I think he\u2019d be interested? Sometimes I hear him pretending to be interviewed when he\u2019s alone in the bathroom."
+            ],
+            [
+                195,
+                "Um, you should probably talk to Penny, too."
+            ],
+            [
+                232,
+                "But we did get to see a live stream of it on the Internet."
+            ],
+            [
+                242,
+                "Howie? You doing okay? You\u2019ve been in there a while."
+            ]
+        ],
+        "Amy (knock on door)": [
+            [
+                112,
+                "Maybe it\u2019s Sheldon, here to say he\u2019s sorry."
+            ]
+        ],
+        "Man": [
+            [
+                164,
+                "Hey, guys."
+            ],
+            [
+                179,
+                "Oh, uh, I\u2019m with my friends. It\u2019s cool."
+            ],
+            [
+                183,
+                "Uh, who made you line monitor?"
+            ],
+            [
+                185,
+                "Is this guy for real?"
+            ],
+            [
+                206,
+                "The Avengers are rule-breakers. Being vengeful is in their job description."
+            ],
+            [
+                208,
+                "As a matter of fact I do. At a little place called the DMV."
+            ],
+            [
+                211,
+                "Told you."
+            ],
+            [
+                220,
+                "If you\u2019re feeling dizzy, it\u2019s because the tables have turned."
+            ]
+        ],
+        "Woman": [
+            [
+                165,
+                "You made it."
+            ],
+            [
+                217,
+                "Why should we listen to you? You cut the line yourself."
+            ],
+            [
+                219,
+                "I saw you."
+            ]
+        ],
+        "Leonard: He\u2019s just joining his friends": [
+            [
+                167,
+                "it\u2019s fine."
+            ]
+        ],
+        "Howard (through bathroom door)": [
+            [
+                243,
+                "I\u2019m fine. Be right out. Am I an American hero? Well, that\u2019s a good question, Jim. Don\u2019t you think once an astronaut leaves the planet, he\u2019s a hero to all the nations of the Earth? Okey dokey. I think I have time for one more question."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Helium."
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Taylor Swift."
+        ],
+        [
+            "Penny",
+            "Yes. Pi."
+        ],
+        [
+            "Sheldon",
+            "Yes. Kardashian."
+        ],
+        [
+            "Penny",
+            "More specific."
+        ],
+        [
+            "Sheldon",
+            "Khloe?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "See, I remembered because if it looks like Kim it\u2019s Kim, if it looks kind of like Kim it\u2019s Kourtney, and if it looks nothing like Kim it\u2019s Khloe."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s a Venn Diagram, and I remember because I thought to myself, venn is he gonna stop talking about this diagram?"
+        ],
+        [
+            "Leonard",
+            "What are you guys doing?"
+        ],
+        [
+            "Sheldon",
+            "Oh, well, we decided to use our breakfast time to expand our respective knowledge bases."
+        ],
+        [
+            "Leonard",
+            "Oh, let me try."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "Hmm, atom of hydrogen, Adam of Maroon 5, mic drop."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, who is Mike Drop?"
+        ],
+        [
+            "Leonard",
+            "Oh, hey, Penny, do you want to go to the airport with me later to pick up my mother?"
+        ],
+        [
+            "Penny",
+            "Sure."
+        ],
+        [
+            "Leonard",
+            "Thanks."
+        ],
+        [
+            "Penny",
+            "No problem."
+        ],
+        [
+            "Leonard",
+            "Hey, Penny, um, since you\u2019re already gonna be at the airport, do I need to go?"
+        ],
+        [
+            "Sheldon",
+            "Why don\u2019t you want to get your mother from the airport?"
+        ],
+        [
+            "Leonard",
+            "Well, I can do without the 40-minute car ride where she criticizes every aspect of my life."
+        ],
+        [
+            "Sheldon",
+            "She can cover it in a car ride? I could do 40 minutes on your posture alone."
+        ],
+        [
+            "Penny",
+            "You really want me to pick up your mother all by myself?"
+        ],
+        [
+            "Leonard",
+            "Hmm, I just feel like it would be a good chance for you to bond."
+        ],
+        [
+            "Penny",
+            "Or a way for you to avoid her?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know what he\u2019s putting on those cards, but you are smarter than ever."
+        ],
+        [
+            "Penny",
+            "Fine, if you really want me to, I will pick your mom up."
+        ],
+        [
+            "Leonard",
+            "Seriously?"
+        ],
+        [
+            "Penny",
+            "Yeah, you know what, she is my mother-in-law, and I\u2019d like for us to have a good relationship."
+        ],
+        [
+            "Leonard",
+            "That is very mature of you, so I\u2019m gonna go ahead and say, suckah."
+        ],
+        [
+            "Sheldon",
+            "All right, back to learning."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "Oh, easy, Bill Nye the Science Guy."
+        ],
+        [
+            "Penny",
+            "Or as I know him?"
+        ],
+        [
+            "Sheldon",
+            "Creepy old dude from Dancing with the Stars."
+        ],
+        [
+            "Penny",
+            "Ding, ding, ding, ding, ding."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Raj",
+            "Did you guys see there\u2019s an Avengers screening? Joss Whedon\u2019s gonna show some deleted scenes and do a question and answer session."
+        ],
+        [
+            "Sheldon",
+            "Oh, well, I have a few questions for him about the last Avengers movie, and a whole lot of answers."
+        ],
+        [
+            "Leonard",
+            "When\u2019s the screening?"
+        ],
+        [
+            "Raj",
+            "Uh, it\u2019s tonight, but it\u2019s first-come, first-served, so we should probably get there early and wait in line."
+        ],
+        [
+            "Howard",
+            "Let\u2019s do it."
+        ],
+        [
+            "Leonard",
+            "Penny\u2019s busy with my mother, so I\u2019m in."
+        ],
+        [
+            "Sheldon",
+            "Oh, bad news. Amy\u2019s making me go shopping with her later, so looks like none of us can go."
+        ],
+        [
+            "Leonard",
+            "You do realize we\u2019re allowed to have fun without you?"
+        ],
+        [
+            "Howard",
+            "In fact, that\u2019s usually the trick to it. What time do we need to get there?"
+        ],
+        [
+            "Raj",
+            "Uh, I\u2019d say by three."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re really going without me?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s not a big deal. Go shopping with Amy, and we\u2019ll save a spot in line for you."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t have the authority to save places in the line. If I do that, I\u2019ll be cutting."
+        ],
+        [
+            "Leonard",
+            "People do it all the time."
+        ],
+        [
+            "Sheldon",
+            "You know the golden rule of line etiquette. No cuts, no buts, no coconuts."
+        ],
+        [
+            "Howard",
+            "If you really care that much, there are apps now that\u2019ll let you hire people to do stuff like errands and wait in lines."
+        ],
+        [
+            "Stuart",
+            "People are actually waiting in lines as a job? Boy, makes me feel better about my life."
+        ],
+        [
+            "Howard",
+            "Some of these guys make over $20 an hour."
+        ],
+        [
+            "Stuart",
+            "And now I feel worse again."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car."
+        ],
+        [
+            "Beverly",
+            "I\u2019m not surprised Leonard chose to avoid picking me up. He\u2019s battled intimacy issues his whole life. Does he have difficulty maintaining erections?"
+        ],
+        [
+            "Penny",
+            "Wow. Didn\u2019t even make it out of the parking lot. Uh, you know what, enough about Leonard. Let\u2019s talk about you. What would you like to do while you\u2019re here?"
+        ],
+        [
+            "Beverly",
+            "Dear, I\u2019m a psychiatrist. You don\u2019t have to avoid having intimate conversations with me."
+        ],
+        [
+            "Penny",
+            "Well, I\u2019d actually like for us to be close, but maybe we start with our favourite books and work our way up to my husband\u2019s sex organs."
+        ],
+        [
+            "Beverly",
+            "Very well. What\u2019s the last book you read?"
+        ],
+        [
+            "Penny",
+            "Um, does Pottery Barn, Spring count?"
+        ],
+        [
+            "Beverly",
+            "Penny, it\u2019s only natural to want your mother-in-law to like you, and I acknowledge I can be an intimidating person. So what can I do to make this process easier for you?"
+        ],
+        [
+            "Penny",
+            "Uh, for starters, maybe you can not psychoanalyze everything I say?"
+        ],
+        [
+            "Beverly",
+            "And how does it make you feel when I psychoanalyze everything you say?"
+        ],
+        [
+            "Penny",
+            "Uncomfortable."
+        ],
+        [
+            "Beverly",
+            "That was a joke, dear."
+        ],
+        [
+            "Penny",
+            "Oh. Sorry. Didn\u2019t know you made those. Hey, listen, what if we have a little mother-in-law, daughter-in-law dinner tonight?"
+        ],
+        [
+            "Beverly",
+            "So just the two of us?"
+        ],
+        [
+            "Penny",
+            "Or I invite a few girlfriends, \u2019cause hearing you say the two of us just sent a chill right down my spine."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s car."
+        ],
+        [
+            "Stuart",
+            "Hey."
+        ],
+        [
+            "Amy",
+            "What are you doing here? You\u2019re not Sheldon."
+        ],
+        [
+            "Stuart",
+            "I thought that might come up. Sheldon hired me to go shopping with you."
+        ],
+        [
+            "Amy",
+            "Hold on. He paid you to get out of spending time with me?"
+        ],
+        [
+            "Stuart",
+            "No, it\u2019s not like that. There\u2019s a long line he\u2019d rather stand in. So what are we doing? Old Navy, Build-A-Bear? I get paid either way."
+        ],
+        [
+            "Amy",
+            "We\u2019re not going shopping together."
+        ],
+        [
+            "Stuart",
+            "You sure? I\u2019m happy to hold your bag. And Sheldon gave me money for a hotdog on a stick."
+        ],
+        [
+            "Amy",
+            "Can you understand why I might be annoyed right now?"
+        ],
+        [
+            "Stuart",
+            "Look, lady, I just work here."
+        ],
+        [
+            "Scene",
+            "The cinema line."
+        ],
+        [
+            "Howard",
+            "We\u2019ve waited in a lot of lines together, haven\u2019t we?"
+        ],
+        [
+            "Sheldon",
+            "Remember when we camped out for the Doctor Who panel at Comic-Con?"
+        ],
+        [
+            "Raj",
+            "Yeah, sleeping under the stars with other fans who love the show as much as we do."
+        ],
+        [
+            "Leonard",
+            "Waking up, wondering which one of those fans stole our wallets."
+        ],
+        [
+            "Sheldon",
+            "Stuart, what are you doing here?"
+        ],
+        [
+            "Stuart",
+            "Sheldon, you are the most inconsiderate person I have ever met in my entire life. Where do you get off sending me to shop with your girlfriend?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t understand. You were happy to do this when I hired you. Why, why are you upset with me now?"
+        ],
+        [
+            "Stuart",
+            "Oh, I\u2019m not upset with you, but Amy\u2019s pretty bent out of shape, so she hired me to let you have it."
+        ],
+        [
+            "Sheldon",
+            "Well, I suppose turnabout is fair play."
+        ],
+        [
+            "Stuart",
+            "You\u2019re darn right it\u2019s fair play, you selfish jerk."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "You know, just when I think we\u2019re making progress in our relationship, we revert to our old patterns where thoughts and feelings go unexpressed. I mean, if he didn\u2019t want to go shopping with me, why didn\u2019t he just say so?"
+        ],
+        [
+            "Beverly",
+            "Maybe he couldn\u2019t get a word in edgewise."
+        ],
+        [
+            "Amy",
+            "I\u2019m sorry, I\u2019ve been going on and on."
+        ],
+        [
+            "Beverly",
+            "Oh, it\u2019s all right, dear. Sheldon has a brilliant and complicated mind. It\u2019s understandable that being in a relationship with him could be trying."
+        ],
+        [
+            "Amy",
+            "I called him babe once. He asked me to get a drug test."
+        ],
+        [
+            "Beverly",
+            "Well, I do admire your resolve. You\u2019re an extraordinary woman."
+        ],
+        [
+            "Amy",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "You know, she\u2019s my mother-in-law. Why can\u2019t I bond with her like that?"
+        ],
+        [
+            "Bernadette",
+            "Amy\u2019s with Sheldon who she loves like a son. You\u2019re with her son, who she doesn\u2019t."
+        ],
+        [
+            "Amy",
+            "Do you realize it took me five years to get a massage from him?"
+        ],
+        [
+            "Beverly",
+            "Oh, well, that still could be a big step for Sheldon."
+        ],
+        [
+            "Amy",
+            "Three minutes. And he used a kitchen timer. I felt like a soft-boiled egg."
+        ],
+        [
+            "Penny",
+            "You know, being in a relationship with Leonard also comes with its challenges."
+        ],
+        [
+            "Beverly",
+            "Yes. Well, what can you do?"
+        ],
+        [
+            "Amy (knock on door)",
+            "Maybe it\u2019s Sheldon, here to say he\u2019s sorry."
+        ],
+        [
+            "Stuart",
+            "Sheldon says he\u2019s sorry."
+        ],
+        [
+            "Amy",
+            "Bernadette, I\u2019ll give you five dollars to slam the door."
+        ],
+        [
+            "Stuart",
+            "I would have done it for three."
+        ],
+        [
+            "Scene",
+            "The cinema line."
+        ],
+        [
+            "Raj",
+            "Boy, all this standing\u2019s making me tired. Good thing I brought my collapsible stick chair."
+        ],
+        [
+            "Howard",
+            "Not the stick chair. You look like an idiot on that thing."
+        ],
+        [
+            "Raj",
+            "Sticks and stones may break my bones, but chairs on sticks are comfy."
+        ],
+        [
+            "Stuart",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Hey. Is everything smoothed out with Amy?"
+        ],
+        [
+            "Stuart",
+            "Uh, no, she\u2019s still pretty mad."
+        ],
+        [
+            "Sheldon",
+            "Did you make the apology as sincere as I would have?"
+        ],
+        [
+            "Stuart",
+            "I said, Sheldon says he\u2019s sorry."
+        ],
+        [
+            "Sheldon",
+            "Oh, well, that\u2019s laying it on a little thick."
+        ],
+        [
+            "Leonard",
+            "You think it\u2019s time you apologize to her yourself?"
+        ],
+        [
+            "Sheldon",
+            "I suppose so. But if I get out of the line, I\u2019ll lose my spot."
+        ],
+        [
+            "Stuart",
+            "I\u2019m happy to hold your place till you get back."
+        ],
+        [
+            "Sheldon",
+            "You would do that?"
+        ],
+        [
+            "Stuart",
+            "Consider it my way of getting more of your money."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re a good man."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "So, Beverly, did you know Penny is the number three sales rep at our pharmaceutical company?"
+        ],
+        [
+            "Beverly",
+            "Oh, I didn\u2019t realize you two work together."
+        ],
+        [
+            "Bernadette",
+            "Well, we don\u2019t exactly. I\u2019m a microbiologist for the research team."
+        ],
+        [
+            "Beverly",
+            "Oh, what are you currently developing?"
+        ],
+        [
+            "Bernadette",
+            "Some exciting new anti-anxiety drugs."
+        ],
+        [
+            "Beverly",
+            "That\u2019s interesting. I just attended a lecture on pediatric anxiety."
+        ],
+        [
+            "Amy",
+            "Oh, was it, uh, Dr. Jenofski? I just saw his TED Talk."
+        ],
+        [
+            "Beverly",
+            "It was."
+        ],
+        [
+            "Bernadette",
+            "Well, let\u2019s get back to Penny. Hey, weren\u2019t you telling me something great about your company car?"
+        ],
+        [
+            "Penny",
+            "Um, it has seat warmers."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy."
+        ],
+        [
+            "Amy",
+            "Come in."
+        ],
+        [
+            "Sheldon",
+            "Hello, everyone. Oh, Beverly, good to see you. I\u2019d love to chat, but there\u2019s a line that could start moving any minute, so let\u2019s do this. Amy? A proper apology requires three steps. Step one, an admission of wrongdoing. Amy, I was wrong. Step two, a promise never to repeat said action. Amy, that action will never be repeated, and that\u2019s a promise. Step three, an earnest request for forgiveness. Amy, I hope you can forgive me. And I hope you do it right now, \u2019cause there\u2019s an Uber waiting downstairs, and I don\u2019t want to repeat this apology nonsense with my driver Ganesh."
+        ],
+        [
+            "Amy",
+            "Fine."
+        ],
+        [
+            "Sheldon",
+            "Oh, thanks, you\u2019re a peach. Beverly, we\u2019ll catch up soon. Bernadette, it was a pleasure as always, Penny, you have spinach in your teeth."
+        ],
+        [
+            "Penny",
+            "How long have I had spinach in my teeth?"
+        ],
+        [
+            "Beverly",
+            "Since the airport, dear."
+        ],
+        [
+            "Scene",
+            "The cinema line."
+        ],
+        [
+            "Howard",
+            "You look like you come with a kickstand."
+        ],
+        [
+            "Raj",
+            "You can\u2019t make me feel bad."
+        ],
+        [
+            "Howard",
+            "Hmm, maybe not. Leonard?"
+        ],
+        [
+            "Leonard",
+            "So, when the aliens brought you back, they just left the probe in?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m back."
+        ],
+        [
+            "Leonard",
+            "Hey, how\u2019d it go?"
+        ],
+        [
+            "Sheldon",
+            "It went well. Yeah, I\u2019ve learned that if you never say you\u2019re sorry, the times you do really puts them on their heels. Uh, Stuart, I relieve you of your line duties."
+        ],
+        [
+            "Stuart",
+            "Anyone else need anything before I go?"
+        ],
+        [
+            "Howard",
+            "I\u2019ll give you a dollar if you make fun of Raj."
+        ],
+        [
+            "Stuart",
+            "That\u2019s mean."
+        ],
+        [
+            "Howard",
+            "Five."
+        ],
+        [
+            "Stuart",
+            "You look like Tigger if Tigger looked like a jackass."
+        ],
+        [
+            "Howard",
+            "Uh, if you ever need a reference or anything, just let me know."
+        ],
+        [
+            "Man",
+            "Hey, guys."
+        ],
+        [
+            "Woman",
+            "You made it."
+        ],
+        [
+            "Sheldon",
+            "Did you see that? He just cut the line."
+        ],
+        [
+            "Leonard: He\u2019s just joining his friends",
+            "it\u2019s fine."
+        ],
+        [
+            "Sheldon",
+            "No, it\u2019s not fine. It is a breach of line etiquette."
+        ],
+        [
+            "Howard",
+            "We\u2019re near the front of the line. We\u2019ll get in either way."
+        ],
+        [
+            "Sheldon",
+            "What if every person in front of us let someone cut?"
+        ],
+        [
+            "Leonard",
+            "We\u2019d still get in."
+        ],
+        [
+            "Sheldon",
+            "What if each of those people let someone cut?"
+        ],
+        [
+            "Leonard",
+            "Still get in."
+        ],
+        [
+            "Sheldon",
+            "But then each of those people let someone cut?"
+        ],
+        [
+            "Leonard",
+            "We\u2019d still get in, but first I\u2019d hit you over the head with his stick chair."
+        ],
+        [
+            "Sheldon",
+            "Excuse me."
+        ],
+        [
+            "Leonard",
+            "Oh, please don\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Uh, uh, I couldn\u2019t help but notice that you cut the line."
+        ],
+        [
+            "Man",
+            "Oh, uh, I\u2019m with my friends. It\u2019s cool."
+        ],
+        [
+            "Sheldon",
+            "Well, no. It\u2019s not cool. If there were reserved seating, and we all had tickets, that would be fine. But this line is first-come, first-served. Not show up tardy and nevertheless be first served. Right here."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "You need to go to the back of the line."
+        ],
+        [
+            "Man",
+            "Uh, who made you line monitor?"
+        ],
+        [
+            "Sheldon",
+            "Mrs. Wunch in fourth grade. And my slogan was a line that\u2019s straight is a line that\u2019s great."
+        ],
+        [
+            "Man",
+            "Is this guy for real?"
+        ],
+        [
+            "Leonard",
+            "Boy, I wish I could say no."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Beverly",
+            "That was very nice of Sheldon to apologize."
+        ],
+        [
+            "Amy",
+            "Well, he\u2019s come a long way. Or a short way very slowly, so it feels like a long way."
+        ],
+        [
+            "Beverly",
+            "Your relationship with him is fascinating. I\u2019m preparing to write a book on high-achieving couples, and I would love to interview the both of you."
+        ],
+        [
+            "Amy",
+            "Oh, sure. I\u2019ll, I\u2019ll talk to Sheldon about it. You know, Bernadette\u2019s husband is a former astronaut."
+        ],
+        [
+            "Beverly",
+            "Really? Do you think he would be interested in being interviewed as well?"
+        ],
+        [
+            "Bernadette",
+            "Do I think he\u2019d be interested? Sometimes I hear him pretending to be interviewed when he\u2019s alone in the bathroom."
+        ],
+        [
+            "Beverly",
+            "Wonderful. I\u2019ll give you my contact information."
+        ],
+        [
+            "Bernadette",
+            "Um, you should probably talk to Penny, too."
+        ],
+        [
+            "Beverly",
+            "About what?"
+        ],
+        [
+            "Penny",
+            "Okay, you know what? This is ridiculous. I\u2019ve been trying to make a connection with you all day, and clearly I\u2019m getting nowhere."
+        ],
+        [
+            "Beverly",
+            "Well, are you seeking a connection or just some form of validation?"
+        ],
+        [
+            "Penny",
+            "What I was seeking was some sort of friendship. But at this point, I\u2019ll take you not insulting me to my face."
+        ],
+        [
+            "Beverly",
+            "My intention was never to insult you."
+        ],
+        [
+            "Penny",
+            "You\u2019ve been doing it all day. Do you even know what an insult is?"
+        ],
+        [
+            "Beverly",
+            "Well, it\u2019s not a clinical term. But one example would be your marrying my son, and not inviting me or even telling me the wedding was taking place."
+        ],
+        [
+            "Penny",
+            "Okay, good example."
+        ],
+        [
+            "Scene",
+            "The cinema line."
+        ],
+        [
+            "Sheldon",
+            "What about Joss Whedon\u2019s work makes you think he\u2019d be okay with rule-breakers and line-cutters?"
+        ],
+        [
+            "Man",
+            "The Avengers are rule-breakers. Being vengeful is in their job description."
+        ],
+        [
+            "Sheldon",
+            "They work for SHIELD, which is a sanctioned department of the U.S. Government. Do you work for a sanctioned department of the U.S. Government?"
+        ],
+        [
+            "Man",
+            "As a matter of fact I do. At a little place called the DMV."
+        ],
+        [
+            "Raj",
+            "He\u2019s got him there. The D even stands for department."
+        ],
+        [
+            "Sheldon",
+            "Excuse me, excuse me, can I please see a show of hands? Who here takes issue with this person cutting the line?"
+        ],
+        [
+            "Man",
+            "Told you."
+        ],
+        [
+            "Sheldon",
+            "Well, what a sad state of affairs. That you\u2019ve all been so ground down by life, you don\u2019t even notice when someone disrespects you."
+        ],
+        [
+            "Howard",
+            "I can\u2019t believe we\u2019re gonna get beat up, and it\u2019s not because of your chair."
+        ],
+        [
+            "Sheldon",
+            "You know, right now, at the back of this line, there\u2019s a movie fan like you who\u2019s not going to get in, because this person simply doesn\u2019t care. Yeah, well, 61 years ago, there was another person at the back of the line and her name was Rosa Parks."
+        ],
+        [
+            "Leonard",
+            "Okay, you may have to pretend you\u2019re black to get us out of here."
+        ],
+        [
+            "Sheldon",
+            "Now, let\u2019s follow in that brave woman\u2019s footsteps, and stand up for ourselves. And, and I realize that she stood up by remaining seated, but now is not the time to enjoy the irony of that. Now, I ask you again. Who here takes issue with this person\u2026"
+        ],
+        [
+            "Woman",
+            "Why should we listen to you? You cut the line yourself."
+        ],
+        [
+            "Sheldon",
+            "I most certainly did not."
+        ],
+        [
+            "Woman",
+            "I saw you."
+        ],
+        [
+            "Man",
+            "If you\u2019re feeling dizzy, it\u2019s because the tables have turned."
+        ],
+        [
+            "Sheldon",
+            "Excuse me, I paid someone to wait in line for me, and then when I arrived, he left, so what you saw, my good woman, was swapsies, not cutsies. Oh, no, no, no, no, wait, I ask you all again, a show of hands. Who here takes issue\u2026 well, stop moving. he\u2019s gonna get in."
+        ],
+        [
+            "Leonard",
+            "Buddy, let it go."
+        ],
+        [
+            "Sheldon",
+            "No, I can\u2019t. This isn\u2019t right."
+        ],
+        [
+            "Leonard",
+            "You did everything you could."
+        ],
+        [
+            "Sheldon",
+            "No, I could\u2019ve done more."
+        ],
+        [
+            "Leonard",
+            "Now, now, you denigrated the memory of a great civil rights pioneer. That\u2019s all anyone could ask."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "To be honest, I\u2019m surprised you cared about the wedding at all."
+        ],
+        [
+            "Beverly",
+            "I\u2019m still human, Penny. Not getting invited to my own son\u2019s wedding is difficult to ignore."
+        ],
+        [
+            "Amy",
+            "I know how you feel. She didn\u2019t invite any of us."
+        ],
+        [
+            "Penny",
+            "It was spur of the moment."
+        ],
+        [
+            "Bernadette",
+            "But we did get to see a live stream of it on the Internet."
+        ],
+        [
+            "Beverly",
+            "I could\u2019ve watched it on the Internet?"
+        ],
+        [
+            "Penny",
+            "Thank you. So if we would have asked you to come to Vegas to see us get married, you would\u2019ve come?"
+        ],
+        [
+            "Beverly",
+            "No, I would\u2019ve said you\u2019re making a huge mistake. But an invitation would\u2019ve been nice."
+        ],
+        [
+            "Penny",
+            "You really think we made a mistake?"
+        ],
+        [
+            "Beverly",
+            "At the time I did. But I\u2019ve never seen Leonard so happy, so perhaps I was wrong."
+        ],
+        [
+            "Penny",
+            "Wow. Okay. Well, um, how about this? Maybe while you\u2019re still in town, Leonard and I could have another small ceremony. You know, if you\u2019re interested."
+        ],
+        [
+            "Beverly",
+            "I would find that perfectly acceptable."
+        ],
+        [
+            "Penny",
+            "She would find it perfectly acceptable. You guys saw it. We bonded."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bedroom."
+        ],
+        [
+            "Bernadette",
+            "Howie? You doing okay? You\u2019ve been in there a while."
+        ],
+        [
+            "Howard (through bathroom door)",
+            "I\u2019m fine. Be right out. Am I an American hero? Well, that\u2019s a good question, Jim. Don\u2019t you think once an astronaut leaves the planet, he\u2019s a hero to all the nations of the Earth? Okey dokey. I think I have time for one more question."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-23-the-line-substitution-solution/"
+}

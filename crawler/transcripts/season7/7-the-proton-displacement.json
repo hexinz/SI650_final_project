@@ -1,0 +1,1896 @@
+{
+    "Season": 7,
+    "Episode": 7,
+    "Title": "the proton displacement",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "A supermarket"
+            ],
+            [
+                29,
+                "Credits sequence."
+            ],
+            [
+                30,
+                "The cafeteria."
+            ],
+            [
+                51,
+                "The apartment."
+            ],
+            [
+                67,
+                "Howard and Bernadette\u2019s apartment. "
+            ],
+            [
+                88,
+                "Professor Proton\u2019s house. "
+            ],
+            [
+                89,
+                "Sheldon:"
+            ],
+            [
+                110,
+                "Leonard\u2019s laboratory. "
+            ],
+            [
+                126,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                144,
+                "Penny"
+            ],
+            [
+                153,
+                "Leonard\u2019s laboratory."
+            ],
+            [
+                176,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                194,
+                "The apartment."
+            ],
+            [
+                215,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                224,
+                "The apartment."
+            ]
+        ],
+        "Amy": [
+            [
+                1,
+                "I\u2019ve never seen him this happy before."
+            ],
+            [
+                15,
+                "Yes, and I\u2019ve heard so much about you. Hey look, we\u2019re wearing the same orthopaedic shoes. I can\u2019t believe I dress like a celebrity."
+            ],
+            [
+                24,
+                "Sheldon, come on."
+            ],
+            [
+                53,
+                "Is it really worth getting upset about?"
+            ],
+            [
+                55,
+                "Come on, he\u2019s a retired kids show host."
+            ],
+            [
+                57,
+                "Have you ever thought about why Arthur didn\u2019t want you to read his paper?"
+            ],
+            [
+                59,
+                "Maybe he found you, um, a bit much."
+            ],
+            [
+                61,
+                "From what I saw the other day, I could understand why he and some people might find you\u2026"
+            ],
+            [
+                63,
+                "Doesn\u2019t matter."
+            ],
+            [
+                65,
+                "Sheldon."
+            ],
+            [
+                68,
+                "This is fun. I\u2019m going to feel like such a vixen wearing jewellery that doesn\u2019t have a list of medications I\u2019m allergic to."
+            ],
+            [
+                71,
+                "How do you not know how to use glue? Did you ditch pre-school?"
+            ],
+            [
+                80,
+                "I\u2019m making a bracelet."
+            ],
+            [
+                84,
+                "Actually, I\u2019d kind of like to try that."
+            ],
+            [
+                128,
+                "Wow, Penny, good job."
+            ],
+            [
+                130,
+                "What are you working on?"
+            ],
+            [
+                132,
+                "That\u2019s sweet."
+            ],
+            [
+                138,
+                "Hello."
+            ],
+            [
+                145,
+                "So, what tools did you bring?"
+            ],
+            [
+                150,
+                "Rajesh, do you want to make a bracelet for your mom to go with the necklace?"
+            ],
+            [
+                193,
+                "They\u2019re gonna have sex before Sheldon and I do, I know it."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "That\u2019s because you\u2019ve never seen him on restock the medicine cabinet day."
+            ],
+            [
+                4,
+                "Oh, Gas-X has a new ultra strength. I guess they really do read their mail."
+            ],
+            [
+                6,
+                "Oh, yeah."
+            ],
+            [
+                8,
+                "Oh, maybe we shouldn\u2019t bother him."
+            ],
+            [
+                10,
+                "He thinks there\u2019s a difference."
+            ],
+            [
+                17,
+                "Dr. Jeffries, hello again. Leonard Hofstadter."
+            ],
+            [
+                19,
+                "No, she\u2019s not."
+            ],
+            [
+                21,
+                "Sheldon."
+            ],
+            [
+                27,
+                "Hey, Sheldon, let\u2019s go mock the people buying homeopathic medicine, you love that."
+            ],
+            [
+                39,
+                "What\u2019s up?"
+            ],
+            [
+                43,
+                "Hey, I got an email from Professor Proton."
+            ],
+            [
+                45,
+                "He\u2019s working on a paper about nano vacuum tubes, and wants to know if I\u2019d take a look at it."
+            ],
+            [
+                111,
+                "If you would have told me when I was a kid that someday I would be doing science next to Professor Proton, I would not have believed you."
+            ],
+            [
+                113,
+                "I\u2019m sorry, Dr. Jeffries, I\u2019m just excited. This nano vacuum tube idea of yours is, it\u2019s really interesting."
+            ],
+            [
+                115,
+                "Why is it odd?"
+            ],
+            [
+                119,
+                "Mr. Nye, hello. I\u2019m sorry he got you involved in this nonsense."
+            ],
+            [
+                123,
+                "Oh, uh, we\u2019re making nano vacuum tubes."
+            ],
+            [
+                154,
+                "Okay, we\u2019re almost ready to go. Once we bond the wires, we can test the tubes."
+            ],
+            [
+                156,
+                "Oh, God."
+            ],
+            [
+                158,
+                "Sheldon just sent me a picture of him and Bill Nye getting smoothies."
+            ],
+            [
+                160,
+                "Yeah, sure."
+            ],
+            [
+                162,
+                "Oh, uh, you know, because we\u2019re friends."
+            ],
+            [
+                164,
+                "Wow, you ask really hard questions."
+            ],
+            [
+                166,
+                "Look, I know he can be aggravating, but what you have to remember is that he\u2019s not doing it on purpose. It\u2019s just how he is. But he\u2019s also loyal and trustworthy and we have fun together."
+            ],
+            [
+                168,
+                "He did bite me once. But in his defence, I came up behind him while he was eating, so\u2026"
+            ],
+            [
+                170,
+                "You know what, Sheldon is the smartest person I have ever met. And he\u2019s a little broken and he needs me. I guess I need him, too."
+            ],
+            [
+                172,
+                "Boy, you will not let this go, will you? Oh, jeez."
+            ],
+            [
+                174,
+                "No, I have to go pick him up. Bill Nye ditched him at the smoothie place."
+            ],
+            [
+                226,
+                "He can\u2019t help it. He can\u2019t. He really can\u2019t."
+            ]
+        ],
+        "Sheldon": [
+            [
+                3,
+                "Look. A new topical antihistamine with lidocaine. Wow. I can\u2019t wait until I get a rash. "
+            ],
+            [
+                5,
+                "Hey, isn\u2019t that Professor Proton?"
+            ],
+            [
+                7,
+                "Look at him, just standing in line like he wasn\u2019t moderately famous 30 years ago. Let\u2019s go say hello."
+            ],
+            [
+                9,
+                "I\u2019m not going to bother him, I\u2019m going to talk to him."
+            ],
+            [
+                11,
+                "Arthur? Arthur, it\u2019s me, Sheldon Cooper. You may not remember because of your advanced age."
+            ],
+            [
+                13,
+                "This is my girlfriend, Amy. Amy, this is television legend Arthur Jeffries. His science show inspired millions of children."
+            ],
+            [
+                20,
+                "So, what prescription are you getting filled?"
+            ],
+            [
+                22,
+                "No. Wait, I want to guess. Don\u2019t tell me."
+            ],
+            [
+                25,
+                "No, no, no. I\u2019m really good at this. All right, give me a hint. Does it involve difficulty initiating a stream of anything?"
+            ],
+            [
+                28,
+                "But I\u2019m hanging out with my friend, and we\u2019re having fun. Look how happy he is."
+            ],
+            [
+                44,
+                "Goody. What\u2019s it say?"
+            ],
+            [
+                46,
+                "That\u2019s strange. That he would come to you for that and not me. Oh, I got two emails from him. Do you have Leonard\u2019s email address? And. Never mind, I found it. I can\u2019t believe he picked you over me."
+            ],
+            [
+                49,
+                "Sheldon Cooper does not cry."
+            ],
+            [
+                52,
+                "And to think I idolized that man. And why? At the end of the day he\u2019s just another Hollywood phony."
+            ],
+            [
+                54,
+                "Yeah, they say don\u2019t meet your heroes. Don\u2019t peek behind that curtain of fame and celebrity, because if you do, you\u2019ll see them as they really are, degenerate carnival folk."
+            ],
+            [
+                56,
+                "That\u2019s even worse. Using the sweet candy of science to trick children into loving him. Pervert."
+            ],
+            [
+                58,
+                "Yes, I have. And my only conclusion is the prescription he was picking up the other day was for cuckoo pills."
+            ],
+            [
+                60,
+                "That\u2019s kind of a stretch. Look, when it comes to social skills, I\u2019ve mastered the big three. There\u2019s the coy smile. There\u2019s the friendly chuckle. There\u2019s the vocalization of sympathy. Aw. That last one\u2019s tricky, I\u2019m still working on it."
+            ],
+            [
+                62,
+                "What?"
+            ],
+            [
+                64,
+                "No, go ahead, say it. I know what it is. I\u2019ve heard it my whole life. The word\u2019s annoying. Go ahead, say it. Say it. Say I\u2019m annoying."
+            ],
+            [
+                66,
+                "Oh, it won\u2019t hurt my feelings. Go ahead, Amy, say I\u2019m annoying. I\u2019m annoying. I\u2019m annoying. I\u2019m annoying. Yeah, now, uh, now where are you going? Look, you know you want to say it, say it. Say I\u2019m annoying. Go ahead, say it. Say it. Say it. Amy, say it. Well, she can\u2019t stand it when I\u2019m right."
+            ],
+            [
+                91,
+                "I\u2019m sorry, did I wake you?"
+            ],
+            [
+                93,
+                "Well, I would have been here sooner, but for some reason your home isn\u2019t on this map of Hollywood stars."
+            ],
+            [
+                95,
+                "It\u2019s been pointed out by my girlfriend that I may have been annoying to you."
+            ],
+            [
+                97,
+                "Anyway, I wanted to apologize. I am truly sorry."
+            ],
+            [
+                99,
+                "No, no, now that we\u2019ve cleared the air, I wanted to discuss another matter with you."
+            ],
+            [
+                101,
+                "Well, then, I\u2019ll make this quick. Um, I want to talk about the paper you sent Leonard. Now, I know he said it\u2019s promising and he\u2019s going to collaborate on it, but now that you and I are friends again, I am at your disposal. And, um, frankly, lending my name and reputation to it will help, because a lot of people think that you\u2019re a washed-up has-been. Or dead."
+            ],
+            [
+                103,
+                "So, uh, what do you say?"
+            ],
+            [
+                105,
+                "It\u2019s because I\u2019m annoying, right? I know it is. Say it. Say it. Say I\u2019m annoying. "
+            ],
+            [
+                107,
+                "Say it. Arthur, say it. Say I\u2019m annoying. Say it. Say it. I\u2019m annoying. Say it. "
+            ],
+            [
+                109,
+                "Well, that really hurt. "
+            ],
+            [
+                114,
+                "Hello, Leonard. Oh, hello, Arthur. What an odd coincidence that you\u2019re both here."
+            ],
+            [
+                116,
+                "Because as it just so happens, I\u2019m also spending the day with a beloved children\u2019s television science personality. Isn\u2019t that right, new friend and colleague Bill Nye the Science Guy. Sorry, I replaced you with a newer model."
+            ],
+            [
+                121,
+                "No, I said you were teaching someone a lesson. Now let\u2019s go."
+            ],
+            [
+                195,
+                "Arthur?"
+            ],
+            [
+                197,
+                "I\u2019m surprised to see you here."
+            ],
+            [
+                199,
+                "I\u2019ll get Leonard."
+            ],
+            [
+                201,
+                "If you\u2019re hoping to get in touch with Bill Nye, I can\u2019t help you. I\u2019ve been informed that he\u2019s now Bill Nye the Restraining Order Guy."
+            ],
+            [
+                203,
+                "Thank you. It would be an honour."
+            ],
+            [
+                205,
+                "Actually, I don\u2019t need that. I hacked into your e-mail account and read it."
+            ],
+            [
+                207,
+                "Well, first, I think the fact that you use your birthday as a password is embarrassing. "
+            ],
+            [
+                209,
+                "Second, um, I thought your paper was inspired. "
+            ],
+            [
+                211,
+                "Can I invite you in for tea?"
+            ],
+            [
+                225,
+                "Yeah, and my eighth favourite episode of Professor Proton was Alka-Seltzer rocket. You said, plop, plop, fizz, fizz, oh, what a blast-off it is. Remember? Remember that? Remember?"
+            ],
+            [
+                227,
+                "Oh, wait here. I\u2019ll get some Alka-Seltzer, we can build that rocket, and we can shoot it at Bill Nye\u2019s house. As long as I\u2019m not within 500 feet of it."
+            ]
+        ],
+        "Arthur": [
+            [
+                12,
+                "Trust me, I, I remember."
+            ],
+            [
+                14,
+                "Hold, hold, hold on. You, you have a girlfriend?"
+            ],
+            [
+                16,
+                "Oh, okay, I get it now."
+            ],
+            [
+                18,
+                "Oh, oh, right, I remember your, your girlfriend. Is, is she, is she here?"
+            ],
+            [
+                23,
+                "I wasn\u2019t going to tell you."
+            ],
+            [
+                26,
+                "Well, given my age, that\u2019s more than just a lucky guess."
+            ],
+            [
+                90,
+                "Sheldon, what are you doing here?"
+            ],
+            [
+                92,
+                "Of course you woke me, it\u2019s seven thirty."
+            ],
+            [
+                94,
+                "What do you want, Sheldon?"
+            ],
+            [
+                96,
+                "She sounds like a keeper."
+            ],
+            [
+                98,
+                "All right, apology accepted. Have a nice night."
+            ],
+            [
+                100,
+                "Sheldon, in a couple hours I have to get up, pee and then wander around the house."
+            ],
+            [
+                102,
+                "I should be so lucky."
+            ],
+            [
+                104,
+                "You know, if it\u2019s all the same with you, I, I think I\u2019ll, I\u2019ll stick with Leonard."
+            ],
+            [
+                106,
+                "Good night."
+            ],
+            [
+                108,
+                "You\u2019re annoying."
+            ],
+            [
+                112,
+                "If someone had told me that people would still call me Professor Proton when I was 83 years old, I never would have quit smoking."
+            ],
+            [
+                118,
+                "That\u2019s what I told my lawyers."
+            ],
+            [
+                125,
+                "Haven\u2019t you stolen enough from me? Back off, bow tie."
+            ],
+            [
+                155,
+                "This is so exciting, I, I feel like I\u2019m 75 again."
+            ],
+            [
+                157,
+                "What, what is it?"
+            ],
+            [
+                159,
+                "Can, can I ask you a question?"
+            ],
+            [
+                161,
+                "Why do you put up with Sheldon?"
+            ],
+            [
+                163,
+                "Why?"
+            ],
+            [
+                165,
+                "Yeah."
+            ],
+            [
+                167,
+                "You, you know you\u2019re describing a dog."
+            ],
+            [
+                169,
+                "Yeah, they, they hate that."
+            ],
+            [
+                171,
+                "Why, why is that?"
+            ],
+            [
+                173,
+                "Another photo from Sheldon?"
+            ],
+            [
+                175,
+                "He probably stole his wallet, too."
+            ],
+            [
+                196,
+                "Hi, Sheldon."
+            ],
+            [
+                198,
+                "Yeah, me, too. Somewhere around the third floor I began to see a, a white light."
+            ],
+            [
+                200,
+                "No, no, no, I\u2019m, I\u2019m here, I\u2019m here to see you."
+            ],
+            [
+                202,
+                "No, I, I, I was thinking, if it isn\u2019t too much trouble, I\u2019d like to get your opinion about my, my paper."
+            ],
+            [
+                204,
+                "Oh. Uh, great."
+            ],
+            [
+                206,
+                "And, what did you think?"
+            ],
+            [
+                208,
+                "Mmm. Thank you."
+            ],
+            [
+                210,
+                "Oh, well, that, that means a lot to me."
+            ],
+            [
+                212,
+                "Uh, no, no. I, I really, I have, I have to run."
+            ],
+            [
+                214,
+                "Well, I guess one cup wouldn\u2019t hurt."
+            ],
+            [
+                228,
+                "So, you, uh, you have, you have any, single grandmothers?"
+            ],
+            [
+                230,
+                "Good."
+            ],
+            [
+                232,
+                "Hap, hap, happily?"
+            ]
+        ],
+        "Howard": [
+            [
+                31,
+                "Bernie\u2019s having a girls\u2019 night on Friday at our place. You want to do something?"
+            ],
+            [
+                33,
+                "Doing what?"
+            ],
+            [
+                35,
+                "You\u2019re going to girls\u2019 night."
+            ],
+            [
+                37,
+                "You know they\u2019re making jewellery right?"
+            ],
+            [
+                40,
+                "Not his testosterone levels."
+            ],
+            [
+                42,
+                "How is that possible?"
+            ],
+            [
+                47,
+                "You don\u2019t want to read a paper by some old has-been who hasn\u2019t done any real science in decades."
+            ],
+            [
+                50,
+                "It\u2019s true, you\u2019d rust."
+            ],
+            [
+                73,
+                "Hello, everyone."
+            ],
+            [
+                75,
+                "Nope. Bernadette told me it isn\u2019t nice and I\u2019m not allowed."
+            ],
+            [
+                77,
+                "So I won\u2019t be making fun of you, or the things you like, or the fact that you just want to have fu-un."
+            ],
+            [
+                79,
+                "Oh, that\u2019s actually pretty nice."
+            ],
+            [
+                82,
+                "You know, instead of beads and glue, you guys can use my soldering iron. You\u2019d be able to make much cooler stuff."
+            ],
+            [
+                86,
+                "Be right back."
+            ],
+            [
+                139,
+                "Look who\u2019s here to put the Jew in jewellery night."
+            ],
+            [
+                141,
+                "Sorry we\u2019re late. I wanted to swing by the lab and pick up some even cooler tools for us to use."
+            ],
+            [
+                143,
+                "Well, last week was a blast. Plus, I thought you might like having a guy here. "
+            ],
+            [
+                146,
+                "Everything we need to make jewellery moulds. Here\u2019s some silver, a crucible and an acetylene torch to melt it down."
+            ],
+            [
+                149,
+                "Okay, who\u2019s up first?"
+            ],
+            [
+                152,
+                "I was gonna make a necklace for my mom, but unfortunately she doesn\u2019t have a neck. She\u2019s just chins and fat and feet."
+            ],
+            [
+                177,
+                "You know, if you guys are interested, there\u2019s a technique where I can take a lock of your hair, refine it into carbon dust and use the hydraulic press at work to turn it into a tiny little diamond with your DNA in it."
+            ],
+            [
+                179,
+                "Yeah. See Bernie\u2019s engagement ring? That came right off my mom\u2019s back."
+            ],
+            [
+                182,
+                "Whoa, where is that coming from?"
+            ],
+            [
+                185,
+                "How am I ruining anything? I\u2019m just trying to help you make better jewellery."
+            ],
+            [
+                187,
+                "Since when can\u2019t you open up with me?"
+            ],
+            [
+                189,
+                "Buddy, I was just joking around. "
+            ],
+            [
+                191,
+                "You\u2019re right. I didn\u2019t realize I was making you feel that way. It was very brave of you to tell me."
+            ],
+            [
+                216,
+                "Oh, hey, buddy, what\u2019s up?"
+            ],
+            [
+                218,
+                "You didn\u2019t have to do that."
+            ],
+            [
+                220,
+                "Wow, this is so cool. Thanks."
+            ],
+            [
+                222,
+                "Wow."
+            ]
+        ],
+        "Raj": [
+            [
+                32,
+                "Actually, I\u2019m busy."
+            ],
+            [
+                34,
+                "There\u2019s a new sports bar over on Colorado Ave\u2026"
+            ],
+            [
+                36,
+                "Yeah."
+            ],
+            [
+                38,
+                "You think they came up with that? They were going to drink beer and play darts."
+            ],
+            [
+                41,
+                "Excuse me. I happen to be very comfortable with my masculinity."
+            ],
+            [
+                48,
+                "Yeah, it\u2019s nothing to cry about."
+            ],
+            [
+                69,
+                "Penny, how\u2019s it going over there?"
+            ],
+            [
+                74,
+                "Okay, let me have it. Let\u2019s hear all the Raj is a girl jokes."
+            ],
+            [
+                76,
+                "Thank you."
+            ],
+            [
+                83,
+                "Oh, I think we\u2019re doing just fine, thank you."
+            ],
+            [
+                131,
+                "Ah, I\u2019m making a necklace for my mom. "
+            ],
+            [
+                133,
+                "Yeah, she and my dad are going through a bit of a rough patch, so I wanted to do something to let her know I was thinking about her."
+            ],
+            [
+                135,
+                "They\u2019re just having a little trouble communicating. My dad says it\u2019s because the sound of my mom\u2019s voice makes him want to tear his ears off and sew them over his eyes so he never has to look at her again."
+            ],
+            [
+                142,
+                "I didn\u2019t know you were coming again."
+            ],
+            [
+                151,
+                "No, thanks."
+            ],
+            [
+                181,
+                "My name is Howard. I can make your hair into diamonds. My mom is morbidly obese. Everybody love me."
+            ],
+            [
+                183,
+                "I\u2019ll tell you where it\u2019s coming from. All you do is make fun of me for coming to girls\u2019 night and now you\u2019re here ruining it for everyone."
+            ],
+            [
+                186,
+                "But this isn\u2019t about the jewellery. This is about me having a place where I can open up about my feelings."
+            ],
+            [
+                188,
+                "There are just some things that I feel more comfortable sharing with the girls, because they won\u2019t make fun of me or and call me names, or ask me if my Koothrapanties are in a bunch."
+            ],
+            [
+                190,
+                "Yeah, well, sometimes your jokes hurt. "
+            ],
+            [
+                192,
+                "Thank you. It wasn\u2019t easy."
+            ],
+            [
+                217,
+                "Well, I was feeling bad about how I acted the other night so I made you a little something."
+            ],
+            [
+                219,
+                "Well, it was fun. I used some of the jewellery techniques you taught us. It\u2019s a lightsabre belt buckle."
+            ],
+            [
+                221,
+                "Oh gets better."
+            ],
+            [
+                223,
+                "And that\u2019s not even the best part. See? I have one, too. Check it out. You can wear yours and we can have little sword fights whenever we want."
+            ]
+        ],
+        "Penny": [
+            [
+                70,
+                "Good, I\u2019m just having little trouble with the glue."
+            ],
+            [
+                72,
+                "Yeah, but only because I was dating a second grader."
+            ],
+            [
+                81,
+                "Yeah, I\u2019m just making a mess."
+            ],
+            [
+                87,
+                "When did I have pistachios?"
+            ],
+            [
+                127,
+                "Hey, guys, what do you think?"
+            ],
+            [
+                129,
+                "Thanks. Target, four ninety-nine. I\u2019m getting a drink."
+            ],
+            [
+                134,
+                "What\u2019s going on with them?"
+            ],
+            [
+                137,
+                "Hey, guys."
+            ],
+            [
+                147,
+                "Ooh, that looks like fun."
+            ],
+            [
+                178,
+                "Oh, that\u2019s amazing,"
+            ],
+            [
+                184,
+                "Raj, cool it, he\u2019s gonna make us hair diamonds."
+            ],
+            [
+                213,
+                "Hey, Arthur. How are you?"
+            ],
+            [
+                229,
+                "Sorry, they\u2019re both married."
+            ],
+            [
+                231,
+                "Mmm."
+            ]
+        ],
+        "Bernadette": [
+            [
+                78,
+                "Howie, stop. Come on, look at what I\u2019m making."
+            ],
+            [
+                85,
+                "Me, too."
+            ],
+            [
+                136,
+                "Hi."
+            ],
+            [
+                140,
+                "Oh, sure, so it\u2019s fine when you say it."
+            ],
+            [
+                148,
+                "Maybe you should master glue before you move on to fire."
+            ],
+            [
+                180,
+                "He\u2019s kidding. If that were true, it\u2019d be so much bigger."
+            ]
+        ],
+        "Bill Nye": [
+            [
+                117,
+                "Wow, Arthur Jeffries. It\u2019s an honour to meet you. My show never would have happened without yours."
+            ]
+        ],
+        "Bill": [
+            [
+                120,
+                "He said I\u2019d be speaking to a class."
+            ],
+            [
+                122,
+                "What are you guys working on?"
+            ],
+            [
+                124,
+                "Oh, that\u2019s interesting."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "A supermarket"
+        ],
+        [
+            "Amy",
+            "I\u2019ve never seen him this happy before."
+        ],
+        [
+            "Leonard",
+            "That\u2019s because you\u2019ve never seen him on restock the medicine cabinet day."
+        ],
+        [
+            "Sheldon",
+            "Look. A new topical antihistamine with lidocaine. Wow. I can\u2019t wait until I get a rash. "
+        ],
+        [
+            "Leonard",
+            "Oh, Gas-X has a new ultra strength. I guess they really do read their mail."
+        ],
+        [
+            "Sheldon",
+            "Hey, isn\u2019t that Professor Proton?"
+        ],
+        [
+            "Leonard",
+            "Oh, yeah."
+        ],
+        [
+            "Sheldon",
+            "Look at him, just standing in line like he wasn\u2019t moderately famous 30 years ago. Let\u2019s go say hello."
+        ],
+        [
+            "Leonard",
+            "Oh, maybe we shouldn\u2019t bother him."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not going to bother him, I\u2019m going to talk to him."
+        ],
+        [
+            "Leonard",
+            "He thinks there\u2019s a difference."
+        ],
+        [
+            "Sheldon",
+            "Arthur? Arthur, it\u2019s me, Sheldon Cooper. You may not remember because of your advanced age."
+        ],
+        [
+            "Arthur",
+            "Trust me, I, I remember."
+        ],
+        [
+            "Sheldon",
+            "This is my girlfriend, Amy. Amy, this is television legend Arthur Jeffries. His science show inspired millions of children."
+        ],
+        [
+            "Arthur",
+            "Hold, hold, hold on. You, you have a girlfriend?"
+        ],
+        [
+            "Amy",
+            "Yes, and I\u2019ve heard so much about you. Hey look, we\u2019re wearing the same orthopaedic shoes. I can\u2019t believe I dress like a celebrity."
+        ],
+        [
+            "Arthur",
+            "Oh, okay, I get it now."
+        ],
+        [
+            "Leonard",
+            "Dr. Jeffries, hello again. Leonard Hofstadter."
+        ],
+        [
+            "Arthur",
+            "Oh, oh, right, I remember your, your girlfriend. Is, is she, is she here?"
+        ],
+        [
+            "Leonard",
+            "No, she\u2019s not."
+        ],
+        [
+            "Sheldon",
+            "So, what prescription are you getting filled?"
+        ],
+        [
+            "Leonard",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "No. Wait, I want to guess. Don\u2019t tell me."
+        ],
+        [
+            "Arthur",
+            "I wasn\u2019t going to tell you."
+        ],
+        [
+            "Amy",
+            "Sheldon, come on."
+        ],
+        [
+            "Sheldon",
+            "No, no, no. I\u2019m really good at this. All right, give me a hint. Does it involve difficulty initiating a stream of anything?"
+        ],
+        [
+            "Arthur",
+            "Well, given my age, that\u2019s more than just a lucky guess."
+        ],
+        [
+            "Leonard",
+            "Hey, Sheldon, let\u2019s go mock the people buying homeopathic medicine, you love that."
+        ],
+        [
+            "Sheldon",
+            "But I\u2019m hanging out with my friend, and we\u2019re having fun. Look how happy he is."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Howard",
+            "Bernie\u2019s having a girls\u2019 night on Friday at our place. You want to do something?"
+        ],
+        [
+            "Raj",
+            "Actually, I\u2019m busy."
+        ],
+        [
+            "Howard",
+            "Doing what?"
+        ],
+        [
+            "Raj",
+            "There\u2019s a new sports bar over on Colorado Ave\u2026"
+        ],
+        [
+            "Howard",
+            "You\u2019re going to girls\u2019 night."
+        ],
+        [
+            "Raj",
+            "Yeah."
+        ],
+        [
+            "Howard",
+            "You know they\u2019re making jewellery right?"
+        ],
+        [
+            "Raj",
+            "You think they came up with that? They were going to drink beer and play darts."
+        ],
+        [
+            "Leonard",
+            "What\u2019s up?"
+        ],
+        [
+            "Howard",
+            "Not his testosterone levels."
+        ],
+        [
+            "Raj",
+            "Excuse me. I happen to be very comfortable with my masculinity."
+        ],
+        [
+            "Howard",
+            "How is that possible?"
+        ],
+        [
+            "Leonard",
+            "Hey, I got an email from Professor Proton."
+        ],
+        [
+            "Sheldon",
+            "Goody. What\u2019s it say?"
+        ],
+        [
+            "Leonard",
+            "He\u2019s working on a paper about nano vacuum tubes, and wants to know if I\u2019d take a look at it."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s strange. That he would come to you for that and not me. Oh, I got two emails from him. Do you have Leonard\u2019s email address? And. Never mind, I found it. I can\u2019t believe he picked you over me."
+        ],
+        [
+            "Howard",
+            "You don\u2019t want to read a paper by some old has-been who hasn\u2019t done any real science in decades."
+        ],
+        [
+            "Raj",
+            "Yeah, it\u2019s nothing to cry about."
+        ],
+        [
+            "Sheldon",
+            "Sheldon Cooper does not cry."
+        ],
+        [
+            "Howard",
+            "It\u2019s true, you\u2019d rust."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "And to think I idolized that man. And why? At the end of the day he\u2019s just another Hollywood phony."
+        ],
+        [
+            "Amy",
+            "Is it really worth getting upset about?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, they say don\u2019t meet your heroes. Don\u2019t peek behind that curtain of fame and celebrity, because if you do, you\u2019ll see them as they really are, degenerate carnival folk."
+        ],
+        [
+            "Amy",
+            "Come on, he\u2019s a retired kids show host."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s even worse. Using the sweet candy of science to trick children into loving him. Pervert."
+        ],
+        [
+            "Amy",
+            "Have you ever thought about why Arthur didn\u2019t want you to read his paper?"
+        ],
+        [
+            "Sheldon",
+            "Yes, I have. And my only conclusion is the prescription he was picking up the other day was for cuckoo pills."
+        ],
+        [
+            "Amy",
+            "Maybe he found you, um, a bit much."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s kind of a stretch. Look, when it comes to social skills, I\u2019ve mastered the big three. There\u2019s the coy smile. There\u2019s the friendly chuckle. There\u2019s the vocalization of sympathy. Aw. That last one\u2019s tricky, I\u2019m still working on it."
+        ],
+        [
+            "Amy",
+            "From what I saw the other day, I could understand why he and some people might find you\u2026"
+        ],
+        [
+            "Sheldon",
+            "What?"
+        ],
+        [
+            "Amy",
+            "Doesn\u2019t matter."
+        ],
+        [
+            "Sheldon",
+            "No, go ahead, say it. I know what it is. I\u2019ve heard it my whole life. The word\u2019s annoying. Go ahead, say it. Say it. Say I\u2019m annoying."
+        ],
+        [
+            "Amy",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Oh, it won\u2019t hurt my feelings. Go ahead, Amy, say I\u2019m annoying. I\u2019m annoying. I\u2019m annoying. I\u2019m annoying. Yeah, now, uh, now where are you going? Look, you know you want to say it, say it. Say I\u2019m annoying. Go ahead, say it. Say it. Say it. Amy, say it. Well, she can\u2019t stand it when I\u2019m right."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "This is fun. I\u2019m going to feel like such a vixen wearing jewellery that doesn\u2019t have a list of medications I\u2019m allergic to."
+        ],
+        [
+            "Raj",
+            "Penny, how\u2019s it going over there?"
+        ],
+        [
+            "Penny",
+            "Good, I\u2019m just having little trouble with the glue."
+        ],
+        [
+            "Amy",
+            "How do you not know how to use glue? Did you ditch pre-school?"
+        ],
+        [
+            "Penny",
+            "Yeah, but only because I was dating a second grader."
+        ],
+        [
+            "Howard",
+            "Hello, everyone."
+        ],
+        [
+            "Raj",
+            "Okay, let me have it. Let\u2019s hear all the Raj is a girl jokes."
+        ],
+        [
+            "Howard",
+            "Nope. Bernadette told me it isn\u2019t nice and I\u2019m not allowed."
+        ],
+        [
+            "Raj",
+            "Thank you."
+        ],
+        [
+            "Howard",
+            "So I won\u2019t be making fun of you, or the things you like, or the fact that you just want to have fu-un."
+        ],
+        [
+            "Bernadette",
+            "Howie, stop. Come on, look at what I\u2019m making."
+        ],
+        [
+            "Howard",
+            "Oh, that\u2019s actually pretty nice."
+        ],
+        [
+            "Amy",
+            "I\u2019m making a bracelet."
+        ],
+        [
+            "Penny",
+            "Yeah, I\u2019m just making a mess."
+        ],
+        [
+            "Howard",
+            "You know, instead of beads and glue, you guys can use my soldering iron. You\u2019d be able to make much cooler stuff."
+        ],
+        [
+            "Raj",
+            "Oh, I think we\u2019re doing just fine, thank you."
+        ],
+        [
+            "Amy",
+            "Actually, I\u2019d kind of like to try that."
+        ],
+        [
+            "Bernadette",
+            "Me, too."
+        ],
+        [
+            "Howard",
+            "Be right back."
+        ],
+        [
+            "Penny",
+            "When did I have pistachios?"
+        ],
+        [
+            "Scene",
+            "Professor Proton\u2019s house. "
+        ],
+        [
+            "Scene",
+            "Sheldon:"
+        ],
+        [
+            "Arthur",
+            "Sheldon, what are you doing here?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, did I wake you?"
+        ],
+        [
+            "Arthur",
+            "Of course you woke me, it\u2019s seven thirty."
+        ],
+        [
+            "Sheldon",
+            "Well, I would have been here sooner, but for some reason your home isn\u2019t on this map of Hollywood stars."
+        ],
+        [
+            "Arthur",
+            "What do you want, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s been pointed out by my girlfriend that I may have been annoying to you."
+        ],
+        [
+            "Arthur",
+            "She sounds like a keeper."
+        ],
+        [
+            "Sheldon",
+            "Anyway, I wanted to apologize. I am truly sorry."
+        ],
+        [
+            "Arthur",
+            "All right, apology accepted. Have a nice night."
+        ],
+        [
+            "Sheldon",
+            "No, no, now that we\u2019ve cleared the air, I wanted to discuss another matter with you."
+        ],
+        [
+            "Arthur",
+            "Sheldon, in a couple hours I have to get up, pee and then wander around the house."
+        ],
+        [
+            "Sheldon",
+            "Well, then, I\u2019ll make this quick. Um, I want to talk about the paper you sent Leonard. Now, I know he said it\u2019s promising and he\u2019s going to collaborate on it, but now that you and I are friends again, I am at your disposal. And, um, frankly, lending my name and reputation to it will help, because a lot of people think that you\u2019re a washed-up has-been. Or dead."
+        ],
+        [
+            "Arthur",
+            "I should be so lucky."
+        ],
+        [
+            "Sheldon",
+            "So, uh, what do you say?"
+        ],
+        [
+            "Arthur",
+            "You know, if it\u2019s all the same with you, I, I think I\u2019ll, I\u2019ll stick with Leonard."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s because I\u2019m annoying, right? I know it is. Say it. Say it. Say I\u2019m annoying. "
+        ],
+        [
+            "Arthur",
+            "Good night."
+        ],
+        [
+            "Sheldon",
+            "Say it. Arthur, say it. Say I\u2019m annoying. Say it. Say it. I\u2019m annoying. Say it. "
+        ],
+        [
+            "Arthur",
+            "You\u2019re annoying."
+        ],
+        [
+            "Sheldon",
+            "Well, that really hurt. "
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s laboratory. "
+        ],
+        [
+            "Leonard",
+            "If you would have told me when I was a kid that someday I would be doing science next to Professor Proton, I would not have believed you."
+        ],
+        [
+            "Arthur",
+            "If someone had told me that people would still call me Professor Proton when I was 83 years old, I never would have quit smoking."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, Dr. Jeffries, I\u2019m just excited. This nano vacuum tube idea of yours is, it\u2019s really interesting."
+        ],
+        [
+            "Sheldon",
+            "Hello, Leonard. Oh, hello, Arthur. What an odd coincidence that you\u2019re both here."
+        ],
+        [
+            "Leonard",
+            "Why is it odd?"
+        ],
+        [
+            "Sheldon",
+            "Because as it just so happens, I\u2019m also spending the day with a beloved children\u2019s television science personality. Isn\u2019t that right, new friend and colleague Bill Nye the Science Guy. Sorry, I replaced you with a newer model."
+        ],
+        [
+            "Bill Nye",
+            "Wow, Arthur Jeffries. It\u2019s an honour to meet you. My show never would have happened without yours."
+        ],
+        [
+            "Arthur",
+            "That\u2019s what I told my lawyers."
+        ],
+        [
+            "Leonard",
+            "Mr. Nye, hello. I\u2019m sorry he got you involved in this nonsense."
+        ],
+        [
+            "Bill",
+            "He said I\u2019d be speaking to a class."
+        ],
+        [
+            "Sheldon",
+            "No, I said you were teaching someone a lesson. Now let\u2019s go."
+        ],
+        [
+            "Bill",
+            "What are you guys working on?"
+        ],
+        [
+            "Leonard",
+            "Oh, uh, we\u2019re making nano vacuum tubes."
+        ],
+        [
+            "Bill",
+            "Oh, that\u2019s interesting."
+        ],
+        [
+            "Arthur",
+            "Haven\u2019t you stolen enough from me? Back off, bow tie."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Penny",
+            "Hey, guys, what do you think?"
+        ],
+        [
+            "Amy",
+            "Wow, Penny, good job."
+        ],
+        [
+            "Penny",
+            "Thanks. Target, four ninety-nine. I\u2019m getting a drink."
+        ],
+        [
+            "Amy",
+            "What are you working on?"
+        ],
+        [
+            "Raj",
+            "Ah, I\u2019m making a necklace for my mom. "
+        ],
+        [
+            "Amy",
+            "That\u2019s sweet."
+        ],
+        [
+            "Raj",
+            "Yeah, she and my dad are going through a bit of a rough patch, so I wanted to do something to let her know I was thinking about her."
+        ],
+        [
+            "Penny",
+            "What\u2019s going on with them?"
+        ],
+        [
+            "Raj",
+            "They\u2019re just having a little trouble communicating. My dad says it\u2019s because the sound of my mom\u2019s voice makes him want to tear his ears off and sew them over his eyes so he never has to look at her again."
+        ],
+        [
+            "Bernadette",
+            "Hi."
+        ],
+        [
+            "Penny",
+            "Hey, guys."
+        ],
+        [
+            "Amy",
+            "Hello."
+        ],
+        [
+            "Howard",
+            "Look who\u2019s here to put the Jew in jewellery night."
+        ],
+        [
+            "Bernadette",
+            "Oh, sure, so it\u2019s fine when you say it."
+        ],
+        [
+            "Howard",
+            "Sorry we\u2019re late. I wanted to swing by the lab and pick up some even cooler tools for us to use."
+        ],
+        [
+            "Raj",
+            "I didn\u2019t know you were coming again."
+        ],
+        [
+            "Howard",
+            "Well, last week was a blast. Plus, I thought you might like having a guy here. "
+        ],
+        [
+            "Scene",
+            "Penny"
+        ],
+        [
+            "Amy",
+            "So, what tools did you bring?"
+        ],
+        [
+            "Howard",
+            "Everything we need to make jewellery moulds. Here\u2019s some silver, a crucible and an acetylene torch to melt it down."
+        ],
+        [
+            "Penny",
+            "Ooh, that looks like fun."
+        ],
+        [
+            "Bernadette",
+            "Maybe you should master glue before you move on to fire."
+        ],
+        [
+            "Howard",
+            "Okay, who\u2019s up first?"
+        ],
+        [
+            "Amy",
+            "Rajesh, do you want to make a bracelet for your mom to go with the necklace?"
+        ],
+        [
+            "Raj",
+            "No, thanks."
+        ],
+        [
+            "Howard",
+            "I was gonna make a necklace for my mom, but unfortunately she doesn\u2019t have a neck. She\u2019s just chins and fat and feet."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s laboratory."
+        ],
+        [
+            "Leonard",
+            "Okay, we\u2019re almost ready to go. Once we bond the wires, we can test the tubes."
+        ],
+        [
+            "Arthur",
+            "This is so exciting, I, I feel like I\u2019m 75 again."
+        ],
+        [
+            "Leonard",
+            "Oh, God."
+        ],
+        [
+            "Arthur",
+            "What, what is it?"
+        ],
+        [
+            "Leonard",
+            "Sheldon just sent me a picture of him and Bill Nye getting smoothies."
+        ],
+        [
+            "Arthur",
+            "Can, can I ask you a question?"
+        ],
+        [
+            "Leonard",
+            "Yeah, sure."
+        ],
+        [
+            "Arthur",
+            "Why do you put up with Sheldon?"
+        ],
+        [
+            "Leonard",
+            "Oh, uh, you know, because we\u2019re friends."
+        ],
+        [
+            "Arthur",
+            "Why?"
+        ],
+        [
+            "Leonard",
+            "Wow, you ask really hard questions."
+        ],
+        [
+            "Arthur",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "Look, I know he can be aggravating, but what you have to remember is that he\u2019s not doing it on purpose. It\u2019s just how he is. But he\u2019s also loyal and trustworthy and we have fun together."
+        ],
+        [
+            "Arthur",
+            "You, you know you\u2019re describing a dog."
+        ],
+        [
+            "Leonard",
+            "He did bite me once. But in his defence, I came up behind him while he was eating, so\u2026"
+        ],
+        [
+            "Arthur",
+            "Yeah, they, they hate that."
+        ],
+        [
+            "Leonard",
+            "You know what, Sheldon is the smartest person I have ever met. And he\u2019s a little broken and he needs me. I guess I need him, too."
+        ],
+        [
+            "Arthur",
+            "Why, why is that?"
+        ],
+        [
+            "Leonard",
+            "Boy, you will not let this go, will you? Oh, jeez."
+        ],
+        [
+            "Arthur",
+            "Another photo from Sheldon?"
+        ],
+        [
+            "Leonard",
+            "No, I have to go pick him up. Bill Nye ditched him at the smoothie place."
+        ],
+        [
+            "Arthur",
+            "He probably stole his wallet, too."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Howard",
+            "You know, if you guys are interested, there\u2019s a technique where I can take a lock of your hair, refine it into carbon dust and use the hydraulic press at work to turn it into a tiny little diamond with your DNA in it."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s amazing,"
+        ],
+        [
+            "Howard",
+            "Yeah. See Bernie\u2019s engagement ring? That came right off my mom\u2019s back."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s kidding. If that were true, it\u2019d be so much bigger."
+        ],
+        [
+            "Raj",
+            "My name is Howard. I can make your hair into diamonds. My mom is morbidly obese. Everybody love me."
+        ],
+        [
+            "Howard",
+            "Whoa, where is that coming from?"
+        ],
+        [
+            "Raj",
+            "I\u2019ll tell you where it\u2019s coming from. All you do is make fun of me for coming to girls\u2019 night and now you\u2019re here ruining it for everyone."
+        ],
+        [
+            "Penny",
+            "Raj, cool it, he\u2019s gonna make us hair diamonds."
+        ],
+        [
+            "Howard",
+            "How am I ruining anything? I\u2019m just trying to help you make better jewellery."
+        ],
+        [
+            "Raj",
+            "But this isn\u2019t about the jewellery. This is about me having a place where I can open up about my feelings."
+        ],
+        [
+            "Howard",
+            "Since when can\u2019t you open up with me?"
+        ],
+        [
+            "Raj",
+            "There are just some things that I feel more comfortable sharing with the girls, because they won\u2019t make fun of me or and call me names, or ask me if my Koothrapanties are in a bunch."
+        ],
+        [
+            "Howard",
+            "Buddy, I was just joking around. "
+        ],
+        [
+            "Raj",
+            "Yeah, well, sometimes your jokes hurt. "
+        ],
+        [
+            "Howard",
+            "You\u2019re right. I didn\u2019t realize I was making you feel that way. It was very brave of you to tell me."
+        ],
+        [
+            "Raj",
+            "Thank you. It wasn\u2019t easy."
+        ],
+        [
+            "Amy",
+            "They\u2019re gonna have sex before Sheldon and I do, I know it."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Arthur?"
+        ],
+        [
+            "Arthur",
+            "Hi, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m surprised to see you here."
+        ],
+        [
+            "Arthur",
+            "Yeah, me, too. Somewhere around the third floor I began to see a, a white light."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll get Leonard."
+        ],
+        [
+            "Arthur",
+            "No, no, no, I\u2019m, I\u2019m here, I\u2019m here to see you."
+        ],
+        [
+            "Sheldon",
+            "If you\u2019re hoping to get in touch with Bill Nye, I can\u2019t help you. I\u2019ve been informed that he\u2019s now Bill Nye the Restraining Order Guy."
+        ],
+        [
+            "Arthur",
+            "No, I, I, I was thinking, if it isn\u2019t too much trouble, I\u2019d like to get your opinion about my, my paper."
+        ],
+        [
+            "Sheldon",
+            "Thank you. It would be an honour."
+        ],
+        [
+            "Arthur",
+            "Oh. Uh, great."
+        ],
+        [
+            "Sheldon",
+            "Actually, I don\u2019t need that. I hacked into your e-mail account and read it."
+        ],
+        [
+            "Arthur",
+            "And, what did you think?"
+        ],
+        [
+            "Sheldon",
+            "Well, first, I think the fact that you use your birthday as a password is embarrassing. "
+        ],
+        [
+            "Arthur",
+            "Mmm. Thank you."
+        ],
+        [
+            "Sheldon",
+            "Second, um, I thought your paper was inspired. "
+        ],
+        [
+            "Arthur",
+            "Oh, well, that, that means a lot to me."
+        ],
+        [
+            "Sheldon",
+            "Can I invite you in for tea?"
+        ],
+        [
+            "Arthur",
+            "Uh, no, no. I, I really, I have, I have to run."
+        ],
+        [
+            "Penny",
+            "Hey, Arthur. How are you?"
+        ],
+        [
+            "Arthur",
+            "Well, I guess one cup wouldn\u2019t hurt."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Oh, hey, buddy, what\u2019s up?"
+        ],
+        [
+            "Raj",
+            "Well, I was feeling bad about how I acted the other night so I made you a little something."
+        ],
+        [
+            "Howard",
+            "You didn\u2019t have to do that."
+        ],
+        [
+            "Raj",
+            "Well, it was fun. I used some of the jewellery techniques you taught us. It\u2019s a lightsabre belt buckle."
+        ],
+        [
+            "Howard",
+            "Wow, this is so cool. Thanks."
+        ],
+        [
+            "Raj",
+            "Oh gets better."
+        ],
+        [
+            "Howard",
+            "Wow."
+        ],
+        [
+            "Raj",
+            "And that\u2019s not even the best part. See? I have one, too. Check it out. You can wear yours and we can have little sword fights whenever we want."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Yeah, and my eighth favourite episode of Professor Proton was Alka-Seltzer rocket. You said, plop, plop, fizz, fizz, oh, what a blast-off it is. Remember? Remember that? Remember?"
+        ],
+        [
+            "Leonard",
+            "He can\u2019t help it. He can\u2019t. He really can\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Oh, wait here. I\u2019ll get some Alka-Seltzer, we can build that rocket, and we can shoot it at Bill Nye\u2019s house. As long as I\u2019m not within 500 feet of it."
+        ],
+        [
+            "Arthur",
+            "So, you, uh, you have, you have any, single grandmothers?"
+        ],
+        [
+            "Penny",
+            "Sorry, they\u2019re both married."
+        ],
+        [
+            "Arthur",
+            "Good."
+        ],
+        [
+            "Penny",
+            "Mmm."
+        ],
+        [
+            "Arthur",
+            "Hap, hap, happily?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-07-the-proton-displacement/"
+}

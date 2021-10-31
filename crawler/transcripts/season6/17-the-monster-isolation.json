@@ -1,0 +1,1450 @@
+{
+    "Season": 6,
+    "Episode": 17,
+    "Title": "the monster isolation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "(After a \u201cpreviously on\u201d sequence) A coffee shop"
+            ],
+            [
+                4,
+                "Credits sequence."
+            ],
+            [
+                5,
+                "The apartment."
+            ],
+            [
+                21,
+                "Outside Raj\u2019s apartment."
+            ],
+            [
+                53,
+                "The apartment."
+            ],
+            [
+                67,
+                "Penny\u2019s apartment."
+            ],
+            [
+                80,
+                "The apartment."
+            ],
+            [
+                88,
+                "Penny\u2019s apartment."
+            ],
+            [
+                100,
+                "The comic book store."
+            ],
+            [
+                112,
+                "Raj\u2019s apartment."
+            ],
+            [
+                126,
+                "Outside on the street."
+            ],
+            [
+                128,
+                "The apartment."
+            ],
+            [
+                142,
+                "Outside Raj\u2019s apartment. The girl from the comic book store knocks on the door."
+            ],
+            [
+                164,
+                "The theatre."
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "So then I went to Cambridge, which was wonderful not only because it\u2019s a good school but because it totally looks like Hogwarts. That\u2019s where I fell in love with astronomy, and now I\u2019m an astrophysicist at Caltech, so I guess you could say, uh, Raj is my name and stars are my game. And rhyming is also my game. So, uh, two games. Uh, anyway, that, that\u2019s enough about me. I want to hear everything about you."
+            ],
+            [
+                3,
+                "I go to the bathroom, too. Sometimes more frequently than I care to admit. Oh, I\u2019ve had it checked out, it\u2019s nothing. Hmm. This is going great. Mmm, can I have a refill on my chai tea? Yes, I have a good feeling about this. (Girl can be seen sneaking past window and leaving) I should have bought condoms."
+            ],
+            [
+                33,
+                "What?"
+            ],
+            [
+                37,
+                "I was humiliated by yet another woman."
+            ],
+            [
+                39,
+                "No. I took her for coffee, and she snuck out the bathroom window to get away from me."
+            ],
+            [
+                41,
+                "I went and looked. It was a high and tiny window. She must have been very motivated."
+            ],
+            [
+                44,
+                "Why not? With online shopping and overnight delivery, I can get anything I want. Look, I just ordered a case of Dinty Moore beef stew and two live lobsters on Amazon."
+            ],
+            [
+                49,
+                "You\u2019re wasting your time. Just please, leave me alone."
+            ],
+            [
+                114,
+                "I don\u2019t want to celebrate."
+            ],
+            [
+                116,
+                "Why would I want her number? I don\u2019t want anything to do with this woman."
+            ],
+            [
+                118,
+                "No, you don\u2019t get it. I want nothing to do with any woman. My heart is stone. From now on, I\u2019m a monk. I renounce all worldly pleasures. Except for lobster. And garlic butter."
+            ],
+            [
+                120,
+                "You\u2019re, you\u2019re a good friend for trying to help, but, I\u2019ve made my choice."
+            ],
+            [
+                122,
+                "See you. No, wait, take her number. I don\u2019t want the temptation."
+            ],
+            [
+                124,
+                "I must be strong so I don\u2019t stray from my true purpose, the study of the universe."
+            ],
+            [
+                127,
+                "Wait! Give me the number! Give me the number! Give me the number!"
+            ],
+            [
+                143,
+                "Just a sec. Oh, who says just a sec? I hate myself. Hello."
+            ],
+            [
+                145,
+                "Uh, would you like to come in?"
+            ],
+            [
+                147,
+                "Oh."
+            ],
+            [
+                149,
+                "Wait. Can you at least tell me what went wrong? It\u2019s okay. I can take anything. Unless it\u2019s something I did, or said, or am. \u2018Cause those are, like, my buttons."
+            ],
+            [
+                151,
+                "Really? Then what were you doing at the comic book store that night?"
+            ],
+            [
+                153,
+                "Yeah, me neither."
+            ],
+            [
+                155,
+                "I lied. I love them. I only said that so you\u2019d go out with me."
+            ],
+            [
+                157,
+                "That\u2019s great. I\u2019m broken, too."
+            ],
+            [
+                159,
+                "Oh, I totally am. If it wasn\u2019t for this beer, I couldn\u2019t even talk to you right now. I\u2019m a wreck. There are many things seriously wrong with me. And not quirks, either. Like, diagnosable psychological problems. Maybe brain damage."
+            ],
+            [
+                161,
+                "Go out with me on one date, and I promise you, you\u2019ll see."
+            ],
+            [
+                163,
+                "You won\u2019t regret it. I\u2019m the most pathetic guy you\u2019ve ever met. And that, boys and girls, is how it\u2019s done."
+            ]
+        ],
+        "Girl": [
+            [
+                2,
+                "I have to go to the bathroom."
+            ],
+            [
+                106,
+                "Hi. I don\u2019t know if you remember me, but I was here the other night at your party."
+            ],
+            [
+                108,
+                "Uh, yeah."
+            ],
+            [
+                110,
+                "Sorry. Can you just give him this?"
+            ],
+            [
+                144,
+                "Hi."
+            ],
+            [
+                146,
+                "Oh, no, I can\u2019t stay."
+            ],
+            [
+                148,
+                "I just wanted to say, I\u2019m sorry for running out of the coffee shop. That wasn\u2019t cool. So, uh, yeah. I\u2019m sorry."
+            ],
+            [
+                150,
+                "No, it\u2019s not any of that. It\u2019s just, I kind of have a hard time around people I don\u2019t know."
+            ],
+            [
+                152,
+                "I\u2019ve been trying to force myself into situations that I\u2019m not comfortable with. I saw the flyer in the store window, and I made myself go in. I don\u2019t even like comic books."
+            ],
+            [
+                154,
+                "Then what were you doing there?"
+            ],
+            [
+                156,
+                "Oh, you don\u2019t want to do that. I\u2019m kind of broken."
+            ],
+            [
+                158,
+                "Oh, no, you\u2019re not."
+            ],
+            [
+                160,
+                "Well, how do I know you\u2019re not just saying that?"
+            ],
+            [
+                162,
+                "Okay. Text me. Bye."
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "Hello, I\u2019m Dr. Sheldon Cooper. Welcome to Sheldon Cooper Presents Fun with Flags. My apologies that this episode is coming late. I did shoot one last week, in honour of Black History Month, but I was informed by my roommate that my spot-on portrayal of George Washington Carver could be considered wildly racist. My heart goes out to the members of the African-American community, who, like me, have been kept down by The Man. Now, Fun with Flags is not just for the flag aficionado, it\u2019s also for the flag novice, so, to help me with that, please welcome my friend, neighbour, and flag virgin, yeah, not a real virgin. She\u2019s had coitus many times. Sometimes within earshot of this flag enthusiast. Once while he was trying to watch The Incredibles. Penny."
+            ],
+            [
+                8,
+                "So, Penny, I understand you would like to learn more about flags."
+            ],
+            [
+                10,
+                "Yeah. Well, you came to the right place."
+            ],
+            [
+                12,
+                "What\u2019s wrong?"
+            ],
+            [
+                14,
+                "Interesting. A few people in the comments section have said that my delivery is robotic. Perhaps that isn\u2019t the compliment it sounds like."
+            ],
+            [
+                16,
+                "Right. And which one do I want?"
+            ],
+            [
+                18,
+                "If our friend, the flag, has taught me anything, it\u2019s to go where the wind takes you. As long as you remain firmly attached to a rigid pole. And, action. So, Penny, what sort of flag questions keep you awake at night?"
+            ],
+            [
+                20,
+                "Gosh, Penny, what\u2019d you have for breakfast? A big glass of good question juice? The Nebraska state flag is simply the state seal on a field of blue. Spread your legs, invite them in."
+            ],
+            [
+                55,
+                "Hello. How\u2019s the final stage of your nicotine addiction study going?"
+            ],
+            [
+                57,
+                "Good news. Uh, the latest episode of Fun with Flags is online."
+            ],
+            [
+                59,
+                "Much better than I expected. She even gave me some helpful tips about acting and body language. Watch. Welcome to my world. Not welcome to my world. Welcome. Not welcome."
+            ],
+            [
+                61,
+                "I know. I\u2019m still learning to control it."
+            ],
+            [
+                63,
+                "Why would I do that?"
+            ],
+            [
+                65,
+                "All right."
+            ],
+            [
+                69,
+                "Um\u2026"
+            ],
+            [
+                71,
+                "No. I didn\u2019t start yet, it\u2019s fine."
+            ],
+            [
+                73,
+                "Well, I was thinking about you helping me out last night (knock, knock, knock) Penny. And I just wanted to tell you (knock, knock, knock) Penny, that the answer to the question, who did a great job? is you, (knock, knock, knock) Penny."
+            ],
+            [
+                75,
+                "Yes, you were very natural in front of the camera, and I found your suggestions extremely helpful."
+            ],
+            [
+                77,
+                "Okay."
+            ],
+            [
+                79,
+                "Oh, that sounds terrible. Why would I want to do that?"
+            ],
+            [
+                82,
+                "Well, so much for your advice on complimenting Penny."
+            ],
+            [
+                84,
+                "She tried to rope us into going to her acting class to see a play. Don\u2019t worry. Luckily, I had the good sense to drown that kitten in the river."
+            ],
+            [
+                86,
+                "Oh, so many crazy rules."
+            ],
+            [
+                89,
+                "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny. Oh yeah, much better."
+            ],
+            [
+                91,
+                "Amy pointed out to me that since you did something nice for me, I\u2019m obligated to do something nice for you. So, yes, I\u2019ll go to your dopey play."
+            ],
+            [
+                93,
+                "Why not?"
+            ],
+            [
+                95,
+                "Oh, Dear Lord, more rules? Where does it stop? Can I want to go because I have to want to go?"
+            ],
+            [
+                97,
+                "Yeah, but now, wait. Do whatever I want? Or whatever I have to want?"
+            ],
+            [
+                99,
+                "All right. I don\u2019t want to, but at least that makes sense."
+            ],
+            [
+                101,
+                "You know, I haven\u2019t seen Raj in several days. Is he no longer a part of our social group? And if so, should we be interviewing for a replacement? Perhaps, this time, we go Latin."
+            ],
+            [
+                103,
+                "Oh, brilliant. I\u2019ve been itching to pull that trigger."
+            ],
+            [
+                105,
+                "Would it help if I gave him some pointers? I\u2019m just funnin\u2019 ya."
+            ],
+            [
+                134,
+                "All right, let\u2019s get this stupid play over with."
+            ],
+            [
+                136,
+                "Why?"
+            ],
+            [
+                138,
+                "Aw, for Pete\u2019s sake. Can we go now?"
+            ],
+            [
+                141,
+                "It\u2019s about streetcars? Oh, great. I won\u2019t need this. (Pulls out an etch-a-sketch.)"
+            ],
+            [
+                170,
+                "She is. But when do they get to the part about streetcars?"
+            ],
+            [
+                172,
+                "She\u2019s remarkable."
+            ],
+            [
+                175,
+                "How can she remember all those lines, but as a waitress, she can\u2019t remember no tomato on my hamburger?"
+            ]
+        ],
+        "Penny": [
+            [
+                7,
+                "Hello."
+            ],
+            [
+                9,
+                "Yeah, I can\u2019t tell you how many times I\u2019ve been at a party where everyone\u2019s talking about flags and I just couldn\u2019t join in."
+            ],
+            [
+                11,
+                "Uh, I\u2019m sorry, can we just pause for a minute?"
+            ],
+            [
+                13,
+                "I just think it might look more natural if you talked to me instead of the camera, you know, like, like a real conversation. It\u2019s something we work on in my acting class."
+            ],
+            [
+                15,
+                "Yeah, let\u2019s try it again, and maybe, this time, you could work on your body language a bit. You know, when you\u2019re all hunched like that, you\u2019re shutting the audience out, but when you\u2019re relaxed and open, you\u2019re inviting them in."
+            ],
+            [
+                17,
+                "Let\u2019s try open."
+            ],
+            [
+                19,
+                "Um, well, I\u2019m from Nebraska. So what can you tell me about the state flag?"
+            ],
+            [
+                68,
+                "Oh, hi. What\u2019s up?"
+            ],
+            [
+                70,
+                "You need me to shut the door so you can do your knocking thing?"
+            ],
+            [
+                72,
+                "Okay. So, what do you need?"
+            ],
+            [
+                74,
+                "Really?"
+            ],
+            [
+                76,
+                "Aw, sweetie, you just made my day."
+            ],
+            [
+                78,
+                "Hey, my acting class is putting on a play Friday night. I could put you and Amy on the guest list."
+            ],
+            [
+                90,
+                "What?"
+            ],
+            [
+                92,
+                "Hey, I don\u2019t want you to go any more."
+            ],
+            [
+                94,
+                "You should go \u2019cause you want to go, not because you have to."
+            ],
+            [
+                96,
+                "Okay. Do whatever you want."
+            ],
+            [
+                98,
+                "Oh, for God\u2019s sake, just come to the play."
+            ],
+            [
+                167,
+                "I think you have a great capacity for devotion. You\u2019ll be lonely when she passes on, won\u2019t you? I understand what that is."
+            ]
+        ],
+        "Howard": [
+            [
+                22,
+                "I\u2019m telling you, something\u2019s wrong. I can always feel it when Raj is in trouble."
+            ],
+            [
+                25,
+                "You in there?"
+            ],
+            [
+                28,
+                "We\u2019re worried about you."
+            ],
+            [
+                38,
+                "You didn\u2019t kill her and chop her up, that\u2019s not what we\u2019re smelling, right?"
+            ],
+            [
+                42,
+                "I\u2019m sorry. That\u2019s awful, but come on, you got to shake it off."
+            ],
+            [
+                46,
+                "Oh, you\u2019re kidding. Let me see. Well, I\u2019ll be. Look, you can throw in a couple steaks and have a surf and turf."
+            ],
+            [
+                50,
+                "Now what?"
+            ],
+            [
+                102,
+                "He\u2019s just decided he\u2019s never leaving his apartment again."
+            ],
+            [
+                104,
+                "He\u2019s upset because he can\u2019t get anywhere with women."
+            ],
+            [
+                109,
+                "You\u2019re the one? Okay, let me tell you something. That guy you blew off happens to be my best friend. Okay? He was devastated."
+            ],
+            [
+                111,
+                "Okay. But I gotta warn you, Raj is a proud, passionate man. If you go running out on him again, you\u2019re only gonna get, like, three or four more chances before you are history."
+            ],
+            [
+                113,
+                "Come on, she came back. This is good news. You should celebrate."
+            ],
+            [
+                115,
+                "Not even a little? I mean, we could have a pants party. Go put some on."
+            ],
+            [
+                117,
+                "Oh, come on, Raj."
+            ],
+            [
+                119,
+                "Boy, I want to tell you it\u2019s her loss, but you are not making it easy."
+            ],
+            [
+                121,
+                "All right. Well, I\u2019ll see you around."
+            ],
+            [
+                123,
+                "Okay."
+            ],
+            [
+                125,
+                "All right. Thanks for ruining lobster for me."
+            ]
+        ],
+        "Bernadette": [
+            [
+                23,
+                "Geez, how close were you guys before we got married?"
+            ],
+            [
+                30,
+                "Did something good happen?"
+            ],
+            [
+                35,
+                "It smells pretty ripe in here. You kind feel it in your eyes."
+            ],
+            [
+                40,
+                "Oh, you poor baby."
+            ],
+            [
+                48,
+                "Guys, we\u2019re trying to get him out of here, not you in."
+            ],
+            [
+                52,
+                "We could go to Red Lobster and talk about it. We\u2019re all thinking it. I just had the decency to wait for him to leave."
+            ]
+        ],
+        "Leonard": [
+            [
+                24,
+                "Don\u2019t look under that rock. (Knocking) Raj, you okay?"
+            ],
+            [
+                27,
+                "Come on, buddy, open up."
+            ],
+            [
+                32,
+                "Whoa."
+            ],
+            [
+                34,
+                "Nope, just, just, whoa."
+            ],
+            [
+                36,
+                "Raj, what\u2019s going on?"
+            ],
+            [
+                43,
+                "Yeah, you can\u2019t stay in your apartment for the rest of your life."
+            ],
+            [
+                45,
+                "Lobsters overnight?"
+            ],
+            [
+                47,
+                "The surf and turf sounds good. See if they have corn on the cob."
+            ],
+            [
+                51,
+                "I don\u2019t know."
+            ],
+            [
+                129,
+                "So, Amy, what\u2019s going on with your addiction study?"
+            ],
+            [
+                131,
+                "Why? What happened?"
+            ],
+            [
+                133,
+                "I\u2019m sorry. That I asked."
+            ],
+            [
+                135,
+                "Uh, hang on. Empty your pockets."
+            ],
+            [
+                137,
+                "You know why. The Nintendo DS. And the PSP. Now the Gameboy."
+            ],
+            [
+                139,
+                "Well, is that all of it? (Pulls a Rubik\u2019s cube from his pants.) Just set it down."
+            ],
+            [
+                169,
+                "She\u2019s pretty good, huh?"
+            ],
+            [
+                173,
+                "She really is."
+            ]
+        ],
+        "Raj (off)": [
+            [
+                26,
+                "Go away!"
+            ],
+            [
+                29,
+                "Oh, just because I\u2019ve stopped going to work and answering my phone you think something bad happened? Maybe something good happened."
+            ],
+            [
+                31,
+                "Of course not. Nothing good ever happens. (Opens door. He is wearing a stained vest, his hair is unkempt, and he is drinking wine from a bottle.)"
+            ]
+        ],
+        "Amy (on webcam)": [
+            [
+                54,
+                "Hello, Sheldon."
+            ],
+            [
+                81,
+                "That\u2019s right. They\u2019re no good without the lighter."
+            ]
+        ],
+        "Amy": [
+            [
+                56,
+                "Fine. Just hold on. Mommy\u2019s on the phone! Sorry. We\u2019ve cut the monkeys down to one cigarette a day, so things are a little intense. Makes me miss my marijuana-abusing flatworms. Those guys were mellow."
+            ],
+            [
+                58,
+                "Oh, that\u2019s right. How\u2019d it go with Penny?"
+            ],
+            [
+                60,
+                "Subtle, but powerful."
+            ],
+            [
+                62,
+                "Did you tell Penny how helpful she was?"
+            ],
+            [
+                64,
+                "Because she\u2019s your friend, and she did a nice job. I\u2019m sure she\u2019d like to hear it."
+            ],
+            [
+                66,
+                "I didn\u2019t mean now. Hello? Yeah, yeah, you want a cigarette. Well, I\u2019d like a normal boyfriend. Deal with it."
+            ],
+            [
+                83,
+                "Why? What happened?"
+            ],
+            [
+                85,
+                "Sheldon, that\u2019s very rude. She helped you with your show. The right thing to do is reciprocate by going to see her play."
+            ],
+            [
+                87,
+                "That better be Tootsie Rolls you\u2019re throwing at me!"
+            ],
+            [
+                130,
+                "Sadly, I\u2019m no longer associated with that project."
+            ],
+            [
+                132,
+                "Typical bureaucratic nonsense. You can get animals addicted to a harmful substance, you can dissect their brains, but you throw their own faeces back at them and suddenly you\u2019re unprofessional."
+            ],
+            [
+                140,
+                "Just so you know, this is not a stupid play. A Streetcar Named Desire is an American classic."
+            ],
+            [
+                174,
+                "Our Penny\u2019s a star."
+            ]
+        ],
+        "Stuart": [
+            [
+                107,
+                "Oh, yeah, you left with Raj."
+            ]
+        ],
+        "Penny (as Blanche DuBois) ": [
+            [
+                165,
+                "You love her very much, don\u2019t you?"
+            ]
+        ],
+        "Actor (as Mitch)": [
+            [
+                166,
+                "Yes."
+            ]
+        ],
+        "Actor": [
+            [
+                168,
+                "To be lonely?"
+            ]
+        ],
+        "Penny (as Blanche)": [
+            [
+                171,
+                "\u2026when I was a very young girl. When I was 16 years old, I made the discovery, love. All at once, and much, much too completely. It was like you suddenly turned a blinding light on something that had always been half a shadow. That\u2019s how it struck the world for me. But I was unlucky. Deluded."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "(After a \u201cpreviously on\u201d sequence) A coffee shop"
+        ],
+        [
+            "Raj",
+            "So then I went to Cambridge, which was wonderful not only because it\u2019s a good school but because it totally looks like Hogwarts. That\u2019s where I fell in love with astronomy, and now I\u2019m an astrophysicist at Caltech, so I guess you could say, uh, Raj is my name and stars are my game. And rhyming is also my game. So, uh, two games. Uh, anyway, that, that\u2019s enough about me. I want to hear everything about you."
+        ],
+        [
+            "Girl",
+            "I have to go to the bathroom."
+        ],
+        [
+            "Raj",
+            "I go to the bathroom, too. Sometimes more frequently than I care to admit. Oh, I\u2019ve had it checked out, it\u2019s nothing. Hmm. This is going great. Mmm, can I have a refill on my chai tea? Yes, I have a good feeling about this. (Girl can be seen sneaking past window and leaving) I should have bought condoms."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Hello, I\u2019m Dr. Sheldon Cooper. Welcome to Sheldon Cooper Presents Fun with Flags. My apologies that this episode is coming late. I did shoot one last week, in honour of Black History Month, but I was informed by my roommate that my spot-on portrayal of George Washington Carver could be considered wildly racist. My heart goes out to the members of the African-American community, who, like me, have been kept down by The Man. Now, Fun with Flags is not just for the flag aficionado, it\u2019s also for the flag novice, so, to help me with that, please welcome my friend, neighbour, and flag virgin, yeah, not a real virgin. She\u2019s had coitus many times. Sometimes within earshot of this flag enthusiast. Once while he was trying to watch The Incredibles. Penny."
+        ],
+        [
+            "Penny",
+            "Hello."
+        ],
+        [
+            "Sheldon",
+            "So, Penny, I understand you would like to learn more about flags."
+        ],
+        [
+            "Penny",
+            "Yeah, I can\u2019t tell you how many times I\u2019ve been at a party where everyone\u2019s talking about flags and I just couldn\u2019t join in."
+        ],
+        [
+            "Sheldon",
+            "Yeah. Well, you came to the right place."
+        ],
+        [
+            "Penny",
+            "Uh, I\u2019m sorry, can we just pause for a minute?"
+        ],
+        [
+            "Sheldon",
+            "What\u2019s wrong?"
+        ],
+        [
+            "Penny",
+            "I just think it might look more natural if you talked to me instead of the camera, you know, like, like a real conversation. It\u2019s something we work on in my acting class."
+        ],
+        [
+            "Sheldon",
+            "Interesting. A few people in the comments section have said that my delivery is robotic. Perhaps that isn\u2019t the compliment it sounds like."
+        ],
+        [
+            "Penny",
+            "Yeah, let\u2019s try it again, and maybe, this time, you could work on your body language a bit. You know, when you\u2019re all hunched like that, you\u2019re shutting the audience out, but when you\u2019re relaxed and open, you\u2019re inviting them in."
+        ],
+        [
+            "Sheldon",
+            "Right. And which one do I want?"
+        ],
+        [
+            "Penny",
+            "Let\u2019s try open."
+        ],
+        [
+            "Sheldon",
+            "If our friend, the flag, has taught me anything, it\u2019s to go where the wind takes you. As long as you remain firmly attached to a rigid pole. And, action. So, Penny, what sort of flag questions keep you awake at night?"
+        ],
+        [
+            "Penny",
+            "Um, well, I\u2019m from Nebraska. So what can you tell me about the state flag?"
+        ],
+        [
+            "Sheldon",
+            "Gosh, Penny, what\u2019d you have for breakfast? A big glass of good question juice? The Nebraska state flag is simply the state seal on a field of blue. Spread your legs, invite them in."
+        ],
+        [
+            "Scene",
+            "Outside Raj\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "I\u2019m telling you, something\u2019s wrong. I can always feel it when Raj is in trouble."
+        ],
+        [
+            "Bernadette",
+            "Geez, how close were you guys before we got married?"
+        ],
+        [
+            "Leonard",
+            "Don\u2019t look under that rock. (Knocking) Raj, you okay?"
+        ],
+        [
+            "Howard",
+            "You in there?"
+        ],
+        [
+            "Raj (off)",
+            "Go away!"
+        ],
+        [
+            "Leonard",
+            "Come on, buddy, open up."
+        ],
+        [
+            "Howard",
+            "We\u2019re worried about you."
+        ],
+        [
+            "Raj (off)",
+            "Oh, just because I\u2019ve stopped going to work and answering my phone you think something bad happened? Maybe something good happened."
+        ],
+        [
+            "Bernadette",
+            "Did something good happen?"
+        ],
+        [
+            "Raj (off)",
+            "Of course not. Nothing good ever happens. (Opens door. He is wearing a stained vest, his hair is unkempt, and he is drinking wine from a bottle.)"
+        ],
+        [
+            "Leonard",
+            "Whoa."
+        ],
+        [
+            "Raj",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "Nope, just, just, whoa."
+        ],
+        [
+            "Bernadette",
+            "It smells pretty ripe in here. You kind feel it in your eyes."
+        ],
+        [
+            "Leonard",
+            "Raj, what\u2019s going on?"
+        ],
+        [
+            "Raj",
+            "I was humiliated by yet another woman."
+        ],
+        [
+            "Howard",
+            "You didn\u2019t kill her and chop her up, that\u2019s not what we\u2019re smelling, right?"
+        ],
+        [
+            "Raj",
+            "No. I took her for coffee, and she snuck out the bathroom window to get away from me."
+        ],
+        [
+            "Bernadette",
+            "Oh, you poor baby."
+        ],
+        [
+            "Raj",
+            "I went and looked. It was a high and tiny window. She must have been very motivated."
+        ],
+        [
+            "Howard",
+            "I\u2019m sorry. That\u2019s awful, but come on, you got to shake it off."
+        ],
+        [
+            "Leonard",
+            "Yeah, you can\u2019t stay in your apartment for the rest of your life."
+        ],
+        [
+            "Raj",
+            "Why not? With online shopping and overnight delivery, I can get anything I want. Look, I just ordered a case of Dinty Moore beef stew and two live lobsters on Amazon."
+        ],
+        [
+            "Leonard",
+            "Lobsters overnight?"
+        ],
+        [
+            "Howard",
+            "Oh, you\u2019re kidding. Let me see. Well, I\u2019ll be. Look, you can throw in a couple steaks and have a surf and turf."
+        ],
+        [
+            "Leonard",
+            "The surf and turf sounds good. See if they have corn on the cob."
+        ],
+        [
+            "Bernadette",
+            "Guys, we\u2019re trying to get him out of here, not you in."
+        ],
+        [
+            "Raj",
+            "You\u2019re wasting your time. Just please, leave me alone."
+        ],
+        [
+            "Howard",
+            "Now what?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know."
+        ],
+        [
+            "Bernadette",
+            "We could go to Red Lobster and talk about it. We\u2019re all thinking it. I just had the decency to wait for him to leave."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy (on webcam)",
+            "Hello, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hello. How\u2019s the final stage of your nicotine addiction study going?"
+        ],
+        [
+            "Amy",
+            "Fine. Just hold on. Mommy\u2019s on the phone! Sorry. We\u2019ve cut the monkeys down to one cigarette a day, so things are a little intense. Makes me miss my marijuana-abusing flatworms. Those guys were mellow."
+        ],
+        [
+            "Sheldon",
+            "Good news. Uh, the latest episode of Fun with Flags is online."
+        ],
+        [
+            "Amy",
+            "Oh, that\u2019s right. How\u2019d it go with Penny?"
+        ],
+        [
+            "Sheldon",
+            "Much better than I expected. She even gave me some helpful tips about acting and body language. Watch. Welcome to my world. Not welcome to my world. Welcome. Not welcome."
+        ],
+        [
+            "Amy",
+            "Subtle, but powerful."
+        ],
+        [
+            "Sheldon",
+            "I know. I\u2019m still learning to control it."
+        ],
+        [
+            "Amy",
+            "Did you tell Penny how helpful she was?"
+        ],
+        [
+            "Sheldon",
+            "Why would I do that?"
+        ],
+        [
+            "Amy",
+            "Because she\u2019s your friend, and she did a nice job. I\u2019m sure she\u2019d like to hear it."
+        ],
+        [
+            "Sheldon",
+            "All right."
+        ],
+        [
+            "Amy",
+            "I didn\u2019t mean now. Hello? Yeah, yeah, you want a cigarette. Well, I\u2019d like a normal boyfriend. Deal with it."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Oh, hi. What\u2019s up?"
+        ],
+        [
+            "Sheldon",
+            "Um\u2026"
+        ],
+        [
+            "Penny",
+            "You need me to shut the door so you can do your knocking thing?"
+        ],
+        [
+            "Sheldon",
+            "No. I didn\u2019t start yet, it\u2019s fine."
+        ],
+        [
+            "Penny",
+            "Okay. So, what do you need?"
+        ],
+        [
+            "Sheldon",
+            "Well, I was thinking about you helping me out last night (knock, knock, knock) Penny. And I just wanted to tell you (knock, knock, knock) Penny, that the answer to the question, who did a great job? is you, (knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "Yes, you were very natural in front of the camera, and I found your suggestions extremely helpful."
+        ],
+        [
+            "Penny",
+            "Aw, sweetie, you just made my day."
+        ],
+        [
+            "Sheldon",
+            "Okay."
+        ],
+        [
+            "Penny",
+            "Hey, my acting class is putting on a play Friday night. I could put you and Amy on the guest list."
+        ],
+        [
+            "Sheldon",
+            "Oh, that sounds terrible. Why would I want to do that?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy (on webcam)",
+            "That\u2019s right. They\u2019re no good without the lighter."
+        ],
+        [
+            "Sheldon",
+            "Well, so much for your advice on complimenting Penny."
+        ],
+        [
+            "Amy",
+            "Why? What happened?"
+        ],
+        [
+            "Sheldon",
+            "She tried to rope us into going to her acting class to see a play. Don\u2019t worry. Luckily, I had the good sense to drown that kitten in the river."
+        ],
+        [
+            "Amy",
+            "Sheldon, that\u2019s very rude. She helped you with your show. The right thing to do is reciprocate by going to see her play."
+        ],
+        [
+            "Sheldon",
+            "Oh, so many crazy rules."
+        ],
+        [
+            "Amy",
+            "That better be Tootsie Rolls you\u2019re throwing at me!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny. Oh yeah, much better."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Amy pointed out to me that since you did something nice for me, I\u2019m obligated to do something nice for you. So, yes, I\u2019ll go to your dopey play."
+        ],
+        [
+            "Penny",
+            "Hey, I don\u2019t want you to go any more."
+        ],
+        [
+            "Sheldon",
+            "Why not?"
+        ],
+        [
+            "Penny",
+            "You should go \u2019cause you want to go, not because you have to."
+        ],
+        [
+            "Sheldon",
+            "Oh, Dear Lord, more rules? Where does it stop? Can I want to go because I have to want to go?"
+        ],
+        [
+            "Penny",
+            "Okay. Do whatever you want."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but now, wait. Do whatever I want? Or whatever I have to want?"
+        ],
+        [
+            "Penny",
+            "Oh, for God\u2019s sake, just come to the play."
+        ],
+        [
+            "Sheldon",
+            "All right. I don\u2019t want to, but at least that makes sense."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Sheldon",
+            "You know, I haven\u2019t seen Raj in several days. Is he no longer a part of our social group? And if so, should we be interviewing for a replacement? Perhaps, this time, we go Latin."
+        ],
+        [
+            "Howard",
+            "He\u2019s just decided he\u2019s never leaving his apartment again."
+        ],
+        [
+            "Sheldon",
+            "Oh, brilliant. I\u2019ve been itching to pull that trigger."
+        ],
+        [
+            "Howard",
+            "He\u2019s upset because he can\u2019t get anywhere with women."
+        ],
+        [
+            "Sheldon",
+            "Would it help if I gave him some pointers? I\u2019m just funnin\u2019 ya."
+        ],
+        [
+            "Girl",
+            "Hi. I don\u2019t know if you remember me, but I was here the other night at your party."
+        ],
+        [
+            "Stuart",
+            "Oh, yeah, you left with Raj."
+        ],
+        [
+            "Girl",
+            "Uh, yeah."
+        ],
+        [
+            "Howard",
+            "You\u2019re the one? Okay, let me tell you something. That guy you blew off happens to be my best friend. Okay? He was devastated."
+        ],
+        [
+            "Girl",
+            "Sorry. Can you just give him this?"
+        ],
+        [
+            "Howard",
+            "Okay. But I gotta warn you, Raj is a proud, passionate man. If you go running out on him again, you\u2019re only gonna get, like, three or four more chances before you are history."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Come on, she came back. This is good news. You should celebrate."
+        ],
+        [
+            "Raj",
+            "I don\u2019t want to celebrate."
+        ],
+        [
+            "Howard",
+            "Not even a little? I mean, we could have a pants party. Go put some on."
+        ],
+        [
+            "Raj",
+            "Why would I want her number? I don\u2019t want anything to do with this woman."
+        ],
+        [
+            "Howard",
+            "Oh, come on, Raj."
+        ],
+        [
+            "Raj",
+            "No, you don\u2019t get it. I want nothing to do with any woman. My heart is stone. From now on, I\u2019m a monk. I renounce all worldly pleasures. Except for lobster. And garlic butter."
+        ],
+        [
+            "Howard",
+            "Boy, I want to tell you it\u2019s her loss, but you are not making it easy."
+        ],
+        [
+            "Raj",
+            "You\u2019re, you\u2019re a good friend for trying to help, but, I\u2019ve made my choice."
+        ],
+        [
+            "Howard",
+            "All right. Well, I\u2019ll see you around."
+        ],
+        [
+            "Raj",
+            "See you. No, wait, take her number. I don\u2019t want the temptation."
+        ],
+        [
+            "Howard",
+            "Okay."
+        ],
+        [
+            "Raj",
+            "I must be strong so I don\u2019t stray from my true purpose, the study of the universe."
+        ],
+        [
+            "Howard",
+            "All right. Thanks for ruining lobster for me."
+        ],
+        [
+            "Scene",
+            "Outside on the street."
+        ],
+        [
+            "Raj",
+            "Wait! Give me the number! Give me the number! Give me the number!"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "So, Amy, what\u2019s going on with your addiction study?"
+        ],
+        [
+            "Amy",
+            "Sadly, I\u2019m no longer associated with that project."
+        ],
+        [
+            "Leonard",
+            "Why? What happened?"
+        ],
+        [
+            "Amy",
+            "Typical bureaucratic nonsense. You can get animals addicted to a harmful substance, you can dissect their brains, but you throw their own faeces back at them and suddenly you\u2019re unprofessional."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry. That I asked."
+        ],
+        [
+            "Sheldon",
+            "All right, let\u2019s get this stupid play over with."
+        ],
+        [
+            "Leonard",
+            "Uh, hang on. Empty your pockets."
+        ],
+        [
+            "Sheldon",
+            "Why?"
+        ],
+        [
+            "Leonard",
+            "You know why. The Nintendo DS. And the PSP. Now the Gameboy."
+        ],
+        [
+            "Sheldon",
+            "Aw, for Pete\u2019s sake. Can we go now?"
+        ],
+        [
+            "Leonard",
+            "Well, is that all of it? (Pulls a Rubik\u2019s cube from his pants.) Just set it down."
+        ],
+        [
+            "Amy",
+            "Just so you know, this is not a stupid play. A Streetcar Named Desire is an American classic."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s about streetcars? Oh, great. I won\u2019t need this. (Pulls out an etch-a-sketch.)"
+        ],
+        [
+            "Scene",
+            "Outside Raj\u2019s apartment. The girl from the comic book store knocks on the door."
+        ],
+        [
+            "Raj",
+            "Just a sec. Oh, who says just a sec? I hate myself. Hello."
+        ],
+        [
+            "Girl",
+            "Hi."
+        ],
+        [
+            "Raj",
+            "Uh, would you like to come in?"
+        ],
+        [
+            "Girl",
+            "Oh, no, I can\u2019t stay."
+        ],
+        [
+            "Raj",
+            "Oh."
+        ],
+        [
+            "Girl",
+            "I just wanted to say, I\u2019m sorry for running out of the coffee shop. That wasn\u2019t cool. So, uh, yeah. I\u2019m sorry."
+        ],
+        [
+            "Raj",
+            "Wait. Can you at least tell me what went wrong? It\u2019s okay. I can take anything. Unless it\u2019s something I did, or said, or am. \u2018Cause those are, like, my buttons."
+        ],
+        [
+            "Girl",
+            "No, it\u2019s not any of that. It\u2019s just, I kind of have a hard time around people I don\u2019t know."
+        ],
+        [
+            "Raj",
+            "Really? Then what were you doing at the comic book store that night?"
+        ],
+        [
+            "Girl",
+            "I\u2019ve been trying to force myself into situations that I\u2019m not comfortable with. I saw the flyer in the store window, and I made myself go in. I don\u2019t even like comic books."
+        ],
+        [
+            "Raj",
+            "Yeah, me neither."
+        ],
+        [
+            "Girl",
+            "Then what were you doing there?"
+        ],
+        [
+            "Raj",
+            "I lied. I love them. I only said that so you\u2019d go out with me."
+        ],
+        [
+            "Girl",
+            "Oh, you don\u2019t want to do that. I\u2019m kind of broken."
+        ],
+        [
+            "Raj",
+            "That\u2019s great. I\u2019m broken, too."
+        ],
+        [
+            "Girl",
+            "Oh, no, you\u2019re not."
+        ],
+        [
+            "Raj",
+            "Oh, I totally am. If it wasn\u2019t for this beer, I couldn\u2019t even talk to you right now. I\u2019m a wreck. There are many things seriously wrong with me. And not quirks, either. Like, diagnosable psychological problems. Maybe brain damage."
+        ],
+        [
+            "Girl",
+            "Well, how do I know you\u2019re not just saying that?"
+        ],
+        [
+            "Raj",
+            "Go out with me on one date, and I promise you, you\u2019ll see."
+        ],
+        [
+            "Girl",
+            "Okay. Text me. Bye."
+        ],
+        [
+            "Raj",
+            "You won\u2019t regret it. I\u2019m the most pathetic guy you\u2019ve ever met. And that, boys and girls, is how it\u2019s done."
+        ],
+        [
+            "Scene",
+            "The theatre."
+        ],
+        [
+            "Penny (as Blanche DuBois) ",
+            "You love her very much, don\u2019t you?"
+        ],
+        [
+            "Actor (as Mitch)",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "I think you have a great capacity for devotion. You\u2019ll be lonely when she passes on, won\u2019t you? I understand what that is."
+        ],
+        [
+            "Actor",
+            "To be lonely?"
+        ],
+        [
+            "Leonard",
+            "She\u2019s pretty good, huh?"
+        ],
+        [
+            "Sheldon",
+            "She is. But when do they get to the part about streetcars?"
+        ],
+        [
+            "Penny (as Blanche)",
+            "\u2026when I was a very young girl. When I was 16 years old, I made the discovery, love. All at once, and much, much too completely. It was like you suddenly turned a blinding light on something that had always been half a shadow. That\u2019s how it struck the world for me. But I was unlucky. Deluded."
+        ],
+        [
+            "Sheldon",
+            "She\u2019s remarkable."
+        ],
+        [
+            "Leonard",
+            "She really is."
+        ],
+        [
+            "Amy",
+            "Our Penny\u2019s a star."
+        ],
+        [
+            "Sheldon",
+            "How can she remember all those lines, but as a waitress, she can\u2019t remember no tomato on my hamburger?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-17-the-monster-isolation/"
+}

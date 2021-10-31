@@ -1,0 +1,2066 @@
+{
+    "Season": 7,
+    "Episode": 9,
+    "Title": "the thanksgiving decoupling",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                27,
+                "Credits sequence."
+            ],
+            [
+                28,
+                "The apartment."
+            ],
+            [
+                50,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                56,
+                "Mrs Wolowitz"
+            ],
+            [
+                57,
+                "Howard"
+            ],
+            [
+                60,
+                "Mrs Wolowitz"
+            ],
+            [
+                67,
+                "Leonard\u2019s car. "
+            ],
+            [
+                85,
+                "Mrs Wolowitz\u2019s kitchen."
+            ],
+            [
+                95,
+                "The living room."
+            ],
+            [
+                108,
+                "The kitchen."
+            ],
+            [
+                115,
+                "The living room."
+            ],
+            [
+                146,
+                "Mrs Wolowitz"
+            ],
+            [
+                147,
+                "The dining room."
+            ],
+            [
+                157,
+                "The living room."
+            ],
+            [
+                179,
+                "The kitchen."
+            ],
+            [
+                197,
+                "The dining room."
+            ],
+            [
+                222,
+                "The living room."
+            ],
+            [
+                223,
+                "Sheldon"
+            ],
+            [
+                225,
+                "Mrs Wolowitz"
+            ],
+            [
+                240,
+                "The dining room."
+            ],
+            [
+                246,
+                "Mrs Wolowitz"
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "The math is all there. It\u2019s not real."
+            ],
+            [
+                8,
+                "Were you drunk?"
+            ],
+            [
+                10,
+                "I think you\u2019re the one who fell over."
+            ],
+            [
+                20,
+                "It\u2019d actually be nice to not hear Sheldon complain about my cooking all day."
+            ],
+            [
+                22,
+                "I want to go."
+            ],
+            [
+                35,
+                "You did?"
+            ],
+            [
+                37,
+                "Wait, you went to a chapel?"
+            ],
+            [
+                39,
+                "Why? "
+            ],
+            [
+                41,
+                "Penny, you know those are real, right?"
+            ],
+            [
+                43,
+                "Yeah, they are."
+            ],
+            [
+                45,
+                "Yeah, they are."
+            ],
+            [
+                72,
+                "I can\u2019t believe you\u2019re married to that idiot."
+            ],
+            [
+                74,
+                "Well, a goof or not, you\u2019re actually married. You need to get this taken care of."
+            ],
+            [
+                78,
+                "I\u2019m hoping you can get an annulment. It\u2019s just like it never happened."
+            ],
+            [
+                105,
+                "Oh, she\u2019s mad at me because she just found out she\u2019s married to Zack."
+            ],
+            [
+                119,
+                "Okay, I found the, uh, court papers that you and Zack need to fill out. I\u2019ll print them when we get home."
+            ],
+            [
+                121,
+                "And we can just put this whole thing behind us."
+            ],
+            [
+                123,
+                "What?"
+            ],
+            [
+                125,
+                "Why are you mad at me? You\u2019re the one that did the stupid thing. I\u2019m just trying to fix it."
+            ],
+            [
+                127,
+                "Wuh, Penny."
+            ],
+            [
+                130,
+                "How am I the bad guy? She\u2019s the one who married someone else. I\u2019m the victim."
+            ],
+            [
+                133,
+                "Sure."
+            ],
+            [
+                139,
+                "Wait, you invited him here?"
+            ],
+            [
+                142,
+                "Come on."
+            ],
+            [
+                148,
+                "I just don\u2019t understand why you invited him here today."
+            ],
+            [
+                153,
+                "Well, you might have to cook for one more because she invited Zack."
+            ],
+            [
+                198,
+                "Sorry she made you come over here on a holiday."
+            ],
+            [
+                201,
+                "Yeah, uh, you guys have to sign here and here. On Monday, we\u2019ll file for the annulment, and this marriage will be over."
+            ],
+            [
+                205,
+                "Why won\u2019t you sign it?"
+            ],
+            [
+                211,
+                "You married him instead of me? Good call. Sign the papers."
+            ],
+            [
+                213,
+                "That is not true."
+            ],
+            [
+                215,
+                "You\u2019re the one who invited him here."
+            ],
+            [
+                218,
+                "Yeah, well, she\u2019s not gonna be your wife for long."
+            ],
+            [
+                248,
+                "I\u2019m sorry, too."
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "Yes, it is."
+            ],
+            [
+                5,
+                "Oh, stop it. I\u2019ve seen you eat, like, a million hamburgers."
+            ],
+            [
+                7,
+                "Look, I\u2019m telling you I\u2019ve done it, okay? I clearly remember the cow standing up and then the cow on its side."
+            ],
+            [
+                9,
+                "I was 16 in Nebraska. What do you think?"
+            ],
+            [
+                11,
+                "That would explain why the sky was also on its side."
+            ],
+            [
+                13,
+                "Howard. Cow tipping. Real or not?"
+            ],
+            [
+                17,
+                "Uh, we were actually gonna do it here."
+            ],
+            [
+                23,
+                "Yeah, me, too."
+            ],
+            [
+                34,
+                "Sheldon, you can have a nice Thanksgiving anywhere. I spent one in Vegas."
+            ],
+            [
+                36,
+                "Yeah, back when I was dating Zack. It was actually more fun than I thought. We gambled, we went to one of those cheesy wedding chapels, we had a really good turkey dinner. Which was surprising, since we were at a strip club."
+            ],
+            [
+                38,
+                "Yeah. "
+            ],
+            [
+                40,
+                "We had one of those silly fake weddings."
+            ],
+            [
+                42,
+                "No, they\u2019re not."
+            ],
+            [
+                44,
+                "No, they\u2019re not."
+            ],
+            [
+                48,
+                "But it didn\u2019t seem real."
+            ],
+            [
+                73,
+                "Ugh, would you stop? We just did it as a goof."
+            ],
+            [
+                75,
+                "I will. Why are you making this such a big deal?"
+            ],
+            [
+                77,
+                "So how do I undo this?"
+            ],
+            [
+                79,
+                "Great, well, what do I have to do?"
+            ],
+            [
+                83,
+                "Want of understanding? What does that even mean?"
+            ],
+            [
+                103,
+                "Here. Thank you for having us."
+            ],
+            [
+                107,
+                "I can\u2019t believe I felt bad for opening this in the car."
+            ],
+            [
+                120,
+                "Fine."
+            ],
+            [
+                122,
+                "Are you done?"
+            ],
+            [
+                124,
+                "Look, I get it, I screwed up. Is this all we\u2019re gonna talk about the rest of the day?"
+            ],
+            [
+                126,
+                "Ugh, I need some air."
+            ],
+            [
+                138,
+                "Well, you\u2019ll be happy to know I just spoke to Zack and he\u2019s willing to sign the court papers. He\u2019s on his way here now."
+            ],
+            [
+                140,
+                "Yeah. "
+            ],
+            [
+                149,
+                "Because you wouldn\u2019t shut up about it. When I called him, he had nothing to do, so I just thought it would\u2026"
+            ],
+            [
+                151,
+                "Oh, sorry. We\u2019ll keep it down."
+            ],
+            [
+                200,
+                "Yeah, okay, great. Can we just get this over with?"
+            ],
+            [
+                202,
+                "Okay."
+            ],
+            [
+                207,
+                "We don\u2019t have any kids."
+            ],
+            [
+                209,
+                "Okay, look, Zack, come on. You know neither of us thought this was real. I mean, we were married by an Elvis impersonator."
+            ],
+            [
+                212,
+                "Hang on. You know what? You have been a jerk about this all day. You always do this, whenever I mess up, you\u2019re right there to make me feel even worse about it."
+            ],
+            [
+                214,
+                "Yeah, we could\u2019ve waited till Monday, signed the papers, this all would have been over."
+            ],
+            [
+                216,
+                "Oh, there you go again, just another mistake you\u2019re throwing in my face."
+            ],
+            [
+                220,
+                "I\u2019m about to. Sign the paper."
+            ],
+            [
+                247,
+                "Hey, I\u2019m sorry about today. And I promise, next time I get married, it won\u2019t be a joke. It\u2019ll be for love. Or money."
+            ]
+        ],
+        "Sheldon": [
+            [
+                3,
+                "Yeah,uh, look, it is scientifically impossible for a person to tip a cow. Even you, with your stocky build and lumberjack shoulders, you couldn\u2019t do it."
+            ],
+            [
+                15,
+                "Mmm. You know, I\u2019ve been told that a bald refusal of an invitation is rude and one must instead offer up a polite excuse, so I\u2019d love to go, but, unfortunately, that sounds awful."
+            ],
+            [
+                19,
+                "Oh, since you put it that way, I\u2019d love to go, but that sounds even more awful."
+            ],
+            [
+                21,
+                "Uh, excuse me, but every year you prepare a terrible meal and every year I criticize it. Do our traditions mean nothing to you?"
+            ],
+            [
+                26,
+                "Ugh, fine, I\u2019ll go. But if her food is delicious, Thanksgiving is ruined, and it\u2019s on you."
+            ],
+            [
+                29,
+                "Do we really have to go to Mrs. Wolowitz\u2019s house?"
+            ],
+            [
+                31,
+                "Now I know how the African slaves felt. Being dragged from their homes to labour under the yoke of the white man."
+            ],
+            [
+                33,
+                "Yes."
+            ],
+            [
+                46,
+                "He\u2019s right."
+            ],
+            [
+                49,
+                "Let me ask you a question. At any point, was Las Vegas on its side?"
+            ],
+            [
+                69,
+                "Yes. Like we\u2019re on a ship. Coming from Africa to America."
+            ],
+            [
+                71,
+                "Yes, Miss Amy."
+            ],
+            [
+                76,
+                "Oh, oh, oh, I have a reason. It could be because you said yes to marrying Zack, but every time Leonard\u2019s proposed, he\u2019s gotten a resounding no. Yeah, that\u2019s just off the top of my head."
+            ],
+            [
+                81,
+                "Hah!Penny? Next."
+            ],
+            [
+                101,
+                "It smells wonderful. Is anyone slaving away in the kitchen? Because I, too, know\u2026"
+            ],
+            [
+                128,
+                "I don\u2019t know the first thing about women, but I would not follow her."
+            ],
+            [
+                135,
+                "They passed against a nickel defence. They should have run it off-tackle."
+            ],
+            [
+                137,
+                "My father loved football. He always made me watch it before I was allowed to do my homework."
+            ],
+            [
+                144,
+                "I would throw a quick slant to a wideout, given that the defence is showing blitz."
+            ],
+            [
+                158,
+                "I don\u2019t care for your mother\u2019s bathroom. There\u2019s not an angle to do one\u2019s business without a clown figurine staring at you."
+            ],
+            [
+                161,
+                "1993. Leon Lett blew the game in the final seconds and the Dolphins emerged victorious. Then I finally got to do my calculus."
+            ],
+            [
+                163,
+                "So was my dad. And then he did."
+            ],
+            [
+                168,
+                "No. He died when I was 14."
+            ],
+            [
+                170,
+                "So was the man who owned the local liquor store. He cried and cried."
+            ],
+            [
+                173,
+                "No, sir. He did try to give me one for my high school graduation, but I was 11 and my mom said no."
+            ],
+            [
+                175,
+                "All right."
+            ],
+            [
+                178,
+                "Do you mind? We\u2019re having a moment here."
+            ],
+            [
+                227,
+                "All I know is you can only fit one of her in a car. And there\u2019s the clown that came out of her. I really didn\u2019t want to come here, but this is shaping up to be one of the best Thanksgivings I\u2019ve had in a long time."
+            ],
+            [
+                230,
+                "She\u2019s so tiny. It\u2019s funny when she\u2019s mad."
+            ],
+            [
+                232,
+                "Perhaps you\u2019re right. I\u2019m sorry for my behaviour. I\u2019ve had alcohol, and it\u2019s caused me to be inappropriate."
+            ],
+            [
+                236,
+                "Ain\u2019t she great? "
+            ],
+            [
+                239,
+                "Now, how\u2019s about you get us a couple of beers?"
+            ],
+            [
+                245,
+                "This is a Jewish house. I don\u2019t think they have pigskin."
+            ],
+            [
+                253,
+                "I just vomited on a lot of clowns."
+            ]
+        ],
+        "Raj": [
+            [
+                4,
+                "It\u2019s horrible. Why would you push a cow over? They\u2019re sacred."
+            ],
+            [
+                6,
+                "Hey, an animal can be both sacred and delicious."
+            ],
+            [
+                24,
+                "I\u2019m in."
+            ],
+            [
+                87,
+                "Ah, no problem. It wouldn\u2019t be Thanksgiving without an Indian providing the food. Uh, now, where does your mom keep the Crisco?"
+            ],
+            [
+                110,
+                "Uh, yeah, can you, uh, reach that, uh, gravy boat up there?"
+            ],
+            [
+                112,
+                "Great. That makes one of you. Okay, we have a lot to do and not much time to do it. Bernadette, you\u2019re on corn, gravy and yam detail. Amy, you\u2019re on rolls, cranberries and making sure Bernadette stays away from the marshmallows. That\u2019s right, I see you. Okay, if you have any questions, I\u2019ll be over here basting my ass off. Focus is key."
+            ],
+            [
+                150,
+                "Hey, guys, I\u2019m trying to cook in here."
+            ],
+            [
+                152,
+                "No, no, speak up. I\u2019m about to use the blender, and I don\u2019t want to miss anything."
+            ],
+            [
+                156,
+                "My, my. The plot, like my gravy, thickens."
+            ],
+            [
+                181,
+                "Wonder what she saw in that guy."
+            ],
+            [
+                184,
+                "Hmm. Wonder what she sees in Leonard."
+            ],
+            [
+                195,
+                "Stir the gravy. "
+            ],
+            [
+                243,
+                "Well, I couldn\u2019t have done it without my two favourite girls. Martha Stewart and Rachael Ray."
+            ]
+        ],
+        "Howard": [
+            [
+                12,
+                "Hey."
+            ],
+            [
+                14,
+                "Mmm. I\u2019m gonna say not. That\u2019s just based on me trying to roll my mom over when she\u2019s snoring. Speaking of that big side of beef, uh, she\u2019s invited all of you to Thanksgiving at her house."
+            ],
+            [
+                16,
+                "Come on, it\u2019ll be fun."
+            ],
+            [
+                18,
+                "Please? Bernadette\u2019s bringing her dad \u2019cause her mom\u2019s out of town, and I never have anything to say to that guy."
+            ],
+            [
+                25,
+                "Sheldon."
+            ],
+            [
+                59,
+                "Oh, her gout\u2019s flaring up. Turns out an apple pie a day does not keep the doctor away."
+            ],
+            [
+                61,
+                "Maybe because that little piggy is being crushed by the barn. She should quiet down soon. I gave her enough pain meds to choke a, well, her."
+            ],
+            [
+                63,
+                "I have a better idea."
+            ],
+            [
+                65,
+                "I was gonna make Raj do it all by himself."
+            ],
+            [
+                88,
+                "Um, I don\u2019t know. Probably in a wad in her cheek."
+            ],
+            [
+                90,
+                "He doesn\u2019t want me in there. I\u2019m the creepy little guy who has sex with his daughter."
+            ],
+            [
+                92,
+                "Does he?"
+            ],
+            [
+                94,
+                "Really?"
+            ],
+            [
+                97,
+                "So your wife\u2019s in Arizona with the grandkids?"
+            ],
+            [
+                99,
+                "You know, my mom\u2019s been to Arizona. She rode one of those mules down in the Grand Canyon. Long story short, they had to shoot it. \u2018Cause she\u2019s so fat. I\u2019ll get the door while you finish laughing. Hey, guys."
+            ],
+            [
+                104,
+                "What\u2019s with you?"
+            ],
+            [
+                106,
+                "Really? That dumb-ass she used to date? That\u2019s hysterical."
+            ],
+            [
+                116,
+                "You ever play football?"
+            ],
+            [
+                118,
+                "No. But I did get tackled in the hallway once. The whole school cheered."
+            ],
+            [
+                131,
+                "Sounds like Zack\u2019s the victim. You\u2019re sleeping with his wife."
+            ],
+            [
+                145,
+                "Oh, I love a good blitz, especially with sour cream. Get it? \u2018Cause it sounds like blintz."
+            ],
+            [
+                159,
+                "That\u2019s why I sit."
+            ],
+            [
+                164,
+                "Anyone need a beer?"
+            ],
+            [
+                166,
+                "Thank God."
+            ],
+            [
+                171,
+                "Here you go."
+            ],
+            [
+                177,
+                "I never had a beer with my dad, either."
+            ],
+            [
+                186,
+                "Sheldon and your dad are bonding and completely ignoring me."
+            ],
+            [
+                189,
+                "They\u2019re drinking beer and watching football. "
+            ],
+            [
+                191,
+                "They don\u2019t want me."
+            ],
+            [
+                193,
+                "Well, Sheldon started talking about how his dad isn\u2019t alive any more, and they were toasting, and I tried to tell them about how sad I was when my dad abandoned\u2026"
+            ],
+            [
+                234,
+                "Don\u2019t worry about it."
+            ],
+            [
+                251,
+                "Mike, that\u2019s the nicest thing you\u2019ve ever said to me."
+            ]
+        ],
+        "Amy": [
+            [
+                30,
+                "We do. And I expect you to be on your best behaviour."
+            ],
+            [
+                32,
+                "Are you honestly comparing Thanksgiving dinner at Wolowitz\u2019s mom\u2019s with one of the greatest tragedies in the history of mankind?"
+            ],
+            [
+                47,
+                "They\u2019re real."
+            ],
+            [
+                68,
+                "No traffic, we\u2019re sailing."
+            ],
+            [
+                70,
+                "Sheldon, that\u2019s completely inappropriate. You can\u2019t keep comparing yourself to a slave."
+            ],
+            [
+                80,
+                "It says here you can get an annulment if any of the following conditions are met. Were you unable to consummate the marriage?"
+            ],
+            [
+                82,
+                "Is there any evidence of fraud, bigamy, want of understanding?"
+            ],
+            [
+                84,
+                "Ding, ding, ding. We have a winner."
+            ],
+            [
+                100,
+                "Happy Thanksgiving."
+            ],
+            [
+                102,
+                "Sheldon."
+            ],
+            [
+                109,
+                "You need any help?"
+            ],
+            [
+                111,
+                "Uh, sure."
+            ],
+            [
+                113,
+                "Did you guys know Penny married Zack three years ago?"
+            ],
+            [
+                155,
+                "Ooh!"
+            ],
+            [
+                180,
+                "I can\u2019t believe Penny\u2019s married to Zack."
+            ],
+            [
+                183,
+                "Broad shoulders, good hair."
+            ],
+            [
+                187,
+                "I know how you feel. Sheldon ignored me for a week when he got that Roomba vacuum. I kick it when he\u2019s not looking."
+            ],
+            [
+                194,
+                "Zack\u2019s here!"
+            ],
+            [
+                231,
+                "All right, mister, I think you owe Howard and Bernadette an apology."
+            ],
+            [
+                235,
+                "Thank you."
+            ],
+            [
+                238,
+                "Sheldon."
+            ],
+            [
+                242,
+                "Yeah, everything was delicious."
+            ]
+        ],
+        "Bernadette": [
+            [
+                51,
+                "Hi, Dad."
+            ],
+            [
+                53,
+                "Oh, you brought beer for everybody."
+            ],
+            [
+                55,
+                "You can have a quiet day and watch the game here."
+            ],
+            [
+                62,
+                "I guess we\u2019re gonna have to do all the cooking."
+            ],
+            [
+                64,
+                "If you think you\u2019re gonna make me do all this by myself, you\u2019re crazy."
+            ],
+            [
+                66,
+                "Oh, well, that\u2019s a great idea."
+            ],
+            [
+                86,
+                "Thanks for saving the day."
+            ],
+            [
+                89,
+                "I\u2019ll help Raj in here. Why don\u2019t you go keep my dad company?"
+            ],
+            [
+                91,
+                "Don\u2019t be silly, he loves you."
+            ],
+            [
+                93,
+                "Okay, he cares about you a lot."
+            ],
+            [
+                96,
+                "I do crap for you all the time. Get out there."
+            ],
+            [
+                154,
+                "What?"
+            ],
+            [
+                182,
+                "I don\u2019t know. He\u2019s sweet, he\u2019s tall, handsome. "
+            ],
+            [
+                185,
+                "How\u2019s it going out there?"
+            ],
+            [
+                188,
+                "What are they doing?"
+            ],
+            [
+                190,
+                "So why don\u2019t you do that with them?"
+            ],
+            [
+                192,
+                "What do you mean?"
+            ],
+            [
+                196,
+                "Sorry. I really want to hear how sad you are. I\u2019ll be back in like five, ten minutes."
+            ],
+            [
+                229,
+                "Hey. Howie says you\u2019ve been making fun of him all day. Now, both of you apologize right now."
+            ],
+            [
+                233,
+                "It\u2019s okay."
+            ],
+            [
+                241,
+                "Thanks again for cooking."
+            ]
+        ],
+        "Mike": [
+            [
+                52,
+                "Hi, honey."
+            ],
+            [
+                54,
+                "Uh, okay, yeah, it\u2019s for everybody. I really just wanted to have a nice, quiet day at home and watch the game."
+            ],
+            [
+                58,
+                "Thanks. What\u2019s wrong with your mom?"
+            ],
+            [
+                98,
+                "Uh-huh."
+            ],
+            [
+                117,
+                "A little in college. You?"
+            ],
+            [
+                129,
+                "Listen to Stretch."
+            ],
+            [
+                132,
+                "I\u2019ve kept my marriage together for 35 years. Can I weigh in here?"
+            ],
+            [
+                134,
+                "I\u2019m trying to watch the game. Shut up. Oh, how do you not make a first down there?"
+            ],
+            [
+                136,
+                "How the hell do you know that?"
+            ],
+            [
+                141,
+                "I\u2019m getting ready to weigh in again."
+            ],
+            [
+                143,
+                "What do you think they ought to do now?"
+            ],
+            [
+                160,
+                "Yeah, that\u2019s why. You remember the Thanksgiving game when it snowed in Dallas?"
+            ],
+            [
+                162,
+                "I was so pissed, I wanted to shoot my TV."
+            ],
+            [
+                165,
+                "Yeah."
+            ],
+            [
+                167,
+                "So, does your dad still live in Texas?"
+            ],
+            [
+                169,
+                "I\u2019m sorry to hear that."
+            ],
+            [
+                172,
+                "Oh, thanks. So, if your dad died when you were 14, you were never old enough to have a beer with the man."
+            ],
+            [
+                174,
+                "Well, you\u2019re having one with me."
+            ],
+            [
+                176,
+                "To your dad."
+            ],
+            [
+                224,
+                "That is not what I expected when you said you were gonna burp pie."
+            ],
+            [
+                226,
+                "I don\u2019t know what\u2019s scarier, the bathroom clowns or the woman that put them there."
+            ],
+            [
+                228,
+                "Me, too."
+            ],
+            [
+                237,
+                "Mmm."
+            ],
+            [
+                244,
+                "Hey, Sheldon, what do you say we go outside and throw around the old pigskin?"
+            ],
+            [
+                250,
+                "I know I\u2019m hard on you, but you\u2019re not the worst son-in-law in the world."
+            ],
+            [
+                252,
+                "Well, I\u2019m drunk."
+            ]
+        ],
+        "Together": [
+            [
+                114,
+                "What?"
+            ]
+        ],
+        "Zack": [
+            [
+                199,
+                "It\u2019s all right. I didn\u2019t have anything going on. Plus, Penny told me we\u2019re married, and Thanksgiving\u2019s a time to be with family."
+            ],
+            [
+                203,
+                "I don\u2019t know if I want to sign it."
+            ],
+            [
+                206,
+                "I just think splitting up can be rough on kids."
+            ],
+            [
+                208,
+                "Are you sure? \u2018Cause you didn\u2019t know we were married until this morning."
+            ],
+            [
+                210,
+                "Of course it was an impersonator. We could never afford a real Elvis."
+            ],
+            [
+                217,
+                "Not cool, bro. I\u2019m starting to think you\u2019re not the kind of guy I want dating my wife."
+            ],
+            [
+                219,
+                "Oh, no. Are you dying?"
+            ],
+            [
+                221,
+                "Know what they say, happy wife, happy life. Let\u2019s eat."
+            ],
+            [
+                249,
+                "Don\u2019t be. It\u2019s my fault. I was a terrible husband. I was never around."
+            ]
+        ],
+        "Raj, Bernadette and Amy": [
+            [
+                204,
+                "Ooh."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "The math is all there. It\u2019s not real."
+        ],
+        [
+            "Penny",
+            "Yes, it is."
+        ],
+        [
+            "Sheldon",
+            "Yeah,uh, look, it is scientifically impossible for a person to tip a cow. Even you, with your stocky build and lumberjack shoulders, you couldn\u2019t do it."
+        ],
+        [
+            "Raj",
+            "It\u2019s horrible. Why would you push a cow over? They\u2019re sacred."
+        ],
+        [
+            "Penny",
+            "Oh, stop it. I\u2019ve seen you eat, like, a million hamburgers."
+        ],
+        [
+            "Raj",
+            "Hey, an animal can be both sacred and delicious."
+        ],
+        [
+            "Penny",
+            "Look, I\u2019m telling you I\u2019ve done it, okay? I clearly remember the cow standing up and then the cow on its side."
+        ],
+        [
+            "Leonard",
+            "Were you drunk?"
+        ],
+        [
+            "Penny",
+            "I was 16 in Nebraska. What do you think?"
+        ],
+        [
+            "Leonard",
+            "I think you\u2019re the one who fell over."
+        ],
+        [
+            "Penny",
+            "That would explain why the sky was also on its side."
+        ],
+        [
+            "Howard",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "Howard. Cow tipping. Real or not?"
+        ],
+        [
+            "Howard",
+            "Mmm. I\u2019m gonna say not. That\u2019s just based on me trying to roll my mom over when she\u2019s snoring. Speaking of that big side of beef, uh, she\u2019s invited all of you to Thanksgiving at her house."
+        ],
+        [
+            "Sheldon",
+            "Mmm. You know, I\u2019ve been told that a bald refusal of an invitation is rude and one must instead offer up a polite excuse, so I\u2019d love to go, but, unfortunately, that sounds awful."
+        ],
+        [
+            "Howard",
+            "Come on, it\u2019ll be fun."
+        ],
+        [
+            "Penny",
+            "Uh, we were actually gonna do it here."
+        ],
+        [
+            "Howard",
+            "Please? Bernadette\u2019s bringing her dad \u2019cause her mom\u2019s out of town, and I never have anything to say to that guy."
+        ],
+        [
+            "Sheldon",
+            "Oh, since you put it that way, I\u2019d love to go, but that sounds even more awful."
+        ],
+        [
+            "Leonard",
+            "It\u2019d actually be nice to not hear Sheldon complain about my cooking all day."
+        ],
+        [
+            "Sheldon",
+            "Uh, excuse me, but every year you prepare a terrible meal and every year I criticize it. Do our traditions mean nothing to you?"
+        ],
+        [
+            "Leonard",
+            "I want to go."
+        ],
+        [
+            "Penny",
+            "Yeah, me, too."
+        ],
+        [
+            "Raj",
+            "I\u2019m in."
+        ],
+        [
+            "Howard",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Ugh, fine, I\u2019ll go. But if her food is delicious, Thanksgiving is ruined, and it\u2019s on you."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Do we really have to go to Mrs. Wolowitz\u2019s house?"
+        ],
+        [
+            "Amy",
+            "We do. And I expect you to be on your best behaviour."
+        ],
+        [
+            "Sheldon",
+            "Now I know how the African slaves felt. Being dragged from their homes to labour under the yoke of the white man."
+        ],
+        [
+            "Amy",
+            "Are you honestly comparing Thanksgiving dinner at Wolowitz\u2019s mom\u2019s with one of the greatest tragedies in the history of mankind?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "Sheldon, you can have a nice Thanksgiving anywhere. I spent one in Vegas."
+        ],
+        [
+            "Leonard",
+            "You did?"
+        ],
+        [
+            "Penny",
+            "Yeah, back when I was dating Zack. It was actually more fun than I thought. We gambled, we went to one of those cheesy wedding chapels, we had a really good turkey dinner. Which was surprising, since we were at a strip club."
+        ],
+        [
+            "Leonard",
+            "Wait, you went to a chapel?"
+        ],
+        [
+            "Penny",
+            "Yeah. "
+        ],
+        [
+            "Leonard",
+            "Why? "
+        ],
+        [
+            "Penny",
+            "We had one of those silly fake weddings."
+        ],
+        [
+            "Leonard",
+            "Penny, you know those are real, right?"
+        ],
+        [
+            "Penny",
+            "No, they\u2019re not."
+        ],
+        [
+            "Leonard",
+            "Yeah, they are."
+        ],
+        [
+            "Penny",
+            "No, they\u2019re not."
+        ],
+        [
+            "Leonard",
+            "Yeah, they are."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s right."
+        ],
+        [
+            "Amy",
+            "They\u2019re real."
+        ],
+        [
+            "Penny",
+            "But it didn\u2019t seem real."
+        ],
+        [
+            "Sheldon",
+            "Let me ask you a question. At any point, was Las Vegas on its side?"
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Bernadette",
+            "Hi, Dad."
+        ],
+        [
+            "Mike",
+            "Hi, honey."
+        ],
+        [
+            "Bernadette",
+            "Oh, you brought beer for everybody."
+        ],
+        [
+            "Mike",
+            "Uh, okay, yeah, it\u2019s for everybody. I really just wanted to have a nice, quiet day at home and watch the game."
+        ],
+        [
+            "Bernadette",
+            "You can have a quiet day and watch the game here."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz"
+        ],
+        [
+            "Scene",
+            "Howard"
+        ],
+        [
+            "Mike",
+            "Thanks. What\u2019s wrong with your mom?"
+        ],
+        [
+            "Howard",
+            "Oh, her gout\u2019s flaring up. Turns out an apple pie a day does not keep the doctor away."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz"
+        ],
+        [
+            "Howard",
+            "Maybe because that little piggy is being crushed by the barn. She should quiet down soon. I gave her enough pain meds to choke a, well, her."
+        ],
+        [
+            "Bernadette",
+            "I guess we\u2019re gonna have to do all the cooking."
+        ],
+        [
+            "Howard",
+            "I have a better idea."
+        ],
+        [
+            "Bernadette",
+            "If you think you\u2019re gonna make me do all this by myself, you\u2019re crazy."
+        ],
+        [
+            "Howard",
+            "I was gonna make Raj do it all by himself."
+        ],
+        [
+            "Bernadette",
+            "Oh, well, that\u2019s a great idea."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car. "
+        ],
+        [
+            "Amy",
+            "No traffic, we\u2019re sailing."
+        ],
+        [
+            "Sheldon",
+            "Yes. Like we\u2019re on a ship. Coming from Africa to America."
+        ],
+        [
+            "Amy",
+            "Sheldon, that\u2019s completely inappropriate. You can\u2019t keep comparing yourself to a slave."
+        ],
+        [
+            "Sheldon",
+            "Yes, Miss Amy."
+        ],
+        [
+            "Leonard",
+            "I can\u2019t believe you\u2019re married to that idiot."
+        ],
+        [
+            "Penny",
+            "Ugh, would you stop? We just did it as a goof."
+        ],
+        [
+            "Leonard",
+            "Well, a goof or not, you\u2019re actually married. You need to get this taken care of."
+        ],
+        [
+            "Penny",
+            "I will. Why are you making this such a big deal?"
+        ],
+        [
+            "Sheldon",
+            "Oh, oh, oh, I have a reason. It could be because you said yes to marrying Zack, but every time Leonard\u2019s proposed, he\u2019s gotten a resounding no. Yeah, that\u2019s just off the top of my head."
+        ],
+        [
+            "Penny",
+            "So how do I undo this?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m hoping you can get an annulment. It\u2019s just like it never happened."
+        ],
+        [
+            "Penny",
+            "Great, well, what do I have to do?"
+        ],
+        [
+            "Amy",
+            "It says here you can get an annulment if any of the following conditions are met. Were you unable to consummate the marriage?"
+        ],
+        [
+            "Sheldon",
+            "Hah!Penny? Next."
+        ],
+        [
+            "Amy",
+            "Is there any evidence of fraud, bigamy, want of understanding?"
+        ],
+        [
+            "Penny",
+            "Want of understanding? What does that even mean?"
+        ],
+        [
+            "Amy",
+            "Ding, ding, ding. We have a winner."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s kitchen."
+        ],
+        [
+            "Bernadette",
+            "Thanks for saving the day."
+        ],
+        [
+            "Raj",
+            "Ah, no problem. It wouldn\u2019t be Thanksgiving without an Indian providing the food. Uh, now, where does your mom keep the Crisco?"
+        ],
+        [
+            "Howard",
+            "Um, I don\u2019t know. Probably in a wad in her cheek."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll help Raj in here. Why don\u2019t you go keep my dad company?"
+        ],
+        [
+            "Howard",
+            "He doesn\u2019t want me in there. I\u2019m the creepy little guy who has sex with his daughter."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t be silly, he loves you."
+        ],
+        [
+            "Howard",
+            "Does he?"
+        ],
+        [
+            "Bernadette",
+            "Okay, he cares about you a lot."
+        ],
+        [
+            "Howard",
+            "Really?"
+        ],
+        [
+            "Scene",
+            "The living room."
+        ],
+        [
+            "Bernadette",
+            "I do crap for you all the time. Get out there."
+        ],
+        [
+            "Howard",
+            "So your wife\u2019s in Arizona with the grandkids?"
+        ],
+        [
+            "Mike",
+            "Uh-huh."
+        ],
+        [
+            "Howard",
+            "You know, my mom\u2019s been to Arizona. She rode one of those mules down in the Grand Canyon. Long story short, they had to shoot it. \u2018Cause she\u2019s so fat. I\u2019ll get the door while you finish laughing. Hey, guys."
+        ],
+        [
+            "Amy",
+            "Happy Thanksgiving."
+        ],
+        [
+            "Sheldon",
+            "It smells wonderful. Is anyone slaving away in the kitchen? Because I, too, know\u2026"
+        ],
+        [
+            "Amy",
+            "Sheldon."
+        ],
+        [
+            "Penny",
+            "Here. Thank you for having us."
+        ],
+        [
+            "Howard",
+            "What\u2019s with you?"
+        ],
+        [
+            "Leonard",
+            "Oh, she\u2019s mad at me because she just found out she\u2019s married to Zack."
+        ],
+        [
+            "Howard",
+            "Really? That dumb-ass she used to date? That\u2019s hysterical."
+        ],
+        [
+            "Penny",
+            "I can\u2019t believe I felt bad for opening this in the car."
+        ],
+        [
+            "Scene",
+            "The kitchen."
+        ],
+        [
+            "Amy",
+            "You need any help?"
+        ],
+        [
+            "Raj",
+            "Uh, yeah, can you, uh, reach that, uh, gravy boat up there?"
+        ],
+        [
+            "Amy",
+            "Uh, sure."
+        ],
+        [
+            "Raj",
+            "Great. That makes one of you. Okay, we have a lot to do and not much time to do it. Bernadette, you\u2019re on corn, gravy and yam detail. Amy, you\u2019re on rolls, cranberries and making sure Bernadette stays away from the marshmallows. That\u2019s right, I see you. Okay, if you have any questions, I\u2019ll be over here basting my ass off. Focus is key."
+        ],
+        [
+            "Amy",
+            "Did you guys know Penny married Zack three years ago?"
+        ],
+        [
+            "Together",
+            "What?"
+        ],
+        [
+            "Scene",
+            "The living room."
+        ],
+        [
+            "Howard",
+            "You ever play football?"
+        ],
+        [
+            "Mike",
+            "A little in college. You?"
+        ],
+        [
+            "Howard",
+            "No. But I did get tackled in the hallway once. The whole school cheered."
+        ],
+        [
+            "Leonard",
+            "Okay, I found the, uh, court papers that you and Zack need to fill out. I\u2019ll print them when we get home."
+        ],
+        [
+            "Penny",
+            "Fine."
+        ],
+        [
+            "Leonard",
+            "And we can just put this whole thing behind us."
+        ],
+        [
+            "Penny",
+            "Are you done?"
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Look, I get it, I screwed up. Is this all we\u2019re gonna talk about the rest of the day?"
+        ],
+        [
+            "Leonard",
+            "Why are you mad at me? You\u2019re the one that did the stupid thing. I\u2019m just trying to fix it."
+        ],
+        [
+            "Penny",
+            "Ugh, I need some air."
+        ],
+        [
+            "Leonard",
+            "Wuh, Penny."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know the first thing about women, but I would not follow her."
+        ],
+        [
+            "Mike",
+            "Listen to Stretch."
+        ],
+        [
+            "Leonard",
+            "How am I the bad guy? She\u2019s the one who married someone else. I\u2019m the victim."
+        ],
+        [
+            "Howard",
+            "Sounds like Zack\u2019s the victim. You\u2019re sleeping with his wife."
+        ],
+        [
+            "Mike",
+            "I\u2019ve kept my marriage together for 35 years. Can I weigh in here?"
+        ],
+        [
+            "Leonard",
+            "Sure."
+        ],
+        [
+            "Mike",
+            "I\u2019m trying to watch the game. Shut up. Oh, how do you not make a first down there?"
+        ],
+        [
+            "Sheldon",
+            "They passed against a nickel defence. They should have run it off-tackle."
+        ],
+        [
+            "Mike",
+            "How the hell do you know that?"
+        ],
+        [
+            "Sheldon",
+            "My father loved football. He always made me watch it before I was allowed to do my homework."
+        ],
+        [
+            "Penny",
+            "Well, you\u2019ll be happy to know I just spoke to Zack and he\u2019s willing to sign the court papers. He\u2019s on his way here now."
+        ],
+        [
+            "Leonard",
+            "Wait, you invited him here?"
+        ],
+        [
+            "Penny",
+            "Yeah. "
+        ],
+        [
+            "Mike",
+            "I\u2019m getting ready to weigh in again."
+        ],
+        [
+            "Leonard",
+            "Come on."
+        ],
+        [
+            "Mike",
+            "What do you think they ought to do now?"
+        ],
+        [
+            "Sheldon",
+            "I would throw a quick slant to a wideout, given that the defence is showing blitz."
+        ],
+        [
+            "Howard",
+            "Oh, I love a good blitz, especially with sour cream. Get it? \u2018Cause it sounds like blintz."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz"
+        ],
+        [
+            "Scene",
+            "The dining room."
+        ],
+        [
+            "Leonard",
+            "I just don\u2019t understand why you invited him here today."
+        ],
+        [
+            "Penny",
+            "Because you wouldn\u2019t shut up about it. When I called him, he had nothing to do, so I just thought it would\u2026"
+        ],
+        [
+            "Raj",
+            "Hey, guys, I\u2019m trying to cook in here."
+        ],
+        [
+            "Penny",
+            "Oh, sorry. We\u2019ll keep it down."
+        ],
+        [
+            "Raj",
+            "No, no, speak up. I\u2019m about to use the blender, and I don\u2019t want to miss anything."
+        ],
+        [
+            "Leonard",
+            "Well, you might have to cook for one more because she invited Zack."
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Amy",
+            "Ooh!"
+        ],
+        [
+            "Raj",
+            "My, my. The plot, like my gravy, thickens."
+        ],
+        [
+            "Scene",
+            "The living room."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t care for your mother\u2019s bathroom. There\u2019s not an angle to do one\u2019s business without a clown figurine staring at you."
+        ],
+        [
+            "Howard",
+            "That\u2019s why I sit."
+        ],
+        [
+            "Mike",
+            "Yeah, that\u2019s why. You remember the Thanksgiving game when it snowed in Dallas?"
+        ],
+        [
+            "Sheldon",
+            "1993. Leon Lett blew the game in the final seconds and the Dolphins emerged victorious. Then I finally got to do my calculus."
+        ],
+        [
+            "Mike",
+            "I was so pissed, I wanted to shoot my TV."
+        ],
+        [
+            "Sheldon",
+            "So was my dad. And then he did."
+        ],
+        [
+            "Howard",
+            "Anyone need a beer?"
+        ],
+        [
+            "Mike",
+            "Yeah."
+        ],
+        [
+            "Howard",
+            "Thank God."
+        ],
+        [
+            "Mike",
+            "So, does your dad still live in Texas?"
+        ],
+        [
+            "Sheldon",
+            "No. He died when I was 14."
+        ],
+        [
+            "Mike",
+            "I\u2019m sorry to hear that."
+        ],
+        [
+            "Sheldon",
+            "So was the man who owned the local liquor store. He cried and cried."
+        ],
+        [
+            "Howard",
+            "Here you go."
+        ],
+        [
+            "Mike",
+            "Oh, thanks. So, if your dad died when you were 14, you were never old enough to have a beer with the man."
+        ],
+        [
+            "Sheldon",
+            "No, sir. He did try to give me one for my high school graduation, but I was 11 and my mom said no."
+        ],
+        [
+            "Mike",
+            "Well, you\u2019re having one with me."
+        ],
+        [
+            "Sheldon",
+            "All right."
+        ],
+        [
+            "Mike",
+            "To your dad."
+        ],
+        [
+            "Howard",
+            "I never had a beer with my dad, either."
+        ],
+        [
+            "Sheldon",
+            "Do you mind? We\u2019re having a moment here."
+        ],
+        [
+            "Scene",
+            "The kitchen."
+        ],
+        [
+            "Amy",
+            "I can\u2019t believe Penny\u2019s married to Zack."
+        ],
+        [
+            "Raj",
+            "Wonder what she saw in that guy."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know. He\u2019s sweet, he\u2019s tall, handsome. "
+        ],
+        [
+            "Amy",
+            "Broad shoulders, good hair."
+        ],
+        [
+            "Raj",
+            "Hmm. Wonder what she sees in Leonard."
+        ],
+        [
+            "Bernadette",
+            "How\u2019s it going out there?"
+        ],
+        [
+            "Howard",
+            "Sheldon and your dad are bonding and completely ignoring me."
+        ],
+        [
+            "Amy",
+            "I know how you feel. Sheldon ignored me for a week when he got that Roomba vacuum. I kick it when he\u2019s not looking."
+        ],
+        [
+            "Bernadette",
+            "What are they doing?"
+        ],
+        [
+            "Howard",
+            "They\u2019re drinking beer and watching football. "
+        ],
+        [
+            "Bernadette",
+            "So why don\u2019t you do that with them?"
+        ],
+        [
+            "Howard",
+            "They don\u2019t want me."
+        ],
+        [
+            "Bernadette",
+            "What do you mean?"
+        ],
+        [
+            "Howard",
+            "Well, Sheldon started talking about how his dad isn\u2019t alive any more, and they were toasting, and I tried to tell them about how sad I was when my dad abandoned\u2026"
+        ],
+        [
+            "Amy",
+            "Zack\u2019s here!"
+        ],
+        [
+            "Raj",
+            "Stir the gravy. "
+        ],
+        [
+            "Bernadette",
+            "Sorry. I really want to hear how sad you are. I\u2019ll be back in like five, ten minutes."
+        ],
+        [
+            "Scene",
+            "The dining room."
+        ],
+        [
+            "Leonard",
+            "Sorry she made you come over here on a holiday."
+        ],
+        [
+            "Zack",
+            "It\u2019s all right. I didn\u2019t have anything going on. Plus, Penny told me we\u2019re married, and Thanksgiving\u2019s a time to be with family."
+        ],
+        [
+            "Penny",
+            "Yeah, okay, great. Can we just get this over with?"
+        ],
+        [
+            "Leonard",
+            "Yeah, uh, you guys have to sign here and here. On Monday, we\u2019ll file for the annulment, and this marriage will be over."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Zack",
+            "I don\u2019t know if I want to sign it."
+        ],
+        [
+            "Raj, Bernadette and Amy",
+            "Ooh."
+        ],
+        [
+            "Leonard",
+            "Why won\u2019t you sign it?"
+        ],
+        [
+            "Zack",
+            "I just think splitting up can be rough on kids."
+        ],
+        [
+            "Penny",
+            "We don\u2019t have any kids."
+        ],
+        [
+            "Zack",
+            "Are you sure? \u2018Cause you didn\u2019t know we were married until this morning."
+        ],
+        [
+            "Penny",
+            "Okay, look, Zack, come on. You know neither of us thought this was real. I mean, we were married by an Elvis impersonator."
+        ],
+        [
+            "Zack",
+            "Of course it was an impersonator. We could never afford a real Elvis."
+        ],
+        [
+            "Leonard",
+            "You married him instead of me? Good call. Sign the papers."
+        ],
+        [
+            "Penny",
+            "Hang on. You know what? You have been a jerk about this all day. You always do this, whenever I mess up, you\u2019re right there to make me feel even worse about it."
+        ],
+        [
+            "Leonard",
+            "That is not true."
+        ],
+        [
+            "Penny",
+            "Yeah, we could\u2019ve waited till Monday, signed the papers, this all would have been over."
+        ],
+        [
+            "Leonard",
+            "You\u2019re the one who invited him here."
+        ],
+        [
+            "Penny",
+            "Oh, there you go again, just another mistake you\u2019re throwing in my face."
+        ],
+        [
+            "Zack",
+            "Not cool, bro. I\u2019m starting to think you\u2019re not the kind of guy I want dating my wife."
+        ],
+        [
+            "Leonard",
+            "Yeah, well, she\u2019s not gonna be your wife for long."
+        ],
+        [
+            "Zack",
+            "Oh, no. Are you dying?"
+        ],
+        [
+            "Penny",
+            "I\u2019m about to. Sign the paper."
+        ],
+        [
+            "Zack",
+            "Know what they say, happy wife, happy life. Let\u2019s eat."
+        ],
+        [
+            "Scene",
+            "The living room."
+        ],
+        [
+            "Scene",
+            "Sheldon"
+        ],
+        [
+            "Mike",
+            "That is not what I expected when you said you were gonna burp pie."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz"
+        ],
+        [
+            "Mike",
+            "I don\u2019t know what\u2019s scarier, the bathroom clowns or the woman that put them there."
+        ],
+        [
+            "Sheldon",
+            "All I know is you can only fit one of her in a car. And there\u2019s the clown that came out of her. I really didn\u2019t want to come here, but this is shaping up to be one of the best Thanksgivings I\u2019ve had in a long time."
+        ],
+        [
+            "Mike",
+            "Me, too."
+        ],
+        [
+            "Bernadette",
+            "Hey. Howie says you\u2019ve been making fun of him all day. Now, both of you apologize right now."
+        ],
+        [
+            "Sheldon",
+            "She\u2019s so tiny. It\u2019s funny when she\u2019s mad."
+        ],
+        [
+            "Amy",
+            "All right, mister, I think you owe Howard and Bernadette an apology."
+        ],
+        [
+            "Sheldon",
+            "Perhaps you\u2019re right. I\u2019m sorry for my behaviour. I\u2019ve had alcohol, and it\u2019s caused me to be inappropriate."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s okay."
+        ],
+        [
+            "Howard",
+            "Don\u2019t worry about it."
+        ],
+        [
+            "Amy",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Ain\u2019t she great? "
+        ],
+        [
+            "Mike",
+            "Mmm."
+        ],
+        [
+            "Amy",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Now, how\u2019s about you get us a couple of beers?"
+        ],
+        [
+            "Scene",
+            "The dining room."
+        ],
+        [
+            "Bernadette",
+            "Thanks again for cooking."
+        ],
+        [
+            "Amy",
+            "Yeah, everything was delicious."
+        ],
+        [
+            "Raj",
+            "Well, I couldn\u2019t have done it without my two favourite girls. Martha Stewart and Rachael Ray."
+        ],
+        [
+            "Mike",
+            "Hey, Sheldon, what do you say we go outside and throw around the old pigskin?"
+        ],
+        [
+            "Sheldon",
+            "This is a Jewish house. I don\u2019t think they have pigskin."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz"
+        ],
+        [
+            "Penny",
+            "Hey, I\u2019m sorry about today. And I promise, next time I get married, it won\u2019t be a joke. It\u2019ll be for love. Or money."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, too."
+        ],
+        [
+            "Zack",
+            "Don\u2019t be. It\u2019s my fault. I was a terrible husband. I was never around."
+        ],
+        [
+            "Mike",
+            "I know I\u2019m hard on you, but you\u2019re not the worst son-in-law in the world."
+        ],
+        [
+            "Howard",
+            "Mike, that\u2019s the nicest thing you\u2019ve ever said to me."
+        ],
+        [
+            "Mike",
+            "Well, I\u2019m drunk."
+        ],
+        [
+            "Sheldon",
+            "I just vomited on a lot of clowns."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-09-the-thanksgiving-decoupling/"
+}

@@ -1,0 +1,2022 @@
+{
+    "Season": 2,
+    "Episode": 23,
+    "Title": "the monopolar expedition",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. Leonard is working on a whiteboard."
+            ],
+            [
+                15,
+                "Credits sequence."
+            ],
+            [
+                16,
+                "Outside Leonard\u2019s bedroom."
+            ],
+            [
+                46,
+                "The stairwell."
+            ],
+            [
+                84,
+                "Outside Penny\u2019s door."
+            ],
+            [
+                138,
+                "Inside the cheesecake factory freezer."
+            ],
+            [
+                155,
+                "The apartment kitchen."
+            ],
+            [
+                186,
+                "Sheldon\u2019s bedroom. Sheldon is asleep. There is a knock on the door."
+            ],
+            [
+                211,
+                "Outside Penny\u2019s door. Leonard is knocking."
+            ],
+            [
+                229,
+                "The North Pole."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Oh, boy."
+            ],
+            [
+                3,
+                "I can\u2019t comment without violating our agreement that I don\u2019t criticize your work."
+            ],
+            [
+                5,
+                "Great restraint on my part."
+            ],
+            [
+                7,
+                "Perhaps you mean a different thing than I do when you say science."
+            ],
+            [
+                9,
+                "You actually had it right in the first place. Once again, you\u2019ve fallen for one of my classic pranks. Bazinga! Well, now here\u2019s a peculiar e-mail. The president of the university wants me to meet him at his office tomorrow morning at 8 a.m."
+            ],
+            [
+                13,
+                "That\u2019s 14 hours away. For the next 840 minutes, I\u2019m effectively one of Heisenberg\u2019s particles, I know where I am or I know how fast I\u2019m going, but I can\u2019t know both. Yet how am I supposed to carry on with this huge annoying thing hovering over my head?"
+            ],
+            [
+                17,
+                "(Knock, knock, knock) Leonard. (Knock, knock, knock) Leonard. (Knock, knock, knock) Leonard."
+            ],
+            [
+                19,
+                "Why is everybody keep telling me what time it is?"
+            ],
+            [
+                21,
+                "You, the president of the university, his wife, their sullen teenage daughter. That entire family is fascinated by what time it is and whether people know it."
+            ],
+            [
+                23,
+                "He didn\u2019t respond to my e-mail, his phone number is unlisted. Tell me what my other option was."
+            ],
+            [
+                25,
+                "Do you remember the grant proposal I submitted to the National Science Foundation to detect slow-moving monopoles at the magnetic North Pole?"
+            ],
+            [
+                27,
+                "Aw, how nice. Well, a space opened up at the last minute on the NSF expedition to the Arctic Circle."
+            ],
+            [
+                29,
+                "Yes. In fact, he was quite enthusiastic. He said, \u201cFrankly, if I could send you tonight, I would.\u201d"
+            ],
+            [
+                31,
+                "Of course not. I\u2019m a theoretical physicist, a career I chose in no small part because it\u2019s indoors, but if I\u2019m able to detect slow-moving magnetic monopoles there, I will be the scientist to confirm string theory. People will write books about me. Third-graders will create macaroni-art dioramas depicting scenes from my life."
+            ],
+            [
+                33,
+                "Sarcasm?"
+            ],
+            [
+                35,
+                "I\u2019m on the horns of a dilemma. Can you imagine me, Sheldon Cooper, at the North Pole?"
+            ],
+            [
+                37,
+                "I\u2019m not good with cold, Leonard. How often have we had to leave a movie theatre because I got a headache from drinking the Icee too fast? I can\u2019t go."
+            ],
+            [
+                39,
+                "How can you say that? The scientific opportunity of a lifetime presents itself and my best friend says don\u2019t go."
+            ],
+            [
+                41,
+                "Listen to you. How can I possibly go?"
+            ],
+            [
+                43,
+                "Odd, President Seibert posed the exact same question."
+            ],
+            [
+                45,
+                "It wasn\u2019t. His wife set their dogs on me and rendered the question moot."
+            ],
+            [
+                52,
+                "Good news, gentlemen, I have tentatively accepted\u2026"
+            ],
+            [
+                54,
+                "\u2026the invitation to join the Arctic Expedition."
+            ],
+            [
+                57,
+                "Thank you, but your sentiments may be premature."
+            ],
+            [
+                59,
+                "I would like to propose that the three of you accompany me."
+            ],
+            [
+                61,
+                "Yes."
+            ],
+            [
+                63,
+                "I\u2019ll admit that was a concern. But the fact is, I\u2019ll need a support team. And the three of you are my first choice."
+            ],
+            [
+                65,
+                "Well, there are others who might be more qualified, but the thought of interviewing them gave me a stomach ache. Now, I know I\u2019m proposing an enormous undertaking, so why don\u2019t you take a few moments to discuss it?"
+            ],
+            [
+                79,
+                "Well, gentlemen, have you reached a decision?"
+            ],
+            [
+                83,
+                "Excellent. And just an FYI, as I am the expedition\u2019s team leader, protocol dictates that be phrased fine, sir. But don\u2019t worry, there will be a briefing."
+            ],
+            [
+                85,
+                "(Knock, knock, knock) Penny."
+            ],
+            [
+                88,
+                "(Knock, knock, knock) Penny."
+            ],
+            [
+                91,
+                "(Knock, knock, knock) Penny."
+            ],
+            [
+                94,
+                "(Knock, knock, knock) Penny."
+            ],
+            [
+                97,
+                "(Knock, knock, knock) Penny."
+            ],
+            [
+                100,
+                "(Knock, knock, knock) Penny."
+            ],
+            [
+                103,
+                "(Knock, knock, knock) Penny."
+            ],
+            [
+                105,
+                "I need access to the Cheesecake Factory\u2019s walk-in freezer."
+            ],
+            [
+                107,
+                "No. This is to train for a three-month expedition to the magnetic North Pole."
+            ],
+            [
+                109,
+                "I don\u2019t know how that sentence could possibly confuse you, but to elaborate, I\u2019m going to the Arctic Circle with Leonard, Wolowitz and Koothrappali."
+            ],
+            [
+                111,
+                "Yes."
+            ],
+            [
+                113,
+                "Yes."
+            ],
+            [
+                115,
+                "Is that a yes or a no on the freezer? The woman has the attention span of a gnat."
+            ],
+            [
+                123,
+                "Yes, yes, you were busy, you were surprised, all very fascinating. Now where do we stand on the freezer?"
+            ],
+            [
+                128,
+                "I\u2019m sorry, but at what point do you put this see what you can do plan into action?"
+            ],
+            [
+                131,
+                "No. Did she seem upset to you?"
+            ],
+            [
+                133,
+                "Oh, good, I got it right. Are you upset?"
+            ],
+            [
+                135,
+                "Two for two. I\u2019m on fire."
+            ],
+            [
+                137,
+                "That feels like a bonus question. I\u2019m going to stop here while I\u2019m ahead, but I\u2019ve had a great time."
+            ],
+            [
+                140,
+                "Alright, now the purpose of this drill is to acclimate us to the use of tools in extreme temperatures such as we will face in the Arctic Circle."
+            ],
+            [
+                144,
+                "And begin."
+            ],
+            [
+                147,
+                "Adversity is to be expected. Continue."
+            ],
+            [
+                151,
+                "Gentlemen, use your imagination. Innovate. Did Han Solo let Luke Skywalker freeze to death on the ice planet of Hoth? No. He cut open a tauntaun and used its internal body heat to warm him up."
+            ],
+            [
+                154,
+                "I hadn\u2019t thought of that. I guess we\u2019re done here."
+            ],
+            [
+                157,
+                "Here, drink slash eat this."
+            ],
+            [
+                159,
+                "It\u2019s hot chocolate with a stick of butter."
+            ],
+            [
+                161,
+                "Because in the frigid temperatures in the Arctic, we need to consume at least 5,000 calories a day just to maintain our body weight."
+            ],
+            [
+                163,
+                "Way ahead of you, that\u2019s an \u201cI Can\u2019t Believe It\u2019s Not Butter\u201d stick."
+            ],
+            [
+                171,
+                "That\u2019s very unlikely, Mrs. Koothrappali. If Raj dies, it\u2019ll be from frostbite, gangrene, acute sunburn or being ripped to shreds by a fifteen hundred pound polar bear."
+            ],
+            [
+                188,
+                "I want a cookie, Meemaw."
+            ],
+            [
+                190,
+                "But Meemaw just made cookies."
+            ],
+            [
+                192,
+                "What?"
+            ],
+            [
+                194,
+                "Okay, Leonard, I know you\u2019re concerned about disappointing me but I want you to take comfort from the knowledge that my expectations of you are very low."
+            ],
+            [
+                196,
+                "Comforting is a part of leadership. It\u2019s not a part I care for, but such is my burden."
+            ],
+            [
+                198,
+                "Assuming that\u2019s a valid reason not to go, which it isn\u2019t, how do you know this? Did she say it?"
+            ],
+            [
+                200,
+                "What is it?"
+            ],
+            [
+                202,
+                "Oh, that\u2019s clever. Let me see if I understand this correctly. Her missing you is an emotional state you find desirable?"
+            ],
+            [
+                204,
+                "All right. Well, given that missing you is predicated on you leaving, logic dictates you must leave."
+            ],
+            [
+                206,
+                "She does have a short attention span."
+            ],
+            [
+                208,
+                "Leonard, you may be right. It appears that Penny secretly wants you in her life in a very intimate and carnal fashion."
+            ],
+            [
+                210,
+                "Of course not. Even in my sleep-deprived state, I\u2019ve managed to pull off another one of my classic pranks. Bazinga!"
+            ],
+            [
+                233,
+                "All right, men, we begin initial assembly and deployment of the testing equipment starting tomorrow at 0700 hours, but until then, you are all off duty. I suggest you keep the shenanigans to a minimum as medical help is 18 hours away by dogsled."
+            ],
+            [
+                239,
+                "It is remarkable."
+            ],
+            [
+                244,
+                "What are we having?"
+            ],
+            [
+                246,
+                "Did you bring the dehydrated low-sodium soy sauce?"
+            ],
+            [
+                248,
+                "Freeze-dried spicy mustard?"
+            ],
+            [
+                250,
+                "Flash-frozen brown rice, not white?"
+            ],
+            [
+                252,
+                "Not to worry. I hid it. Bazinga! You\u2019re in my spot."
+            ],
+            [
+                254,
+                "Three months. This is gonna be great!"
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "What?"
+            ],
+            [
+                4,
+                "Then what was oh, boy?"
+            ],
+            [
+                6,
+                "There\u2019s nothing wrong with the science here."
+            ],
+            [
+                10,
+                "Why?"
+            ],
+            [
+                12,
+                "Yes, how did we live before Twitter? I guess you\u2019ll find out what it is in the morning."
+            ],
+            [
+                14,
+                "Yeah, I know the feeling."
+            ],
+            [
+                18,
+                "Sheldon, it\u2019s two o\u2019clock in the morning."
+            ],
+            [
+                20,
+                "Everybody?"
+            ],
+            [
+                22,
+                "You went to President Seibert\u2019s house in the middle of the night?"
+            ],
+            [
+                24,
+                "You could have waited until morning. I know, look who I\u2019m talking to."
+            ],
+            [
+                26,
+                "Hardly a day goes by when I don\u2019t think about it."
+            ],
+            [
+                28,
+                "Wait a minute. He offered to send you to the North Pole?"
+            ],
+            [
+                30,
+                "Okay, well, do you want to go?"
+            ],
+            [
+                32,
+                "Sure, maybe a tableau of me trying to pummel you to death."
+            ],
+            [
+                34,
+                "Maybe."
+            ],
+            [
+                36,
+                "Easy peasy, I\u2019m doing it right now."
+            ],
+            [
+                38,
+                "Well, then don\u2019t go."
+            ],
+            [
+                40,
+                "All right, then go."
+            ],
+            [
+                42,
+                "Sheldon, what are the words I can say right now to end this conversation and let me go back to sleep?"
+            ],
+            [
+                44,
+                "How was it resolved?"
+            ],
+            [
+                55,
+                "It\u2019s not gonna be the same without you."
+            ],
+            [
+                69,
+                "Hang on. Let\u2019s talk about it. This is a National Science Foundation expedition. I don\u2019t know how we can turn it down."
+            ],
+            [
+                72,
+                "Howard, this is big science. You could be the engineer who builds the equipment that puts us on the cover of magazines."
+            ],
+            [
+                76,
+                "Yes."
+            ],
+            [
+                80,
+                "I\u2019m in."
+            ],
+            [
+                117,
+                "Hi."
+            ],
+            [
+                119,
+                "Yeah. Pretty cool, huh?"
+            ],
+            [
+                121,
+                "Oh, well, it all happened kind of fast, and we had to get physicals and buy thermal underwear and study up on, you know, snow and stuff. Sorry, I was gonna tell you."
+            ],
+            [
+                125,
+                "Actually, it would help."
+            ],
+            [
+                127,
+                "Yeah."
+            ],
+            [
+                130,
+                "Did she seem upset to you?"
+            ],
+            [
+                132,
+                "No."
+            ],
+            [
+                134,
+                "A little bit."
+            ],
+            [
+                136,
+                "I mean, I know she\u2019s not my girlfriend or anything, but wouldn\u2019t you think she\u2019d feel a little bad that I\u2019m going to be gone for the whole summer?"
+            ],
+            [
+                146,
+                "I can\u2019t press any of the buttons with my gloves. Oh, son of a bitch!"
+            ],
+            [
+                149,
+                "Okay, I can\u2019t do this."
+            ],
+            [
+                153,
+                "Hang on, I know I don\u2019t possess the tools of leadership, but I don\u2019t understand why we can\u2019t assemble the equipment inside the hut and then take it outside."
+            ],
+            [
+                158,
+                "What is it?"
+            ],
+            [
+                162,
+                "Sheldon, you know I can\u2019t eat butter. I\u2019m lactose intolerant."
+            ],
+            [
+                177,
+                "Sure, but let\u2019s go out here where there\u2019s a little less yelling and guilt. What\u2019s up?"
+            ],
+            [
+                179,
+                "Oh, a blanket."
+            ],
+            [
+                181,
+                "Oh, wow, cool."
+            ],
+            [
+                183,
+                "Bye."
+            ],
+            [
+                187,
+                "Sheldon, Sheldon?"
+            ],
+            [
+                189,
+                "Sheldon, it\u2019s me."
+            ],
+            [
+                191,
+                "Listen, I don\u2019t know if I can go on the expedition."
+            ],
+            [
+                193,
+                "I don\u2019t think I can go to the North Pole."
+            ],
+            [
+                195,
+                "Yeah, that\u2019s very comforting."
+            ],
+            [
+                197,
+                "Terrific, it\u2019s just that I don\u2019t think Penny wants me to go."
+            ],
+            [
+                199,
+                "Not exactly. But she said she was gonna miss me and she gave me this."
+            ],
+            [
+                201,
+                "It\u2019s a blanket with sleeves."
+            ],
+            [
+                203,
+                "Yes, obviously."
+            ],
+            [
+                205,
+                "Yes, okay, but I\u2019m gonna be gone for three months. What if she doesn\u2019t miss me that long and she meets someone else?"
+            ],
+            [
+                207,
+                "So, I can\u2019t go."
+            ],
+            [
+                209,
+                "You really think so?"
+            ],
+            [
+                213,
+                "It\u2019s 7 a.m. I\u2019m sorry it\u2019s early, but we\u2019re leaving soon, and I needed to talk to you."
+            ],
+            [
+                215,
+                "What did you mean when you said you\u2019re going to miss me?"
+            ],
+            [
+                219,
+                "All right, fine. What about that really long hug? What did that mean?"
+            ],
+            [
+                221,
+                "It was at least five Mississippis. A standard hug is two Mississippis tops."
+            ],
+            [
+                223,
+                "Glad we cleared that up."
+            ],
+            [
+                225,
+                "I guess I\u2019ll see you."
+            ],
+            [
+                227,
+                "Thank you. Bye."
+            ],
+            [
+                230,
+                "Damn it."
+            ],
+            [
+                232,
+                "We\u2019re out of ice."
+            ],
+            [
+                236,
+                "Hey, guys, can I just say something? How about we take a moment to think about where we are right now? This is literally the top of the world. Only a handful of people in all of human history will ever see what we are going to see."
+            ],
+            [
+                243,
+                "Dinner\u2019s ready!"
+            ],
+            [
+                245,
+                "Reconstituted Thai food."
+            ],
+            [
+                247,
+                "Check."
+            ],
+            [
+                249,
+                "Check."
+            ],
+            [
+                251,
+                "Uh, oh, sorry."
+            ]
+        ],
+        "Leonard (making a change)": [
+            [
+                8,
+                "Okay, how\u2019s that?"
+            ]
+        ],
+        "Sheldon: It doesn\u2019t say. It must be an emergency. Everyone at the university knows I eat breakfast at eight and move my bowels at 8": [
+            [
+                11,
+                "20."
+            ]
+        ],
+        "Howard": [
+            [
+                47,
+                "Just imagine. If he says yes, we\u2019ll have an entire summer without Sheldon."
+            ],
+            [
+                49,
+                "We could sit on the left side of the couch."
+            ],
+            [
+                56,
+                "Godspeed."
+            ],
+            [
+                60,
+                "To the North Pole?"
+            ],
+            [
+                64,
+                "Really?"
+            ],
+            [
+                66,
+                "We\u2019re not really gonna go to the North Pole with him, are we?"
+            ],
+            [
+                68,
+                "We\u2019re not really gonna go to the North Pole with him, are we?"
+            ],
+            [
+                70,
+                "Easy. Instead of saying, no, we don\u2019t want to go on an NSF expedition, say, no, we don\u2019t want to spend \u201cthree months stuck in a cabin in the Arctic Circle with an anal nutbag.\u201d"
+            ],
+            [
+                73,
+                "I could also be the engineer who builds the crossbow that kills Sheldon."
+            ],
+            [
+                75,
+                "So you guys are seriously considering this?"
+            ],
+            [
+                77,
+                "And you think you can put up with Sheldon?"
+            ],
+            [
+                82,
+                "Oh, damn it. Peer pressure. Fine."
+            ],
+            [
+                143,
+                "For this I went to MIT."
+            ],
+            [
+                148,
+                "Oh, boy, am I gonna get sued."
+            ],
+            [
+                152,
+                "You heard the man. Hold him down and I\u2019ll cut him open."
+            ],
+            [
+                160,
+                "Okay, why?"
+            ],
+            [
+                169,
+                "Doctor and Mrs. Koothrappali, namaste. I understand your concern, but if it\u2019ll make you feel any better, my mother is fine with me going, and this is a woman who kept a safety rail on my bed until I was 17."
+            ],
+            [
+                172,
+                "Ma, I\u2019m putting you on speakerphone with Raj\u2019s parents. Can you tell them that you\u2019re okay with me going to the Arctic?"
+            ],
+            [
+                174,
+                "I didn\u2019t say that. You never listen to me!"
+            ],
+            [
+                231,
+                "What?"
+            ],
+            [
+                235,
+                "Crossbow."
+            ],
+            [
+                238,
+                "Yeah, wow."
+            ],
+            [
+                241,
+                "Good idea, what do you think? Ice Station Zebra or John Carpenter\u2019s The Thing?"
+            ],
+            [
+                253,
+                "There\u2019s no time for a crossbow. Find me an icicle."
+            ]
+        ],
+        "Raj": [
+            [
+                48,
+                "We could play outside."
+            ],
+            [
+                51,
+                "Our dreams are very small, aren\u2019t they?"
+            ],
+            [
+                58,
+                "Ooh, I don\u2019t like where this is going."
+            ],
+            [
+                62,
+                "Is this just so we won\u2019t touch your stuff while you\u2019re away?"
+            ],
+            [
+                71,
+                "But if we were part of the team that confirmed string theory, we could drink for free in any bar in any college town with a university that has a strong science program."
+            ],
+            [
+                74,
+                "You still might get on a magazine."
+            ],
+            [
+                78,
+                "Well, I\u2019m a Hindu. My religion teaches that if we suffer in this life we are rewarded in the next. Three months at the North Pole with Sheldon and I\u2019m reborn as a well-hung billionaire with wings!"
+            ],
+            [
+                81,
+                "Me, too."
+            ],
+            [
+                141,
+                "Where are your tools?"
+            ],
+            [
+                145,
+                "I think I swallowed some paint!"
+            ],
+            [
+                150,
+                "Me either."
+            ],
+            [
+                166,
+                "If you were standing behind me nagging, I might."
+            ],
+            [
+                168,
+                "No, it\u2019s not. Howard, tell them."
+            ],
+            [
+                234,
+                "What are you working on?"
+            ],
+            [
+                237,
+                "He\u2019s right."
+            ],
+            [
+                240,
+                "So, who\u2019s up for a movie?"
+            ],
+            [
+                242,
+                "I say double feature."
+            ]
+        ],
+        "Leonard: I could use the bathroom at 8": [
+            [
+                50,
+                "20."
+            ]
+        ],
+        "All": [
+            [
+                53,
+                "Yeah! Woo-hoo!"
+            ]
+        ],
+        "Sheldon (voice)": [
+            [
+                67,
+                "I\u2019m still within earshot! You may want to wait for my door to close."
+            ]
+        ],
+        "Penny": [
+            [
+                86,
+                "(Knock, knock, knock) Sheldon."
+            ],
+            [
+                89,
+                "(Knock, knock, knock) Sheldon."
+            ],
+            [
+                92,
+                "(Knock, knock, knock) Sheldon."
+            ],
+            [
+                95,
+                "(Knock, knock, knock) Sheldon."
+            ],
+            [
+                98,
+                "(Knock, knock, knock) Sheldon."
+            ],
+            [
+                101,
+                "(Knock, knock, knock) Sheldon."
+            ],
+            [
+                104,
+                "What do you want?"
+            ],
+            [
+                106,
+                "Now, honey, I already told you, the hamburger meat is fresh and stored at a safe temperature."
+            ],
+            [
+                108,
+                "What?"
+            ],
+            [
+                110,
+                "You\u2019re all going?"
+            ],
+            [
+                112,
+                "For three months?"
+            ],
+            [
+                114,
+                "Excuse me."
+            ],
+            [
+                116,
+                "Hey, Leonard."
+            ],
+            [
+                118,
+                "Sheldon says you\u2019re going to the North Pole."
+            ],
+            [
+                120,
+                "Yeah. I\u2019m just a little surprised you didn\u2019t tell me."
+            ],
+            [
+                122,
+                "Oh, hey, no, you don\u2019t have to apologize. There\u2019s no reason you have to tell me. I was just, you know, surprised."
+            ],
+            [
+                124,
+                "Is he serious?"
+            ],
+            [
+                126,
+                "All right, I\u2019ll see what I can do. So, three months at the North Pole. Wow, that is awesome."
+            ],
+            [
+                129,
+                "Just a warning, Sheldon, the freezer locks from the outside."
+            ],
+            [
+                178,
+                "Well, I got you a little going away present."
+            ],
+            [
+                180,
+                "Oh, no, no, no, not just a blanket. See, it has sleeves. Yeah! \u00a0So, you can, you know, be all snoodled up while you do your science stuff."
+            ],
+            [
+                182,
+                "Oh, I\u2019m gonna miss you. (She hugs him for a long time) See you later."
+            ],
+            [
+                212,
+                "Oh, Leonard, what time is it?"
+            ],
+            [
+                214,
+                "Okay."
+            ],
+            [
+                216,
+                "Um, I don\u2019t know. You\u2019ll be gone and I\u2019ll notice."
+            ],
+            [
+                218,
+                "Wine, credit card and late night television are a bad combination."
+            ],
+            [
+                220,
+                "That wasn\u2019t a long hug."
+            ],
+            [
+                222,
+                "Leonard, I don\u2019t know what to tell you. It was just a hug."
+            ],
+            [
+                224,
+                "Yeah."
+            ],
+            [
+                226,
+                "Okay, have a safe trip."
+            ],
+            [
+                228,
+                "Okay, bye. (Penny closes door. To herself) Means I wish you weren\u2019t going."
+            ]
+        ],
+        "Sheldon (pointing at his brain)": [
+            [
+                142,
+                "Right here. All right, team, open up your practice kits. As the university did not permit me to bring the actual equipment we\u2019ll be using to the Cheesecake Factory, because apparently I\u2019m \u201cridiculous,\u201d I\u2019ve provided substitutes which will exercise your fine motor skills. Leonard, you will be doing a series of complex mathematical problems on a vintage Casio model 1175 calculator watch I received when I won the Earth Science medal in 3rd grade. Treat it with respect. Raj, you will be painting sideburns and a Van Dyke on a six-inch figurine of Legolas the elf. Now, remember, a Van Dyke is a goatee without a moustache. Wolowitz, you will be completing a series of delicate surgical procedures on the classic children\u2019s game, Operation. To begin with, you will remove funny bone for two hundred dollars."
+            ]
+        ],
+        "Raj (on his webcam)": [
+            [
+                164,
+                "But mummy, all the other guys are going to the North Pole."
+            ]
+        ],
+        "Mrs Koothrappali": [
+            [
+                165,
+                "I don\u2019t care what the other guys are doing. If the other guys jumped in the Bay of Bengal and tried to swim to Sri Lanka, would you follow them?"
+            ],
+            [
+                170,
+                "So, she has no problem with her son being eaten by a walrus?"
+            ],
+            [
+                184,
+                "I told you no. Why don\u2019t you believe me?"
+            ]
+        ],
+        "Dr Koothrappali": [
+            [
+                167,
+                "Don\u2019t talk back to your mother. This trip is much too dangerous, Rajesh."
+            ]
+        ],
+        "Howard\u2019s Mother": [
+            [
+                173,
+                "Arctic? I thought you said Arkansas!"
+            ],
+            [
+                175,
+                "He doesn\u2019t tell me anything! He lives a secret life because he\u2019s ashamed!"
+            ],
+            [
+                185,
+                "\u2018Cause it doesn\u2019t make sense to me! How can it be that in the entire country of India, there isn\u2019t one Outback Steakhouse?!"
+            ]
+        ],
+        "Penny (arriving)": [
+            [
+                176,
+                "Hey, Leonard, can I talk to you for a sec?"
+            ]
+        ],
+        "Leonard (indicating the blanket)": [
+            [
+                217,
+                "Okay, well, um, what about this? What does this mean?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. Leonard is working on a whiteboard."
+        ],
+        [
+            "Sheldon",
+            "Oh, boy."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t comment without violating our agreement that I don\u2019t criticize your work."
+        ],
+        [
+            "Leonard",
+            "Then what was oh, boy?"
+        ],
+        [
+            "Sheldon",
+            "Great restraint on my part."
+        ],
+        [
+            "Leonard",
+            "There\u2019s nothing wrong with the science here."
+        ],
+        [
+            "Sheldon",
+            "Perhaps you mean a different thing than I do when you say science."
+        ],
+        [
+            "Leonard (making a change)",
+            "Okay, how\u2019s that?"
+        ],
+        [
+            "Sheldon",
+            "You actually had it right in the first place. Once again, you\u2019ve fallen for one of my classic pranks. Bazinga! Well, now here\u2019s a peculiar e-mail. The president of the university wants me to meet him at his office tomorrow morning at 8 a.m."
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Sheldon: It doesn\u2019t say. It must be an emergency. Everyone at the university knows I eat breakfast at eight and move my bowels at 8",
+            "20."
+        ],
+        [
+            "Leonard",
+            "Yes, how did we live before Twitter? I guess you\u2019ll find out what it is in the morning."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s 14 hours away. For the next 840 minutes, I\u2019m effectively one of Heisenberg\u2019s particles, I know where I am or I know how fast I\u2019m going, but I can\u2019t know both. Yet how am I supposed to carry on with this huge annoying thing hovering over my head?"
+        ],
+        [
+            "Leonard",
+            "Yeah, I know the feeling."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Outside Leonard\u2019s bedroom."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Leonard. (Knock, knock, knock) Leonard. (Knock, knock, knock) Leonard."
+        ],
+        [
+            "Leonard",
+            "Sheldon, it\u2019s two o\u2019clock in the morning."
+        ],
+        [
+            "Sheldon",
+            "Why is everybody keep telling me what time it is?"
+        ],
+        [
+            "Leonard",
+            "Everybody?"
+        ],
+        [
+            "Sheldon",
+            "You, the president of the university, his wife, their sullen teenage daughter. That entire family is fascinated by what time it is and whether people know it."
+        ],
+        [
+            "Leonard",
+            "You went to President Seibert\u2019s house in the middle of the night?"
+        ],
+        [
+            "Sheldon",
+            "He didn\u2019t respond to my e-mail, his phone number is unlisted. Tell me what my other option was."
+        ],
+        [
+            "Leonard",
+            "You could have waited until morning. I know, look who I\u2019m talking to."
+        ],
+        [
+            "Sheldon",
+            "Do you remember the grant proposal I submitted to the National Science Foundation to detect slow-moving monopoles at the magnetic North Pole?"
+        ],
+        [
+            "Leonard",
+            "Hardly a day goes by when I don\u2019t think about it."
+        ],
+        [
+            "Sheldon",
+            "Aw, how nice. Well, a space opened up at the last minute on the NSF expedition to the Arctic Circle."
+        ],
+        [
+            "Leonard",
+            "Wait a minute. He offered to send you to the North Pole?"
+        ],
+        [
+            "Sheldon",
+            "Yes. In fact, he was quite enthusiastic. He said, \u201cFrankly, if I could send you tonight, I would.\u201d"
+        ],
+        [
+            "Leonard",
+            "Okay, well, do you want to go?"
+        ],
+        [
+            "Sheldon",
+            "Of course not. I\u2019m a theoretical physicist, a career I chose in no small part because it\u2019s indoors, but if I\u2019m able to detect slow-moving magnetic monopoles there, I will be the scientist to confirm string theory. People will write books about me. Third-graders will create macaroni-art dioramas depicting scenes from my life."
+        ],
+        [
+            "Leonard",
+            "Sure, maybe a tableau of me trying to pummel you to death."
+        ],
+        [
+            "Sheldon",
+            "Sarcasm?"
+        ],
+        [
+            "Leonard",
+            "Maybe."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m on the horns of a dilemma. Can you imagine me, Sheldon Cooper, at the North Pole?"
+        ],
+        [
+            "Leonard",
+            "Easy peasy, I\u2019m doing it right now."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not good with cold, Leonard. How often have we had to leave a movie theatre because I got a headache from drinking the Icee too fast? I can\u2019t go."
+        ],
+        [
+            "Leonard",
+            "Well, then don\u2019t go."
+        ],
+        [
+            "Sheldon",
+            "How can you say that? The scientific opportunity of a lifetime presents itself and my best friend says don\u2019t go."
+        ],
+        [
+            "Leonard",
+            "All right, then go."
+        ],
+        [
+            "Sheldon",
+            "Listen to you. How can I possibly go?"
+        ],
+        [
+            "Leonard",
+            "Sheldon, what are the words I can say right now to end this conversation and let me go back to sleep?"
+        ],
+        [
+            "Sheldon",
+            "Odd, President Seibert posed the exact same question."
+        ],
+        [
+            "Leonard",
+            "How was it resolved?"
+        ],
+        [
+            "Sheldon",
+            "It wasn\u2019t. His wife set their dogs on me and rendered the question moot."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Howard",
+            "Just imagine. If he says yes, we\u2019ll have an entire summer without Sheldon."
+        ],
+        [
+            "Raj",
+            "We could play outside."
+        ],
+        [
+            "Howard",
+            "We could sit on the left side of the couch."
+        ],
+        [
+            "Leonard: I could use the bathroom at 8",
+            "20."
+        ],
+        [
+            "Raj",
+            "Our dreams are very small, aren\u2019t they?"
+        ],
+        [
+            "Sheldon",
+            "Good news, gentlemen, I have tentatively accepted\u2026"
+        ],
+        [
+            "All",
+            "Yeah! Woo-hoo!"
+        ],
+        [
+            "Sheldon",
+            "\u2026the invitation to join the Arctic Expedition."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not gonna be the same without you."
+        ],
+        [
+            "Howard",
+            "Godspeed."
+        ],
+        [
+            "Sheldon",
+            "Thank you, but your sentiments may be premature."
+        ],
+        [
+            "Raj",
+            "Ooh, I don\u2019t like where this is going."
+        ],
+        [
+            "Sheldon",
+            "I would like to propose that the three of you accompany me."
+        ],
+        [
+            "Howard",
+            "To the North Pole?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "Is this just so we won\u2019t touch your stuff while you\u2019re away?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll admit that was a concern. But the fact is, I\u2019ll need a support team. And the three of you are my first choice."
+        ],
+        [
+            "Howard",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "Well, there are others who might be more qualified, but the thought of interviewing them gave me a stomach ache. Now, I know I\u2019m proposing an enormous undertaking, so why don\u2019t you take a few moments to discuss it?"
+        ],
+        [
+            "Howard",
+            "We\u2019re not really gonna go to the North Pole with him, are we?"
+        ],
+        [
+            "Sheldon (voice)",
+            "I\u2019m still within earshot! You may want to wait for my door to close."
+        ],
+        [
+            "Howard",
+            "We\u2019re not really gonna go to the North Pole with him, are we?"
+        ],
+        [
+            "Leonard",
+            "Hang on. Let\u2019s talk about it. This is a National Science Foundation expedition. I don\u2019t know how we can turn it down."
+        ],
+        [
+            "Howard",
+            "Easy. Instead of saying, no, we don\u2019t want to go on an NSF expedition, say, no, we don\u2019t want to spend \u201cthree months stuck in a cabin in the Arctic Circle with an anal nutbag.\u201d"
+        ],
+        [
+            "Raj",
+            "But if we were part of the team that confirmed string theory, we could drink for free in any bar in any college town with a university that has a strong science program."
+        ],
+        [
+            "Leonard",
+            "Howard, this is big science. You could be the engineer who builds the equipment that puts us on the cover of magazines."
+        ],
+        [
+            "Howard",
+            "I could also be the engineer who builds the crossbow that kills Sheldon."
+        ],
+        [
+            "Raj",
+            "You still might get on a magazine."
+        ],
+        [
+            "Howard",
+            "So you guys are seriously considering this?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Howard",
+            "And you think you can put up with Sheldon?"
+        ],
+        [
+            "Raj",
+            "Well, I\u2019m a Hindu. My religion teaches that if we suffer in this life we are rewarded in the next. Three months at the North Pole with Sheldon and I\u2019m reborn as a well-hung billionaire with wings!"
+        ],
+        [
+            "Sheldon",
+            "Well, gentlemen, have you reached a decision?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m in."
+        ],
+        [
+            "Raj",
+            "Me, too."
+        ],
+        [
+            "Howard",
+            "Oh, damn it. Peer pressure. Fine."
+        ],
+        [
+            "Sheldon",
+            "Excellent. And just an FYI, as I am the expedition\u2019s team leader, protocol dictates that be phrased fine, sir. But don\u2019t worry, there will be a briefing."
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s door."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "(Knock, knock, knock) Sheldon."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "(Knock, knock, knock) Sheldon."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "(Knock, knock, knock) Sheldon."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "(Knock, knock, knock) Sheldon."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "(Knock, knock, knock) Sheldon."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "(Knock, knock, knock) Sheldon."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "What do you want?"
+        ],
+        [
+            "Sheldon",
+            "I need access to the Cheesecake Factory\u2019s walk-in freezer."
+        ],
+        [
+            "Penny",
+            "Now, honey, I already told you, the hamburger meat is fresh and stored at a safe temperature."
+        ],
+        [
+            "Sheldon",
+            "No. This is to train for a three-month expedition to the magnetic North Pole."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know how that sentence could possibly confuse you, but to elaborate, I\u2019m going to the Arctic Circle with Leonard, Wolowitz and Koothrappali."
+        ],
+        [
+            "Penny",
+            "You\u2019re all going?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "For three months?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "Excuse me."
+        ],
+        [
+            "Sheldon",
+            "Is that a yes or a no on the freezer? The woman has the attention span of a gnat."
+        ],
+        [
+            "Penny",
+            "Hey, Leonard."
+        ],
+        [
+            "Leonard",
+            "Hi."
+        ],
+        [
+            "Penny",
+            "Sheldon says you\u2019re going to the North Pole."
+        ],
+        [
+            "Leonard",
+            "Yeah. Pretty cool, huh?"
+        ],
+        [
+            "Penny",
+            "Yeah. I\u2019m just a little surprised you didn\u2019t tell me."
+        ],
+        [
+            "Leonard",
+            "Oh, well, it all happened kind of fast, and we had to get physicals and buy thermal underwear and study up on, you know, snow and stuff. Sorry, I was gonna tell you."
+        ],
+        [
+            "Penny",
+            "Oh, hey, no, you don\u2019t have to apologize. There\u2019s no reason you have to tell me. I was just, you know, surprised."
+        ],
+        [
+            "Sheldon",
+            "Yes, yes, you were busy, you were surprised, all very fascinating. Now where do we stand on the freezer?"
+        ],
+        [
+            "Penny",
+            "Is he serious?"
+        ],
+        [
+            "Leonard",
+            "Actually, it would help."
+        ],
+        [
+            "Penny",
+            "All right, I\u2019ll see what I can do. So, three months at the North Pole. Wow, that is awesome."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, but at what point do you put this see what you can do plan into action?"
+        ],
+        [
+            "Penny",
+            "Just a warning, Sheldon, the freezer locks from the outside."
+        ],
+        [
+            "Leonard",
+            "Did she seem upset to you?"
+        ],
+        [
+            "Sheldon",
+            "No. Did she seem upset to you?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Oh, good, I got it right. Are you upset?"
+        ],
+        [
+            "Leonard",
+            "A little bit."
+        ],
+        [
+            "Sheldon",
+            "Two for two. I\u2019m on fire."
+        ],
+        [
+            "Leonard",
+            "I mean, I know she\u2019s not my girlfriend or anything, but wouldn\u2019t you think she\u2019d feel a little bad that I\u2019m going to be gone for the whole summer?"
+        ],
+        [
+            "Sheldon",
+            "That feels like a bonus question. I\u2019m going to stop here while I\u2019m ahead, but I\u2019ve had a great time."
+        ],
+        [
+            "Scene",
+            "Inside the cheesecake factory freezer."
+        ],
+        [
+            "Sheldon",
+            "Alright, now the purpose of this drill is to acclimate us to the use of tools in extreme temperatures such as we will face in the Arctic Circle."
+        ],
+        [
+            "Raj",
+            "Where are your tools?"
+        ],
+        [
+            "Sheldon (pointing at his brain)",
+            "Right here. All right, team, open up your practice kits. As the university did not permit me to bring the actual equipment we\u2019ll be using to the Cheesecake Factory, because apparently I\u2019m \u201cridiculous,\u201d I\u2019ve provided substitutes which will exercise your fine motor skills. Leonard, you will be doing a series of complex mathematical problems on a vintage Casio model 1175 calculator watch I received when I won the Earth Science medal in 3rd grade. Treat it with respect. Raj, you will be painting sideburns and a Van Dyke on a six-inch figurine of Legolas the elf. Now, remember, a Van Dyke is a goatee without a moustache. Wolowitz, you will be completing a series of delicate surgical procedures on the classic children\u2019s game, Operation. To begin with, you will remove funny bone for two hundred dollars."
+        ],
+        [
+            "Howard",
+            "For this I went to MIT."
+        ],
+        [
+            "Sheldon",
+            "And begin."
+        ],
+        [
+            "Raj",
+            "I think I swallowed some paint!"
+        ],
+        [
+            "Leonard",
+            "I can\u2019t press any of the buttons with my gloves. Oh, son of a bitch!"
+        ],
+        [
+            "Sheldon",
+            "Adversity is to be expected. Continue."
+        ],
+        [
+            "Howard",
+            "Oh, boy, am I gonna get sued."
+        ],
+        [
+            "Leonard",
+            "Okay, I can\u2019t do this."
+        ],
+        [
+            "Raj",
+            "Me either."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, use your imagination. Innovate. Did Han Solo let Luke Skywalker freeze to death on the ice planet of Hoth? No. He cut open a tauntaun and used its internal body heat to warm him up."
+        ],
+        [
+            "Howard",
+            "You heard the man. Hold him down and I\u2019ll cut him open."
+        ],
+        [
+            "Leonard",
+            "Hang on, I know I don\u2019t possess the tools of leadership, but I don\u2019t understand why we can\u2019t assemble the equipment inside the hut and then take it outside."
+        ],
+        [
+            "Sheldon",
+            "I hadn\u2019t thought of that. I guess we\u2019re done here."
+        ],
+        [
+            "Scene",
+            "The apartment kitchen."
+        ],
+        [
+            "Sheldon",
+            "Here, drink slash eat this."
+        ],
+        [
+            "Leonard",
+            "What is it?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s hot chocolate with a stick of butter."
+        ],
+        [
+            "Howard",
+            "Okay, why?"
+        ],
+        [
+            "Sheldon",
+            "Because in the frigid temperatures in the Arctic, we need to consume at least 5,000 calories a day just to maintain our body weight."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you know I can\u2019t eat butter. I\u2019m lactose intolerant."
+        ],
+        [
+            "Sheldon",
+            "Way ahead of you, that\u2019s an \u201cI Can\u2019t Believe It\u2019s Not Butter\u201d stick."
+        ],
+        [
+            "Raj (on his webcam)",
+            "But mummy, all the other guys are going to the North Pole."
+        ],
+        [
+            "Mrs Koothrappali",
+            "I don\u2019t care what the other guys are doing. If the other guys jumped in the Bay of Bengal and tried to swim to Sri Lanka, would you follow them?"
+        ],
+        [
+            "Raj",
+            "If you were standing behind me nagging, I might."
+        ],
+        [
+            "Dr Koothrappali",
+            "Don\u2019t talk back to your mother. This trip is much too dangerous, Rajesh."
+        ],
+        [
+            "Raj",
+            "No, it\u2019s not. Howard, tell them."
+        ],
+        [
+            "Howard",
+            "Doctor and Mrs. Koothrappali, namaste. I understand your concern, but if it\u2019ll make you feel any better, my mother is fine with me going, and this is a woman who kept a safety rail on my bed until I was 17."
+        ],
+        [
+            "Mrs Koothrappali",
+            "So, she has no problem with her son being eaten by a walrus?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s very unlikely, Mrs. Koothrappali. If Raj dies, it\u2019ll be from frostbite, gangrene, acute sunburn or being ripped to shreds by a fifteen hundred pound polar bear."
+        ],
+        [
+            "Howard",
+            "Ma, I\u2019m putting you on speakerphone with Raj\u2019s parents. Can you tell them that you\u2019re okay with me going to the Arctic?"
+        ],
+        [
+            "Howard\u2019s Mother",
+            "Arctic? I thought you said Arkansas!"
+        ],
+        [
+            "Howard",
+            "I didn\u2019t say that. You never listen to me!"
+        ],
+        [
+            "Howard\u2019s Mother",
+            "He doesn\u2019t tell me anything! He lives a secret life because he\u2019s ashamed!"
+        ],
+        [
+            "Penny (arriving)",
+            "Hey, Leonard, can I talk to you for a sec?"
+        ],
+        [
+            "Leonard",
+            "Sure, but let\u2019s go out here where there\u2019s a little less yelling and guilt. What\u2019s up?"
+        ],
+        [
+            "Penny",
+            "Well, I got you a little going away present."
+        ],
+        [
+            "Leonard",
+            "Oh, a blanket."
+        ],
+        [
+            "Penny",
+            "Oh, no, no, no, not just a blanket. See, it has sleeves. Yeah! \u00a0So, you can, you know, be all snoodled up while you do your science stuff."
+        ],
+        [
+            "Leonard",
+            "Oh, wow, cool."
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019m gonna miss you. (She hugs him for a long time) See you later."
+        ],
+        [
+            "Leonard",
+            "Bye."
+        ],
+        [
+            "Mrs Koothrappali",
+            "I told you no. Why don\u2019t you believe me?"
+        ],
+        [
+            "Howard\u2019s Mother",
+            "\u2018Cause it doesn\u2019t make sense to me! How can it be that in the entire country of India, there isn\u2019t one Outback Steakhouse?!"
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s bedroom. Sheldon is asleep. There is a knock on the door."
+        ],
+        [
+            "Leonard",
+            "Sheldon, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "I want a cookie, Meemaw."
+        ],
+        [
+            "Leonard",
+            "Sheldon, it\u2019s me."
+        ],
+        [
+            "Sheldon",
+            "But Meemaw just made cookies."
+        ],
+        [
+            "Leonard",
+            "Listen, I don\u2019t know if I can go on the expedition."
+        ],
+        [
+            "Sheldon",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t think I can go to the North Pole."
+        ],
+        [
+            "Sheldon",
+            "Okay, Leonard, I know you\u2019re concerned about disappointing me but I want you to take comfort from the knowledge that my expectations of you are very low."
+        ],
+        [
+            "Leonard",
+            "Yeah, that\u2019s very comforting."
+        ],
+        [
+            "Sheldon",
+            "Comforting is a part of leadership. It\u2019s not a part I care for, but such is my burden."
+        ],
+        [
+            "Leonard",
+            "Terrific, it\u2019s just that I don\u2019t think Penny wants me to go."
+        ],
+        [
+            "Sheldon",
+            "Assuming that\u2019s a valid reason not to go, which it isn\u2019t, how do you know this? Did she say it?"
+        ],
+        [
+            "Leonard",
+            "Not exactly. But she said she was gonna miss me and she gave me this."
+        ],
+        [
+            "Sheldon",
+            "What is it?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s a blanket with sleeves."
+        ],
+        [
+            "Sheldon",
+            "Oh, that\u2019s clever. Let me see if I understand this correctly. Her missing you is an emotional state you find desirable?"
+        ],
+        [
+            "Leonard",
+            "Yes, obviously."
+        ],
+        [
+            "Sheldon",
+            "All right. Well, given that missing you is predicated on you leaving, logic dictates you must leave."
+        ],
+        [
+            "Leonard",
+            "Yes, okay, but I\u2019m gonna be gone for three months. What if she doesn\u2019t miss me that long and she meets someone else?"
+        ],
+        [
+            "Sheldon",
+            "She does have a short attention span."
+        ],
+        [
+            "Leonard",
+            "So, I can\u2019t go."
+        ],
+        [
+            "Sheldon",
+            "Leonard, you may be right. It appears that Penny secretly wants you in her life in a very intimate and carnal fashion."
+        ],
+        [
+            "Leonard",
+            "You really think so?"
+        ],
+        [
+            "Sheldon",
+            "Of course not. Even in my sleep-deprived state, I\u2019ve managed to pull off another one of my classic pranks. Bazinga!"
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s door. Leonard is knocking."
+        ],
+        [
+            "Penny",
+            "Oh, Leonard, what time is it?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s 7 a.m. I\u2019m sorry it\u2019s early, but we\u2019re leaving soon, and I needed to talk to you."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "What did you mean when you said you\u2019re going to miss me?"
+        ],
+        [
+            "Penny",
+            "Um, I don\u2019t know. You\u2019ll be gone and I\u2019ll notice."
+        ],
+        [
+            "Leonard (indicating the blanket)",
+            "Okay, well, um, what about this? What does this mean?"
+        ],
+        [
+            "Penny",
+            "Wine, credit card and late night television are a bad combination."
+        ],
+        [
+            "Leonard",
+            "All right, fine. What about that really long hug? What did that mean?"
+        ],
+        [
+            "Penny",
+            "That wasn\u2019t a long hug."
+        ],
+        [
+            "Leonard",
+            "It was at least five Mississippis. A standard hug is two Mississippis tops."
+        ],
+        [
+            "Penny",
+            "Leonard, I don\u2019t know what to tell you. It was just a hug."
+        ],
+        [
+            "Leonard",
+            "Glad we cleared that up."
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "I guess I\u2019ll see you."
+        ],
+        [
+            "Penny",
+            "Okay, have a safe trip."
+        ],
+        [
+            "Leonard",
+            "Thank you. Bye."
+        ],
+        [
+            "Penny",
+            "Okay, bye. (Penny closes door. To herself) Means I wish you weren\u2019t going."
+        ],
+        [
+            "Scene",
+            "The North Pole."
+        ],
+        [
+            "Leonard",
+            "Damn it."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "We\u2019re out of ice."
+        ],
+        [
+            "Sheldon",
+            "All right, men, we begin initial assembly and deployment of the testing equipment starting tomorrow at 0700 hours, but until then, you are all off duty. I suggest you keep the shenanigans to a minimum as medical help is 18 hours away by dogsled."
+        ],
+        [
+            "Raj",
+            "What are you working on?"
+        ],
+        [
+            "Howard",
+            "Crossbow."
+        ],
+        [
+            "Leonard",
+            "Hey, guys, can I just say something? How about we take a moment to think about where we are right now? This is literally the top of the world. Only a handful of people in all of human history will ever see what we are going to see."
+        ],
+        [
+            "Raj",
+            "He\u2019s right."
+        ],
+        [
+            "Howard",
+            "Yeah, wow."
+        ],
+        [
+            "Sheldon",
+            "It is remarkable."
+        ],
+        [
+            "Raj",
+            "So, who\u2019s up for a movie?"
+        ],
+        [
+            "Howard",
+            "Good idea, what do you think? Ice Station Zebra or John Carpenter\u2019s The Thing?"
+        ],
+        [
+            "Raj",
+            "I say double feature."
+        ],
+        [
+            "Leonard",
+            "Dinner\u2019s ready!"
+        ],
+        [
+            "Sheldon",
+            "What are we having?"
+        ],
+        [
+            "Leonard",
+            "Reconstituted Thai food."
+        ],
+        [
+            "Sheldon",
+            "Did you bring the dehydrated low-sodium soy sauce?"
+        ],
+        [
+            "Leonard",
+            "Check."
+        ],
+        [
+            "Sheldon",
+            "Freeze-dried spicy mustard?"
+        ],
+        [
+            "Leonard",
+            "Check."
+        ],
+        [
+            "Sheldon",
+            "Flash-frozen brown rice, not white?"
+        ],
+        [
+            "Leonard",
+            "Uh, oh, sorry."
+        ],
+        [
+            "Sheldon",
+            "Not to worry. I hid it. Bazinga! You\u2019re in my spot."
+        ],
+        [
+            "Howard",
+            "There\u2019s no time for a crossbow. Find me an icicle."
+        ],
+        [
+            "Sheldon",
+            "Three months. This is gonna be great!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-2-episode-23-the-monopolar-expedition/"
+}

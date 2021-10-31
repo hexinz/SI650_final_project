@@ -1,0 +1,1896 @@
+{
+    "Season": 2,
+    "Episode": 11,
+    "Title": "the vartabedian conundrum",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. "
+            ],
+            [
+                30,
+                "Credits sequence."
+            ],
+            [
+                32,
+                "The kitchen."
+            ],
+            [
+                87,
+                "The university cafeteria."
+            ],
+            [
+                104,
+                "The hospital."
+            ],
+            [
+                117,
+                "The laundry room."
+            ],
+            [
+                141,
+                "The apartment."
+            ],
+            [
+                176,
+                "The laundry room."
+            ],
+            [
+                203,
+                "Leonard\u2019s bedroom. Leonard and Steph have just had sex. "
+            ],
+            [
+                213,
+                "The university cafeteria. "
+            ],
+            [
+                229,
+                "Outside Penny\u2019s apartment. Sheldon has his laptop. He knocks three times, the presses a button and an electronic voice says \u201cPenny\u201d. He does this three times. "
+            ]
+        ],
+        "Steph": [
+            [
+                1,
+                "I don\u2019t see anything at all, Sheldon."
+            ],
+            [
+                6,
+                "Yup, there\u2019s no inflammation at all, Sheldon."
+            ],
+            [
+                8,
+                "I Seriously doubt it."
+            ],
+            [
+                11,
+                "Well, you know, if it is from a swirly, there\u2019s something I can do. Okay, circle, circle, dot, dot, now you have a cootie shot! I\u2019m going to bed"
+            ],
+            [
+                36,
+                "Hi, Sheldon."
+            ],
+            [
+                40,
+                "He did very nicely."
+            ],
+            [
+                43,
+                "Uh, hello."
+            ],
+            [
+                45,
+                "Uh-huh. And, and, and you are?"
+            ],
+            [
+                47,
+                "Really?"
+            ],
+            [
+                49,
+                "I haven\u2019t heard a thing about you. Leonard? Why haven\u2019t I heard a thing about this woman who lives across the hall and comes into your apartment in the morning in her underwear?"
+            ],
+            [
+                57,
+                "Well, it was very nice meeting you."
+            ],
+            [
+                59,
+                "\u00a0And I\u2019ll see you tonight?"
+            ],
+            [
+                61,
+                "Bye."
+            ],
+            [
+                105,
+                "Sheldon, what are you doing here?"
+            ],
+            [
+                107,
+                "Where did you get the stethoscope and the blood pressure cuff?"
+            ],
+            [
+                109,
+                "Thank you."
+            ],
+            [
+                111,
+                "I\u2019m kinda busy here, Sheldon."
+            ],
+            [
+                113,
+                "A cardiac stress test, a full body MRI, an electromyogram, a CBC, baseline glucose, upper GI?"
+            ],
+            [
+                115,
+                "Go home, Sheldon."
+            ],
+            [
+                143,
+                "Oh, no."
+            ],
+            [
+                145,
+                "You were right. Your larynx is terribly inflamed. I mean, I\u2019ve never seen anything like it."
+            ],
+            [
+                147,
+                "You\u2019re going to need to stop talking immediately."
+            ],
+            [
+                149,
+                "Du-du-du-du! Immediately."
+            ],
+            [
+                151,
+                "Oh, hi, honey."
+            ],
+            [
+                153,
+                "I just performed a Sheldonectomy."
+            ],
+            [
+                155,
+                "Gotcha."
+            ],
+            [
+                157,
+                "Oh-oh. Do we need to talk or do we \u201cneed to talk\u201d?"
+            ],
+            [
+                159,
+                "Okay, why don\u2019t you just tell me what it is you have to tell me?"
+            ],
+            [
+                161,
+                "And?"
+            ],
+            [
+                163,
+                "Well, yeah, but scary good, right?"
+            ],
+            [
+                165,
+                "Uh-huh."
+            ],
+            [
+                167,
+                "Of course honey why don\u2019t you tell me what it is you\u2019re feeling?"
+            ],
+            [
+                169,
+                "Okay, how about this? How about I tell you what I\u2019m feeling?"
+            ],
+            [
+                171,
+                "Why not?"
+            ],
+            [
+                173,
+                "I think that\u2019s for swimming."
+            ],
+            [
+                175,
+                "Yeah."
+            ],
+            [
+                205,
+                "I\u2019m sorry, I totally interrupted you. What were you saying?"
+            ],
+            [
+                207,
+                "Oh, God, here comes the speech."
+            ],
+            [
+                209,
+                "I really like you, but maybe we should spend a little less time together \u2018cause I need my space but I\u2019ll call you on Tuesday, and then you never call me so I call you, but you don\u2019t call me back and then when I run into you at the coffee shop you pretend like you\u2019ve been having problems with your voice mail and I know that you\u2019re lying, but I pretend like I don\u2019t care even though I\u2019m dying inside!"
+            ],
+            [
+                211,
+                "Oh. Oh, good! \u2018Cause I really like you, too."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Well, you\u2019re the doctor, but I am constantly hearing this annoying sound."
+            ],
+            [
+                4,
+                "Is it a high-frequency whistle?"
+            ],
+            [
+                7,
+                "Then it must be a tumour."
+            ],
+            [
+                10,
+                "Is that possible? I used to get those all the time. Even in church."
+            ],
+            [
+                13,
+                "It\u2019s not enough that she mocks me, but that isn\u2019t even the correct procedure for a cootie shot."
+            ],
+            [
+                15,
+                "How is it imaginary that I keep hearing an octave above Middle C? Is that imaginary? I don\u2019t think so."
+            ],
+            [
+                17,
+                "Leonard, there\u2019s one more thing. Under Article One, Section Three of our Roommate Agreement, I\u2019m calling an emergency meeting."
+            ],
+            [
+                19,
+                "Leonard moves the meeting not occur. Is there a second? None heard, the motion fails. I\u2019d like to begin the meeting by congratulating you on the progress in your relationship with Dr. Stephanie."
+            ],
+            [
+                21,
+                "That being said, we have to discuss the implementation of the agreed upon \u201ccohabitation\u201d rider which has been activated now that the two of you are living together."
+            ],
+            [
+                25,
+                "You initialed it. See? L.H., L.H., L.H."
+            ],
+            [
+                27,
+                "Hmm, yes, you did. Now, to review the following provisions are hereby activated. In the refrigerator, as opposed to us having two separate shelves and one communal shelf, the three of us now get individual shelves and the door becomes communal. Next, apartment vacuuming shall be increased from two to three times a week to accommodate the increased accumulation of dead skin cells. Third,the bathroom schedule. Now, I\u2019m given to understand women have different needs, so, we\u2019ll have to discuss that."
+            ],
+            [
+                29,
+                "At least take this with you. Look, and have Stephanie initial here, here, here, here and here. This states that she does not now nor does she intend to play a percussive or brass instrument. Sure it sounds like a tumor pressing on the auditory nerve."
+            ],
+            [
+                34,
+                "It\u2019s not a big deal. We have latex gloves."
+            ],
+            [
+                37,
+                "Good morning, Dr. Stephanie. I trust Leonard satisfied you sexually last night."
+            ],
+            [
+                39,
+                "I heard you ask it over and over. How is it inappropriate for me to ask it once?"
+            ],
+            [
+                41,
+                "See? She\u2019s not offended. And now you finally have an answer."
+            ],
+            [
+                51,
+                "In Leonard\u2019s defence, it wasn\u2019t for lack of trying."
+            ],
+            [
+                53,
+                "You\u2019re welcome, Leonard."
+            ],
+            [
+                55,
+                "Really? I have never once been invited to have cereal with Mrs. Vartabedian."
+            ],
+            [
+                62,
+                "What could I possibly have done to offend Mrs. Vartabedian?"
+            ],
+            [
+                66,
+                "Oh, she is. She\u2019s terrific, and she\u2019s proving to be a valuable roommate."
+            ],
+            [
+                68,
+                "Like hippies."
+            ],
+            [
+                70,
+                "Do I have to pull out the paperwork again?"
+            ],
+            [
+                106,
+                "Hang on. 130 over 80. A little high. We can attribute that to the stress of sneaking past the security desk."
+            ],
+            [
+                108,
+                "My aunt Marion gave them to me for my 12th birthday. She thought if I failed at theoretical physics that I should have a trade to fall back on. And by the way, the blood pressure cuff is called a sphygmomanometer."
+            ],
+            [
+                110,
+                "Didn\u2019t they teach you that in medical school?"
+            ],
+            [
+                112,
+                "I understand. All I need is for you to authorize these tests."
+            ],
+            [
+                114,
+                "Oh, and an exploratory laparoscopy. Last time I had hiccups, it felt like my diaphragm was just going through the motions."
+            ],
+            [
+                116,
+                "Can I at least have the upper GI? I already drank the barium!"
+            ],
+            [
+                144,
+                "Wha??"
+            ],
+            [
+                146,
+                "I knew it! What do I do?"
+            ],
+            [
+                148,
+                "For how\u2026"
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "Me, too."
+            ],
+            [
+                5,
+                "No, it\u2019s more of a relentless, narcissistic drone."
+            ],
+            [
+                9,
+                "Maybe it\u2019s a lingering bacterial infection from all those childhood toilet swirlies."
+            ],
+            [
+                12,
+                "Okay, I\u2019ll be right in."
+            ],
+            [
+                14,
+                "Do you understand that Stephanie\u2019s not here to treat your imaginary ailments?"
+            ],
+            [
+                16,
+                "Good night."
+            ],
+            [
+                18,
+                "No, you\u2019re not."
+            ],
+            [
+                20,
+                "Thank you."
+            ],
+            [
+                22,
+                "We\u2019re not living together."
+            ],
+            [
+                24,
+                "That\u2019s absurd."
+            ],
+            [
+                26,
+                "Wait, I only initialed it because I never thought it would happen! I initialed another clause naming you my sidekick in case I get superpowers."
+            ],
+            [
+                28,
+                "I\u2019m going to bed."
+            ],
+            [
+                33,
+                "No, absolutely not."
+            ],
+            [
+                35,
+                "I don\u2019t care what the symptoms are, my girlfriend is not going to give you a prostate exam."
+            ],
+            [
+                38,
+                "Oh come on! Sheldon, we don\u2019t ask questions like that."
+            ],
+            [
+                50,
+                "She\u2019s heard about you because we\u2019re, you know, involved and you haven\u2019t heard about her because\u2026 I never slept with her, I swear!"
+            ],
+            [
+                52,
+                "Thank you, Sheldon."
+            ],
+            [
+                54,
+                "Look, I\u2019m just saying, um, Penny is one of our many neighbours, you know, and in our building, neighbours come and go, it\u2019s very casual, no dress code. In fact, some mornings I\u2019ll just mosey down to the third floor in my pyjamas and have cereal with Mrs. Vartabedian."
+            ],
+            [
+                56,
+                "She doesn\u2019t like you. Um, well, uh, you have a gall bladder to remove and I have to get in the shower and Penny has clothes to put on, so\u2026"
+            ],
+            [
+                60,
+                "Okay, bye-bye."
+            ],
+            [
+                64,
+                "Why do I feel like I\u2019m the one that just got the prostate exam?"
+            ],
+            [
+                69,
+                "We\u2019re not living together."
+            ],
+            [
+                71,
+                "We\u2019re not living together."
+            ],
+            [
+                73,
+                "How could I not be sure?"
+            ],
+            [
+                75,
+                "Don\u2019t you think if a woman was living with me I\u2019d be the first one to know about it?"
+            ],
+            [
+                77,
+                "We\u2019re not living together."
+            ],
+            [
+                79,
+                "We\u2019re not living together."
+            ],
+            [
+                81,
+                "Uh, the big dog is Goofy, and the older couple with the mouse ears , I have no idea. We\u2019re not living together!"
+            ],
+            [
+                83,
+                "We\u2019re not\u2026 Where\u2019s my Bat Signal?"
+            ],
+            [
+                85,
+                "I did. It was right here. She must\u2019ve\u2026 Oh, my God, we\u2019re living together."
+            ],
+            [
+                90,
+                "Yeah, Stephanie got them for me."
+            ],
+            [
+                92,
+                "Actually, I think it\u2019s more of wool, fire ant blend."
+            ],
+            [
+                94,
+                "It is actually. In fact, I gave it a lot of thought and I decided it was time for us to live together."
+            ],
+            [
+                96,
+                "At least I have an egg. What do you have?"
+            ],
+            [
+                98,
+                "So, go hit on her."
+            ],
+            [
+                103,
+                "I don\u2019t care what you guys think, Stephanie and I are very happy living together. I will give either of you 20 dollars, right now to trade pants with me."
+            ],
+            [
+                119,
+                "Oh, good. Do you have any fabric softener?"
+            ],
+            [
+                121,
+                "No, the pants that Stephanie got me."
+            ],
+            [
+                123,
+                "Are you sure?"
+            ],
+            [
+                125,
+                "Oh, no. I wish you\u2019d told me that sooner."
+            ],
+            [
+                127,
+                "No, everything\u2019s fine."
+            ],
+            [
+                129,
+                "Yeah. It\u2019s wonderful. Okay, maybe this whole living together happened kind of suddenly, but it\u2019s fine, it\u2019s great."
+            ],
+            [
+                131,
+                "Are you sure? That doesn\u2019t sound right."
+            ],
+            [
+                133,
+                "No that doesn\u2019t sound right either."
+            ],
+            [
+                135,
+                "Yeah, I could say something like that to her. I\u2019ll go do that. Thank you."
+            ],
+            [
+                137,
+                "You have a really good grasp on this. Maybe you could talk to her?"
+            ],
+            [
+                139,
+                "No, but that\u2019s okay. I\u2019ll go talk to her. Want to come with?"
+            ],
+            [
+                150,
+                "Hey."
+            ],
+            [
+                152,
+                "Sheldon. (He waves) What\u2019s going on?"
+            ],
+            [
+                154,
+                "Careful, if you don\u2019t get it all, it\u2019ll only come back worse."
+            ],
+            [
+                156,
+                "Listen, we need to talk."
+            ],
+            [
+                158,
+                "I don\u2019t know what that means."
+            ],
+            [
+                160,
+                "Okay, um, well, look, it\u2019s just that things between you and me have been going pretty quick."
+            ],
+            [
+                162,
+                "It\u2019s just a little scary."
+            ],
+            [
+                164,
+                "Sure, when is scary not good? But, okay, um, I have feelings, right?"
+            ],
+            [
+                166,
+                "Okay, and it\u2019s perfectly okay to express those feelings, right?"
+            ],
+            [
+                168,
+                "Okay, well, I ju\u2026 I think it\u2019s important to remember that we move at a pace that is our speed and\u2026 oh, shoot, I had it!"
+            ],
+            [
+                170,
+                "What\u2019s that? Really? Right now?"
+            ],
+            [
+                172,
+                "I just ate, aren\u2019t you supposed to wait an hour?"
+            ],
+            [
+                174,
+                "Oh, okay. I just hope I don\u2019t get cramps."
+            ],
+            [
+                177,
+                "Hey."
+            ],
+            [
+                179,
+                "Thank you."
+            ],
+            [
+                181,
+                "Good."
+            ],
+            [
+                183,
+                "Well, um, on one level, really, really well."
+            ],
+            [
+                185,
+                "Not specifically, but, uh, I did tell her that I had feelings."
+            ],
+            [
+                187,
+                "And then the, the subject got changed somehow."
+            ],
+            [
+                189,
+                "Um, little bit. (She looks at her watch) What?"
+            ],
+            [
+                191,
+                "Yeah, yeah it\u2019s all good. Everything\u2019s going to work out. One way or another."
+            ],
+            [
+                193,
+                "Really?"
+            ],
+            [
+                195,
+                "Huh."
+            ],
+            [
+                197,
+                "Nothing, just rethinking my whole life. Okay, here\u2019s the thing, I\u2019m afraid that if I ask her to move out, she\u2019ll just dump me."
+            ],
+            [
+                199,
+                "Very comforting. Okay, so what do I say to her?"
+            ],
+            [
+                201,
+                "I really like you, but I want to see how things go with Mark?"
+            ],
+            [
+                206,
+                "Oh, right, yeah, um, so, Stephanie, here\u2019s the thing. I really like you."
+            ],
+            [
+                208,
+                "What speech?"
+            ],
+            [
+                210,
+                "No! No, no! I wasn\u2019t going to say any of that. I was just going to say, I really like you."
+            ],
+            [
+                212,
+                "Terrific."
+            ],
+            [
+                215,
+                "Hey."
+            ],
+            [
+                218,
+                "Yeah, Stephanie got it for me. It\u2019s kind of fun."
+            ],
+            [
+                220,
+                "Yeah, yeah, that\u2019s the fun part. We\u2019re also getting new curtains for my bedroom, and a dust ruffle, and a duvet, and I don\u2019t even know what a duvet is but I\u2019m pretty sure if I did I wouldn\u2019t want one, but every time I talk to her about moving out she cries and we have sex."
+            ],
+            [
+                223,
+                "Isn\u2019t that kind of cowardly?"
+            ],
+            [
+                226,
+                "Sold. \u201cI think it would be better for our relationship if you moved back to your place.\u201d There. It\u2019s done."
+            ],
+            [
+                228,
+                "Yeah, good for me. I\u2019ll never have sex again. (Phone buzzes) I was wrong. See ya."
+            ]
+        ],
+        "Sheldon: I beg to disagree. \u201cA girlfriend shall be deemed quote living with un-quote Leonard when she has stayed over for A, ten consecutive nights or B, more than nine nights in three week period or C": [
+            [
+                23,
+                "all the weekends of a given month plus three weeknights."
+            ]
+        ],
+        "Penny (entering)": [
+            [
+                42,
+                "Out of coffee. Need coffee."
+            ]
+        ],
+        "Penny": [
+            [
+                44,
+                "Hi! Stephanie, right?"
+            ],
+            [
+                46,
+                "I\u2019m Penny, I live across the hall. I\u2019ve heard a lot about you."
+            ],
+            [
+                48,
+                "Mm-hmm."
+            ],
+            [
+                58,
+                "Nice to finally meet you, too."
+            ],
+            [
+                63,
+                "So, that\u2019s Stephanie, huh?"
+            ],
+            [
+                65,
+                "You know, she seems very nice."
+            ],
+            [
+                67,
+                "Roommate? You guys are living together?"
+            ],
+            [
+                72,
+                "Are you sure?"
+            ],
+            [
+                74,
+                "Well, let\u2019s find out."
+            ],
+            [
+                76,
+                "Oh, sweetie, you\u2019d be the last one to know about it. (Looking through his wardrobe) Hmm, cute dresses. I bet this looks great on you!"
+            ],
+            [
+                78,
+                "Okay, hmm, scented candles, fuzzy slippers, ooh, floral bed sheets?"
+            ],
+            [
+                80,
+                "Okay, moving on. Now, who are these guys at Disney World?"
+            ],
+            [
+                82,
+                "You\u2019re going to go down swinging, huh? All right, well, we got your body lotion, your InStyle Magazine, your jewellery box."
+            ],
+            [
+                84,
+                "You have a Bat Signal?"
+            ],
+            [
+                86,
+                "Really? What was your first clue?"
+            ],
+            [
+                118,
+                "Oh hey."
+            ],
+            [
+                120,
+                "Yeah, sure. What are you washing? A crocodile?"
+            ],
+            [
+                122,
+                "Oh, sweetie, you can\u2019t machine wash these. They\u2019ll be ruined."
+            ],
+            [
+                124,
+                "Absolutely."
+            ],
+            [
+                126,
+                "Are you guys having problems?"
+            ],
+            [
+                128,
+                "Really?"
+            ],
+            [
+                130,
+                "Okay, Leonard, honey, you know, if you\u2019re uncomfortable with the way things are going, you\u2019re allowed to say something."
+            ],
+            [
+                132,
+                "Believe me, your feelings are just as important as hers."
+            ],
+            [
+                134,
+                "Just tell her you need the relationship to move at a pace that you both are comfortable with."
+            ],
+            [
+                136,
+                "Sure."
+            ],
+            [
+                138,
+                "You\u2019re kidding, right?"
+            ],
+            [
+                140,
+                "Go! Wow."
+            ],
+            [
+                178,
+                "Hey. Oh, I put your clothes in the dryer."
+            ],
+            [
+                180,
+                "Your pants are ruined."
+            ],
+            [
+                182,
+                "So, how did the talk with Stephanie go?"
+            ],
+            [
+                184,
+                "So, you told her you wanted to slow things down?"
+            ],
+            [
+                186,
+                "Good, good. And then what?"
+            ],
+            [
+                188,
+                "You had sex, didn\u2019t you?"
+            ],
+            [
+                190,
+                "Nothing. Okay, well, it sounds like things are going to work out."
+            ],
+            [
+                192,
+                "Come on, Leonard, you are entitled to try and make things go the way you want them to."
+            ],
+            [
+                194,
+                "Yes, you don\u2019t always have to go along with what the woman wants."
+            ],
+            [
+                196,
+                "What?"
+            ],
+            [
+                198,
+                "Well, it\u2019s a chance you have to take. I mean, look, if it\u2019s meant to be, it\u2019ll be."
+            ],
+            [
+                200,
+                "I don\u2019t know. I mean, what have women said to you when they wanted to slow a relationship down?"
+            ],
+            [
+                202,
+                "Yeah, that\u2019ll slow it down."
+            ],
+            [
+                232,
+                "Okay?"
+            ],
+            [
+                234,
+                "Okay, let me check."
+            ],
+            [
+                236,
+                "Hiney?"
+            ]
+        ],
+        "Howard": [
+            [
+                89,
+                "New pants?"
+            ],
+            [
+                91,
+                "Nice. Cotton?"
+            ],
+            [
+                93,
+                "So, the girlfriend\u2019s buying clothes for you, huh? Sounds serious."
+            ],
+            [
+                95,
+                "Uh, Leonard, huge mistake. There\u2019s a whole buffet of women out there and you\u2019re just standing in the corner eating the same devilled egg over and over again."
+            ],
+            [
+                97,
+                "A veritable smorgasbord of potential sexual partners. See the blonde over there? I can hit on her and you can\u2019t."
+            ],
+            [
+                99,
+                "She\u2019s not my type."
+            ],
+            [
+                101,
+                "She was?"
+            ],
+            [
+                217,
+                "Hey. Nice sweater."
+            ],
+            [
+                222,
+                "You know, if you can\u2019t talk to her, why don\u2019t you just text her?"
+            ],
+            [
+                224,
+                "Oh, yeah. It\u2019s beyond contemptible."
+            ],
+            [
+                227,
+                "Good for you."
+            ]
+        ],
+        "Raj": [
+            [
+                100,
+                "Too bad, \u2019cause she was checking you out before."
+            ],
+            [
+                102,
+                "Of course not. Look at her."
+            ],
+            [
+                216,
+                "Hey."
+            ],
+            [
+                219,
+                "It\u2019s got a big bird on it, dude."
+            ],
+            [
+                221,
+                "You\u2019re lucky. With me, it\u2019s usually the other way around."
+            ],
+            [
+                225,
+                "It\u2019s true, but on the other hand you are wearing a bird sweater."
+            ]
+        ],
+        "Penny (opening door)": [
+            [
+                230,
+                "Sheldon?"
+            ]
+        ],
+        "Computer voice": [
+            [
+                231,
+                "I have an inflamed larynx."
+            ],
+            [
+                233,
+                "We\u2019re out of herbal tea. Do you have any?"
+            ],
+            [
+                235,
+                "Some hiney would be nice, too."
+            ],
+            [
+                237,
+                "Honey."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Steph",
+            "I don\u2019t see anything at all, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Well, you\u2019re the doctor, but I am constantly hearing this annoying sound."
+        ],
+        [
+            "Leonard",
+            "Me, too."
+        ],
+        [
+            "Sheldon",
+            "Is it a high-frequency whistle?"
+        ],
+        [
+            "Leonard",
+            "No, it\u2019s more of a relentless, narcissistic drone."
+        ],
+        [
+            "Steph",
+            "Yup, there\u2019s no inflammation at all, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Then it must be a tumour."
+        ],
+        [
+            "Steph",
+            "I Seriously doubt it."
+        ],
+        [
+            "Leonard",
+            "Maybe it\u2019s a lingering bacterial infection from all those childhood toilet swirlies."
+        ],
+        [
+            "Sheldon",
+            "Is that possible? I used to get those all the time. Even in church."
+        ],
+        [
+            "Steph",
+            "Well, you know, if it is from a swirly, there\u2019s something I can do. Okay, circle, circle, dot, dot, now you have a cootie shot! I\u2019m going to bed"
+        ],
+        [
+            "Leonard",
+            "Okay, I\u2019ll be right in."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not enough that she mocks me, but that isn\u2019t even the correct procedure for a cootie shot."
+        ],
+        [
+            "Leonard",
+            "Do you understand that Stephanie\u2019s not here to treat your imaginary ailments?"
+        ],
+        [
+            "Sheldon",
+            "How is it imaginary that I keep hearing an octave above Middle C? Is that imaginary? I don\u2019t think so."
+        ],
+        [
+            "Leonard",
+            "Good night."
+        ],
+        [
+            "Sheldon",
+            "Leonard, there\u2019s one more thing. Under Article One, Section Three of our Roommate Agreement, I\u2019m calling an emergency meeting."
+        ],
+        [
+            "Leonard",
+            "No, you\u2019re not."
+        ],
+        [
+            "Sheldon",
+            "Leonard moves the meeting not occur. Is there a second? None heard, the motion fails. I\u2019d like to begin the meeting by congratulating you on the progress in your relationship with Dr. Stephanie."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "That being said, we have to discuss the implementation of the agreed upon \u201ccohabitation\u201d rider which has been activated now that the two of you are living together."
+        ],
+        [
+            "Leonard",
+            "We\u2019re not living together."
+        ],
+        [
+            "Sheldon: I beg to disagree. \u201cA girlfriend shall be deemed quote living with un-quote Leonard when she has stayed over for A, ten consecutive nights or B, more than nine nights in three week period or C",
+            "all the weekends of a given month plus three weeknights."
+        ],
+        [
+            "Leonard",
+            "That\u2019s absurd."
+        ],
+        [
+            "Sheldon",
+            "You initialed it. See? L.H., L.H., L.H."
+        ],
+        [
+            "Leonard",
+            "Wait, I only initialed it because I never thought it would happen! I initialed another clause naming you my sidekick in case I get superpowers."
+        ],
+        [
+            "Sheldon",
+            "Hmm, yes, you did. Now, to review the following provisions are hereby activated. In the refrigerator, as opposed to us having two separate shelves and one communal shelf, the three of us now get individual shelves and the door becomes communal. Next, apartment vacuuming shall be increased from two to three times a week to accommodate the increased accumulation of dead skin cells. Third,the bathroom schedule. Now, I\u2019m given to understand women have different needs, so, we\u2019ll have to discuss that."
+        ],
+        [
+            "Leonard",
+            "I\u2019m going to bed."
+        ],
+        [
+            "Sheldon",
+            "At least take this with you. Look, and have Stephanie initial here, here, here, here and here. This states that she does not now nor does she intend to play a percussive or brass instrument. Sure it sounds like a tumor pressing on the auditory nerve."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The kitchen."
+        ],
+        [
+            "Leonard",
+            "No, absolutely not."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not a big deal. We have latex gloves."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t care what the symptoms are, my girlfriend is not going to give you a prostate exam."
+        ],
+        [
+            "Steph",
+            "Hi, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Good morning, Dr. Stephanie. I trust Leonard satisfied you sexually last night."
+        ],
+        [
+            "Leonard",
+            "Oh come on! Sheldon, we don\u2019t ask questions like that."
+        ],
+        [
+            "Sheldon",
+            "I heard you ask it over and over. How is it inappropriate for me to ask it once?"
+        ],
+        [
+            "Steph",
+            "He did very nicely."
+        ],
+        [
+            "Sheldon",
+            "See? She\u2019s not offended. And now you finally have an answer."
+        ],
+        [
+            "Penny (entering)",
+            "Out of coffee. Need coffee."
+        ],
+        [
+            "Steph",
+            "Uh, hello."
+        ],
+        [
+            "Penny",
+            "Hi! Stephanie, right?"
+        ],
+        [
+            "Steph",
+            "Uh-huh. And, and, and you are?"
+        ],
+        [
+            "Penny",
+            "I\u2019m Penny, I live across the hall. I\u2019ve heard a lot about you."
+        ],
+        [
+            "Steph",
+            "Really?"
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Steph",
+            "I haven\u2019t heard a thing about you. Leonard? Why haven\u2019t I heard a thing about this woman who lives across the hall and comes into your apartment in the morning in her underwear?"
+        ],
+        [
+            "Leonard",
+            "She\u2019s heard about you because we\u2019re, you know, involved and you haven\u2019t heard about her because\u2026 I never slept with her, I swear!"
+        ],
+        [
+            "Sheldon",
+            "In Leonard\u2019s defence, it wasn\u2019t for lack of trying."
+        ],
+        [
+            "Leonard",
+            "Thank you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re welcome, Leonard."
+        ],
+        [
+            "Leonard",
+            "Look, I\u2019m just saying, um, Penny is one of our many neighbours, you know, and in our building, neighbours come and go, it\u2019s very casual, no dress code. In fact, some mornings I\u2019ll just mosey down to the third floor in my pyjamas and have cereal with Mrs. Vartabedian."
+        ],
+        [
+            "Sheldon",
+            "Really? I have never once been invited to have cereal with Mrs. Vartabedian."
+        ],
+        [
+            "Leonard",
+            "She doesn\u2019t like you. Um, well, uh, you have a gall bladder to remove and I have to get in the shower and Penny has clothes to put on, so\u2026"
+        ],
+        [
+            "Steph",
+            "Well, it was very nice meeting you."
+        ],
+        [
+            "Penny",
+            "Nice to finally meet you, too."
+        ],
+        [
+            "Steph",
+            "\u00a0And I\u2019ll see you tonight?"
+        ],
+        [
+            "Leonard",
+            "Okay, bye-bye."
+        ],
+        [
+            "Steph",
+            "Bye."
+        ],
+        [
+            "Sheldon",
+            "What could I possibly have done to offend Mrs. Vartabedian?"
+        ],
+        [
+            "Penny",
+            "So, that\u2019s Stephanie, huh?"
+        ],
+        [
+            "Leonard",
+            "Why do I feel like I\u2019m the one that just got the prostate exam?"
+        ],
+        [
+            "Penny",
+            "You know, she seems very nice."
+        ],
+        [
+            "Sheldon",
+            "Oh, she is. She\u2019s terrific, and she\u2019s proving to be a valuable roommate."
+        ],
+        [
+            "Penny",
+            "Roommate? You guys are living together?"
+        ],
+        [
+            "Sheldon",
+            "Like hippies."
+        ],
+        [
+            "Leonard",
+            "We\u2019re not living together."
+        ],
+        [
+            "Sheldon",
+            "Do I have to pull out the paperwork again?"
+        ],
+        [
+            "Leonard",
+            "We\u2019re not living together."
+        ],
+        [
+            "Penny",
+            "Are you sure?"
+        ],
+        [
+            "Leonard",
+            "How could I not be sure?"
+        ],
+        [
+            "Penny",
+            "Well, let\u2019s find out."
+        ],
+        [
+            "Leonard",
+            "Don\u2019t you think if a woman was living with me I\u2019d be the first one to know about it?"
+        ],
+        [
+            "Penny",
+            "Oh, sweetie, you\u2019d be the last one to know about it. (Looking through his wardrobe) Hmm, cute dresses. I bet this looks great on you!"
+        ],
+        [
+            "Leonard",
+            "We\u2019re not living together."
+        ],
+        [
+            "Penny",
+            "Okay, hmm, scented candles, fuzzy slippers, ooh, floral bed sheets?"
+        ],
+        [
+            "Leonard",
+            "We\u2019re not living together."
+        ],
+        [
+            "Penny",
+            "Okay, moving on. Now, who are these guys at Disney World?"
+        ],
+        [
+            "Leonard",
+            "Uh, the big dog is Goofy, and the older couple with the mouse ears , I have no idea. We\u2019re not living together!"
+        ],
+        [
+            "Penny",
+            "You\u2019re going to go down swinging, huh? All right, well, we got your body lotion, your InStyle Magazine, your jewellery box."
+        ],
+        [
+            "Leonard",
+            "We\u2019re not\u2026 Where\u2019s my Bat Signal?"
+        ],
+        [
+            "Penny",
+            "You have a Bat Signal?"
+        ],
+        [
+            "Leonard",
+            "I did. It was right here. She must\u2019ve\u2026 Oh, my God, we\u2019re living together."
+        ],
+        [
+            "Penny",
+            "Really? What was your first clue?"
+        ],
+        [
+            "Scene",
+            "The university cafeteria."
+        ],
+        [
+            "Howard",
+            "New pants?"
+        ],
+        [
+            "Leonard",
+            "Yeah, Stephanie got them for me."
+        ],
+        [
+            "Howard",
+            "Nice. Cotton?"
+        ],
+        [
+            "Leonard",
+            "Actually, I think it\u2019s more of wool, fire ant blend."
+        ],
+        [
+            "Howard",
+            "So, the girlfriend\u2019s buying clothes for you, huh? Sounds serious."
+        ],
+        [
+            "Leonard",
+            "It is actually. In fact, I gave it a lot of thought and I decided it was time for us to live together."
+        ],
+        [
+            "Howard",
+            "Uh, Leonard, huge mistake. There\u2019s a whole buffet of women out there and you\u2019re just standing in the corner eating the same devilled egg over and over again."
+        ],
+        [
+            "Leonard",
+            "At least I have an egg. What do you have?"
+        ],
+        [
+            "Howard",
+            "A veritable smorgasbord of potential sexual partners. See the blonde over there? I can hit on her and you can\u2019t."
+        ],
+        [
+            "Leonard",
+            "So, go hit on her."
+        ],
+        [
+            "Howard",
+            "She\u2019s not my type."
+        ],
+        [
+            "Raj",
+            "Too bad, \u2019cause she was checking you out before."
+        ],
+        [
+            "Howard",
+            "She was?"
+        ],
+        [
+            "Raj",
+            "Of course not. Look at her."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t care what you guys think, Stephanie and I are very happy living together. I will give either of you 20 dollars, right now to trade pants with me."
+        ],
+        [
+            "Scene",
+            "The hospital."
+        ],
+        [
+            "Steph",
+            "Sheldon, what are you doing here?"
+        ],
+        [
+            "Sheldon",
+            "Hang on. 130 over 80. A little high. We can attribute that to the stress of sneaking past the security desk."
+        ],
+        [
+            "Steph",
+            "Where did you get the stethoscope and the blood pressure cuff?"
+        ],
+        [
+            "Sheldon",
+            "My aunt Marion gave them to me for my 12th birthday. She thought if I failed at theoretical physics that I should have a trade to fall back on. And by the way, the blood pressure cuff is called a sphygmomanometer."
+        ],
+        [
+            "Steph",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Didn\u2019t they teach you that in medical school?"
+        ],
+        [
+            "Steph",
+            "I\u2019m kinda busy here, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "I understand. All I need is for you to authorize these tests."
+        ],
+        [
+            "Steph",
+            "A cardiac stress test, a full body MRI, an electromyogram, a CBC, baseline glucose, upper GI?"
+        ],
+        [
+            "Sheldon",
+            "Oh, and an exploratory laparoscopy. Last time I had hiccups, it felt like my diaphragm was just going through the motions."
+        ],
+        [
+            "Steph",
+            "Go home, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Can I at least have the upper GI? I already drank the barium!"
+        ],
+        [
+            "Scene",
+            "The laundry room."
+        ],
+        [
+            "Penny",
+            "Oh hey."
+        ],
+        [
+            "Leonard",
+            "Oh, good. Do you have any fabric softener?"
+        ],
+        [
+            "Penny",
+            "Yeah, sure. What are you washing? A crocodile?"
+        ],
+        [
+            "Leonard",
+            "No, the pants that Stephanie got me."
+        ],
+        [
+            "Penny",
+            "Oh, sweetie, you can\u2019t machine wash these. They\u2019ll be ruined."
+        ],
+        [
+            "Leonard",
+            "Are you sure?"
+        ],
+        [
+            "Penny",
+            "Absolutely."
+        ],
+        [
+            "Leonard",
+            "Oh, no. I wish you\u2019d told me that sooner."
+        ],
+        [
+            "Penny",
+            "Are you guys having problems?"
+        ],
+        [
+            "Leonard",
+            "No, everything\u2019s fine."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Leonard",
+            "Yeah. It\u2019s wonderful. Okay, maybe this whole living together happened kind of suddenly, but it\u2019s fine, it\u2019s great."
+        ],
+        [
+            "Penny",
+            "Okay, Leonard, honey, you know, if you\u2019re uncomfortable with the way things are going, you\u2019re allowed to say something."
+        ],
+        [
+            "Leonard",
+            "Are you sure? That doesn\u2019t sound right."
+        ],
+        [
+            "Penny",
+            "Believe me, your feelings are just as important as hers."
+        ],
+        [
+            "Leonard",
+            "No that doesn\u2019t sound right either."
+        ],
+        [
+            "Penny",
+            "Just tell her you need the relationship to move at a pace that you both are comfortable with."
+        ],
+        [
+            "Leonard",
+            "Yeah, I could say something like that to her. I\u2019ll go do that. Thank you."
+        ],
+        [
+            "Penny",
+            "Sure."
+        ],
+        [
+            "Leonard",
+            "You have a really good grasp on this. Maybe you could talk to her?"
+        ],
+        [
+            "Penny",
+            "You\u2019re kidding, right?"
+        ],
+        [
+            "Leonard",
+            "No, but that\u2019s okay. I\u2019ll go talk to her. Want to come with?"
+        ],
+        [
+            "Penny",
+            "Go! Wow."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Steph",
+            "Oh, no."
+        ],
+        [
+            "Sheldon",
+            "Wha??"
+        ],
+        [
+            "Steph",
+            "You were right. Your larynx is terribly inflamed. I mean, I\u2019ve never seen anything like it."
+        ],
+        [
+            "Sheldon",
+            "I knew it! What do I do?"
+        ],
+        [
+            "Steph",
+            "You\u2019re going to need to stop talking immediately."
+        ],
+        [
+            "Sheldon",
+            "For how\u2026"
+        ],
+        [
+            "Steph",
+            "Du-du-du-du! Immediately."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Steph",
+            "Oh, hi, honey."
+        ],
+        [
+            "Leonard",
+            "Sheldon. (He waves) What\u2019s going on?"
+        ],
+        [
+            "Steph",
+            "I just performed a Sheldonectomy."
+        ],
+        [
+            "Leonard",
+            "Careful, if you don\u2019t get it all, it\u2019ll only come back worse."
+        ],
+        [
+            "Steph",
+            "Gotcha."
+        ],
+        [
+            "Leonard",
+            "Listen, we need to talk."
+        ],
+        [
+            "Steph",
+            "Oh-oh. Do we need to talk or do we \u201cneed to talk\u201d?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know what that means."
+        ],
+        [
+            "Steph",
+            "Okay, why don\u2019t you just tell me what it is you have to tell me?"
+        ],
+        [
+            "Leonard",
+            "Okay, um, well, look, it\u2019s just that things between you and me have been going pretty quick."
+        ],
+        [
+            "Steph",
+            "And?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s just a little scary."
+        ],
+        [
+            "Steph",
+            "Well, yeah, but scary good, right?"
+        ],
+        [
+            "Leonard",
+            "Sure, when is scary not good? But, okay, um, I have feelings, right?"
+        ],
+        [
+            "Steph",
+            "Uh-huh."
+        ],
+        [
+            "Leonard",
+            "Okay, and it\u2019s perfectly okay to express those feelings, right?"
+        ],
+        [
+            "Steph",
+            "Of course honey why don\u2019t you tell me what it is you\u2019re feeling?"
+        ],
+        [
+            "Leonard",
+            "Okay, well, I ju\u2026 I think it\u2019s important to remember that we move at a pace that is our speed and\u2026 oh, shoot, I had it!"
+        ],
+        [
+            "Steph",
+            "Okay, how about this? How about I tell you what I\u2019m feeling?"
+        ],
+        [
+            "Leonard",
+            "What\u2019s that? Really? Right now?"
+        ],
+        [
+            "Steph",
+            "Why not?"
+        ],
+        [
+            "Leonard",
+            "I just ate, aren\u2019t you supposed to wait an hour?"
+        ],
+        [
+            "Steph",
+            "I think that\u2019s for swimming."
+        ],
+        [
+            "Leonard",
+            "Oh, okay. I just hope I don\u2019t get cramps."
+        ],
+        [
+            "Steph",
+            "Yeah."
+        ],
+        [
+            "Scene",
+            "The laundry room."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "Hey. Oh, I put your clothes in the dryer."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "Your pants are ruined."
+        ],
+        [
+            "Leonard",
+            "Good."
+        ],
+        [
+            "Penny",
+            "So, how did the talk with Stephanie go?"
+        ],
+        [
+            "Leonard",
+            "Well, um, on one level, really, really well."
+        ],
+        [
+            "Penny",
+            "So, you told her you wanted to slow things down?"
+        ],
+        [
+            "Leonard",
+            "Not specifically, but, uh, I did tell her that I had feelings."
+        ],
+        [
+            "Penny",
+            "Good, good. And then what?"
+        ],
+        [
+            "Leonard",
+            "And then the, the subject got changed somehow."
+        ],
+        [
+            "Penny",
+            "You had sex, didn\u2019t you?"
+        ],
+        [
+            "Leonard",
+            "Um, little bit. (She looks at her watch) What?"
+        ],
+        [
+            "Penny",
+            "Nothing. Okay, well, it sounds like things are going to work out."
+        ],
+        [
+            "Leonard",
+            "Yeah, yeah it\u2019s all good. Everything\u2019s going to work out. One way or another."
+        ],
+        [
+            "Penny",
+            "Come on, Leonard, you are entitled to try and make things go the way you want them to."
+        ],
+        [
+            "Leonard",
+            "Really?"
+        ],
+        [
+            "Penny",
+            "Yes, you don\u2019t always have to go along with what the woman wants."
+        ],
+        [
+            "Leonard",
+            "Huh."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "Nothing, just rethinking my whole life. Okay, here\u2019s the thing, I\u2019m afraid that if I ask her to move out, she\u2019ll just dump me."
+        ],
+        [
+            "Penny",
+            "Well, it\u2019s a chance you have to take. I mean, look, if it\u2019s meant to be, it\u2019ll be."
+        ],
+        [
+            "Leonard",
+            "Very comforting. Okay, so what do I say to her?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know. I mean, what have women said to you when they wanted to slow a relationship down?"
+        ],
+        [
+            "Leonard",
+            "I really like you, but I want to see how things go with Mark?"
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019ll slow it down."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom. Leonard and Steph have just had sex. "
+        ],
+        [
+            "Steph",
+            "I\u2019m sorry, I totally interrupted you. What were you saying?"
+        ],
+        [
+            "Leonard",
+            "Oh, right, yeah, um, so, Stephanie, here\u2019s the thing. I really like you."
+        ],
+        [
+            "Steph",
+            "Oh, God, here comes the speech."
+        ],
+        [
+            "Leonard",
+            "What speech?"
+        ],
+        [
+            "Steph",
+            "I really like you, but maybe we should spend a little less time together \u2018cause I need my space but I\u2019ll call you on Tuesday, and then you never call me so I call you, but you don\u2019t call me back and then when I run into you at the coffee shop you pretend like you\u2019ve been having problems with your voice mail and I know that you\u2019re lying, but I pretend like I don\u2019t care even though I\u2019m dying inside!"
+        ],
+        [
+            "Leonard",
+            "No! No, no! I wasn\u2019t going to say any of that. I was just going to say, I really like you."
+        ],
+        [
+            "Steph",
+            "Oh. Oh, good! \u2018Cause I really like you, too."
+        ],
+        [
+            "Leonard",
+            "Terrific."
+        ],
+        [
+            "Scene",
+            "The university cafeteria. "
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Raj",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "Hey. Nice sweater."
+        ],
+        [
+            "Leonard",
+            "Yeah, Stephanie got it for me. It\u2019s kind of fun."
+        ],
+        [
+            "Raj",
+            "It\u2019s got a big bird on it, dude."
+        ],
+        [
+            "Leonard",
+            "Yeah, yeah, that\u2019s the fun part. We\u2019re also getting new curtains for my bedroom, and a dust ruffle, and a duvet, and I don\u2019t even know what a duvet is but I\u2019m pretty sure if I did I wouldn\u2019t want one, but every time I talk to her about moving out she cries and we have sex."
+        ],
+        [
+            "Raj",
+            "You\u2019re lucky. With me, it\u2019s usually the other way around."
+        ],
+        [
+            "Howard",
+            "You know, if you can\u2019t talk to her, why don\u2019t you just text her?"
+        ],
+        [
+            "Leonard",
+            "Isn\u2019t that kind of cowardly?"
+        ],
+        [
+            "Howard",
+            "Oh, yeah. It\u2019s beyond contemptible."
+        ],
+        [
+            "Raj",
+            "It\u2019s true, but on the other hand you are wearing a bird sweater."
+        ],
+        [
+            "Leonard",
+            "Sold. \u201cI think it would be better for our relationship if you moved back to your place.\u201d There. It\u2019s done."
+        ],
+        [
+            "Howard",
+            "Good for you."
+        ],
+        [
+            "Leonard",
+            "Yeah, good for me. I\u2019ll never have sex again. (Phone buzzes) I was wrong. See ya."
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s apartment. Sheldon has his laptop. He knocks three times, the presses a button and an electronic voice says \u201cPenny\u201d. He does this three times. "
+        ],
+        [
+            "Penny (opening door)",
+            "Sheldon?"
+        ],
+        [
+            "Computer voice",
+            "I have an inflamed larynx."
+        ],
+        [
+            "Penny",
+            "Okay?"
+        ],
+        [
+            "Computer voice",
+            "We\u2019re out of herbal tea. Do you have any?"
+        ],
+        [
+            "Penny",
+            "Okay, let me check."
+        ],
+        [
+            "Computer voice",
+            "Some hiney would be nice, too."
+        ],
+        [
+            "Penny",
+            "Hiney?"
+        ],
+        [
+            "Computer voice",
+            "Honey."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-2-episode-11-the-vartabedian-conundrum/"
+}

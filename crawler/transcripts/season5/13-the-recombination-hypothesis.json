@@ -1,0 +1,2160 @@
+{
+    "Season": 5,
+    "Episode": 13,
+    "Title": "the recombination hypothesis",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The stairwell."
+            ],
+            [
+                21,
+                "Credits sequence."
+            ],
+            [
+                22,
+                "Penny\u2019s bedroom."
+            ],
+            [
+                57,
+                "The apartment. The guys are playing a board game."
+            ],
+            [
+                79,
+                "A restaurant."
+            ],
+            [
+                121,
+                "The apartment."
+            ],
+            [
+                132,
+                "Leonard\u2019s bedroom. Leonard\u2019s phone text signal sounds."
+            ],
+            [
+                140,
+                "Penny\u2019s bedroom. They are in bed."
+            ],
+            [
+                163,
+                "The apartment. Leonard is sneaking back in."
+            ],
+            [
+                193,
+                "The Cheesecake Factory."
+            ],
+            [
+                226,
+                "Leonard\u2019s bedroom. Text signal."
+            ],
+            [
+                235,
+                "Penny\u2019s bedroom."
+            ],
+            [
+                253,
+                "Penny\u2019s bedroom."
+            ],
+            [
+                259,
+                "(In her imagination, Penny is transported to her wedding day.)"
+            ],
+            [
+                262,
+                "(Back in the bedroom)"
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "You feel like trying something new for dinner? Maybe Indian, Tex-Mex?"
+            ],
+            [
+                3,
+                "Okay, let\u2019s talk about that."
+            ],
+            [
+                5,
+                "We all do. Now, how about dinner?"
+            ],
+            [
+                10,
+                "Excuse me, Amy. Penny, do you have plans for dinner tonight?"
+            ],
+            [
+                12,
+                "No, I mean just you and me."
+            ],
+            [
+                14,
+                "Not like a date, a date."
+            ],
+            [
+                59,
+                "Okay, how do I look?"
+            ],
+            [
+                61,
+                "What are you talking about?"
+            ],
+            [
+                63,
+                "I didn\u2019t defile your sister, we had a relationship."
+            ],
+            [
+                66,
+                "Oh, boy, do I?"
+            ],
+            [
+                70,
+                "Where on earth did you get that from?"
+            ],
+            [
+                72,
+                "That doesn\u2019t make it true."
+            ],
+            [
+                74,
+                "See you later."
+            ],
+            [
+                80,
+                "So, do they have a name for a first date with someone you used to go out with?"
+            ],
+            [
+                82,
+                "Yeah, that sounds right."
+            ],
+            [
+                84,
+                "Hey, how about if we pretend we\u2019re actually on a first date? See how that goes."
+            ],
+            [
+                86,
+                "So, Polly, tell me about yourself."
+            ],
+            [
+                88,
+                "Oh, sorry, yeah. Awkward."
+            ],
+            [
+                90,
+                "Uh, let\u2019s see. Uh, I am an experimental physicist at Cal-Tech, most of my research is with high-powered lasers, and, oh, I\u2019ve just gotten a big government grant to see if they can be used to knock out incoming ballistic missiles."
+            ],
+            [
+                92,
+                "Oh, God, no. The money\u2019s pretty good. And I used the equipment to make my own Bat-signal."
+            ],
+            [
+                94,
+                "Not some kind of nerd, I am the king of the nerds."
+            ],
+            [
+                96,
+                "Uh, it means if anyone displeases me, I don\u2019t help them set up their printer."
+            ],
+            [
+                98,
+                "Good. Remember that when I take my shirt off."
+            ],
+            [
+                100,
+                "Me, too. So what do you think? Are we gonna get back together?"
+            ],
+            [
+                102,
+                "I\u2019m sorry, what did I say?"
+            ],
+            [
+                104,
+                "Oh, God."
+            ],
+            [
+                106,
+                "You said always. You\u2019ll always have feelings for me."
+            ],
+            [
+                108,
+                "So, that sounds more like something you\u2019d say if you didn\u2019t want a relationship with someone. This isn\u2019t working out, but I\u2019ll always have feelings for you. I\u2019m sorry I slept with your best friend, but I\u2019ll always have feelings for you. Here\u2019s the thing, Lisa, I\u2019m into dudes now, but I\u2019ll always have feelings for you."
+            ],
+            [
+                110,
+                "I have feelings for you."
+            ],
+            [
+                112,
+                "No, it\u2019s not. Always made it worse."
+            ],
+            [
+                114,
+                "No, I\u2019m not."
+            ],
+            [
+                116,
+                "Ah now th-th-there you go. Always made it worse."
+            ],
+            [
+                118,
+                "Well, I don\u2019t know how you have a relationship without talking."
+            ],
+            [
+                120,
+                "Wait, if you guys didn\u2019t talk, what did you\u2026 never mind, stupid question."
+            ],
+            [
+                125,
+                "You\u2019re thirty years old and you live with your mother."
+            ],
+            [
+                133,
+                "What does she want from me now? (Goes to front door, where Penny is waiting) What\u2019s up?"
+            ],
+            [
+                135,
+                "I don\u2019t understand."
+            ],
+            [
+                137,
+                "Okay, but earlier it seemed like\u2026"
+            ],
+            [
+                139,
+                "Even during? \u2018Cause sometimes I have questions."
+            ],
+            [
+                142,
+                "Yeah, except for when I got the foot cramp."
+            ],
+            [
+                144,
+                "Well, there was a lot at stake."
+            ],
+            [
+                146,
+                "Well, I want to go get my asthma inhaler, but it might ruin the moment. Just, just help me out here. How does a miserable date end in sex?"
+            ],
+            [
+                148,
+                "Well, I\u2019m a pretty smart guy, and right now my brain has dibs on the blood supply, so give it a go."
+            ],
+            [
+                150,
+                "Why? What are you afraid of?"
+            ],
+            [
+                152,
+                "What if I dump you?"
+            ],
+            [
+                154,
+                "Well, how about if we don\u2019t think about this as a relationship? It could be more like a new version of software. Penny and Leonard 2.0. We can test it internally, shake out the bugs, and if we both feel it\u2019s solid, then we\u2019ll roll it out to the public."
+            ],
+            [
+                156,
+                "Exactly. We pretend like our date went badly."
+            ],
+            [
+                158,
+                "And we let them think that we decided to just be friends and that everything\u2019s cool."
+            ],
+            [
+                160,
+                "I can\u2019t believe you kept this."
+            ],
+            [
+                162,
+                "That is so sweet. In 25 to 30 minutes I\u2019m gonna show you how much this means to me."
+            ],
+            [
+                165,
+                "Yeah, hi, hi. How\u2019s it going?"
+            ],
+            [
+                167,
+                "Well, uh, uh, what are you doing up?"
+            ],
+            [
+                169,
+                "Yeah, well, so was I."
+            ],
+            [
+                171,
+                "Obviously, when I saw that you were in ours, I went and used another one."
+            ],
+            [
+                173,
+                "The, the gas station across the street."
+            ],
+            [
+                175,
+                "Yes."
+            ],
+            [
+                177,
+                "Yes."
+            ],
+            [
+                179,
+                "Yes."
+            ],
+            [
+                181,
+                "Uh, uh, uh, yes, I did."
+            ],
+            [
+                183,
+                "What?"
+            ],
+            [
+                185,
+                "What?"
+            ],
+            [
+                187,
+                "No."
+            ],
+            [
+                189,
+                "I don\u2019t want beef jerky."
+            ],
+            [
+                191,
+                "Fine."
+            ],
+            [
+                200,
+                "We are next to a Suburu with a Gore/Lieberman bumper sticker."
+            ],
+            [
+                203,
+                "Well, hey, we\u2019re grown-ups. We can still be friends."
+            ],
+            [
+                213,
+                "Yeah, it\u2019s all good. We-We\u2019ll always have feelings for each other."
+            ],
+            [
+                215,
+                "See, she knew what always meant."
+            ],
+            [
+                217,
+                "I\u2019m just making a point."
+            ],
+            [
+                221,
+                "Oh, that is not true."
+            ],
+            [
+                224,
+                "Well\u2026"
+            ],
+            [
+                227,
+                "Unbelievable. (Goes to door)"
+            ],
+            [
+                229,
+                "Well, I was trying to act like we weren\u2019t seeing each other. That was the plan, right?"
+            ],
+            [
+                231,
+                "You know what? I don\u2019t have to stand here and take this crap. (Goes to Penny\u2019s apartment.)"
+            ],
+            [
+                233,
+                "Isn\u2019t sex after fighting kind of what we do now?"
+            ],
+            [
+                236,
+                "What are we doing?"
+            ],
+            [
+                238,
+                "Every scenario I play out for you and me ends badly."
+            ],
+            [
+                241,
+                "What? Yeah."
+            ],
+            [
+                243,
+                "I don\u2019t know, he was pretty badass on Heroes."
+            ],
+            [
+                245,
+                "Hang on. Penny, do you have plans for dinner?"
+            ],
+            [
+                247,
+                "No, I mean just you and me."
+            ],
+            [
+                251,
+                "Yes, and I think we should go anyway."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "You ever wonder how humans would be different if they evolved from lizards instead of mammals?"
+            ],
+            [
+                4,
+                "As you know, lizards, cold-blooded animals, lack the ability to sense temperature. But they do move more sluggishly when it\u2019s cold. So, lizard weathermen would say things like, bring a sweater, it\u2019s slow outside. I love my mind."
+            ],
+            [
+                6,
+                "Oh, I would assume we\u2019d enjoy insects or smaller lizards. We could also pull each other\u2019s tails off and grill them, they\u2019ll just grow back. Oh! My life-size cardboard Mr. Spock is here! I know he wouldn\u2019t care for an outburst of human emotion, but, oh goodie, oh goodie, oh goodie. Commander Spock requesting permission to be unfolded."
+            ],
+            [
+                8,
+                "Permission granted, Commander."
+            ],
+            [
+                20,
+                "Oh, no! They sent the wrong Spock! Live long and suck it, Zachary Quinto."
+            ],
+            [
+                65,
+                "You want to know my opinion?"
+            ],
+            [
+                67,
+                "Sarcasm?"
+            ],
+            [
+                69,
+                "All right, then. The reason you\u2019re fixated on a good-natured simpleton like Penny is that she\u2019s the exact opposite of your first romantic attachment, your brilliant yet intimidating mother."
+            ],
+            [
+                71,
+                "It\u2019s in her book, Needy Baby, Greedy Baby."
+            ],
+            [
+                73,
+                "It\u2019s called non-fiction for a reason, Leonard."
+            ],
+            [
+                78,
+                "Now, where were we? Oh, yes. Does anyone have any wood? Oh, come on! I just want wood. Why are you making it so hard?"
+            ],
+            [
+                122,
+                "And now that I have some wood, I\u2019m going to begin the erection of my settlement."
+            ],
+            [
+                127,
+                "We don\u2019t know that. Not to a certainty. All we know is that Leonard is home."
+            ],
+            [
+                129,
+                "Again, not enough evidence. For all we know, he\u2019s being murdered. Now, back to our game."
+            ],
+            [
+                131,
+                "Oh, of course. It\u2019s right here in my hand."
+            ],
+            [
+                164,
+                "Leonard?"
+            ],
+            [
+                166,
+                "Uh, can\u2019t complain. Thanks for asking. Well, what were you doing out at three o\u2019clock in the morning?"
+            ],
+            [
+                168,
+                "I was using the bathroom."
+            ],
+            [
+                170,
+                "Really? I didn\u2019t see you in there."
+            ],
+            [
+                172,
+                "Where?"
+            ],
+            [
+                174,
+                "In your pyjamas?"
+            ],
+            [
+                176,
+                "Without shoes?"
+            ],
+            [
+                178,
+                "On a cold winter\u2019s night?"
+            ],
+            [
+                180,
+                "Seems unlikely. Did you bring your asthma inhaler?"
+            ],
+            [
+                182,
+                "Well, then, I guess it\u2019s plausible. Hang on a second, mister."
+            ],
+            [
+                184,
+                "After you used the facilities at the gas station, did you make a purchase?"
+            ],
+            [
+                186,
+                "It\u2019s customary, when using the rest room at a retail establishment, to make a small purchase. Did you?"
+            ],
+            [
+                188,
+                "Here\u2019s two dollars. Go buy some beef jerky."
+            ],
+            [
+                190,
+                "It\u2019s not about you. It\u2019s about a poor immigrant from Pakistan trying to make his way in America by working the graveyard shift at the Colorado Boulevard Chevron."
+            ],
+            [
+                192,
+                "Needy Baby, Greedy Baby indeed."
+            ],
+            [
+                194,
+                "Leonard will be here in a moment. He\u2019s looking for a different parking space."
+            ],
+            [
+                196,
+                "We were next to a car with an ask me about my grandchildren bumper sticker, and I was afraid if we ran into them on the way out, I\u2019d be obligated to do so."
+            ],
+            [
+                199,
+                "You have a keen insight into the human heart, Amy Farrah Fowler."
+            ],
+            [
+                201,
+                "Well, I doubt they\u2019d want to talk about that, so we\u2019re fine."
+            ],
+            [
+                219,
+                "People, people, please, before you say something you both regret, I\u2019d like to place my order."
+            ],
+            [
+                222,
+                "I\u2019ve got to go with Leonard on this. He is wrong more than anyone I know."
+            ],
+            [
+                225,
+                "Leonard, promise me that when our new waitress comes over, you will not start a complicated on-again, off-again relationship with her, because I am very, very hungry."
+            ],
+            [
+                242,
+                "This is a disaster. I distinctly ordered the Leonard Nimoy Mr. Spock cardboard standee. Why would I feel safer with Zachary Quinto at the foot of my bed?"
+            ],
+            [
+                244,
+                "You\u2019re right, I\u2019ll give him a shot."
+            ],
+            [
+                252,
+                "No, can\u2019t do it. Sorry, Quinto, you\u2019re going back."
+            ]
+        ],
+        "Leonard (seeing Penny\u2019s door open and the girls inside)": [
+            [
+                7,
+                "Excuse me."
+            ]
+        ],
+        "Amy": [
+            [
+                9,
+                "Which is why the more intelligent the monkey, the more faeces they fling."
+            ],
+            [
+                15,
+                "Ooh!"
+            ],
+            [
+                18,
+                "Ooh!"
+            ],
+            [
+                24,
+                "How come you never invite Sheldon and me on a double date?"
+            ],
+            [
+                28,
+                "No."
+            ],
+            [
+                30,
+                "You just can\u2019t handle her raw sexuality, can you?"
+            ],
+            [
+                35,
+                "Maybe he\u2019s dying. That would be so romantic."
+            ],
+            [
+                37,
+                "Too bad. If he were, she could just throw him in bed and ride him right up until he flatlines."
+            ],
+            [
+                40,
+                "Come on."
+            ],
+            [
+                44,
+                "If he were dying, would you sleep with him?"
+            ],
+            [
+                46,
+                "Assuming he were dying of something that couldn\u2019t be sexually transmitted. You know, like a spear wound to the head."
+            ],
+            [
+                48,
+                "How do you know? Are you a doctor?"
+            ],
+            [
+                51,
+                "With a dead man."
+            ],
+            [
+                55,
+                "Guess it\u2019ll just be Sheldon and me going on a double date with Howard and Bernadette."
+            ],
+            [
+                198,
+                "Me, too. Out of deference to them, let\u2019s not flaunt our happy relationship."
+            ],
+            [
+                248,
+                "Ooh!"
+            ],
+            [
+                254,
+                "If you and Leonard get back together, Sheldon and I will finally have someone to go on double dates with."
+            ],
+            [
+                256,
+                "Fine, we can double with you, too. So insecure."
+            ],
+            [
+                258,
+                "Penny?"
+            ],
+            [
+                263,
+                "Penny?"
+            ]
+        ],
+        "Penny": [
+            [
+                11,
+                "Why, you guys going somewhere?"
+            ],
+            [
+                13,
+                "You mean, like a date?"
+            ],
+            [
+                17,
+                "Um, o-okay. Sure."
+            ],
+            [
+                26,
+                "Just a sec. (Emerges in revealing slinky green dress) Too much?"
+            ],
+            [
+                29,
+                "Okay, just hang on."
+            ],
+            [
+                32,
+                "Uh, about two years ago."
+            ],
+            [
+                34,
+                "I don\u2019t know."
+            ],
+            [
+                36,
+                "He\u2019s not dying."
+            ],
+            [
+                38,
+                "How about this?"
+            ],
+            [
+                41,
+                "Yeah, okay, no."
+            ],
+            [
+                43,
+                "Absolutely not. Look, we\u2019re just gonna have dinner and, you know, see how it goes."
+            ],
+            [
+                45,
+                "What?"
+            ],
+            [
+                47,
+                "Okay, he is not dying."
+            ],
+            [
+                50,
+                "Screw it. I\u2019m not gonna make a big deal out of this. It\u2019s just dinner."
+            ],
+            [
+                52,
+                "Amy, stop it. Oh, God, I\u2019m so nervous."
+            ],
+            [
+                54,
+                "I know, but we\u2019ve finally gotten to a place where we can hang out without it being weird. And what if something goes wrong? Then what?"
+            ],
+            [
+                81,
+                "Oh, that\u2019s a good question. How about awkward?"
+            ],
+            [
+                83,
+                "Yeah?"
+            ],
+            [
+                85,
+                "Okay."
+            ],
+            [
+                87,
+                "It\u2019s Penny."
+            ],
+            [
+                89,
+                "Okay, uh, let\u2019s see. I\u2019m from Nebraska, and ever since I was a little girl, I dreamed of moving to L.A. and becoming a movie star. Anyway, after four years of acting lessons and waiting tables, I\u2019ve done a haemorrhoid commercial and a production of Anne Frank above a bowling alley. So, you know, dreams do come true. Your turn."
+            ],
+            [
+                91,
+                "Wow. Can they?"
+            ],
+            [
+                93,
+                "Bat-signal? What are you, some kind of nerd?"
+            ],
+            [
+                95,
+                "What does that mean?"
+            ],
+            [
+                97,
+                "You are so funny."
+            ],
+            [
+                99,
+                "Leonard, this is nice. I\u2019m so glad we did this."
+            ],
+            [
+                101,
+                "Whoa. Not so fast."
+            ],
+            [
+                103,
+                "Leonard, you know I will always have feelings for you."
+            ],
+            [
+                105,
+                "What?"
+            ],
+            [
+                107,
+                "So?"
+            ],
+            [
+                109,
+                "How would you say it?"
+            ],
+            [
+                111,
+                "It\u2019s the same thing."
+            ],
+            [
+                113,
+                "You\u2019re overthinking this."
+            ],
+            [
+                115,
+                "Yes, you are. You always overthink things."
+            ],
+            [
+                117,
+                "See, this is where everything goes wrong, when we talk."
+            ],
+            [
+                119,
+                "Hey, I went out with this guy TJ for eight months, we never talked. To this day, I don\u2019t even know what TJ stands for."
+            ],
+            [
+                134,
+                "Do not overthink this. (Kisses him, then leads him to her apartment.) "
+            ],
+            [
+                136,
+                "Bup-bup-bup-bup-bup-bup-bup."
+            ],
+            [
+                138,
+                "No talking."
+            ],
+            [
+                141,
+                "Well, that was fun."
+            ],
+            [
+                143,
+                "You hung in there, though."
+            ],
+            [
+                145,
+                "So what do you want to do now?"
+            ],
+            [
+                147,
+                "I don\u2019t know, it\u2019s complicated."
+            ],
+            [
+                149,
+                "Okay, it\u2019s just, at the restaurant when you said you wanted us to be together again, it got very real very fast and I panicked."
+            ],
+            [
+                151,
+                "Well, what if we do go out and I do something stupid and dump you again?"
+            ],
+            [
+                153,
+                "Come on, be serious."
+            ],
+            [
+                155,
+                "So we don\u2019t tell people we\u2019re back together?"
+            ],
+            [
+                157,
+                "Well, we don\u2019t really have to pretend."
+            ],
+            [
+                159,
+                "Okay, great. Hey, I just remembered. I still got one of your inhalers."
+            ],
+            [
+                161,
+                "Yeah, I was gonna throw it away, but I just couldn\u2019t."
+            ],
+            [
+                209,
+                "Here you go, guys, let me get you going with some water. You need menus or you know what you want?"
+            ],
+            [
+                212,
+                "No, that\u2019s okay, Bernadette. Sometimes these things just don\u2019t work out."
+            ],
+            [
+                216,
+                "Wow, you\u2019re like a dog with a bone, aren\u2019t you?"
+            ],
+            [
+                218,
+                "Is the point that you don\u2019t know when to let something go?"
+            ],
+            [
+                220,
+                "Yeah, just hang on, Sheldon. You know why we can\u2019t be together? Because you always have to be right."
+            ],
+            [
+                223,
+                "You know what? I just realized I\u2019m on a break. I\u2019ll get someone else."
+            ],
+            [
+                228,
+                "Mind explaining to me why you were being such a jerk at the restaurant?"
+            ],
+            [
+                230,
+                "No, the plan was to tell people we decided to stay friends. That\u2019s a little hard to do when you\u2019re always being such a tool bag."
+            ],
+            [
+                232,
+                "The hell do you think you\u2019re going?"
+            ],
+            [
+                234,
+                "Yeah, kind of, yeah."
+            ],
+            [
+                237,
+                "What do you mean?"
+            ],
+            [
+                239,
+                "That\u2019s because you overthink everything."
+            ],
+            [
+                246,
+                "Why, you guys going somewhere?"
+            ],
+            [
+                250,
+                "Uh, have you thought this through?"
+            ],
+            [
+                264,
+                "Sorry, just remembered I\u2019ve got to stop by the drugstore."
+            ]
+        ],
+        "Bernadette": [
+            [
+                16,
+                "Ooh!"
+            ],
+            [
+                19,
+                "Ooh!"
+            ],
+            [
+                23,
+                "This is so exciting. If Leonard and Penny get back together, Howard and I can go on double dates with them."
+            ],
+            [
+                25,
+                "Mm, uh\u2026 How\u2019s it going in there, Penny?"
+            ],
+            [
+                27,
+                "Yes."
+            ],
+            [
+                31,
+                "When did you and Leonard break up?"
+            ],
+            [
+                33,
+                "Why do you think he asked you out again?"
+            ],
+            [
+                39,
+                "Maybe."
+            ],
+            [
+                42,
+                "Do you think you\u2019ll sleep with him tonight?"
+            ],
+            [
+                49,
+                "You can make-believe, though. Sometimes Howard and I pretend that his arrhythmia is acting up and I\u2019m a sexy cardiologist. And the naughty part is I\u2019m not in his HMO network."
+            ],
+            [
+                53,
+                "Relax. You know Leonard\u2019s always been crazy about you. It\u2019s gonna be great."
+            ],
+            [
+                56,
+                "Sure, we\u2019d love that. Change your clothes, we got a lot riding on this."
+            ],
+            [
+                197,
+                "I\u2019m so disappointed it didn\u2019t work with him and Penny."
+            ],
+            [
+                204,
+                "Boy, I don\u2019t know if I could be friends with Howie if we broke up."
+            ],
+            [
+                206,
+                "I\u2019m a very vengeful person."
+            ],
+            [
+                208,
+                "With access to weaponised smallpox."
+            ],
+            [
+                211,
+                "Howard."
+            ],
+            [
+                214,
+                "Oh, that\u2019s nice."
+            ],
+            [
+                249,
+                "Ooh!"
+            ],
+            [
+                255,
+                "What about me and Howard?"
+            ],
+            [
+                257,
+                "Where are you guys going to eat?"
+            ]
+        ],
+        "Sheldon: Mm. I want to build a road, but I need wood. Do either of you fellows have wood? (Raj and Howard snigger) I don\u2019t understand the laughter. The object of Settlers of Catan is to build roads and settlements. To do so requires wood. Now, I have sheep": [
+            [
+                58,
+                "I need wood. Who has wood for my sheep?"
+            ]
+        ],
+        "Howard": [
+            [
+                60,
+                "Well, more to the point, why are you doing this?"
+            ],
+            [
+                68,
+                "No."
+            ],
+            [
+                76,
+                "Why?"
+            ],
+            [
+                195,
+                "Why?"
+            ],
+            [
+                202,
+                "I\u2019m surprised to see you here after it went so badly with Penny."
+            ],
+            [
+                205,
+                "Why not?"
+            ],
+            [
+                207,
+                "Really?"
+            ],
+            [
+                210,
+                "Leonard knows what he wants, but it looks like he\u2019s not gonna get it from you."
+            ]
+        ],
+        "Raj": [
+            [
+                62,
+                "Did you forget what Penny did to you? It took you two years and defiling my sister to turn that frown upside down."
+            ],
+            [
+                64,
+                "I heard you call her Brown Sugar. In my book, that\u2019s defilement."
+            ],
+            [
+                75,
+                "If they ever make a movie version of that book, you know who should play Leonard\u2019s mother? Sandra Bullock."
+            ],
+            [
+                77,
+                "Because she\u2019s great in everything."
+            ],
+            [
+                123,
+                "He\u2019s got to be doing this on purpose."
+            ],
+            [
+                126,
+                "I guess it didn\u2019t go well."
+            ],
+            [
+                130,
+                "You were in the middle of an erection."
+            ]
+        ],
+        "Howard (as Leonard enters)": [
+            [
+                124,
+                "Ooh, eight thirty. You and Penny decide to go out and paint the town beige?"
+            ]
+        ],
+        "Howard (as Leonard groans loudly in his room)": [
+            [
+                128,
+                "How about now?"
+            ]
+        ],
+        "Sheldon\u2019s voice": [
+            [
+                240,
+                "Leonard, are you listening to me? (Leonard is in the hallway with Sheldon. It is the opening scene, and Sheldon has just found his cardboard Spock.) "
+            ]
+        ],
+        "Minister": [
+            [
+                260,
+                "Do you, Penny, take Leonard to be your lawful wedded husband?"
+            ]
+        ],
+        "Penny (turning, heavily pregnant)": [
+            [
+                261,
+                "Well, it\u2019s a little late for me to start saying no, isn\u2019t it?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Leonard",
+            "You feel like trying something new for dinner? Maybe Indian, Tex-Mex?"
+        ],
+        [
+            "Sheldon",
+            "You ever wonder how humans would be different if they evolved from lizards instead of mammals?"
+        ],
+        [
+            "Leonard",
+            "Okay, let\u2019s talk about that."
+        ],
+        [
+            "Sheldon",
+            "As you know, lizards, cold-blooded animals, lack the ability to sense temperature. But they do move more sluggishly when it\u2019s cold. So, lizard weathermen would say things like, bring a sweater, it\u2019s slow outside. I love my mind."
+        ],
+        [
+            "Leonard",
+            "We all do. Now, how about dinner?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I would assume we\u2019d enjoy insects or smaller lizards. We could also pull each other\u2019s tails off and grill them, they\u2019ll just grow back. Oh! My life-size cardboard Mr. Spock is here! I know he wouldn\u2019t care for an outburst of human emotion, but, oh goodie, oh goodie, oh goodie. Commander Spock requesting permission to be unfolded."
+        ],
+        [
+            "Leonard (seeing Penny\u2019s door open and the girls inside)",
+            "Excuse me."
+        ],
+        [
+            "Sheldon",
+            "Permission granted, Commander."
+        ],
+        [
+            "Amy",
+            "Which is why the more intelligent the monkey, the more faeces they fling."
+        ],
+        [
+            "Leonard",
+            "Excuse me, Amy. Penny, do you have plans for dinner tonight?"
+        ],
+        [
+            "Penny",
+            "Why, you guys going somewhere?"
+        ],
+        [
+            "Leonard",
+            "No, I mean just you and me."
+        ],
+        [
+            "Penny",
+            "You mean, like a date?"
+        ],
+        [
+            "Leonard",
+            "Not like a date, a date."
+        ],
+        [
+            "Amy",
+            "Ooh!"
+        ],
+        [
+            "Bernadette",
+            "Ooh!"
+        ],
+        [
+            "Penny",
+            "Um, o-okay. Sure."
+        ],
+        [
+            "Amy",
+            "Ooh!"
+        ],
+        [
+            "Bernadette",
+            "Ooh!"
+        ],
+        [
+            "Sheldon",
+            "Oh, no! They sent the wrong Spock! Live long and suck it, Zachary Quinto."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s bedroom."
+        ],
+        [
+            "Bernadette",
+            "This is so exciting. If Leonard and Penny get back together, Howard and I can go on double dates with them."
+        ],
+        [
+            "Amy",
+            "How come you never invite Sheldon and me on a double date?"
+        ],
+        [
+            "Bernadette",
+            "Mm, uh\u2026 How\u2019s it going in there, Penny?"
+        ],
+        [
+            "Penny",
+            "Just a sec. (Emerges in revealing slinky green dress) Too much?"
+        ],
+        [
+            "Bernadette",
+            "Yes."
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Penny",
+            "Okay, just hang on."
+        ],
+        [
+            "Amy",
+            "You just can\u2019t handle her raw sexuality, can you?"
+        ],
+        [
+            "Bernadette",
+            "When did you and Leonard break up?"
+        ],
+        [
+            "Penny",
+            "Uh, about two years ago."
+        ],
+        [
+            "Bernadette",
+            "Why do you think he asked you out again?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know."
+        ],
+        [
+            "Amy",
+            "Maybe he\u2019s dying. That would be so romantic."
+        ],
+        [
+            "Penny",
+            "He\u2019s not dying."
+        ],
+        [
+            "Amy",
+            "Too bad. If he were, she could just throw him in bed and ride him right up until he flatlines."
+        ],
+        [
+            "Penny",
+            "How about this?"
+        ],
+        [
+            "Bernadette",
+            "Maybe."
+        ],
+        [
+            "Amy",
+            "Come on."
+        ],
+        [
+            "Penny",
+            "Yeah, okay, no."
+        ],
+        [
+            "Bernadette",
+            "Do you think you\u2019ll sleep with him tonight?"
+        ],
+        [
+            "Penny",
+            "Absolutely not. Look, we\u2019re just gonna have dinner and, you know, see how it goes."
+        ],
+        [
+            "Amy",
+            "If he were dying, would you sleep with him?"
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Amy",
+            "Assuming he were dying of something that couldn\u2019t be sexually transmitted. You know, like a spear wound to the head."
+        ],
+        [
+            "Penny",
+            "Okay, he is not dying."
+        ],
+        [
+            "Amy",
+            "How do you know? Are you a doctor?"
+        ],
+        [
+            "Bernadette",
+            "You can make-believe, though. Sometimes Howard and I pretend that his arrhythmia is acting up and I\u2019m a sexy cardiologist. And the naughty part is I\u2019m not in his HMO network."
+        ],
+        [
+            "Penny",
+            "Screw it. I\u2019m not gonna make a big deal out of this. It\u2019s just dinner."
+        ],
+        [
+            "Amy",
+            "With a dead man."
+        ],
+        [
+            "Penny",
+            "Amy, stop it. Oh, God, I\u2019m so nervous."
+        ],
+        [
+            "Bernadette",
+            "Relax. You know Leonard\u2019s always been crazy about you. It\u2019s gonna be great."
+        ],
+        [
+            "Penny",
+            "I know, but we\u2019ve finally gotten to a place where we can hang out without it being weird. And what if something goes wrong? Then what?"
+        ],
+        [
+            "Amy",
+            "Guess it\u2019ll just be Sheldon and me going on a double date with Howard and Bernadette."
+        ],
+        [
+            "Bernadette",
+            "Sure, we\u2019d love that. Change your clothes, we got a lot riding on this."
+        ],
+        [
+            "Scene",
+            "The apartment. The guys are playing a board game."
+        ],
+        [
+            "Sheldon: Mm. I want to build a road, but I need wood. Do either of you fellows have wood? (Raj and Howard snigger) I don\u2019t understand the laughter. The object of Settlers of Catan is to build roads and settlements. To do so requires wood. Now, I have sheep",
+            "I need wood. Who has wood for my sheep?"
+        ],
+        [
+            "Leonard",
+            "Okay, how do I look?"
+        ],
+        [
+            "Howard",
+            "Well, more to the point, why are you doing this?"
+        ],
+        [
+            "Leonard",
+            "What are you talking about?"
+        ],
+        [
+            "Raj",
+            "Did you forget what Penny did to you? It took you two years and defiling my sister to turn that frown upside down."
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t defile your sister, we had a relationship."
+        ],
+        [
+            "Raj",
+            "I heard you call her Brown Sugar. In my book, that\u2019s defilement."
+        ],
+        [
+            "Sheldon",
+            "You want to know my opinion?"
+        ],
+        [
+            "Leonard",
+            "Oh, boy, do I?"
+        ],
+        [
+            "Sheldon",
+            "Sarcasm?"
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "All right, then. The reason you\u2019re fixated on a good-natured simpleton like Penny is that she\u2019s the exact opposite of your first romantic attachment, your brilliant yet intimidating mother."
+        ],
+        [
+            "Leonard",
+            "Where on earth did you get that from?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s in her book, Needy Baby, Greedy Baby."
+        ],
+        [
+            "Leonard",
+            "That doesn\u2019t make it true."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s called non-fiction for a reason, Leonard."
+        ],
+        [
+            "Leonard",
+            "See you later."
+        ],
+        [
+            "Raj",
+            "If they ever make a movie version of that book, you know who should play Leonard\u2019s mother? Sandra Bullock."
+        ],
+        [
+            "Howard",
+            "Why?"
+        ],
+        [
+            "Raj",
+            "Because she\u2019s great in everything."
+        ],
+        [
+            "Sheldon",
+            "Now, where were we? Oh, yes. Does anyone have any wood? Oh, come on! I just want wood. Why are you making it so hard?"
+        ],
+        [
+            "Scene",
+            "A restaurant."
+        ],
+        [
+            "Leonard",
+            "So, do they have a name for a first date with someone you used to go out with?"
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s a good question. How about awkward?"
+        ],
+        [
+            "Leonard",
+            "Yeah, that sounds right."
+        ],
+        [
+            "Penny",
+            "Yeah?"
+        ],
+        [
+            "Leonard",
+            "Hey, how about if we pretend we\u2019re actually on a first date? See how that goes."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "So, Polly, tell me about yourself."
+        ],
+        [
+            "Penny",
+            "It\u2019s Penny."
+        ],
+        [
+            "Leonard",
+            "Oh, sorry, yeah. Awkward."
+        ],
+        [
+            "Penny",
+            "Okay, uh, let\u2019s see. I\u2019m from Nebraska, and ever since I was a little girl, I dreamed of moving to L.A. and becoming a movie star. Anyway, after four years of acting lessons and waiting tables, I\u2019ve done a haemorrhoid commercial and a production of Anne Frank above a bowling alley. So, you know, dreams do come true. Your turn."
+        ],
+        [
+            "Leonard",
+            "Uh, let\u2019s see. Uh, I am an experimental physicist at Cal-Tech, most of my research is with high-powered lasers, and, oh, I\u2019ve just gotten a big government grant to see if they can be used to knock out incoming ballistic missiles."
+        ],
+        [
+            "Penny",
+            "Wow. Can they?"
+        ],
+        [
+            "Leonard",
+            "Oh, God, no. The money\u2019s pretty good. And I used the equipment to make my own Bat-signal."
+        ],
+        [
+            "Penny",
+            "Bat-signal? What are you, some kind of nerd?"
+        ],
+        [
+            "Leonard",
+            "Not some kind of nerd, I am the king of the nerds."
+        ],
+        [
+            "Penny",
+            "What does that mean?"
+        ],
+        [
+            "Leonard",
+            "Uh, it means if anyone displeases me, I don\u2019t help them set up their printer."
+        ],
+        [
+            "Penny",
+            "You are so funny."
+        ],
+        [
+            "Leonard",
+            "Good. Remember that when I take my shirt off."
+        ],
+        [
+            "Penny",
+            "Leonard, this is nice. I\u2019m so glad we did this."
+        ],
+        [
+            "Leonard",
+            "Me, too. So what do you think? Are we gonna get back together?"
+        ],
+        [
+            "Penny",
+            "Whoa. Not so fast."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, what did I say?"
+        ],
+        [
+            "Penny",
+            "Leonard, you know I will always have feelings for you."
+        ],
+        [
+            "Leonard",
+            "Oh, God."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "You said always. You\u2019ll always have feelings for me."
+        ],
+        [
+            "Penny",
+            "So?"
+        ],
+        [
+            "Leonard",
+            "So, that sounds more like something you\u2019d say if you didn\u2019t want a relationship with someone. This isn\u2019t working out, but I\u2019ll always have feelings for you. I\u2019m sorry I slept with your best friend, but I\u2019ll always have feelings for you. Here\u2019s the thing, Lisa, I\u2019m into dudes now, but I\u2019ll always have feelings for you."
+        ],
+        [
+            "Penny",
+            "How would you say it?"
+        ],
+        [
+            "Leonard",
+            "I have feelings for you."
+        ],
+        [
+            "Penny",
+            "It\u2019s the same thing."
+        ],
+        [
+            "Leonard",
+            "No, it\u2019s not. Always made it worse."
+        ],
+        [
+            "Penny",
+            "You\u2019re overthinking this."
+        ],
+        [
+            "Leonard",
+            "No, I\u2019m not."
+        ],
+        [
+            "Penny",
+            "Yes, you are. You always overthink things."
+        ],
+        [
+            "Leonard",
+            "Ah now th-th-there you go. Always made it worse."
+        ],
+        [
+            "Penny",
+            "See, this is where everything goes wrong, when we talk."
+        ],
+        [
+            "Leonard",
+            "Well, I don\u2019t know how you have a relationship without talking."
+        ],
+        [
+            "Penny",
+            "Hey, I went out with this guy TJ for eight months, we never talked. To this day, I don\u2019t even know what TJ stands for."
+        ],
+        [
+            "Leonard",
+            "Wait, if you guys didn\u2019t talk, what did you\u2026 never mind, stupid question."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "And now that I have some wood, I\u2019m going to begin the erection of my settlement."
+        ],
+        [
+            "Raj",
+            "He\u2019s got to be doing this on purpose."
+        ],
+        [
+            "Howard (as Leonard enters)",
+            "Ooh, eight thirty. You and Penny decide to go out and paint the town beige?"
+        ],
+        [
+            "Leonard",
+            "You\u2019re thirty years old and you live with your mother."
+        ],
+        [
+            "Raj",
+            "I guess it didn\u2019t go well."
+        ],
+        [
+            "Sheldon",
+            "We don\u2019t know that. Not to a certainty. All we know is that Leonard is home."
+        ],
+        [
+            "Howard (as Leonard groans loudly in his room)",
+            "How about now?"
+        ],
+        [
+            "Sheldon",
+            "Again, not enough evidence. For all we know, he\u2019s being murdered. Now, back to our game."
+        ],
+        [
+            "Raj",
+            "You were in the middle of an erection."
+        ],
+        [
+            "Sheldon",
+            "Oh, of course. It\u2019s right here in my hand."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom. Leonard\u2019s phone text signal sounds."
+        ],
+        [
+            "Leonard",
+            "What does she want from me now? (Goes to front door, where Penny is waiting) What\u2019s up?"
+        ],
+        [
+            "Penny",
+            "Do not overthink this. (Kisses him, then leads him to her apartment.) "
+        ],
+        [
+            "Leonard",
+            "I don\u2019t understand."
+        ],
+        [
+            "Penny",
+            "Bup-bup-bup-bup-bup-bup-bup."
+        ],
+        [
+            "Leonard",
+            "Okay, but earlier it seemed like\u2026"
+        ],
+        [
+            "Penny",
+            "No talking."
+        ],
+        [
+            "Leonard",
+            "Even during? \u2018Cause sometimes I have questions."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s bedroom. They are in bed."
+        ],
+        [
+            "Penny",
+            "Well, that was fun."
+        ],
+        [
+            "Leonard",
+            "Yeah, except for when I got the foot cramp."
+        ],
+        [
+            "Penny",
+            "You hung in there, though."
+        ],
+        [
+            "Leonard",
+            "Well, there was a lot at stake."
+        ],
+        [
+            "Penny",
+            "So what do you want to do now?"
+        ],
+        [
+            "Leonard",
+            "Well, I want to go get my asthma inhaler, but it might ruin the moment. Just, just help me out here. How does a miserable date end in sex?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know, it\u2019s complicated."
+        ],
+        [
+            "Leonard",
+            "Well, I\u2019m a pretty smart guy, and right now my brain has dibs on the blood supply, so give it a go."
+        ],
+        [
+            "Penny",
+            "Okay, it\u2019s just, at the restaurant when you said you wanted us to be together again, it got very real very fast and I panicked."
+        ],
+        [
+            "Leonard",
+            "Why? What are you afraid of?"
+        ],
+        [
+            "Penny",
+            "Well, what if we do go out and I do something stupid and dump you again?"
+        ],
+        [
+            "Leonard",
+            "What if I dump you?"
+        ],
+        [
+            "Penny",
+            "Come on, be serious."
+        ],
+        [
+            "Leonard",
+            "Well, how about if we don\u2019t think about this as a relationship? It could be more like a new version of software. Penny and Leonard 2.0. We can test it internally, shake out the bugs, and if we both feel it\u2019s solid, then we\u2019ll roll it out to the public."
+        ],
+        [
+            "Penny",
+            "So we don\u2019t tell people we\u2019re back together?"
+        ],
+        [
+            "Leonard",
+            "Exactly. We pretend like our date went badly."
+        ],
+        [
+            "Penny",
+            "Well, we don\u2019t really have to pretend."
+        ],
+        [
+            "Leonard",
+            "And we let them think that we decided to just be friends and that everything\u2019s cool."
+        ],
+        [
+            "Penny",
+            "Okay, great. Hey, I just remembered. I still got one of your inhalers."
+        ],
+        [
+            "Leonard",
+            "I can\u2019t believe you kept this."
+        ],
+        [
+            "Penny",
+            "Yeah, I was gonna throw it away, but I just couldn\u2019t."
+        ],
+        [
+            "Leonard",
+            "That is so sweet. In 25 to 30 minutes I\u2019m gonna show you how much this means to me."
+        ],
+        [
+            "Scene",
+            "The apartment. Leonard is sneaking back in."
+        ],
+        [
+            "Sheldon",
+            "Leonard?"
+        ],
+        [
+            "Leonard",
+            "Yeah, hi, hi. How\u2019s it going?"
+        ],
+        [
+            "Sheldon",
+            "Uh, can\u2019t complain. Thanks for asking. Well, what were you doing out at three o\u2019clock in the morning?"
+        ],
+        [
+            "Leonard",
+            "Well, uh, uh, what are you doing up?"
+        ],
+        [
+            "Sheldon",
+            "I was using the bathroom."
+        ],
+        [
+            "Leonard",
+            "Yeah, well, so was I."
+        ],
+        [
+            "Sheldon",
+            "Really? I didn\u2019t see you in there."
+        ],
+        [
+            "Leonard",
+            "Obviously, when I saw that you were in ours, I went and used another one."
+        ],
+        [
+            "Sheldon",
+            "Where?"
+        ],
+        [
+            "Leonard",
+            "The, the gas station across the street."
+        ],
+        [
+            "Sheldon",
+            "In your pyjamas?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Without shoes?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "On a cold winter\u2019s night?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Seems unlikely. Did you bring your asthma inhaler?"
+        ],
+        [
+            "Leonard",
+            "Uh, uh, uh, yes, I did."
+        ],
+        [
+            "Sheldon",
+            "Well, then, I guess it\u2019s plausible. Hang on a second, mister."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "After you used the facilities at the gas station, did you make a purchase?"
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s customary, when using the rest room at a retail establishment, to make a small purchase. Did you?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Here\u2019s two dollars. Go buy some beef jerky."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t want beef jerky."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not about you. It\u2019s about a poor immigrant from Pakistan trying to make his way in America by working the graveyard shift at the Colorado Boulevard Chevron."
+        ],
+        [
+            "Leonard",
+            "Fine."
+        ],
+        [
+            "Sheldon",
+            "Needy Baby, Greedy Baby indeed."
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory."
+        ],
+        [
+            "Sheldon",
+            "Leonard will be here in a moment. He\u2019s looking for a different parking space."
+        ],
+        [
+            "Howard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "We were next to a car with an ask me about my grandchildren bumper sticker, and I was afraid if we ran into them on the way out, I\u2019d be obligated to do so."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m so disappointed it didn\u2019t work with him and Penny."
+        ],
+        [
+            "Amy",
+            "Me, too. Out of deference to them, let\u2019s not flaunt our happy relationship."
+        ],
+        [
+            "Sheldon",
+            "You have a keen insight into the human heart, Amy Farrah Fowler."
+        ],
+        [
+            "Leonard",
+            "We are next to a Suburu with a Gore/Lieberman bumper sticker."
+        ],
+        [
+            "Sheldon",
+            "Well, I doubt they\u2019d want to talk about that, so we\u2019re fine."
+        ],
+        [
+            "Howard",
+            "I\u2019m surprised to see you here after it went so badly with Penny."
+        ],
+        [
+            "Leonard",
+            "Well, hey, we\u2019re grown-ups. We can still be friends."
+        ],
+        [
+            "Bernadette",
+            "Boy, I don\u2019t know if I could be friends with Howie if we broke up."
+        ],
+        [
+            "Howard",
+            "Why not?"
+        ],
+        [
+            "Bernadette",
+            "I\u2019m a very vengeful person."
+        ],
+        [
+            "Howard",
+            "Really?"
+        ],
+        [
+            "Bernadette",
+            "With access to weaponised smallpox."
+        ],
+        [
+            "Penny",
+            "Here you go, guys, let me get you going with some water. You need menus or you know what you want?"
+        ],
+        [
+            "Howard",
+            "Leonard knows what he wants, but it looks like he\u2019s not gonna get it from you."
+        ],
+        [
+            "Bernadette",
+            "Howard."
+        ],
+        [
+            "Penny",
+            "No, that\u2019s okay, Bernadette. Sometimes these things just don\u2019t work out."
+        ],
+        [
+            "Leonard",
+            "Yeah, it\u2019s all good. We-We\u2019ll always have feelings for each other."
+        ],
+        [
+            "Bernadette",
+            "Oh, that\u2019s nice."
+        ],
+        [
+            "Leonard",
+            "See, she knew what always meant."
+        ],
+        [
+            "Penny",
+            "Wow, you\u2019re like a dog with a bone, aren\u2019t you?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m just making a point."
+        ],
+        [
+            "Penny",
+            "Is the point that you don\u2019t know when to let something go?"
+        ],
+        [
+            "Sheldon",
+            "People, people, please, before you say something you both regret, I\u2019d like to place my order."
+        ],
+        [
+            "Penny",
+            "Yeah, just hang on, Sheldon. You know why we can\u2019t be together? Because you always have to be right."
+        ],
+        [
+            "Leonard",
+            "Oh, that is not true."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve got to go with Leonard on this. He is wrong more than anyone I know."
+        ],
+        [
+            "Penny",
+            "You know what? I just realized I\u2019m on a break. I\u2019ll get someone else."
+        ],
+        [
+            "Leonard",
+            "Well\u2026"
+        ],
+        [
+            "Sheldon",
+            "Leonard, promise me that when our new waitress comes over, you will not start a complicated on-again, off-again relationship with her, because I am very, very hungry."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom. Text signal."
+        ],
+        [
+            "Leonard",
+            "Unbelievable. (Goes to door)"
+        ],
+        [
+            "Penny",
+            "Mind explaining to me why you were being such a jerk at the restaurant?"
+        ],
+        [
+            "Leonard",
+            "Well, I was trying to act like we weren\u2019t seeing each other. That was the plan, right?"
+        ],
+        [
+            "Penny",
+            "No, the plan was to tell people we decided to stay friends. That\u2019s a little hard to do when you\u2019re always being such a tool bag."
+        ],
+        [
+            "Leonard",
+            "You know what? I don\u2019t have to stand here and take this crap. (Goes to Penny\u2019s apartment.)"
+        ],
+        [
+            "Penny",
+            "The hell do you think you\u2019re going?"
+        ],
+        [
+            "Leonard",
+            "Isn\u2019t sex after fighting kind of what we do now?"
+        ],
+        [
+            "Penny",
+            "Yeah, kind of, yeah."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s bedroom."
+        ],
+        [
+            "Leonard",
+            "What are we doing?"
+        ],
+        [
+            "Penny",
+            "What do you mean?"
+        ],
+        [
+            "Leonard",
+            "Every scenario I play out for you and me ends badly."
+        ],
+        [
+            "Penny",
+            "That\u2019s because you overthink everything."
+        ],
+        [
+            "Sheldon\u2019s voice",
+            "Leonard, are you listening to me? (Leonard is in the hallway with Sheldon. It is the opening scene, and Sheldon has just found his cardboard Spock.) "
+        ],
+        [
+            "Leonard",
+            "What? Yeah."
+        ],
+        [
+            "Sheldon",
+            "This is a disaster. I distinctly ordered the Leonard Nimoy Mr. Spock cardboard standee. Why would I feel safer with Zachary Quinto at the foot of my bed?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know, he was pretty badass on Heroes."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right, I\u2019ll give him a shot."
+        ],
+        [
+            "Leonard",
+            "Hang on. Penny, do you have plans for dinner?"
+        ],
+        [
+            "Penny",
+            "Why, you guys going somewhere?"
+        ],
+        [
+            "Leonard",
+            "No, I mean just you and me."
+        ],
+        [
+            "Amy",
+            "Ooh!"
+        ],
+        [
+            "Bernadette",
+            "Ooh!"
+        ],
+        [
+            "Penny",
+            "Uh, have you thought this through?"
+        ],
+        [
+            "Leonard",
+            "Yes, and I think we should go anyway."
+        ],
+        [
+            "Sheldon",
+            "No, can\u2019t do it. Sorry, Quinto, you\u2019re going back."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s bedroom."
+        ],
+        [
+            "Amy",
+            "If you and Leonard get back together, Sheldon and I will finally have someone to go on double dates with."
+        ],
+        [
+            "Bernadette",
+            "What about me and Howard?"
+        ],
+        [
+            "Amy",
+            "Fine, we can double with you, too. So insecure."
+        ],
+        [
+            "Bernadette",
+            "Where are you guys going to eat?"
+        ],
+        [
+            "Amy",
+            "Penny?"
+        ],
+        [
+            "Scene",
+            "(In her imagination, Penny is transported to her wedding day.)"
+        ],
+        [
+            "Minister",
+            "Do you, Penny, take Leonard to be your lawful wedded husband?"
+        ],
+        [
+            "Penny (turning, heavily pregnant)",
+            "Well, it\u2019s a little late for me to start saying no, isn\u2019t it?"
+        ],
+        [
+            "Scene",
+            "(Back in the bedroom)"
+        ],
+        [
+            "Amy",
+            "Penny?"
+        ],
+        [
+            "Penny",
+            "Sorry, just remembered I\u2019ve got to stop by the drugstore."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-13-the-recombination-hypothesis/"
+}

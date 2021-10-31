@@ -1,0 +1,1878 @@
+{
+    "Season": 3,
+    "Episode": 16,
+    "Title": "the excelsior acquisition",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The comic book store. Raj enters carrying an iPod with a speaker on his tee shirt. As he enters the shop he starts the iPod and the Darth Vader theme from Star Wars emerges from the speaker. "
+            ],
+            [
+                13,
+                "Credits sequence."
+            ],
+            [
+                15,
+                "The apartment."
+            ],
+            [
+                87,
+                "Penny\u2019s door. "
+            ],
+            [
+                107,
+                "The courtroom. "
+            ],
+            [
+                122,
+                "A police cell. Three people sit on a bench inside. Sheldon points at the one on the end."
+            ],
+            [
+                124,
+                "A queue outside the comic book store."
+            ],
+            [
+                138,
+                "The police cell. "
+            ],
+            [
+                146,
+                "The apartment."
+            ],
+            [
+                172,
+                "The comic book store."
+            ],
+            [
+                204,
+                "Outside Stan Lee\u2019s house."
+            ],
+            [
+                223,
+                "The apartment."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Will you please turn your shirt off?"
+            ],
+            [
+                4,
+                "Hey, Stuart, what\u2019s going on?"
+            ],
+            [
+                9,
+                "Stan Lee does not have a contagious skin disease."
+            ],
+            [
+                16,
+                "I can\u2019t decide whether I want Stan Lee to autograph my Journey into Mystery 83, first appearance of Thor or my Fantastic Four number five, first appearance of Dr. Doom. (Raj presses his iPod. The theme from Jeopardy plays.) Alex, I\u2019m going to go with what is\u2026 you\u2019re a dumbass? (Presses again, his shirt blows a raspberry.)"
+            ],
+            [
+                26,
+                "He does. And in the kitchen. And in the car. And in his pocket."
+            ],
+            [
+                29,
+                "Hey. Guess who\u2019s going to be at the comic bookstore on Thursday?"
+            ],
+            [
+                31,
+                "Stan Lee."
+            ],
+            [
+                33,
+                "No, no, Stan Lee."
+            ],
+            [
+                35,
+                "You have no idea who he is, do you?"
+            ],
+            [
+                37,
+                "Good, good, so, who\u2019s Stan Lee?"
+            ],
+            [
+                39,
+                "Nope."
+            ],
+            [
+                41,
+                "No."
+            ],
+            [
+                43,
+                "That\u2019s Bruce Lee."
+            ],
+            [
+                68,
+                "It\u2019s not that big a deal. You just go down to the court on Thursday and you pay the fine."
+            ],
+            [
+                77,
+                "Whoa! What do you mean all?"
+            ],
+            [
+                79,
+                "Yeah, okay. No."
+            ],
+            [
+                81,
+                "That\u2019s what I\u2019m saying."
+            ],
+            [
+                126,
+                "Oh, come on, why would you do that?"
+            ],
+            [
+                131,
+                "Sheldon\u2019s in jail?"
+            ],
+            [
+                133,
+                "For what?"
+            ],
+            [
+                135,
+                "So tell him to apologize."
+            ],
+            [
+                137,
+                "Oh, no, that\u2019s terrible. Ooh, the line\u2019s moving. Got to go. Bye."
+            ],
+            [
+                147,
+                "Look at that. To my friend, Leonard, from Stan Lee, Excelsior!"
+            ],
+            [
+                153,
+                "Oh, hey, buddy. How\u2019d it go?"
+            ],
+            [
+                155,
+                "Yeah, but we all want to hear it from you."
+            ],
+            [
+                160,
+                "Okay, that\u2019s enough, Howard. The poor guy\u2019s had a tough time. He had to spend the entire afternoon in jail wearing that suit."
+            ],
+            [
+                164,
+                "Except for Raj."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "What? I\u2019m giving myself dramatic entrance music. People will know I\u2019m awesome and to be feared."
+            ],
+            [
+                11,
+                "Can\u2019t believe it. We\u2019re going to meet Stan Lee! (Presses play on his iPod. His shirt starts to play \u201cI\u2019m So Excited\u201d by the Pointer Sisters. He dances.)"
+            ],
+            [
+                20,
+                "That\u2019s a great idea, I\u2019m going to get him to sign a Batman as well."
+            ],
+            [
+                23,
+                "Well, obviously you don\u2019t remember your circumcision."
+            ],
+            [
+                125,
+                "I can\u2019t wait to ask Stan Lee why he insists on giving all his characters first and last names that start with the same letter."
+            ],
+            [
+                127,
+                "Bruce Banner, Reed Richards, Sue Storm, Stephen Strange, Otto Octavius, Silver Surfer, Peter Parker, oh, and worst of all, J. Jonah Jameson, Jr."
+            ],
+            [
+                132,
+                "You called it."
+            ],
+            [
+                149,
+                "Mine says, To Raj, from Stan Lee."
+            ],
+            [
+                151,
+                "Hey, I didn\u2019t even mention Dum Dum Dugan or Green Goblin, Matt Murdock, Pepper Potts, Victor Von Doom, oh, and worst of all, Millie the Model."
+            ],
+            [
+                225,
+                "Fantastic Four, Daredevil, Invincible Iron Man, Happy Hogan, Curt Connors\u2026"
+            ],
+            [
+                227,
+                "And worst of all, Fin Fang Foom."
+            ]
+        ],
+        "Howard": [
+            [
+                3,
+                "Yeah, right, there\u2019s nothing more awesome and frightening than a man who\u2019s got music blasting from between his nipples."
+            ],
+            [
+                12,
+                "I\u2019m sad to say I taught him those moves."
+            ],
+            [
+                18,
+                "That\u2019s crazy. Stan Lee had nothing to do with Batman."
+            ],
+            [
+                22,
+                "Ow! Damn, paper cut. Nothing worse than a paper cut."
+            ],
+            [
+                25,
+                "Why don\u2019t you keep that stuff in the bathroom?"
+            ],
+            [
+                45,
+                "Sheldon, why do you have all these unopened paychecks in your desk?"
+            ],
+            [
+                47,
+                "But there must be thousands of dollars here. Why don\u2019t you put it in the bank?"
+            ],
+            [
+                49,
+                "You\u2019ve also got something from the Pasadena Municipal Court."
+            ],
+            [
+                53,
+                "Sheldon, this is a summons."
+            ],
+            [
+                70,
+                "You are guilty. (Raj\u2019s shirt plays the gavel sound from Law & Order) That one I liked."
+            ],
+            [
+                74,
+                "Okay, he\u2019s going to jail."
+            ],
+            [
+                83,
+                "Wow. Uh, Stan Lee, or you in court? Uh, if this was Sophie\u2019s Choice it would\u2019ve been a much shorter movie. No."
+            ],
+            [
+                128,
+                "Okay, I\u2019m cutting. I\u2019m not gonna talk to Stan Lee after you cheese him off."
+            ],
+            [
+                148,
+                "Awesome. Mine says, To my friend, Howard, from Stan Lee, Excelsior!"
+            ],
+            [
+                150,
+                "That\u2019s \u2019cause you pissed him off about his character names."
+            ],
+            [
+                159,
+                "Plus, you didn\u2019t get to meet Stan Lee."
+            ],
+            [
+                161,
+                "You\u2019re right, so it would be cruel to mention that after he finished signing autographs, Stan Lee took Stuart and us out for gelato."
+            ],
+            [
+                163,
+                "He said we could call him Stan."
+            ],
+            [
+                171,
+                "Not just the finger. The moving finger."
+            ],
+            [
+                226,
+                "Would you just let it go?"
+            ],
+            [
+                230,
+                "Sweet."
+            ]
+        ],
+        "Stuart": [
+            [
+                5,
+                "Well, you might want to mark your Google calendars. Stan Lee is coming to do a signing on Thursday."
+            ],
+            [
+                7,
+                "No, just a regular comic signing. My uncle is his dermatologist and Stan\u2019s doing him a favour."
+            ],
+            [
+                175,
+                "Oh, hey, Penny. Wow. Hi."
+            ],
+            [
+                177,
+                "Nothing. I\u2019m just getting ready to close up and head out."
+            ],
+            [
+                179,
+                "Oh, yeah. Big night tonight. Gonna share a can of tuna with the cat."
+            ],
+            [
+                181,
+                "Not even my cat. I just feed it. Some nights it doesn\u2019t even show up."
+            ],
+            [
+                183,
+                "Sure, yeah, name it."
+            ],
+            [
+                185,
+                "Oh, I\u2019m sorry, I don\u2019t have his phone number."
+            ],
+            [
+                187,
+                "Mm-hmm. Wait. I have his address."
+            ],
+            [
+                189,
+                "But I can\u2019t give it to you."
+            ],
+            [
+                191,
+                "I don\u2019t know. Just chatting. You\u2019re looking at a guy who could very well get stood up by a stray cat tonight."
+            ],
+            [
+                193,
+                "Mm-hmm. Wait."
+            ],
+            [
+                195,
+                "Maybe we can make a deal."
+            ],
+            [
+                197,
+                "I will give you the address if you go to my cousin\u2019s wedding with me."
+            ],
+            [
+                199,
+                "I kind of have to. The cousin who\u2019s getting married is the cousin I usually go to weddings with."
+            ],
+            [
+                201,
+                "Sure. What the hell."
+            ],
+            [
+                203,
+                "We\u2019ll tell people he\u2019s your cousin."
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "Did he finally write a sequel to his autobiography? I\u2019m sure ages 79 through 87 were just action-packed."
+            ],
+            [
+                8,
+                "Oh, I don\u2019t want to know that! How can I possibly discuss with Stan Lee the scientific foundations for interstellar flight on a silver surfboard when part of my brain will be scanning his face for signs of contagious skin disease?"
+            ],
+            [
+                10,
+                "Well, look who thinks he\u2019s Stuart\u2019s uncle now."
+            ],
+            [
+                17,
+                "I\u2019ve decided I\u2019m going to have Mr. Lee sign my copy of this month\u2019s Batman."
+            ],
+            [
+                19,
+                "Yes, which is why no one else will ask him to sign one, and I will be the possessor of a unique, albeit confusing, artifact, which will set me apart from the hoi polloi of comic book fandom."
+            ],
+            [
+                21,
+                "What is it about the word unique you don\u2019t understand?"
+            ],
+            [
+                24,
+                "There\u2019s Neosporin and Band-Aids in my top desk drawer."
+            ],
+            [
+                27,
+                "Yeah, but the ones in my pocket are mine."
+            ],
+            [
+                46,
+                "Because most of the things I\u2019m planning to buy haven\u2019t been invented yet."
+            ],
+            [
+                48,
+                "I don\u2019t trust banks. I believe that when the robots rise up, ATMs will lead the charge."
+            ],
+            [
+                50,
+                "Undoubtedly yet another snide response to my repeated letters complaining that the flags in front of the courthouse are flying in the wrong order. From left to right, it\u2019s supposed to be federal, state, and then city of Pasadena."
+            ],
+            [
+                52,
+                "It bothers me."
+            ],
+            [
+                54,
+                "A summons for what?"
+            ],
+            [
+                56,
+                "November 16? Penny, that\u2019s the evening you fell in your bathtub and I had to drive you to the emergency room."
+            ],
+            [
+                58,
+                "Yes, it is."
+            ],
+            [
+                60,
+                "Penny, I have an eidetic memory. Also, that\u2019s a picture of you in the passenger seat holding your dislocated shoulder."
+            ],
+            [
+                62,
+                "Okay, then why is a summons for a traffic violation committed in your car, bearing your license plates, coming to me?"
+            ],
+            [
+                64,
+                "So you betrayed me?"
+            ],
+            [
+                66,
+                "But the only reason I was driving your car was because you were in distress and I was rescuing you."
+            ],
+            [
+                69,
+                "I\u2019m not going to pay a fine. That would imply I\u2019m guilty."
+            ],
+            [
+                71,
+                "I am not guilty. I only have a learner\u2019s permit, Penny was the teacher. When the light turned yellow she said go, go, go, so I went, went, went."
+            ],
+            [
+                73,
+                "You don\u2019t need to reimburse me because I\u2019m not paying. On Thursday, I will have my day in court and justice will be done. In fact, I\u2019m going to begin preparing my defence right now."
+            ],
+            [
+                76,
+                "Now you see what you\u2019ve done? Because of you, we\u2019re all going to miss Stan Lee."
+            ],
+            [
+                78,
+                "Well, you\u2019re my friends. You\u2019ll be standing by my side, supporting me, feeding me legal precedents, and if you had the upper body strength, carrying me out on your shoulders when I\u2019m victorious."
+            ],
+            [
+                80,
+                "Are you saying that you will not stand beside me as I plead my case?"
+            ],
+            [
+                82,
+                "Howard?"
+            ],
+            [
+                84,
+                "Raj? You\u2019ll be there, won\u2019t you? (Shirt plays \u201cincorrect\u201d quiz sound) All right, then, my so-called friends have forsaken me. So, I guess it\u2019ll just be me and my eyewitness."
+            ],
+            [
+                86,
+                "Please try to wear something appropriate. It won\u2019t help my case if the judge is busy trying to read the word Juicy scrawled across your buttocks."
+            ],
+            [
+                88,
+                "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+            ],
+            [
+                90,
+                "That\u2019s just wrong."
+            ],
+            [
+                92,
+                "Wait, hold on. Before we get to the courthouse, I\u2019d like to call on your skills as an actress."
+            ],
+            [
+                94,
+                "I\u2019ve taken the liberty of scripting your appearance on the witness stand because, let\u2019s face it, you\u2019re somewhat of a loose cannon. Now, don\u2019t worry, it\u2019s written in your vernacular. So shall we rehearse?"
+            ],
+            [
+                96,
+                "Well, of course you have a choice. Although we live in a deterministic universe, each individual has free will. Now, sit down. I call your attention to the events of November 16. Do you remember that date?"
+            ],
+            [
+                98,
+                "Excellent. Go on."
+            ],
+            [
+                100,
+                "And who performed that heroic act?"
+            ],
+            [
+                102,
+                "There\u2019s no need for compliments, this court is only interested in the facts."
+            ],
+            [
+                104,
+                "Only a suggestion. A catch in your throat would work just as well."
+            ],
+            [
+                106,
+                "Maybe you should put on your Juicy pants again."
+            ],
+            [
+                109,
+                "Good morning, Your Honour. Dr. Sheldon Cooper appearing in pro se. That is to say, representing himself."
+            ],
+            [
+                111,
+                "And yet you wound up in traffic court. Anyway, if it would please the court, I\u2019d like to begin with an opening statement."
+            ],
+            [
+                113,
+                "Very well, a quick opening statement. Like a milking stool, my case rests on three legs. I will demonstrate that I was improperly instructed in driving by a woman whose lack of respect for society borders on the sociopathic. I will argue that the emergency met the legal doctrine of quod est necessarium est licitum, that which is necessary is legal. But first, I will raise a Sixth Amendment issue. I\u2019m unable to confront my accuser, a non-human entity, to wit, a camera. So, to sum up, improper instruction, quod est necessarium est licitum, Sixth Amendment. My milk stool is complete."
+            ],
+            [
+                115,
+                "Thank you."
+            ],
+            [
+                117,
+                "I object. You\u2019re completely ignoring the law."
+            ],
+            [
+                119,
+                "Really? I would point out that I am at the top of my profession, while you preside over the kiddy table of yours."
+            ],
+            [
+                121,
+                "I am a scientist. I never apologize for the truth."
+            ],
+            [
+                123,
+                "That\u2019s my spot."
+            ],
+            [
+                139,
+                "Excuse me? Excuse me, jailor?"
+            ],
+            [
+                141,
+                "I need to use the restroom."
+            ],
+            [
+                143,
+                "That\u2019s the toilet?"
+            ],
+            [
+                145,
+                "Please tell the judge I\u2019m ready to apologize."
+            ],
+            [
+                154,
+                "You know very well how it went."
+            ],
+            [
+                156,
+                "I was found guilty and fined $533."
+            ],
+            [
+                158,
+                "I also now have three points on a driver\u2019s licence I do not yet possess, and I was forced to issue an undeserved apology, simply because I refuse to urinate in a stainless steel bowl in front of criminals."
+            ],
+            [
+                162,
+                "You had gelato with Stan Lee?"
+            ],
+            [
+                165,
+                "Well, I hope you\u2019re satisfied, Penny. You are responsible for all the evil that has befallen me today."
+            ],
+            [
+                167,
+                "Not finished. It is because of you that I now have a criminal record, and it is because of you that I missed out on having gelato with Stan Lee."
+            ],
+            [
+                169,
+                "No, no. I will never have another chance to have gelato with Stan Lee because opportunities to have gelato with Stan Lee come but once in a lifetime. The moving finger writes, and having writ, moves on!"
+            ],
+            [
+                205,
+                "This is Stan Lee\u2019s front door. We were on Stan Lee\u2019s curb, then we were on Stan Lee\u2019s walk, and now we\u2019re at Stan Lee\u2019s front door."
+            ],
+            [
+                207,
+                "Oh, Lord, you just rang Stan Lee\u2019s doorbell. At Stan Lee\u2019s house. We\u2019re about to go in and have milk and cookies with Stan Lee."
+            ],
+            [
+                213,
+                "We\u2019re not friends at the moment. Depends on how this goes."
+            ],
+            [
+                216,
+                "You said we were invited."
+            ],
+            [
+                219,
+                "Well, I\u2019m not much of a sports fan, but thank you."
+            ],
+            [
+                229,
+                "I\u2019ll tell you where I\u2019ve been. You boys may have had gelato with Stan Lee and gotten autographed comics, but I saw the inside of his house and got an autographed application for a restraining order."
+            ],
+            [
+                231,
+                "Plus, I get to hang out with him again at the hearing. This is going to look great hanging next to my restraining order from Leonard Nimoy."
+            ]
+        ],
+        "Penny": [
+            [
+                28,
+                "Hi!"
+            ],
+            [
+                30,
+                "Um, can you give me a hint?"
+            ],
+            [
+                32,
+                "Um, Stanley, Stanley, Stanley Tucci?"
+            ],
+            [
+                34,
+                "Oh, oh, Stan Lee! Cool!"
+            ],
+            [
+                36,
+                "Of course I do. You\u2019re an important part of my life and I pay attention to the things you are interested in."
+            ],
+            [
+                38,
+                "Um, he was on Star Trek."
+            ],
+            [
+                40,
+                "Star Wars?"
+            ],
+            [
+                42,
+                "Um, uh, Stan Lee, oh, he was in those goofy kung fu movies you love so much?"
+            ],
+            [
+                44,
+                "Oh. So, is this Bruce Lee\u2019s nerdy brother, Stan?"
+            ],
+            [
+                51,
+                "I\u2019m sorry. You sent more than one letter about that?"
+            ],
+            [
+                57,
+                "No, it isn\u2019t."
+            ],
+            [
+                59,
+                "No, it isn\u2019t."
+            ],
+            [
+                61,
+                "Mmm, no, it isn\u2019t."
+            ],
+            [
+                63,
+                "Okay, look, they sent me the ticket. I told them I wasn\u2019t driving and they were all, if it wasn\u2019t you, who was it?"
+            ],
+            [
+                65,
+                "No! It wasn\u2019t a betrayal. It was more of a can\u2019t afford any more points on my license. I already have to buy my insurance from this place in the Cayman Islands."
+            ],
+            [
+                67,
+                "Yes, yes, look, and now you have a photo to remember that heroic day."
+            ],
+            [
+                72,
+                "Sheldon, I\u2019m sorry. I\u2019ll be happy to reimburse you for the fine. You know, as soon as I get a part in a movie or my own TV series."
+            ],
+            [
+                85,
+                "Oh, balls."
+            ],
+            [
+                91,
+                "All right, let\u2019s go."
+            ],
+            [
+                93,
+                "What is this?"
+            ],
+            [
+                95,
+                "Do I have a choice?"
+            ],
+            [
+                99,
+                "The reason that date is, like, so totally fixed in my memory is that I had the privilege to be witness to one of the most heroic acts I\u2019ve ever seen in, like, ever."
+            ],
+            [
+                101,
+                "Why, you did, sir. You. Dr. Sheldon Cooper, and may I add, it is a privilege to know you."
+            ],
+            [
+                103,
+                "But it is a fact that it\u2019s a privilege to know you. Totally. A teardrop rolls down my cheek?"
+            ],
+            [
+                130,
+                "Sheldon\u2019s in jail."
+            ],
+            [
+                134,
+                "What do you think? For doing the same crap he always does, except to a judge. He has to stay in there until he apologizes."
+            ],
+            [
+                136,
+                "Oh, gee, thanks, Leonard. That didn\u2019t occur to me. If he doesn\u2019t apologize by 5 o\u2019clock he is going to spend the night in jail."
+            ],
+            [
+                152,
+                "We\u2019re home."
+            ],
+            [
+                157,
+                "I\u2019m going to write you a cheque for that. As long as you promise to put it in your drawer and never cash it, like the others."
+            ],
+            [
+                166,
+                "Okay, I realize that\u2026"
+            ],
+            [
+                168,
+                "Okay, maybe you\u2019ll have another chance to have\u2026"
+            ],
+            [
+                170,
+                "Did he just somehow give me the finger?"
+            ],
+            [
+                174,
+                "Hey, Stuart."
+            ],
+            [
+                176,
+                "What\u2019s going on?"
+            ],
+            [
+                178,
+                "Ah. Cool. Got any fun plans?"
+            ],
+            [
+                180,
+                "Oh, nice."
+            ],
+            [
+                182,
+                "Oh, okay. Well, I was hoping, um, you could do me a favour."
+            ],
+            [
+                184,
+                "Well, I\u2019m kind of responsible for Sheldon missing Stan Lee, and I really want to make it up to him. So I was hoping you could give me his phone number so maybe I can arrange for them to meet."
+            ],
+            [
+                186,
+                "Hmm. Damn. All right. Thank you."
+            ],
+            [
+                188,
+                "Really? Great!"
+            ],
+            [
+                190,
+                "Then why did you tell me you had it?"
+            ],
+            [
+                192,
+                "I\u2019m sorry, Stuart. Thanks anyway."
+            ],
+            [
+                194,
+                "Yeah?"
+            ],
+            [
+                196,
+                "What kind of deal?"
+            ],
+            [
+                198,
+                "You\u2019re extorting a date out of me?"
+            ],
+            [
+                200,
+                "Can I bring Leonard?"
+            ],
+            [
+                202,
+                "Deal."
+            ],
+            [
+                206,
+                "Yup."
+            ],
+            [
+                208,
+                "Okay, sweetie, I don\u2019t know if we\u2019re gonna have cookies, or he\u2019s just gonna say hi, or really what\u2019s gonna happen, so just let me talk, and we\u2019ll\u2026"
+            ],
+            [
+                210,
+                "Are you Stan Lee?"
+            ],
+            [
+                212,
+                "Hi. I\u2019m Penny. This is my friend, Sheldon."
+            ],
+            [
+                214,
+                "Right, right. Anyway, Sheldon here is a huge fan of yours, and he was supposed to meet you the other day at the comic book store, but he kind of ended up in jail."
+            ],
+            [
+                217,
+                "Oh, no, no, I said I\u2019m inviting you to come with me to Stan Lee\u2019s house."
+            ],
+            [
+                220,
+                "I\u2019m sorry. He doesn\u2019t really understand sarcasm."
+            ],
+            [
+                222,
+                "Nice to meet you."
+            ]
+        ],
+        "Howard: Looks like you ran a red light on Marengo Avenue at 9": [
+            [
+                55,
+                "30 p.m. on November 16. They got you on a traffic camera. Nice picture."
+            ]
+        ],
+        "Leonard (after Raj whispers to him)": [
+            [
+                75,
+                "Oh, that\u2019s right. Thursday is Stan Lee Day."
+            ]
+        ],
+        "Penny (opening door)": [
+            [
+                89,
+                "(Knock, knock, knock) Penny."
+            ]
+        ],
+        "Penny (reading)": [
+            [
+                97,
+                "Darn tootin\u2019, I do, if the court will excuse my homespun, corn-fed Nebraskan turn of phrase."
+            ]
+        ],
+        "Penny (pretending to be close to tears)": [
+            [
+                105,
+                "But it is a fact that it\u2019s a privilege to know you. Totally."
+            ]
+        ],
+        "Judge": [
+            [
+                108,
+                "Pay the cashier. Sheldon Cooper?"
+            ],
+            [
+                110,
+                "I know what it means. I went to law school."
+            ],
+            [
+                112,
+                "The court would advise you to make it quick, as the court had a dicey-looking breakfast burrito this morning and just took an Imodium."
+            ],
+            [
+                114,
+                "Impressive."
+            ],
+            [
+                116,
+                "Guilty. Pay the cashier."
+            ],
+            [
+                118,
+                "No, I\u2019m following the law. I\u2019m ignoring you."
+            ],
+            [
+                120,
+                "Dr. Cooper, before I find you in contempt and throw you in jail, I\u2019m going to give you a chance to apologize for that last remark."
+            ]
+        ],
+        "Leonard (phone rings.)": [
+            [
+                129,
+                "Hey."
+            ]
+        ],
+        "Guard": [
+            [
+                140,
+                "What?"
+            ],
+            [
+                142,
+                "Knock yourself out. (Points to urinal in cell)"
+            ],
+            [
+                144,
+                "Well, it ain\u2019t a wishing well."
+            ]
+        ],
+        "Stan Lee (opening door)": [
+            [
+                209,
+                "Yeah?"
+            ]
+        ],
+        "Stan Lee": [
+            [
+                211,
+                "Oh, damn."
+            ],
+            [
+                215,
+                "I see. And you thought you\u2019d just come over to my house uninvited?"
+            ],
+            [
+                218,
+                "You know, you fan boys are unbelievable. Do you think you can just ring my doorbell any time you want? I mean, why don\u2019t you just come on in and watch the Lakers game with me?"
+            ],
+            [
+                221,
+                "Well, I\u2019ll give him something he\u2019ll understand. Joanie, call the police!"
+            ]
+        ],
+        "Leonard (as Sheldon enters)": [
+            [
+                228,
+                "Hey, where\u2019ve you been?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The comic book store. Raj enters carrying an iPod with a speaker on his tee shirt. As he enters the shop he starts the iPod and the Darth Vader theme from Star Wars emerges from the speaker. "
+        ],
+        [
+            "Leonard",
+            "Will you please turn your shirt off?"
+        ],
+        [
+            "Raj",
+            "What? I\u2019m giving myself dramatic entrance music. People will know I\u2019m awesome and to be feared."
+        ],
+        [
+            "Howard",
+            "Yeah, right, there\u2019s nothing more awesome and frightening than a man who\u2019s got music blasting from between his nipples."
+        ],
+        [
+            "Leonard",
+            "Hey, Stuart, what\u2019s going on?"
+        ],
+        [
+            "Stuart",
+            "Well, you might want to mark your Google calendars. Stan Lee is coming to do a signing on Thursday."
+        ],
+        [
+            "Sheldon",
+            "Did he finally write a sequel to his autobiography? I\u2019m sure ages 79 through 87 were just action-packed."
+        ],
+        [
+            "Stuart",
+            "No, just a regular comic signing. My uncle is his dermatologist and Stan\u2019s doing him a favour."
+        ],
+        [
+            "Sheldon",
+            "Oh, I don\u2019t want to know that! How can I possibly discuss with Stan Lee the scientific foundations for interstellar flight on a silver surfboard when part of my brain will be scanning his face for signs of contagious skin disease?"
+        ],
+        [
+            "Leonard",
+            "Stan Lee does not have a contagious skin disease."
+        ],
+        [
+            "Sheldon",
+            "Well, look who thinks he\u2019s Stuart\u2019s uncle now."
+        ],
+        [
+            "Raj",
+            "Can\u2019t believe it. We\u2019re going to meet Stan Lee! (Presses play on his iPod. His shirt starts to play \u201cI\u2019m So Excited\u201d by the Pointer Sisters. He dances.)"
+        ],
+        [
+            "Howard",
+            "I\u2019m sad to say I taught him those moves."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "I can\u2019t decide whether I want Stan Lee to autograph my Journey into Mystery 83, first appearance of Thor or my Fantastic Four number five, first appearance of Dr. Doom. (Raj presses his iPod. The theme from Jeopardy plays.) Alex, I\u2019m going to go with what is\u2026 you\u2019re a dumbass? (Presses again, his shirt blows a raspberry.)"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve decided I\u2019m going to have Mr. Lee sign my copy of this month\u2019s Batman."
+        ],
+        [
+            "Howard",
+            "That\u2019s crazy. Stan Lee had nothing to do with Batman."
+        ],
+        [
+            "Sheldon",
+            "Yes, which is why no one else will ask him to sign one, and I will be the possessor of a unique, albeit confusing, artifact, which will set me apart from the hoi polloi of comic book fandom."
+        ],
+        [
+            "Raj",
+            "That\u2019s a great idea, I\u2019m going to get him to sign a Batman as well."
+        ],
+        [
+            "Sheldon",
+            "What is it about the word unique you don\u2019t understand?"
+        ],
+        [
+            "Howard",
+            "Ow! Damn, paper cut. Nothing worse than a paper cut."
+        ],
+        [
+            "Raj",
+            "Well, obviously you don\u2019t remember your circumcision."
+        ],
+        [
+            "Sheldon",
+            "There\u2019s Neosporin and Band-Aids in my top desk drawer."
+        ],
+        [
+            "Howard",
+            "Why don\u2019t you keep that stuff in the bathroom?"
+        ],
+        [
+            "Leonard",
+            "He does. And in the kitchen. And in the car. And in his pocket."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but the ones in my pocket are mine."
+        ],
+        [
+            "Penny",
+            "Hi!"
+        ],
+        [
+            "Leonard",
+            "Hey. Guess who\u2019s going to be at the comic bookstore on Thursday?"
+        ],
+        [
+            "Penny",
+            "Um, can you give me a hint?"
+        ],
+        [
+            "Leonard",
+            "Stan Lee."
+        ],
+        [
+            "Penny",
+            "Um, Stanley, Stanley, Stanley Tucci?"
+        ],
+        [
+            "Leonard",
+            "No, no, Stan Lee."
+        ],
+        [
+            "Penny",
+            "Oh, oh, Stan Lee! Cool!"
+        ],
+        [
+            "Leonard",
+            "You have no idea who he is, do you?"
+        ],
+        [
+            "Penny",
+            "Of course I do. You\u2019re an important part of my life and I pay attention to the things you are interested in."
+        ],
+        [
+            "Leonard",
+            "Good, good, so, who\u2019s Stan Lee?"
+        ],
+        [
+            "Penny",
+            "Um, he was on Star Trek."
+        ],
+        [
+            "Leonard",
+            "Nope."
+        ],
+        [
+            "Penny",
+            "Star Wars?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Penny",
+            "Um, uh, Stan Lee, oh, he was in those goofy kung fu movies you love so much?"
+        ],
+        [
+            "Leonard",
+            "That\u2019s Bruce Lee."
+        ],
+        [
+            "Penny",
+            "Oh. So, is this Bruce Lee\u2019s nerdy brother, Stan?"
+        ],
+        [
+            "Howard",
+            "Sheldon, why do you have all these unopened paychecks in your desk?"
+        ],
+        [
+            "Sheldon",
+            "Because most of the things I\u2019m planning to buy haven\u2019t been invented yet."
+        ],
+        [
+            "Howard",
+            "But there must be thousands of dollars here. Why don\u2019t you put it in the bank?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t trust banks. I believe that when the robots rise up, ATMs will lead the charge."
+        ],
+        [
+            "Howard",
+            "You\u2019ve also got something from the Pasadena Municipal Court."
+        ],
+        [
+            "Sheldon",
+            "Undoubtedly yet another snide response to my repeated letters complaining that the flags in front of the courthouse are flying in the wrong order. From left to right, it\u2019s supposed to be federal, state, and then city of Pasadena."
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry. You sent more than one letter about that?"
+        ],
+        [
+            "Sheldon",
+            "It bothers me."
+        ],
+        [
+            "Howard",
+            "Sheldon, this is a summons."
+        ],
+        [
+            "Sheldon",
+            "A summons for what?"
+        ],
+        [
+            "Howard: Looks like you ran a red light on Marengo Avenue at 9",
+            "30 p.m. on November 16. They got you on a traffic camera. Nice picture."
+        ],
+        [
+            "Sheldon",
+            "November 16? Penny, that\u2019s the evening you fell in your bathtub and I had to drive you to the emergency room."
+        ],
+        [
+            "Penny",
+            "No, it isn\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Yes, it is."
+        ],
+        [
+            "Penny",
+            "No, it isn\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Penny, I have an eidetic memory. Also, that\u2019s a picture of you in the passenger seat holding your dislocated shoulder."
+        ],
+        [
+            "Penny",
+            "Mmm, no, it isn\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Okay, then why is a summons for a traffic violation committed in your car, bearing your license plates, coming to me?"
+        ],
+        [
+            "Penny",
+            "Okay, look, they sent me the ticket. I told them I wasn\u2019t driving and they were all, if it wasn\u2019t you, who was it?"
+        ],
+        [
+            "Sheldon",
+            "So you betrayed me?"
+        ],
+        [
+            "Penny",
+            "No! It wasn\u2019t a betrayal. It was more of a can\u2019t afford any more points on my license. I already have to buy my insurance from this place in the Cayman Islands."
+        ],
+        [
+            "Sheldon",
+            "But the only reason I was driving your car was because you were in distress and I was rescuing you."
+        ],
+        [
+            "Penny",
+            "Yes, yes, look, and now you have a photo to remember that heroic day."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not that big a deal. You just go down to the court on Thursday and you pay the fine."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not going to pay a fine. That would imply I\u2019m guilty."
+        ],
+        [
+            "Howard",
+            "You are guilty. (Raj\u2019s shirt plays the gavel sound from Law & Order) That one I liked."
+        ],
+        [
+            "Sheldon",
+            "I am not guilty. I only have a learner\u2019s permit, Penny was the teacher. When the light turned yellow she said go, go, go, so I went, went, went."
+        ],
+        [
+            "Penny",
+            "Sheldon, I\u2019m sorry. I\u2019ll be happy to reimburse you for the fine. You know, as soon as I get a part in a movie or my own TV series."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t need to reimburse me because I\u2019m not paying. On Thursday, I will have my day in court and justice will be done. In fact, I\u2019m going to begin preparing my defence right now."
+        ],
+        [
+            "Howard",
+            "Okay, he\u2019s going to jail."
+        ],
+        [
+            "Leonard (after Raj whispers to him)",
+            "Oh, that\u2019s right. Thursday is Stan Lee Day."
+        ],
+        [
+            "Sheldon",
+            "Now you see what you\u2019ve done? Because of you, we\u2019re all going to miss Stan Lee."
+        ],
+        [
+            "Leonard",
+            "Whoa! What do you mean all?"
+        ],
+        [
+            "Sheldon",
+            "Well, you\u2019re my friends. You\u2019ll be standing by my side, supporting me, feeding me legal precedents, and if you had the upper body strength, carrying me out on your shoulders when I\u2019m victorious."
+        ],
+        [
+            "Leonard",
+            "Yeah, okay. No."
+        ],
+        [
+            "Sheldon",
+            "Are you saying that you will not stand beside me as I plead my case?"
+        ],
+        [
+            "Leonard",
+            "That\u2019s what I\u2019m saying."
+        ],
+        [
+            "Sheldon",
+            "Howard?"
+        ],
+        [
+            "Howard",
+            "Wow. Uh, Stan Lee, or you in court? Uh, if this was Sophie\u2019s Choice it would\u2019ve been a much shorter movie. No."
+        ],
+        [
+            "Sheldon",
+            "Raj? You\u2019ll be there, won\u2019t you? (Shirt plays \u201cincorrect\u201d quiz sound) All right, then, my so-called friends have forsaken me. So, I guess it\u2019ll just be me and my eyewitness."
+        ],
+        [
+            "Penny",
+            "Oh, balls."
+        ],
+        [
+            "Sheldon",
+            "Please try to wear something appropriate. It won\u2019t help my case if the judge is busy trying to read the word Juicy scrawled across your buttocks."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s door. "
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny (opening door)",
+            "(Knock, knock, knock) Penny."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s just wrong."
+        ],
+        [
+            "Penny",
+            "All right, let\u2019s go."
+        ],
+        [
+            "Sheldon",
+            "Wait, hold on. Before we get to the courthouse, I\u2019d like to call on your skills as an actress."
+        ],
+        [
+            "Penny",
+            "What is this?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve taken the liberty of scripting your appearance on the witness stand because, let\u2019s face it, you\u2019re somewhat of a loose cannon. Now, don\u2019t worry, it\u2019s written in your vernacular. So shall we rehearse?"
+        ],
+        [
+            "Penny",
+            "Do I have a choice?"
+        ],
+        [
+            "Sheldon",
+            "Well, of course you have a choice. Although we live in a deterministic universe, each individual has free will. Now, sit down. I call your attention to the events of November 16. Do you remember that date?"
+        ],
+        [
+            "Penny (reading)",
+            "Darn tootin\u2019, I do, if the court will excuse my homespun, corn-fed Nebraskan turn of phrase."
+        ],
+        [
+            "Sheldon",
+            "Excellent. Go on."
+        ],
+        [
+            "Penny",
+            "The reason that date is, like, so totally fixed in my memory is that I had the privilege to be witness to one of the most heroic acts I\u2019ve ever seen in, like, ever."
+        ],
+        [
+            "Sheldon",
+            "And who performed that heroic act?"
+        ],
+        [
+            "Penny",
+            "Why, you did, sir. You. Dr. Sheldon Cooper, and may I add, it is a privilege to know you."
+        ],
+        [
+            "Sheldon",
+            "There\u2019s no need for compliments, this court is only interested in the facts."
+        ],
+        [
+            "Penny",
+            "But it is a fact that it\u2019s a privilege to know you. Totally. A teardrop rolls down my cheek?"
+        ],
+        [
+            "Sheldon",
+            "Only a suggestion. A catch in your throat would work just as well."
+        ],
+        [
+            "Penny (pretending to be close to tears)",
+            "But it is a fact that it\u2019s a privilege to know you. Totally."
+        ],
+        [
+            "Sheldon",
+            "Maybe you should put on your Juicy pants again."
+        ],
+        [
+            "Scene",
+            "The courtroom. "
+        ],
+        [
+            "Judge",
+            "Pay the cashier. Sheldon Cooper?"
+        ],
+        [
+            "Sheldon",
+            "Good morning, Your Honour. Dr. Sheldon Cooper appearing in pro se. That is to say, representing himself."
+        ],
+        [
+            "Judge",
+            "I know what it means. I went to law school."
+        ],
+        [
+            "Sheldon",
+            "And yet you wound up in traffic court. Anyway, if it would please the court, I\u2019d like to begin with an opening statement."
+        ],
+        [
+            "Judge",
+            "The court would advise you to make it quick, as the court had a dicey-looking breakfast burrito this morning and just took an Imodium."
+        ],
+        [
+            "Sheldon",
+            "Very well, a quick opening statement. Like a milking stool, my case rests on three legs. I will demonstrate that I was improperly instructed in driving by a woman whose lack of respect for society borders on the sociopathic. I will argue that the emergency met the legal doctrine of quod est necessarium est licitum, that which is necessary is legal. But first, I will raise a Sixth Amendment issue. I\u2019m unable to confront my accuser, a non-human entity, to wit, a camera. So, to sum up, improper instruction, quod est necessarium est licitum, Sixth Amendment. My milk stool is complete."
+        ],
+        [
+            "Judge",
+            "Impressive."
+        ],
+        [
+            "Sheldon",
+            "Thank you."
+        ],
+        [
+            "Judge",
+            "Guilty. Pay the cashier."
+        ],
+        [
+            "Sheldon",
+            "I object. You\u2019re completely ignoring the law."
+        ],
+        [
+            "Judge",
+            "No, I\u2019m following the law. I\u2019m ignoring you."
+        ],
+        [
+            "Sheldon",
+            "Really? I would point out that I am at the top of my profession, while you preside over the kiddy table of yours."
+        ],
+        [
+            "Judge",
+            "Dr. Cooper, before I find you in contempt and throw you in jail, I\u2019m going to give you a chance to apologize for that last remark."
+        ],
+        [
+            "Sheldon",
+            "I am a scientist. I never apologize for the truth."
+        ],
+        [
+            "Scene",
+            "A police cell. Three people sit on a bench inside. Sheldon points at the one on the end."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s my spot."
+        ],
+        [
+            "Scene",
+            "A queue outside the comic book store."
+        ],
+        [
+            "Raj",
+            "I can\u2019t wait to ask Stan Lee why he insists on giving all his characters first and last names that start with the same letter."
+        ],
+        [
+            "Leonard",
+            "Oh, come on, why would you do that?"
+        ],
+        [
+            "Raj",
+            "Bruce Banner, Reed Richards, Sue Storm, Stephen Strange, Otto Octavius, Silver Surfer, Peter Parker, oh, and worst of all, J. Jonah Jameson, Jr."
+        ],
+        [
+            "Howard",
+            "Okay, I\u2019m cutting. I\u2019m not gonna talk to Stan Lee after you cheese him off."
+        ],
+        [
+            "Leonard (phone rings.)",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "Sheldon\u2019s in jail."
+        ],
+        [
+            "Leonard",
+            "Sheldon\u2019s in jail?"
+        ],
+        [
+            "Raj",
+            "You called it."
+        ],
+        [
+            "Leonard",
+            "For what?"
+        ],
+        [
+            "Penny",
+            "What do you think? For doing the same crap he always does, except to a judge. He has to stay in there until he apologizes."
+        ],
+        [
+            "Leonard",
+            "So tell him to apologize."
+        ],
+        [
+            "Penny",
+            "Oh, gee, thanks, Leonard. That didn\u2019t occur to me. If he doesn\u2019t apologize by 5 o\u2019clock he is going to spend the night in jail."
+        ],
+        [
+            "Leonard",
+            "Oh, no, that\u2019s terrible. Ooh, the line\u2019s moving. Got to go. Bye."
+        ],
+        [
+            "Scene",
+            "The police cell. "
+        ],
+        [
+            "Sheldon",
+            "Excuse me? Excuse me, jailor?"
+        ],
+        [
+            "Guard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I need to use the restroom."
+        ],
+        [
+            "Guard",
+            "Knock yourself out. (Points to urinal in cell)"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s the toilet?"
+        ],
+        [
+            "Guard",
+            "Well, it ain\u2019t a wishing well."
+        ],
+        [
+            "Sheldon",
+            "Please tell the judge I\u2019m ready to apologize."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Look at that. To my friend, Leonard, from Stan Lee, Excelsior!"
+        ],
+        [
+            "Howard",
+            "Awesome. Mine says, To my friend, Howard, from Stan Lee, Excelsior!"
+        ],
+        [
+            "Raj",
+            "Mine says, To Raj, from Stan Lee."
+        ],
+        [
+            "Howard",
+            "That\u2019s \u2019cause you pissed him off about his character names."
+        ],
+        [
+            "Raj",
+            "Hey, I didn\u2019t even mention Dum Dum Dugan or Green Goblin, Matt Murdock, Pepper Potts, Victor Von Doom, oh, and worst of all, Millie the Model."
+        ],
+        [
+            "Penny",
+            "We\u2019re home."
+        ],
+        [
+            "Leonard",
+            "Oh, hey, buddy. How\u2019d it go?"
+        ],
+        [
+            "Sheldon",
+            "You know very well how it went."
+        ],
+        [
+            "Leonard",
+            "Yeah, but we all want to hear it from you."
+        ],
+        [
+            "Sheldon",
+            "I was found guilty and fined $533."
+        ],
+        [
+            "Penny",
+            "I\u2019m going to write you a cheque for that. As long as you promise to put it in your drawer and never cash it, like the others."
+        ],
+        [
+            "Sheldon",
+            "I also now have three points on a driver\u2019s licence I do not yet possess, and I was forced to issue an undeserved apology, simply because I refuse to urinate in a stainless steel bowl in front of criminals."
+        ],
+        [
+            "Howard",
+            "Plus, you didn\u2019t get to meet Stan Lee."
+        ],
+        [
+            "Leonard",
+            "Okay, that\u2019s enough, Howard. The poor guy\u2019s had a tough time. He had to spend the entire afternoon in jail wearing that suit."
+        ],
+        [
+            "Howard",
+            "You\u2019re right, so it would be cruel to mention that after he finished signing autographs, Stan Lee took Stuart and us out for gelato."
+        ],
+        [
+            "Sheldon",
+            "You had gelato with Stan Lee?"
+        ],
+        [
+            "Howard",
+            "He said we could call him Stan."
+        ],
+        [
+            "Leonard",
+            "Except for Raj."
+        ],
+        [
+            "Sheldon",
+            "Well, I hope you\u2019re satisfied, Penny. You are responsible for all the evil that has befallen me today."
+        ],
+        [
+            "Penny",
+            "Okay, I realize that\u2026"
+        ],
+        [
+            "Sheldon",
+            "Not finished. It is because of you that I now have a criminal record, and it is because of you that I missed out on having gelato with Stan Lee."
+        ],
+        [
+            "Penny",
+            "Okay, maybe you\u2019ll have another chance to have\u2026"
+        ],
+        [
+            "Sheldon",
+            "No, no. I will never have another chance to have gelato with Stan Lee because opportunities to have gelato with Stan Lee come but once in a lifetime. The moving finger writes, and having writ, moves on!"
+        ],
+        [
+            "Penny",
+            "Did he just somehow give me the finger?"
+        ],
+        [
+            "Howard",
+            "Not just the finger. The moving finger."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Penny",
+            "Hey, Stuart."
+        ],
+        [
+            "Stuart",
+            "Oh, hey, Penny. Wow. Hi."
+        ],
+        [
+            "Penny",
+            "What\u2019s going on?"
+        ],
+        [
+            "Stuart",
+            "Nothing. I\u2019m just getting ready to close up and head out."
+        ],
+        [
+            "Penny",
+            "Ah. Cool. Got any fun plans?"
+        ],
+        [
+            "Stuart",
+            "Oh, yeah. Big night tonight. Gonna share a can of tuna with the cat."
+        ],
+        [
+            "Penny",
+            "Oh, nice."
+        ],
+        [
+            "Stuart",
+            "Not even my cat. I just feed it. Some nights it doesn\u2019t even show up."
+        ],
+        [
+            "Penny",
+            "Oh, okay. Well, I was hoping, um, you could do me a favour."
+        ],
+        [
+            "Stuart",
+            "Sure, yeah, name it."
+        ],
+        [
+            "Penny",
+            "Well, I\u2019m kind of responsible for Sheldon missing Stan Lee, and I really want to make it up to him. So I was hoping you could give me his phone number so maybe I can arrange for them to meet."
+        ],
+        [
+            "Stuart",
+            "Oh, I\u2019m sorry, I don\u2019t have his phone number."
+        ],
+        [
+            "Penny",
+            "Hmm. Damn. All right. Thank you."
+        ],
+        [
+            "Stuart",
+            "Mm-hmm. Wait. I have his address."
+        ],
+        [
+            "Penny",
+            "Really? Great!"
+        ],
+        [
+            "Stuart",
+            "But I can\u2019t give it to you."
+        ],
+        [
+            "Penny",
+            "Then why did you tell me you had it?"
+        ],
+        [
+            "Stuart",
+            "I don\u2019t know. Just chatting. You\u2019re looking at a guy who could very well get stood up by a stray cat tonight."
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry, Stuart. Thanks anyway."
+        ],
+        [
+            "Stuart",
+            "Mm-hmm. Wait."
+        ],
+        [
+            "Penny",
+            "Yeah?"
+        ],
+        [
+            "Stuart",
+            "Maybe we can make a deal."
+        ],
+        [
+            "Penny",
+            "What kind of deal?"
+        ],
+        [
+            "Stuart",
+            "I will give you the address if you go to my cousin\u2019s wedding with me."
+        ],
+        [
+            "Penny",
+            "You\u2019re extorting a date out of me?"
+        ],
+        [
+            "Stuart",
+            "I kind of have to. The cousin who\u2019s getting married is the cousin I usually go to weddings with."
+        ],
+        [
+            "Penny",
+            "Can I bring Leonard?"
+        ],
+        [
+            "Stuart",
+            "Sure. What the hell."
+        ],
+        [
+            "Penny",
+            "Deal."
+        ],
+        [
+            "Stuart",
+            "We\u2019ll tell people he\u2019s your cousin."
+        ],
+        [
+            "Scene",
+            "Outside Stan Lee\u2019s house."
+        ],
+        [
+            "Sheldon",
+            "This is Stan Lee\u2019s front door. We were on Stan Lee\u2019s curb, then we were on Stan Lee\u2019s walk, and now we\u2019re at Stan Lee\u2019s front door."
+        ],
+        [
+            "Penny",
+            "Yup."
+        ],
+        [
+            "Sheldon",
+            "Oh, Lord, you just rang Stan Lee\u2019s doorbell. At Stan Lee\u2019s house. We\u2019re about to go in and have milk and cookies with Stan Lee."
+        ],
+        [
+            "Penny",
+            "Okay, sweetie, I don\u2019t know if we\u2019re gonna have cookies, or he\u2019s just gonna say hi, or really what\u2019s gonna happen, so just let me talk, and we\u2019ll\u2026"
+        ],
+        [
+            "Stan Lee (opening door)",
+            "Yeah?"
+        ],
+        [
+            "Penny",
+            "Are you Stan Lee?"
+        ],
+        [
+            "Stan Lee",
+            "Oh, damn."
+        ],
+        [
+            "Penny",
+            "Hi. I\u2019m Penny. This is my friend, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "We\u2019re not friends at the moment. Depends on how this goes."
+        ],
+        [
+            "Penny",
+            "Right, right. Anyway, Sheldon here is a huge fan of yours, and he was supposed to meet you the other day at the comic book store, but he kind of ended up in jail."
+        ],
+        [
+            "Stan Lee",
+            "I see. And you thought you\u2019d just come over to my house uninvited?"
+        ],
+        [
+            "Sheldon",
+            "You said we were invited."
+        ],
+        [
+            "Penny",
+            "Oh, no, no, I said I\u2019m inviting you to come with me to Stan Lee\u2019s house."
+        ],
+        [
+            "Stan Lee",
+            "You know, you fan boys are unbelievable. Do you think you can just ring my doorbell any time you want? I mean, why don\u2019t you just come on in and watch the Lakers game with me?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m not much of a sports fan, but thank you."
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry. He doesn\u2019t really understand sarcasm."
+        ],
+        [
+            "Stan Lee",
+            "Well, I\u2019ll give him something he\u2019ll understand. Joanie, call the police!"
+        ],
+        [
+            "Penny",
+            "Nice to meet you."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Fantastic Four, Daredevil, Invincible Iron Man, Happy Hogan, Curt Connors\u2026"
+        ],
+        [
+            "Howard",
+            "Would you just let it go?"
+        ],
+        [
+            "Raj",
+            "And worst of all, Fin Fang Foom."
+        ],
+        [
+            "Leonard (as Sheldon enters)",
+            "Hey, where\u2019ve you been?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll tell you where I\u2019ve been. You boys may have had gelato with Stan Lee and gotten autographed comics, but I saw the inside of his house and got an autographed application for a restraining order."
+        ],
+        [
+            "Howard",
+            "Sweet."
+        ],
+        [
+            "Sheldon",
+            "Plus, I get to hang out with him again at the hearing. This is going to look great hanging next to my restraining order from Leonard Nimoy."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-16-the-excelsior-acquisition/"
+}

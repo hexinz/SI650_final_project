@@ -1,0 +1,1940 @@
+{
+    "Season": 8,
+    "Episode": 9,
+    "Title": "the septum deviation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. "
+            ],
+            [
+                30,
+                "Credits sequence."
+            ],
+            [
+                31,
+                "Leonard\u2019s bedroom. "
+            ],
+            [
+                44,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                54,
+                "The apartment."
+            ],
+            [
+                77,
+                "Raj\u2019s apartment."
+            ],
+            [
+                89,
+                "A waiting room."
+            ],
+            [
+                93,
+                "Amy\u2019s car."
+            ],
+            [
+                115,
+                "The waiting room. "
+            ],
+            [
+                131,
+                "Raj\u2019s office."
+            ],
+            [
+                148,
+                "The waiting room."
+            ],
+            [
+                172,
+                "Howard and Bernadette\u2019s apartment. "
+            ],
+            [
+                203,
+                "The apartment."
+            ],
+            [
+                221,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                231,
+                "The apartment. "
+            ]
+        ],
+        "Amy": [
+            [
+                1,
+                "This is an easy one. You love this guy."
+            ],
+            [
+                3,
+                "Come on, he\u2019s an under-appreciated genius."
+            ],
+            [
+                5,
+                "It\u2019s not you. Now think, there\u2019s a car named after him."
+            ],
+            [
+                7,
+                "How about this, he\u2019s a poor man\u2019s Sheldon Cooper."
+            ],
+            [
+                10,
+                "Hello."
+            ],
+            [
+                14,
+                "Did they figure out what\u2019s wrong?"
+            ],
+            [
+                20,
+                "Sheldon, it\u2019s a routine procedure, I\u2019ve heard you complain about his snoring."
+            ],
+            [
+                26,
+                "Okay."
+            ],
+            [
+                95,
+                "Don\u2019t worry about that. I\u2019m happy to take you to work."
+            ],
+            [
+                97,
+                "It\u2019s nice they\u2019re getting exercise."
+            ],
+            [
+                99,
+                "I\u2019m sure he brought it."
+            ],
+            [
+                101,
+                "He probably got a new one. Finish your breakfast. Look, there\u2019s an entire section of my dashboard that doesn\u2019t have any syrup on it."
+            ],
+            [
+                103,
+                "I\u2019m odd all the time, everyone knows that. Just last night I tried to see how many fava beans I could fit in my mouth."
+            ],
+            [
+                105,
+                "Twenty eight."
+            ],
+            [
+                107,
+                "Fifty six."
+            ],
+            [
+                109,
+                "All right. Don\u2019t get upset, but, an earlier appointment opened up for Leonard and he\u2019s getting the surgery right now."
+            ],
+            [
+                111,
+                "Just go to work, he\u2019ll be fine."
+            ],
+            [
+                113,
+                "Fine. It\u2019s sweet that you care about him so much."
+            ],
+            [
+                122,
+                "He wore me down. And I was distracted, he has on extra baby powder today."
+            ],
+            [
+                127,
+                "Come on, let\u2019s talk about something other than the surgery."
+            ],
+            [
+                151,
+                "Stubbed his toe on the revolving door on the way in."
+            ],
+            [
+                153,
+                "Who told you to keep going around?"
+            ],
+            [
+                156,
+                "Penny has a good point. This is like the man in the supermarket with the goiter on his neck. Whatever you\u2019re thinking, just keep it to yourself."
+            ],
+            [
+                158,
+                "And I\u2019m sure he knew that before you held a grapefruit up next to it."
+            ],
+            [
+                168,
+                "Sheldon, you can\u2019t go back there."
+            ],
+            [
+                170,
+                "Are you okay?"
+            ],
+            [
+                210,
+                "Don\u2019t be like that. You two need to talk this out."
+            ],
+            [
+                216,
+                "Sheldon will move out eventually."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Me."
+            ],
+            [
+                4,
+                "Still think it\u2019s me."
+            ],
+            [
+                6,
+                "Of course there is. The Mini Cooper, \u2019cause it\u2019s me."
+            ],
+            [
+                8,
+                "Oh, Tesla."
+            ],
+            [
+                11,
+                "Hey, how did it go?"
+            ],
+            [
+                16,
+                "Why would you have surgery?"
+            ],
+            [
+                19,
+                "But you don\u2019t have a life-threatening condition. Why would you take the risk of surgery?"
+            ],
+            [
+                21,
+                "Yes, for the first five or six years, but I\u2019ve gotten used to it. It helps me sleep. He\u2019s like my mucus-powered white noise machine."
+            ],
+            [
+                23,
+                "Very well. I\u2019m done talking about it."
+            ],
+            [
+                25,
+                "I believe it was your turn in the game."
+            ],
+            [
+                27,
+                "Let\u2019s see. Oh, this person is most famous for never having gotten his nose mutilated with elective surgery and never living the rest of his life in the shadows as a hideous, disfigured freak."
+            ],
+            [
+                29,
+                "I don\u2019t. I\u2019m not even sure if that\u2019s a person or a typo."
+            ],
+            [
+                33,
+                "I\u2019m listening to you snore. I\u2019m wondering how I\u2019ll ever sleep without it."
+            ],
+            [
+                35,
+                "Really Leonard. Insults? After I spent two hours in your closet, waiting for you to fall asleep?"
+            ],
+            [
+                37,
+                "If the surgery is successful, the snoring is gone. And if you die during surgery, the snoring is gone."
+            ],
+            [
+                39,
+                "I have to be honest with you Leonard, I\u2019m truly worried."
+            ],
+            [
+                41,
+                "Well, I\u2019ve been doing some research and I\u2019ve learned that one in 700,000 people die from general anaesthesia."
+            ],
+            [
+                43,
+                "I suppose that\u2019s true. You\u2019re such a glass half-full kind of guy. I\u2019m going to miss that."
+            ],
+            [
+                56,
+                "Remember when I said if you went through with your surgery, there was a one-in-700,000 chance of dying?"
+            ],
+            [
+                58,
+                "Well, I\u2019ve been crunching the numbers, and so far, I\u2019ve gotten your probability of death all the way to a sphincter-tightening one in 300."
+            ],
+            [
+                60,
+                "Leonard, what if you have an allergic reaction to the surgeon\u2019s latex gloves?"
+            ],
+            [
+                62,
+                "Well, then why don\u2019t you wear the rubber gloves I bought for you to do the dishes?"
+            ],
+            [
+                64,
+                "Fine. What about epilepsy?"
+            ],
+            [
+                66,
+                "You don\u2019t, but the surgeon might, hmm? And your carotid artery is just one shaky scalpel away from becoming the dancing fountain at Disneyland."
+            ],
+            [
+                68,
+                "I do. I have the drive to the hospital right here. That is if you make it to the car without falling down the stairs. And don\u2019t expect me to carry you, I do that enough in life."
+            ],
+            [
+                70,
+                "You don\u2019t know that."
+            ],
+            [
+                72,
+                "You know who else said that? Every cocky T. Rex currently swimming around in the gas tank of your car."
+            ],
+            [
+                74,
+                "I don\u2019t know, I\u2019m smart and scrappy, I think I\u2019d find a way."
+            ],
+            [
+                76,
+                "Thank you. And while you\u2019re thinking about it, if you have the surgery in Nicaragua during monsoon season, I can practically guarantee your death."
+            ],
+            [
+                94,
+                "18 parts per million. And he\u2019s still doing it."
+            ],
+            [
+                96,
+                "Well, thank you. And Leonard never lets me have French toast sticks in the car. I can\u2019t have syrupy fingers, but he can do the backstroke in a toilet bowl."
+            ],
+            [
+                98,
+                "Although now that I think about it, Leonard would never go swimming in public without his swim shirt."
+            ],
+            [
+                100,
+                "No, but last year, at Magic Mountain, he got such a bad sunburn, we had to cut him out of it."
+            ],
+            [
+                102,
+                "You\u2019re acting odd. Why?"
+            ],
+            [
+                104,
+                "Tell me the truth."
+            ],
+            [
+                106,
+                "Come on."
+            ],
+            [
+                108,
+                "Amy. What\u2019s going on?"
+            ],
+            [
+                110,
+                "I see. Take me to Leonard."
+            ],
+            [
+                112,
+                "Amy, he\u2019s my best friend, and if you don\u2019t take me, I\u2019m going there anyway."
+            ],
+            [
+                114,
+                "I do. And I wouldn\u2019t be able to forgive myself if something happened to him and I wasn\u2019t at his bedside to say I told you so."
+            ],
+            [
+                116,
+                "Hello."
+            ],
+            [
+                118,
+                "Oh, stop it. I assume this medical centre\u2019s already treated the burns on your bottom from the recent pants fire."
+            ],
+            [
+                120,
+                "That\u2019s for the fire marshal to determine."
+            ],
+            [
+                123,
+                "Is he okay?"
+            ],
+            [
+                125,
+                "Very well."
+            ],
+            [
+                128,
+                "That\u2019s a good idea. Penny, did you and Leonard ever discuss funeral arrangements?"
+            ],
+            [
+                130,
+                "I suppose we could try to make it a celebration, but he died so young."
+            ],
+            [
+                150,
+                "Oh, this isn\u2019t for Leonard, no. Amy bought it for me."
+            ],
+            [
+                152,
+                "You know those confounded things make me dizzy."
+            ],
+            [
+                154,
+                "There was a large plant in the lobby. It kept looking like the outside."
+            ],
+            [
+                157,
+                "It was like a grapefruit."
+            ],
+            [
+                159,
+                "Well, I\u2019m not making any promises. Not only did Leonard take what I feel is an unnecessary risk, he deceived me."
+            ],
+            [
+                161,
+                "The reason I was being a pain in the B is because I was worried about him, and no one else was."
+            ],
+            [
+                163,
+                "You bet your sweet B I won\u2019t."
+            ],
+            [
+                165,
+                "And I\u2019m not? It\u2019s an earthquake. I knew it."
+            ],
+            [
+                167,
+                "A little tremor that turns routine sinus surgery into a frontal lobotomy. Oh, I don\u2019t care for this at all. Oh, I need to see he\u2019s okay."
+            ],
+            [
+                169,
+                "Try and stop me."
+            ],
+            [
+                171,
+                "Why didn\u2019t you stop me?"
+            ],
+            [
+                205,
+                "You know this is all your fault."
+            ],
+            [
+                207,
+                "I told you not to get the surgery."
+            ],
+            [
+                209,
+                "Wow. I don\u2019t know which hurts worse, my nose or my heart. Well, I\u2019m done speaking to you."
+            ],
+            [
+                213,
+                "Oh, you\u2019re hardly out of the woods, no. You still run the risk of infection, a blood clot, the possibility that an inattentive surgeon let a barn spider lay eggs in your nose. The minute you sneeze web, I\u2019m moving out."
+            ],
+            [
+                218,
+                "I was not panicked, and I am not overly attached to Leonard."
+            ],
+            [
+                220,
+                "Yeah. Tell me those aren\u2019t the words of a man with a spider eating its way through his brain. Amy, you\u2019re a neuroscientist. Crack his skull open, spray some Raid in there."
+            ],
+            [
+                233,
+                "Oh, I ordered it before your surgery. It\u2019s the urn I was going to put you in."
+            ],
+            [
+                235,
+                "I can\u2019t send it back, I had it engraved. Here lie the ashes of Leonard Hofstadter. He thought he was right, but his room mate knew better.\u201d"
+            ],
+            [
+                238,
+                "Oh, that one\u2019s mine."
+            ]
+        ],
+        "Penny": [
+            [
+                9,
+                "Hi."
+            ],
+            [
+                13,
+                "Yeah, I watched. It was like the scary boat tunnel in Willy Wonka."
+            ],
+            [
+                18,
+                "Yeah, back off, he\u2019s all mine."
+            ],
+            [
+                91,
+                "Okay. And Sheldon really believes we\u2019re at a public swimming pool?"
+            ],
+            [
+                117,
+                "We had a really nice swim."
+            ],
+            [
+                119,
+                "\u2018Cause I\u2019m a liar, liar?"
+            ],
+            [
+                121,
+                "You had to tell him?"
+            ],
+            [
+                124,
+                "He\u2019s still in surgery."
+            ],
+            [
+                126,
+                "He\u2019s gonna be all right. That is sticky."
+            ],
+            [
+                129,
+                "I think she meant something a little happier."
+            ],
+            [
+                149,
+                "Oh, it\u2019s nice you got him that."
+            ],
+            [
+                155,
+                "Okay, listen, when Leonard comes out, he is not gonna feel great, so, please don\u2019t give him a hard time."
+            ],
+            [
+                160,
+                "Okay, the reason he deceived you is you were being a pain in the ass."
+            ],
+            [
+                162,
+                "Really? You won\u2019t even say A?"
+            ],
+            [
+                164,
+                "Obviously, I care about Leonard. I\u2019m gonna spend the rest of my life with him."
+            ],
+            [
+                166,
+                "Sheldon, it was just a little tremor."
+            ],
+            [
+                204,
+                "Come on, smile. This is gonna be my Christmas card."
+            ],
+            [
+                211,
+                "Yeah, \u2019cause you sound really funny."
+            ],
+            [
+                215,
+                "Who are you kidding? You were so panicked Leonard was gonna die, you\u2019ll never leave him."
+            ],
+            [
+                217,
+                "Yeah, once he figures out how to work a door."
+            ],
+            [
+                234,
+                "Okay, that\u2019s morbid. Send it back."
+            ],
+            [
+                237,
+                "Hey, why did you get two? I\u2019m with stupid."
+            ]
+        ],
+        "Leonard": [
+            [
+                12,
+                "Oh, not fun. The doctor shoved a camera up into my sinuses."
+            ],
+            [
+                15,
+                "Yeah. It\u2019s a deviated septum. The surgery to correct it is simple. He\u2019s gonna do it next week."
+            ],
+            [
+                17,
+                "Because I can\u2019t breathe. I snore, I get sinus infections."
+            ],
+            [
+                22,
+                "Sheldon, I\u2019m gonna get the surgery, it\u2019s no big deal. End of story."
+            ],
+            [
+                24,
+                "Thank you."
+            ],
+            [
+                28,
+                "I think you could give a better clue."
+            ],
+            [
+                32,
+                "Okay, why?"
+            ],
+            [
+                34,
+                "If it helps you sleep, then why are you sitting here staring at me like the albino boogeyman?"
+            ],
+            [
+                36,
+                "What\u2019s your problem?"
+            ],
+            [
+                38,
+                "It sounds like either way, I finally get some rest."
+            ],
+            [
+                40,
+                "I told you, there\u2019s nothing to worry about."
+            ],
+            [
+                42,
+                "Buddy, wh, do you realize that that also means 699,999 people don\u2019t die?"
+            ],
+            [
+                55,
+                "Hey. What\u2019re you working on?"
+            ],
+            [
+                57,
+                "Yeah?"
+            ],
+            [
+                59,
+                "Great timing. My check sphincter light just went on."
+            ],
+            [
+                61,
+                "I\u2019m not allergic to latex."
+            ],
+            [
+                63,
+                "For the same reason I don\u2019t wear the apron or the hair net."
+            ],
+            [
+                65,
+                "I don\u2019t have epilepsy, either."
+            ],
+            [
+                67,
+                "Sheldon, do you realize that driving is riskier than surgery?"
+            ],
+            [
+                69,
+                "Buddy, I, I get that you\u2019re worried about me and I, I appreciate that, but I\u2019m not going to die."
+            ],
+            [
+                71,
+                "Well, I do know that it won\u2019t be from an asteroid strike."
+            ],
+            [
+                73,
+                "If there was an asteroid strike, wouldn\u2019t you die, too?"
+            ],
+            [
+                75,
+                "Tell you what, the surgery\u2019s not for a week, I\u2019ll think about it."
+            ],
+            [
+                90,
+                "The doctor said I should be out of surgery by ten."
+            ],
+            [
+                92,
+                "He was so busy figuring out how many parts per million of urine we\u2019d be floating around in, he didn\u2019t even question it."
+            ],
+            [
+                206,
+                "How is it my fault?"
+            ],
+            [
+                208,
+                "Okay, first of all, the surgery was a success, and secondly, I didn\u2019t even want you there."
+            ],
+            [
+                212,
+                "Sheldon, I\u2019m sorry I didn\u2019t tell you about the surgery, but you were worried about nothing."
+            ],
+            [
+                214,
+                "I never thought I\u2019d say these words, but come on, nose spider."
+            ],
+            [
+                219,
+                "You were so worried that you smashed your face trying to check on me. You love me."
+            ],
+            [
+                232,
+                "Oh, what\u2019d you get?"
+            ],
+            [
+                236,
+                "That\u2019s funny. Boy, I\u2019m gonna miss these painkillers."
+            ]
+        ],
+        "Raj": [
+            [
+                45,
+                "Oh, so, my, uh, parents\u2019 40th anniversary\u2019s coming up and I can\u2019t think of a thing to get them."
+            ],
+            [
+                48,
+                "Anyway, any ideas on a gift?"
+            ],
+            [
+                50,
+                "They used to like going to the Mumbai Symphony, but last year my mom thought they were phoning it in. Then my dad said based on their love life, she should know about phoning it in."
+            ],
+            [
+                52,
+                "Well, they weren\u2019t speaking at the time, so he had a servant say it to her. Oh, maybe I could make a gift for them. I know how much you guys love the coasters I made for you."
+            ],
+            [
+                80,
+                "Dude, my parents just split up."
+            ],
+            [
+                82,
+                "Uh, that was my dad on the phone. He moved out."
+            ],
+            [
+                84,
+                "No, it\u2019s fine. It\u2019s not that big a deal. As long as they\u2019re happy, I\u2019m happy. And when I get to see them for the holidays, I\u2019ll get to celebrate Diwali twice, one at each house. That\u2019s double the Diwali."
+            ],
+            [
+                86,
+                "I\u2019m okay."
+            ],
+            [
+                88,
+                "How can I be okay? I come from a broken home."
+            ],
+            [
+                134,
+                "Hey. What brings you by?"
+            ],
+            [
+                138,
+                "I\u2019m sorry. This is very sweet. Thanks."
+            ],
+            [
+                140,
+                "Better. I guess the news just hit me a lot harder than I expected."
+            ],
+            [
+                146,
+                "I think, over time, they started to resent each other, and instead of talking about the things that bothered them, they kept it bottled up, and the hate just grew."
+            ],
+            [
+                226,
+                "Hey, guys. Sorry I am so late. I was on the phone with my mother."
+            ],
+            [
+                228,
+                "Pretty good. She bought the book Eat, Pray, Love and used it to set my father\u2019s Mercedes on fire. So, what\u2019s up with you guys?"
+            ],
+            [
+                230,
+                "Oh, like you and I did at couples therapy."
+            ]
+        ],
+        "Howard": [
+            [
+                46,
+                "Damn, can you imagine being married to someone for 40 years?"
+            ],
+            [
+                79,
+                "So I found this fencing school in Burbank that has a Jedi class. And if you\u2019re cool being the only adults there, they said they are."
+            ],
+            [
+                81,
+                "What?"
+            ],
+            [
+                83,
+                "Oh, my God, I, I\u2019m sorry. I mean, if you\u2019re not up to it, we don\u2019t have to go out, we can just hang here."
+            ],
+            [
+                85,
+                "You sure you\u2019re okay?"
+            ],
+            [
+                87,
+                "You don\u2019t look okay."
+            ],
+            [
+                132,
+                "Knock, knock."
+            ],
+            [
+                136,
+                "Told you, not funny."
+            ],
+            [
+                139,
+                "So, how you doing?"
+            ],
+            [
+                142,
+                "Why? Your father barely speaks to your mother."
+            ],
+            [
+                144,
+                "As you can see, we\u2019re here to cheer you up."
+            ],
+            [
+                174,
+                "What are you talking about? We\u2019re fine. And Raj\u2019s parents probably split up because of Raj."
+            ],
+            [
+                176,
+                "They always say the children aren\u2019t to blame, but, come on."
+            ],
+            [
+                178,
+                "How can I convince you it won\u2019t?"
+            ],
+            [
+                180,
+                "I\u2019m not answering that. It\u2019s a trap."
+            ],
+            [
+                182,
+                "And here I am in the trap. You just keep talking. I\u2019m gonna chew my leg off."
+            ],
+            [
+                184,
+                "Okay. The truth is, sometimes, you\u2019re too beautiful."
+            ],
+            [
+                186,
+                "Okay, okay. I really don\u2019t like how your wings poke me when we sleep \u2019cause you\u2019re an angel."
+            ],
+            [
+                188,
+                "I just don\u2019t think the secret to a happy marriage is going out of our way to criticize each other. Although, there are ways to improve our communication. One thing I learned when I was in couples therapy was\u2026"
+            ],
+            [
+                190,
+                "Not important."
+            ],
+            [
+                192,
+                "Not important."
+            ],
+            [
+                194,
+                "Anyway, the therapist had us tell each other what we loved about one another."
+            ],
+            [
+                196,
+                "All right."
+            ],
+            [
+                198,
+                "Thank you. And I love that you\u2019re strong and independent."
+            ],
+            [
+                200,
+                "I love that I\u2019m kind of a slob around here, and you\u2019re okay with that."
+            ],
+            [
+                202,
+                "See, I am. Isn\u2019t this great?"
+            ],
+            [
+                223,
+                "I love that you\u2019re too good to pee in the kitchen sink."
+            ],
+            [
+                225,
+                "And I love how your hair is always on the soap. It\u2019s like washing myself with a hamster."
+            ],
+            [
+                229,
+                "We\u2019re just saying all the things we love about each other."
+            ]
+        ],
+        "Bernadette": [
+            [
+                47,
+                "Not anymore."
+            ],
+            [
+                49,
+                "Well, what are some of the things they like?"
+            ],
+            [
+                51,
+                "He said that to her?"
+            ],
+            [
+                53,
+                "They\u2019re yours in the divorce."
+            ],
+            [
+                133,
+                "Hi."
+            ],
+            [
+                135,
+                "Oh, muffin much."
+            ],
+            [
+                137,
+                "He\u2019s just not laughing because he\u2019s feeling blueberry. Tough crowd."
+            ],
+            [
+                141,
+                "Well, of course. I would be devastated if my parents split up."
+            ],
+            [
+                143,
+                "Well, at least he stuck around, not like your dad, who just took off."
+            ],
+            [
+                145,
+                "Sorry, Raj. Do you have any sense of what happened with your folks?"
+            ],
+            [
+                147,
+                "It\u2019s a shame they spent all that time unhappy. But sometimes, there\u2019s muffin you can do about it. You get it, right?"
+            ],
+            [
+                173,
+                "Can I tell you something? This whole thing with Raj\u2019s parents just got me a little worried about us."
+            ],
+            [
+                175,
+                "What?"
+            ],
+            [
+                177,
+                "I\u2019m not joking, Howie. You heard what he said about his parents. It was the little things they kept bottled up. I don\u2019t want that to happen to us."
+            ],
+            [
+                179,
+                "Well, is there anything about me you\u2019re keeping inside?"
+            ],
+            [
+                181,
+                "So there are things you don\u2019t like."
+            ],
+            [
+                183,
+                "Just tell me one thing that bothers you, and I promise I won\u2019t get mad."
+            ],
+            [
+                185,
+                "Oh. Howie, be serious."
+            ],
+            [
+                187,
+                "Okay, fine, maybe it was a bad idea."
+            ],
+            [
+                189,
+                "Who were you in couples therapy with?"
+            ],
+            [
+                191,
+                "Was it your mom?"
+            ],
+            [
+                193,
+                "It was your mom."
+            ],
+            [
+                195,
+                "Oh, that\u2019s so sweet. I want to do that."
+            ],
+            [
+                197,
+                "Okay, um, I love that you make me laugh."
+            ],
+            [
+                199,
+                "And yet, I still love when you hold a door for me."
+            ],
+            [
+                201,
+                "Uh-huh. And I love that I work and do all the cleaning, and you\u2019re okay with that."
+            ],
+            [
+                222,
+                "I love that you take pride in your looks, even when I have to pee in the morning, and you\u2019re in there spending an hour on your hair."
+            ],
+            [
+                224,
+                "I love that you have the confidence to speak, even without giving it an ounce of thought."
+            ],
+            [
+                227,
+                "Oh, how is she?"
+            ]
+        ],
+        "Raj (on phone)": [
+            [
+                78,
+                "Yes. Okay. I, I understand. Of course, yes. I\u2019ll call you tomorrow. Bye."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Amy",
+            "This is an easy one. You love this guy."
+        ],
+        [
+            "Sheldon",
+            "Me."
+        ],
+        [
+            "Amy",
+            "Come on, he\u2019s an under-appreciated genius."
+        ],
+        [
+            "Sheldon",
+            "Still think it\u2019s me."
+        ],
+        [
+            "Amy",
+            "It\u2019s not you. Now think, there\u2019s a car named after him."
+        ],
+        [
+            "Sheldon",
+            "Of course there is. The Mini Cooper, \u2019cause it\u2019s me."
+        ],
+        [
+            "Amy",
+            "How about this, he\u2019s a poor man\u2019s Sheldon Cooper."
+        ],
+        [
+            "Sheldon",
+            "Oh, Tesla."
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Amy",
+            "Hello."
+        ],
+        [
+            "Sheldon",
+            "Hey, how did it go?"
+        ],
+        [
+            "Leonard",
+            "Oh, not fun. The doctor shoved a camera up into my sinuses."
+        ],
+        [
+            "Penny",
+            "Yeah, I watched. It was like the scary boat tunnel in Willy Wonka."
+        ],
+        [
+            "Amy",
+            "Did they figure out what\u2019s wrong?"
+        ],
+        [
+            "Leonard",
+            "Yeah. It\u2019s a deviated septum. The surgery to correct it is simple. He\u2019s gonna do it next week."
+        ],
+        [
+            "Sheldon",
+            "Why would you have surgery?"
+        ],
+        [
+            "Leonard",
+            "Because I can\u2019t breathe. I snore, I get sinus infections."
+        ],
+        [
+            "Penny",
+            "Yeah, back off, he\u2019s all mine."
+        ],
+        [
+            "Sheldon",
+            "But you don\u2019t have a life-threatening condition. Why would you take the risk of surgery?"
+        ],
+        [
+            "Amy",
+            "Sheldon, it\u2019s a routine procedure, I\u2019ve heard you complain about his snoring."
+        ],
+        [
+            "Sheldon",
+            "Yes, for the first five or six years, but I\u2019ve gotten used to it. It helps me sleep. He\u2019s like my mucus-powered white noise machine."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I\u2019m gonna get the surgery, it\u2019s no big deal. End of story."
+        ],
+        [
+            "Sheldon",
+            "Very well. I\u2019m done talking about it."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "I believe it was your turn in the game."
+        ],
+        [
+            "Amy",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "Let\u2019s see. Oh, this person is most famous for never having gotten his nose mutilated with elective surgery and never living the rest of his life in the shadows as a hideous, disfigured freak."
+        ],
+        [
+            "Leonard",
+            "I think you could give a better clue."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t. I\u2019m not even sure if that\u2019s a person or a typo."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom. "
+        ],
+        [
+            "Leonard",
+            "Okay, why?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m listening to you snore. I\u2019m wondering how I\u2019ll ever sleep without it."
+        ],
+        [
+            "Leonard",
+            "If it helps you sleep, then why are you sitting here staring at me like the albino boogeyman?"
+        ],
+        [
+            "Sheldon",
+            "Really Leonard. Insults? After I spent two hours in your closet, waiting for you to fall asleep?"
+        ],
+        [
+            "Leonard",
+            "What\u2019s your problem?"
+        ],
+        [
+            "Sheldon",
+            "If the surgery is successful, the snoring is gone. And if you die during surgery, the snoring is gone."
+        ],
+        [
+            "Leonard",
+            "It sounds like either way, I finally get some rest."
+        ],
+        [
+            "Sheldon",
+            "I have to be honest with you Leonard, I\u2019m truly worried."
+        ],
+        [
+            "Leonard",
+            "I told you, there\u2019s nothing to worry about."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019ve been doing some research and I\u2019ve learned that one in 700,000 people die from general anaesthesia."
+        ],
+        [
+            "Leonard",
+            "Buddy, wh, do you realize that that also means 699,999 people don\u2019t die?"
+        ],
+        [
+            "Sheldon",
+            "I suppose that\u2019s true. You\u2019re such a glass half-full kind of guy. I\u2019m going to miss that."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "Oh, so, my, uh, parents\u2019 40th anniversary\u2019s coming up and I can\u2019t think of a thing to get them."
+        ],
+        [
+            "Howard",
+            "Damn, can you imagine being married to someone for 40 years?"
+        ],
+        [
+            "Bernadette",
+            "Not anymore."
+        ],
+        [
+            "Raj",
+            "Anyway, any ideas on a gift?"
+        ],
+        [
+            "Bernadette",
+            "Well, what are some of the things they like?"
+        ],
+        [
+            "Raj",
+            "They used to like going to the Mumbai Symphony, but last year my mom thought they were phoning it in. Then my dad said based on their love life, she should know about phoning it in."
+        ],
+        [
+            "Bernadette",
+            "He said that to her?"
+        ],
+        [
+            "Raj",
+            "Well, they weren\u2019t speaking at the time, so he had a servant say it to her. Oh, maybe I could make a gift for them. I know how much you guys love the coasters I made for you."
+        ],
+        [
+            "Bernadette",
+            "They\u2019re yours in the divorce."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Hey. What\u2019re you working on?"
+        ],
+        [
+            "Sheldon",
+            "Remember when I said if you went through with your surgery, there was a one-in-700,000 chance of dying?"
+        ],
+        [
+            "Leonard",
+            "Yeah?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019ve been crunching the numbers, and so far, I\u2019ve gotten your probability of death all the way to a sphincter-tightening one in 300."
+        ],
+        [
+            "Leonard",
+            "Great timing. My check sphincter light just went on."
+        ],
+        [
+            "Sheldon",
+            "Leonard, what if you have an allergic reaction to the surgeon\u2019s latex gloves?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m not allergic to latex."
+        ],
+        [
+            "Sheldon",
+            "Well, then why don\u2019t you wear the rubber gloves I bought for you to do the dishes?"
+        ],
+        [
+            "Leonard",
+            "For the same reason I don\u2019t wear the apron or the hair net."
+        ],
+        [
+            "Sheldon",
+            "Fine. What about epilepsy?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t have epilepsy, either."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t, but the surgeon might, hmm? And your carotid artery is just one shaky scalpel away from becoming the dancing fountain at Disneyland."
+        ],
+        [
+            "Leonard",
+            "Sheldon, do you realize that driving is riskier than surgery?"
+        ],
+        [
+            "Sheldon",
+            "I do. I have the drive to the hospital right here. That is if you make it to the car without falling down the stairs. And don\u2019t expect me to carry you, I do that enough in life."
+        ],
+        [
+            "Leonard",
+            "Buddy, I, I get that you\u2019re worried about me and I, I appreciate that, but I\u2019m not going to die."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t know that."
+        ],
+        [
+            "Leonard",
+            "Well, I do know that it won\u2019t be from an asteroid strike."
+        ],
+        [
+            "Sheldon",
+            "You know who else said that? Every cocky T. Rex currently swimming around in the gas tank of your car."
+        ],
+        [
+            "Leonard",
+            "If there was an asteroid strike, wouldn\u2019t you die, too?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know, I\u2019m smart and scrappy, I think I\u2019d find a way."
+        ],
+        [
+            "Leonard",
+            "Tell you what, the surgery\u2019s not for a week, I\u2019ll think about it."
+        ],
+        [
+            "Sheldon",
+            "Thank you. And while you\u2019re thinking about it, if you have the surgery in Nicaragua during monsoon season, I can practically guarantee your death."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Raj (on phone)",
+            "Yes. Okay. I, I understand. Of course, yes. I\u2019ll call you tomorrow. Bye."
+        ],
+        [
+            "Howard",
+            "So I found this fencing school in Burbank that has a Jedi class. And if you\u2019re cool being the only adults there, they said they are."
+        ],
+        [
+            "Raj",
+            "Dude, my parents just split up."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Raj",
+            "Uh, that was my dad on the phone. He moved out."
+        ],
+        [
+            "Howard",
+            "Oh, my God, I, I\u2019m sorry. I mean, if you\u2019re not up to it, we don\u2019t have to go out, we can just hang here."
+        ],
+        [
+            "Raj",
+            "No, it\u2019s fine. It\u2019s not that big a deal. As long as they\u2019re happy, I\u2019m happy. And when I get to see them for the holidays, I\u2019ll get to celebrate Diwali twice, one at each house. That\u2019s double the Diwali."
+        ],
+        [
+            "Howard",
+            "You sure you\u2019re okay?"
+        ],
+        [
+            "Raj",
+            "I\u2019m okay."
+        ],
+        [
+            "Howard",
+            "You don\u2019t look okay."
+        ],
+        [
+            "Raj",
+            "How can I be okay? I come from a broken home."
+        ],
+        [
+            "Scene",
+            "A waiting room."
+        ],
+        [
+            "Leonard",
+            "The doctor said I should be out of surgery by ten."
+        ],
+        [
+            "Penny",
+            "Okay. And Sheldon really believes we\u2019re at a public swimming pool?"
+        ],
+        [
+            "Leonard",
+            "He was so busy figuring out how many parts per million of urine we\u2019d be floating around in, he didn\u2019t even question it."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s car."
+        ],
+        [
+            "Sheldon",
+            "18 parts per million. And he\u2019s still doing it."
+        ],
+        [
+            "Amy",
+            "Don\u2019t worry about that. I\u2019m happy to take you to work."
+        ],
+        [
+            "Sheldon",
+            "Well, thank you. And Leonard never lets me have French toast sticks in the car. I can\u2019t have syrupy fingers, but he can do the backstroke in a toilet bowl."
+        ],
+        [
+            "Amy",
+            "It\u2019s nice they\u2019re getting exercise."
+        ],
+        [
+            "Sheldon",
+            "Although now that I think about it, Leonard would never go swimming in public without his swim shirt."
+        ],
+        [
+            "Amy",
+            "I\u2019m sure he brought it."
+        ],
+        [
+            "Sheldon",
+            "No, but last year, at Magic Mountain, he got such a bad sunburn, we had to cut him out of it."
+        ],
+        [
+            "Amy",
+            "He probably got a new one. Finish your breakfast. Look, there\u2019s an entire section of my dashboard that doesn\u2019t have any syrup on it."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re acting odd. Why?"
+        ],
+        [
+            "Amy",
+            "I\u2019m odd all the time, everyone knows that. Just last night I tried to see how many fava beans I could fit in my mouth."
+        ],
+        [
+            "Sheldon",
+            "Tell me the truth."
+        ],
+        [
+            "Amy",
+            "Twenty eight."
+        ],
+        [
+            "Sheldon",
+            "Come on."
+        ],
+        [
+            "Amy",
+            "Fifty six."
+        ],
+        [
+            "Sheldon",
+            "Amy. What\u2019s going on?"
+        ],
+        [
+            "Amy",
+            "All right. Don\u2019t get upset, but, an earlier appointment opened up for Leonard and he\u2019s getting the surgery right now."
+        ],
+        [
+            "Sheldon",
+            "I see. Take me to Leonard."
+        ],
+        [
+            "Amy",
+            "Just go to work, he\u2019ll be fine."
+        ],
+        [
+            "Sheldon",
+            "Amy, he\u2019s my best friend, and if you don\u2019t take me, I\u2019m going there anyway."
+        ],
+        [
+            "Amy",
+            "Fine. It\u2019s sweet that you care about him so much."
+        ],
+        [
+            "Sheldon",
+            "I do. And I wouldn\u2019t be able to forgive myself if something happened to him and I wasn\u2019t at his bedside to say I told you so."
+        ],
+        [
+            "Scene",
+            "The waiting room. "
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Penny",
+            "We had a really nice swim."
+        ],
+        [
+            "Sheldon",
+            "Oh, stop it. I assume this medical centre\u2019s already treated the burns on your bottom from the recent pants fire."
+        ],
+        [
+            "Penny",
+            "\u2018Cause I\u2019m a liar, liar?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s for the fire marshal to determine."
+        ],
+        [
+            "Penny",
+            "You had to tell him?"
+        ],
+        [
+            "Amy",
+            "He wore me down. And I was distracted, he has on extra baby powder today."
+        ],
+        [
+            "Sheldon",
+            "Is he okay?"
+        ],
+        [
+            "Penny",
+            "He\u2019s still in surgery."
+        ],
+        [
+            "Sheldon",
+            "Very well."
+        ],
+        [
+            "Penny",
+            "He\u2019s gonna be all right. That is sticky."
+        ],
+        [
+            "Amy",
+            "Come on, let\u2019s talk about something other than the surgery."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a good idea. Penny, did you and Leonard ever discuss funeral arrangements?"
+        ],
+        [
+            "Penny",
+            "I think she meant something a little happier."
+        ],
+        [
+            "Sheldon",
+            "I suppose we could try to make it a celebration, but he died so young."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s office."
+        ],
+        [
+            "Howard",
+            "Knock, knock."
+        ],
+        [
+            "Bernadette",
+            "Hi."
+        ],
+        [
+            "Raj",
+            "Hey. What brings you by?"
+        ],
+        [
+            "Bernadette",
+            "Oh, muffin much."
+        ],
+        [
+            "Howard",
+            "Told you, not funny."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s just not laughing because he\u2019s feeling blueberry. Tough crowd."
+        ],
+        [
+            "Raj",
+            "I\u2019m sorry. This is very sweet. Thanks."
+        ],
+        [
+            "Howard",
+            "So, how you doing?"
+        ],
+        [
+            "Raj",
+            "Better. I guess the news just hit me a lot harder than I expected."
+        ],
+        [
+            "Bernadette",
+            "Well, of course. I would be devastated if my parents split up."
+        ],
+        [
+            "Howard",
+            "Why? Your father barely speaks to your mother."
+        ],
+        [
+            "Bernadette",
+            "Well, at least he stuck around, not like your dad, who just took off."
+        ],
+        [
+            "Howard",
+            "As you can see, we\u2019re here to cheer you up."
+        ],
+        [
+            "Bernadette",
+            "Sorry, Raj. Do you have any sense of what happened with your folks?"
+        ],
+        [
+            "Raj",
+            "I think, over time, they started to resent each other, and instead of talking about the things that bothered them, they kept it bottled up, and the hate just grew."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s a shame they spent all that time unhappy. But sometimes, there\u2019s muffin you can do about it. You get it, right?"
+        ],
+        [
+            "Scene",
+            "The waiting room."
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s nice you got him that."
+        ],
+        [
+            "Sheldon",
+            "Oh, this isn\u2019t for Leonard, no. Amy bought it for me."
+        ],
+        [
+            "Amy",
+            "Stubbed his toe on the revolving door on the way in."
+        ],
+        [
+            "Sheldon",
+            "You know those confounded things make me dizzy."
+        ],
+        [
+            "Amy",
+            "Who told you to keep going around?"
+        ],
+        [
+            "Sheldon",
+            "There was a large plant in the lobby. It kept looking like the outside."
+        ],
+        [
+            "Penny",
+            "Okay, listen, when Leonard comes out, he is not gonna feel great, so, please don\u2019t give him a hard time."
+        ],
+        [
+            "Amy",
+            "Penny has a good point. This is like the man in the supermarket with the goiter on his neck. Whatever you\u2019re thinking, just keep it to yourself."
+        ],
+        [
+            "Sheldon",
+            "It was like a grapefruit."
+        ],
+        [
+            "Amy",
+            "And I\u2019m sure he knew that before you held a grapefruit up next to it."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m not making any promises. Not only did Leonard take what I feel is an unnecessary risk, he deceived me."
+        ],
+        [
+            "Penny",
+            "Okay, the reason he deceived you is you were being a pain in the ass."
+        ],
+        [
+            "Sheldon",
+            "The reason I was being a pain in the B is because I was worried about him, and no one else was."
+        ],
+        [
+            "Penny",
+            "Really? You won\u2019t even say A?"
+        ],
+        [
+            "Sheldon",
+            "You bet your sweet B I won\u2019t."
+        ],
+        [
+            "Penny",
+            "Obviously, I care about Leonard. I\u2019m gonna spend the rest of my life with him."
+        ],
+        [
+            "Sheldon",
+            "And I\u2019m not? It\u2019s an earthquake. I knew it."
+        ],
+        [
+            "Penny",
+            "Sheldon, it was just a little tremor."
+        ],
+        [
+            "Sheldon",
+            "A little tremor that turns routine sinus surgery into a frontal lobotomy. Oh, I don\u2019t care for this at all. Oh, I need to see he\u2019s okay."
+        ],
+        [
+            "Amy",
+            "Sheldon, you can\u2019t go back there."
+        ],
+        [
+            "Sheldon",
+            "Try and stop me."
+        ],
+        [
+            "Amy",
+            "Are you okay?"
+        ],
+        [
+            "Sheldon",
+            "Why didn\u2019t you stop me?"
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment. "
+        ],
+        [
+            "Bernadette",
+            "Can I tell you something? This whole thing with Raj\u2019s parents just got me a little worried about us."
+        ],
+        [
+            "Howard",
+            "What are you talking about? We\u2019re fine. And Raj\u2019s parents probably split up because of Raj."
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Howard",
+            "They always say the children aren\u2019t to blame, but, come on."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m not joking, Howie. You heard what he said about his parents. It was the little things they kept bottled up. I don\u2019t want that to happen to us."
+        ],
+        [
+            "Howard",
+            "How can I convince you it won\u2019t?"
+        ],
+        [
+            "Bernadette",
+            "Well, is there anything about me you\u2019re keeping inside?"
+        ],
+        [
+            "Howard",
+            "I\u2019m not answering that. It\u2019s a trap."
+        ],
+        [
+            "Bernadette",
+            "So there are things you don\u2019t like."
+        ],
+        [
+            "Howard",
+            "And here I am in the trap. You just keep talking. I\u2019m gonna chew my leg off."
+        ],
+        [
+            "Bernadette",
+            "Just tell me one thing that bothers you, and I promise I won\u2019t get mad."
+        ],
+        [
+            "Howard",
+            "Okay. The truth is, sometimes, you\u2019re too beautiful."
+        ],
+        [
+            "Bernadette",
+            "Oh. Howie, be serious."
+        ],
+        [
+            "Howard",
+            "Okay, okay. I really don\u2019t like how your wings poke me when we sleep \u2019cause you\u2019re an angel."
+        ],
+        [
+            "Bernadette",
+            "Okay, fine, maybe it was a bad idea."
+        ],
+        [
+            "Howard",
+            "I just don\u2019t think the secret to a happy marriage is going out of our way to criticize each other. Although, there are ways to improve our communication. One thing I learned when I was in couples therapy was\u2026"
+        ],
+        [
+            "Bernadette",
+            "Who were you in couples therapy with?"
+        ],
+        [
+            "Howard",
+            "Not important."
+        ],
+        [
+            "Bernadette",
+            "Was it your mom?"
+        ],
+        [
+            "Howard",
+            "Not important."
+        ],
+        [
+            "Bernadette",
+            "It was your mom."
+        ],
+        [
+            "Howard",
+            "Anyway, the therapist had us tell each other what we loved about one another."
+        ],
+        [
+            "Bernadette",
+            "Oh, that\u2019s so sweet. I want to do that."
+        ],
+        [
+            "Howard",
+            "All right."
+        ],
+        [
+            "Bernadette",
+            "Okay, um, I love that you make me laugh."
+        ],
+        [
+            "Howard",
+            "Thank you. And I love that you\u2019re strong and independent."
+        ],
+        [
+            "Bernadette",
+            "And yet, I still love when you hold a door for me."
+        ],
+        [
+            "Howard",
+            "I love that I\u2019m kind of a slob around here, and you\u2019re okay with that."
+        ],
+        [
+            "Bernadette",
+            "Uh-huh. And I love that I work and do all the cleaning, and you\u2019re okay with that."
+        ],
+        [
+            "Howard",
+            "See, I am. Isn\u2019t this great?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Come on, smile. This is gonna be my Christmas card."
+        ],
+        [
+            "Sheldon",
+            "You know this is all your fault."
+        ],
+        [
+            "Leonard",
+            "How is it my fault?"
+        ],
+        [
+            "Sheldon",
+            "I told you not to get the surgery."
+        ],
+        [
+            "Leonard",
+            "Okay, first of all, the surgery was a success, and secondly, I didn\u2019t even want you there."
+        ],
+        [
+            "Sheldon",
+            "Wow. I don\u2019t know which hurts worse, my nose or my heart. Well, I\u2019m done speaking to you."
+        ],
+        [
+            "Amy",
+            "Don\u2019t be like that. You two need to talk this out."
+        ],
+        [
+            "Penny",
+            "Yeah, \u2019cause you sound really funny."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I\u2019m sorry I didn\u2019t tell you about the surgery, but you were worried about nothing."
+        ],
+        [
+            "Sheldon",
+            "Oh, you\u2019re hardly out of the woods, no. You still run the risk of infection, a blood clot, the possibility that an inattentive surgeon let a barn spider lay eggs in your nose. The minute you sneeze web, I\u2019m moving out."
+        ],
+        [
+            "Leonard",
+            "I never thought I\u2019d say these words, but come on, nose spider."
+        ],
+        [
+            "Penny",
+            "Who are you kidding? You were so panicked Leonard was gonna die, you\u2019ll never leave him."
+        ],
+        [
+            "Amy",
+            "Sheldon will move out eventually."
+        ],
+        [
+            "Penny",
+            "Yeah, once he figures out how to work a door."
+        ],
+        [
+            "Sheldon",
+            "I was not panicked, and I am not overly attached to Leonard."
+        ],
+        [
+            "Leonard",
+            "You were so worried that you smashed your face trying to check on me. You love me."
+        ],
+        [
+            "Sheldon",
+            "Yeah. Tell me those aren\u2019t the words of a man with a spider eating its way through his brain. Amy, you\u2019re a neuroscientist. Crack his skull open, spray some Raid in there."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "I love that you take pride in your looks, even when I have to pee in the morning, and you\u2019re in there spending an hour on your hair."
+        ],
+        [
+            "Howard",
+            "I love that you\u2019re too good to pee in the kitchen sink."
+        ],
+        [
+            "Bernadette",
+            "I love that you have the confidence to speak, even without giving it an ounce of thought."
+        ],
+        [
+            "Howard",
+            "And I love how your hair is always on the soap. It\u2019s like washing myself with a hamster."
+        ],
+        [
+            "Raj",
+            "Hey, guys. Sorry I am so late. I was on the phone with my mother."
+        ],
+        [
+            "Bernadette",
+            "Oh, how is she?"
+        ],
+        [
+            "Raj",
+            "Pretty good. She bought the book Eat, Pray, Love and used it to set my father\u2019s Mercedes on fire. So, what\u2019s up with you guys?"
+        ],
+        [
+            "Howard",
+            "We\u2019re just saying all the things we love about each other."
+        ],
+        [
+            "Raj",
+            "Oh, like you and I did at couples therapy."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Oh, what\u2019d you get?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I ordered it before your surgery. It\u2019s the urn I was going to put you in."
+        ],
+        [
+            "Penny",
+            "Okay, that\u2019s morbid. Send it back."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t send it back, I had it engraved. Here lie the ashes of Leonard Hofstadter. He thought he was right, but his room mate knew better.\u201d"
+        ],
+        [
+            "Leonard",
+            "That\u2019s funny. Boy, I\u2019m gonna miss these painkillers."
+        ],
+        [
+            "Penny",
+            "Hey, why did you get two? I\u2019m with stupid."
+        ],
+        [
+            "Sheldon",
+            "Oh, that one\u2019s mine."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-09-the-septum-deviation/"
+}

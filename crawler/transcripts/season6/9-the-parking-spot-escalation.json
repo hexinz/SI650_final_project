@@ -1,0 +1,1754 @@
+{
+    "Season": 6,
+    "Episode": 9,
+    "Title": "the parking spot escalation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The cafeteria."
+            ],
+            [
+                33,
+                "The parking spot. Sheldon is trying to push Howard\u2019s car out of the spot."
+            ],
+            [
+                35,
+                "Credits sequence."
+            ],
+            [
+                36,
+                "The apartment."
+            ],
+            [
+                45,
+                "Sheldon\u2019s office."
+            ],
+            [
+                54,
+                "The apartment stairwell."
+            ],
+            [
+                83,
+                "The stairwell."
+            ],
+            [
+                101,
+                "The parking spot. Sheldon is spraypainting out Howard\u2019s name and replacing it with his own."
+            ],
+            [
+                112,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                153,
+                "The parking spot. Sheldon has set up his office in it."
+            ],
+            [
+                181,
+                "Sheldon\u2019s office."
+            ],
+            [
+                196,
+                "The cheesecake factory."
+            ],
+            [
+                202,
+                "A dry cleaners."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "They are not."
+            ],
+            [
+                3,
+                "Your hypothesis is completely disconfirmed by all the data. You\u2019re just clinging to it out of intellectual stubbornness."
+            ],
+            [
+                5,
+                "Oh, yeah? Mummies are wrapped in bandages."
+            ],
+            [
+                7,
+                "All right, you brought this on yourself. Sheldon, get him."
+            ],
+            [
+                9,
+                "Good boy. Here\u2019s a cookie."
+            ],
+            [
+                12,
+                "Oh, mummies and zombies again."
+            ],
+            [
+                14,
+                "You get a cookie, too."
+            ],
+            [
+                23,
+                "Maybe they reassigned it because you never use it."
+            ],
+            [
+                38,
+                "Well, he\u2019s not wrong. Howard did go to the International Space Station."
+            ],
+            [
+                40,
+                "Sheldon, let it go. It\u2019s not a big deal."
+            ],
+            [
+                42,
+                "All that story does is make me feel bad for your mother."
+            ],
+            [
+                44,
+                "Because I can never understand your side."
+            ],
+            [
+                85,
+                "Sheldon?"
+            ],
+            [
+                87,
+                "I don\u2019t have any."
+            ],
+            [
+                91,
+                "Howard, what are you doing?"
+            ],
+            [
+                100,
+                "Mmm."
+            ],
+            [
+                167,
+                "What are you idiots doing?"
+            ],
+            [
+                170,
+                "You\u2019re both acting like lunatics. It\u2019s just a parking spot."
+            ],
+            [
+                174,
+                "What I don\u2019t believe is that you tried to run him over."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "They are, too."
+            ],
+            [
+                4,
+                "No, you\u2019re displaying a shocking ignorance of the subject matter. Mummies and zombies are the exact same thing."
+            ],
+            [
+                6,
+                "That\u2019s called a fashion choice."
+            ],
+            [
+                16,
+                "Congratulations. Does it have that new car smell?"
+            ],
+            [
+                21,
+                "Why do you have a parking spot? You don\u2019t have a car. You don\u2019t even drive."
+            ],
+            [
+                99,
+                "I didn\u2019t pick up on that. That\u2019s a nice touch."
+            ],
+            [
+                182,
+                "Hey, got a minute?"
+            ],
+            [
+                184,
+                "Calm down. Howard has something he wants to say to you."
+            ],
+            [
+                186,
+                "Howard, that\u2019s not how we practiced it."
+            ],
+            [
+                193,
+                "Just say it."
+            ]
+        ],
+        "Sheldon": [
+            [
+                8,
+                "If a zombie bites you, you turn into a zombie. However, if a mummy bites you, all you turn into is some schmo with a mummy bite. So, like a zombie, that\u2019s been eaten from the waist down, you, sir, have no leg to stand on."
+            ],
+            [
+                10,
+                "Oh, thank you."
+            ],
+            [
+                18,
+                "I\u2019m sorry, 294?"
+            ],
+            [
+                20,
+                "That\u2019s my parking spot."
+            ],
+            [
+                22,
+                "It doesn\u2019t matter. That\u2019s my spot."
+            ],
+            [
+                24,
+                "Well, I\u2019m not using my nipples, either. Maybe they should reassign those."
+            ],
+            [
+                26,
+                "I don\u2019t want another parking space. I want my parking space. It\u2019s perfect. It\u2019s a corner spot, cutting the risk of door-dings in half. It\u2019s a mere 28 steps from the building entrance. The nearby tree provides shade on hot days and is also home to a delightful squirrel. Which is fortuitous because most squirrels are real jerks."
+            ],
+            [
+                28,
+                "Don\u2019t try to change the subject. This is about a parking space. It has nothing to do with cars."
+            ],
+            [
+                30,
+                "I always listen to myself. It\u2019s one of the great joys of my life. Now, get your car out of my spot."
+            ],
+            [
+                32,
+                "Very well. You leave me no choice."
+            ],
+            [
+                34,
+                "What are you looking at, you stupid squirrel?"
+            ],
+            [
+                39,
+                "Yeah, that was five weeks ago. How much longer is he gonna milk that cow?"
+            ],
+            [
+                41,
+                "No, no, this is a slippery slope, Leonard. It starts with a parking space, where does it end? It\u2019s like my dad always said, first they say you can\u2019t drink and drive, next thing you know, you can\u2019t let your 10-year-old take the wheel while you sleep one off in the backseat."
+            ],
+            [
+                43,
+                "Leonard, you\u2019re my best friend. Why don\u2019t you ever take my side?"
+            ],
+            [
+                47,
+                "I\u2019m sorry, but could you be more specific?"
+            ],
+            [
+                49,
+                "Oh, that. Well, see, I wanted it, and you weren\u2019t using it. Apparently, those are the rules we live by now. Payback, it truly is the B word, isn\u2019t it?"
+            ],
+            [
+                51,
+                "I\u2019d love to help you out, but unfortunately (puts helmet on), I\u2019m using it."
+            ],
+            [
+                53,
+                "Go ahead. That\u2019s the only doctorate you\u2019ll ever get. It smells funny in here."
+            ],
+            [
+                86,
+                "Cookie."
+            ],
+            [
+                88,
+                "Well, I\u2019m not giving it away. (Enters apartment. Howard is sitting naked in his spot with a laptop on his lap)"
+            ],
+            [
+                90,
+                "He\u2019s in my spot. Leonard, make him stop being naked in my spot."
+            ],
+            [
+                93,
+                "Get off there."
+            ],
+            [
+                95,
+                "Give me back my parking space."
+            ],
+            [
+                97,
+                "You don\u2019t need an Iron Man helmet. You\u2019re not Iron Man."
+            ],
+            [
+                103,
+                "Keep a lookout. This place is swarming with campus security. They will not hesitate to scold us."
+            ],
+            [
+                105,
+                "Oh, yeah. Okay, now, pull your car into the spot and let\u2019s get out of here."
+            ],
+            [
+                107,
+                "Yes, and be sure and put on the emergency brake. Really makes these things tough to budge."
+            ],
+            [
+                109,
+                "All right, colour me intrigued."
+            ],
+            [
+                111,
+                "I think you\u2019re high on paint fumes. And boy, that\u2019s a lot of Band-Aids."
+            ],
+            [
+                154,
+                "Morning, Professor Stevens. Don\u2019t look at that whiteboard. That\u2019s my math, not your math. Keep walking, nosey."
+            ],
+            [
+                156,
+                "Oh. You said I\u2019m not using my space, so I\u2019m using it."
+            ],
+            [
+                158,
+                "No, I don\u2019t."
+            ],
+            [
+                160,
+                "Actually, I have a plastic baggy strapped to my leg that says I can. Give up, Wolowitz. You\u2019ve chosen to tangle with a superior intellect you can\u2019t defeat. There is nothing you could possibly do to\u2026 (Howard starts sounding his horn. Sheldon puts on earphones)"
+            ],
+            [
+                162,
+                "Oh, yes, they are. I mean, what?"
+            ],
+            [
+                164,
+                "Your threats are empty, nothing can move me. (Howard starts pushing his chair with the front of the car) Stop that."
+            ],
+            [
+                166,
+                "No. That\u2019s it. I am calling campus security. You prepare for the scolding of your life."
+            ],
+            [
+                168,
+                "He\u2019s trying to kill me, Leonard. Video games and rock music have desensitized him to violence."
+            ],
+            [
+                172,
+                "Oh, preposterous. I have been solely responsible for this university\u2019s six loop quantum gravity calculations, I have changed the way we think about Bose-Einstein condensates, and I am also the one who got Nutter Butters in the cafeteria vending machine. Maybe you missed that news while you were floating around like a goof in outer space. Now, if you\u2019ll excuse me, I have work to do."
+            ],
+            [
+                176,
+                "Hey, sweet ride."
+            ],
+            [
+                178,
+                "Just breaking in your new car."
+            ],
+            [
+                180,
+                "You know what they say? Revenge is a dish best served nude."
+            ],
+            [
+                183,
+                "Oh, of course, come in. (Raj opens door to reveal Howard) This is an authentic Chinese throwing star, and I must warn you, I have seen many people throw them in movies."
+            ],
+            [
+                188,
+                "Well, Howard, thank you. It\u2019s quite a gesture on your part. You\u2019ve shown yourself to be the bigger man."
+            ],
+            [
+                190,
+                "Which I find totally unacceptable. I must be the bigger man. Therefore, you may use my spot until such time as I learn to drive or get a Batmobile."
+            ],
+            [
+                192,
+                "There is nothing to say. Except I\u2019m the bigger man. I\u2019m not kidding. Say it."
+            ],
+            [
+                195,
+                "Oh, stop. And I believe this is yours. FYI, if you wear that into a bank, they will tackle you to the ground."
+            ],
+            [
+                198,
+                "To burying the hatchet."
+            ],
+            [
+                204,
+                "Yes. According to information I gleaned from Yelp, you had great success when a santeriasuzy37 brought you a pair of leather slacks stained with chicken blood. I believe I may have a similar problem. This cushion experienced a nude revenge wiggle."
+            ],
+            [
+                206,
+                "A naked man sat on it. Now, here\u2019s my concern, his diet is rich in fatty deli meats. What test do you have to detect lipid residue?"
+            ],
+            [
+                208,
+                "Lipid residue. An anal autograph. A colon calling card, if you will."
+            ],
+            [
+                210,
+                "Don\u2019t rush it. We may be dealing with befoulment on a molecular level."
+            ],
+            [
+                212,
+                "Is that your son?"
+            ],
+            [
+                214,
+                "Looks like that laptop\u2019s seen better days. If you\u2019re interested, I\u2019m selling this. It\u2019s only two years old, 16 gigabytes of RAM, Intel core i7 processor, and I can personally guarantee it has spent less than 20 minutes resting on an astronaut\u2019s penis."
+            ]
+        ],
+        "Howard": [
+            [
+                11,
+                "Hey, fellas, what\u2019s going on?"
+            ],
+            [
+                13,
+                "Oh, they\u2019re not the same thing."
+            ],
+            [
+                15,
+                "Thanks. Guess who picked up his new car this morning?"
+            ],
+            [
+                17,
+                "Yep. For as long as I can keep my mother out of it. If you want to check it out later, it\u2019s parked right out front, space 294."
+            ],
+            [
+                19,
+                "Yeah."
+            ],
+            [
+                25,
+                "Sheldon, someday, if you get a car, I\u2019m sure they\u2019ll give you another parking space."
+            ],
+            [
+                27,
+                "Fun story. Meanwhile, you still don\u2019t have a car."
+            ],
+            [
+                29,
+                "Are you listening to yourself?"
+            ],
+            [
+                31,
+                "Nope."
+            ],
+            [
+                46,
+                "Give it back."
+            ],
+            [
+                48,
+                "My Iron Man helmet. Koothrappali saw you take it. Give it back."
+            ],
+            [
+                50,
+                "Sheldon, that is a five hundred dollar limited edition collectible, and I want it back."
+            ],
+            [
+                52,
+                "Fine. I\u2019m taking your diploma."
+            ],
+            [
+                89,
+                "Hi Sheldon."
+            ],
+            [
+                92,
+                "He wasn\u2019t using it. And I needed a nice cool piece of leather to wiggle my naked ass on."
+            ],
+            [
+                94,
+                "Give me back my Iron Man helmet."
+            ],
+            [
+                96,
+                "You don\u2019t need a parking space. You don\u2019t have a car."
+            ],
+            [
+                98,
+                "Well, we appear to have reached an impasse. And you know, I have to say, I thought you\u2019d be more upset that your laptop is sitting on my junk."
+            ],
+            [
+                155,
+                "What the hell are you doing?"
+            ],
+            [
+                157,
+                "Okay, you need to move now."
+            ],
+            [
+                159,
+                "You can\u2019t stay there forever."
+            ],
+            [
+                161,
+                "Those aren\u2019t gonna help you, Sheldon,"
+            ],
+            [
+                163,
+                "I\u2019m warning you, Sheldon!"
+            ],
+            [
+                165,
+                "Get out of my spot."
+            ],
+            [
+                169,
+                "Would you please talk some sense into your lunatic roommate?"
+            ],
+            [
+                171,
+                "It\u2019s not just a parking spot. He can\u2019t handle the fact that I\u2019m a bigger deal than he is now."
+            ],
+            [
+                173,
+                "Can you believe this guy?"
+            ],
+            [
+                175,
+                "Oh, like you\u2019ve never thought of doing that. Don\u2019t hate me just because I lived the dream. (Horn beeps. Sheldon is sitting naked in Howard\u2019s car.) "
+            ],
+            [
+                177,
+                "What are you doing in there?"
+            ],
+            [
+                179,
+                "Stop that. You stop that."
+            ],
+            [
+                185,
+                "All right. Sheldon, when this whole thing with the parking space started, I had no idea just how much of a crazy bastard\u2026"
+            ],
+            [
+                187,
+                "I had no idea how much that spot meant to you. Anyway, I called President Siebert and told him it\u2019s not worth fighting over the spot, so you keep it, and I\u2019ll park in the structure across the street."
+            ],
+            [
+                189,
+                "Thank you."
+            ],
+            [
+                191,
+                "Wow, okay. Well, thanks. I don\u2019t know what to say."
+            ],
+            [
+                194,
+                "You\u2019re the bigger man, Sheldon."
+            ],
+            [
+                197,
+                "I\u2019d like to propose a toast, to burying the hatchet."
+            ]
+        ],
+        "Sheldon (on phone)": [
+            [
+                37,
+                "President Siebert, listen to reason. Yeah, I understand I don\u2019t use the parking spot, but that\u2019s not the point. I\u2026 Yes, I\u2019m aware you told me not to call you at home, but you didn\u2019t answer the door. And I know you were there, because I saw you through the mail slot. Yeah, well, that\u2019s some salty language. May I remind you that you\u2019re the president of a major university, not the president of the Potty Mouth Club. There it is again. Do you kiss your mother with that mouth? Oh, well, I\u2019m sorry for your loss. Good night, sir. Unbelievable. He says Wolowitz deserves my spot because he\u2019s a high-profile asset to the university."
+            ]
+        ],
+        "Bernadette": [
+            [
+                55,
+                "We\u2019re so proud of you, Amy. Your first bikini wax."
+            ],
+            [
+                60,
+                "Really? Only five?"
+            ],
+            [
+                63,
+                "Okay. So, did you spend last night hearing about this silly parking space fight, too?"
+            ],
+            [
+                65,
+                "Howard was so angry I had to mash up Benadryl in his ice cream to get him to fall asleep."
+            ],
+            [
+                68,
+                "I\u2019m really sorry they took Sheldon\u2019s spot away. He shouldn\u2019t have to suffer just because Howard\u2019s such a big deal now."
+            ],
+            [
+                70,
+                "What\u2019s that supposed to mean?"
+            ],
+            [
+                72,
+                "You\u2019re right. And I\u2019m sure Sheldon will get a fancy parking spot again, if and when he makes a worthwhile contribution to science."
+            ],
+            [
+                75,
+                "Hang on. None of Sheldon\u2019s theories have ever been definitively proven. My husband actually went to outer space."
+            ],
+            [
+                78,
+                "Gosh, Amy. I\u2019m sensing a little hostility. Is it maybe because, like Sheldon\u2019s work, your sex life is also theoretical?"
+            ],
+            [
+                82,
+                "I don\u2019t have to take this. I\u2019m gonna go home and have sex with my husband right now. Maybe I\u2019ll let him do it to me in the parking spot. Which sounds dirty, but I didn\u2019t mean it that way,"
+            ],
+            [
+                114,
+                "What can I tell ya? She\u2019s a big girl. Wherever you look, there she is. More coffee?"
+            ],
+            [
+                117,
+                "He\u2019s not here. What\u2019s wrong?"
+            ],
+            [
+                119,
+                "Oh, no. Where was it parked?"
+            ],
+            [
+                121,
+                "That doesn\u2019t make sense. Sheldon doesn\u2019t have a spot. Was it maybe in Howard\u2019s spot?"
+            ],
+            [
+                123,
+                "Well, that doesn\u2019t make sense, either."
+            ],
+            [
+                125,
+                "Because I\u2019m the one who had it towed."
+            ],
+            [
+                127,
+                "Didn\u2019t see that one coming, did ya?"
+            ],
+            [
+                131,
+                "Are you okay?!"
+            ],
+            [
+                134,
+                "Don\u2019t move. I\u2019ll get some ice."
+            ],
+            [
+                137,
+                "Here."
+            ],
+            [
+                139,
+                "Amy, you think maybe this has gotten a little out of hand?"
+            ],
+            [
+                142,
+                "You hit her! What did I do?"
+            ],
+            [
+                144,
+                "You were parked in Howard\u2019s spot."
+            ],
+            [
+                146,
+                "Sheldon doesn\u2019t have a spot."
+            ],
+            [
+                148,
+                "Okay, let\u2019s go."
+            ],
+            [
+                150,
+                "The tow truck didn\u2019t scratch your car."
+            ],
+            [
+                152,
+                "\u2018Cause I did it!"
+            ],
+            [
+                199,
+                "You know, I\u2019m kind of glad this happened."
+            ]
+        ],
+        "Penny": [
+            [
+                56,
+                "Yeah. So, how you doing?"
+            ],
+            [
+                58,
+                "Uh, no, they usually don\u2019t have to go out and get more wax."
+            ],
+            [
+                61,
+                "Hey, anybody want a drink?"
+            ],
+            [
+                67,
+                "I\u2019m assuming these are some kind of horns they bought at Comic-Con?"
+            ],
+            [
+                74,
+                "Okay, maybe we should change the subject. Um, Amy, how are your lady parts? Still chilly down there?"
+            ],
+            [
+                77,
+                "You know, I remember the first time I got a bikini wax. My sister did it with melted Crayolas and duct tape. It\u2019s a bad idea."
+            ],
+            [
+                79,
+                "Damn."
+            ],
+            [
+                81,
+                "Anyway, to this day, I still can\u2019t see a box of crayons without crossing my legs."
+            ],
+            [
+                113,
+                "Okay, Howard\u2019s mother is in, like, every one of your wedding photos."
+            ],
+            [
+                115,
+                "No, Leonard\u2019s taking me to a physics lecture, and coffee\u2019ll just keep me awake. (Knock on door) Oh, I\u2019ll get it."
+            ],
+            [
+                129,
+                "Ow! Ow!"
+            ],
+            [
+                132,
+                "You idiot, what the hell do you have in there?!"
+            ],
+            [
+                136,
+                "Get away from me or I swear to God I will rip out what\u2019s left of your pubes!"
+            ],
+            [
+                138,
+                "Thanks. Ah!"
+            ],
+            [
+                140,
+                "Gee, you think?"
+            ],
+            [
+                147,
+                "Guys, I think I need to go to the emergency room."
+            ]
+        ],
+        "Amy": [
+            [
+                57,
+                "A little sensitive, but not bad. Does it always take that long?"
+            ],
+            [
+                59,
+                "I feel like I\u2019m five pounds lighter."
+            ],
+            [
+                62,
+                "Sure."
+            ],
+            [
+                64,
+                "For hours. Fortunately, I couldn\u2019t understand most of it \u2019cause Sheldon was wearing that stupid robot mask."
+            ],
+            [
+                66,
+                "I guess this is what we get for being with two testosterone-fueled alpha males. At some point, they\u2019re bound to lock horns."
+            ],
+            [
+                69,
+                "I know, Sheldon should just let Howard have his little moment in the sun."
+            ],
+            [
+                71,
+                "Well, I mean, Howard\u2019s never gonna go to space again, but Sheldon will always be a genius."
+            ],
+            [
+                73,
+                "If and when?"
+            ],
+            [
+                76,
+                "That\u2019s an impressive accomplishment. He\u2019s now an inspiration to millions of Americans who know you don\u2019t have to be special or even qualified to go into space."
+            ],
+            [
+                80,
+                "Yeah, well, at least when we do make love, Sheldon won\u2019t be thinking about his mother. And yes, that is a cleverly veiled reference to Howard\u2019s lifelong obsession to crawl back into her spacious womb."
+            ],
+            [
+                102,
+                "This is so exciting. I\u2019m feeling all tingly. Although that could just be my newly defoliated bikini zone."
+            ],
+            [
+                104,
+                "Freaking pigs."
+            ],
+            [
+                106,
+                "Wait, I\u2019m leaving my car here?"
+            ],
+            [
+                108,
+                "Before I park, come in the back seat. I want to show you something I had done today."
+            ],
+            [
+                110,
+                "What do you think?"
+            ],
+            [
+                116,
+                "Oh, looks like someone\u2019s on Team Bernadette. Where\u2019s Howard?"
+            ],
+            [
+                118,
+                "He had my car towed. It cost me two hundred dollars to get it back."
+            ],
+            [
+                120,
+                "In Sheldon\u2019s spot."
+            ],
+            [
+                122,
+                "Don\u2019t play dumb with me, sister. You tell your husband he owes me two hundred dollars."
+            ],
+            [
+                124,
+                "Why not?"
+            ],
+            [
+                126,
+                "You?"
+            ],
+            [
+                128,
+                "Oh, yeah? Well, you\u2019re not gonna see this coming. (Swings handbag. Bernadette ducks. Penny is hit in the face)"
+            ],
+            [
+                130,
+                "Oh, my God,"
+            ],
+            [
+                133,
+                "Just my wallet, keys and a coffee can full of change I\u2019ve been meaning to take to the bank."
+            ],
+            [
+                135,
+                "Are you okay?"
+            ],
+            [
+                141,
+                "I do. Penny, Bernadette and I are sorry."
+            ],
+            [
+                143,
+                "You had my car towed."
+            ],
+            [
+                145,
+                "I was parked in Sheldon\u2019s spot."
+            ],
+            [
+                149,
+                "I\u2019ll drive. You can see where the tow truck scratched my car."
+            ],
+            [
+                151,
+                "How do you know?"
+            ],
+            [
+                200,
+                "Me, too. In some weird way, I kind of feel like it brought us closer."
+            ]
+        ],
+        "Raj: Okay, here\u2019s another one": [
+            [
+                84,
+                "If a zombie bites a vampire, and the vampire bites a human, does the human become a vampire or a zombie? Or a zompire?"
+            ]
+        ],
+        "Penny (with two black eyes and a plaster across her nose)": [
+            [
+                201,
+                "Yeah, everybody\u2019s happy, great."
+            ]
+        ],
+        "Shopkeeper": [
+            [
+                203,
+                "Can I help you?"
+            ],
+            [
+                205,
+                "A what?"
+            ],
+            [
+                207,
+                "Lipid what?"
+            ],
+            [
+                209,
+                "Tuesday okay?"
+            ],
+            [
+                211,
+                "Let me write you a ticket."
+            ],
+            [
+                213,
+                "Uh-huh."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Leonard",
+            "They are not."
+        ],
+        [
+            "Raj",
+            "They are, too."
+        ],
+        [
+            "Leonard",
+            "Your hypothesis is completely disconfirmed by all the data. You\u2019re just clinging to it out of intellectual stubbornness."
+        ],
+        [
+            "Raj",
+            "No, you\u2019re displaying a shocking ignorance of the subject matter. Mummies and zombies are the exact same thing."
+        ],
+        [
+            "Leonard",
+            "Oh, yeah? Mummies are wrapped in bandages."
+        ],
+        [
+            "Raj",
+            "That\u2019s called a fashion choice."
+        ],
+        [
+            "Leonard",
+            "All right, you brought this on yourself. Sheldon, get him."
+        ],
+        [
+            "Sheldon",
+            "If a zombie bites you, you turn into a zombie. However, if a mummy bites you, all you turn into is some schmo with a mummy bite. So, like a zombie, that\u2019s been eaten from the waist down, you, sir, have no leg to stand on."
+        ],
+        [
+            "Leonard",
+            "Good boy. Here\u2019s a cookie."
+        ],
+        [
+            "Sheldon",
+            "Oh, thank you."
+        ],
+        [
+            "Howard",
+            "Hey, fellas, what\u2019s going on?"
+        ],
+        [
+            "Leonard",
+            "Oh, mummies and zombies again."
+        ],
+        [
+            "Howard",
+            "Oh, they\u2019re not the same thing."
+        ],
+        [
+            "Leonard",
+            "You get a cookie, too."
+        ],
+        [
+            "Howard",
+            "Thanks. Guess who picked up his new car this morning?"
+        ],
+        [
+            "Raj",
+            "Congratulations. Does it have that new car smell?"
+        ],
+        [
+            "Howard",
+            "Yep. For as long as I can keep my mother out of it. If you want to check it out later, it\u2019s parked right out front, space 294."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, 294?"
+        ],
+        [
+            "Howard",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s my parking spot."
+        ],
+        [
+            "Raj",
+            "Why do you have a parking spot? You don\u2019t have a car. You don\u2019t even drive."
+        ],
+        [
+            "Sheldon",
+            "It doesn\u2019t matter. That\u2019s my spot."
+        ],
+        [
+            "Leonard",
+            "Maybe they reassigned it because you never use it."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m not using my nipples, either. Maybe they should reassign those."
+        ],
+        [
+            "Howard",
+            "Sheldon, someday, if you get a car, I\u2019m sure they\u2019ll give you another parking space."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t want another parking space. I want my parking space. It\u2019s perfect. It\u2019s a corner spot, cutting the risk of door-dings in half. It\u2019s a mere 28 steps from the building entrance. The nearby tree provides shade on hot days and is also home to a delightful squirrel. Which is fortuitous because most squirrels are real jerks."
+        ],
+        [
+            "Howard",
+            "Fun story. Meanwhile, you still don\u2019t have a car."
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t try to change the subject. This is about a parking space. It has nothing to do with cars."
+        ],
+        [
+            "Howard",
+            "Are you listening to yourself?"
+        ],
+        [
+            "Sheldon",
+            "I always listen to myself. It\u2019s one of the great joys of my life. Now, get your car out of my spot."
+        ],
+        [
+            "Howard",
+            "Nope."
+        ],
+        [
+            "Sheldon",
+            "Very well. You leave me no choice."
+        ],
+        [
+            "Scene",
+            "The parking spot. Sheldon is trying to push Howard\u2019s car out of the spot."
+        ],
+        [
+            "Sheldon",
+            "What are you looking at, you stupid squirrel?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon (on phone)",
+            "President Siebert, listen to reason. Yeah, I understand I don\u2019t use the parking spot, but that\u2019s not the point. I\u2026 Yes, I\u2019m aware you told me not to call you at home, but you didn\u2019t answer the door. And I know you were there, because I saw you through the mail slot. Yeah, well, that\u2019s some salty language. May I remind you that you\u2019re the president of a major university, not the president of the Potty Mouth Club. There it is again. Do you kiss your mother with that mouth? Oh, well, I\u2019m sorry for your loss. Good night, sir. Unbelievable. He says Wolowitz deserves my spot because he\u2019s a high-profile asset to the university."
+        ],
+        [
+            "Leonard",
+            "Well, he\u2019s not wrong. Howard did go to the International Space Station."
+        ],
+        [
+            "Sheldon",
+            "Yeah, that was five weeks ago. How much longer is he gonna milk that cow?"
+        ],
+        [
+            "Leonard",
+            "Sheldon, let it go. It\u2019s not a big deal."
+        ],
+        [
+            "Sheldon",
+            "No, no, this is a slippery slope, Leonard. It starts with a parking space, where does it end? It\u2019s like my dad always said, first they say you can\u2019t drink and drive, next thing you know, you can\u2019t let your 10-year-old take the wheel while you sleep one off in the backseat."
+        ],
+        [
+            "Leonard",
+            "All that story does is make me feel bad for your mother."
+        ],
+        [
+            "Sheldon",
+            "Leonard, you\u2019re my best friend. Why don\u2019t you ever take my side?"
+        ],
+        [
+            "Leonard",
+            "Because I can never understand your side."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Howard",
+            "Give it back."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, but could you be more specific?"
+        ],
+        [
+            "Howard",
+            "My Iron Man helmet. Koothrappali saw you take it. Give it back."
+        ],
+        [
+            "Sheldon",
+            "Oh, that. Well, see, I wanted it, and you weren\u2019t using it. Apparently, those are the rules we live by now. Payback, it truly is the B word, isn\u2019t it?"
+        ],
+        [
+            "Howard",
+            "Sheldon, that is a five hundred dollar limited edition collectible, and I want it back."
+        ],
+        [
+            "Sheldon",
+            "I\u2019d love to help you out, but unfortunately (puts helmet on), I\u2019m using it."
+        ],
+        [
+            "Howard",
+            "Fine. I\u2019m taking your diploma."
+        ],
+        [
+            "Sheldon",
+            "Go ahead. That\u2019s the only doctorate you\u2019ll ever get. It smells funny in here."
+        ],
+        [
+            "Scene",
+            "The apartment stairwell."
+        ],
+        [
+            "Bernadette",
+            "We\u2019re so proud of you, Amy. Your first bikini wax."
+        ],
+        [
+            "Penny",
+            "Yeah. So, how you doing?"
+        ],
+        [
+            "Amy",
+            "A little sensitive, but not bad. Does it always take that long?"
+        ],
+        [
+            "Penny",
+            "Uh, no, they usually don\u2019t have to go out and get more wax."
+        ],
+        [
+            "Amy",
+            "I feel like I\u2019m five pounds lighter."
+        ],
+        [
+            "Bernadette",
+            "Really? Only five?"
+        ],
+        [
+            "Penny",
+            "Hey, anybody want a drink?"
+        ],
+        [
+            "Amy",
+            "Sure."
+        ],
+        [
+            "Bernadette",
+            "Okay. So, did you spend last night hearing about this silly parking space fight, too?"
+        ],
+        [
+            "Amy",
+            "For hours. Fortunately, I couldn\u2019t understand most of it \u2019cause Sheldon was wearing that stupid robot mask."
+        ],
+        [
+            "Bernadette",
+            "Howard was so angry I had to mash up Benadryl in his ice cream to get him to fall asleep."
+        ],
+        [
+            "Amy",
+            "I guess this is what we get for being with two testosterone-fueled alpha males. At some point, they\u2019re bound to lock horns."
+        ],
+        [
+            "Penny",
+            "I\u2019m assuming these are some kind of horns they bought at Comic-Con?"
+        ],
+        [
+            "Bernadette",
+            "I\u2019m really sorry they took Sheldon\u2019s spot away. He shouldn\u2019t have to suffer just because Howard\u2019s such a big deal now."
+        ],
+        [
+            "Amy",
+            "I know, Sheldon should just let Howard have his little moment in the sun."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s that supposed to mean?"
+        ],
+        [
+            "Amy",
+            "Well, I mean, Howard\u2019s never gonna go to space again, but Sheldon will always be a genius."
+        ],
+        [
+            "Bernadette",
+            "You\u2019re right. And I\u2019m sure Sheldon will get a fancy parking spot again, if and when he makes a worthwhile contribution to science."
+        ],
+        [
+            "Amy",
+            "If and when?"
+        ],
+        [
+            "Penny",
+            "Okay, maybe we should change the subject. Um, Amy, how are your lady parts? Still chilly down there?"
+        ],
+        [
+            "Bernadette",
+            "Hang on. None of Sheldon\u2019s theories have ever been definitively proven. My husband actually went to outer space."
+        ],
+        [
+            "Amy",
+            "That\u2019s an impressive accomplishment. He\u2019s now an inspiration to millions of Americans who know you don\u2019t have to be special or even qualified to go into space."
+        ],
+        [
+            "Penny",
+            "You know, I remember the first time I got a bikini wax. My sister did it with melted Crayolas and duct tape. It\u2019s a bad idea."
+        ],
+        [
+            "Bernadette",
+            "Gosh, Amy. I\u2019m sensing a little hostility. Is it maybe because, like Sheldon\u2019s work, your sex life is also theoretical?"
+        ],
+        [
+            "Penny",
+            "Damn."
+        ],
+        [
+            "Amy",
+            "Yeah, well, at least when we do make love, Sheldon won\u2019t be thinking about his mother. And yes, that is a cleverly veiled reference to Howard\u2019s lifelong obsession to crawl back into her spacious womb."
+        ],
+        [
+            "Penny",
+            "Anyway, to this day, I still can\u2019t see a box of crayons without crossing my legs."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t have to take this. I\u2019m gonna go home and have sex with my husband right now. Maybe I\u2019ll let him do it to me in the parking spot. Which sounds dirty, but I didn\u2019t mean it that way,"
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Raj: Okay, here\u2019s another one",
+            "If a zombie bites a vampire, and the vampire bites a human, does the human become a vampire or a zombie? Or a zompire?"
+        ],
+        [
+            "Leonard",
+            "Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Cookie."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t have any."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m not giving it away. (Enters apartment. Howard is sitting naked in his spot with a laptop on his lap)"
+        ],
+        [
+            "Howard",
+            "Hi Sheldon."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s in my spot. Leonard, make him stop being naked in my spot."
+        ],
+        [
+            "Leonard",
+            "Howard, what are you doing?"
+        ],
+        [
+            "Howard",
+            "He wasn\u2019t using it. And I needed a nice cool piece of leather to wiggle my naked ass on."
+        ],
+        [
+            "Sheldon",
+            "Get off there."
+        ],
+        [
+            "Howard",
+            "Give me back my Iron Man helmet."
+        ],
+        [
+            "Sheldon",
+            "Give me back my parking space."
+        ],
+        [
+            "Howard",
+            "You don\u2019t need a parking space. You don\u2019t have a car."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t need an Iron Man helmet. You\u2019re not Iron Man."
+        ],
+        [
+            "Howard",
+            "Well, we appear to have reached an impasse. And you know, I have to say, I thought you\u2019d be more upset that your laptop is sitting on my junk."
+        ],
+        [
+            "Raj",
+            "I didn\u2019t pick up on that. That\u2019s a nice touch."
+        ],
+        [
+            "Leonard",
+            "Mmm."
+        ],
+        [
+            "Scene",
+            "The parking spot. Sheldon is spraypainting out Howard\u2019s name and replacing it with his own."
+        ],
+        [
+            "Amy",
+            "This is so exciting. I\u2019m feeling all tingly. Although that could just be my newly defoliated bikini zone."
+        ],
+        [
+            "Sheldon",
+            "Keep a lookout. This place is swarming with campus security. They will not hesitate to scold us."
+        ],
+        [
+            "Amy",
+            "Freaking pigs."
+        ],
+        [
+            "Sheldon",
+            "Oh, yeah. Okay, now, pull your car into the spot and let\u2019s get out of here."
+        ],
+        [
+            "Amy",
+            "Wait, I\u2019m leaving my car here?"
+        ],
+        [
+            "Sheldon",
+            "Yes, and be sure and put on the emergency brake. Really makes these things tough to budge."
+        ],
+        [
+            "Amy",
+            "Before I park, come in the back seat. I want to show you something I had done today."
+        ],
+        [
+            "Sheldon",
+            "All right, colour me intrigued."
+        ],
+        [
+            "Amy",
+            "What do you think?"
+        ],
+        [
+            "Sheldon",
+            "I think you\u2019re high on paint fumes. And boy, that\u2019s a lot of Band-Aids."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Okay, Howard\u2019s mother is in, like, every one of your wedding photos."
+        ],
+        [
+            "Bernadette",
+            "What can I tell ya? She\u2019s a big girl. Wherever you look, there she is. More coffee?"
+        ],
+        [
+            "Penny",
+            "No, Leonard\u2019s taking me to a physics lecture, and coffee\u2019ll just keep me awake. (Knock on door) Oh, I\u2019ll get it."
+        ],
+        [
+            "Amy",
+            "Oh, looks like someone\u2019s on Team Bernadette. Where\u2019s Howard?"
+        ],
+        [
+            "Bernadette",
+            "He\u2019s not here. What\u2019s wrong?"
+        ],
+        [
+            "Amy",
+            "He had my car towed. It cost me two hundred dollars to get it back."
+        ],
+        [
+            "Bernadette",
+            "Oh, no. Where was it parked?"
+        ],
+        [
+            "Amy",
+            "In Sheldon\u2019s spot."
+        ],
+        [
+            "Bernadette",
+            "That doesn\u2019t make sense. Sheldon doesn\u2019t have a spot. Was it maybe in Howard\u2019s spot?"
+        ],
+        [
+            "Amy",
+            "Don\u2019t play dumb with me, sister. You tell your husband he owes me two hundred dollars."
+        ],
+        [
+            "Bernadette",
+            "Well, that doesn\u2019t make sense, either."
+        ],
+        [
+            "Amy",
+            "Why not?"
+        ],
+        [
+            "Bernadette",
+            "Because I\u2019m the one who had it towed."
+        ],
+        [
+            "Amy",
+            "You?"
+        ],
+        [
+            "Bernadette",
+            "Didn\u2019t see that one coming, did ya?"
+        ],
+        [
+            "Amy",
+            "Oh, yeah? Well, you\u2019re not gonna see this coming. (Swings handbag. Bernadette ducks. Penny is hit in the face)"
+        ],
+        [
+            "Penny",
+            "Ow! Ow!"
+        ],
+        [
+            "Amy",
+            "Oh, my God,"
+        ],
+        [
+            "Bernadette",
+            "Are you okay?!"
+        ],
+        [
+            "Penny",
+            "You idiot, what the hell do you have in there?!"
+        ],
+        [
+            "Amy",
+            "Just my wallet, keys and a coffee can full of change I\u2019ve been meaning to take to the bank."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t move. I\u2019ll get some ice."
+        ],
+        [
+            "Amy",
+            "Are you okay?"
+        ],
+        [
+            "Penny",
+            "Get away from me or I swear to God I will rip out what\u2019s left of your pubes!"
+        ],
+        [
+            "Bernadette",
+            "Here."
+        ],
+        [
+            "Penny",
+            "Thanks. Ah!"
+        ],
+        [
+            "Bernadette",
+            "Amy, you think maybe this has gotten a little out of hand?"
+        ],
+        [
+            "Penny",
+            "Gee, you think?"
+        ],
+        [
+            "Amy",
+            "I do. Penny, Bernadette and I are sorry."
+        ],
+        [
+            "Bernadette",
+            "You hit her! What did I do?"
+        ],
+        [
+            "Amy",
+            "You had my car towed."
+        ],
+        [
+            "Bernadette",
+            "You were parked in Howard\u2019s spot."
+        ],
+        [
+            "Amy",
+            "I was parked in Sheldon\u2019s spot."
+        ],
+        [
+            "Bernadette",
+            "Sheldon doesn\u2019t have a spot."
+        ],
+        [
+            "Penny",
+            "Guys, I think I need to go to the emergency room."
+        ],
+        [
+            "Bernadette",
+            "Okay, let\u2019s go."
+        ],
+        [
+            "Amy",
+            "I\u2019ll drive. You can see where the tow truck scratched my car."
+        ],
+        [
+            "Bernadette",
+            "The tow truck didn\u2019t scratch your car."
+        ],
+        [
+            "Amy",
+            "How do you know?"
+        ],
+        [
+            "Bernadette",
+            "\u2018Cause I did it!"
+        ],
+        [
+            "Scene",
+            "The parking spot. Sheldon has set up his office in it."
+        ],
+        [
+            "Sheldon",
+            "Morning, Professor Stevens. Don\u2019t look at that whiteboard. That\u2019s my math, not your math. Keep walking, nosey."
+        ],
+        [
+            "Howard",
+            "What the hell are you doing?"
+        ],
+        [
+            "Sheldon",
+            "Oh. You said I\u2019m not using my space, so I\u2019m using it."
+        ],
+        [
+            "Howard",
+            "Okay, you need to move now."
+        ],
+        [
+            "Sheldon",
+            "No, I don\u2019t."
+        ],
+        [
+            "Howard",
+            "You can\u2019t stay there forever."
+        ],
+        [
+            "Sheldon",
+            "Actually, I have a plastic baggy strapped to my leg that says I can. Give up, Wolowitz. You\u2019ve chosen to tangle with a superior intellect you can\u2019t defeat. There is nothing you could possibly do to\u2026 (Howard starts sounding his horn. Sheldon puts on earphones)"
+        ],
+        [
+            "Howard",
+            "Those aren\u2019t gonna help you, Sheldon,"
+        ],
+        [
+            "Sheldon",
+            "Oh, yes, they are. I mean, what?"
+        ],
+        [
+            "Howard",
+            "I\u2019m warning you, Sheldon!"
+        ],
+        [
+            "Sheldon",
+            "Your threats are empty, nothing can move me. (Howard starts pushing his chair with the front of the car) Stop that."
+        ],
+        [
+            "Howard",
+            "Get out of my spot."
+        ],
+        [
+            "Sheldon",
+            "No. That\u2019s it. I am calling campus security. You prepare for the scolding of your life."
+        ],
+        [
+            "Leonard",
+            "What are you idiots doing?"
+        ],
+        [
+            "Sheldon",
+            "He\u2019s trying to kill me, Leonard. Video games and rock music have desensitized him to violence."
+        ],
+        [
+            "Howard",
+            "Would you please talk some sense into your lunatic roommate?"
+        ],
+        [
+            "Leonard",
+            "You\u2019re both acting like lunatics. It\u2019s just a parking spot."
+        ],
+        [
+            "Howard",
+            "It\u2019s not just a parking spot. He can\u2019t handle the fact that I\u2019m a bigger deal than he is now."
+        ],
+        [
+            "Sheldon",
+            "Oh, preposterous. I have been solely responsible for this university\u2019s six loop quantum gravity calculations, I have changed the way we think about Bose-Einstein condensates, and I am also the one who got Nutter Butters in the cafeteria vending machine. Maybe you missed that news while you were floating around like a goof in outer space. Now, if you\u2019ll excuse me, I have work to do."
+        ],
+        [
+            "Howard",
+            "Can you believe this guy?"
+        ],
+        [
+            "Leonard",
+            "What I don\u2019t believe is that you tried to run him over."
+        ],
+        [
+            "Howard",
+            "Oh, like you\u2019ve never thought of doing that. Don\u2019t hate me just because I lived the dream. (Horn beeps. Sheldon is sitting naked in Howard\u2019s car.) "
+        ],
+        [
+            "Sheldon",
+            "Hey, sweet ride."
+        ],
+        [
+            "Howard",
+            "What are you doing in there?"
+        ],
+        [
+            "Sheldon",
+            "Just breaking in your new car."
+        ],
+        [
+            "Howard",
+            "Stop that. You stop that."
+        ],
+        [
+            "Sheldon",
+            "You know what they say? Revenge is a dish best served nude."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Raj",
+            "Hey, got a minute?"
+        ],
+        [
+            "Sheldon",
+            "Oh, of course, come in. (Raj opens door to reveal Howard) This is an authentic Chinese throwing star, and I must warn you, I have seen many people throw them in movies."
+        ],
+        [
+            "Raj",
+            "Calm down. Howard has something he wants to say to you."
+        ],
+        [
+            "Howard",
+            "All right. Sheldon, when this whole thing with the parking space started, I had no idea just how much of a crazy bastard\u2026"
+        ],
+        [
+            "Raj",
+            "Howard, that\u2019s not how we practiced it."
+        ],
+        [
+            "Howard",
+            "I had no idea how much that spot meant to you. Anyway, I called President Siebert and told him it\u2019s not worth fighting over the spot, so you keep it, and I\u2019ll park in the structure across the street."
+        ],
+        [
+            "Sheldon",
+            "Well, Howard, thank you. It\u2019s quite a gesture on your part. You\u2019ve shown yourself to be the bigger man."
+        ],
+        [
+            "Howard",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Which I find totally unacceptable. I must be the bigger man. Therefore, you may use my spot until such time as I learn to drive or get a Batmobile."
+        ],
+        [
+            "Howard",
+            "Wow, okay. Well, thanks. I don\u2019t know what to say."
+        ],
+        [
+            "Sheldon",
+            "There is nothing to say. Except I\u2019m the bigger man. I\u2019m not kidding. Say it."
+        ],
+        [
+            "Raj",
+            "Just say it."
+        ],
+        [
+            "Howard",
+            "You\u2019re the bigger man, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Oh, stop. And I believe this is yours. FYI, if you wear that into a bank, they will tackle you to the ground."
+        ],
+        [
+            "Scene",
+            "The cheesecake factory."
+        ],
+        [
+            "Howard",
+            "I\u2019d like to propose a toast, to burying the hatchet."
+        ],
+        [
+            "Sheldon",
+            "To burying the hatchet."
+        ],
+        [
+            "Bernadette",
+            "You know, I\u2019m kind of glad this happened."
+        ],
+        [
+            "Amy",
+            "Me, too. In some weird way, I kind of feel like it brought us closer."
+        ],
+        [
+            "Penny (with two black eyes and a plaster across her nose)",
+            "Yeah, everybody\u2019s happy, great."
+        ],
+        [
+            "Scene",
+            "A dry cleaners."
+        ],
+        [
+            "Shopkeeper",
+            "Can I help you?"
+        ],
+        [
+            "Sheldon",
+            "Yes. According to information I gleaned from Yelp, you had great success when a santeriasuzy37 brought you a pair of leather slacks stained with chicken blood. I believe I may have a similar problem. This cushion experienced a nude revenge wiggle."
+        ],
+        [
+            "Shopkeeper",
+            "A what?"
+        ],
+        [
+            "Sheldon",
+            "A naked man sat on it. Now, here\u2019s my concern, his diet is rich in fatty deli meats. What test do you have to detect lipid residue?"
+        ],
+        [
+            "Shopkeeper",
+            "Lipid what?"
+        ],
+        [
+            "Sheldon",
+            "Lipid residue. An anal autograph. A colon calling card, if you will."
+        ],
+        [
+            "Shopkeeper",
+            "Tuesday okay?"
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t rush it. We may be dealing with befoulment on a molecular level."
+        ],
+        [
+            "Shopkeeper",
+            "Let me write you a ticket."
+        ],
+        [
+            "Sheldon",
+            "Is that your son?"
+        ],
+        [
+            "Shopkeeper",
+            "Uh-huh."
+        ],
+        [
+            "Sheldon",
+            "Looks like that laptop\u2019s seen better days. If you\u2019re interested, I\u2019m selling this. It\u2019s only two years old, 16 gigabytes of RAM, Intel core i7 processor, and I can personally guarantee it has spent less than 20 minutes resting on an astronaut\u2019s penis."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-09-the-parking-spot-escalation/"
+}

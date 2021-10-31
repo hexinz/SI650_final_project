@@ -1,0 +1,1822 @@
+{
+    "Season": 3,
+    "Episode": 8,
+    "Title": "the adhesive duck deficiency",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "A camp site."
+            ],
+            [
+                16,
+                "The apartment."
+            ],
+            [
+                19,
+                "Credits sequence."
+            ],
+            [
+                21,
+                "The apartment."
+            ],
+            [
+                58,
+                "The camp site."
+            ],
+            [
+                80,
+                "Penny\u2019s bedroom."
+            ],
+            [
+                106,
+                "The camp site. "
+            ],
+            [
+                118,
+                "Penny\u2019s car."
+            ],
+            [
+                130,
+                "The camp site. "
+            ],
+            [
+                141,
+                "Penny\u2019s car."
+            ],
+            [
+                158,
+                "The camp site. "
+            ],
+            [
+                170,
+                "The hospital waiting room."
+            ],
+            [
+                195,
+                "The camp site."
+            ],
+            [
+                210,
+                "Penny\u2019s apartment."
+            ],
+            [
+                221,
+                "The camp site. Raj is telling a ghost story with the torch on his face."
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "How much time do we have?"
+            ],
+            [
+                4,
+                "Anything yet?"
+            ],
+            [
+                6,
+                "Hang on, how about now?"
+            ],
+            [
+                8,
+                "Ooh, Real Sex."
+            ],
+            [
+                10,
+                "Alright, let\u2019s see what\u2019s on the east coast feed."
+            ],
+            [
+                15,
+                "Oh, this sucks, I\u2019m switching back to Real Sex."
+            ],
+            [
+                62,
+                "Okay, the best I can tell, there are eight other campsites nearby. Mostly science nerds like us, but just over yon ridge are two not unattractive middle school teachers who reek of desperation."
+            ],
+            [
+                64,
+                "Oh I don\u2019t know, 50, 55."
+            ],
+            [
+                67,
+                "I am."
+            ],
+            [
+                69,
+                "Look, they gave me homemade cookies."
+            ],
+            [
+                72,
+                "Relax, I said we\u2019d stop by a little later after they have their nap."
+            ],
+            [
+                74,
+                "Cookie?"
+            ],
+            [
+                78,
+                "Not much to tell. They had a VW Microbus and were wearing tie-dyed Grateful Dead shirts."
+            ],
+            [
+                108,
+                "Up above the world so high, like little diamonds in the sky."
+            ],
+            [
+                110,
+                "So, when do the meteors get here?"
+            ],
+            [
+                115,
+                "Stars are pretty, aren\u2019t they?"
+            ],
+            [
+                134,
+                "I lost my virginity to my cousin Jeanie."
+            ],
+            [
+                137,
+                "It was my Uncle Murray\u2019s funeral. We were all back at my Aunt Barbara\u2019s house. Our eyes locked over the pickled herring. We never meant for it to happen."
+            ],
+            [
+                140,
+                "To this day, I can\u2019t look at pickled herring without being aroused and ashamed. Oh, cousin Jeanie."
+            ],
+            [
+                159,
+                "Anything?"
+            ],
+            [
+                161,
+                "No! What about Slim Jims?"
+            ],
+            [
+                164,
+                "Wait. Wait, wait. So you\u2019re saying we\u2019re out of food?"
+            ],
+            [
+                168,
+                "Me too. Check and see if we have any more pudding."
+            ],
+            [
+                198,
+                "Okay, our objective is the boy scout campsite to the east. Easy target. Big doughy scout master, couple of cubs, most webelos."
+            ],
+            [
+                200,
+                "Hot dogs, buns, s\u2019mores, I mean, it\u2019s a freaking 7-11."
+            ],
+            [
+                202,
+                "Oh, my god, could it be? Yes! My mother put an I love you brisket in my backpack."
+            ],
+            [
+                204,
+                "You don\u2019t need forks. It\u2019s so tender, it falls apart in your hands."
+            ],
+            [
+                208,
+                "Maybe a tupperware bowl of roasted potatoes and carrots?"
+            ],
+            [
+                223,
+                "That\u2019s still not funny."
+            ],
+            [
+                225,
+                "And she was my second cousin."
+            ],
+            [
+                227,
+                "You\u2019re a real douche."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Uh, t-minus five hours, 37 minutes to onset of meteor shower."
+            ],
+            [
+                5,
+                "Uh, we have a signal, but there\u2019s no frame lock."
+            ],
+            [
+                11,
+                "Oh, hey. Dune."
+            ],
+            [
+                13,
+                "Too bad Sheldon couldn\u2019t come with us."
+            ],
+            [
+                60,
+                "I wish Penny didn\u2019t have to work, she loves camping."
+            ],
+            [
+                66,
+                "Come on, you guys can\u2019t be that hard up."
+            ],
+            [
+                70,
+                "Of course, they did. That\u2019s what grandmothers do."
+            ],
+            [
+                76,
+                "Mmmm, not bad."
+            ],
+            [
+                107,
+                "Stars are pretty, aren\u2019t they?"
+            ],
+            [
+                112,
+                "I can feel it. I can feel the earth moving. It\u2019s moving too fast. Raj, slow it down."
+            ],
+            [
+                114,
+                "Better. Thanks."
+            ],
+            [
+                116,
+                "What\u2019s so funny?"
+            ],
+            [
+                133,
+                "I hate my name. It has nerd in it. Len nerd."
+            ],
+            [
+                136,
+                "You know what\u2019s a cool name? Angelo. That has angel and jell-o in it."
+            ],
+            [
+                139,
+                "People could call me Angie. Yo, Angie, how\u2019s it goin\u2019?"
+            ],
+            [
+                160,
+                "No. That was the last pudding cup."
+            ],
+            [
+                162,
+                "That\u2019s what he used to eat his pudding, remember?"
+            ],
+            [
+                165,
+                "The only thing in here are blue ice packs."
+            ],
+            [
+                167,
+                "Oh, god, I am so hungry."
+            ],
+            [
+                169,
+                "Okay."
+            ],
+            [
+                197,
+                "Will you shut up? We\u2019re all hungry."
+            ],
+            [
+                199,
+                "What kind of score are we looking at?"
+            ],
+            [
+                201,
+                "All right, everyone grab flashlights."
+            ],
+            [
+                203,
+                "Quick, get forks."
+            ],
+            [
+                206,
+                "I feel like we\u2019re forgetting something important."
+            ]
+        ],
+        "Raj": [
+            [
+                3,
+                "Okay, our position is 34.48 degrees north, 118.31 west. That means the azimuth should be 168.22 degrees relative to magnetic north with an elevation of 49.93."
+            ],
+            [
+                7,
+                "We did it. We have the west coast feed of HBO."
+            ],
+            [
+                9,
+                "Big deal. Every time I watch that show it\u2019s old women putting condoms on cucumbers."
+            ],
+            [
+                12,
+                "Not a great movie, but look at that beautiful desert."
+            ],
+            [
+                14,
+                "Yes, it\u2019s not the same without him. (They all laugh)"
+            ],
+            [
+                61,
+                "Yeah, that would have been great. You and Penny having sex in the tent while I sit out here and watch Howard hump a cactus."
+            ],
+            [
+                63,
+                "Wow. Wonderful. How old are they?"
+            ],
+            [
+                65,
+                "Oh, menopause, nature\u2019s birth control."
+            ],
+            [
+                68,
+                "Yeah, me, too."
+            ],
+            [
+                71,
+                "So, what are we waiting for?"
+            ],
+            [
+                73,
+                "Good idea. They\u2019ll be refreshed."
+            ],
+            [
+                75,
+                "Yeah, thank you. Mmmm."
+            ],
+            [
+                77,
+                "Yeah, very tasty. Well, so tell me more about these teachers."
+            ],
+            [
+                79,
+                "Huh. Mmm. Good cookies."
+            ],
+            [
+                109,
+                "That\u2019s beautiful, dude. You should\u2026 You should write that down before someone steals it."
+            ],
+            [
+                111,
+                "The meteors don\u2019t get here, the earth is moving into their path."
+            ],
+            [
+                113,
+                "Okay, how\u2019s that?"
+            ],
+            [
+                117,
+                "It\u2019s your American accent. Everything you say sounds stupid. (With an American accent) Stars are pretty, aren\u2019t they?"
+            ],
+            [
+                132,
+                "If I could speak the language of rabbits, they would be amazed, and I would be their king."
+            ],
+            [
+                135,
+                "I would be kind to my rabbit subjects. At first."
+            ],
+            [
+                138,
+                "One day, I hold a great ball for the President of France, but the rabbits, they hate me and don\u2019t come. I am embarrassed, so I eat all the lettuce in the world and make them watch."
+            ],
+            [
+                163,
+                "Right! That was so good! Sweety and meaty at the same time."
+            ],
+            [
+                166,
+                "I know they\u2019re poison, but they look like big, yummy otter pops."
+            ],
+            [
+                196,
+                "Oh, I\u2019m so hungry!"
+            ],
+            [
+                205,
+                "He\u2019s right."
+            ],
+            [
+                207,
+                "Me, too. But what? (Behind them, the meteor shower has begun)"
+            ],
+            [
+                222,
+                "\u2026And the next morning when he woke up, he rolled over and realized\u2026 duh-duh-duh! \u2026she was his cousin."
+            ],
+            [
+                228,
+                "Who cares? You slept with your cousin."
+            ]
+        ],
+        "Sheldon": [
+            [
+                17,
+                "Sheldon\u2019s log, stardate 63345.3. While my colleagues are off observing the Leonid meteor shower, I have remained behind to complete my paper on the decays of highly excited massive string states. Although my research is going well I do miss the warmth of human companionship. (He laughs)"
+            ],
+            [
+                23,
+                "And good evening to you, Siam Palace. This is Sheldon Cooper. Yeah, I\u2019m going to be dining alone this evening, so I\u2019ll be reducing my usual order. I\u2019d like to start with one quarter of the assorted appetizers plate and, uh, one half of the golden treasure for two. Oh, for heaven\u2019s sake, in the mid-18th century, King Rama IV of Siam divided a huge empire amongst the colonial powers of Europe in order to preserve his throne. Surely, you, his cultural descendant, can handle pad thai and dumplings."
+            ],
+            [
+                25,
+                "I need to go, but you keep in mind that my sharply worded comments on yelp.com recently took down a local muffin store. (At Penny\u2019s door, knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny.."
+            ],
+            [
+                27,
+                "Penny?"
+            ],
+            [
+                29,
+                "(At Penny\u2019s bedroom door, knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny.."
+            ],
+            [
+                31,
+                "Shall I come back at a better time?"
+            ],
+            [
+                33,
+                "Hello."
+            ],
+            [
+                35,
+                "Not surprising. You have no safety mat or adhesive stickers to allow for purchase on a surface with a low coefficient of static friction."
+            ],
+            [
+                37,
+                "Tubs are slippery."
+            ],
+            [
+                39,
+                "I have a series of whimsical duck stickers on the bottom of my tub."
+            ],
+            [
+                41,
+                "They\u2019re holding umbrellas."
+            ],
+            [
+                43,
+                "The ducks in my tub."
+            ],
+            [
+                45,
+                "They\u2019re whimsical because ducks have neither the need for, nor the ability to use umbrellas."
+            ],
+            [
+                47,
+                "Well, assuming you\u2019re correct that your right humerus is no longer seated in the glenoid socket, I would certainly think so."
+            ],
+            [
+                49,
+                "I don\u2019t drive."
+            ],
+            [
+                51,
+                "Well, it seems we\u2019ve reached an impasse."
+            ],
+            [
+                53,
+                "But I could call you a cab or an ambulance."
+            ],
+            [
+                55,
+                "All right. Let it never be said that Sheldon Lee Cooper ignored the pleas of a damsel in distress."
+            ],
+            [
+                57,
+                "Well, it does seem rather ironic that for want of 99-cent adhesive ducks, we both might die in a fiery car crash."
+            ],
+            [
+                81,
+                "I see no organizational system in here whatsoever. Which panties do you wear on Mondays?"
+            ],
+            [
+                83,
+                "My mother always told me one should wear clean underpants in case one is in an accident."
+            ],
+            [
+                85,
+                "That doesn\u2019t mean one won\u2019t be in another, especially if I\u2019m driving."
+            ],
+            [
+                87,
+                "Okay, here."
+            ],
+            [
+                89,
+                "All right."
+            ],
+            [
+                91,
+                "We should have you checked for a concussion."
+            ],
+            [
+                93,
+                "All right."
+            ],
+            [
+                95,
+                "Don\u2019t look?"
+            ],
+            [
+                97,
+                "Oh. Well, that\u2019s understandable. You may be interested to know that a prohibition against looking is well established in heroic mythology. Uh, Lot and his wife, Perseus and Medusa, Orpheus and Eurydice."
+            ],
+            [
+                99,
+                "They always look. It never ends well."
+            ],
+            [
+                101,
+                "Ok."
+            ],
+            [
+                103,
+                "It doesn\u2019t feel like an arm."
+            ],
+            [
+                105,
+                "All righty."
+            ],
+            [
+                119,
+                "For the record, I should let you know this is my first time driving an actual motor vehicle."
+            ],
+            [
+                121,
+                "Yes, and I have logged a considerable number of hours on a simulator."
+            ],
+            [
+                123,
+                "Didn\u2019t work out well."
+            ],
+            [
+                125,
+                "One moment. According to my driver\u2019s ed book, a side mirror is properly adjusted when a portion of the is driver\u2019s door handle is visible in the lower right corner. There\u2019s the handle. Oh, no, too far, bringing it back. Optimized. Now, where is the switch to adjust the passenger side mirror?"
+            ],
+            [
+                127,
+                "Where is the passenger side mirror?"
+            ],
+            [
+                129,
+                "Yes. As soon as I adjust my seat. Whee! Oh, dear. I\u2019m going to have to start again."
+            ],
+            [
+                143,
+                "Oh, I think we\u2019re going sufficiently fast. What\u2019s that?"
+            ],
+            [
+                145,
+                "That can\u2019t be nothing, the check engine light is on. We need to find a service station."
+            ],
+            [
+                147,
+                "All the more reason to consult with a mechanic before it explodes."
+            ],
+            [
+                149,
+                "Mr. Spock did not pilot the Enterprise. He was the science officer, and I guarantee you that if he ever saw the Enterprise\u2019s check engine light blinking, he would pull the ship over immediately."
+            ],
+            [
+                151,
+                "Oh, oh, red light, release accelerator and slowly apply the brake. Nailed it. While we have a moment, may I ask you a question?"
+            ],
+            [
+                153,
+                "Why do you have the Chinese character for soup tattooed on your right buttock?"
+            ],
+            [
+                155,
+                "No, it isn\u2019t. But I suppose it does take courage to demonstrate that kind of commitment to soup."
+            ],
+            [
+                157,
+                "Sorry. As I told you, the hero always peeks."
+            ],
+            [
+                171,
+                "All right, there\u2019s no need to bark at me. According to the inexplicably irritable nurse behind the desk, you\u2019ll be seen after the man who claims to be having a heart attack, but appears to be well enough to play Doodle Jump on his iPhone. We have to fill these out. Describe illness or injury."
+            ],
+            [
+                173,
+                "All right. And how did the accident occur?"
+            ],
+            [
+                175,
+                "Cause of accident, lack of adhesive ducks. Okay, medical history. Have you ever been diagnosed with diabetes?"
+            ],
+            [
+                177,
+                "Kidney disease?"
+            ],
+            [
+                179,
+                "Migraines?"
+            ],
+            [
+                181,
+                "Are you currently pregnant?"
+            ],
+            [
+                183,
+                "Are you sure? You look a bit puffy."
+            ],
+            [
+                185,
+                "When was your last menstrual period?"
+            ],
+            [
+                187,
+                "I\u2019ll put, in progress. Okay, moving to psychiatric disorders, list all major behavioural diagnoses, e.g. depression, anxiety, etcetera."
+            ],
+            [
+                189,
+                "Episodes of sub psychotic rage."
+            ],
+            [
+                191,
+                "Possible Tourette\u2019s. All right, moles, lesions or other skin conditions. Soup tattoo on right buttock."
+            ],
+            [
+                193,
+                "I\u2019m sorry. There, there. Everything\u2019s going to be fine. Sheldon\u2019s here."
+            ],
+            [
+                211,
+                "Now remember, you were given powerful pain medication and a muscle relaxer, so, uh, don\u2019t operate heavy machinery. Try not to choke on your own drool."
+            ],
+            [
+                213,
+                "Yes. The charm of your drug addled candour knows no bounds."
+            ],
+            [
+                215,
+                "That\u2019s a fairly laboured metaphor, but I appreciate the sentiment behind it."
+            ],
+            [
+                217,
+                "\u201cSoft Kitty\u201d is for when you\u2019re sick. You\u2019re not sick."
+            ]
+        ],
+        "Penny (voice off)": [
+            [
+                24,
+                "Sheldon help!"
+            ]
+        ],
+        "Penny": [
+            [
+                26,
+                "Come in! Hurry!"
+            ],
+            [
+                28,
+                "I\u2019m back here."
+            ],
+            [
+                30,
+                "Oh, for god\u2019s sakes, I\u2019m in the bathroom!"
+            ],
+            [
+                32,
+                "Get in here! Hurry! Don\u2019t you dare knock."
+            ],
+            [
+                34,
+                "I slipped in the shower, and I think I dislocated my shoulder."
+            ],
+            [
+                36,
+                "What?"
+            ],
+            [
+                38,
+                "I know. I slipped."
+            ],
+            [
+                40,
+                "Yeah, okay, whatever. Will you just turn the water off and help me up?"
+            ],
+            [
+                42,
+                "What?"
+            ],
+            [
+                44,
+                "Uh-huh."
+            ],
+            [
+                46,
+                "Oh, my god. I got to go to the emergency room."
+            ],
+            [
+                48,
+                "Okay, can you drive me?"
+            ],
+            [
+                50,
+                "Well, I can\u2019t drive!"
+            ],
+            [
+                52,
+                "Ow."
+            ],
+            [
+                54,
+                "No, no, no, I can\u2019t wait that long, you got to help me, please."
+            ],
+            [
+                56,
+                "No one\u2019s saying that. Let\u2019s go."
+            ],
+            [
+                82,
+                "I don\u2019t need panties, I just need shorts and a shirt."
+            ],
+            [
+                84,
+                "One was already in an accident."
+            ],
+            [
+                86,
+                "Clothes, Sheldon. I need clothes!"
+            ],
+            [
+                88,
+                "Seriously? Those shorts with that top?"
+            ],
+            [
+                90,
+                "No\u2026 No\u2026 Oh, that\u2019s cute."
+            ],
+            [
+                92,
+                "Okay, now, you got to help me put these on."
+            ],
+            [
+                94,
+                "But don\u2019t look."
+            ],
+            [
+                96,
+                "I don\u2019t want you to see me naked."
+            ],
+            [
+                98,
+                "Yeah, great."
+            ],
+            [
+                100,
+                "Ok, now you gotta help me get my arm into the sleeve."
+            ],
+            [
+                102,
+                "Is that my arm?"
+            ],
+            [
+                104,
+                "Then, maybe you should let it go."
+            ],
+            [
+                120,
+                "You have your learner\u2019s permit, right?"
+            ],
+            [
+                122,
+                "Good."
+            ],
+            [
+                124,
+                "All right, can we please go?"
+            ],
+            [
+                126,
+                "It\u2019s right there."
+            ],
+            [
+                128,
+                "In a parking lot in Hollywood. Now, can we please go?"
+            ],
+            [
+                142,
+                "Could you please drive a little faster?"
+            ],
+            [
+                144,
+                "Nothing. The engine does that sometimes."
+            ],
+            [
+                146,
+                "No. The light has been on since I bought the car."
+            ],
+            [
+                148,
+                "It\u2019s not going to explode, just keep driving. Warp speed ahead, Mr. Spock."
+            ],
+            [
+                150,
+                "Oh, god, I\u2019m gonna lose the arm."
+            ],
+            [
+                152,
+                "What?"
+            ],
+            [
+                154,
+                "It\u2019s not soup, it\u2019s courage."
+            ],
+            [
+                156,
+                "How did you see it? You said you wouldn\u2019t look."
+            ],
+            [
+                172,
+                "I dislocated my shoulder."
+            ],
+            [
+                174,
+                "You ready know that."
+            ],
+            [
+                176,
+                "No."
+            ],
+            [
+                178,
+                "No."
+            ],
+            [
+                180,
+                "Getting one."
+            ],
+            [
+                182,
+                "No."
+            ],
+            [
+                184,
+                "Change migraine to yes."
+            ],
+            [
+                186,
+                "Oh, next question."
+            ],
+            [
+                188,
+                "Oh, my god, what the hell does this have to do with my stupid shoulder?"
+            ],
+            [
+                190,
+                "Ass."
+            ],
+            [
+                192,
+                "Hey, Sheldon, Sheldon, look, I am scared and in a lot of pain. Could you please just take a break from being you for just a minute and try being, I don\u2019t know, comforting?"
+            ],
+            [
+                194,
+                "Thanks. That\u2019s much better."
+            ],
+            [
+                212,
+                "Wait. You have to help me get into bed. Sheldon has to get me into bed. Bet you never thought I\u2019d say that."
+            ],
+            [
+                214,
+                "You know, people think you\u2019re this weird robot man who\u2019s so annoying all the time, and you totally are, but then it\u2019s like that movie Wall-E at the end. You\u2019re so full of love, and you can save a plant and get fat people out of the floaty chairs."
+            ],
+            [
+                216,
+                "Sing \u201cSoft Kitty\u201d to me."
+            ],
+            [
+                218,
+                "Injured and drugged is a kind of sick."
+            ],
+            [
+                220,
+                "Wait, wait. Let\u2019s sing it as a round. I\u2019ll start. Soft kitty, warm kitty, little ball of fur\u2026 See that\u2019s where you come in. I\u2019ll start over. Soft kitty, warm kitty, little ball of fur\u2026 I\u2019ve got all night, Sheldon. Soft kitty, warm kitty\u2026 (Sheldon joins in with the round) little ball of fur, happy kitty, sleepy kitty, purr, purr, purr."
+            ]
+        ],
+        "Leonard and Raj together": [
+            [
+                209,
+                "Yes! Yes!"
+            ]
+        ],
+        "Sheldon (singing)": [
+            [
+                219,
+                "Soft kitty, warm kitty, little ball of fur\u2026"
+            ]
+        ],
+        "Raj (imitating him)": [
+            [
+                224,
+                "That\u2019s still not funny."
+            ],
+            [
+                226,
+                "And she was my second cousin."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "A camp site."
+        ],
+        [
+            "Howard",
+            "How much time do we have?"
+        ],
+        [
+            "Leonard",
+            "Uh, t-minus five hours, 37 minutes to onset of meteor shower."
+        ],
+        [
+            "Raj",
+            "Okay, our position is 34.48 degrees north, 118.31 west. That means the azimuth should be 168.22 degrees relative to magnetic north with an elevation of 49.93."
+        ],
+        [
+            "Howard",
+            "Anything yet?"
+        ],
+        [
+            "Leonard",
+            "Uh, we have a signal, but there\u2019s no frame lock."
+        ],
+        [
+            "Howard",
+            "Hang on, how about now?"
+        ],
+        [
+            "Raj",
+            "We did it. We have the west coast feed of HBO."
+        ],
+        [
+            "Howard",
+            "Ooh, Real Sex."
+        ],
+        [
+            "Raj",
+            "Big deal. Every time I watch that show it\u2019s old women putting condoms on cucumbers."
+        ],
+        [
+            "Howard",
+            "Alright, let\u2019s see what\u2019s on the east coast feed."
+        ],
+        [
+            "Leonard",
+            "Oh, hey. Dune."
+        ],
+        [
+            "Raj",
+            "Not a great movie, but look at that beautiful desert."
+        ],
+        [
+            "Leonard",
+            "Too bad Sheldon couldn\u2019t come with us."
+        ],
+        [
+            "Raj",
+            "Yes, it\u2019s not the same without him. (They all laugh)"
+        ],
+        [
+            "Howard",
+            "Oh, this sucks, I\u2019m switching back to Real Sex."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Sheldon\u2019s log, stardate 63345.3. While my colleagues are off observing the Leonid meteor shower, I have remained behind to complete my paper on the decays of highly excited massive string states. Although my research is going well I do miss the warmth of human companionship. (He laughs)"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "And good evening to you, Siam Palace. This is Sheldon Cooper. Yeah, I\u2019m going to be dining alone this evening, so I\u2019ll be reducing my usual order. I\u2019d like to start with one quarter of the assorted appetizers plate and, uh, one half of the golden treasure for two. Oh, for heaven\u2019s sake, in the mid-18th century, King Rama IV of Siam divided a huge empire amongst the colonial powers of Europe in order to preserve his throne. Surely, you, his cultural descendant, can handle pad thai and dumplings."
+        ],
+        [
+            "Penny (voice off)",
+            "Sheldon help!"
+        ],
+        [
+            "Sheldon",
+            "I need to go, but you keep in mind that my sharply worded comments on yelp.com recently took down a local muffin store. (At Penny\u2019s door, knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny.."
+        ],
+        [
+            "Penny",
+            "Come in! Hurry!"
+        ],
+        [
+            "Sheldon",
+            "Penny?"
+        ],
+        [
+            "Penny",
+            "I\u2019m back here."
+        ],
+        [
+            "Sheldon",
+            "(At Penny\u2019s bedroom door, knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny.."
+        ],
+        [
+            "Penny",
+            "Oh, for god\u2019s sakes, I\u2019m in the bathroom!"
+        ],
+        [
+            "Sheldon",
+            "Shall I come back at a better time?"
+        ],
+        [
+            "Penny",
+            "Get in here! Hurry! Don\u2019t you dare knock."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Penny",
+            "I slipped in the shower, and I think I dislocated my shoulder."
+        ],
+        [
+            "Sheldon",
+            "Not surprising. You have no safety mat or adhesive stickers to allow for purchase on a surface with a low coefficient of static friction."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Tubs are slippery."
+        ],
+        [
+            "Penny",
+            "I know. I slipped."
+        ],
+        [
+            "Sheldon",
+            "I have a series of whimsical duck stickers on the bottom of my tub."
+        ],
+        [
+            "Penny",
+            "Yeah, okay, whatever. Will you just turn the water off and help me up?"
+        ],
+        [
+            "Sheldon",
+            "They\u2019re holding umbrellas."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "The ducks in my tub."
+        ],
+        [
+            "Penny",
+            "Uh-huh."
+        ],
+        [
+            "Sheldon",
+            "They\u2019re whimsical because ducks have neither the need for, nor the ability to use umbrellas."
+        ],
+        [
+            "Penny",
+            "Oh, my god. I got to go to the emergency room."
+        ],
+        [
+            "Sheldon",
+            "Well, assuming you\u2019re correct that your right humerus is no longer seated in the glenoid socket, I would certainly think so."
+        ],
+        [
+            "Penny",
+            "Okay, can you drive me?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t drive."
+        ],
+        [
+            "Penny",
+            "Well, I can\u2019t drive!"
+        ],
+        [
+            "Sheldon",
+            "Well, it seems we\u2019ve reached an impasse."
+        ],
+        [
+            "Penny",
+            "Ow."
+        ],
+        [
+            "Sheldon",
+            "But I could call you a cab or an ambulance."
+        ],
+        [
+            "Penny",
+            "No, no, no, I can\u2019t wait that long, you got to help me, please."
+        ],
+        [
+            "Sheldon",
+            "All right. Let it never be said that Sheldon Lee Cooper ignored the pleas of a damsel in distress."
+        ],
+        [
+            "Penny",
+            "No one\u2019s saying that. Let\u2019s go."
+        ],
+        [
+            "Sheldon",
+            "Well, it does seem rather ironic that for want of 99-cent adhesive ducks, we both might die in a fiery car crash."
+        ],
+        [
+            "Scene",
+            "The camp site."
+        ],
+        [
+            "Leonard",
+            "I wish Penny didn\u2019t have to work, she loves camping."
+        ],
+        [
+            "Raj",
+            "Yeah, that would have been great. You and Penny having sex in the tent while I sit out here and watch Howard hump a cactus."
+        ],
+        [
+            "Howard",
+            "Okay, the best I can tell, there are eight other campsites nearby. Mostly science nerds like us, but just over yon ridge are two not unattractive middle school teachers who reek of desperation."
+        ],
+        [
+            "Raj",
+            "Wow. Wonderful. How old are they?"
+        ],
+        [
+            "Howard",
+            "Oh I don\u2019t know, 50, 55."
+        ],
+        [
+            "Raj",
+            "Oh, menopause, nature\u2019s birth control."
+        ],
+        [
+            "Leonard",
+            "Come on, you guys can\u2019t be that hard up."
+        ],
+        [
+            "Howard",
+            "I am."
+        ],
+        [
+            "Raj",
+            "Yeah, me, too."
+        ],
+        [
+            "Howard",
+            "Look, they gave me homemade cookies."
+        ],
+        [
+            "Leonard",
+            "Of course, they did. That\u2019s what grandmothers do."
+        ],
+        [
+            "Raj",
+            "So, what are we waiting for?"
+        ],
+        [
+            "Howard",
+            "Relax, I said we\u2019d stop by a little later after they have their nap."
+        ],
+        [
+            "Raj",
+            "Good idea. They\u2019ll be refreshed."
+        ],
+        [
+            "Howard",
+            "Cookie?"
+        ],
+        [
+            "Raj",
+            "Yeah, thank you. Mmmm."
+        ],
+        [
+            "Leonard",
+            "Mmmm, not bad."
+        ],
+        [
+            "Raj",
+            "Yeah, very tasty. Well, so tell me more about these teachers."
+        ],
+        [
+            "Howard",
+            "Not much to tell. They had a VW Microbus and were wearing tie-dyed Grateful Dead shirts."
+        ],
+        [
+            "Raj",
+            "Huh. Mmm. Good cookies."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s bedroom."
+        ],
+        [
+            "Sheldon",
+            "I see no organizational system in here whatsoever. Which panties do you wear on Mondays?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t need panties, I just need shorts and a shirt."
+        ],
+        [
+            "Sheldon",
+            "My mother always told me one should wear clean underpants in case one is in an accident."
+        ],
+        [
+            "Penny",
+            "One was already in an accident."
+        ],
+        [
+            "Sheldon",
+            "That doesn\u2019t mean one won\u2019t be in another, especially if I\u2019m driving."
+        ],
+        [
+            "Penny",
+            "Clothes, Sheldon. I need clothes!"
+        ],
+        [
+            "Sheldon",
+            "Okay, here."
+        ],
+        [
+            "Penny",
+            "Seriously? Those shorts with that top?"
+        ],
+        [
+            "Sheldon",
+            "All right."
+        ],
+        [
+            "Penny",
+            "No\u2026 No\u2026 Oh, that\u2019s cute."
+        ],
+        [
+            "Sheldon",
+            "We should have you checked for a concussion."
+        ],
+        [
+            "Penny",
+            "Okay, now, you got to help me put these on."
+        ],
+        [
+            "Sheldon",
+            "All right."
+        ],
+        [
+            "Penny",
+            "But don\u2019t look."
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t look?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t want you to see me naked."
+        ],
+        [
+            "Sheldon",
+            "Oh. Well, that\u2019s understandable. You may be interested to know that a prohibition against looking is well established in heroic mythology. Uh, Lot and his wife, Perseus and Medusa, Orpheus and Eurydice."
+        ],
+        [
+            "Penny",
+            "Yeah, great."
+        ],
+        [
+            "Sheldon",
+            "They always look. It never ends well."
+        ],
+        [
+            "Penny",
+            "Ok, now you gotta help me get my arm into the sleeve."
+        ],
+        [
+            "Sheldon",
+            "Ok."
+        ],
+        [
+            "Penny",
+            "Is that my arm?"
+        ],
+        [
+            "Sheldon",
+            "It doesn\u2019t feel like an arm."
+        ],
+        [
+            "Penny",
+            "Then, maybe you should let it go."
+        ],
+        [
+            "Sheldon",
+            "All righty."
+        ],
+        [
+            "Scene",
+            "The camp site. "
+        ],
+        [
+            "Leonard",
+            "Stars are pretty, aren\u2019t they?"
+        ],
+        [
+            "Howard",
+            "Up above the world so high, like little diamonds in the sky."
+        ],
+        [
+            "Raj",
+            "That\u2019s beautiful, dude. You should\u2026 You should write that down before someone steals it."
+        ],
+        [
+            "Howard",
+            "So, when do the meteors get here?"
+        ],
+        [
+            "Raj",
+            "The meteors don\u2019t get here, the earth is moving into their path."
+        ],
+        [
+            "Leonard",
+            "I can feel it. I can feel the earth moving. It\u2019s moving too fast. Raj, slow it down."
+        ],
+        [
+            "Raj",
+            "Okay, how\u2019s that?"
+        ],
+        [
+            "Leonard",
+            "Better. Thanks."
+        ],
+        [
+            "Howard",
+            "Stars are pretty, aren\u2019t they?"
+        ],
+        [
+            "Leonard",
+            "What\u2019s so funny?"
+        ],
+        [
+            "Raj",
+            "It\u2019s your American accent. Everything you say sounds stupid. (With an American accent) Stars are pretty, aren\u2019t they?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car."
+        ],
+        [
+            "Sheldon",
+            "For the record, I should let you know this is my first time driving an actual motor vehicle."
+        ],
+        [
+            "Penny",
+            "You have your learner\u2019s permit, right?"
+        ],
+        [
+            "Sheldon",
+            "Yes, and I have logged a considerable number of hours on a simulator."
+        ],
+        [
+            "Penny",
+            "Good."
+        ],
+        [
+            "Sheldon",
+            "Didn\u2019t work out well."
+        ],
+        [
+            "Penny",
+            "All right, can we please go?"
+        ],
+        [
+            "Sheldon",
+            "One moment. According to my driver\u2019s ed book, a side mirror is properly adjusted when a portion of the is driver\u2019s door handle is visible in the lower right corner. There\u2019s the handle. Oh, no, too far, bringing it back. Optimized. Now, where is the switch to adjust the passenger side mirror?"
+        ],
+        [
+            "Penny",
+            "It\u2019s right there."
+        ],
+        [
+            "Sheldon",
+            "Where is the passenger side mirror?"
+        ],
+        [
+            "Penny",
+            "In a parking lot in Hollywood. Now, can we please go?"
+        ],
+        [
+            "Sheldon",
+            "Yes. As soon as I adjust my seat. Whee! Oh, dear. I\u2019m going to have to start again."
+        ],
+        [
+            "Scene",
+            "The camp site. "
+        ],
+        [
+            "Raj",
+            "If I could speak the language of rabbits, they would be amazed, and I would be their king."
+        ],
+        [
+            "Leonard",
+            "I hate my name. It has nerd in it. Len nerd."
+        ],
+        [
+            "Howard",
+            "I lost my virginity to my cousin Jeanie."
+        ],
+        [
+            "Raj",
+            "I would be kind to my rabbit subjects. At first."
+        ],
+        [
+            "Leonard",
+            "You know what\u2019s a cool name? Angelo. That has angel and jell-o in it."
+        ],
+        [
+            "Howard",
+            "It was my Uncle Murray\u2019s funeral. We were all back at my Aunt Barbara\u2019s house. Our eyes locked over the pickled herring. We never meant for it to happen."
+        ],
+        [
+            "Raj",
+            "One day, I hold a great ball for the President of France, but the rabbits, they hate me and don\u2019t come. I am embarrassed, so I eat all the lettuce in the world and make them watch."
+        ],
+        [
+            "Leonard",
+            "People could call me Angie. Yo, Angie, how\u2019s it goin\u2019?"
+        ],
+        [
+            "Howard",
+            "To this day, I can\u2019t look at pickled herring without being aroused and ashamed. Oh, cousin Jeanie."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car."
+        ],
+        [
+            "Penny",
+            "Could you please drive a little faster?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I think we\u2019re going sufficiently fast. What\u2019s that?"
+        ],
+        [
+            "Penny",
+            "Nothing. The engine does that sometimes."
+        ],
+        [
+            "Sheldon",
+            "That can\u2019t be nothing, the check engine light is on. We need to find a service station."
+        ],
+        [
+            "Penny",
+            "No. The light has been on since I bought the car."
+        ],
+        [
+            "Sheldon",
+            "All the more reason to consult with a mechanic before it explodes."
+        ],
+        [
+            "Penny",
+            "It\u2019s not going to explode, just keep driving. Warp speed ahead, Mr. Spock."
+        ],
+        [
+            "Sheldon",
+            "Mr. Spock did not pilot the Enterprise. He was the science officer, and I guarantee you that if he ever saw the Enterprise\u2019s check engine light blinking, he would pull the ship over immediately."
+        ],
+        [
+            "Penny",
+            "Oh, god, I\u2019m gonna lose the arm."
+        ],
+        [
+            "Sheldon",
+            "Oh, oh, red light, release accelerator and slowly apply the brake. Nailed it. While we have a moment, may I ask you a question?"
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Why do you have the Chinese character for soup tattooed on your right buttock?"
+        ],
+        [
+            "Penny",
+            "It\u2019s not soup, it\u2019s courage."
+        ],
+        [
+            "Sheldon",
+            "No, it isn\u2019t. But I suppose it does take courage to demonstrate that kind of commitment to soup."
+        ],
+        [
+            "Penny",
+            "How did you see it? You said you wouldn\u2019t look."
+        ],
+        [
+            "Sheldon",
+            "Sorry. As I told you, the hero always peeks."
+        ],
+        [
+            "Scene",
+            "The camp site. "
+        ],
+        [
+            "Howard",
+            "Anything?"
+        ],
+        [
+            "Leonard",
+            "No. That was the last pudding cup."
+        ],
+        [
+            "Howard",
+            "No! What about Slim Jims?"
+        ],
+        [
+            "Leonard",
+            "That\u2019s what he used to eat his pudding, remember?"
+        ],
+        [
+            "Raj",
+            "Right! That was so good! Sweety and meaty at the same time."
+        ],
+        [
+            "Howard",
+            "Wait. Wait, wait. So you\u2019re saying we\u2019re out of food?"
+        ],
+        [
+            "Leonard",
+            "The only thing in here are blue ice packs."
+        ],
+        [
+            "Raj",
+            "I know they\u2019re poison, but they look like big, yummy otter pops."
+        ],
+        [
+            "Leonard",
+            "Oh, god, I am so hungry."
+        ],
+        [
+            "Howard",
+            "Me too. Check and see if we have any more pudding."
+        ],
+        [
+            "Leonard",
+            "Okay."
+        ],
+        [
+            "Scene",
+            "The hospital waiting room."
+        ],
+        [
+            "Sheldon",
+            "All right, there\u2019s no need to bark at me. According to the inexplicably irritable nurse behind the desk, you\u2019ll be seen after the man who claims to be having a heart attack, but appears to be well enough to play Doodle Jump on his iPhone. We have to fill these out. Describe illness or injury."
+        ],
+        [
+            "Penny",
+            "I dislocated my shoulder."
+        ],
+        [
+            "Sheldon",
+            "All right. And how did the accident occur?"
+        ],
+        [
+            "Penny",
+            "You ready know that."
+        ],
+        [
+            "Sheldon",
+            "Cause of accident, lack of adhesive ducks. Okay, medical history. Have you ever been diagnosed with diabetes?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Kidney disease?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Migraines?"
+        ],
+        [
+            "Penny",
+            "Getting one."
+        ],
+        [
+            "Sheldon",
+            "Are you currently pregnant?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Are you sure? You look a bit puffy."
+        ],
+        [
+            "Penny",
+            "Change migraine to yes."
+        ],
+        [
+            "Sheldon",
+            "When was your last menstrual period?"
+        ],
+        [
+            "Penny",
+            "Oh, next question."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll put, in progress. Okay, moving to psychiatric disorders, list all major behavioural diagnoses, e.g. depression, anxiety, etcetera."
+        ],
+        [
+            "Penny",
+            "Oh, my god, what the hell does this have to do with my stupid shoulder?"
+        ],
+        [
+            "Sheldon",
+            "Episodes of sub psychotic rage."
+        ],
+        [
+            "Penny",
+            "Ass."
+        ],
+        [
+            "Sheldon",
+            "Possible Tourette\u2019s. All right, moles, lesions or other skin conditions. Soup tattoo on right buttock."
+        ],
+        [
+            "Penny",
+            "Hey, Sheldon, Sheldon, look, I am scared and in a lot of pain. Could you please just take a break from being you for just a minute and try being, I don\u2019t know, comforting?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. There, there. Everything\u2019s going to be fine. Sheldon\u2019s here."
+        ],
+        [
+            "Penny",
+            "Thanks. That\u2019s much better."
+        ],
+        [
+            "Scene",
+            "The camp site."
+        ],
+        [
+            "Raj",
+            "Oh, I\u2019m so hungry!"
+        ],
+        [
+            "Leonard",
+            "Will you shut up? We\u2019re all hungry."
+        ],
+        [
+            "Howard",
+            "Okay, our objective is the boy scout campsite to the east. Easy target. Big doughy scout master, couple of cubs, most webelos."
+        ],
+        [
+            "Leonard",
+            "What kind of score are we looking at?"
+        ],
+        [
+            "Howard",
+            "Hot dogs, buns, s\u2019mores, I mean, it\u2019s a freaking 7-11."
+        ],
+        [
+            "Leonard",
+            "All right, everyone grab flashlights."
+        ],
+        [
+            "Howard",
+            "Oh, my god, could it be? Yes! My mother put an I love you brisket in my backpack."
+        ],
+        [
+            "Leonard",
+            "Quick, get forks."
+        ],
+        [
+            "Howard",
+            "You don\u2019t need forks. It\u2019s so tender, it falls apart in your hands."
+        ],
+        [
+            "Raj",
+            "He\u2019s right."
+        ],
+        [
+            "Leonard",
+            "I feel like we\u2019re forgetting something important."
+        ],
+        [
+            "Raj",
+            "Me, too. But what? (Behind them, the meteor shower has begun)"
+        ],
+        [
+            "Howard",
+            "Maybe a tupperware bowl of roasted potatoes and carrots?"
+        ],
+        [
+            "Leonard and Raj together",
+            "Yes! Yes!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "Now remember, you were given powerful pain medication and a muscle relaxer, so, uh, don\u2019t operate heavy machinery. Try not to choke on your own drool."
+        ],
+        [
+            "Penny",
+            "Wait. You have to help me get into bed. Sheldon has to get me into bed. Bet you never thought I\u2019d say that."
+        ],
+        [
+            "Sheldon",
+            "Yes. The charm of your drug addled candour knows no bounds."
+        ],
+        [
+            "Penny",
+            "You know, people think you\u2019re this weird robot man who\u2019s so annoying all the time, and you totally are, but then it\u2019s like that movie Wall-E at the end. You\u2019re so full of love, and you can save a plant and get fat people out of the floaty chairs."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a fairly laboured metaphor, but I appreciate the sentiment behind it."
+        ],
+        [
+            "Penny",
+            "Sing \u201cSoft Kitty\u201d to me."
+        ],
+        [
+            "Sheldon",
+            "\u201cSoft Kitty\u201d is for when you\u2019re sick. You\u2019re not sick."
+        ],
+        [
+            "Penny",
+            "Injured and drugged is a kind of sick."
+        ],
+        [
+            "Sheldon (singing)",
+            "Soft kitty, warm kitty, little ball of fur\u2026"
+        ],
+        [
+            "Penny",
+            "Wait, wait. Let\u2019s sing it as a round. I\u2019ll start. Soft kitty, warm kitty, little ball of fur\u2026 See that\u2019s where you come in. I\u2019ll start over. Soft kitty, warm kitty, little ball of fur\u2026 I\u2019ve got all night, Sheldon. Soft kitty, warm kitty\u2026 (Sheldon joins in with the round) little ball of fur, happy kitty, sleepy kitty, purr, purr, purr."
+        ],
+        [
+            "Scene",
+            "The camp site. Raj is telling a ghost story with the torch on his face."
+        ],
+        [
+            "Raj",
+            "\u2026And the next morning when he woke up, he rolled over and realized\u2026 duh-duh-duh! \u2026she was his cousin."
+        ],
+        [
+            "Howard",
+            "That\u2019s still not funny."
+        ],
+        [
+            "Raj (imitating him)",
+            "That\u2019s still not funny."
+        ],
+        [
+            "Howard",
+            "And she was my second cousin."
+        ],
+        [
+            "Raj (imitating him)",
+            "And she was my second cousin."
+        ],
+        [
+            "Howard",
+            "You\u2019re a real douche."
+        ],
+        [
+            "Raj",
+            "Who cares? You slept with your cousin."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-08-the-adhesive-duck-deficiency/"
+}

@@ -1,0 +1,1762 @@
+{
+    "Season": 2,
+    "Episode": 13,
+    "Title": "the friendship algorithm",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The university cafeteria"
+            ],
+            [
+                34,
+                "Credits sequence."
+            ],
+            [
+                36,
+                "The apartment."
+            ],
+            [
+                55,
+                "Outside Penny\u2019s door."
+            ],
+            [
+                72,
+                "The apartment. Sheldon is reading one of the questionnaires. He tuts."
+            ],
+            [
+                99,
+                "A bookshop."
+            ],
+            [
+                128,
+                "The stairwell."
+            ],
+            [
+                146,
+                "Rock climbing centre. Sheldon and Kripke are watching someone descend the practice wall."
+            ],
+            [
+                168,
+                "The apartment."
+            ],
+            [
+                212,
+                "The climbing centre."
+            ],
+            [
+                216,
+                "Sheldon is seen dangling from the ropes"
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "Mmm, gentlemen, I put it to you, the worst tapioca pudding is better than the best pudding of any other flavour."
+            ],
+            [
+                7,
+                "Really? I once saw him shopping at Ralph\u2019s. He was buying tequila."
+            ],
+            [
+                12,
+                "Feel better now?"
+            ],
+            [
+                18,
+                "Don\u2019t feel bad Leonard, negative results are still results."
+            ],
+            [
+                22,
+                "Yeah, he\u2019s a ginormous knob."
+            ],
+            [
+                24,
+                "Fo\u2019 shizzle."
+            ],
+            [
+                129,
+                "I\u2019m curious. In the \u201cHow Well Do You Know Sheldon\u201d section, what do you put for his favourite amino acid?"
+            ],
+            [
+                131,
+                "Damn it. I had Lysine and changed it."
+            ],
+            [
+                136,
+                "Stu the cockatoo?"
+            ],
+            [
+                215,
+                "He almost made it to the top this time."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "First off, that is axiomatically wrong, because the best pudding is chocolate. Secondly, the organic structure of tapioca makes it a jiggling bowl of potential death. It is extracted from the plant\u2026"
+            ],
+            [
+                5,
+                "It is extracted from the plant\u2026"
+            ],
+            [
+                11,
+                "Tapioca is extracted from the root of the plant Manihot Esculenta. Due to a high concentration of cyanide it is poisonous in its raw form and lethal if prepared improperly."
+            ],
+            [
+                13,
+                "It is also indigenous to Brazil, as is the Cocoa Bean, from which we get chocolate, the best pudding. And you promised you wouldn\u2019t do that anymore!"
+            ],
+            [
+                25,
+                "Hey it\u2019s true, Kripke lacks the basic social skills that we take for granted, but he also controls the new open science grid computer that I need to use to run some simulations of structure formation in the early universe."
+            ],
+            [
+                27,
+                "Well then, the solution is simple. I shall befriend him. Kripke!"
+            ],
+            [
+                29,
+                "What\u2019d you say of the idea of you and I becoming friends?"
+            ],
+            [
+                31,
+                "Really? That seems rather short sighted, coming from someone who is generally considered altogether unlikable. Why don\u2019t you take some time to reconsider?"
+            ],
+            [
+                33,
+                "Well I think we\u2019re off to a terrific start."
+            ],
+            [
+                54,
+                "First warning."
+            ],
+            [
+                59,
+                "Hi."
+            ],
+            [
+                61,
+                "It\u2019s a questionnaire I devised. I\u2019m having some difficulty bonding with a colleague at work, so I\u2019m doing a little research to better understand why my current friends like me."
+            ],
+            [
+                63,
+                "Yeah, I agree, the social sciences are largely hokum. But, short of putting electrodes in your brain and monitoring your response to my companionship, this is the best I can do."
+            ],
+            [
+                65,
+                "I know, I may have started off with a fairly obvious one. You did an aspect of my most appealing trait, playfulness. Why don\u2019t you just go ahead and write that number 1. I\u2019m afraid you\u2019re on your own for the rest. It should take you no more than 3 hours."
+            ],
+            [
+                67,
+                "Only 211. Don\u2019t worry, in deference to you, I\u2019ve kept them on a high school graduate reading level."
+            ],
+            [
+                69,
+                "You got it, buddy."
+            ],
+            [
+                71,
+                "Well that\u2019s certainly a thought-provoking hypothesis. May I suggest it as the topic for your essay."
+            ],
+            [
+                73,
+                "Your questionnaire, very disappointing."
+            ],
+            [
+                75,
+                "You answered the multiple choice questions in a pattern. A B B A C. A B B A C."
+            ],
+            [
+                77,
+                "How could I not?"
+            ],
+            [
+                81,
+                "Yes, well it\u2019s better than what Wolowitz did. He drew a raccoon with what appears to be, a distended scrotum."
+            ],
+            [
+                83,
+                "What hope do I have for establishing new relationships given that my current friends apparently cannot take a few hours out of their lives to help me?"
+            ],
+            [
+                85,
+                "I don\u2019t see how you could."
+            ],
+            [
+                87,
+                "What do you mean!?"
+            ],
+            [
+                89,
+                "I did learn how to swim."
+            ],
+            [
+                91,
+                "The skills are transferrable. I just have no interest in going in the water."
+            ],
+            [
+                93,
+                "The ice caps are melting Leonard. In the future, swimming isn\u2019t going to be optional. But you do bring up an interesting point. I don\u2019t have to break new ground here, I\u2019m sure much of the research already exists."
+            ],
+            [
+                95,
+                "That\u2019s insane on the face of it. Come on."
+            ],
+            [
+                97,
+                "You\u2019re driving me to the mall. I\u2019m going to acquire a book that summarizes the current theories in the field of friendmaking."
+            ],
+            [
+                101,
+                "Coping with the death of a loved one. My condolences."
+            ],
+            [
+                103,
+                "Family or friend?"
+            ],
+            [
+                105,
+                "Too bad. If it\u2019d been a friend, I\u2019m available to fill the void. (Woman moves away) It\u2019s just as well, she smelled like moth balls."
+            ],
+            [
+                107,
+                "Excuse me. Do you have any books about making friends?"
+            ],
+            [
+                109,
+                "I assume the skills can be extrapolated and transferred."
+            ],
+            [
+                111,
+                "Oh! I love trains!"
+            ],
+            [
+                115,
+                "Me too! Most people don\u2019t see it. What are you reading?"
+            ],
+            [
+                117,
+                "Oh I do like monkeys!"
+            ],
+            [
+                119,
+                "Somewhat anthropomorphized but yes. Say, maybe sometime you and I can go see monkeys together. Would you like that?"
+            ],
+            [
+                122,
+                "I\u2019m making friends with this little girl. What\u2019s your name?"
+            ],
+            [
+                124,
+                "Hi Rebecca, I\u2019m your new friend, Sheldon."
+            ],
+            [
+                126,
+                "We were really hitting it off."
+            ],
+            [
+                132,
+                "Oh good! You\u2019re just in time. I believe I\u2019ve isolated the algorithm for making friends."
+            ],
+            [
+                135,
+                "See, my initial approach to Kripke, had the same deficiencies as those that plagued Stu the Cockatoo, when he was new at the zoo."
+            ],
+            [
+                138,
+                "It\u2019s a terrific book. I\u2019ve distilled its essence into a simple flowchart that would guide me through the process."
+            ],
+            [
+                143,
+                "Mmhmm. Mmhmm. It\u2019s interesting. But isn\u2019t ventriloquism, by definition, a solo activity? Yeah? Tell me another interest of yours. Hmmm. Is there any chance you like monkeys? What is wrong with you? Everybody likes monkeys. Hang on, Kripke. (Checking changes Howard has made to his flowchart) A loop counter? And an escape to the least objectionable activity! Howard, that\u2019s brilliant! I\u2019m surprised you saw that."
+            ],
+            [
+                145,
+                "Alright Kripke, that last interest strikes me as the least objectionable and I would like to propose that we do that together. Tomorrow. Yes, I\u2019ll pay. Alright, goodbye. Alright! Time to learn rock climbing."
+            ],
+            [
+                147,
+                "You know, I am a fan of ventriloquism. Maybe you, me and your dummy could go get a hot beverage. He could talk while you drink."
+            ],
+            [
+                149,
+                "This appears significantly more monolithic than it did on my laptop. No, one expects to see Hominids learning to use bones as weapeons."
+            ],
+            [
+                151,
+                "Hardly. Fear of heights is illogical. Fear of falling, on the other hand, is prudent and evolutionary. What would you say is the minimum altitude I need to achieve to cement our new-found friendship?"
+            ],
+            [
+                153,
+                "Little kid Hominids, perhaps. (To man who attaches him to ropes) Is this your entire job? Your parents must be so proud."
+            ],
+            [
+                155,
+                "Coming, Kripke. Okay. Harness seems to be secure. Small amount of incontinence just now, but the website said that\u2019s to be expected. Hey, this isn\u2019t so bad. A bit like vertical swimming."
+            ],
+            [
+                157,
+                "I am? I was wrong. It IS a fear of heights."
+            ],
+            [
+                159,
+                "Not really. I feel somewhat like an inverse tangent function that\u2019s approaching an asymptote."
+            ],
+            [
+                161,
+                "What part of an inverse tangent function approaching an asymptote did you not understand?"
+            ],
+            [
+                163,
+                "Yeah, I don\u2019t think I can."
+            ],
+            [
+                165,
+                "No, that doesn\u2019t seem any more likely."
+            ],
+            [
+                167,
+                "Well, it\u2019s not exactly a plan but I think I\u2019m going to pass out."
+            ],
+            [
+                172,
+                "Hello, everyone. I brought my new friend, Barry Kripke, home for dinner."
+            ],
+            [
+                177,
+                "D-d-d! That\u2019s where I sit."
+            ],
+            [
+                185,
+                "Oh yes, I pass out all the time. But, it was worth it. I\u2019ve made substantial progress in bonding with Kripke, which brings me to an awkward moment."
+            ],
+            [
+                187,
+                "Maintaining five friendships promises to be a Herculean task. So, I\u2019m going to have to let one of you go."
+            ],
+            [
+                189,
+                "Leonard, you are my roommate, my source of transportation and you help me fold my sheets when they come out of the dryer. You are safe."
+            ],
+            [
+                191,
+                "Don\u2019t be silly. Howard, you do not have a PhD, your cologne is an assault on the senses and you\u2019re not available for video games during the Jewish high holidays."
+            ],
+            [
+                193,
+                "No. You, too, are safe."
+            ],
+            [
+                196,
+                "Penny, Penny, Penny. Everything you\u2019re saying is true, but please allow me to continue. Raj, you\u2019re out. The good question, while you do provide a certain cultural diversity to an otherwise homogenous group, your responses to the questionnaire were truly disturbing. How could you, for a moment, think that my favourite amino acid is Glutamine?"
+            ],
+            [
+                198,
+                "Yeah. Shoulda, woulda coulda, Raj."
+            ],
+            [
+                205,
+                "So uh, Kripke, I was wondering if there\u2019s any chance you could get me some time on the open science grid computer."
+            ],
+            [
+                207,
+                "No? But we\u2019re friends!"
+            ],
+            [
+                209,
+                "I\u2019m confused. I was given an understanding that you allow your friends time on the machine?"
+            ],
+            [
+                211,
+                "Oh. This entire endeavour seems to have been an exercise in futility. Raj, you\u2019re back in. He likes monkeys."
+            ]
+        ],
+        "Howard": [
+            [
+                3,
+                "Hey, I\u2019m thinking of growing a mustache."
+            ],
+            [
+                6,
+                "I\u2019m not sure yet. You know, George Clooney has one now!"
+            ],
+            [
+                8,
+                "Oh, you\u2019d think a guy like that would have some kind of booze lackey."
+            ],
+            [
+                10,
+                "Alright Sheldon, why is tapioca\u2026"
+            ],
+            [
+                17,
+                "What a jerk."
+            ],
+            [
+                19,
+                "Even twenty thousand of \u2019em."
+            ],
+            [
+                21,
+                "C\u2019mon, don\u2019t let him get to you. It\u2019s Kripke."
+            ],
+            [
+                23,
+                "That\u2019s why he eats by himself, instead of sitting here at the cool table."
+            ],
+            [
+                134,
+                "Hear him out. If he\u2019s really on to something, we can open a booth at Comic-Con, make a fortune."
+            ],
+            [
+                139,
+                "Have you thought about putting him in a crate while you\u2019re out of the apartment?"
+            ],
+            [
+                142,
+                "I can fix it."
+            ],
+            [
+                144,
+                "Gee. Why can\u2019t Sheldon make friends?"
+            ],
+            [
+                170,
+                "Okay. 1, 2, 1, 2, 3 and\u2026 (Leonard, Howard and Raj whistle \u201cSweet Georgia Brown\u201d together)"
+            ],
+            [
+                179,
+                "How much time you got?"
+            ],
+            [
+                188,
+                "Me, me. Let it be me."
+            ],
+            [
+                192,
+                "Guilty as charged. I\u2019m out."
+            ],
+            [
+                194,
+                "Oh come on. What do I have to do?"
+            ],
+            [
+                204,
+                "Suddenly I\u2019m looking pretty good, huh?"
+            ],
+            [
+                213,
+                "You gotta give him credit for sticking with it."
+            ]
+        ],
+        "Leonard": [
+            [
+                4,
+                "Ah, no kidding! A Fu Man Chu? A handlebar pencil?"
+            ],
+            [
+                9,
+                "Alright this is cruel, we better let him finish before his head explodes."
+            ],
+            [
+                15,
+                "Hey Kripke."
+            ],
+            [
+                20,
+                "Alright, please don\u2019t cheer me up anymore."
+            ],
+            [
+                26,
+                "Good luck getting time on it. The only people he lets use it are his friends."
+            ],
+            [
+                37,
+                "There you go. Now any e-mail from Wolowitz will go right into your spam folder."
+            ],
+            [
+                39,
+                "Yeah, I got the same one. And that\u2019s not a bathing suit, it\u2019s a tan line."
+            ],
+            [
+                42,
+                "Oh he\u2019s trying to make a new friend."
+            ],
+            [
+                44,
+                "Well, unless he\u2019s makes one out of wood like Gepetto, I don\u2019t think it\u2019s gonna happen."
+            ],
+            [
+                46,
+                "There was a flier on the bulletin board at the university. Roommate wanted. Whistlers need not apply."
+            ],
+            [
+                48,
+                "I assumed he was joking. You\u2019d be surprised how many particle physicists have a whimsical side."
+            ],
+            [
+                50,
+                "I don\u2019t know, how do carbon atoms form a benzene ring? Proximity and valence electrons."
+            ],
+            [
+                52,
+                "I suppose. I do miss whistling though."
+            ],
+            [
+                74,
+                "I answered every question Sheldon."
+            ],
+            [
+                76,
+                "Aw, you picked up on that huh?"
+            ],
+            [
+                78,
+                "Come on! There\u2019s over 200 questions. And look at some of these things. Sheldon is to camaraderie, as the space shuttle is to blank?"
+            ],
+            [
+                80,
+                "Hold on. I put some real work into that!"
+            ],
+            [
+                82,
+                "It\u2019s kinda cute, until you get to the scrotum."
+            ],
+            [
+                84,
+                "Sheldon, I\u2019m not going to defend a big-balled raccoon."
+            ],
+            [
+                86,
+                "What I\u2019m trying to say is that, maybe you can\u2019t approach this as a purely intellectual exercise."
+            ],
+            [
+                88,
+                "Well, remember when you tried to learn how to swim using the internet?"
+            ],
+            [
+                90,
+                "On the floor."
+            ],
+            [
+                92,
+                "Then why learn how to swim?"
+            ],
+            [
+                94,
+                "No! no, my point is, if you want to learn how to make friends, then just go out to a coffee shop or a museum. Meet people. Talk to them. Take an interest in their lives."
+            ],
+            [
+                96,
+                "Where are we going?"
+            ],
+            [
+                98,
+                "Why don\u2019t you just lie down on the floor and swim there?"
+            ],
+            [
+                106,
+                "Okay, if you\u2019re gonna start sniffing people, I\u2019m gonna go get a hot pretzel."
+            ],
+            [
+                121,
+                "Sheldon, what are you doing?"
+            ],
+            [
+                125,
+                "No you\u2019re not, let\u2019s go."
+            ],
+            [
+                127,
+                "Don\u2019t look up, there\u2019s cameras."
+            ],
+            [
+                133,
+                "Sheldon, there is no algorithm for making friends!"
+            ],
+            [
+                137,
+                "Yes, he\u2019s new at the zoo."
+            ],
+            [
+                141,
+                "Uh-oh, he\u2019s stuck in an infinite loop."
+            ],
+            [
+                169,
+                "I\u2019m sorry. Can we please just do it one more time?"
+            ],
+            [
+                171,
+                "It\u2019s a little thing but you really do miss it."
+            ],
+            [
+                175,
+                "How was rock climbing?"
+            ],
+            [
+                180,
+                "Want some Chinese food?"
+            ],
+            [
+                182,
+                "In the bathroom."
+            ],
+            [
+                186,
+                "What\u2019s that?"
+            ],
+            [
+                190,
+                "Can I whistle?"
+            ],
+            [
+                197,
+                "He had Lysine but changed it."
+            ],
+            [
+                214,
+                "I didn\u2019t think he had it in him."
+            ]
+        ],
+        "Kripke (arriving)": [
+            [
+                14,
+                "Hey Hofstadter!"
+            ]
+        ],
+        "Kripke": [
+            [
+                16,
+                "Heard about your watest pwoton decay expewiment, twenty thousand data wuns and no statistically significant wesults. Vewy impwessive!"
+            ],
+            [
+                28,
+                "Yeah?"
+            ],
+            [
+                30,
+                "I would say, I have no intewest in becoming your fwiend."
+            ],
+            [
+                32,
+                "Yeah, I\u2019ll do that."
+            ],
+            [
+                148,
+                "Nope, I wanna climb some wocks."
+            ],
+            [
+                150,
+                "You afwaid of heights, Cooper?"
+            ],
+            [
+                152,
+                "Come on, they have birthday parties here. Wittle kids climb this."
+            ],
+            [
+                154,
+                "Let\u2019s go, Cooper."
+            ],
+            [
+                156,
+                "Hey, look at you, Cooper. You\u2019re almost halfway to the top."
+            ],
+            [
+                158,
+                "You alwight there, Cooper?"
+            ],
+            [
+                160,
+                "Are you saying you\u2019re stuck?"
+            ],
+            [
+                162,
+                "Understood all that. I\u2019m not a mowon. Just keep going."
+            ],
+            [
+                164,
+                "Well, then. Cwimb back down."
+            ],
+            [
+                166,
+                "So what\u2019s the pwan, Cooper?"
+            ],
+            [
+                174,
+                "Hewo to you, too."
+            ],
+            [
+                176,
+                "He passed out. Just hung there like a big sawami."
+            ],
+            [
+                178,
+                "Ooh, you have a special spot. What kind of wacko are you?"
+            ],
+            [
+                181,
+                "Tewific. Got any dental fwoss?"
+            ],
+            [
+                183,
+                "Be right back. I gotta fwoss the Indian food out of my teeth if I\u2019m gonna eat Chinese."
+            ],
+            [
+                199,
+                "I like to fwoss before I eat, so my gum pockets are open for new food."
+            ],
+            [
+                201,
+                "Hewo. How did I walk past you? I\u2019m Bawy."
+            ],
+            [
+                203,
+                "Yeah, it\u2019s not a vewy hot name. I\u2019m gonna call your Woxanne. Ooh, pot stickers."
+            ],
+            [
+                206,
+                "No."
+            ],
+            [
+                208,
+                "I\u2019m sowy. No, my fwiend?"
+            ],
+            [
+                210,
+                "No, that\u2019s wong. There\u2019s an official schedule. I have no contwol over it."
+            ]
+        ],
+        "Penny": [
+            [
+                38,
+                "Thanks! I mean the e-mail doesn\u2019t bother me as much as the vacation pictures of him in a bathing suit."
+            ],
+            [
+                41,
+                "What\u2019s up with Ichabod?"
+            ],
+            [
+                43,
+                "Oh really? Well, good for him."
+            ],
+            [
+                45,
+                "Well, how did you guys become friends?"
+            ],
+            [
+                47,
+                "And you moved in anyway?"
+            ],
+            [
+                49,
+                "Well, what about Howard and Raj, I mean how did you become friends with them?"
+            ],
+            [
+                51,
+                "Well yeah, sure. When you put it that way. But it all worked out, right?"
+            ],
+            [
+                53,
+                "Oh come on, really? (Leonard whistles)"
+            ],
+            [
+                58,
+                "Hello Sheldon."
+            ],
+            [
+                60,
+                "What is this?"
+            ],
+            [
+                62,
+                "Yes. Well, that is a good question. But is this really the best way to figure it out?"
+            ],
+            [
+                64,
+                "Okay, question 1. Rank the following aspects of Sheldon Cooper in order of appeal. Intelligence. Ruthless attention to hygiene. Playfulness. Java applet writing?"
+            ],
+            [
+                66,
+                "Wait! How many questions are on this thing?"
+            ],
+            [
+                68,
+                "Thanks pal."
+            ],
+            [
+                70,
+                "Sheldon honey, did you ever consider making friends by being, I don\u2019t know, pleasant?"
+            ],
+            [
+                184,
+                "Sheldon, are you okay?"
+            ],
+            [
+                195,
+                "Okay. You know what? I see where this is going. I\u2019m not one of you guys. I\u2019m not a scientist. So just\u2026"
+            ],
+            [
+                200,
+                "Eww."
+            ],
+            [
+                202,
+                "Penny."
+            ]
+        ],
+        "Sheldon (on phone)": [
+            [
+                40,
+                "Hello. This is Sheldon Cooper. I\u2019m leaving a message for Barry Kripke. Barry, It was pleasant seeing you today in the cafeteria. I saw that you purchased the chef\u2019s salad. Apparently, you did not know that the chef\u2019s salad is kitchen trickery, to utilize scrap meat. Nevertheless, I hope you enjoyed it. I\u2019m following up on our pending friendship, and I look forward to hearing from you regarding its status. Sheldon Cooper."
+            ],
+            [
+                140,
+                "Hello, Kripke. Yes, Sheldon Cooper here. It occurred to me you hadn\u2019t returned any of my calls because I hadn\u2019t offered any concrete suggestions for pursuing our friendship. Perhaps the two of us might share a meal together\u2026 I see. Well then perhaps you\u2019d have time for a hot beverage. Popular choices include tea, coffee, cocoa\u2026 I see. No, no, no, wait. Don\u2019t hang up yet. What about a recreational activity? I bet we share some common interests. Tell me an interest of yours. Really? On actual horses? Tell me another interest of yours. Oh no, I\u2019m sorry, I have no desire to get in the water until I absolutely have to. Tell me another interest of yours."
+            ]
+        ],
+        "Sheldon (Knock, knock, knock) ": [
+            [
+                57,
+                "Penny (knock, knock, knock)  Penny (knock, knock, knock)  Penny.This is for you."
+            ]
+        ],
+        "Sheldon: There are a number of acceptable answers, for example, C: near earth transport, but certainly not B": [
+            [
+                79,
+                "avocado rancher. And your essay, suggesting that I\u2019d have better luck making friends if I wait \u2019til the Cylons take over? Please."
+            ]
+        ],
+        "Woman in queue": [
+            [
+                102,
+                "Thank you."
+            ]
+        ],
+        "Woman": [
+            [
+                104,
+                "Family."
+            ]
+        ],
+        "Bookstore employee": [
+            [
+                108,
+                "Um, yeah but they\u2019re all for little kids."
+            ]
+        ],
+        "Employee": [
+            [
+                110,
+                "Uh, I guess. They\u2019re right over there by the wooden train set."
+            ],
+            [
+                112,
+                "I bet you do."
+            ]
+        ],
+        "Sheldon (picks up train)": [
+            [
+                113,
+                "Oh my! That\u2019s awfully sticky. Alright, let\u2019s see. Bernie Bunny has Two Daddies Now. It\u2019s probably about homosexual rabbits. Jerry the Gerbil and the Bullies on the Bus. Read it, not helpful. Oh! Here we go. Stu the Cockatoo is New at the Zoo. Author Sarah Carpenter lives in Fort Wayne, Indiana, with her husband and best friend Mark, and their cockatoos too. Hardly makes her an expert in making friends, wouldn\u2019t you agree?"
+            ]
+        ],
+        "Little girl": [
+            [
+                114,
+                "I don\u2019t like birds, they scare me."
+            ]
+        ],
+        "Girl": [
+            [
+                116,
+                "Curious George."
+            ],
+            [
+                118,
+                "Curious George is a monkey."
+            ],
+            [
+                120,
+                "Okay."
+            ],
+            [
+                123,
+                "Rebecca."
+            ]
+        ],
+        "Leonard and Howard": [
+            [
+                130,
+                "Lysine."
+            ]
+        ],
+        "Together": [
+            [
+                173,
+                "Oh\u2026"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The university cafeteria"
+        ],
+        [
+            "Raj",
+            "Mmm, gentlemen, I put it to you, the worst tapioca pudding is better than the best pudding of any other flavour."
+        ],
+        [
+            "Sheldon",
+            "First off, that is axiomatically wrong, because the best pudding is chocolate. Secondly, the organic structure of tapioca makes it a jiggling bowl of potential death. It is extracted from the plant\u2026"
+        ],
+        [
+            "Howard",
+            "Hey, I\u2019m thinking of growing a mustache."
+        ],
+        [
+            "Leonard",
+            "Ah, no kidding! A Fu Man Chu? A handlebar pencil?"
+        ],
+        [
+            "Sheldon",
+            "It is extracted from the plant\u2026"
+        ],
+        [
+            "Howard",
+            "I\u2019m not sure yet. You know, George Clooney has one now!"
+        ],
+        [
+            "Raj",
+            "Really? I once saw him shopping at Ralph\u2019s. He was buying tequila."
+        ],
+        [
+            "Howard",
+            "Oh, you\u2019d think a guy like that would have some kind of booze lackey."
+        ],
+        [
+            "Leonard",
+            "Alright this is cruel, we better let him finish before his head explodes."
+        ],
+        [
+            "Howard",
+            "Alright Sheldon, why is tapioca\u2026"
+        ],
+        [
+            "Sheldon",
+            "Tapioca is extracted from the root of the plant Manihot Esculenta. Due to a high concentration of cyanide it is poisonous in its raw form and lethal if prepared improperly."
+        ],
+        [
+            "Raj",
+            "Feel better now?"
+        ],
+        [
+            "Sheldon",
+            "It is also indigenous to Brazil, as is the Cocoa Bean, from which we get chocolate, the best pudding. And you promised you wouldn\u2019t do that anymore!"
+        ],
+        [
+            "Kripke (arriving)",
+            "Hey Hofstadter!"
+        ],
+        [
+            "Leonard",
+            "Hey Kripke."
+        ],
+        [
+            "Kripke",
+            "Heard about your watest pwoton decay expewiment, twenty thousand data wuns and no statistically significant wesults. Vewy impwessive!"
+        ],
+        [
+            "Howard",
+            "What a jerk."
+        ],
+        [
+            "Raj",
+            "Don\u2019t feel bad Leonard, negative results are still results."
+        ],
+        [
+            "Howard",
+            "Even twenty thousand of \u2019em."
+        ],
+        [
+            "Leonard",
+            "Alright, please don\u2019t cheer me up anymore."
+        ],
+        [
+            "Howard",
+            "C\u2019mon, don\u2019t let him get to you. It\u2019s Kripke."
+        ],
+        [
+            "Raj",
+            "Yeah, he\u2019s a ginormous knob."
+        ],
+        [
+            "Howard",
+            "That\u2019s why he eats by himself, instead of sitting here at the cool table."
+        ],
+        [
+            "Raj",
+            "Fo\u2019 shizzle."
+        ],
+        [
+            "Sheldon",
+            "Hey it\u2019s true, Kripke lacks the basic social skills that we take for granted, but he also controls the new open science grid computer that I need to use to run some simulations of structure formation in the early universe."
+        ],
+        [
+            "Leonard",
+            "Good luck getting time on it. The only people he lets use it are his friends."
+        ],
+        [
+            "Sheldon",
+            "Well then, the solution is simple. I shall befriend him. Kripke!"
+        ],
+        [
+            "Kripke",
+            "Yeah?"
+        ],
+        [
+            "Sheldon",
+            "What\u2019d you say of the idea of you and I becoming friends?"
+        ],
+        [
+            "Kripke",
+            "I would say, I have no intewest in becoming your fwiend."
+        ],
+        [
+            "Sheldon",
+            "Really? That seems rather short sighted, coming from someone who is generally considered altogether unlikable. Why don\u2019t you take some time to reconsider?"
+        ],
+        [
+            "Kripke",
+            "Yeah, I\u2019ll do that."
+        ],
+        [
+            "Sheldon",
+            "Well I think we\u2019re off to a terrific start."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "There you go. Now any e-mail from Wolowitz will go right into your spam folder."
+        ],
+        [
+            "Penny",
+            "Thanks! I mean the e-mail doesn\u2019t bother me as much as the vacation pictures of him in a bathing suit."
+        ],
+        [
+            "Leonard",
+            "Yeah, I got the same one. And that\u2019s not a bathing suit, it\u2019s a tan line."
+        ],
+        [
+            "Sheldon (on phone)",
+            "Hello. This is Sheldon Cooper. I\u2019m leaving a message for Barry Kripke. Barry, It was pleasant seeing you today in the cafeteria. I saw that you purchased the chef\u2019s salad. Apparently, you did not know that the chef\u2019s salad is kitchen trickery, to utilize scrap meat. Nevertheless, I hope you enjoyed it. I\u2019m following up on our pending friendship, and I look forward to hearing from you regarding its status. Sheldon Cooper."
+        ],
+        [
+            "Penny",
+            "What\u2019s up with Ichabod?"
+        ],
+        [
+            "Leonard",
+            "Oh he\u2019s trying to make a new friend."
+        ],
+        [
+            "Penny",
+            "Oh really? Well, good for him."
+        ],
+        [
+            "Leonard",
+            "Well, unless he\u2019s makes one out of wood like Gepetto, I don\u2019t think it\u2019s gonna happen."
+        ],
+        [
+            "Penny",
+            "Well, how did you guys become friends?"
+        ],
+        [
+            "Leonard",
+            "There was a flier on the bulletin board at the university. Roommate wanted. Whistlers need not apply."
+        ],
+        [
+            "Penny",
+            "And you moved in anyway?"
+        ],
+        [
+            "Leonard",
+            "I assumed he was joking. You\u2019d be surprised how many particle physicists have a whimsical side."
+        ],
+        [
+            "Penny",
+            "Well, what about Howard and Raj, I mean how did you become friends with them?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know, how do carbon atoms form a benzene ring? Proximity and valence electrons."
+        ],
+        [
+            "Penny",
+            "Well yeah, sure. When you put it that way. But it all worked out, right?"
+        ],
+        [
+            "Leonard",
+            "I suppose. I do miss whistling though."
+        ],
+        [
+            "Penny",
+            "Oh come on, really? (Leonard whistles)"
+        ],
+        [
+            "Sheldon",
+            "First warning."
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s door."
+        ],
+        [
+            "Sheldon (Knock, knock, knock) ",
+            "Penny (knock, knock, knock)  Penny (knock, knock, knock)  Penny.This is for you."
+        ],
+        [
+            "Penny",
+            "Hello Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hi."
+        ],
+        [
+            "Penny",
+            "What is this?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a questionnaire I devised. I\u2019m having some difficulty bonding with a colleague at work, so I\u2019m doing a little research to better understand why my current friends like me."
+        ],
+        [
+            "Penny",
+            "Yes. Well, that is a good question. But is this really the best way to figure it out?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, I agree, the social sciences are largely hokum. But, short of putting electrodes in your brain and monitoring your response to my companionship, this is the best I can do."
+        ],
+        [
+            "Penny",
+            "Okay, question 1. Rank the following aspects of Sheldon Cooper in order of appeal. Intelligence. Ruthless attention to hygiene. Playfulness. Java applet writing?"
+        ],
+        [
+            "Sheldon",
+            "I know, I may have started off with a fairly obvious one. You did an aspect of my most appealing trait, playfulness. Why don\u2019t you just go ahead and write that number 1. I\u2019m afraid you\u2019re on your own for the rest. It should take you no more than 3 hours."
+        ],
+        [
+            "Penny",
+            "Wait! How many questions are on this thing?"
+        ],
+        [
+            "Sheldon",
+            "Only 211. Don\u2019t worry, in deference to you, I\u2019ve kept them on a high school graduate reading level."
+        ],
+        [
+            "Penny",
+            "Thanks pal."
+        ],
+        [
+            "Sheldon",
+            "You got it, buddy."
+        ],
+        [
+            "Penny",
+            "Sheldon honey, did you ever consider making friends by being, I don\u2019t know, pleasant?"
+        ],
+        [
+            "Sheldon",
+            "Well that\u2019s certainly a thought-provoking hypothesis. May I suggest it as the topic for your essay."
+        ],
+        [
+            "Scene",
+            "The apartment. Sheldon is reading one of the questionnaires. He tuts."
+        ],
+        [
+            "Sheldon",
+            "Your questionnaire, very disappointing."
+        ],
+        [
+            "Leonard",
+            "I answered every question Sheldon."
+        ],
+        [
+            "Sheldon",
+            "You answered the multiple choice questions in a pattern. A B B A C. A B B A C."
+        ],
+        [
+            "Leonard",
+            "Aw, you picked up on that huh?"
+        ],
+        [
+            "Sheldon",
+            "How could I not?"
+        ],
+        [
+            "Leonard",
+            "Come on! There\u2019s over 200 questions. And look at some of these things. Sheldon is to camaraderie, as the space shuttle is to blank?"
+        ],
+        [
+            "Sheldon: There are a number of acceptable answers, for example, C: near earth transport, but certainly not B",
+            "avocado rancher. And your essay, suggesting that I\u2019d have better luck making friends if I wait \u2019til the Cylons take over? Please."
+        ],
+        [
+            "Leonard",
+            "Hold on. I put some real work into that!"
+        ],
+        [
+            "Sheldon",
+            "Yes, well it\u2019s better than what Wolowitz did. He drew a raccoon with what appears to be, a distended scrotum."
+        ],
+        [
+            "Leonard",
+            "It\u2019s kinda cute, until you get to the scrotum."
+        ],
+        [
+            "Sheldon",
+            "What hope do I have for establishing new relationships given that my current friends apparently cannot take a few hours out of their lives to help me?"
+        ],
+        [
+            "Leonard",
+            "Sheldon, I\u2019m not going to defend a big-balled raccoon."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t see how you could."
+        ],
+        [
+            "Leonard",
+            "What I\u2019m trying to say is that, maybe you can\u2019t approach this as a purely intellectual exercise."
+        ],
+        [
+            "Sheldon",
+            "What do you mean!?"
+        ],
+        [
+            "Leonard",
+            "Well, remember when you tried to learn how to swim using the internet?"
+        ],
+        [
+            "Sheldon",
+            "I did learn how to swim."
+        ],
+        [
+            "Leonard",
+            "On the floor."
+        ],
+        [
+            "Sheldon",
+            "The skills are transferrable. I just have no interest in going in the water."
+        ],
+        [
+            "Leonard",
+            "Then why learn how to swim?"
+        ],
+        [
+            "Sheldon",
+            "The ice caps are melting Leonard. In the future, swimming isn\u2019t going to be optional. But you do bring up an interesting point. I don\u2019t have to break new ground here, I\u2019m sure much of the research already exists."
+        ],
+        [
+            "Leonard",
+            "No! no, my point is, if you want to learn how to make friends, then just go out to a coffee shop or a museum. Meet people. Talk to them. Take an interest in their lives."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s insane on the face of it. Come on."
+        ],
+        [
+            "Leonard",
+            "Where are we going?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re driving me to the mall. I\u2019m going to acquire a book that summarizes the current theories in the field of friendmaking."
+        ],
+        [
+            "Leonard",
+            "Why don\u2019t you just lie down on the floor and swim there?"
+        ],
+        [
+            "Scene",
+            "A bookshop."
+        ],
+        [
+            "Sheldon",
+            "Coping with the death of a loved one. My condolences."
+        ],
+        [
+            "Woman in queue",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Family or friend?"
+        ],
+        [
+            "Woman",
+            "Family."
+        ],
+        [
+            "Sheldon",
+            "Too bad. If it\u2019d been a friend, I\u2019m available to fill the void. (Woman moves away) It\u2019s just as well, she smelled like moth balls."
+        ],
+        [
+            "Leonard",
+            "Okay, if you\u2019re gonna start sniffing people, I\u2019m gonna go get a hot pretzel."
+        ],
+        [
+            "Sheldon",
+            "Excuse me. Do you have any books about making friends?"
+        ],
+        [
+            "Bookstore employee",
+            "Um, yeah but they\u2019re all for little kids."
+        ],
+        [
+            "Sheldon",
+            "I assume the skills can be extrapolated and transferred."
+        ],
+        [
+            "Employee",
+            "Uh, I guess. They\u2019re right over there by the wooden train set."
+        ],
+        [
+            "Sheldon",
+            "Oh! I love trains!"
+        ],
+        [
+            "Employee",
+            "I bet you do."
+        ],
+        [
+            "Sheldon (picks up train)",
+            "Oh my! That\u2019s awfully sticky. Alright, let\u2019s see. Bernie Bunny has Two Daddies Now. It\u2019s probably about homosexual rabbits. Jerry the Gerbil and the Bullies on the Bus. Read it, not helpful. Oh! Here we go. Stu the Cockatoo is New at the Zoo. Author Sarah Carpenter lives in Fort Wayne, Indiana, with her husband and best friend Mark, and their cockatoos too. Hardly makes her an expert in making friends, wouldn\u2019t you agree?"
+        ],
+        [
+            "Little girl",
+            "I don\u2019t like birds, they scare me."
+        ],
+        [
+            "Sheldon",
+            "Me too! Most people don\u2019t see it. What are you reading?"
+        ],
+        [
+            "Girl",
+            "Curious George."
+        ],
+        [
+            "Sheldon",
+            "Oh I do like monkeys!"
+        ],
+        [
+            "Girl",
+            "Curious George is a monkey."
+        ],
+        [
+            "Sheldon",
+            "Somewhat anthropomorphized but yes. Say, maybe sometime you and I can go see monkeys together. Would you like that?"
+        ],
+        [
+            "Girl",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "Sheldon, what are you doing?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m making friends with this little girl. What\u2019s your name?"
+        ],
+        [
+            "Girl",
+            "Rebecca."
+        ],
+        [
+            "Sheldon",
+            "Hi Rebecca, I\u2019m your new friend, Sheldon."
+        ],
+        [
+            "Leonard",
+            "No you\u2019re not, let\u2019s go."
+        ],
+        [
+            "Sheldon",
+            "We were really hitting it off."
+        ],
+        [
+            "Leonard",
+            "Don\u2019t look up, there\u2019s cameras."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Raj",
+            "I\u2019m curious. In the \u201cHow Well Do You Know Sheldon\u201d section, what do you put for his favourite amino acid?"
+        ],
+        [
+            "Leonard and Howard",
+            "Lysine."
+        ],
+        [
+            "Raj",
+            "Damn it. I had Lysine and changed it."
+        ],
+        [
+            "Sheldon",
+            "Oh good! You\u2019re just in time. I believe I\u2019ve isolated the algorithm for making friends."
+        ],
+        [
+            "Leonard",
+            "Sheldon, there is no algorithm for making friends!"
+        ],
+        [
+            "Howard",
+            "Hear him out. If he\u2019s really on to something, we can open a booth at Comic-Con, make a fortune."
+        ],
+        [
+            "Sheldon",
+            "See, my initial approach to Kripke, had the same deficiencies as those that plagued Stu the Cockatoo, when he was new at the zoo."
+        ],
+        [
+            "Raj",
+            "Stu the cockatoo?"
+        ],
+        [
+            "Leonard",
+            "Yes, he\u2019s new at the zoo."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a terrific book. I\u2019ve distilled its essence into a simple flowchart that would guide me through the process."
+        ],
+        [
+            "Howard",
+            "Have you thought about putting him in a crate while you\u2019re out of the apartment?"
+        ],
+        [
+            "Sheldon (on phone)",
+            "Hello, Kripke. Yes, Sheldon Cooper here. It occurred to me you hadn\u2019t returned any of my calls because I hadn\u2019t offered any concrete suggestions for pursuing our friendship. Perhaps the two of us might share a meal together\u2026 I see. Well then perhaps you\u2019d have time for a hot beverage. Popular choices include tea, coffee, cocoa\u2026 I see. No, no, no, wait. Don\u2019t hang up yet. What about a recreational activity? I bet we share some common interests. Tell me an interest of yours. Really? On actual horses? Tell me another interest of yours. Oh no, I\u2019m sorry, I have no desire to get in the water until I absolutely have to. Tell me another interest of yours."
+        ],
+        [
+            "Leonard",
+            "Uh-oh, he\u2019s stuck in an infinite loop."
+        ],
+        [
+            "Howard",
+            "I can fix it."
+        ],
+        [
+            "Sheldon",
+            "Mmhmm. Mmhmm. It\u2019s interesting. But isn\u2019t ventriloquism, by definition, a solo activity? Yeah? Tell me another interest of yours. Hmmm. Is there any chance you like monkeys? What is wrong with you? Everybody likes monkeys. Hang on, Kripke. (Checking changes Howard has made to his flowchart) A loop counter? And an escape to the least objectionable activity! Howard, that\u2019s brilliant! I\u2019m surprised you saw that."
+        ],
+        [
+            "Howard",
+            "Gee. Why can\u2019t Sheldon make friends?"
+        ],
+        [
+            "Sheldon",
+            "Alright Kripke, that last interest strikes me as the least objectionable and I would like to propose that we do that together. Tomorrow. Yes, I\u2019ll pay. Alright, goodbye. Alright! Time to learn rock climbing."
+        ],
+        [
+            "Scene",
+            "Rock climbing centre. Sheldon and Kripke are watching someone descend the practice wall."
+        ],
+        [
+            "Sheldon",
+            "You know, I am a fan of ventriloquism. Maybe you, me and your dummy could go get a hot beverage. He could talk while you drink."
+        ],
+        [
+            "Kripke",
+            "Nope, I wanna climb some wocks."
+        ],
+        [
+            "Sheldon",
+            "This appears significantly more monolithic than it did on my laptop. No, one expects to see Hominids learning to use bones as weapeons."
+        ],
+        [
+            "Kripke",
+            "You afwaid of heights, Cooper?"
+        ],
+        [
+            "Sheldon",
+            "Hardly. Fear of heights is illogical. Fear of falling, on the other hand, is prudent and evolutionary. What would you say is the minimum altitude I need to achieve to cement our new-found friendship?"
+        ],
+        [
+            "Kripke",
+            "Come on, they have birthday parties here. Wittle kids climb this."
+        ],
+        [
+            "Sheldon",
+            "Little kid Hominids, perhaps. (To man who attaches him to ropes) Is this your entire job? Your parents must be so proud."
+        ],
+        [
+            "Kripke",
+            "Let\u2019s go, Cooper."
+        ],
+        [
+            "Sheldon",
+            "Coming, Kripke. Okay. Harness seems to be secure. Small amount of incontinence just now, but the website said that\u2019s to be expected. Hey, this isn\u2019t so bad. A bit like vertical swimming."
+        ],
+        [
+            "Kripke",
+            "Hey, look at you, Cooper. You\u2019re almost halfway to the top."
+        ],
+        [
+            "Sheldon",
+            "I am? I was wrong. It IS a fear of heights."
+        ],
+        [
+            "Kripke",
+            "You alwight there, Cooper?"
+        ],
+        [
+            "Sheldon",
+            "Not really. I feel somewhat like an inverse tangent function that\u2019s approaching an asymptote."
+        ],
+        [
+            "Kripke",
+            "Are you saying you\u2019re stuck?"
+        ],
+        [
+            "Sheldon",
+            "What part of an inverse tangent function approaching an asymptote did you not understand?"
+        ],
+        [
+            "Kripke",
+            "Understood all that. I\u2019m not a mowon. Just keep going."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I don\u2019t think I can."
+        ],
+        [
+            "Kripke",
+            "Well, then. Cwimb back down."
+        ],
+        [
+            "Sheldon",
+            "No, that doesn\u2019t seem any more likely."
+        ],
+        [
+            "Kripke",
+            "So what\u2019s the pwan, Cooper?"
+        ],
+        [
+            "Sheldon",
+            "Well, it\u2019s not exactly a plan but I think I\u2019m going to pass out."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry. Can we please just do it one more time?"
+        ],
+        [
+            "Howard",
+            "Okay. 1, 2, 1, 2, 3 and\u2026 (Leonard, Howard and Raj whistle \u201cSweet Georgia Brown\u201d together)"
+        ],
+        [
+            "Leonard",
+            "It\u2019s a little thing but you really do miss it."
+        ],
+        [
+            "Sheldon",
+            "Hello, everyone. I brought my new friend, Barry Kripke, home for dinner."
+        ],
+        [
+            "Together",
+            "Oh\u2026"
+        ],
+        [
+            "Kripke",
+            "Hewo to you, too."
+        ],
+        [
+            "Leonard",
+            "How was rock climbing?"
+        ],
+        [
+            "Kripke",
+            "He passed out. Just hung there like a big sawami."
+        ],
+        [
+            "Sheldon",
+            "D-d-d! That\u2019s where I sit."
+        ],
+        [
+            "Kripke",
+            "Ooh, you have a special spot. What kind of wacko are you?"
+        ],
+        [
+            "Howard",
+            "How much time you got?"
+        ],
+        [
+            "Leonard",
+            "Want some Chinese food?"
+        ],
+        [
+            "Kripke",
+            "Tewific. Got any dental fwoss?"
+        ],
+        [
+            "Leonard",
+            "In the bathroom."
+        ],
+        [
+            "Kripke",
+            "Be right back. I gotta fwoss the Indian food out of my teeth if I\u2019m gonna eat Chinese."
+        ],
+        [
+            "Penny",
+            "Sheldon, are you okay?"
+        ],
+        [
+            "Sheldon",
+            "Oh yes, I pass out all the time. But, it was worth it. I\u2019ve made substantial progress in bonding with Kripke, which brings me to an awkward moment."
+        ],
+        [
+            "Leonard",
+            "What\u2019s that?"
+        ],
+        [
+            "Sheldon",
+            "Maintaining five friendships promises to be a Herculean task. So, I\u2019m going to have to let one of you go."
+        ],
+        [
+            "Howard",
+            "Me, me. Let it be me."
+        ],
+        [
+            "Sheldon",
+            "Leonard, you are my roommate, my source of transportation and you help me fold my sheets when they come out of the dryer. You are safe."
+        ],
+        [
+            "Leonard",
+            "Can I whistle?"
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t be silly. Howard, you do not have a PhD, your cologne is an assault on the senses and you\u2019re not available for video games during the Jewish high holidays."
+        ],
+        [
+            "Howard",
+            "Guilty as charged. I\u2019m out."
+        ],
+        [
+            "Sheldon",
+            "No. You, too, are safe."
+        ],
+        [
+            "Howard",
+            "Oh come on. What do I have to do?"
+        ],
+        [
+            "Penny",
+            "Okay. You know what? I see where this is going. I\u2019m not one of you guys. I\u2019m not a scientist. So just\u2026"
+        ],
+        [
+            "Sheldon",
+            "Penny, Penny, Penny. Everything you\u2019re saying is true, but please allow me to continue. Raj, you\u2019re out. The good question, while you do provide a certain cultural diversity to an otherwise homogenous group, your responses to the questionnaire were truly disturbing. How could you, for a moment, think that my favourite amino acid is Glutamine?"
+        ],
+        [
+            "Leonard",
+            "He had Lysine but changed it."
+        ],
+        [
+            "Sheldon",
+            "Yeah. Shoulda, woulda coulda, Raj."
+        ],
+        [
+            "Kripke",
+            "I like to fwoss before I eat, so my gum pockets are open for new food."
+        ],
+        [
+            "Penny",
+            "Eww."
+        ],
+        [
+            "Kripke",
+            "Hewo. How did I walk past you? I\u2019m Bawy."
+        ],
+        [
+            "Penny",
+            "Penny."
+        ],
+        [
+            "Kripke",
+            "Yeah, it\u2019s not a vewy hot name. I\u2019m gonna call your Woxanne. Ooh, pot stickers."
+        ],
+        [
+            "Howard",
+            "Suddenly I\u2019m looking pretty good, huh?"
+        ],
+        [
+            "Sheldon",
+            "So uh, Kripke, I was wondering if there\u2019s any chance you could get me some time on the open science grid computer."
+        ],
+        [
+            "Kripke",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "No? But we\u2019re friends!"
+        ],
+        [
+            "Kripke",
+            "I\u2019m sowy. No, my fwiend?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m confused. I was given an understanding that you allow your friends time on the machine?"
+        ],
+        [
+            "Kripke",
+            "No, that\u2019s wong. There\u2019s an official schedule. I have no contwol over it."
+        ],
+        [
+            "Sheldon",
+            "Oh. This entire endeavour seems to have been an exercise in futility. Raj, you\u2019re back in. He likes monkeys."
+        ],
+        [
+            "Scene",
+            "The climbing centre."
+        ],
+        [
+            "Howard",
+            "You gotta give him credit for sticking with it."
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t think he had it in him."
+        ],
+        [
+            "Raj",
+            "He almost made it to the top this time."
+        ],
+        [
+            "Scene",
+            "Sheldon is seen dangling from the ropes"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-2-episode-13-the-friendship-algorithm/"
+}

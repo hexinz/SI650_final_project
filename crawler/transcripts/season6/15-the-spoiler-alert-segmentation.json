@@ -1,0 +1,1988 @@
+{
+    "Season": 6,
+    "Episode": 15,
+    "Title": "the spoiler alert segmentation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment"
+            ],
+            [
+                29,
+                "Credits sequence."
+            ],
+            [
+                30,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                53,
+                "Penny\u2019s apartment."
+            ],
+            [
+                80,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                92,
+                "The apartment."
+            ],
+            [
+                116,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                139,
+                "Howard\u2019s old bedroom. A phone is ringing."
+            ],
+            [
+                159,
+                "The stairwell."
+            ],
+            [
+                174,
+                "A hotel room."
+            ],
+            [
+                193,
+                "The apartment."
+            ],
+            [
+                220,
+                "Penny\u2019s apartment."
+            ],
+            [
+                241,
+                "Mrs Wolowitz\u2019s house. Raj is climbing out of the window."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "I don\u2019t know why I avoided the Harry Potter books for so long. These are great. I just started number six."
+            ],
+            [
+                3,
+                "Why would you say that?"
+            ],
+            [
+                5,
+                "That was a huge spoiler."
+            ],
+            [
+                7,
+                "What is wrong with you? If I did that, you\u2019d bitch about it for weeks."
+            ],
+            [
+                9,
+                "Hissy fits? I have hissy fits?"
+            ],
+            [
+                11,
+                "You are unbelievable. I don\u2019t know why I put up with you. You\u2019re controlling, you\u2019re irritating."
+            ],
+            [
+                13,
+                "You know what? Screw you, Sheldon. You are the most annoying person I have ever met."
+            ],
+            [
+                15,
+                "That\u2019s it. I don\u2019t, I don\u2019t have to put up with this."
+            ],
+            [
+                17,
+                "Aw. Here\u2019s what I think of your roommate agreement."
+            ],
+            [
+                19,
+                "No."
+            ],
+            [
+                21,
+                "I don\u2019t care. I don\u2019t have to do anything you say because I don\u2019t think I want to live here anymore."
+            ],
+            [
+                23,
+                "To live with Penny and not you, you crazy bastard."
+            ],
+            [
+                25,
+                "Yes."
+            ],
+            [
+                27,
+                "What?"
+            ],
+            [
+                54,
+                "I swear, that man is the most egotistical, insufferable human being I have ever met."
+            ],
+            [
+                56,
+                "Well, I\u2019ve had it. I am done. I can\u2019t, I can\u2019t live with him for one more minute."
+            ],
+            [
+                58,
+                "I was thinking here with you."
+            ],
+            [
+                60,
+                "That a problem?"
+            ],
+            [
+                62,
+                "He\u2019s got Amy now."
+            ],
+            [
+                64,
+                "Why?"
+            ],
+            [
+                66,
+                "Harry and Ginny get together?"
+            ],
+            [
+                68,
+                "Please, the only thing he needs me for is to be his whipping boy, his, his stooge, his doormat."
+            ],
+            [
+                70,
+                "Wow. It sounds to me like you don\u2019t want us to live together."
+            ],
+            [
+                72,
+                "Is it? We\u2019re together all the time. Financially, it makes great sense. Can you think of one reason why we shouldn\u2019t do this?"
+            ],
+            [
+                74,
+                "Yeah."
+            ],
+            [
+                76,
+                "Great. I\u2019ll go get my stuff."
+            ],
+            [
+                78,
+                "Oh, could you clear off a shelf for me in the bathroom? I take a lot of medicine."
+            ],
+            [
+                118,
+                "What do you want?"
+            ],
+            [
+                120,
+                "Is that so?"
+            ],
+            [
+                122,
+                "Cut to the chase, Sheldon."
+            ],
+            [
+                125,
+                "Oh, get this, suddenly, Sheldon wants me back because Amy wants to move in with him."
+            ],
+            [
+                127,
+                "Well, too late, pal. I\u2019m not going anywhere. Penny and I are very happy living together. Isn\u2019t that right?"
+            ],
+            [
+                131,
+                "Well, if he doesn\u2019t want to live with her, then he should tell her how he feels."
+            ],
+            [
+                136,
+                "I\u2019m sorry, Sheldon. I can\u2019t help you. Oh, spoiler alert, this door\u2019s about to slam in your face."
+            ],
+            [
+                226,
+                "Since when don\u2019t you want to live with me?"
+            ],
+            [
+                237,
+                "\u2018Kay."
+            ],
+            [
+                239,
+                "No."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "That\u2019s a good one. Dumbledore dies in that one. Yeah, I know, I didn\u2019t see it coming, either."
+            ],
+            [
+                4,
+                "You brought up the subject. I contributed an interesting fact on that subject. It\u2019s called the art of conversation. Okay, your turn."
+            ],
+            [
+                6,
+                "Good."
+            ],
+            [
+                8,
+                "Oh, really, Leonard? Are you going to have another one of your hissy fits?"
+            ],
+            [
+                10,
+                "Yes, and I have a theory why. Because of your lactose intolerance, you switched over to soy milk. Soy contains estrogen-mimicking compounds. I think your morning Cocoa Puffs are turning you into a hysterical woman."
+            ],
+            [
+                12,
+                "There you go again, nag, nag, nag. You\u2019re only proving my point, little lady."
+            ],
+            [
+                14,
+                "What? I\u2019m annoying? You criticize my behaviour all the time. Sheldon, don\u2019t talk about your bowel movements over breakfast. Sheldon, when the president of the university is giving a eulogy at a funeral, don\u2019t yawn and point at your watch. Sheldon, don\u2019t throw away my shirts \u2019cause you think they\u2019re ugly. You\u2019re impossible."
+            ],
+            [
+                16,
+                "Actually, I have your signature on a roommate agreement that says you do."
+            ],
+            [
+                18,
+                "You pick that up right now."
+            ],
+            [
+                20,
+                "Roommate agreement, section 27, paragraph 5, the roommate agreement, like the American flag, cannot touch the ground."
+            ],
+            [
+                22,
+                "Where are you going?"
+            ],
+            [
+                24,
+                "Crazy bastard?"
+            ],
+            [
+                26,
+                "Leonard, wait."
+            ],
+            [
+                28,
+                "Dobby the elf dies in book seven."
+            ],
+            [
+                93,
+                "One vintage Mr. Mxyzptlk action figure. That\u2019s Leonard\u2019s."
+            ],
+            [
+                97,
+                "One Game of Thrones collector\u2019s edition Longclaw sword. Oh, Leonard and I bought that together. That\u2019s a bit of an ethical conundrum. Eh, I\u2019ll keep it."
+            ],
+            [
+                99,
+                "Uh, suppose I\u2019ll have to find and cultivate a new roommate. What a task that will be. Do you know how uncivilized Leonard was when I took him in?"
+            ],
+            [
+                101,
+                "Oh, it took me forever to get him on a bathroom schedule. He would just go whenever the mood struck him."
+            ],
+            [
+                103,
+                "Exactly."
+            ],
+            [
+                105,
+                "That would be ideal. If a person like that existed, I would sign on, no further questions asked."
+            ],
+            [
+                107,
+                "Wait. Here who is where?"
+            ],
+            [
+                109,
+                "Um\u2026"
+            ],
+            [
+                111,
+                "Um\u2026"
+            ],
+            [
+                113,
+                "Um\u2026"
+            ],
+            [
+                115,
+                "Um\u2026"
+            ],
+            [
+                117,
+                "(Knock, knock, knock) Good buddy Leonard. (Knock, knock, knock) Good buddy Leonard. (Knock, knock, knock) Good buddy Leonard."
+            ],
+            [
+                119,
+                "Hey, good buddy. So, uh, I was just talking to Amy, and she made me realize that this little dust-up between you and me is much ado about nothing."
+            ],
+            [
+                121,
+                "Yes. All is forgiven, so come back home. I\u2019ll make you some soy hot chocolate, and then I\u2019ll you tell you about our exciting new devil-may-care bathroom policy."
+            ],
+            [
+                123,
+                "Okay. Amy\u2019s decided she wants to move in with me, so I need you to come back home, you lovable scamp. That\u2019s a lot of product."
+            ],
+            [
+                129,
+                "Leonard, please. You know Amy moving in marks a level of intimacy our relationship isn\u2019t ready for."
+            ],
+            [
+                133,
+                "Feelings? What am I, a hippie at a love-in? No. The problem is, she laid out a series of logical arguments that I couldn\u2019t refute."
+            ],
+            [
+                135,
+                "Yes."
+            ],
+            [
+                138,
+                "Um\u2026"
+            ],
+            [
+                160,
+                "Hello, home wrecker."
+            ],
+            [
+                162,
+                "You gave Leonard somewhere to go. Thanks to you, Amy\u2019s out buying his and hers bath towels. Like I\u2019d ever dry myself with something that has a possessive pronoun on it."
+            ],
+            [
+                164,
+                "Great. Kick him out. Break his heart. Everybody wins."
+            ],
+            [
+                166,
+                "You think this is fast? It\u2019s just a matter of time before I see Amy\u2019s leg stubble in my shower."
+            ],
+            [
+                168,
+                "Hold on. If you don\u2019t want to live with Leonard, why don\u2019t you just tell him?"
+            ],
+            [
+                170,
+                "That\u2019s because he drinks too much soy milk."
+            ],
+            [
+                172,
+                "I suppose there\u2019s no choice but to face the crying, angry accusations and the high-pitched wails of despair."
+            ],
+            [
+                195,
+                "Is it kung pao chicken?"
+            ],
+            [
+                197,
+                "Brown rice, not white rice?"
+            ],
+            [
+                199,
+                "Spicy mustard from the Korean deli?"
+            ],
+            [
+                201,
+                "Yes. Amy, are you worried that us living together will take the mystery out of our relationship?"
+            ],
+            [
+                203,
+                "Yeah, why would you?"
+            ],
+            [
+                205,
+                "Hello. This is Sheldon."
+            ],
+            [
+                207,
+                "We\u2019re not home right now."
+            ],
+            [
+                211,
+                "You can\u2019t live here."
+            ],
+            [
+                213,
+                "No. It\u2019s not the message."
+            ],
+            [
+                215,
+                "You did."
+            ],
+            [
+                217,
+                "It\u2019s Penny\u2019s fault."
+            ],
+            [
+                219,
+                "She doesn\u2019t want to live with Leonard, so he has to come live here again. She\u2019s the snake in our garden. She\u2019s the reason we can\u2019t be happy."
+            ],
+            [
+                225,
+                "I said the truth. You don\u2019t want to live with Leonard, and you know it."
+            ],
+            [
+                228,
+                "Yeah, I think we should talk about that."
+            ],
+            [
+                230,
+                "I thought we were talking about the other thing."
+            ],
+            [
+                232,
+                "Well, the evidence does support that."
+            ],
+            [
+                236,
+                "Do you want to catch up on some Walking Dead?"
+            ],
+            [
+                238,
+                "Have you seen the one where Lori dies?"
+            ],
+            [
+                240,
+                "Or maybe she doesn\u2019t. Let\u2019s find out."
+            ]
+        ],
+        "Raj": [
+            [
+                31,
+                "Here you go."
+            ],
+            [
+                33,
+                "What, you don\u2019t say thank you?"
+            ],
+            [
+                35,
+                "Well, then, I should tell you I broke the wheel and the handle. So, is everyone from Bernadette\u2019s company going to Vegas?"
+            ],
+            [
+                37,
+                "Cool. Did she discover a cure for something?"
+            ],
+            [
+                39,
+                "Is there a good anal leakage?"
+            ],
+            [
+                41,
+                "Way to make lemonade. You know, from around the corner where fudge is made."
+            ],
+            [
+                43,
+                "Sure."
+            ],
+            [
+                45,
+                "Dumped her? What, did he use a forklift? Sorry. There\u2019s nothing funny about morbid obesity."
+            ],
+            [
+                47,
+                "Dude, I\u2019m a single man. Saturday night is my party night."
+            ],
+            [
+                49,
+                "I don\u2019t know, maybe drive down to Hollywood, hit a few hot spots, see if I can get lucky."
+            ],
+            [
+                51,
+                "What time should I be at your mother\u2019s?"
+            ],
+            [
+                82,
+                "No, thank you, Mrs. Wolowitz. As it is, I\u2019m going to have to carry my stomach out of here like I\u2019m a fireman rescuing an infant."
+            ],
+            [
+                84,
+                "Well, I, I really couldn\u2019t. But, uh, I\u2019ve had a lovely time eating your brisket and hearing about the things you\u2019ve had removed from your body over the years. Didn\u2019t know you could have a cyst inside another cyst."
+            ],
+            [
+                86,
+                "That would be lovely. Thank you. (Sound of crying) Mrs. Wolowitz, uh, are you okay?"
+            ],
+            [
+                88,
+                "I, uh, I suppose I could stay for some dessert."
+            ],
+            [
+                90,
+                "Sure."
+            ],
+            [
+                140,
+                "Hello?"
+            ],
+            [
+                142,
+                "Okay, I guess."
+            ],
+            [
+                144,
+                "Actually, I\u2019m still here."
+            ],
+            [
+                146,
+                "Yeah. Uh, after dinner, we watched a rerun of Rockford Files, and then she opened a bottle of, uh, cream sherry, and the next thing I know, she was tucking me into your bed."
+            ],
+            [
+                148,
+                "Mm-hmm. How do you sleep in these things? Silk pajamas on satin sheets? I slid out of the bed, like, three times."
+            ],
+            [
+                150,
+                "Oh, boy. Breakfast."
+            ],
+            [
+                152,
+                "But I have a cream sherry hangover and I smell blintzes."
+            ],
+            [
+                154,
+                "Oh, Howard, stop."
+            ],
+            [
+                156,
+                "You\u2019re being silly. I can leave whenever I want."
+            ],
+            [
+                158,
+                "They\u2019re on the chair, right over\u2026 Oy vey."
+            ],
+            [
+                182,
+                "You were right. I can\u2019t get out of here."
+            ],
+            [
+                184,
+                "I\u2019m trapped. My clothes have been in the laundry all day, and she hid my keys. I think they might be in her bra, because she jingles when she walks. What do I do?"
+            ],
+            [
+                186,
+                "Come on, Howard, help me."
+            ],
+            [
+                188,
+                "Oh, my God. She\u2019s not gonna bathe me, is she?"
+            ],
+            [
+                190,
+                "But, Howard\u2026"
+            ]
+        ],
+        "Howard": [
+            [
+                32,
+                "Great. Come on in."
+            ],
+            [
+                34,
+                "It\u2019s my suitcase. I lent it to you two years ago."
+            ],
+            [
+                36,
+                "No, just me, her and a couple of the big wigs. It\u2019s part of a bonus she got."
+            ],
+            [
+                38,
+                "Not exactly. They spent a ton of money developing this dandruff medication that had the side effect of horrible anal leakage."
+            ],
+            [
+                40,
+                "Anyway, it was Bernie\u2019s idea to rebrand the stuff as a cure for constipation."
+            ],
+            [
+                42,
+                "Hey, I got a favour to ask."
+            ],
+            [
+                44,
+                "My mom\u2019s been kind of an emotional wreck since that dentist she was dating dumped her."
+            ],
+            [
+                46,
+                "She\u2019s huge. It was funny. Anyway, I was just hoping that maybe you could check in on her tomorrow night and make sure she\u2019s doing okay."
+            ],
+            [
+                48,
+                "Really? What do you got going on?"
+            ],
+            [
+                50,
+                "Yeah, tell me if this sounds familiar. You pay fifteen dollars to park, you stand on the pavement for an hour until you break down and give the bouncer twenty bucks to let you in. You push your way to the bar, where you drink an eighteen dollar cosmopolitan, then you stare at a pretty girl and imagine your perfect life together. Your children, grandchildren. Meanwhile, she leaves with a guy who claims he wrote Beverly Hills Chihuahua. Then you give up on anyone ever loving you, go to Marie Callender\u2019s, buy a pie and eat it in your car in the parking lot."
+            ],
+            [
+                52,
+                "I told her around seven."
+            ],
+            [
+                141,
+                "Hey. How\u2019d it go last night with my mom?"
+            ],
+            [
+                143,
+                "What time did you leave?"
+            ],
+            [
+                145,
+                "What? You spent the night?"
+            ],
+            [
+                147,
+                "You wore my pyjamas?"
+            ],
+            [
+                151,
+                "Okay, Raj, listen to me. You need to get out of there."
+            ],
+            [
+                153,
+                "If you don\u2019t leave now, she\u2019ll use food and guilt to keep you there for the rest of your life."
+            ],
+            [
+                155,
+                "Trust me, you\u2019re not Jewish. That\u2019s how they get you."
+            ],
+            [
+                157,
+                "Oh, really? Where are your clothes and your shoes?"
+            ],
+            [
+                175,
+                "Here\u2019s some more ice."
+            ],
+            [
+                177,
+                "What were we thinking? We should have just done it the regular way."
+            ],
+            [
+                179,
+                "Honestly, if I could bend that far, what would I need with you?"
+            ],
+            [
+                181,
+                "Hey, Raj. What\u2019s up?"
+            ],
+            [
+                183,
+                "You\u2019re still at my mother\u2019s?"
+            ],
+            [
+                185,
+                "Hey, you wanted a woman in your life. Now you got one."
+            ],
+            [
+                189,
+                "Gee, I wish I could tell you no. All right, well, thanks again for helping me out."
+            ],
+            [
+                192,
+                "It\u2019s too late. We\u2019ll see him at his Bar Mitzvah."
+            ]
+        ],
+        "Penny": [
+            [
+                55,
+                "Yeah, but you two make such a cute couple. Like Burt and Ernie. You guys even teach me stuff about words and numbers."
+            ],
+            [
+                57,
+                "Wow. Where are you going to go?"
+            ],
+            [
+                59,
+                "Oh."
+            ],
+            [
+                61,
+                "No, not at all. No, it\u2019s, it\u2019s great. It\u2019s terrific. I, you know, I just can\u2019t help feel bad about Sheldon. I mean, how\u2019s he going to get by without you? Ernie."
+            ],
+            [
+                63,
+                "Yeah, he does, but it\u2019s not the same."
+            ],
+            [
+                65,
+                "Um, well, um, all right. You, you know how in Harry Potter and the Half-Blood Prince, Ron didn\u2019t abandon Harry just because Harry started dating Ron\u2019s sister?"
+            ],
+            [
+                67,
+                "Sorry. Spoiler alert. My point is, as much as I want to live with you, I can\u2019t do it knowing how much Sheldon needs you."
+            ],
+            [
+                69,
+                "Well, you know what they say, if it ain\u2019t broke."
+            ],
+            [
+                71,
+                "No. No, no, I do. I do. It\u2019s just, I mean, it\u2019s a really big step."
+            ],
+            [
+                73,
+                "Well, um, I\u2019m just a little thirsty."
+            ],
+            [
+                75,
+                "I got nothing."
+            ],
+            [
+                77,
+                "Yeah. Okay, all right, don\u2019t freak out. You can make this work."
+            ],
+            [
+                79,
+                "Oh, please let some of it be Xanax."
+            ],
+            [
+                124,
+                "Hey. What\u2019s going on?"
+            ],
+            [
+                126,
+                "Really? Interesting."
+            ],
+            [
+                128,
+                "It\u2019s like the happiness won\u2019t ever leave the apartment."
+            ],
+            [
+                130,
+                "Yes. That is a real thing. And it doesn\u2019t mean you don\u2019t care about each other, it just means things are moving at a pace you\u2019re not comfortable with, and that\u2019s fine."
+            ],
+            [
+                132,
+                "Well, maybe he doesn\u2019t know how to say it without hurting her feelings."
+            ],
+            [
+                134,
+                "That is the worst, isn\u2019t it?"
+            ],
+            [
+                161,
+                "What did I do?"
+            ],
+            [
+                163,
+                "Okay. Listen, the truth is I don\u2019t want him living with me."
+            ],
+            [
+                165,
+                "No, I don\u2019t want to break his heart. I love him. This is just happening too fast."
+            ],
+            [
+                167,
+                "Yeah, and I\u2019ve seen those legs. You might want to get some Drano."
+            ],
+            [
+                169,
+                "Well, you know how he is. He\u2019s sensitive and emotional."
+            ],
+            [
+                171,
+                "Well, I don\u2019t know what else we can do but tell them the truth."
+            ],
+            [
+                173,
+                "Yeah. And who knows how Amy will react."
+            ],
+            [
+                221,
+                "Hey, Ames."
+            ],
+            [
+                224,
+                "Sheldon, what did you say?"
+            ],
+            [
+                227,
+                "Oh, don\u2019t get all huffy. You\u2019re the one who decided to move in without even asking me if I was ready."
+            ],
+            [
+                229,
+                "And since you love the truth so much, why don\u2019t you tell Amy you don\u2019t want to live with her instead of blaming it on me?"
+            ],
+            [
+                233,
+                "Come on, Amy, let\u2019s go drink wine and talk about what jerks our boyfriends are."
+            ],
+            [
+                235,
+                "Um\u2026"
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                81,
+                "Are you ready for dessert?"
+            ],
+            [
+                83,
+                "Oh, please. You\u2019re a tall glass of brown water. Have dessert."
+            ],
+            [
+                85,
+                "The doctor said they were like Russian nesting dolls. Well, if you have to go, how about I put a little doggie bag together for you?"
+            ],
+            [
+                87,
+                "Don\u2019t mind me. I just cry when I\u2019m lonely and have nothing to live for."
+            ],
+            [
+                89,
+                "Great. You like chocolate chip cheesecake?"
+            ],
+            [
+                91,
+                "I\u2019ll make one."
+            ],
+            [
+                149,
+                "Rajesh! You up? You ready for breakfast?"
+            ],
+            [
+                187,
+                "Rajesh, tatellah, I ran you a bath."
+            ],
+            [
+                242,
+                "Where you going?"
+            ]
+        ],
+        "Amy": [
+            [
+                94,
+                "Children\u2019s toy."
+            ],
+            [
+                96,
+                "Children\u2019s toy."
+            ],
+            [
+                98,
+                "So, uh, what\u2019s your plan moving forward?"
+            ],
+            [
+                100,
+                "No."
+            ],
+            [
+                102,
+                "Like a dog-boy."
+            ],
+            [
+                104,
+                "What if you could find a roommate who was a scientist and already familiar and comfortable with your ways?"
+            ],
+            [
+                106,
+                "Great. Here I am!"
+            ],
+            [
+                108,
+                "Me. Aren\u2019t I your perfect roommate?"
+            ],
+            [
+                110,
+                "Think about it, Sheldon. I\u2019m not a stranger, we\u2019re intellectually compatible, I\u2019m willing to chauffeur you around town, and your personality quirks, which others find abhorrent or rage-inducing, I find cute as a button. What do you think?"
+            ],
+            [
+                112,
+                "Tell me one reason why this isn\u2019t a fantastic idea."
+            ],
+            [
+                114,
+                "See? You can\u2019t. I\u2019m gonna go see if Leonard\u2019s room is big enough for my water bed."
+            ],
+            [
+                137,
+                "Oh, there you are. When do I get a key to our apartment?"
+            ],
+            [
+                194,
+                "Here you go. I picked up the Chinese food just the way Leonard used to."
+            ],
+            [
+                196,
+                "Yes."
+            ],
+            [
+                198,
+                "Yes."
+            ],
+            [
+                200,
+                "Yes. I did good, right?"
+            ],
+            [
+                202,
+                "No."
+            ],
+            [
+                204,
+                "Oh, and, uh, check this out. I took the liberty of scripting a new outgoing voice mail message for both of us."
+            ],
+            [
+                206,
+                "And this is Amy."
+            ],
+            [
+                208,
+                "\u2018Cause we out dropping science, son."
+            ],
+            [
+                210,
+                "Beep."
+            ],
+            [
+                212,
+                "What? Why? Is it the message? I only used urban slang to sound tough so people wouldn\u2019t break in."
+            ],
+            [
+                214,
+                "Well, what is it, then? I did everything just the way you like it."
+            ],
+            [
+                216,
+                "Then what the hell, Sheldon? We have been going out for over two years, and I have been nothing but patient with you. I watch your dopey space movies. I signed your ridiculous contract. I even stopped wearing lip gloss \u2019cause you said it made my mouth look too slippery. I am the best girlfriend you\u2019re ever gonna have. You give me one good reason why I can\u2019t live here."
+            ],
+            [
+                218,
+                "What?"
+            ],
+            [
+                222,
+                "Yeah. Hey, Ames, nothing. I was all set to move in with Sheldon, and now I hear I can\u2019t \u2019cause you don\u2019t want to live with Leonard."
+            ],
+            [
+                231,
+                "You\u2019re a coward."
+            ],
+            [
+                234,
+                "You know what would show them? I should move in here with you."
+            ]
+        ],
+        "Sheldon: One Star Trek": [
+            [
+                95,
+                "The Next Generation phaser. That\u2019s Leonard\u2019s."
+            ]
+        ],
+        "Bernadette": [
+            [
+                176,
+                "Oh, thanks."
+            ],
+            [
+                178,
+                "Those Chinese acrobats in Cirque du Soleil made it look so easy."
+            ],
+            [
+                180,
+                "If you could bend that far, you\u2019d be doing us both a favour. (Phone) "
+            ],
+            [
+                191,
+                "Should we go back and rescue him?"
+            ]
+        ],
+        "Together": [
+            [
+                209,
+                "Leave a message."
+            ]
+        ],
+        "Leonard (off)": [
+            [
+                223,
+                "What?"
+            ]
+        ],
+        "Raj (screams)": [
+            [
+                243,
+                "No!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know why I avoided the Harry Potter books for so long. These are great. I just started number six."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a good one. Dumbledore dies in that one. Yeah, I know, I didn\u2019t see it coming, either."
+        ],
+        [
+            "Leonard",
+            "Why would you say that?"
+        ],
+        [
+            "Sheldon",
+            "You brought up the subject. I contributed an interesting fact on that subject. It\u2019s called the art of conversation. Okay, your turn."
+        ],
+        [
+            "Leonard",
+            "That was a huge spoiler."
+        ],
+        [
+            "Sheldon",
+            "Good."
+        ],
+        [
+            "Leonard",
+            "What is wrong with you? If I did that, you\u2019d bitch about it for weeks."
+        ],
+        [
+            "Sheldon",
+            "Oh, really, Leonard? Are you going to have another one of your hissy fits?"
+        ],
+        [
+            "Leonard",
+            "Hissy fits? I have hissy fits?"
+        ],
+        [
+            "Sheldon",
+            "Yes, and I have a theory why. Because of your lactose intolerance, you switched over to soy milk. Soy contains estrogen-mimicking compounds. I think your morning Cocoa Puffs are turning you into a hysterical woman."
+        ],
+        [
+            "Leonard",
+            "You are unbelievable. I don\u2019t know why I put up with you. You\u2019re controlling, you\u2019re irritating."
+        ],
+        [
+            "Sheldon",
+            "There you go again, nag, nag, nag. You\u2019re only proving my point, little lady."
+        ],
+        [
+            "Leonard",
+            "You know what? Screw you, Sheldon. You are the most annoying person I have ever met."
+        ],
+        [
+            "Sheldon",
+            "What? I\u2019m annoying? You criticize my behaviour all the time. Sheldon, don\u2019t talk about your bowel movements over breakfast. Sheldon, when the president of the university is giving a eulogy at a funeral, don\u2019t yawn and point at your watch. Sheldon, don\u2019t throw away my shirts \u2019cause you think they\u2019re ugly. You\u2019re impossible."
+        ],
+        [
+            "Leonard",
+            "That\u2019s it. I don\u2019t, I don\u2019t have to put up with this."
+        ],
+        [
+            "Sheldon",
+            "Actually, I have your signature on a roommate agreement that says you do."
+        ],
+        [
+            "Leonard",
+            "Aw. Here\u2019s what I think of your roommate agreement."
+        ],
+        [
+            "Sheldon",
+            "You pick that up right now."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Roommate agreement, section 27, paragraph 5, the roommate agreement, like the American flag, cannot touch the ground."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t care. I don\u2019t have to do anything you say because I don\u2019t think I want to live here anymore."
+        ],
+        [
+            "Sheldon",
+            "Where are you going?"
+        ],
+        [
+            "Leonard",
+            "To live with Penny and not you, you crazy bastard."
+        ],
+        [
+            "Sheldon",
+            "Crazy bastard?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Leonard, wait."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Dobby the elf dies in book seven."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "Here you go."
+        ],
+        [
+            "Howard",
+            "Great. Come on in."
+        ],
+        [
+            "Raj",
+            "What, you don\u2019t say thank you?"
+        ],
+        [
+            "Howard",
+            "It\u2019s my suitcase. I lent it to you two years ago."
+        ],
+        [
+            "Raj",
+            "Well, then, I should tell you I broke the wheel and the handle. So, is everyone from Bernadette\u2019s company going to Vegas?"
+        ],
+        [
+            "Howard",
+            "No, just me, her and a couple of the big wigs. It\u2019s part of a bonus she got."
+        ],
+        [
+            "Raj",
+            "Cool. Did she discover a cure for something?"
+        ],
+        [
+            "Howard",
+            "Not exactly. They spent a ton of money developing this dandruff medication that had the side effect of horrible anal leakage."
+        ],
+        [
+            "Raj",
+            "Is there a good anal leakage?"
+        ],
+        [
+            "Howard",
+            "Anyway, it was Bernie\u2019s idea to rebrand the stuff as a cure for constipation."
+        ],
+        [
+            "Raj",
+            "Way to make lemonade. You know, from around the corner where fudge is made."
+        ],
+        [
+            "Howard",
+            "Hey, I got a favour to ask."
+        ],
+        [
+            "Raj",
+            "Sure."
+        ],
+        [
+            "Howard",
+            "My mom\u2019s been kind of an emotional wreck since that dentist she was dating dumped her."
+        ],
+        [
+            "Raj",
+            "Dumped her? What, did he use a forklift? Sorry. There\u2019s nothing funny about morbid obesity."
+        ],
+        [
+            "Howard",
+            "She\u2019s huge. It was funny. Anyway, I was just hoping that maybe you could check in on her tomorrow night and make sure she\u2019s doing okay."
+        ],
+        [
+            "Raj",
+            "Dude, I\u2019m a single man. Saturday night is my party night."
+        ],
+        [
+            "Howard",
+            "Really? What do you got going on?"
+        ],
+        [
+            "Raj",
+            "I don\u2019t know, maybe drive down to Hollywood, hit a few hot spots, see if I can get lucky."
+        ],
+        [
+            "Howard",
+            "Yeah, tell me if this sounds familiar. You pay fifteen dollars to park, you stand on the pavement for an hour until you break down and give the bouncer twenty bucks to let you in. You push your way to the bar, where you drink an eighteen dollar cosmopolitan, then you stare at a pretty girl and imagine your perfect life together. Your children, grandchildren. Meanwhile, she leaves with a guy who claims he wrote Beverly Hills Chihuahua. Then you give up on anyone ever loving you, go to Marie Callender\u2019s, buy a pie and eat it in your car in the parking lot."
+        ],
+        [
+            "Raj",
+            "What time should I be at your mother\u2019s?"
+        ],
+        [
+            "Howard",
+            "I told her around seven."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Leonard",
+            "I swear, that man is the most egotistical, insufferable human being I have ever met."
+        ],
+        [
+            "Penny",
+            "Yeah, but you two make such a cute couple. Like Burt and Ernie. You guys even teach me stuff about words and numbers."
+        ],
+        [
+            "Leonard",
+            "Well, I\u2019ve had it. I am done. I can\u2019t, I can\u2019t live with him for one more minute."
+        ],
+        [
+            "Penny",
+            "Wow. Where are you going to go?"
+        ],
+        [
+            "Leonard",
+            "I was thinking here with you."
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Leonard",
+            "That a problem?"
+        ],
+        [
+            "Penny",
+            "No, not at all. No, it\u2019s, it\u2019s great. It\u2019s terrific. I, you know, I just can\u2019t help feel bad about Sheldon. I mean, how\u2019s he going to get by without you? Ernie."
+        ],
+        [
+            "Leonard",
+            "He\u2019s got Amy now."
+        ],
+        [
+            "Penny",
+            "Yeah, he does, but it\u2019s not the same."
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Penny",
+            "Um, well, um, all right. You, you know how in Harry Potter and the Half-Blood Prince, Ron didn\u2019t abandon Harry just because Harry started dating Ron\u2019s sister?"
+        ],
+        [
+            "Leonard",
+            "Harry and Ginny get together?"
+        ],
+        [
+            "Penny",
+            "Sorry. Spoiler alert. My point is, as much as I want to live with you, I can\u2019t do it knowing how much Sheldon needs you."
+        ],
+        [
+            "Leonard",
+            "Please, the only thing he needs me for is to be his whipping boy, his, his stooge, his doormat."
+        ],
+        [
+            "Penny",
+            "Well, you know what they say, if it ain\u2019t broke."
+        ],
+        [
+            "Leonard",
+            "Wow. It sounds to me like you don\u2019t want us to live together."
+        ],
+        [
+            "Penny",
+            "No. No, no, I do. I do. It\u2019s just, I mean, it\u2019s a really big step."
+        ],
+        [
+            "Leonard",
+            "Is it? We\u2019re together all the time. Financially, it makes great sense. Can you think of one reason why we shouldn\u2019t do this?"
+        ],
+        [
+            "Penny",
+            "Well, um, I\u2019m just a little thirsty."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Penny",
+            "I got nothing."
+        ],
+        [
+            "Leonard",
+            "Great. I\u2019ll go get my stuff."
+        ],
+        [
+            "Penny",
+            "Yeah. Okay, all right, don\u2019t freak out. You can make this work."
+        ],
+        [
+            "Leonard",
+            "Oh, could you clear off a shelf for me in the bathroom? I take a lot of medicine."
+        ],
+        [
+            "Penny",
+            "Oh, please let some of it be Xanax."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Are you ready for dessert?"
+        ],
+        [
+            "Raj",
+            "No, thank you, Mrs. Wolowitz. As it is, I\u2019m going to have to carry my stomach out of here like I\u2019m a fireman rescuing an infant."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Oh, please. You\u2019re a tall glass of brown water. Have dessert."
+        ],
+        [
+            "Raj",
+            "Well, I, I really couldn\u2019t. But, uh, I\u2019ve had a lovely time eating your brisket and hearing about the things you\u2019ve had removed from your body over the years. Didn\u2019t know you could have a cyst inside another cyst."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "The doctor said they were like Russian nesting dolls. Well, if you have to go, how about I put a little doggie bag together for you?"
+        ],
+        [
+            "Raj",
+            "That would be lovely. Thank you. (Sound of crying) Mrs. Wolowitz, uh, are you okay?"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Don\u2019t mind me. I just cry when I\u2019m lonely and have nothing to live for."
+        ],
+        [
+            "Raj",
+            "I, uh, I suppose I could stay for some dessert."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Great. You like chocolate chip cheesecake?"
+        ],
+        [
+            "Raj",
+            "Sure."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "I\u2019ll make one."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "One vintage Mr. Mxyzptlk action figure. That\u2019s Leonard\u2019s."
+        ],
+        [
+            "Amy",
+            "Children\u2019s toy."
+        ],
+        [
+            "Sheldon: One Star Trek",
+            "The Next Generation phaser. That\u2019s Leonard\u2019s."
+        ],
+        [
+            "Amy",
+            "Children\u2019s toy."
+        ],
+        [
+            "Sheldon",
+            "One Game of Thrones collector\u2019s edition Longclaw sword. Oh, Leonard and I bought that together. That\u2019s a bit of an ethical conundrum. Eh, I\u2019ll keep it."
+        ],
+        [
+            "Amy",
+            "So, uh, what\u2019s your plan moving forward?"
+        ],
+        [
+            "Sheldon",
+            "Uh, suppose I\u2019ll have to find and cultivate a new roommate. What a task that will be. Do you know how uncivilized Leonard was when I took him in?"
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Oh, it took me forever to get him on a bathroom schedule. He would just go whenever the mood struck him."
+        ],
+        [
+            "Amy",
+            "Like a dog-boy."
+        ],
+        [
+            "Sheldon",
+            "Exactly."
+        ],
+        [
+            "Amy",
+            "What if you could find a roommate who was a scientist and already familiar and comfortable with your ways?"
+        ],
+        [
+            "Sheldon",
+            "That would be ideal. If a person like that existed, I would sign on, no further questions asked."
+        ],
+        [
+            "Amy",
+            "Great. Here I am!"
+        ],
+        [
+            "Sheldon",
+            "Wait. Here who is where?"
+        ],
+        [
+            "Amy",
+            "Me. Aren\u2019t I your perfect roommate?"
+        ],
+        [
+            "Sheldon",
+            "Um\u2026"
+        ],
+        [
+            "Amy",
+            "Think about it, Sheldon. I\u2019m not a stranger, we\u2019re intellectually compatible, I\u2019m willing to chauffeur you around town, and your personality quirks, which others find abhorrent or rage-inducing, I find cute as a button. What do you think?"
+        ],
+        [
+            "Sheldon",
+            "Um\u2026"
+        ],
+        [
+            "Amy",
+            "Tell me one reason why this isn\u2019t a fantastic idea."
+        ],
+        [
+            "Sheldon",
+            "Um\u2026"
+        ],
+        [
+            "Amy",
+            "See? You can\u2019t. I\u2019m gonna go see if Leonard\u2019s room is big enough for my water bed."
+        ],
+        [
+            "Sheldon",
+            "Um\u2026"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Good buddy Leonard. (Knock, knock, knock) Good buddy Leonard. (Knock, knock, knock) Good buddy Leonard."
+        ],
+        [
+            "Leonard",
+            "What do you want?"
+        ],
+        [
+            "Sheldon",
+            "Hey, good buddy. So, uh, I was just talking to Amy, and she made me realize that this little dust-up between you and me is much ado about nothing."
+        ],
+        [
+            "Leonard",
+            "Is that so?"
+        ],
+        [
+            "Sheldon",
+            "Yes. All is forgiven, so come back home. I\u2019ll make you some soy hot chocolate, and then I\u2019ll you tell you about our exciting new devil-may-care bathroom policy."
+        ],
+        [
+            "Leonard",
+            "Cut to the chase, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Okay. Amy\u2019s decided she wants to move in with me, so I need you to come back home, you lovable scamp. That\u2019s a lot of product."
+        ],
+        [
+            "Penny",
+            "Hey. What\u2019s going on?"
+        ],
+        [
+            "Leonard",
+            "Oh, get this, suddenly, Sheldon wants me back because Amy wants to move in with him."
+        ],
+        [
+            "Penny",
+            "Really? Interesting."
+        ],
+        [
+            "Leonard",
+            "Well, too late, pal. I\u2019m not going anywhere. Penny and I are very happy living together. Isn\u2019t that right?"
+        ],
+        [
+            "Penny",
+            "It\u2019s like the happiness won\u2019t ever leave the apartment."
+        ],
+        [
+            "Sheldon",
+            "Leonard, please. You know Amy moving in marks a level of intimacy our relationship isn\u2019t ready for."
+        ],
+        [
+            "Penny",
+            "Yes. That is a real thing. And it doesn\u2019t mean you don\u2019t care about each other, it just means things are moving at a pace you\u2019re not comfortable with, and that\u2019s fine."
+        ],
+        [
+            "Leonard",
+            "Well, if he doesn\u2019t want to live with her, then he should tell her how he feels."
+        ],
+        [
+            "Penny",
+            "Well, maybe he doesn\u2019t know how to say it without hurting her feelings."
+        ],
+        [
+            "Sheldon",
+            "Feelings? What am I, a hippie at a love-in? No. The problem is, she laid out a series of logical arguments that I couldn\u2019t refute."
+        ],
+        [
+            "Penny",
+            "That is the worst, isn\u2019t it?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, Sheldon. I can\u2019t help you. Oh, spoiler alert, this door\u2019s about to slam in your face."
+        ],
+        [
+            "Amy",
+            "Oh, there you are. When do I get a key to our apartment?"
+        ],
+        [
+            "Sheldon",
+            "Um\u2026"
+        ],
+        [
+            "Scene",
+            "Howard\u2019s old bedroom. A phone is ringing."
+        ],
+        [
+            "Raj",
+            "Hello?"
+        ],
+        [
+            "Howard",
+            "Hey. How\u2019d it go last night with my mom?"
+        ],
+        [
+            "Raj",
+            "Okay, I guess."
+        ],
+        [
+            "Howard",
+            "What time did you leave?"
+        ],
+        [
+            "Raj",
+            "Actually, I\u2019m still here."
+        ],
+        [
+            "Howard",
+            "What? You spent the night?"
+        ],
+        [
+            "Raj",
+            "Yeah. Uh, after dinner, we watched a rerun of Rockford Files, and then she opened a bottle of, uh, cream sherry, and the next thing I know, she was tucking me into your bed."
+        ],
+        [
+            "Howard",
+            "You wore my pyjamas?"
+        ],
+        [
+            "Raj",
+            "Mm-hmm. How do you sleep in these things? Silk pajamas on satin sheets? I slid out of the bed, like, three times."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Rajesh! You up? You ready for breakfast?"
+        ],
+        [
+            "Raj",
+            "Oh, boy. Breakfast."
+        ],
+        [
+            "Howard",
+            "Okay, Raj, listen to me. You need to get out of there."
+        ],
+        [
+            "Raj",
+            "But I have a cream sherry hangover and I smell blintzes."
+        ],
+        [
+            "Howard",
+            "If you don\u2019t leave now, she\u2019ll use food and guilt to keep you there for the rest of your life."
+        ],
+        [
+            "Raj",
+            "Oh, Howard, stop."
+        ],
+        [
+            "Howard",
+            "Trust me, you\u2019re not Jewish. That\u2019s how they get you."
+        ],
+        [
+            "Raj",
+            "You\u2019re being silly. I can leave whenever I want."
+        ],
+        [
+            "Howard",
+            "Oh, really? Where are your clothes and your shoes?"
+        ],
+        [
+            "Raj",
+            "They\u2019re on the chair, right over\u2026 Oy vey."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Sheldon",
+            "Hello, home wrecker."
+        ],
+        [
+            "Penny",
+            "What did I do?"
+        ],
+        [
+            "Sheldon",
+            "You gave Leonard somewhere to go. Thanks to you, Amy\u2019s out buying his and hers bath towels. Like I\u2019d ever dry myself with something that has a possessive pronoun on it."
+        ],
+        [
+            "Penny",
+            "Okay. Listen, the truth is I don\u2019t want him living with me."
+        ],
+        [
+            "Sheldon",
+            "Great. Kick him out. Break his heart. Everybody wins."
+        ],
+        [
+            "Penny",
+            "No, I don\u2019t want to break his heart. I love him. This is just happening too fast."
+        ],
+        [
+            "Sheldon",
+            "You think this is fast? It\u2019s just a matter of time before I see Amy\u2019s leg stubble in my shower."
+        ],
+        [
+            "Penny",
+            "Yeah, and I\u2019ve seen those legs. You might want to get some Drano."
+        ],
+        [
+            "Sheldon",
+            "Hold on. If you don\u2019t want to live with Leonard, why don\u2019t you just tell him?"
+        ],
+        [
+            "Penny",
+            "Well, you know how he is. He\u2019s sensitive and emotional."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s because he drinks too much soy milk."
+        ],
+        [
+            "Penny",
+            "Well, I don\u2019t know what else we can do but tell them the truth."
+        ],
+        [
+            "Sheldon",
+            "I suppose there\u2019s no choice but to face the crying, angry accusations and the high-pitched wails of despair."
+        ],
+        [
+            "Penny",
+            "Yeah. And who knows how Amy will react."
+        ],
+        [
+            "Scene",
+            "A hotel room."
+        ],
+        [
+            "Howard",
+            "Here\u2019s some more ice."
+        ],
+        [
+            "Bernadette",
+            "Oh, thanks."
+        ],
+        [
+            "Howard",
+            "What were we thinking? We should have just done it the regular way."
+        ],
+        [
+            "Bernadette",
+            "Those Chinese acrobats in Cirque du Soleil made it look so easy."
+        ],
+        [
+            "Howard",
+            "Honestly, if I could bend that far, what would I need with you?"
+        ],
+        [
+            "Bernadette",
+            "If you could bend that far, you\u2019d be doing us both a favour. (Phone) "
+        ],
+        [
+            "Howard",
+            "Hey, Raj. What\u2019s up?"
+        ],
+        [
+            "Raj",
+            "You were right. I can\u2019t get out of here."
+        ],
+        [
+            "Howard",
+            "You\u2019re still at my mother\u2019s?"
+        ],
+        [
+            "Raj",
+            "I\u2019m trapped. My clothes have been in the laundry all day, and she hid my keys. I think they might be in her bra, because she jingles when she walks. What do I do?"
+        ],
+        [
+            "Howard",
+            "Hey, you wanted a woman in your life. Now you got one."
+        ],
+        [
+            "Raj",
+            "Come on, Howard, help me."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Rajesh, tatellah, I ran you a bath."
+        ],
+        [
+            "Raj",
+            "Oh, my God. She\u2019s not gonna bathe me, is she?"
+        ],
+        [
+            "Howard",
+            "Gee, I wish I could tell you no. All right, well, thanks again for helping me out."
+        ],
+        [
+            "Raj",
+            "But, Howard\u2026"
+        ],
+        [
+            "Bernadette",
+            "Should we go back and rescue him?"
+        ],
+        [
+            "Howard",
+            "It\u2019s too late. We\u2019ll see him at his Bar Mitzvah."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Here you go. I picked up the Chinese food just the way Leonard used to."
+        ],
+        [
+            "Sheldon",
+            "Is it kung pao chicken?"
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Brown rice, not white rice?"
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Spicy mustard from the Korean deli?"
+        ],
+        [
+            "Amy",
+            "Yes. I did good, right?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Amy, are you worried that us living together will take the mystery out of our relationship?"
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Yeah, why would you?"
+        ],
+        [
+            "Amy",
+            "Oh, and, uh, check this out. I took the liberty of scripting a new outgoing voice mail message for both of us."
+        ],
+        [
+            "Sheldon",
+            "Hello. This is Sheldon."
+        ],
+        [
+            "Amy",
+            "And this is Amy."
+        ],
+        [
+            "Sheldon",
+            "We\u2019re not home right now."
+        ],
+        [
+            "Amy",
+            "\u2018Cause we out dropping science, son."
+        ],
+        [
+            "Together",
+            "Leave a message."
+        ],
+        [
+            "Amy",
+            "Beep."
+        ],
+        [
+            "Sheldon",
+            "You can\u2019t live here."
+        ],
+        [
+            "Amy",
+            "What? Why? Is it the message? I only used urban slang to sound tough so people wouldn\u2019t break in."
+        ],
+        [
+            "Sheldon",
+            "No. It\u2019s not the message."
+        ],
+        [
+            "Amy",
+            "Well, what is it, then? I did everything just the way you like it."
+        ],
+        [
+            "Sheldon",
+            "You did."
+        ],
+        [
+            "Amy",
+            "Then what the hell, Sheldon? We have been going out for over two years, and I have been nothing but patient with you. I watch your dopey space movies. I signed your ridiculous contract. I even stopped wearing lip gloss \u2019cause you said it made my mouth look too slippery. I am the best girlfriend you\u2019re ever gonna have. You give me one good reason why I can\u2019t live here."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s Penny\u2019s fault."
+        ],
+        [
+            "Amy",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "She doesn\u2019t want to live with Leonard, so he has to come live here again. She\u2019s the snake in our garden. She\u2019s the reason we can\u2019t be happy."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Hey, Ames."
+        ],
+        [
+            "Amy",
+            "Yeah. Hey, Ames, nothing. I was all set to move in with Sheldon, and now I hear I can\u2019t \u2019cause you don\u2019t want to live with Leonard."
+        ],
+        [
+            "Leonard (off)",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Sheldon, what did you say?"
+        ],
+        [
+            "Sheldon",
+            "I said the truth. You don\u2019t want to live with Leonard, and you know it."
+        ],
+        [
+            "Leonard",
+            "Since when don\u2019t you want to live with me?"
+        ],
+        [
+            "Penny",
+            "Oh, don\u2019t get all huffy. You\u2019re the one who decided to move in without even asking me if I was ready."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I think we should talk about that."
+        ],
+        [
+            "Penny",
+            "And since you love the truth so much, why don\u2019t you tell Amy you don\u2019t want to live with her instead of blaming it on me?"
+        ],
+        [
+            "Sheldon",
+            "I thought we were talking about the other thing."
+        ],
+        [
+            "Amy",
+            "You\u2019re a coward."
+        ],
+        [
+            "Sheldon",
+            "Well, the evidence does support that."
+        ],
+        [
+            "Penny",
+            "Come on, Amy, let\u2019s go drink wine and talk about what jerks our boyfriends are."
+        ],
+        [
+            "Amy",
+            "You know what would show them? I should move in here with you."
+        ],
+        [
+            "Penny",
+            "Um\u2026"
+        ],
+        [
+            "Sheldon",
+            "Do you want to catch up on some Walking Dead?"
+        ],
+        [
+            "Leonard",
+            "\u2018Kay."
+        ],
+        [
+            "Sheldon",
+            "Have you seen the one where Lori dies?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Or maybe she doesn\u2019t. Let\u2019s find out."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house. Raj is climbing out of the window."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Where you going?"
+        ],
+        [
+            "Raj (screams)",
+            "No!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-15-the-spoiler-alert-segmentation/"
+}

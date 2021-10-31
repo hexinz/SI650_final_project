@@ -1,0 +1,1406 @@
+{
+    "Season": 3,
+    "Episode": 18,
+    "Title": "the pants alternative",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The university cafeteria."
+            ],
+            [
+                15,
+                "Credits sequence"
+            ],
+            [
+                17,
+                "The apartment. The guys are watching Avatar in 3D. All are wearing 3D glasses except Raj."
+            ],
+            [
+                46,
+                "The stairwell. Sheldon is on the phone."
+            ],
+            [
+                74,
+                "The apartment. Raj is lighting candles. Indian music is playing."
+            ],
+            [
+                103,
+                "A clothing store."
+            ],
+            [
+                121,
+                "The apartment."
+            ],
+            [
+                145,
+                "The award ceremony."
+            ],
+            [
+                161,
+                "neptunium, germanium\u2026 Everybody! And iron, americium, ruthenium, uranium, europium, zirconium, lutetium, vanadium\u2026 Just the Asians! And lanthanum and osmium, and astatine and radium\u2026"
+            ],
+            [
+                162,
+                "The apartment."
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "Okay in Avatar when they have sex in Pandora they hook up their ponytails, so we know their ponytails are like their junk."
+            ],
+            [
+                3,
+                "So, when they ride horses and fly on the birds, they also use their ponytails."
+            ],
+            [
+                5,
+                "My point is, if I were a horse or a bird, I\u2019d be very nervous around James Cameron."
+            ],
+            [
+                13,
+                "Well, good for him."
+            ],
+            [
+                19,
+                "No."
+            ],
+            [
+                27,
+                "Yeah, before the movie, you did 20 minutes on why guacamole turns brown. It turned brown while you were talking."
+            ],
+            [
+                75,
+                "Okay, Sheldon. I\u2019m going to be leading you through a series of meditation exercises. These methods come from the ancient gurus of India and have helped me overcome my own fears."
+            ],
+            [
+                77,
+                "True, but thanks to meditation, I am able to stay in the same room with them without urinating. Now, close your eyes."
+            ],
+            [
+                79,
+                "What?"
+            ],
+            [
+                81,
+                "I\u2019m not going to punch you."
+            ],
+            [
+                83,
+                "Do you want to do this or not?"
+            ],
+            [
+                85,
+                "All right. Imagine yourself in the one place you feel most at home. Where is that?"
+            ],
+            [
+                87,
+                "Okay, you\u2019re in Sheldonopolis."
+            ],
+            [
+                89,
+                "Whatever you like."
+            ],
+            [
+                91,
+                "Fine. You\u2019re in Sheldon Square."
+            ],
+            [
+                93,
+                "Then, put on a sweater."
+            ],
+            [
+                95,
+                "Yeah, whatever. Just go buy a sweater."
+            ],
+            [
+                97,
+                "You own the damn thing. Just take a freaking sweater!"
+            ],
+            [
+                99,
+                "All right. You\u2019ve paid for a sweater, and you\u2019re in Sheldon Square."
+            ],
+            [
+                101,
+                "What now?"
+            ],
+            [
+                150,
+                "Don\u2019t worry. You\u2019re surrounded by your C-Men."
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "Yeah, so?"
+            ],
+            [
+                4,
+                "What\u2019s your point?"
+            ],
+            [
+                14,
+                "Yeah, the one thing the William Shatner of theoretical physics needed was an ego boost."
+            ],
+            [
+                18,
+                "Didn\u2019t it look like that spear was going to go right through your skull?"
+            ],
+            [
+                22,
+                "Uh, hang on, flaming arrow."
+            ],
+            [
+                26,
+                "Well, no, you\u2019re mistaken. You give speeches all the time. What you can\u2019t do is shut up."
+            ],
+            [
+                34,
+                "Turns out the great Sheldon Cooper has stage fright."
+            ],
+            [
+                39,
+                "Where\u2019s 70 children when you need \u2018em?"
+            ],
+            [
+                67,
+                "Raj says he can teach you, what did you call it? I don\u2019t know, some Indian meditation crap."
+            ],
+            [
+                69,
+                "My power is the ability to pretend like I give a damn about your piddly-ass problems. And that\u2019s 24-7, buddy."
+            ],
+            [
+                73,
+                "Oh, that\u2019s not a good name."
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "It amazes me how you constantly obsess over fictional details when there are more important things in the real world to worry about. For example, why wasn\u2019t William Shatner in the new Star Trek movie?"
+            ],
+            [
+                8,
+                "And you want to rub my nose in the fact that my contributions are being overlooked again? I am the William Shatner of theoretical physics. All right, I\u2019ll play. What self-important, preening fraud are they honouring this year?"
+            ],
+            [
+                10,
+                "I won?"
+            ],
+            [
+                12,
+                "I won! This is astonishing. Not that I won the award, no one deserves it more. Actually, I guess I misspoke. It\u2019s not astonishing, more like inevitable. I\u2019m not sure what to do first. Maybe I should call my mother. Wait! I know, I\u2019m going to conduct an interview with myself and post it online."
+            ],
+            [
+                23,
+                "Hello? Oh, Chancellor Morton, how are you, sir? Yes, I was expecting your call (aside) three years ago. I see. Wait. What happens if I choose not to give a speech? Uh-huh. And if I don\u2019t want to forfeit the award? Well, you\u2019ve got that tied up in a neat little bow. All right. Thank you. (Hangs up) Problem."
+            ],
+            [
+                25,
+                "They expect me to give a speech at the banquet. I can\u2019t give a speech."
+            ],
+            [
+                28,
+                "I am perfectly comfortable speaking to small groups. I cannot speak to large crowds."
+            ],
+            [
+                30,
+                "Any group big enough to trample me to death. General rule of thumb is 36 adults or 70 children."
+            ],
+            [
+                32,
+                "I\u2019m not accepting the award."
+            ],
+            [
+                36,
+                "Thank you. Yeah, I\u2019ll bear that in mind if I\u2019m ever nominated for the Hillbilly Peace Prize."
+            ],
+            [
+                38,
+                "Am I? Let me tell you a story."
+            ],
+            [
+                40,
+                "I was 14 and graduating summa cum laude from college. Summa cum laude is Latin for with highest honours."
+            ],
+            [
+                42,
+                "I was valedictorian and expected to give an address. Even now, I can remember that moment when I walked up to the podium and looked out at the crowd. There must have been thousands of people. My heart started pounding in my chest. I began to hyperventilate. My vision became blurry, and before I knew it\u2026 oh, dear. (He faints.)"
+            ],
+            [
+                45,
+                "Don\u2019t trample me."
+            ],
+            [
+                47,
+                "Come on, Mother, you know why I can\u2019t accept the award. With all due respect, I don\u2019t think praying will help. No, I have not heard the song, Jesus, Take the Wheel. No, no, no, no, no, no, no, you don\u2019t need to start singing it. Yes, I\u2019ll buy it on the iTunes, Mother. Good-bye, Mother. (Enters apartment. The others are sitting as if waiting for him.) Hello."
+            ],
+            [
+                49,
+                "Am I in trouble? Did my mother call you?"
+            ],
+            [
+                52,
+                "Oh, I doubt that. I haven\u2019t figured out a way, and I\u2019m much smarter than all of you."
+            ],
+            [
+                54,
+                "Oh, I\u2019m sorry, that is what I meant."
+            ],
+            [
+                57,
+                "I do like the X-Men."
+            ],
+            [
+                61,
+                "I don\u2019t know. If you\u2019re my X-Men, what are your powers?"
+            ],
+            [
+                63,
+                "That\u2019s not exactly a mutation that would get you into Xavier\u2019s School for Gifted Youngsters, but go on. Leonard?"
+            ],
+            [
+                65,
+                "What qualifies you to attempt to understand my mind?"
+            ],
+            [
+                68,
+                "I see. Well, I assume, since the rest of you have set the bar so low, you\u2019re saving the most impressive contribution for last. Go ahead, Howard. Dazzle me."
+            ],
+            [
+                70,
+                "And I appreciate the pretence."
+            ],
+            [
+                72,
+                "No. The X-Men were named for the X in Charles Xavier. Since I am Sheldon Cooper, you will be my C-Men."
+            ],
+            [
+                76,
+                "And yet, you can\u2019t speak to women."
+            ],
+            [
+                78,
+                "Okay, but don\u2019t punch me."
+            ],
+            [
+                80,
+                "When I was little, my sister would say to me, close your eyes, you\u2019ll get a surprise, and then she\u2019d punch me."
+            ],
+            [
+                82,
+                "That\u2019s what my sister used to say."
+            ],
+            [
+                84,
+                "I\u2019m sorry. Proceed."
+            ],
+            [
+                86,
+                "Sim City. More specifically, the Sim City I designed, Sheldonopolis."
+            ],
+            [
+                88,
+                "Where exactly? Sheldon Square? Sheldon Towers? Sheldon Stadium, home of the Fighting Sheldons?"
+            ],
+            [
+                90,
+                "I thought this was supposed to be a guided meditation."
+            ],
+            [
+                92,
+                "Really? This time of year? It\u2019s a bit nippy."
+            ],
+            [
+                94,
+                "Suppose I could run downtown and pick up something at Shel-Mart."
+            ],
+            [
+                96,
+                "You know, the nice thing about Shel-Mart is I own it, so I get a 15% discount."
+            ],
+            [
+                98,
+                "Look, I didn\u2019t turn a profit last quarter by taking product off the shelves willy-nilly."
+            ],
+            [
+                100,
+                "Hang on. It\u2019s a cardigan. I have to button it. Oh, no."
+            ],
+            [
+                102,
+                "A Godzilla-like monster is approaching the city. I have to get my people to safety. People of Sheldonopolis, this is your mayor. Follow me. If the children can\u2019t run, leave them behind. Oh, the simulated horror! (Sound of door slamming) Raj? Just as I suspected. Meditation is nothing but hokum."
+            ],
+            [
+                104,
+                "I question your premise. How is a new suit going to prevent me from passing out in front of a ballroom full of people?"
+            ],
+            [
+                106,
+                "Don\u2019t you eventually realize you\u2019re just the same stressed out person in a cute top or a fun skirt?"
+            ],
+            [
+                108,
+                "It\u2019s only one colour."
+            ],
+            [
+                110,
+                "That\u2019s a lot of money for only one colour."
+            ],
+            [
+                112,
+                "Hmm. (Cut to Sheldon exiting changing room in a loud check suit). This is pretty sharp."
+            ],
+            [
+                116,
+                "In the prom department."
+            ],
+            [
+                118,
+                "Says the former member of the Corn Queen\u2019s Court."
+            ],
+            [
+                120,
+                "Okay. But anything I put on now is only going to suffer in comparison. (Goes into changing room. Comes out in black suit looking terrific.) This is absurd. I look like a clown."
+            ],
+            [
+                123,
+                "That\u2019s how you start a psychotherapy session? How am I doing? I was promised a riverboat journey into the jungles of my subconscious. Instead, I get the same question I hear from the lady who slices my bologna at Ralph\u2019s."
+            ],
+            [
+                125,
+                "Would it be helpful to you if I told you about my dreams?"
+            ],
+            [
+                127,
+                "I recently had a dream that I was a giant. But everything around me was to scale, so it all looked normal."
+            ],
+            [
+                129,
+                "I was wearing size a million pants."
+            ],
+            [
+                131,
+                "Ah, the talking cure. Classical Freudian, good choice. If it will help speed things along, uh, my answers to the standard Rorschach ink blot test are A, a bat, B, a bat, C, a bat, and D, my father killing my mother with a hypodermic needle."
+            ],
+            [
+                133,
+                "Really, Leonard? You\u2019re just going to try to recycle Adler\u2019s doctrine of the inferiority complex? I could probably get that from the woman at Ralph\u2019s. And she\u2019d let me taste some pieces of cheese for free."
+            ],
+            [
+                135,
+                "And how did that make you feel?"
+            ],
+            [
+                137,
+                "Go on."
+            ],
+            [
+                139,
+                "So, I hear you saying you\u2019re angry with your mother."
+            ],
+            [
+                141,
+                "Thank you, Leonard."
+            ],
+            [
+                143,
+                "If someone as damaged as you can find his way to crawl out of bed each morning, I think I can face a simple award ceremony."
+            ],
+            [
+                147,
+                "Oh, dear."
+            ],
+            [
+                149,
+                "I\u2019m getting dizzy."
+            ],
+            [
+                151,
+                "I can\u2019t do this. I\u2019m going to faint."
+            ],
+            [
+                153,
+                "Alcohol? I don\u2019t drink alcohol."
+            ],
+            [
+                155,
+                "I don\u2019t feel different, this alcohol\u2019s defective."
+            ],
+            [
+                158,
+                "I\u2019m ready."
+            ],
+            [
+                160,
+                "Thanks, shorty,I\u2019ll take it from here. All right, you people ready to have some fun? You have a basic understanding of differential calculus and at least one year of algebraic topology? Well, then here come the jokes. Why did the chicken cross the Mobius strip? To get to the same side, bazinga! All right, a neutron walks into a bar and asks, how much for a drink? The bartender says, for you, no charge. Hello? I know you\u2019re out there. I can hear you metabolizing oxygen and expelling carbon dioxide. Looks like we have some academic dignitaries in the audience. Dr. Randall from the geology department, only man who\u2019s happy when they take his work for granite. Ba-da cha! I kid the geologists, of course, but it\u2019s only \u2019cause I have no respect for the field. Let\u2019s get serious for a moment. Why are we all here? \u2018Cause we\u2019re scientists. And what do scientists study? The universe. And what\u2019s the universe made of? I am so glad you asked. (Singing) There\u2019s antimony, arsenic, aluminium, selenium, and hydrogen and oxygen and nitrogen and rhenium, and nickel, neodymium,"
+            ],
+            [
+                164,
+                "Penny, Leonard. Would you be able to answer some questions I\u2019m having about the events of last night?"
+            ],
+            [
+                166,
+                "Question one, where are my pants?"
+            ],
+            [
+                168,
+                "What do I search?"
+            ],
+            [
+                171,
+                "Oh, Lord, this couldn\u2019t be any more humiliating."
+            ]
+        ],
+        "Leonard": [
+            [
+                7,
+                "Hey, Sheldon, I was up in the administration office, and I happened to overhear the name of the winner of this year\u2019s Chancellor\u2019s Award for Science."
+            ],
+            [
+                9,
+                "Oh, I\u2019m so glad you asked it like that. You."
+            ],
+            [
+                11,
+                "You won."
+            ],
+            [
+                20,
+                "Hey, you didn\u2019t want a Slurpee at 7-Eleven, you don\u2019t get glasses."
+            ],
+            [
+                24,
+                "What?"
+            ],
+            [
+                29,
+                "What, to you, is a large crowd?"
+            ],
+            [
+                37,
+                "Sheldon, you\u2019re being ridiculous."
+            ],
+            [
+                44,
+                "Sheldon? Sheldon, are you okay?"
+            ],
+            [
+                48,
+                "Sit down, we want to talk to you."
+            ],
+            [
+                51,
+                "We think we can help you with your stage fright."
+            ],
+            [
+                56,
+                "We can help you. We can be your team. Like, uh, Professor Xavier and his X-Men."
+            ],
+            [
+                59,
+                "Yeah, we watched it last week. You said you liked it."
+            ],
+            [
+                64,
+                "I thought I could try to analyze you and get to the root of your anxiety."
+            ],
+            [
+                66,
+                "My mother is a highly regarded psychiatrist, and I\u2019ve been in therapy ever since she accused me of breast-feeding co-dependently."
+            ],
+            [
+                122,
+                "So, Sheldon, how you doing?"
+            ],
+            [
+                124,
+                "I\u2019m sorry, I\u2019ll start again."
+            ],
+            [
+                126,
+                "Um, I don\u2019t know, maybe."
+            ],
+            [
+                128,
+                "How did you know you were a giant if everything was to scale?"
+            ],
+            [
+                130,
+                "Why don\u2019t we just talk?"
+            ],
+            [
+                132,
+                "Why don\u2019t I just start? Sometimes people have trouble accepting accolades if, on a subconscious level, they don\u2019t feel they deserve them. Do you think maybe that\u2019s what\u2019s happening here?"
+            ],
+            [
+                134,
+                "But it could be part of your problem. Let me give you an example. When I was eight, I won a ribbon at the science fair for my project, \u201cDo Lima Beans Grow Better to Classical Music.\u201d But my mother pointed out that it was just a rehash of my brother\u2019s earlier \u201cDo Lima Beans Grow Worse to Rock \u2018n\u2019 Roll.\u201d I felt so guilty, I gave the ribbon back."
+            ],
+            [
+                136,
+                "Terrible. I worked really hard on that project. I stayed up all night singing the clown\u2019s aria from Pagliacci to a lima bean sprout."
+            ],
+            [
+                138,
+                "It wasn\u2019t my fault. I had never seen my brother\u2019s project. And my mother could\u2019ve told me before instead of at the ceremony in front of everyone."
+            ],
+            [
+                140,
+                "Damn right, I\u2019m angry with my mother. For God\u2019s sake, I was eight years old. She humiliated me. That\u2019s when the bed-wetting started again."
+            ],
+            [
+                142,
+                "For what?"
+            ],
+            [
+                144,
+                "Wait, that\u2019s it? I thought we had a whole hour!"
+            ],
+            [
+                146,
+                "Good evening, ladies and gentlemen. My name is Dr. Leonard Hofstadter, and it is my very great honour to introduce the winner of this year\u2019s Chancellor\u2019s award for Science and my good friend, Dr. Sheldon Cooper. But before I do, I\u2019d like to share with you a letter from Sheldon\u2019s mother, who couldn\u2019t be here tonight. Isn\u2019t that nice? His mother sent him a letter. She\u2019s proud of him. I wonder what that feels like. Dear Shelly. That\u2019s what she calls him. Shelly, it\u2019s a pet name. You know what my mother\u2019s pet name for me is? Leonard. But I digress. Dear Shelly. I am so proud of\u2026 (continues as background noise)"
+            ],
+            [
+                159,
+                "Oh, right. Ladies and gentlemen, our guest of honour, Dr. Sheldon Cooper."
+            ],
+            [
+                167,
+                "You might want to check YouTube."
+            ],
+            [
+                169,
+                "It\u2019s already loaded. Just hit play."
+            ],
+            [
+                172,
+                "Uh-uh, give it a minute."
+            ]
+        ],
+        "Sheldon (phone rings)": [
+            [
+                21,
+                "Oh, that will be another congratulatory call for me. Uh, mute, please."
+            ]
+        ],
+        "Penny": [
+            [
+                31,
+                "Sheldon, congratulations. Brought you cheesecake from work. You know, \u2019cause of your award, not because a busboy sneezed on it."
+            ],
+            [
+                33,
+                "Why not?"
+            ],
+            [
+                35,
+                "That\u2019s no reason to back out. You know, I once got a pretty big honour in high school, and I was terrified about appearing in front of a big crowd, but I went through with it, and you know what? The world looked pretty darn good sitting on a haystack in the back of a Ford F-150 as a member of the Corn Queen\u2019s court."
+            ],
+            [
+                41,
+                "I just love how you always skip over the part where no one asks."
+            ],
+            [
+                43,
+                "Oh, my God."
+            ],
+            [
+                50,
+                "Just sit."
+            ],
+            [
+                53,
+                "Yes, but you\u2019re not smarter than all of us put together."
+            ],
+            [
+                55,
+                "Okay, your problem is, you\u2019re trying to do this all by yourself."
+            ],
+            [
+                58,
+                "Did I see X-Men?"
+            ],
+            [
+                60,
+                "Oh. I say a lot of things, sweetie. So, how about it, Sheldon?"
+            ],
+            [
+                62,
+                "Okay. Well, I am going to take you shopping, get you a nice suit. Might give you more confidence."
+            ],
+            [
+                71,
+                "So, what do you say, Sheldon? Are we your X-Men?"
+            ],
+            [
+                105,
+                "It\u2019ll give you confidence. You know, sometimes when I\u2019m feeling all stressed out about something, I go out and buy a cute top or a fun skirt and I have a whole new outlook on life."
+            ],
+            [
+                107,
+                "Yeah, that\u2019s when I buy shoes. Now, let\u2019s see what we\u2019ve got. Ooh! This is nice."
+            ],
+            [
+                109,
+                "Yeah, so?"
+            ],
+            [
+                111,
+                "Fine. Why don\u2019t you pick out what you like."
+            ],
+            [
+                113,
+                "No, you\u2019re wrong."
+            ],
+            [
+                115,
+                "Where the hell d\u2019you find that?"
+            ],
+            [
+                117,
+                "It\u2019s ridiculous."
+            ],
+            [
+                119,
+                "Please just try this one on."
+            ],
+            [
+                148,
+                "What\u2019s the matter?"
+            ],
+            [
+                152,
+                "Here, drink this. It\u2019ll relax you."
+            ],
+            [
+                154,
+                "Fine, faint."
+            ],
+            [
+                156,
+                "Here, see if this one works."
+            ],
+            [
+                165,
+                "Sure."
+            ]
+        ],
+        "Sheldon (now in a sparkly green suit with rhinestones)": [
+            [
+                114,
+                "This is great. I had a suit like this when I was six. (Cut to Sheldon exiting in a white dinner suit with tails) Okay, I think we have a winner."
+            ]
+        ],
+        "Leonard (still talking)": [
+            [
+                157,
+                "First of all, the projects were totally different. I was showing that classical music nurtures lima beans and makes them grow, but my mother didn\u2019t hear me. If you\u2019d like to look at the relationship between nurturing and growth, I\u2019d like to point out that my brother is eight inches taller than me."
+            ]
+        ],
+        "On-screen Sheldon": [
+            [
+                170,
+                "All right, people, let\u2019s get down to the math. It is only three dimensional thinking that limits our imagination. Can I take my pants off over my head? Of course not. My body\u2019s in the way. But if we had access to higher dimensions, we could move our pants around our bodies through the fourth dimension and our days of dropping trousers would be over."
+            ],
+            [
+                173,
+                "Now, for the astronomers in the audience, get ready to see the dark side of the moon. And here\u2019s Uranus."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The university cafeteria."
+        ],
+        [
+            "Raj",
+            "Okay in Avatar when they have sex in Pandora they hook up their ponytails, so we know their ponytails are like their junk."
+        ],
+        [
+            "Howard",
+            "Yeah, so?"
+        ],
+        [
+            "Raj",
+            "So, when they ride horses and fly on the birds, they also use their ponytails."
+        ],
+        [
+            "Howard",
+            "What\u2019s your point?"
+        ],
+        [
+            "Raj",
+            "My point is, if I were a horse or a bird, I\u2019d be very nervous around James Cameron."
+        ],
+        [
+            "Sheldon",
+            "It amazes me how you constantly obsess over fictional details when there are more important things in the real world to worry about. For example, why wasn\u2019t William Shatner in the new Star Trek movie?"
+        ],
+        [
+            "Leonard",
+            "Hey, Sheldon, I was up in the administration office, and I happened to overhear the name of the winner of this year\u2019s Chancellor\u2019s Award for Science."
+        ],
+        [
+            "Sheldon",
+            "And you want to rub my nose in the fact that my contributions are being overlooked again? I am the William Shatner of theoretical physics. All right, I\u2019ll play. What self-important, preening fraud are they honouring this year?"
+        ],
+        [
+            "Leonard",
+            "Oh, I\u2019m so glad you asked it like that. You."
+        ],
+        [
+            "Sheldon",
+            "I won?"
+        ],
+        [
+            "Leonard",
+            "You won."
+        ],
+        [
+            "Sheldon",
+            "I won! This is astonishing. Not that I won the award, no one deserves it more. Actually, I guess I misspoke. It\u2019s not astonishing, more like inevitable. I\u2019m not sure what to do first. Maybe I should call my mother. Wait! I know, I\u2019m going to conduct an interview with myself and post it online."
+        ],
+        [
+            "Raj",
+            "Well, good for him."
+        ],
+        [
+            "Howard",
+            "Yeah, the one thing the William Shatner of theoretical physics needed was an ego boost."
+        ],
+        [
+            "Scene",
+            "Credits sequence"
+        ],
+        [
+            "Scene",
+            "The apartment. The guys are watching Avatar in 3D. All are wearing 3D glasses except Raj."
+        ],
+        [
+            "Howard",
+            "Didn\u2019t it look like that spear was going to go right through your skull?"
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Leonard",
+            "Hey, you didn\u2019t want a Slurpee at 7-Eleven, you don\u2019t get glasses."
+        ],
+        [
+            "Sheldon (phone rings)",
+            "Oh, that will be another congratulatory call for me. Uh, mute, please."
+        ],
+        [
+            "Howard",
+            "Uh, hang on, flaming arrow."
+        ],
+        [
+            "Sheldon",
+            "Hello? Oh, Chancellor Morton, how are you, sir? Yes, I was expecting your call (aside) three years ago. I see. Wait. What happens if I choose not to give a speech? Uh-huh. And if I don\u2019t want to forfeit the award? Well, you\u2019ve got that tied up in a neat little bow. All right. Thank you. (Hangs up) Problem."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "They expect me to give a speech at the banquet. I can\u2019t give a speech."
+        ],
+        [
+            "Howard",
+            "Well, no, you\u2019re mistaken. You give speeches all the time. What you can\u2019t do is shut up."
+        ],
+        [
+            "Raj",
+            "Yeah, before the movie, you did 20 minutes on why guacamole turns brown. It turned brown while you were talking."
+        ],
+        [
+            "Sheldon",
+            "I am perfectly comfortable speaking to small groups. I cannot speak to large crowds."
+        ],
+        [
+            "Leonard",
+            "What, to you, is a large crowd?"
+        ],
+        [
+            "Sheldon",
+            "Any group big enough to trample me to death. General rule of thumb is 36 adults or 70 children."
+        ],
+        [
+            "Penny",
+            "Sheldon, congratulations. Brought you cheesecake from work. You know, \u2019cause of your award, not because a busboy sneezed on it."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not accepting the award."
+        ],
+        [
+            "Penny",
+            "Why not?"
+        ],
+        [
+            "Howard",
+            "Turns out the great Sheldon Cooper has stage fright."
+        ],
+        [
+            "Penny",
+            "That\u2019s no reason to back out. You know, I once got a pretty big honour in high school, and I was terrified about appearing in front of a big crowd, but I went through with it, and you know what? The world looked pretty darn good sitting on a haystack in the back of a Ford F-150 as a member of the Corn Queen\u2019s court."
+        ],
+        [
+            "Sheldon",
+            "Thank you. Yeah, I\u2019ll bear that in mind if I\u2019m ever nominated for the Hillbilly Peace Prize."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you\u2019re being ridiculous."
+        ],
+        [
+            "Sheldon",
+            "Am I? Let me tell you a story."
+        ],
+        [
+            "Howard",
+            "Where\u2019s 70 children when you need \u2018em?"
+        ],
+        [
+            "Sheldon",
+            "I was 14 and graduating summa cum laude from college. Summa cum laude is Latin for with highest honours."
+        ],
+        [
+            "Penny",
+            "I just love how you always skip over the part where no one asks."
+        ],
+        [
+            "Sheldon",
+            "I was valedictorian and expected to give an address. Even now, I can remember that moment when I walked up to the podium and looked out at the crowd. There must have been thousands of people. My heart started pounding in my chest. I began to hyperventilate. My vision became blurry, and before I knew it\u2026 oh, dear. (He faints.)"
+        ],
+        [
+            "Penny",
+            "Oh, my God."
+        ],
+        [
+            "Leonard",
+            "Sheldon? Sheldon, are you okay?"
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t trample me."
+        ],
+        [
+            "Scene",
+            "The stairwell. Sheldon is on the phone."
+        ],
+        [
+            "Sheldon",
+            "Come on, Mother, you know why I can\u2019t accept the award. With all due respect, I don\u2019t think praying will help. No, I have not heard the song, Jesus, Take the Wheel. No, no, no, no, no, no, no, you don\u2019t need to start singing it. Yes, I\u2019ll buy it on the iTunes, Mother. Good-bye, Mother. (Enters apartment. The others are sitting as if waiting for him.) Hello."
+        ],
+        [
+            "Leonard",
+            "Sit down, we want to talk to you."
+        ],
+        [
+            "Sheldon",
+            "Am I in trouble? Did my mother call you?"
+        ],
+        [
+            "Penny",
+            "Just sit."
+        ],
+        [
+            "Leonard",
+            "We think we can help you with your stage fright."
+        ],
+        [
+            "Sheldon",
+            "Oh, I doubt that. I haven\u2019t figured out a way, and I\u2019m much smarter than all of you."
+        ],
+        [
+            "Penny",
+            "Yes, but you\u2019re not smarter than all of us put together."
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m sorry, that is what I meant."
+        ],
+        [
+            "Penny",
+            "Okay, your problem is, you\u2019re trying to do this all by yourself."
+        ],
+        [
+            "Leonard",
+            "We can help you. We can be your team. Like, uh, Professor Xavier and his X-Men."
+        ],
+        [
+            "Sheldon",
+            "I do like the X-Men."
+        ],
+        [
+            "Penny",
+            "Did I see X-Men?"
+        ],
+        [
+            "Leonard",
+            "Yeah, we watched it last week. You said you liked it."
+        ],
+        [
+            "Penny",
+            "Oh. I say a lot of things, sweetie. So, how about it, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know. If you\u2019re my X-Men, what are your powers?"
+        ],
+        [
+            "Penny",
+            "Okay. Well, I am going to take you shopping, get you a nice suit. Might give you more confidence."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not exactly a mutation that would get you into Xavier\u2019s School for Gifted Youngsters, but go on. Leonard?"
+        ],
+        [
+            "Leonard",
+            "I thought I could try to analyze you and get to the root of your anxiety."
+        ],
+        [
+            "Sheldon",
+            "What qualifies you to attempt to understand my mind?"
+        ],
+        [
+            "Leonard",
+            "My mother is a highly regarded psychiatrist, and I\u2019ve been in therapy ever since she accused me of breast-feeding co-dependently."
+        ],
+        [
+            "Howard",
+            "Raj says he can teach you, what did you call it? I don\u2019t know, some Indian meditation crap."
+        ],
+        [
+            "Sheldon",
+            "I see. Well, I assume, since the rest of you have set the bar so low, you\u2019re saving the most impressive contribution for last. Go ahead, Howard. Dazzle me."
+        ],
+        [
+            "Howard",
+            "My power is the ability to pretend like I give a damn about your piddly-ass problems. And that\u2019s 24-7, buddy."
+        ],
+        [
+            "Sheldon",
+            "And I appreciate the pretence."
+        ],
+        [
+            "Penny",
+            "So, what do you say, Sheldon? Are we your X-Men?"
+        ],
+        [
+            "Sheldon",
+            "No. The X-Men were named for the X in Charles Xavier. Since I am Sheldon Cooper, you will be my C-Men."
+        ],
+        [
+            "Howard",
+            "Oh, that\u2019s not a good name."
+        ],
+        [
+            "Scene",
+            "The apartment. Raj is lighting candles. Indian music is playing."
+        ],
+        [
+            "Raj",
+            "Okay, Sheldon. I\u2019m going to be leading you through a series of meditation exercises. These methods come from the ancient gurus of India and have helped me overcome my own fears."
+        ],
+        [
+            "Sheldon",
+            "And yet, you can\u2019t speak to women."
+        ],
+        [
+            "Raj",
+            "True, but thanks to meditation, I am able to stay in the same room with them without urinating. Now, close your eyes."
+        ],
+        [
+            "Sheldon",
+            "Okay, but don\u2019t punch me."
+        ],
+        [
+            "Raj",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "When I was little, my sister would say to me, close your eyes, you\u2019ll get a surprise, and then she\u2019d punch me."
+        ],
+        [
+            "Raj",
+            "I\u2019m not going to punch you."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s what my sister used to say."
+        ],
+        [
+            "Raj",
+            "Do you want to do this or not?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. Proceed."
+        ],
+        [
+            "Raj",
+            "All right. Imagine yourself in the one place you feel most at home. Where is that?"
+        ],
+        [
+            "Sheldon",
+            "Sim City. More specifically, the Sim City I designed, Sheldonopolis."
+        ],
+        [
+            "Raj",
+            "Okay, you\u2019re in Sheldonopolis."
+        ],
+        [
+            "Sheldon",
+            "Where exactly? Sheldon Square? Sheldon Towers? Sheldon Stadium, home of the Fighting Sheldons?"
+        ],
+        [
+            "Raj",
+            "Whatever you like."
+        ],
+        [
+            "Sheldon",
+            "I thought this was supposed to be a guided meditation."
+        ],
+        [
+            "Raj",
+            "Fine. You\u2019re in Sheldon Square."
+        ],
+        [
+            "Sheldon",
+            "Really? This time of year? It\u2019s a bit nippy."
+        ],
+        [
+            "Raj",
+            "Then, put on a sweater."
+        ],
+        [
+            "Sheldon",
+            "Suppose I could run downtown and pick up something at Shel-Mart."
+        ],
+        [
+            "Raj",
+            "Yeah, whatever. Just go buy a sweater."
+        ],
+        [
+            "Sheldon",
+            "You know, the nice thing about Shel-Mart is I own it, so I get a 15% discount."
+        ],
+        [
+            "Raj",
+            "You own the damn thing. Just take a freaking sweater!"
+        ],
+        [
+            "Sheldon",
+            "Look, I didn\u2019t turn a profit last quarter by taking product off the shelves willy-nilly."
+        ],
+        [
+            "Raj",
+            "All right. You\u2019ve paid for a sweater, and you\u2019re in Sheldon Square."
+        ],
+        [
+            "Sheldon",
+            "Hang on. It\u2019s a cardigan. I have to button it. Oh, no."
+        ],
+        [
+            "Raj",
+            "What now?"
+        ],
+        [
+            "Sheldon",
+            "A Godzilla-like monster is approaching the city. I have to get my people to safety. People of Sheldonopolis, this is your mayor. Follow me. If the children can\u2019t run, leave them behind. Oh, the simulated horror! (Sound of door slamming) Raj? Just as I suspected. Meditation is nothing but hokum."
+        ],
+        [
+            "Scene",
+            "A clothing store."
+        ],
+        [
+            "Sheldon",
+            "I question your premise. How is a new suit going to prevent me from passing out in front of a ballroom full of people?"
+        ],
+        [
+            "Penny",
+            "It\u2019ll give you confidence. You know, sometimes when I\u2019m feeling all stressed out about something, I go out and buy a cute top or a fun skirt and I have a whole new outlook on life."
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t you eventually realize you\u2019re just the same stressed out person in a cute top or a fun skirt?"
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s when I buy shoes. Now, let\u2019s see what we\u2019ve got. Ooh! This is nice."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s only one colour."
+        ],
+        [
+            "Penny",
+            "Yeah, so?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a lot of money for only one colour."
+        ],
+        [
+            "Penny",
+            "Fine. Why don\u2019t you pick out what you like."
+        ],
+        [
+            "Sheldon",
+            "Hmm. (Cut to Sheldon exiting changing room in a loud check suit). This is pretty sharp."
+        ],
+        [
+            "Penny",
+            "No, you\u2019re wrong."
+        ],
+        [
+            "Sheldon (now in a sparkly green suit with rhinestones)",
+            "This is great. I had a suit like this when I was six. (Cut to Sheldon exiting in a white dinner suit with tails) Okay, I think we have a winner."
+        ],
+        [
+            "Penny",
+            "Where the hell d\u2019you find that?"
+        ],
+        [
+            "Sheldon",
+            "In the prom department."
+        ],
+        [
+            "Penny",
+            "It\u2019s ridiculous."
+        ],
+        [
+            "Sheldon",
+            "Says the former member of the Corn Queen\u2019s Court."
+        ],
+        [
+            "Penny",
+            "Please just try this one on."
+        ],
+        [
+            "Sheldon",
+            "Okay. But anything I put on now is only going to suffer in comparison. (Goes into changing room. Comes out in black suit looking terrific.) This is absurd. I look like a clown."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "So, Sheldon, how you doing?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s how you start a psychotherapy session? How am I doing? I was promised a riverboat journey into the jungles of my subconscious. Instead, I get the same question I hear from the lady who slices my bologna at Ralph\u2019s."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, I\u2019ll start again."
+        ],
+        [
+            "Sheldon",
+            "Would it be helpful to you if I told you about my dreams?"
+        ],
+        [
+            "Leonard",
+            "Um, I don\u2019t know, maybe."
+        ],
+        [
+            "Sheldon",
+            "I recently had a dream that I was a giant. But everything around me was to scale, so it all looked normal."
+        ],
+        [
+            "Leonard",
+            "How did you know you were a giant if everything was to scale?"
+        ],
+        [
+            "Sheldon",
+            "I was wearing size a million pants."
+        ],
+        [
+            "Leonard",
+            "Why don\u2019t we just talk?"
+        ],
+        [
+            "Sheldon",
+            "Ah, the talking cure. Classical Freudian, good choice. If it will help speed things along, uh, my answers to the standard Rorschach ink blot test are A, a bat, B, a bat, C, a bat, and D, my father killing my mother with a hypodermic needle."
+        ],
+        [
+            "Leonard",
+            "Why don\u2019t I just start? Sometimes people have trouble accepting accolades if, on a subconscious level, they don\u2019t feel they deserve them. Do you think maybe that\u2019s what\u2019s happening here?"
+        ],
+        [
+            "Sheldon",
+            "Really, Leonard? You\u2019re just going to try to recycle Adler\u2019s doctrine of the inferiority complex? I could probably get that from the woman at Ralph\u2019s. And she\u2019d let me taste some pieces of cheese for free."
+        ],
+        [
+            "Leonard",
+            "But it could be part of your problem. Let me give you an example. When I was eight, I won a ribbon at the science fair for my project, \u201cDo Lima Beans Grow Better to Classical Music.\u201d But my mother pointed out that it was just a rehash of my brother\u2019s earlier \u201cDo Lima Beans Grow Worse to Rock \u2018n\u2019 Roll.\u201d I felt so guilty, I gave the ribbon back."
+        ],
+        [
+            "Sheldon",
+            "And how did that make you feel?"
+        ],
+        [
+            "Leonard",
+            "Terrible. I worked really hard on that project. I stayed up all night singing the clown\u2019s aria from Pagliacci to a lima bean sprout."
+        ],
+        [
+            "Sheldon",
+            "Go on."
+        ],
+        [
+            "Leonard",
+            "It wasn\u2019t my fault. I had never seen my brother\u2019s project. And my mother could\u2019ve told me before instead of at the ceremony in front of everyone."
+        ],
+        [
+            "Sheldon",
+            "So, I hear you saying you\u2019re angry with your mother."
+        ],
+        [
+            "Leonard",
+            "Damn right, I\u2019m angry with my mother. For God\u2019s sake, I was eight years old. She humiliated me. That\u2019s when the bed-wetting started again."
+        ],
+        [
+            "Sheldon",
+            "Thank you, Leonard."
+        ],
+        [
+            "Leonard",
+            "For what?"
+        ],
+        [
+            "Sheldon",
+            "If someone as damaged as you can find his way to crawl out of bed each morning, I think I can face a simple award ceremony."
+        ],
+        [
+            "Leonard",
+            "Wait, that\u2019s it? I thought we had a whole hour!"
+        ],
+        [
+            "Scene",
+            "The award ceremony."
+        ],
+        [
+            "Leonard",
+            "Good evening, ladies and gentlemen. My name is Dr. Leonard Hofstadter, and it is my very great honour to introduce the winner of this year\u2019s Chancellor\u2019s award for Science and my good friend, Dr. Sheldon Cooper. But before I do, I\u2019d like to share with you a letter from Sheldon\u2019s mother, who couldn\u2019t be here tonight. Isn\u2019t that nice? His mother sent him a letter. She\u2019s proud of him. I wonder what that feels like. Dear Shelly. That\u2019s what she calls him. Shelly, it\u2019s a pet name. You know what my mother\u2019s pet name for me is? Leonard. But I digress. Dear Shelly. I am so proud of\u2026 (continues as background noise)"
+        ],
+        [
+            "Sheldon",
+            "Oh, dear."
+        ],
+        [
+            "Penny",
+            "What\u2019s the matter?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m getting dizzy."
+        ],
+        [
+            "Raj",
+            "Don\u2019t worry. You\u2019re surrounded by your C-Men."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t do this. I\u2019m going to faint."
+        ],
+        [
+            "Penny",
+            "Here, drink this. It\u2019ll relax you."
+        ],
+        [
+            "Sheldon",
+            "Alcohol? I don\u2019t drink alcohol."
+        ],
+        [
+            "Penny",
+            "Fine, faint."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t feel different, this alcohol\u2019s defective."
+        ],
+        [
+            "Penny",
+            "Here, see if this one works."
+        ],
+        [
+            "Leonard (still talking)",
+            "First of all, the projects were totally different. I was showing that classical music nurtures lima beans and makes them grow, but my mother didn\u2019t hear me. If you\u2019d like to look at the relationship between nurturing and growth, I\u2019d like to point out that my brother is eight inches taller than me."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m ready."
+        ],
+        [
+            "Leonard",
+            "Oh, right. Ladies and gentlemen, our guest of honour, Dr. Sheldon Cooper."
+        ],
+        [
+            "Sheldon",
+            "Thanks, shorty,I\u2019ll take it from here. All right, you people ready to have some fun? You have a basic understanding of differential calculus and at least one year of algebraic topology? Well, then here come the jokes. Why did the chicken cross the Mobius strip? To get to the same side, bazinga! All right, a neutron walks into a bar and asks, how much for a drink? The bartender says, for you, no charge. Hello? I know you\u2019re out there. I can hear you metabolizing oxygen and expelling carbon dioxide. Looks like we have some academic dignitaries in the audience. Dr. Randall from the geology department, only man who\u2019s happy when they take his work for granite. Ba-da cha! I kid the geologists, of course, but it\u2019s only \u2019cause I have no respect for the field. Let\u2019s get serious for a moment. Why are we all here? \u2018Cause we\u2019re scientists. And what do scientists study? The universe. And what\u2019s the universe made of? I am so glad you asked. (Singing) There\u2019s antimony, arsenic, aluminium, selenium, and hydrogen and oxygen and nitrogen and rhenium, and nickel, neodymium,"
+        ],
+        [
+            "Scene",
+            "neptunium, germanium\u2026 Everybody! And iron, americium, ruthenium, uranium, europium, zirconium, lutetium, vanadium\u2026 Just the Asians! And lanthanum and osmium, and astatine and radium\u2026"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Penny, Leonard. Would you be able to answer some questions I\u2019m having about the events of last night?"
+        ],
+        [
+            "Penny",
+            "Sure."
+        ],
+        [
+            "Sheldon",
+            "Question one, where are my pants?"
+        ],
+        [
+            "Leonard",
+            "You might want to check YouTube."
+        ],
+        [
+            "Sheldon",
+            "What do I search?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s already loaded. Just hit play."
+        ],
+        [
+            "On-screen Sheldon",
+            "All right, people, let\u2019s get down to the math. It is only three dimensional thinking that limits our imagination. Can I take my pants off over my head? Of course not. My body\u2019s in the way. But if we had access to higher dimensions, we could move our pants around our bodies through the fourth dimension and our days of dropping trousers would be over."
+        ],
+        [
+            "Sheldon",
+            "Oh, Lord, this couldn\u2019t be any more humiliating."
+        ],
+        [
+            "Leonard",
+            "Uh-uh, give it a minute."
+        ],
+        [
+            "On-screen Sheldon",
+            "Now, for the astronomers in the audience, get ready to see the dark side of the moon. And here\u2019s Uranus."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-18-the-pants-alternative/"
+}

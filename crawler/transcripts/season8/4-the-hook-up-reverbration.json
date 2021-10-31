@@ -1,0 +1,2080 @@
+{
+    "Season": 8,
+    "Episode": 4,
+    "Title": "the hook up reverbration",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The cafeteria."
+            ],
+            [
+                20,
+                "Credits sequence."
+            ],
+            [
+                21,
+                "The apartment."
+            ],
+            [
+                47,
+                "Penny\u2019s apartment."
+            ],
+            [
+                64,
+                "Capital Comics."
+            ],
+            [
+                81,
+                "Emily\u2019s surgery. "
+            ],
+            [
+                109,
+                "The apartment. "
+            ],
+            [
+                134,
+                "Penny\u2019s apartment."
+            ],
+            [
+                153,
+                "Capital Comics."
+            ],
+            [
+                175,
+                "The stairwell."
+            ],
+            [
+                184,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                202,
+                "The apartment."
+            ],
+            [
+                212,
+                "Penny\u2019s apartment."
+            ],
+            [
+                226,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                238,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                248,
+                "The apartment. "
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Have you guys heard about this research team that\u2019s trying to transgenically manipulate chicken DNA to create some sort of chicken dinosaur?"
+            ],
+            [
+                9,
+                "Yeah. I\u2019m excited to finally meet your girlfriend."
+            ],
+            [
+                14,
+                "Yeah, you didn\u2019t lose anyone when you met Amy. Yeah, well, no, this study refers to romantic partners. Not the way I would categorize the two of us."
+            ],
+            [
+                16,
+                "I\u2019ve seen him do it. It\u2019s not romantic."
+            ],
+            [
+                18,
+                "What happens if she doesn\u2019t like us?"
+            ],
+            [
+                33,
+                "Nice to finally meet you, too."
+            ],
+            [
+                36,
+                "Wow, Raj, you were not lying about her."
+            ],
+            [
+                67,
+                "Okay, him I believe because he\u2019s an 80-year-old man in a 15-year-old\u2019s tee shirt. But you\u2019re just upset about Stuart and your mom and all their HBOs."
+            ],
+            [
+                71,
+                "Why? Because they won\u2019t get off your lawn? Is Stuart trying to get a loan, or, or find investors?"
+            ],
+            [
+                74,
+                "Hey, here\u2019s a thought. Why don\u2019t we put up the rest of the money that Stuart needs?"
+            ],
+            [
+                76,
+                "It\u2019s kind of a dream come true."
+            ],
+            [
+                80,
+                "It\u2019s not that bad."
+            ],
+            [
+                111,
+                "Oh, kids buy comic books. It would be great to figure out a way to get more kids in the store."
+            ],
+            [
+                116,
+                "Hold on. So, your idea is to get a van and cruise the streets looking for kids to pick up?"
+            ],
+            [
+                118,
+                "And are you gonna use candy to lure them in?"
+            ],
+            [
+                126,
+                "Why say it?"
+            ],
+            [
+                159,
+                "Uh, do you know how Penny told Raj he should have left her off his list?"
+            ],
+            [
+                161,
+                "Well, do you think when she and I had that conversation, she left people off her list?"
+            ],
+            [
+                163,
+                "Why?"
+            ],
+            [
+                165,
+                "Will you stay out of this?"
+            ],
+            [
+                168,
+                "That\u2019s true."
+            ],
+            [
+                171,
+                "Why are you even part of this conversation? You don\u2019t know anything about women."
+            ],
+            [
+                176,
+                "There\u2019s something I wanted to run past you."
+            ],
+            [
+                178,
+                "Mm, the guys and I were thinking about investing in Stuart\u2019s comic book store. Is that okay?"
+            ],
+            [
+                180,
+                "Well, you know, we\u2019re engaged, and it\u2019s kind of a big deal financially. It seems like something we should talk about."
+            ],
+            [
+                182,
+                "Yeah."
+            ],
+            [
+                250,
+                "I know. I was looking forward to it."
+            ],
+            [
+                255,
+                "Yeah."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Oh, I think that sounds wonderful."
+            ],
+            [
+                4,
+                "Yes, but tell me a dinosaur chicken salad sandwich wouldn\u2019t hit the Mesozoic spot."
+            ],
+            [
+                7,
+                "Hello."
+            ],
+            [
+                10,
+                "Speaking of which, according to a recent study out of Oxford University, when someone takes on a new romantic partner, that person loses one or two close friends."
+            ],
+            [
+                12,
+                "I go to the bathroom like everybody else."
+            ],
+            [
+                28,
+                "Hello."
+            ],
+            [
+                40,
+                "Oh, I like their emergency room. Yeah, even if it turns out you don\u2019t have Dengue fever, they still let you take a lollipop."
+            ],
+            [
+                44,
+                "I have some odd freckles on my buttocks. Can I make an appointment for you to look at them?"
+            ],
+            [
+                65,
+                "I miss Stuart\u2019s place. All this loud music and exposed brick. What, is this a comic book store, or a rave at the third little pig\u2019s house?"
+            ],
+            [
+                70,
+                "Oh, boy, if there is one thing that gets my goat, it\u2019s those dad-gum insurance companies."
+            ],
+            [
+                73,
+                "For starters, they shed and bite."
+            ],
+            [
+                79,
+                "I\u2019ll give you a plan right now. Step one, open comic book store. Step two, start rumour this comic book store gives you genital warts. Step three, buy a big bag to put the money in."
+            ],
+            [
+                110,
+                "So, what are some ways we could set our comic book store apart from the competition?"
+            ],
+            [
+                114,
+                "Nice. You mean, like at parks and schools?"
+            ],
+            [
+                117,
+                "Yes."
+            ],
+            [
+                131,
+                "On the bright side, that Oxford study was right. One friend down. I wonder who you\u2019re going to lose next."
+            ],
+            [
+                133,
+                "No. You\u2019re crazy about me."
+            ],
+            [
+                154,
+                "You know, the more I think about it, the more intrigued I am about having our own store."
+            ],
+            [
+                156,
+                "And we\u2019ll get to have fun interactions with our customers. Like, this isn\u2019t a library, buy it or get out."
+            ],
+            [
+                158,
+                "Yes, but as a store owner, I\u2019ll finally have a good comeback to, You don\u2019t work here, shut up."
+            ],
+            [
+                162,
+                "I\u2019m sure she did."
+            ],
+            [
+                164,
+                "Because if she hadn\u2019t, she\u2019d still be wading through the list."
+            ],
+            [
+                166,
+                "If only Penny had said that once in a while."
+            ],
+            [
+                170,
+                "Yeah, he\u2019s right. Once, in a moment of candour, I told Amy that her hair reminded me of a duck caught in an oil spill. She stormed out. Which was sad, because we were playing Scrabble, and I had all the letters to spell persimmon."
+            ],
+            [
+                172,
+                "I know that if I had a wife or a fianc\u00e9e, I\u2019d ask her first before I invested money in a comic book store."
+            ],
+            [
+                174,
+                "Yeah, well, of course I am. I was also right about her hair. It did everything but quack."
+            ],
+            [
+                203,
+                "I\u2019d like your honest opinion on something."
+            ],
+            [
+                205,
+                "Now, before I start, I need you to know that I\u2019m very excited about this, and anything you say that isn\u2019t enthusiastically supportive will throw our entire relationship into question. So, keep an open mind."
+            ],
+            [
+                207,
+                "Perfect. Now, I\u2019m considering investing in Stuart\u2019s comic book store."
+            ],
+            [
+                209,
+                "No."
+            ],
+            [
+                211,
+                "Great. Wait till you hear about our van."
+            ],
+            [
+                251,
+                "It would\u2019ve been so nice to have a place that was ours, where we could just sit and read comics in peace."
+            ],
+            [
+                254,
+                "Well, I guess it was too good to be true."
+            ]
+        ],
+        "Howard": [
+            [
+                3,
+                "What? You\u2019re afraid of both dinosaurs and chickens."
+            ],
+            [
+                6,
+                "Hey."
+            ],
+            [
+                11,
+                "Since when do you read social science?"
+            ],
+            [
+                23,
+                "I don\u2019t want to talk about it."
+            ],
+            [
+                25,
+                "My mom got him cable. In my whole life, growing up in that house, no cable. Do you know how many HBOs that leech had my mother get him? Seven. Seven HBOs. Seven."
+            ],
+            [
+                66,
+                "Yep, I wish Stuart would reopen. I hate this place, too."
+            ],
+            [
+                68,
+                "Yes, I am. You know, I can\u2019t even watch Game of Thrones now without thinking of mother saying, Stuart, which one is Thrones?"
+            ],
+            [
+                72,
+                "All I know is, he\u2019s got my mother buying four-ply toilet paper. I mean, four-ply. If his butt is so delicate, why doesn\u2019t he just use an angora rabbit?"
+            ],
+            [
+                77,
+                "That does sound fun."
+            ],
+            [
+                112,
+                "You know, when I was a kid, I loved going there, but I could never get a ride."
+            ],
+            [
+                115,
+                "Toy stores, puppet shows."
+            ],
+            [
+                155,
+                "We\u2019ll get to see all the new stuff before it hits the shelves."
+            ],
+            [
+                157,
+                "You say things like that all the time."
+            ],
+            [
+                160,
+                "Yeah."
+            ],
+            [
+                167,
+                "Hey, what difference does it make? You\u2019re the one she wants to marry."
+            ],
+            [
+                169,
+                "Yeah, and I\u2019m not sure that complete honesty is always the best thing for a relationship."
+            ],
+            [
+                173,
+                "He\u2019s right."
+            ],
+            [
+                185,
+                "Mm. So, me and the guys were talking about this great investment opportunity."
+            ],
+            [
+                187,
+                "But you didn\u2019t hear what it was."
+            ],
+            [
+                189,
+                "Oh, come on."
+            ],
+            [
+                191,
+                "It\u2019s to help reopen the comic book store."
+            ],
+            [
+                193,
+                "Well, hear me out."
+            ],
+            [
+                195,
+                "I know, but all the guys are doing it. We\u2019re splitting it four ways, so it\u2019s really not that much money."
+            ],
+            [
+                197,
+                "I get that. I, okay, look, the real reason this is important is, before my dad left me and my mom, he used to take me to the comic book store. It was one of the few things we did together."
+            ],
+            [
+                199,
+                "Well, I don\u2019t like to talk about it."
+            ],
+            [
+                201,
+                "That\u2019s how much buying a comic book store means to me."
+            ],
+            [
+                228,
+                "Well, I don\u2019t need a reason, it\u2019s my house."
+            ],
+            [
+                230,
+                "I\u2019m always welcome."
+            ],
+            [
+                234,
+                "What?"
+            ],
+            [
+                236,
+                "Excuse me. Ma, you are cancelling that cheque, and Stuart is not your bubala, I\u2019m your bubala. You can\u2019t have more than one bubala."
+            ],
+            [
+                252,
+                "With comfy seats."
+            ]
+        ],
+        "Raj": [
+            [
+                5,
+                "Hey, guys."
+            ],
+            [
+                8,
+                "We still on for tomorrow night?"
+            ],
+            [
+                13,
+                "Why would I lose friends just because I started dating someone?"
+            ],
+            [
+                15,
+                "You guys kiss and hold hands."
+            ],
+            [
+                17,
+                "Look, I\u2019m not the kind of guy who drops his friends just because he\u2019s in a relationship."
+            ],
+            [
+                19,
+                "Well, hey, you\u2019re my dear friends. You\u2019ll get a Christmas card for a couple of years, and then you\u2019re dead to me."
+            ],
+            [
+                27,
+                "Hey, guys."
+            ],
+            [
+                29,
+                "Emily, you know almost everybody here."
+            ],
+            [
+                31,
+                "And this is Leonard, this is Penny."
+            ],
+            [
+                37,
+                "I told you she exists."
+            ],
+            [
+                69,
+                "You know, he might not reopen. He didn\u2019t get a lot of money from the insurance company."
+            ],
+            [
+                75,
+                "So, we\u2019d be, like, owners of a comic book store?"
+            ],
+            [
+                78,
+                "Ooh, maybe we could come up with a business plan to compete with this place."
+            ],
+            [
+                113,
+                "Ooh, what if we got a van and drove around and picked kids up?"
+            ],
+            [
+                119,
+                "We are now."
+            ],
+            [
+                121,
+                "Um, well, in my defence, I tell everybody."
+            ],
+            [
+                123,
+                "We were having a conversation about past lovers."
+            ],
+            [
+                125,
+                "Well, we were being honest. You would leave me out of the conversation with the next guy if you dumped Leonard?"
+            ],
+            [
+                128,
+                "Well, I would never leave you off my list, and not just because, without you, we\u2019re playing fast and loose with the word list."
+            ],
+            [
+                130,
+                "Great."
+            ],
+            [
+                132,
+                "You, okay? It\u2019s you. You\u2019re, you\u2019re next."
+            ],
+            [
+                213,
+                "Hey."
+            ],
+            [
+                215,
+                "Thanks for inviting us over."
+            ],
+            [
+                219,
+                "Excuse me, can I say something? I just love both you guys, and I want you to get along. And when I say love I meant as a friend. And, uh, way too soon, right?"
+            ],
+            [
+                221,
+                "It was, and I may have made it seem like a bigger deal than I should have."
+            ],
+            [
+                225,
+                "It\u2019s true, you\u2019re both gorgeous. Kind of says something about the man who could bed you both. You get why I\u2019ve been alone most of my adult life."
+            ],
+            [
+                239,
+                "I\u2019m so glad we could work this all out."
+            ],
+            [
+                243,
+                "Great."
+            ],
+            [
+                249,
+                "I\u2019m really disappointed we\u2019re not gonna have our own comic book store."
+            ],
+            [
+                253,
+                "And snacks."
+            ]
+        ],
+        "Amy": [
+            [
+                22,
+                "So, Howard, is Stuart still living with your mom?"
+            ],
+            [
+                46,
+                "I\u2019m with him three years, nothing. She\u2019s with him two minutes, and he\u2019s taking his pants off."
+            ],
+            [
+                52,
+                "We have led different lives."
+            ],
+            [
+                61,
+                "You really went your entire life without anyone saying I hate you to your face?"
+            ],
+            [
+                63,
+                "I\u2019d say it now, but look at those cheekbones."
+            ],
+            [
+                136,
+                "Hmm-hmm."
+            ],
+            [
+                142,
+                "What if you just hang around and act like her friend until you wear her down? I mean, next thing you know, you\u2019re in her home, you\u2019re eating her food, drinking her wine."
+            ],
+            [
+                144,
+                "You\u2019re right. Cheers."
+            ],
+            [
+                150,
+                "I\u2019m gonna go with Penny on this one. Then again, why wouldn\u2019t I? I mean, we go way back."
+            ],
+            [
+                152,
+                "Shh. Amy\u2019s here now."
+            ],
+            [
+                204,
+                "Of course."
+            ],
+            [
+                206,
+                "I\u2019m feeling a little backed into a corner, Sheldon."
+            ],
+            [
+                208,
+                "Interesting. Can you see how a grown man, an accomplished scientist, who invests in a store that sells picture books about flying men in colourful underwear might be wasting both his financial and intellectual resources?"
+            ],
+            [
+                210,
+                "Then I think it\u2019s a terrific idea."
+            ]
+        ],
+        "Bernadette": [
+            [
+                24,
+                "But he\u2019s going to."
+            ],
+            [
+                26,
+                "Long story short, they have seven HBOs."
+            ],
+            [
+                41,
+                "You know, Penny just started training to be a pharmaceutical sales rep. Maybe she can practice on you some time."
+            ],
+            [
+                48,
+                "Last night was fun. What did you think of Emily?"
+            ],
+            [
+                50,
+                "Did she say she didn\u2019t like you?"
+            ],
+            [
+                53,
+                "You guys just met. Why would she feel that way?"
+            ],
+            [
+                55,
+                "I\u2019m sure you\u2019re worried about nothing."
+            ],
+            [
+                57,
+                "Really?"
+            ],
+            [
+                59,
+                "When you go to Emily\u2019s office to practice, you\u2019ll see. It\u2019s fine."
+            ],
+            [
+                138,
+                "Come on, look how pretty you are. I\u2019m sure this isn\u2019t the first girl to hate you."
+            ],
+            [
+                140,
+                "And I\u2019m sure you can turn it around."
+            ],
+            [
+                145,
+                "Oh, I know. Why don\u2019t you use your sales training to go back down there and sell yourself?"
+            ],
+            [
+                147,
+                "Yeah. But instead of selling a drug, you\u2019d be selling Penny. it\u2019s cute."
+            ],
+            [
+                149,
+                "Well, maybe people would like you more if you didn\u2019t crap all over their ideas."
+            ],
+            [
+                186,
+                "Nope."
+            ],
+            [
+                188,
+                "I know."
+            ],
+            [
+                190,
+                "Fine. What is it?"
+            ],
+            [
+                192,
+                "Nope."
+            ],
+            [
+                194,
+                "Howard, you know we\u2019re saving up for a house."
+            ],
+            [
+                196,
+                "It just seems like a risky investment."
+            ],
+            [
+                198,
+                "Oh. Howie, I had no idea."
+            ],
+            [
+                200,
+                "Oh, baby. That story\u2019s made up, isn\u2019t it?"
+            ],
+            [
+                232,
+                "Okay, let\u2019s get down to business. Howie was thinking about putting up some money to help you reopen the store, but before that happens, I have a few questions."
+            ]
+        ],
+        "Emily": [
+            [
+                30,
+                "Hi."
+            ],
+            [
+                32,
+                "Oh, it\u2019s so nice to meet you."
+            ],
+            [
+                35,
+                "Hello."
+            ],
+            [
+                39,
+                "Uh, yeah, I\u2019m a resident at Huntington Hospital."
+            ],
+            [
+                43,
+                "Yeah. I\u2019m sure that\u2019d be fine."
+            ],
+            [
+                45,
+                "Um, okay, I guess."
+            ],
+            [
+                83,
+                "Hi."
+            ],
+            [
+                85,
+                "Sure."
+            ],
+            [
+                87,
+                "Thanks. If we could get started. I\u2019m a little busy."
+            ],
+            [
+                89,
+                "Great."
+            ],
+            [
+                91,
+                "All right."
+            ],
+            [
+                93,
+                "Funny."
+            ],
+            [
+                95,
+                "No, it\u2019s fine."
+            ],
+            [
+                97,
+                "Okay. If you really want to talk about this, I do have a problem."
+            ],
+            [
+                99,
+                "Look, it\u2019s nothing. It\u2019s just, Raj told me that a while ago, you two hooked up."
+            ],
+            [
+                101,
+                "Did it not happen?"
+            ],
+            [
+                103,
+                "Did you kiss?"
+            ],
+            [
+                105,
+                "Were you naked?"
+            ],
+            [
+                107,
+                "So, it was a hook-up."
+            ],
+            [
+                217,
+                "Uh, listen, Penny, before you start, I just want to apologise for being so rude the other day in my office."
+            ],
+            [
+                223,
+                "Mm. I\u2019d like that, too. Yeah, I thought I\u2019d be okay with it, but then I saw how pretty you are."
+            ],
+            [
+                241,
+                "You know, we should have dinner one night with you and Leonard."
+            ],
+            [
+                245,
+                "All right, night."
+            ]
+        ],
+        "Penny": [
+            [
+                34,
+                "Hi."
+            ],
+            [
+                38,
+                "Hey, I hear you\u2019re a dermatologist."
+            ],
+            [
+                42,
+                "Oh, it would be great to practice on a real doctor."
+            ],
+            [
+                49,
+                "I don\u2019t know. I kind of got the sense she didn\u2019t like me."
+            ],
+            [
+                51,
+                "Of course not. No one ever says they don\u2019t like you straight to your face."
+            ],
+            [
+                54,
+                "It\u2019s just this vibe I got."
+            ],
+            [
+                56,
+                "Yeah. You\u2019re probably right. I used to think my high school P.E. teacher didn\u2019t like me, but it turned out, she liked me a little too much."
+            ],
+            [
+                58,
+                "Yeah. It was fine. We went to a Melissa Etheridge concert, I got an A, it all worked out."
+            ],
+            [
+                60,
+                "Yeah, I hope you\u2019re right."
+            ],
+            [
+                62,
+                "Yeah."
+            ],
+            [
+                82,
+                "Hey."
+            ],
+            [
+                84,
+                "Thank you so much for letting me practice my sales pitch on you. I really appreciate it."
+            ],
+            [
+                86,
+                "Um, I brought coffee. I wasn\u2019t sure what you like, so I got a regular, a cappuccino and a Chai tea. Since you like Raj, I thought you might be into that."
+            ],
+            [
+                88,
+                "Oh, yeah, sure. Let me just get out my materials. Leonard gave me this briefcase. He used to carry it around in high school. You can still see the dent where they whacked him with it. Okay, I would like to talk to you about our new birth control pill, Femevra."
+            ],
+            [
+                90,
+                "So, Femevra\u2019s triphasic design provides balanced hormonal exposure."
+            ],
+            [
+                92,
+                "It has also been shown to cause significantly fewer side effects than other oral contraceptives. Although it can cause acne, which, if you ask me, kind of increases its effectiveness as a contraceptive."
+            ],
+            [
+                94,
+                "Okay, I\u2019m sorry. Did we get off on the wrong foot? Because since the other night, I kind of feel like you might have a problem with me."
+            ],
+            [
+                96,
+                "Are you sure, because it doesn\u2019t seem fine?"
+            ],
+            [
+                98,
+                "Oh, my God. Tell me, what did I do?"
+            ],
+            [
+                100,
+                "What? Oh, why would he say that?"
+            ],
+            [
+                102,
+                "Well, I wouldn\u2019t exactly call it a hook-up."
+            ],
+            [
+                104,
+                "Yeah."
+            ],
+            [
+                106,
+                "Yeah."
+            ],
+            [
+                108,
+                "No. Yeah."
+            ],
+            [
+                120,
+                "You told Emily we hooked up?"
+            ],
+            [
+                122,
+                "Why would you say that?"
+            ],
+            [
+                124,
+                "We weren\u2019t lovers. Come on. Everyone knows we didn\u2019t sleep together. We got drunk and fooled around. Why couldn\u2019t you just leave me out of it?"
+            ],
+            [
+                127,
+                "Yes."
+            ],
+            [
+                129,
+                "Well, good job. Now she hates me. Ugh."
+            ],
+            [
+                135,
+                "I don\u2019t know what Emily\u2019s so upset about anyway. Even if I had slept with him, so what? Everyone has a past."
+            ],
+            [
+                137,
+                "Almost everyone has a past."
+            ],
+            [
+                139,
+                "It\u2019s not."
+            ],
+            [
+                141,
+                "How? You can\u2019t force someone to like you."
+            ],
+            [
+                143,
+                "No, that won\u2019t work."
+            ],
+            [
+                146,
+                "What?"
+            ],
+            [
+                148,
+                "It\u2019s stupid."
+            ],
+            [
+                151,
+                "Oh, my God. I didn\u2019t used to like you."
+            ],
+            [
+                177,
+                "What\u2019s up?"
+            ],
+            [
+                179,
+                "Why are you asking me?"
+            ],
+            [
+                181,
+                "Oh. Well, would you consider mounds of credit card debt kind of a big deal financially?"
+            ],
+            [
+                183,
+                "Huh."
+            ],
+            [
+                214,
+                "Hi."
+            ],
+            [
+                216,
+                "Oh, thank you for coming."
+            ],
+            [
+                218,
+                "No, no. No need to apologise."
+            ],
+            [
+                220,
+                "Okay, sit down. Listen, Emily, what happened between me and Raj was a long time ago."
+            ],
+            [
+                222,
+                "Yeah, and Leonard and I are engaged now, and I\u2019m just hoping we can put this whole thing behind us."
+            ],
+            [
+                224,
+                "Oh, that\u2019s so sweet. I mean, look at you, you are gorgeous."
+            ],
+            [
+                240,
+                "Yeah, me, too."
+            ],
+            [
+                242,
+                "Oh, we would love that."
+            ],
+            [
+                244,
+                "Okay, good night, guys."
+            ],
+            [
+                246,
+                "Bye."
+            ]
+        ],
+        "Stuart": [
+            [
+                227,
+                "So, what brings you by?"
+            ],
+            [
+                229,
+                "Technically, it\u2019s your mom\u2019s house, but we certainly want you to feel welcome."
+            ],
+            [
+                231,
+                "Mm, just try and call first."
+            ],
+            [
+                233,
+                "Oh. I appreciate the offer, but actually your mother already gave me the money."
+            ],
+            [
+                235,
+                "Yeah. I told her it was too much, but she said she was happy to help out her bubala."
+            ],
+            [
+                237,
+                "I don\u2019t know who he\u2019s talking to. She\u2019s at Target, buying me shirts."
+            ]
+        ],
+        "Emily and Penny (simultaneously)": [
+            [
+                247,
+                "I hate her."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Leonard",
+            "Have you guys heard about this research team that\u2019s trying to transgenically manipulate chicken DNA to create some sort of chicken dinosaur?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I think that sounds wonderful."
+        ],
+        [
+            "Howard",
+            "What? You\u2019re afraid of both dinosaurs and chickens."
+        ],
+        [
+            "Sheldon",
+            "Yes, but tell me a dinosaur chicken salad sandwich wouldn\u2019t hit the Mesozoic spot."
+        ],
+        [
+            "Raj",
+            "Hey, guys."
+        ],
+        [
+            "Howard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Raj",
+            "We still on for tomorrow night?"
+        ],
+        [
+            "Leonard",
+            "Yeah. I\u2019m excited to finally meet your girlfriend."
+        ],
+        [
+            "Sheldon",
+            "Speaking of which, according to a recent study out of Oxford University, when someone takes on a new romantic partner, that person loses one or two close friends."
+        ],
+        [
+            "Howard",
+            "Since when do you read social science?"
+        ],
+        [
+            "Sheldon",
+            "I go to the bathroom like everybody else."
+        ],
+        [
+            "Raj",
+            "Why would I lose friends just because I started dating someone?"
+        ],
+        [
+            "Leonard",
+            "Yeah, you didn\u2019t lose anyone when you met Amy. Yeah, well, no, this study refers to romantic partners. Not the way I would categorize the two of us."
+        ],
+        [
+            "Raj",
+            "You guys kiss and hold hands."
+        ],
+        [
+            "Leonard",
+            "I\u2019ve seen him do it. It\u2019s not romantic."
+        ],
+        [
+            "Raj",
+            "Look, I\u2019m not the kind of guy who drops his friends just because he\u2019s in a relationship."
+        ],
+        [
+            "Leonard",
+            "What happens if she doesn\u2019t like us?"
+        ],
+        [
+            "Raj",
+            "Well, hey, you\u2019re my dear friends. You\u2019ll get a Christmas card for a couple of years, and then you\u2019re dead to me."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "So, Howard, is Stuart still living with your mom?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t want to talk about it."
+        ],
+        [
+            "Bernadette",
+            "But he\u2019s going to."
+        ],
+        [
+            "Howard",
+            "My mom got him cable. In my whole life, growing up in that house, no cable. Do you know how many HBOs that leech had my mother get him? Seven. Seven HBOs. Seven."
+        ],
+        [
+            "Bernadette",
+            "Long story short, they have seven HBOs."
+        ],
+        [
+            "Raj",
+            "Hey, guys."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Raj",
+            "Emily, you know almost everybody here."
+        ],
+        [
+            "Emily",
+            "Hi."
+        ],
+        [
+            "Raj",
+            "And this is Leonard, this is Penny."
+        ],
+        [
+            "Emily",
+            "Oh, it\u2019s so nice to meet you."
+        ],
+        [
+            "Leonard",
+            "Nice to finally meet you, too."
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Emily",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "Wow, Raj, you were not lying about her."
+        ],
+        [
+            "Raj",
+            "I told you she exists."
+        ],
+        [
+            "Penny",
+            "Hey, I hear you\u2019re a dermatologist."
+        ],
+        [
+            "Emily",
+            "Uh, yeah, I\u2019m a resident at Huntington Hospital."
+        ],
+        [
+            "Sheldon",
+            "Oh, I like their emergency room. Yeah, even if it turns out you don\u2019t have Dengue fever, they still let you take a lollipop."
+        ],
+        [
+            "Bernadette",
+            "You know, Penny just started training to be a pharmaceutical sales rep. Maybe she can practice on you some time."
+        ],
+        [
+            "Penny",
+            "Oh, it would be great to practice on a real doctor."
+        ],
+        [
+            "Emily",
+            "Yeah. I\u2019m sure that\u2019d be fine."
+        ],
+        [
+            "Sheldon",
+            "I have some odd freckles on my buttocks. Can I make an appointment for you to look at them?"
+        ],
+        [
+            "Emily",
+            "Um, okay, I guess."
+        ],
+        [
+            "Amy",
+            "I\u2019m with him three years, nothing. She\u2019s with him two minutes, and he\u2019s taking his pants off."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "Last night was fun. What did you think of Emily?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know. I kind of got the sense she didn\u2019t like me."
+        ],
+        [
+            "Bernadette",
+            "Did she say she didn\u2019t like you?"
+        ],
+        [
+            "Penny",
+            "Of course not. No one ever says they don\u2019t like you straight to your face."
+        ],
+        [
+            "Amy",
+            "We have led different lives."
+        ],
+        [
+            "Bernadette",
+            "You guys just met. Why would she feel that way?"
+        ],
+        [
+            "Penny",
+            "It\u2019s just this vibe I got."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m sure you\u2019re worried about nothing."
+        ],
+        [
+            "Penny",
+            "Yeah. You\u2019re probably right. I used to think my high school P.E. teacher didn\u2019t like me, but it turned out, she liked me a little too much."
+        ],
+        [
+            "Bernadette",
+            "Really?"
+        ],
+        [
+            "Penny",
+            "Yeah. It was fine. We went to a Melissa Etheridge concert, I got an A, it all worked out."
+        ],
+        [
+            "Bernadette",
+            "When you go to Emily\u2019s office to practice, you\u2019ll see. It\u2019s fine."
+        ],
+        [
+            "Penny",
+            "Yeah, I hope you\u2019re right."
+        ],
+        [
+            "Amy",
+            "You really went your entire life without anyone saying I hate you to your face?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Amy",
+            "I\u2019d say it now, but look at those cheekbones."
+        ],
+        [
+            "Scene",
+            "Capital Comics."
+        ],
+        [
+            "Sheldon",
+            "I miss Stuart\u2019s place. All this loud music and exposed brick. What, is this a comic book store, or a rave at the third little pig\u2019s house?"
+        ],
+        [
+            "Howard",
+            "Yep, I wish Stuart would reopen. I hate this place, too."
+        ],
+        [
+            "Leonard",
+            "Okay, him I believe because he\u2019s an 80-year-old man in a 15-year-old\u2019s tee shirt. But you\u2019re just upset about Stuart and your mom and all their HBOs."
+        ],
+        [
+            "Howard",
+            "Yes, I am. You know, I can\u2019t even watch Game of Thrones now without thinking of mother saying, Stuart, which one is Thrones?"
+        ],
+        [
+            "Raj",
+            "You know, he might not reopen. He didn\u2019t get a lot of money from the insurance company."
+        ],
+        [
+            "Sheldon",
+            "Oh, boy, if there is one thing that gets my goat, it\u2019s those dad-gum insurance companies."
+        ],
+        [
+            "Leonard",
+            "Why? Because they won\u2019t get off your lawn? Is Stuart trying to get a loan, or, or find investors?"
+        ],
+        [
+            "Howard",
+            "All I know is, he\u2019s got my mother buying four-ply toilet paper. I mean, four-ply. If his butt is so delicate, why doesn\u2019t he just use an angora rabbit?"
+        ],
+        [
+            "Sheldon",
+            "For starters, they shed and bite."
+        ],
+        [
+            "Leonard",
+            "Hey, here\u2019s a thought. Why don\u2019t we put up the rest of the money that Stuart needs?"
+        ],
+        [
+            "Raj",
+            "So, we\u2019d be, like, owners of a comic book store?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s kind of a dream come true."
+        ],
+        [
+            "Howard",
+            "That does sound fun."
+        ],
+        [
+            "Raj",
+            "Ooh, maybe we could come up with a business plan to compete with this place."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll give you a plan right now. Step one, open comic book store. Step two, start rumour this comic book store gives you genital warts. Step three, buy a big bag to put the money in."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not that bad."
+        ],
+        [
+            "Scene",
+            "Emily\u2019s surgery. "
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Emily",
+            "Hi."
+        ],
+        [
+            "Penny",
+            "Thank you so much for letting me practice my sales pitch on you. I really appreciate it."
+        ],
+        [
+            "Emily",
+            "Sure."
+        ],
+        [
+            "Penny",
+            "Um, I brought coffee. I wasn\u2019t sure what you like, so I got a regular, a cappuccino and a Chai tea. Since you like Raj, I thought you might be into that."
+        ],
+        [
+            "Emily",
+            "Thanks. If we could get started. I\u2019m a little busy."
+        ],
+        [
+            "Penny",
+            "Oh, yeah, sure. Let me just get out my materials. Leonard gave me this briefcase. He used to carry it around in high school. You can still see the dent where they whacked him with it. Okay, I would like to talk to you about our new birth control pill, Femevra."
+        ],
+        [
+            "Emily",
+            "Great."
+        ],
+        [
+            "Penny",
+            "So, Femevra\u2019s triphasic design provides balanced hormonal exposure."
+        ],
+        [
+            "Emily",
+            "All right."
+        ],
+        [
+            "Penny",
+            "It has also been shown to cause significantly fewer side effects than other oral contraceptives. Although it can cause acne, which, if you ask me, kind of increases its effectiveness as a contraceptive."
+        ],
+        [
+            "Emily",
+            "Funny."
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019m sorry. Did we get off on the wrong foot? Because since the other night, I kind of feel like you might have a problem with me."
+        ],
+        [
+            "Emily",
+            "No, it\u2019s fine."
+        ],
+        [
+            "Penny",
+            "Are you sure, because it doesn\u2019t seem fine?"
+        ],
+        [
+            "Emily",
+            "Okay. If you really want to talk about this, I do have a problem."
+        ],
+        [
+            "Penny",
+            "Oh, my God. Tell me, what did I do?"
+        ],
+        [
+            "Emily",
+            "Look, it\u2019s nothing. It\u2019s just, Raj told me that a while ago, you two hooked up."
+        ],
+        [
+            "Penny",
+            "What? Oh, why would he say that?"
+        ],
+        [
+            "Emily",
+            "Did it not happen?"
+        ],
+        [
+            "Penny",
+            "Well, I wouldn\u2019t exactly call it a hook-up."
+        ],
+        [
+            "Emily",
+            "Did you kiss?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Emily",
+            "Were you naked?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Emily",
+            "So, it was a hook-up."
+        ],
+        [
+            "Penny",
+            "No. Yeah."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "So, what are some ways we could set our comic book store apart from the competition?"
+        ],
+        [
+            "Leonard",
+            "Oh, kids buy comic books. It would be great to figure out a way to get more kids in the store."
+        ],
+        [
+            "Howard",
+            "You know, when I was a kid, I loved going there, but I could never get a ride."
+        ],
+        [
+            "Raj",
+            "Ooh, what if we got a van and drove around and picked kids up?"
+        ],
+        [
+            "Sheldon",
+            "Nice. You mean, like at parks and schools?"
+        ],
+        [
+            "Howard",
+            "Toy stores, puppet shows."
+        ],
+        [
+            "Leonard",
+            "Hold on. So, your idea is to get a van and cruise the streets looking for kids to pick up?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "And are you gonna use candy to lure them in?"
+        ],
+        [
+            "Raj",
+            "We are now."
+        ],
+        [
+            "Penny",
+            "You told Emily we hooked up?"
+        ],
+        [
+            "Raj",
+            "Um, well, in my defence, I tell everybody."
+        ],
+        [
+            "Penny",
+            "Why would you say that?"
+        ],
+        [
+            "Raj",
+            "We were having a conversation about past lovers."
+        ],
+        [
+            "Penny",
+            "We weren\u2019t lovers. Come on. Everyone knows we didn\u2019t sleep together. We got drunk and fooled around. Why couldn\u2019t you just leave me out of it?"
+        ],
+        [
+            "Raj",
+            "Well, we were being honest. You would leave me out of the conversation with the next guy if you dumped Leonard?"
+        ],
+        [
+            "Leonard",
+            "Why say it?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "Well, I would never leave you off my list, and not just because, without you, we\u2019re playing fast and loose with the word list."
+        ],
+        [
+            "Penny",
+            "Well, good job. Now she hates me. Ugh."
+        ],
+        [
+            "Raj",
+            "Great."
+        ],
+        [
+            "Sheldon",
+            "On the bright side, that Oxford study was right. One friend down. I wonder who you\u2019re going to lose next."
+        ],
+        [
+            "Raj",
+            "You, okay? It\u2019s you. You\u2019re, you\u2019re next."
+        ],
+        [
+            "Sheldon",
+            "No. You\u2019re crazy about me."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "I don\u2019t know what Emily\u2019s so upset about anyway. Even if I had slept with him, so what? Everyone has a past."
+        ],
+        [
+            "Amy",
+            "Hmm-hmm."
+        ],
+        [
+            "Penny",
+            "Almost everyone has a past."
+        ],
+        [
+            "Bernadette",
+            "Come on, look how pretty you are. I\u2019m sure this isn\u2019t the first girl to hate you."
+        ],
+        [
+            "Penny",
+            "It\u2019s not."
+        ],
+        [
+            "Bernadette",
+            "And I\u2019m sure you can turn it around."
+        ],
+        [
+            "Penny",
+            "How? You can\u2019t force someone to like you."
+        ],
+        [
+            "Amy",
+            "What if you just hang around and act like her friend until you wear her down? I mean, next thing you know, you\u2019re in her home, you\u2019re eating her food, drinking her wine."
+        ],
+        [
+            "Penny",
+            "No, that won\u2019t work."
+        ],
+        [
+            "Amy",
+            "You\u2019re right. Cheers."
+        ],
+        [
+            "Bernadette",
+            "Oh, I know. Why don\u2019t you use your sales training to go back down there and sell yourself?"
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Bernadette",
+            "Yeah. But instead of selling a drug, you\u2019d be selling Penny. it\u2019s cute."
+        ],
+        [
+            "Penny",
+            "It\u2019s stupid."
+        ],
+        [
+            "Bernadette",
+            "Well, maybe people would like you more if you didn\u2019t crap all over their ideas."
+        ],
+        [
+            "Amy",
+            "I\u2019m gonna go with Penny on this one. Then again, why wouldn\u2019t I? I mean, we go way back."
+        ],
+        [
+            "Penny",
+            "Oh, my God. I didn\u2019t used to like you."
+        ],
+        [
+            "Amy",
+            "Shh. Amy\u2019s here now."
+        ],
+        [
+            "Scene",
+            "Capital Comics."
+        ],
+        [
+            "Sheldon",
+            "You know, the more I think about it, the more intrigued I am about having our own store."
+        ],
+        [
+            "Howard",
+            "We\u2019ll get to see all the new stuff before it hits the shelves."
+        ],
+        [
+            "Sheldon",
+            "And we\u2019ll get to have fun interactions with our customers. Like, this isn\u2019t a library, buy it or get out."
+        ],
+        [
+            "Howard",
+            "You say things like that all the time."
+        ],
+        [
+            "Sheldon",
+            "Yes, but as a store owner, I\u2019ll finally have a good comeback to, You don\u2019t work here, shut up."
+        ],
+        [
+            "Leonard",
+            "Uh, do you know how Penny told Raj he should have left her off his list?"
+        ],
+        [
+            "Howard",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "Well, do you think when she and I had that conversation, she left people off her list?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sure she did."
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "Because if she hadn\u2019t, she\u2019d still be wading through the list."
+        ],
+        [
+            "Leonard",
+            "Will you stay out of this?"
+        ],
+        [
+            "Sheldon",
+            "If only Penny had said that once in a while."
+        ],
+        [
+            "Howard",
+            "Hey, what difference does it make? You\u2019re the one she wants to marry."
+        ],
+        [
+            "Leonard",
+            "That\u2019s true."
+        ],
+        [
+            "Howard",
+            "Yeah, and I\u2019m not sure that complete honesty is always the best thing for a relationship."
+        ],
+        [
+            "Sheldon",
+            "Yeah, he\u2019s right. Once, in a moment of candour, I told Amy that her hair reminded me of a duck caught in an oil spill. She stormed out. Which was sad, because we were playing Scrabble, and I had all the letters to spell persimmon."
+        ],
+        [
+            "Leonard",
+            "Why are you even part of this conversation? You don\u2019t know anything about women."
+        ],
+        [
+            "Sheldon",
+            "I know that if I had a wife or a fianc\u00e9e, I\u2019d ask her first before I invested money in a comic book store."
+        ],
+        [
+            "Howard",
+            "He\u2019s right."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, of course I am. I was also right about her hair. It did everything but quack."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Leonard",
+            "There\u2019s something I wanted to run past you."
+        ],
+        [
+            "Penny",
+            "What\u2019s up?"
+        ],
+        [
+            "Leonard",
+            "Mm, the guys and I were thinking about investing in Stuart\u2019s comic book store. Is that okay?"
+        ],
+        [
+            "Penny",
+            "Why are you asking me?"
+        ],
+        [
+            "Leonard",
+            "Well, you know, we\u2019re engaged, and it\u2019s kind of a big deal financially. It seems like something we should talk about."
+        ],
+        [
+            "Penny",
+            "Oh. Well, would you consider mounds of credit card debt kind of a big deal financially?"
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Penny",
+            "Huh."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Mm. So, me and the guys were talking about this great investment opportunity."
+        ],
+        [
+            "Bernadette",
+            "Nope."
+        ],
+        [
+            "Howard",
+            "But you didn\u2019t hear what it was."
+        ],
+        [
+            "Bernadette",
+            "I know."
+        ],
+        [
+            "Howard",
+            "Oh, come on."
+        ],
+        [
+            "Bernadette",
+            "Fine. What is it?"
+        ],
+        [
+            "Howard",
+            "It\u2019s to help reopen the comic book store."
+        ],
+        [
+            "Bernadette",
+            "Nope."
+        ],
+        [
+            "Howard",
+            "Well, hear me out."
+        ],
+        [
+            "Bernadette",
+            "Howard, you know we\u2019re saving up for a house."
+        ],
+        [
+            "Howard",
+            "I know, but all the guys are doing it. We\u2019re splitting it four ways, so it\u2019s really not that much money."
+        ],
+        [
+            "Bernadette",
+            "It just seems like a risky investment."
+        ],
+        [
+            "Howard",
+            "I get that. I, okay, look, the real reason this is important is, before my dad left me and my mom, he used to take me to the comic book store. It was one of the few things we did together."
+        ],
+        [
+            "Bernadette",
+            "Oh. Howie, I had no idea."
+        ],
+        [
+            "Howard",
+            "Well, I don\u2019t like to talk about it."
+        ],
+        [
+            "Bernadette",
+            "Oh, baby. That story\u2019s made up, isn\u2019t it?"
+        ],
+        [
+            "Howard",
+            "That\u2019s how much buying a comic book store means to me."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "I\u2019d like your honest opinion on something."
+        ],
+        [
+            "Amy",
+            "Of course."
+        ],
+        [
+            "Sheldon",
+            "Now, before I start, I need you to know that I\u2019m very excited about this, and anything you say that isn\u2019t enthusiastically supportive will throw our entire relationship into question. So, keep an open mind."
+        ],
+        [
+            "Amy",
+            "I\u2019m feeling a little backed into a corner, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Perfect. Now, I\u2019m considering investing in Stuart\u2019s comic book store."
+        ],
+        [
+            "Amy",
+            "Interesting. Can you see how a grown man, an accomplished scientist, who invests in a store that sells picture books about flying men in colourful underwear might be wasting both his financial and intellectual resources?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Amy",
+            "Then I think it\u2019s a terrific idea."
+        ],
+        [
+            "Sheldon",
+            "Great. Wait till you hear about our van."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Raj",
+            "Thanks for inviting us over."
+        ],
+        [
+            "Penny",
+            "Oh, thank you for coming."
+        ],
+        [
+            "Emily",
+            "Uh, listen, Penny, before you start, I just want to apologise for being so rude the other day in my office."
+        ],
+        [
+            "Penny",
+            "No, no. No need to apologise."
+        ],
+        [
+            "Raj",
+            "Excuse me, can I say something? I just love both you guys, and I want you to get along. And when I say love I meant as a friend. And, uh, way too soon, right?"
+        ],
+        [
+            "Penny",
+            "Okay, sit down. Listen, Emily, what happened between me and Raj was a long time ago."
+        ],
+        [
+            "Raj",
+            "It was, and I may have made it seem like a bigger deal than I should have."
+        ],
+        [
+            "Penny",
+            "Yeah, and Leonard and I are engaged now, and I\u2019m just hoping we can put this whole thing behind us."
+        ],
+        [
+            "Emily",
+            "Mm. I\u2019d like that, too. Yeah, I thought I\u2019d be okay with it, but then I saw how pretty you are."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s so sweet. I mean, look at you, you are gorgeous."
+        ],
+        [
+            "Raj",
+            "It\u2019s true, you\u2019re both gorgeous. Kind of says something about the man who could bed you both. You get why I\u2019ve been alone most of my adult life."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Stuart",
+            "So, what brings you by?"
+        ],
+        [
+            "Howard",
+            "Well, I don\u2019t need a reason, it\u2019s my house."
+        ],
+        [
+            "Stuart",
+            "Technically, it\u2019s your mom\u2019s house, but we certainly want you to feel welcome."
+        ],
+        [
+            "Howard",
+            "I\u2019m always welcome."
+        ],
+        [
+            "Stuart",
+            "Mm, just try and call first."
+        ],
+        [
+            "Bernadette",
+            "Okay, let\u2019s get down to business. Howie was thinking about putting up some money to help you reopen the store, but before that happens, I have a few questions."
+        ],
+        [
+            "Stuart",
+            "Oh. I appreciate the offer, but actually your mother already gave me the money."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Stuart",
+            "Yeah. I told her it was too much, but she said she was happy to help out her bubala."
+        ],
+        [
+            "Howard",
+            "Excuse me. Ma, you are cancelling that cheque, and Stuart is not your bubala, I\u2019m your bubala. You can\u2019t have more than one bubala."
+        ],
+        [
+            "Stuart",
+            "I don\u2019t know who he\u2019s talking to. She\u2019s at Target, buying me shirts."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Raj",
+            "I\u2019m so glad we could work this all out."
+        ],
+        [
+            "Penny",
+            "Yeah, me, too."
+        ],
+        [
+            "Emily",
+            "You know, we should have dinner one night with you and Leonard."
+        ],
+        [
+            "Penny",
+            "Oh, we would love that."
+        ],
+        [
+            "Raj",
+            "Great."
+        ],
+        [
+            "Penny",
+            "Okay, good night, guys."
+        ],
+        [
+            "Emily",
+            "All right, night."
+        ],
+        [
+            "Penny",
+            "Bye."
+        ],
+        [
+            "Emily and Penny (simultaneously)",
+            "I hate her."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "I\u2019m really disappointed we\u2019re not gonna have our own comic book store."
+        ],
+        [
+            "Leonard",
+            "I know. I was looking forward to it."
+        ],
+        [
+            "Sheldon",
+            "It would\u2019ve been so nice to have a place that was ours, where we could just sit and read comics in peace."
+        ],
+        [
+            "Howard",
+            "With comfy seats."
+        ],
+        [
+            "Raj",
+            "And snacks."
+        ],
+        [
+            "Sheldon",
+            "Well, I guess it was too good to be true."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-04-the-hook-up-reverbration/"
+}

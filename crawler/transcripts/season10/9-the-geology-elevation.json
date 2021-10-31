@@ -1,0 +1,1798 @@
+{
+    "Season": 10,
+    "Episode": 9,
+    "Title": "the geology elevation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The cafeteria."
+            ],
+            [
+                27,
+                "Credits sequence."
+            ],
+            [
+                28,
+                "The stairwell."
+            ],
+            [
+                40,
+                "Howard and Bernadette\u2019s kitchen."
+            ],
+            [
+                54,
+                "The apartment."
+            ],
+            [
+                70,
+                "Howard and Bernadette\u2019s kitchen."
+            ],
+            [
+                83,
+                "The park. "
+            ],
+            [
+                94,
+                "The apartment. "
+            ],
+            [
+                117,
+                "Outside Amy\u2019s lab. Howard knocks on the door. "
+            ],
+            [
+                121,
+                "The cafeteria. "
+            ],
+            [
+                126,
+                "Barry Kripke\u2019s office. "
+            ],
+            [
+                130,
+                "The cafeteria."
+            ],
+            [
+                150,
+                "The apartment."
+            ],
+            [
+                175,
+                "A corridor at the university."
+            ],
+            [
+                196,
+                "The apartment. "
+            ],
+            [
+                217,
+                "The Ellen Show."
+            ]
+        ],
+        "Bert": [
+            [
+                1,
+                "Thank you very much. Thanks."
+            ],
+            [
+                21,
+                "Thanks. I was as surprised as anybody. When they called and told me I won, I didn\u2019t believe them. And then they said, no, you really won. And then I said, cool."
+            ],
+            [
+                23,
+                "I\u2019ve gotten pretty good at telling it. Well, see ya."
+            ],
+            [
+                143,
+                "Thanks. I\u2019ve been hearing that a lot. Ever since I won, people think I\u2019m great."
+            ],
+            [
+                145,
+                "You know, as a MacArthur Grant winner, I\u2019m allowed to nominate someone for next year."
+            ],
+            [
+                147,
+                "So I was thinking, you know, engineers don\u2019t get a lot of respect. Is your friend Howard working on anything cool?"
+            ],
+            [
+                181,
+                "Come in."
+            ],
+            [
+                183,
+                "What happened to you?"
+            ],
+            [
+                185,
+                "Wow, I won the MacArthur Grant, everyone\u2019s jealous of me. Once I get Lasik, I\u2019ll be out of things to wish for."
+            ],
+            [
+                187,
+                "Is it working?"
+            ],
+            [
+                189,
+                "Well, you know, we\u2019re both pretty smart. I bet if we put our heads together, we could come up with a solution."
+            ],
+            [
+                191,
+                "Great. Now that we\u2019re friends, want to see if we can get tickets to a taping of Ellen?"
+            ],
+            [
+                193,
+                "Sheldon, wait. You know, you\u2019ve got a lot to be happy about. You\u2019re at the top of your field, you have a great girlfriend."
+            ],
+            [
+                195,
+                "It used to. But now that I\u2019m rich and successful, I think I can do better."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "That is unbelievable. Good for Bert."
+            ],
+            [
+                6,
+                "That\u2019s Sheldon\u2019s way of saying he\u2019s proud of Bert, too."
+            ],
+            [
+                9,
+                "How much money did he win?"
+            ],
+            [
+                11,
+                "Wow."
+            ],
+            [
+                15,
+                "Right. Be polite."
+            ],
+            [
+                19,
+                "Yeah, good for you."
+            ],
+            [
+                25,
+                "I know, and it was the greatest sarcastic quip I\u2019ve ever heard."
+            ],
+            [
+                30,
+                "Ignore him, he\u2019s just cranky because Bert from the geology lab won a big grant."
+            ],
+            [
+                34,
+                "They say it could be a potential indicator of life on other planets."
+            ],
+            [
+                55,
+                "It\u2019s always fun watching him read someone else\u2019s work."
+            ],
+            [
+                63,
+                "What are you doing?"
+            ],
+            [
+                65,
+                "Hey, buddy, why don\u2019t we go for a walk, so you can calm down."
+            ],
+            [
+                67,
+                "Hey, I\u2019m trying to help you."
+            ],
+            [
+                69,
+                "You just wave your arms a little and they fly away, it\u2019s not\u2026"
+            ],
+            [
+                85,
+                "Really, why?"
+            ],
+            [
+                87,
+                "I couldn\u2019t just take the compliment. I had to ask why. You know, I do understand what you\u2019re feeling. My brother and sister\u2019s accomplishments have always been held over my head."
+            ],
+            [
+                89,
+                "I wet the bed until college, but I don\u2019t think that\u2019s a quality fix."
+            ],
+            [
+                91,
+                "Do it. Visualize it as your anger and, and toss it out of your life."
+            ],
+            [
+                93,
+                "Let it fly."
+            ],
+            [
+                98,
+                "Then he got more angry and kicked the rock with his other foot."
+            ],
+            [
+                100,
+                "Oh, I laughed so hard, I burst a blood vessel in my nose. It\u2019s fine."
+            ],
+            [
+                102,
+                "Although if you are gonna do it again, please let me know, so I can get it on video."
+            ],
+            [
+                106,
+                "You\u2019re up."
+            ],
+            [
+                112,
+                "If it helps, I\u2019m questioning your life choices, too."
+            ],
+            [
+                123,
+                "Does it spin around and do tricks?"
+            ],
+            [
+                125,
+                "Then yeah."
+            ],
+            [
+                134,
+                "Oh, how will we ever get used to the new you?"
+            ],
+            [
+                138,
+                "I think he might be learning on his own."
+            ],
+            [
+                149,
+                "Excuse me, I have to go take some pictures."
+            ],
+            [
+                154,
+                "It\u2019s not hard. Just picture the Three Stooges, and then take away two stooges."
+            ],
+            [
+                159,
+                "I\u2019ve always been jealous of how much money Raj\u2019s family has."
+            ],
+            [
+                167,
+                "Yeah. I loved it. Love you, love the hair, would love to change the subject."
+            ],
+            [
+                177,
+                "Oh, I don\u2019t mind. If you pull a butterscotch out of your pocket, it would be like I\u2019m walking with my grandma."
+            ],
+            [
+                179,
+                "Well, change plaque to mixed-race couple and you are my grandma."
+            ],
+            [
+                199,
+                "Hey, Sheldon, I\u2019ve got someone here who might make you feel better."
+            ],
+            [
+                209,
+                "Oh, it was a good one. He played poker with Sir Isaac, you don\u2019t care."
+            ],
+            [
+                215,
+                "Do not tell Wolowitz."
+            ]
+        ],
+        "Howard": [
+            [
+                3,
+                "Damn, the MacArthur Genius Grant."
+            ],
+            [
+                7,
+                "Ah."
+            ],
+            [
+                12,
+                "And he doesn\u2019t have to use it for research, he can do whatever he wants with it."
+            ],
+            [
+                14,
+                "Here he comes."
+            ],
+            [
+                17,
+                "Do you?"
+            ],
+            [
+                20,
+                "That\u2019s amazing."
+            ],
+            [
+                41,
+                "You busy? There\u2019s somebody out here who wants to meet you."
+            ],
+            [
+                43,
+                "Say hello to everybody\u2019s little friend, remote control Stephen Hawking."
+            ],
+            [
+                45,
+                "I found him in an old box."
+            ],
+            [
+                47,
+                "I didn\u2019t buy it. I made it."
+            ],
+            [
+                49,
+                "What\u2019s the big deal?"
+            ],
+            [
+                51,
+                "No, it\u2019s not. Check it out, he says fun stuff."
+            ],
+            [
+                53,
+                "His eyes also light up in the dark."
+            ],
+            [
+                71,
+                "Okay, Raj, I\u2019m gonna show you something. Now, one of us thinks it\u2019s offensive, the other thinks it\u2019s hilarious and a great idea. But, I\u2019m not going to tell you who likes it."
+            ],
+            [
+                73,
+                "You\u2019re crazy. I\u2019ve worked with Hawking. He\u2019s got a great sense of humour, and I think he\u2019d like it."
+            ],
+            [
+                75,
+                "I have no problem calling him."
+            ],
+            [
+                77,
+                "Fine, I will."
+            ],
+            [
+                81,
+                "You laughed when that guy got hit in the nuts."
+            ],
+            [
+                119,
+                "I\u2019m conducting a quick survey. Do you think this respectful and loving tribute to a great man is in poor taste?"
+            ],
+            [
+                122,
+                "Do you think this is in poor taste?"
+            ],
+            [
+                124,
+                "Yeah"
+            ],
+            [
+                127,
+                "What do you think?"
+            ],
+            [
+                129,
+                "All right, we\u2019re done. It\u2019s offensive."
+            ],
+            [
+                132,
+                "You\u2019re in a good mood."
+            ],
+            [
+                137,
+                "What is going on? Did you upgrade his software last night?"
+            ],
+            [
+                172,
+                "And I think you\u2019re cute."
+            ]
+        ],
+        "Raj": [
+            [
+                4,
+                "Couldn\u2019t have happened to a nicer guy."
+            ],
+            [
+                10,
+                "Over half a million dollars."
+            ],
+            [
+                18,
+                "Hey, congratulations Bert."
+            ],
+            [
+                72,
+                "This is tough, but I\u2019m going to say it\u2019s the guy who shows me YouTube videos of people getting hit in the nuts."
+            ],
+            [
+                79,
+                "What\u2019s this button do?"
+            ],
+            [
+                82,
+                "I laughed because the guy was Leonard."
+            ],
+            [
+                135,
+                "Well, I\u2019m glad to see you moving forward."
+            ],
+            [
+                139,
+                "Then the robot uprising has begun."
+            ],
+            [
+                141,
+                "He doesn\u2019t just look like C-3PO, now he walks like him."
+            ],
+            [
+                156,
+                "It\u2019s a human emotion, Sheldon. Everyone gets jealous. I\u2019m jealous of Leonard and Penny and Howard and Bernadette for being in such happy relationships."
+            ],
+            [
+                158,
+                "Sure."
+            ],
+            [
+                160,
+                "Thank you for saying that. Next to buying things, that is the best part about having money."
+            ],
+            [
+                173,
+                "I think you\u2019re both cute."
+            ]
+        ],
+        "Sheldon": [
+            [
+                5,
+                "Everything is stupid and I want to go home."
+            ],
+            [
+                8,
+                "Hey, it\u2019s not even called the Genius Grant, it\u2019s the MacArthur Fellowship. Just like it\u2019s not Frankenstein, it\u2019s Frankenstein\u2019s Monster. Which brings us back to that hulking simpleton over there. And if anyone\u2019s a genius, it\u2019s me for the way I brought that full circle."
+            ],
+            [
+                13,
+                "Oh, good, maybe he can build a nicer bridge to live under."
+            ],
+            [
+                16,
+                "I know how to behave."
+            ],
+            [
+                22,
+                "Someone call George R. R. Martin, this guy knows how to finish a story."
+            ],
+            [
+                24,
+                "Some genius. I zinged him with sarcasm, he didn\u2019t even notice."
+            ],
+            [
+                26,
+                "Well, aren\u2019t you a peach."
+            ],
+            [
+                29,
+                "Who leaves their bike in the hallway? You know, if I knew how to ride one, I\u2019d steal it."
+            ],
+            [
+                32,
+                "Who listens to the radio any more?"
+            ],
+            [
+                36,
+                "You used to make those jokes about me. Now everything is Bert, Bert, Bert."
+            ],
+            [
+                38,
+                "You want me to read a geology paper?"
+            ],
+            [
+                57,
+                "Yeh, why? Eh, why? Oh, that\u2019s why."
+            ],
+            [
+                59,
+                "I hope you\u2019re happy making me read this. Bert\u2019s work is remarkable, and I\u2019m more upset than ever. This is worse than when I had to admit that Cedric the Entertainer\u2019s actually entertaining."
+            ],
+            [
+                61,
+                "Yeah, well I am angry. And you telling me not to be angry makes me angry. And do you know how hearing myself say the word angry over and over makes me feel?"
+            ],
+            [
+                66,
+                "That\u2019s a good idea. I guess everyone\u2019s having them now."
+            ],
+            [
+                68,
+                "Fine. You can walk ahead of me and scare off the pigeons."
+            ],
+            [
+                84,
+                "I admire you, Leonard."
+            ],
+            [
+                86,
+                "You\u2019re happy with who you are. You don\u2019t get jealous of other people. Instead of being weighed down by ambition, you just float along like a dead body in a river."
+            ],
+            [
+                88,
+                "How did you deal with it?"
+            ],
+            [
+                90,
+                "I can\u2019t believe I was surpassed by a geologist. I mean, rocks. He studies rocks. If rock is so great, how come paper beats it? Leonard, I\u2019m having a primal urge to throw this rock."
+            ],
+            [
+                92,
+                "Perhaps I will. This rock encapsulates all my negative emotions. I will cast you far away. Feel free to take out a pigeon while you\u2019re at it."
+            ],
+            [
+                95,
+                "Ow, ow, ow, ow, ow, ow, ow, ow\u2026"
+            ],
+            [
+                97,
+                "I tried to let go of anger and threw a rock into my foot."
+            ],
+            [
+                104,
+                "Yeah, but you\u2019ve got all those things, and no one\u2019s lining up to be you."
+            ],
+            [
+                108,
+                "Uh, do you really think calling me names is helpful?"
+            ],
+            [
+                110,
+                "Maybe you\u2019re right."
+            ],
+            [
+                113,
+                "Thank you, Penny. You know, I just need to keep reminding myself that Bert\u2019s success is not my failure."
+            ],
+            [
+                115,
+                "And that men of his large stature are more susceptible to a wide array of life-threatening diseases."
+            ],
+            [
+                131,
+                "Top of the afternoon, gentlemen."
+            ],
+            [
+                133,
+                "Well, it\u2019s a new day. I have a new outlook. You know, I realized I don\u2019t need to worry about other people. I just need to think more about myself."
+            ],
+            [
+                136,
+                "Bert did quality research, and he deserves whatever accolades he receives."
+            ],
+            [
+                140,
+                "Excuse me, I need to pay Bert a proper congratulations."
+            ],
+            [
+                142,
+                "Bert? I wanted to let you know that I read your research, and your award is well-deserved."
+            ],
+            [
+                144,
+                "Well, just this once, you can count me as people, too."
+            ],
+            [
+                146,
+                "Really? I didn\u2019t know that."
+            ],
+            [
+                148,
+                "You know, I\u2019m not sure. You know, you\u2019d have to ask him. Excuse me. (Off) Aah. Leonard, I hurt myself again."
+            ],
+            [
+                152,
+                "No, I went to punch the water fountain, slipped in water in front of the water fountain, and hit my head on the water fountain."
+            ],
+            [
+                155,
+                "I\u2019m so disappointed in myself. Jealousy is completely illogical."
+            ],
+            [
+                176,
+                "Sorry I\u2019m moving slowly."
+            ],
+            [
+                178,
+                "Oh, no. A plaque? Nobody wants to see this."
+            ],
+            [
+                180,
+                "I can\u2019t take this any more. (Knock, knock, knock) Bert. (Knock, knock, knock) Bert. (Knock, knock, knock) Bert. "
+            ],
+            [
+                182,
+                "All right, let\u2019s do this, Bert? We need to talk."
+            ],
+            [
+                184,
+                "Rock, rock, water fountain. I am not proud of this, but I have been envious of your recent success."
+            ],
+            [
+                186,
+                "I was hoping by admitting my weakness to you, I\u2019d somehow be unburdened."
+            ],
+            [
+                188,
+                "No. Now that you know my weakness, I hate you more than ever."
+            ],
+            [
+                190,
+                "We, hang on, you\u2019re my enemy. Now, the enemy of the enemy is my friend. And right now, I\u2019m my own worst enemy. That makes you my friend. Okay, I\u2019m good to go."
+            ],
+            [
+                192,
+                "You know what? This isn\u2019t gonna work."
+            ],
+            [
+                194,
+                "Yes, that\u2019s right. I have Amy. In the past, you\u2019ve professed feelings for her. Does it eat you up inside that I have her and you don\u2019t?"
+            ],
+            [
+                198,
+                "I didn\u2019t punch him. He turned around, and I gave him a Captain Kirk karate chop. I\u2019m not even sure he knows I did it."
+            ],
+            [
+                201,
+                "Professor Hawking."
+            ],
+            [
+                203,
+                "Thanks, Leonard, now he\u2019s not gonna think I\u2019m cool."
+            ],
+            [
+                207,
+                "How do you deal with the success of your colleagues?"
+            ],
+            [
+                212,
+                "I can\u2019t. Thank you, Professor Hawking. You are a gift to mankind. There should be statues of you everywhere. You know, the Lincoln Memorial has a big chair. We could swap you right in."
+            ],
+            [
+                214,
+                "What a wonderful idea, how does this man not have a Nobel?"
+            ],
+            [
+                219,
+                "Do people know about her? \u2018Cause she\u2019s delightful."
+            ]
+        ],
+        "Penny": [
+            [
+                31,
+                "Oh, I heard him interviewed on the radio. You know, when they told him he won, he didn\u2019t believe it, but then he did believe it. It was so funny."
+            ],
+            [
+                35,
+                "You know what, I\u2019ve met Bert. Isn\u2019t he an indicator of life on other planets?"
+            ],
+            [
+                56,
+                "It\u2019s like scrolling through the emojis on my phone."
+            ],
+            [
+                62,
+                "Ooh, ooh, ooh, angry?"
+            ],
+            [
+                64,
+                "I, I knew the answer. I got excited."
+            ],
+            [
+                99,
+                "Well, and what happened to you?"
+            ],
+            [
+                107,
+                "This is getting old fast, Dolores, knock it off."
+            ],
+            [
+                109,
+                "I do, your life is fine you big baby. "
+            ],
+            [
+                114,
+                "There you go."
+            ],
+            [
+                116,
+                "There you go."
+            ],
+            [
+                162,
+                "Aw, thank you."
+            ],
+            [
+                164,
+                "What?"
+            ],
+            [
+                166,
+                "You liked my short hair, right?"
+            ],
+            [
+                168,
+                "Seriously, none of you liked it?"
+            ],
+            [
+                170,
+                "You know, how come nobody\u2019s talking about Howard\u2019s dopey haircut?"
+            ],
+            [
+                174,
+                "I think I hate all of you nerds."
+            ],
+            [
+                197,
+                "I can\u2019t believe you punched Bert."
+            ],
+            [
+                205,
+                "Oh, wow, that doesn\u2019t seem fair."
+            ]
+        ],
+        "Amy": [
+            [
+                33,
+                "Bert is studying the way microbes in rocks can survive in extreme environmental conditions."
+            ],
+            [
+                37,
+                "You know, Sheldon, maybe if you take the time to actually read Bert\u2019s research, you\u2019d be less bitter about him winning."
+            ],
+            [
+                39,
+                "Honestly, I just want you to be quiet but I\u2019m all out of taffy."
+            ],
+            [
+                58,
+                "Sounds like the night we had coitus."
+            ],
+            [
+                60,
+                "Sheldon, it\u2019s foolish to be angry that Bert\u2019s work has merit."
+            ],
+            [
+                96,
+                "What happened?"
+            ],
+            [
+                101,
+                "You know, it\u2019s one thing to be envious, but now you\u2019re injuring yourself. It has to stop."
+            ],
+            [
+                103,
+                "You know, Sheldon, instead of fixating on what Bert has, you should appreciate all of the good things in your life. You\u2019ve got love, you\u2019re in good health, you\u2019ve got a roof over your head."
+            ],
+            [
+                105,
+                "Anybody else want to try? I\u2019m gonna go make some more tea and question my life choices."
+            ],
+            [
+                111,
+                "Really?"
+            ],
+            [
+                118,
+                "What\u2019s up?"
+            ],
+            [
+                120,
+                "Yep."
+            ],
+            [
+                151,
+                "I can\u2019t believe you head-butted a water fountain."
+            ],
+            [
+                157,
+                "What about me and Sheldon?"
+            ],
+            [
+                161,
+                "Ever since I met Penny, I\u2019ve been envious of her looks."
+            ],
+            [
+                163,
+                "That\u2019s why I was so happy when you cut your hair off."
+            ],
+            [
+                165,
+                "You know what I mean. You were still hot, but more like a why\u2019d that hot girl cut off all her hair, hot."
+            ],
+            [
+                211,
+                "How can you feel bad if Stephen Hawking says you\u2019re brilliant?"
+            ],
+            [
+                216,
+                "Way ahead of you."
+            ]
+        ],
+        "Bernadette": [
+            [
+                42,
+                "Who is it?"
+            ],
+            [
+                44,
+                "Where did you get that?"
+            ],
+            [
+                46,
+                "Why would you buy it?"
+            ],
+            [
+                48,
+                "Last question. What is wrong with you?"
+            ],
+            [
+                50,
+                "Howie, it\u2019s in poor taste."
+            ],
+            [
+                74,
+                "Okay, call him and show him. I dare you."
+            ],
+            [
+                76,
+                "Fine, then do it."
+            ],
+            [
+                78,
+                "While you\u2019re bothering the world\u2019s most famous scientist, be sure to show him how funny he looks getting stuck under our dishwasher."
+            ],
+            [
+                153,
+                "I can\u2019t imagine you being violent."
+            ],
+            [
+                169,
+                "I thought it was brave. Does that count as liking it?"
+            ],
+            [
+                171,
+                "I think he looks cute."
+            ]
+        ],
+        "Remote-control Hawking": [
+            [
+                52,
+                "Hey good lookin\u2019, want to go for a spin?"
+            ],
+            [
+                80,
+                "Gentlemen, start your wheelchairs."
+            ]
+        ],
+        "Barry": [
+            [
+                128,
+                "That is hiwawious. Give me the wemote contwol, I want to dwive him into the girls\u2019 westwoom."
+            ]
+        ],
+        "Stephen Hawking (on skype)": [
+            [
+                200,
+                "Hello, Sheldon."
+            ]
+        ],
+        "Hawking": [
+            [
+                202,
+                "I understand you\u2019re struggling with professional jealousy."
+            ],
+            [
+                204,
+                "Don\u2019t worry, I know how you feel. I have never won a Nobel Prize."
+            ],
+            [
+                206,
+                "It\u2019s fine. I\u2019ve been on The Simpsons."
+            ],
+            [
+                208,
+                "I remind myself every scientific advancement is a victory. Also, I was on Star Trek."
+            ],
+            [
+                210,
+                "Don\u2019t waste your time on jealousy Sheldon, you\u2019re too brilliant."
+            ],
+            [
+                213,
+                "I always thought a motorized toy of me would be cool."
+            ]
+        ],
+        "Ellen": [
+            [
+                218,
+                "A new study came out, and it said that laughing makes your brain work better. And I know that\u2019s true because laughing has made me the smartiest. Although, on the other hand, babies laugh a lot, and they\u2019re dumb."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Bert",
+            "Thank you very much. Thanks."
+        ],
+        [
+            "Leonard",
+            "That is unbelievable. Good for Bert."
+        ],
+        [
+            "Howard",
+            "Damn, the MacArthur Genius Grant."
+        ],
+        [
+            "Raj",
+            "Couldn\u2019t have happened to a nicer guy."
+        ],
+        [
+            "Sheldon",
+            "Everything is stupid and I want to go home."
+        ],
+        [
+            "Leonard",
+            "That\u2019s Sheldon\u2019s way of saying he\u2019s proud of Bert, too."
+        ],
+        [
+            "Howard",
+            "Ah."
+        ],
+        [
+            "Sheldon",
+            "Hey, it\u2019s not even called the Genius Grant, it\u2019s the MacArthur Fellowship. Just like it\u2019s not Frankenstein, it\u2019s Frankenstein\u2019s Monster. Which brings us back to that hulking simpleton over there. And if anyone\u2019s a genius, it\u2019s me for the way I brought that full circle."
+        ],
+        [
+            "Leonard",
+            "How much money did he win?"
+        ],
+        [
+            "Raj",
+            "Over half a million dollars."
+        ],
+        [
+            "Leonard",
+            "Wow."
+        ],
+        [
+            "Howard",
+            "And he doesn\u2019t have to use it for research, he can do whatever he wants with it."
+        ],
+        [
+            "Sheldon",
+            "Oh, good, maybe he can build a nicer bridge to live under."
+        ],
+        [
+            "Howard",
+            "Here he comes."
+        ],
+        [
+            "Leonard",
+            "Right. Be polite."
+        ],
+        [
+            "Sheldon",
+            "I know how to behave."
+        ],
+        [
+            "Howard",
+            "Do you?"
+        ],
+        [
+            "Raj",
+            "Hey, congratulations Bert."
+        ],
+        [
+            "Leonard",
+            "Yeah, good for you."
+        ],
+        [
+            "Howard",
+            "That\u2019s amazing."
+        ],
+        [
+            "Bert",
+            "Thanks. I was as surprised as anybody. When they called and told me I won, I didn\u2019t believe them. And then they said, no, you really won. And then I said, cool."
+        ],
+        [
+            "Sheldon",
+            "Someone call George R. R. Martin, this guy knows how to finish a story."
+        ],
+        [
+            "Bert",
+            "I\u2019ve gotten pretty good at telling it. Well, see ya."
+        ],
+        [
+            "Sheldon",
+            "Some genius. I zinged him with sarcasm, he didn\u2019t even notice."
+        ],
+        [
+            "Leonard",
+            "I know, and it was the greatest sarcastic quip I\u2019ve ever heard."
+        ],
+        [
+            "Sheldon",
+            "Well, aren\u2019t you a peach."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Sheldon",
+            "Who leaves their bike in the hallway? You know, if I knew how to ride one, I\u2019d steal it."
+        ],
+        [
+            "Leonard",
+            "Ignore him, he\u2019s just cranky because Bert from the geology lab won a big grant."
+        ],
+        [
+            "Penny",
+            "Oh, I heard him interviewed on the radio. You know, when they told him he won, he didn\u2019t believe it, but then he did believe it. It was so funny."
+        ],
+        [
+            "Sheldon",
+            "Who listens to the radio any more?"
+        ],
+        [
+            "Amy",
+            "Bert is studying the way microbes in rocks can survive in extreme environmental conditions."
+        ],
+        [
+            "Leonard",
+            "They say it could be a potential indicator of life on other planets."
+        ],
+        [
+            "Penny",
+            "You know what, I\u2019ve met Bert. Isn\u2019t he an indicator of life on other planets?"
+        ],
+        [
+            "Sheldon",
+            "You used to make those jokes about me. Now everything is Bert, Bert, Bert."
+        ],
+        [
+            "Amy",
+            "You know, Sheldon, maybe if you take the time to actually read Bert\u2019s research, you\u2019d be less bitter about him winning."
+        ],
+        [
+            "Sheldon",
+            "You want me to read a geology paper?"
+        ],
+        [
+            "Amy",
+            "Honestly, I just want you to be quiet but I\u2019m all out of taffy."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Howard",
+            "You busy? There\u2019s somebody out here who wants to meet you."
+        ],
+        [
+            "Bernadette",
+            "Who is it?"
+        ],
+        [
+            "Howard",
+            "Say hello to everybody\u2019s little friend, remote control Stephen Hawking."
+        ],
+        [
+            "Bernadette",
+            "Where did you get that?"
+        ],
+        [
+            "Howard",
+            "I found him in an old box."
+        ],
+        [
+            "Bernadette",
+            "Why would you buy it?"
+        ],
+        [
+            "Howard",
+            "I didn\u2019t buy it. I made it."
+        ],
+        [
+            "Bernadette",
+            "Last question. What is wrong with you?"
+        ],
+        [
+            "Howard",
+            "What\u2019s the big deal?"
+        ],
+        [
+            "Bernadette",
+            "Howie, it\u2019s in poor taste."
+        ],
+        [
+            "Howard",
+            "No, it\u2019s not. Check it out, he says fun stuff."
+        ],
+        [
+            "Remote-control Hawking",
+            "Hey good lookin\u2019, want to go for a spin?"
+        ],
+        [
+            "Howard",
+            "His eyes also light up in the dark."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "It\u2019s always fun watching him read someone else\u2019s work."
+        ],
+        [
+            "Penny",
+            "It\u2019s like scrolling through the emojis on my phone."
+        ],
+        [
+            "Sheldon",
+            "Yeh, why? Eh, why? Oh, that\u2019s why."
+        ],
+        [
+            "Amy",
+            "Sounds like the night we had coitus."
+        ],
+        [
+            "Sheldon",
+            "I hope you\u2019re happy making me read this. Bert\u2019s work is remarkable, and I\u2019m more upset than ever. This is worse than when I had to admit that Cedric the Entertainer\u2019s actually entertaining."
+        ],
+        [
+            "Amy",
+            "Sheldon, it\u2019s foolish to be angry that Bert\u2019s work has merit."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well I am angry. And you telling me not to be angry makes me angry. And do you know how hearing myself say the word angry over and over makes me feel?"
+        ],
+        [
+            "Penny",
+            "Ooh, ooh, ooh, angry?"
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Penny",
+            "I, I knew the answer. I got excited."
+        ],
+        [
+            "Leonard",
+            "Hey, buddy, why don\u2019t we go for a walk, so you can calm down."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a good idea. I guess everyone\u2019s having them now."
+        ],
+        [
+            "Leonard",
+            "Hey, I\u2019m trying to help you."
+        ],
+        [
+            "Sheldon",
+            "Fine. You can walk ahead of me and scare off the pigeons."
+        ],
+        [
+            "Leonard",
+            "You just wave your arms a little and they fly away, it\u2019s not\u2026"
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Howard",
+            "Okay, Raj, I\u2019m gonna show you something. Now, one of us thinks it\u2019s offensive, the other thinks it\u2019s hilarious and a great idea. But, I\u2019m not going to tell you who likes it."
+        ],
+        [
+            "Raj",
+            "This is tough, but I\u2019m going to say it\u2019s the guy who shows me YouTube videos of people getting hit in the nuts."
+        ],
+        [
+            "Howard",
+            "You\u2019re crazy. I\u2019ve worked with Hawking. He\u2019s got a great sense of humour, and I think he\u2019d like it."
+        ],
+        [
+            "Bernadette",
+            "Okay, call him and show him. I dare you."
+        ],
+        [
+            "Howard",
+            "I have no problem calling him."
+        ],
+        [
+            "Bernadette",
+            "Fine, then do it."
+        ],
+        [
+            "Howard",
+            "Fine, I will."
+        ],
+        [
+            "Bernadette",
+            "While you\u2019re bothering the world\u2019s most famous scientist, be sure to show him how funny he looks getting stuck under our dishwasher."
+        ],
+        [
+            "Raj",
+            "What\u2019s this button do?"
+        ],
+        [
+            "Remote-control Hawking",
+            "Gentlemen, start your wheelchairs."
+        ],
+        [
+            "Howard",
+            "You laughed when that guy got hit in the nuts."
+        ],
+        [
+            "Raj",
+            "I laughed because the guy was Leonard."
+        ],
+        [
+            "Scene",
+            "The park. "
+        ],
+        [
+            "Sheldon",
+            "I admire you, Leonard."
+        ],
+        [
+            "Leonard",
+            "Really, why?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re happy with who you are. You don\u2019t get jealous of other people. Instead of being weighed down by ambition, you just float along like a dead body in a river."
+        ],
+        [
+            "Leonard",
+            "I couldn\u2019t just take the compliment. I had to ask why. You know, I do understand what you\u2019re feeling. My brother and sister\u2019s accomplishments have always been held over my head."
+        ],
+        [
+            "Sheldon",
+            "How did you deal with it?"
+        ],
+        [
+            "Leonard",
+            "I wet the bed until college, but I don\u2019t think that\u2019s a quality fix."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t believe I was surpassed by a geologist. I mean, rocks. He studies rocks. If rock is so great, how come paper beats it? Leonard, I\u2019m having a primal urge to throw this rock."
+        ],
+        [
+            "Leonard",
+            "Do it. Visualize it as your anger and, and toss it out of your life."
+        ],
+        [
+            "Sheldon",
+            "Perhaps I will. This rock encapsulates all my negative emotions. I will cast you far away. Feel free to take out a pigeon while you\u2019re at it."
+        ],
+        [
+            "Leonard",
+            "Let it fly."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "Ow, ow, ow, ow, ow, ow, ow, ow\u2026"
+        ],
+        [
+            "Amy",
+            "What happened?"
+        ],
+        [
+            "Sheldon",
+            "I tried to let go of anger and threw a rock into my foot."
+        ],
+        [
+            "Leonard",
+            "Then he got more angry and kicked the rock with his other foot."
+        ],
+        [
+            "Penny",
+            "Well, and what happened to you?"
+        ],
+        [
+            "Leonard",
+            "Oh, I laughed so hard, I burst a blood vessel in my nose. It\u2019s fine."
+        ],
+        [
+            "Amy",
+            "You know, it\u2019s one thing to be envious, but now you\u2019re injuring yourself. It has to stop."
+        ],
+        [
+            "Leonard",
+            "Although if you are gonna do it again, please let me know, so I can get it on video."
+        ],
+        [
+            "Amy",
+            "You know, Sheldon, instead of fixating on what Bert has, you should appreciate all of the good things in your life. You\u2019ve got love, you\u2019re in good health, you\u2019ve got a roof over your head."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but you\u2019ve got all those things, and no one\u2019s lining up to be you."
+        ],
+        [
+            "Amy",
+            "Anybody else want to try? I\u2019m gonna go make some more tea and question my life choices."
+        ],
+        [
+            "Leonard",
+            "You\u2019re up."
+        ],
+        [
+            "Penny",
+            "This is getting old fast, Dolores, knock it off."
+        ],
+        [
+            "Sheldon",
+            "Uh, do you really think calling me names is helpful?"
+        ],
+        [
+            "Penny",
+            "I do, your life is fine you big baby. "
+        ],
+        [
+            "Sheldon",
+            "Maybe you\u2019re right."
+        ],
+        [
+            "Amy",
+            "Really?"
+        ],
+        [
+            "Leonard",
+            "If it helps, I\u2019m questioning your life choices, too."
+        ],
+        [
+            "Sheldon",
+            "Thank you, Penny. You know, I just need to keep reminding myself that Bert\u2019s success is not my failure."
+        ],
+        [
+            "Penny",
+            "There you go."
+        ],
+        [
+            "Sheldon",
+            "And that men of his large stature are more susceptible to a wide array of life-threatening diseases."
+        ],
+        [
+            "Penny",
+            "There you go."
+        ],
+        [
+            "Scene",
+            "Outside Amy\u2019s lab. Howard knocks on the door. "
+        ],
+        [
+            "Amy",
+            "What\u2019s up?"
+        ],
+        [
+            "Howard",
+            "I\u2019m conducting a quick survey. Do you think this respectful and loving tribute to a great man is in poor taste?"
+        ],
+        [
+            "Amy",
+            "Yep."
+        ],
+        [
+            "Scene",
+            "The cafeteria. "
+        ],
+        [
+            "Howard",
+            "Do you think this is in poor taste?"
+        ],
+        [
+            "Leonard",
+            "Does it spin around and do tricks?"
+        ],
+        [
+            "Howard",
+            "Yeah"
+        ],
+        [
+            "Leonard",
+            "Then yeah."
+        ],
+        [
+            "Scene",
+            "Barry Kripke\u2019s office. "
+        ],
+        [
+            "Howard",
+            "What do you think?"
+        ],
+        [
+            "Barry",
+            "That is hiwawious. Give me the wemote contwol, I want to dwive him into the girls\u2019 westwoom."
+        ],
+        [
+            "Howard",
+            "All right, we\u2019re done. It\u2019s offensive."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Sheldon",
+            "Top of the afternoon, gentlemen."
+        ],
+        [
+            "Howard",
+            "You\u2019re in a good mood."
+        ],
+        [
+            "Sheldon",
+            "Well, it\u2019s a new day. I have a new outlook. You know, I realized I don\u2019t need to worry about other people. I just need to think more about myself."
+        ],
+        [
+            "Leonard",
+            "Oh, how will we ever get used to the new you?"
+        ],
+        [
+            "Raj",
+            "Well, I\u2019m glad to see you moving forward."
+        ],
+        [
+            "Sheldon",
+            "Bert did quality research, and he deserves whatever accolades he receives."
+        ],
+        [
+            "Howard",
+            "What is going on? Did you upgrade his software last night?"
+        ],
+        [
+            "Leonard",
+            "I think he might be learning on his own."
+        ],
+        [
+            "Raj",
+            "Then the robot uprising has begun."
+        ],
+        [
+            "Sheldon",
+            "Excuse me, I need to pay Bert a proper congratulations."
+        ],
+        [
+            "Raj",
+            "He doesn\u2019t just look like C-3PO, now he walks like him."
+        ],
+        [
+            "Sheldon",
+            "Bert? I wanted to let you know that I read your research, and your award is well-deserved."
+        ],
+        [
+            "Bert",
+            "Thanks. I\u2019ve been hearing that a lot. Ever since I won, people think I\u2019m great."
+        ],
+        [
+            "Sheldon",
+            "Well, just this once, you can count me as people, too."
+        ],
+        [
+            "Bert",
+            "You know, as a MacArthur Grant winner, I\u2019m allowed to nominate someone for next year."
+        ],
+        [
+            "Sheldon",
+            "Really? I didn\u2019t know that."
+        ],
+        [
+            "Bert",
+            "So I was thinking, you know, engineers don\u2019t get a lot of respect. Is your friend Howard working on anything cool?"
+        ],
+        [
+            "Sheldon",
+            "You know, I\u2019m not sure. You know, you\u2019d have to ask him. Excuse me. (Off) Aah. Leonard, I hurt myself again."
+        ],
+        [
+            "Leonard",
+            "Excuse me, I have to go take some pictures."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "I can\u2019t believe you head-butted a water fountain."
+        ],
+        [
+            "Sheldon",
+            "No, I went to punch the water fountain, slipped in water in front of the water fountain, and hit my head on the water fountain."
+        ],
+        [
+            "Bernadette",
+            "I can\u2019t imagine you being violent."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not hard. Just picture the Three Stooges, and then take away two stooges."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m so disappointed in myself. Jealousy is completely illogical."
+        ],
+        [
+            "Raj",
+            "It\u2019s a human emotion, Sheldon. Everyone gets jealous. I\u2019m jealous of Leonard and Penny and Howard and Bernadette for being in such happy relationships."
+        ],
+        [
+            "Amy",
+            "What about me and Sheldon?"
+        ],
+        [
+            "Raj",
+            "Sure."
+        ],
+        [
+            "Leonard",
+            "I\u2019ve always been jealous of how much money Raj\u2019s family has."
+        ],
+        [
+            "Raj",
+            "Thank you for saying that. Next to buying things, that is the best part about having money."
+        ],
+        [
+            "Amy",
+            "Ever since I met Penny, I\u2019ve been envious of her looks."
+        ],
+        [
+            "Penny",
+            "Aw, thank you."
+        ],
+        [
+            "Amy",
+            "That\u2019s why I was so happy when you cut your hair off."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Amy",
+            "You know what I mean. You were still hot, but more like a why\u2019d that hot girl cut off all her hair, hot."
+        ],
+        [
+            "Penny",
+            "You liked my short hair, right?"
+        ],
+        [
+            "Leonard",
+            "Yeah. I loved it. Love you, love the hair, would love to change the subject."
+        ],
+        [
+            "Penny",
+            "Seriously, none of you liked it?"
+        ],
+        [
+            "Bernadette",
+            "I thought it was brave. Does that count as liking it?"
+        ],
+        [
+            "Penny",
+            "You know, how come nobody\u2019s talking about Howard\u2019s dopey haircut?"
+        ],
+        [
+            "Bernadette",
+            "I think he looks cute."
+        ],
+        [
+            "Howard",
+            "And I think you\u2019re cute."
+        ],
+        [
+            "Raj",
+            "I think you\u2019re both cute."
+        ],
+        [
+            "Penny",
+            "I think I hate all of you nerds."
+        ],
+        [
+            "Scene",
+            "A corridor at the university."
+        ],
+        [
+            "Sheldon",
+            "Sorry I\u2019m moving slowly."
+        ],
+        [
+            "Leonard",
+            "Oh, I don\u2019t mind. If you pull a butterscotch out of your pocket, it would be like I\u2019m walking with my grandma."
+        ],
+        [
+            "Sheldon",
+            "Oh, no. A plaque? Nobody wants to see this."
+        ],
+        [
+            "Leonard",
+            "Well, change plaque to mixed-race couple and you are my grandma."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t take this any more. (Knock, knock, knock) Bert. (Knock, knock, knock) Bert. (Knock, knock, knock) Bert. "
+        ],
+        [
+            "Bert",
+            "Come in."
+        ],
+        [
+            "Sheldon",
+            "All right, let\u2019s do this, Bert? We need to talk."
+        ],
+        [
+            "Bert",
+            "What happened to you?"
+        ],
+        [
+            "Sheldon",
+            "Rock, rock, water fountain. I am not proud of this, but I have been envious of your recent success."
+        ],
+        [
+            "Bert",
+            "Wow, I won the MacArthur Grant, everyone\u2019s jealous of me. Once I get Lasik, I\u2019ll be out of things to wish for."
+        ],
+        [
+            "Sheldon",
+            "I was hoping by admitting my weakness to you, I\u2019d somehow be unburdened."
+        ],
+        [
+            "Bert",
+            "Is it working?"
+        ],
+        [
+            "Sheldon",
+            "No. Now that you know my weakness, I hate you more than ever."
+        ],
+        [
+            "Bert",
+            "Well, you know, we\u2019re both pretty smart. I bet if we put our heads together, we could come up with a solution."
+        ],
+        [
+            "Sheldon",
+            "We, hang on, you\u2019re my enemy. Now, the enemy of the enemy is my friend. And right now, I\u2019m my own worst enemy. That makes you my friend. Okay, I\u2019m good to go."
+        ],
+        [
+            "Bert",
+            "Great. Now that we\u2019re friends, want to see if we can get tickets to a taping of Ellen?"
+        ],
+        [
+            "Sheldon",
+            "You know what? This isn\u2019t gonna work."
+        ],
+        [
+            "Bert",
+            "Sheldon, wait. You know, you\u2019ve got a lot to be happy about. You\u2019re at the top of your field, you have a great girlfriend."
+        ],
+        [
+            "Sheldon",
+            "Yes, that\u2019s right. I have Amy. In the past, you\u2019ve professed feelings for her. Does it eat you up inside that I have her and you don\u2019t?"
+        ],
+        [
+            "Bert",
+            "It used to. But now that I\u2019m rich and successful, I think I can do better."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "I can\u2019t believe you punched Bert."
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t punch him. He turned around, and I gave him a Captain Kirk karate chop. I\u2019m not even sure he knows I did it."
+        ],
+        [
+            "Leonard",
+            "Hey, Sheldon, I\u2019ve got someone here who might make you feel better."
+        ],
+        [
+            "Stephen Hawking (on skype)",
+            "Hello, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Professor Hawking."
+        ],
+        [
+            "Hawking",
+            "I understand you\u2019re struggling with professional jealousy."
+        ],
+        [
+            "Sheldon",
+            "Thanks, Leonard, now he\u2019s not gonna think I\u2019m cool."
+        ],
+        [
+            "Hawking",
+            "Don\u2019t worry, I know how you feel. I have never won a Nobel Prize."
+        ],
+        [
+            "Penny",
+            "Oh, wow, that doesn\u2019t seem fair."
+        ],
+        [
+            "Hawking",
+            "It\u2019s fine. I\u2019ve been on The Simpsons."
+        ],
+        [
+            "Sheldon",
+            "How do you deal with the success of your colleagues?"
+        ],
+        [
+            "Hawking",
+            "I remind myself every scientific advancement is a victory. Also, I was on Star Trek."
+        ],
+        [
+            "Leonard",
+            "Oh, it was a good one. He played poker with Sir Isaac, you don\u2019t care."
+        ],
+        [
+            "Hawking",
+            "Don\u2019t waste your time on jealousy Sheldon, you\u2019re too brilliant."
+        ],
+        [
+            "Amy",
+            "How can you feel bad if Stephen Hawking says you\u2019re brilliant?"
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t. Thank you, Professor Hawking. You are a gift to mankind. There should be statues of you everywhere. You know, the Lincoln Memorial has a big chair. We could swap you right in."
+        ],
+        [
+            "Hawking",
+            "I always thought a motorized toy of me would be cool."
+        ],
+        [
+            "Sheldon",
+            "What a wonderful idea, how does this man not have a Nobel?"
+        ],
+        [
+            "Leonard",
+            "Do not tell Wolowitz."
+        ],
+        [
+            "Amy",
+            "Way ahead of you."
+        ],
+        [
+            "Scene",
+            "The Ellen Show."
+        ],
+        [
+            "Ellen",
+            "A new study came out, and it said that laughing makes your brain work better. And I know that\u2019s true because laughing has made me the smartiest. Although, on the other hand, babies laugh a lot, and they\u2019re dumb."
+        ],
+        [
+            "Sheldon",
+            "Do people know about her? \u2018Cause she\u2019s delightful."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-09-the-geology-elevation/"
+}

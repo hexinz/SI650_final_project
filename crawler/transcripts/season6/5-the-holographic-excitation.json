@@ -1,0 +1,1906 @@
+{
+    "Season": 6,
+    "Episode": 5,
+    "Title": "the holographic excitation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The Comic Book Store"
+            ],
+            [
+                24,
+                "Credits sequence."
+            ],
+            [
+                25,
+                "The Cheesecake Factory Bar"
+            ],
+            [
+                52,
+                "The apartment."
+            ],
+            [
+                66,
+                "Leonard\u2019s laboratory."
+            ],
+            [
+                105,
+                "The cafeteria."
+            ],
+            [
+                119,
+                "Howard and Bernadette\u2019s bedroom."
+            ],
+            [
+                135,
+                "Leonard\u2019s lab."
+            ],
+            [
+                146,
+                "The cafeteria."
+            ],
+            [
+                168,
+                "The apartment."
+            ],
+            [
+                174,
+                "Howard and Bernadette\u2019s bedroom. Howard and Bernadette are dressed as smurfs."
+            ],
+            [
+                186,
+                "The comic book store."
+            ],
+            [
+                228,
+                "Howard and Bernadette\u2019s bedroom."
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "Oh, hey, Stuart, I got you a little souvenir from my trip to space."
+            ],
+            [
+                4,
+                "It\u2019s my official NASA portrait."
+            ],
+            [
+                7,
+                "That\u2019s not true. At the Walgreens I was over the moon for their store-brand antacids."
+            ],
+            [
+                15,
+                "But you know what wasn\u2019t a party? That hotel in Kazakhstan they put you up in before the launch. I mean, it\u2019s your last night on Earth. You\u2019d think you\u2019d get one porn channel."
+            ],
+            [
+                19,
+                "Anywhere but the Space Station. On a good day, dinner was a bag full of meat loaf. But, hey, you don\u2019t go there for the food, you go there for the view."
+            ],
+            [
+                21,
+                "Not really."
+            ],
+            [
+                23,
+                "You know, people say the Soyuz capsule was a lemon. But, hey, that baby got me to space and back."
+            ],
+            [
+                107,
+                "Creature from the Black Forest Ham Lagoon."
+            ],
+            [
+                113,
+                "That reminds me, I was thinking about wearing my NASA jumpsuit as a costume. But then I realized everyone would be, like, where\u2019s your costume? Why are you wearing your work clothes, you nut?"
+            ],
+            [
+                117,
+                "You know where\u2019s there\u2019s a lot of nothing."
+            ],
+            [
+                120,
+                "Boy, it\u2019s nice to sleep in a bed with gravity again. Did I tell you about the night my retainer floated out of my mouth and into the air lock?"
+            ],
+            [
+                122,
+                "So, here we are, just a couple of young newlyweds. What to do? What to do to you? Astronaut Wolowitz, reporting for booty. Preparing thrusters. We have liftoff. Are we clear to jettison that nightgown?"
+            ],
+            [
+                124,
+                "What?"
+            ],
+            [
+                126,
+                "I don\u2019t talk about it every minute."
+            ],
+            [
+                128,
+                "What was I supposed to talk about? We were eating at Johnny Rockets."
+            ],
+            [
+                130,
+                "So, I did this amazing thing and I\u2019m never allowed to mention it?"
+            ],
+            [
+                132,
+                "Okay, no problem. It won\u2019t happen again."
+            ],
+            [
+                134,
+                "I love you, too. I can\u2019t tell you how many times I dreamed I was in bed here with you when I was\u2026 you know. What, I can\u2019t even point?"
+            ],
+            [
+                150,
+                "I don\u2019t care. Get the Tardis."
+            ],
+            [
+                153,
+                "Yeah, sure, whatever."
+            ],
+            [
+                155,
+                "Clever."
+            ],
+            [
+                157,
+                "Nothing."
+            ],
+            [
+                159,
+                "Okay, here it is. Bernadette said you guys are all sick of me talking about my trip to space. Is that true?"
+            ],
+            [
+                165,
+                "You know what, guys? Never mind. I just won\u2019t talk about the greatest achievement of my life ever again."
+            ],
+            [
+                176,
+                "Fine."
+            ],
+            [
+                178,
+                "To tell you the truth, I\u2019m not really in the mood."
+            ],
+            [
+                180,
+                "Yeah, some friends. They all think I\u2019m boring. Maybe you should go without me."
+            ],
+            [
+                182,
+                "I\u2019m sorry. I just don\u2019t want to go."
+            ],
+            [
+                184,
+                "Fine. Two weeks ago I was an astronaut."
+            ],
+            [
+                204,
+                "Who cares?"
+            ],
+            [
+                206,
+                "You\u2019re right, the party\u2019s fantastic. Please, tell me more. I haven\u2019t heard enough about it all week because hearing about that never gets old."
+            ],
+            [
+                208,
+                "Well, I\u2019m not allowed to talk about it, but since you brought it up, I went to space! Space, space! Space! Space, space! Space!"
+            ],
+            [
+                210,
+                "Great, now I\u2019m in trouble. You happy?"
+            ],
+            [
+                212,
+                "No, I\u2019m not. They\u2019re all being rude. And you\u2019re being rude."
+            ],
+            [
+                216,
+                "You\u2019re my wife. You\u2019re supposed to be on my side."
+            ],
+            [
+                218,
+                "Then why are you trying to take this away from me? Being an astronaut is the coolest thing I\u2019m ever gonna do. If I stop talking about it, then I\u2019m just\u2026"
+            ],
+            [
+                220,
+                "Just plain old Howard Wolowitz again."
+            ],
+            [
+                222,
+                "You\u2019re just saying that."
+            ],
+            [
+                224,
+                "I love you."
+            ],
+            [
+                230,
+                "I don\u2019t know. Raj sent me some video of Buzz Aldrin."
+            ],
+            [
+                232,
+                "Okay, I get it."
+            ]
+        ],
+        "Stuart": [
+            [
+                2,
+                "Well, Howard, that\u2019s very nice of you."
+            ],
+            [
+                5,
+                "To Stuart, your comic book store is out of this world. Just like the guy in this picture was.\u201d"
+            ],
+            [
+                9,
+                "Yeah, it\u2019s my annual attempt to meet women. Ninth time\u2019s the charm."
+            ],
+            [
+                11,
+                "Thanks, but I can\u2019t afford je ne sais quois. How much for just quois?"
+            ],
+            [
+                13,
+                "Really?"
+            ],
+            [
+                195,
+                "Thank you."
+            ],
+            [
+                197,
+                "Oh, yes, thank you. I like to think of fun things like that because I\u2019m fun. I\u2019m not clinically depressed at all."
+            ],
+            [
+                200,
+                "Hey, hey, look at you guys!"
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "Yeah, maybe. Open it first."
+            ],
+            [
+                16,
+                "Have you noticed that Howard can take any topic and use it to remind you that he went to space?"
+            ],
+            [
+                18,
+                "Okay. Hey, Howard, any thoughts on where we should get dinner?"
+            ],
+            [
+                68,
+                "Hey, what are you doing here?"
+            ],
+            [
+                70,
+                "Oh, what a nice surprise. I don\u2019t think you\u2019ve ever seen my lab before."
+            ],
+            [
+                72,
+                "No. Although Howard was making some real strides in that area until he met Bernadette."
+            ],
+            [
+                74,
+                "Nope. Now the Lisatronic 3000 just sits in a box waiting for the phone to ring."
+            ],
+            [
+                76,
+                "Oh, no, no, no, don\u2019t look in there."
+            ],
+            [
+                78,
+                "No, it\u2019s a nitrogen laser. It\u2019ll cook your eyeball like a soft-boiled egg."
+            ],
+            [
+                80,
+                "Sign right there."
+            ],
+            [
+                82,
+                "Uh, that is an integrated ion trap and time-of-flight mass spectrometer."
+            ],
+            [
+                84,
+                "That is a pencil sharpener."
+            ],
+            [
+                86,
+                "It\u2019s actually pretty neat."
+            ],
+            [
+                88,
+                "Yeah. It\u2019s a front-projected holographic display combined with laser-based finger tracking. Here, I\u2019ll show you. We\u2019ll just put this pencil over here."
+            ],
+            [
+                90,
+                "Very good. And then a laser will map the reflective surface, and voila. (A floating 3D image of the pencil appears. Leonard moves it around with his finger)"
+            ],
+            [
+                92,
+                "You know, there\u2019s a foundational idea in string theory that the whole universe may be a hologram."
+            ],
+            [
+                94,
+                "Uh-huh. Well, the holographic principle suggests that what we all experience every day in three dimensions may really (changes view to solar system) just be information (changes view to the galaxy) on a surface located at the farthest reaches of our cosmos. (Starts the galaxy spinning) So it\u2019s possible that our lives are really just acting out a painting on the largest canvas in the universe."
+            ],
+            [
+                96,
+                "What?"
+            ],
+            [
+                98,
+                "You should visit more often. What are you doing?"
+            ],
+            [
+                100,
+                "What? Here? Now?"
+            ],
+            [
+                102,
+                "No, no. It\u2019s kind of crazy. I\u2019ve never fooled around in the lab before."
+            ],
+            [
+                104,
+                "No. I did have a shot with the Lisatronic, but the extension cord wasn\u2019t long enough."
+            ],
+            [
+                114,
+                "Hello, boys."
+            ],
+            [
+                116,
+                "Nothing."
+            ],
+            [
+                136,
+                "So, basically, this is what\u2019s called mag-lev technology. It uses very powerful electromagnets to create a force strong enough to overcome gravity. Here, you hold this."
+            ],
+            [
+                138,
+                "Yeah. Oh, uh, you don\u2019t have on any jewellery, do you?"
+            ],
+            [
+                140,
+                "A grad student forgot to take out one of his piercings. Now he\u2019s on a transplant list waiting for a nipple his size. Now watch this."
+            ],
+            [
+                142,
+                "Sometimes I like to turn this on and pretend I\u2019m the super villain Magneto."
+            ],
+            [
+                144,
+                "But what I really am is a very smart scientist who understands the mechanics of the universe and is wearing the sexy black underwear you bought him."
+            ],
+            [
+                167,
+                "Hello, boys."
+            ],
+            [
+                191,
+                "Ja, und later she\u2019s going to arrest me for goink fashter zen da shpeed of light."
+            ],
+            [
+                193,
+                "Sorry, Officer."
+            ],
+            [
+                227,
+                "Just explaining the theory of relativity. Twice."
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "For the record, he also thinks the Walgreens and the dry cleaners are out of this world."
+            ],
+            [
+                17,
+                "Interesting hypothesis. Let\u2019s apply the scientific method, perform an experiment."
+            ],
+            [
+                20,
+                "It\u2019s fascinating. Let me see if I can duplicate the result. Howard, I\u2019ve always thought the lemon was an underrated fruit. Care to weigh in?"
+            ],
+            [
+                22,
+                "Oh, well."
+            ],
+            [
+                53,
+                "What kind of tea would you like?"
+            ],
+            [
+                55,
+                "Two tea bags in one cup? You\u2019re not at a rave."
+            ],
+            [
+                57,
+                "I couldn\u2019t agree more."
+            ],
+            [
+                59,
+                "Oh, oh, on the contrary. Couples costumes are one of the few benefits of being in a relationship. Now imagine this, you and I entering Stuart\u2019s party and all eyes turn to see America\u2019s most beloved and glamorous couple."
+            ],
+            [
+                61,
+                "R2-D2 and C-3PO. Dibs on Threepio."
+            ],
+            [
+                63,
+                "Okay, I\u2019m gonna let that slide because I know you\u2019re hopped up on tea bags."
+            ],
+            [
+                65,
+                "Fine. How about one of the most beguiling and influential couples of the 20th century? Hewlett and Packard. Dibs on Hewlett. What? You want to be Hewlett?"
+            ],
+            [
+                109,
+                "Night of the Living Garlic Bread?"
+            ],
+            [
+                111,
+                "I\u2019m sorry, but these are just ordinary foods with the names bent into tortured puns. The dishes themselves are in no way Halloweenie."
+            ],
+            [
+                115,
+                "What are you smiling at?"
+            ],
+            [
+                148,
+                "A Tardis makes no sense. It\u2019s a time machine from a science-fiction show. It has nothing to do with Halloween. That being said, if you don\u2019t get a Tardis, you stink and your party stinks."
+            ],
+            [
+                151,
+                "Yes! This party just became a major rager."
+            ],
+            [
+                160,
+                "Yes."
+            ],
+            [
+                162,
+                "We seem to have different approaches here. I was going for helpful honesty. I have no idea what you\u2019re doing."
+            ],
+            [
+                164,
+                "Okay. If you think being nice will get him to shut up, I\u2019ll try it."
+            ],
+            [
+                166,
+                "Look at that, the problem solved itself."
+            ],
+            [
+                169,
+                "What if we were to go as dinner table favourites salt and pepper?"
+            ],
+            [
+                171,
+                "No, I don\u2019t think so. Those dolls represent three things I do not care for, clowns, children and raggediness. I think it\u2019s a lost cause."
+            ],
+            [
+                173,
+                "What\u2019s a hickey?"
+            ],
+            [
+                199,
+                "I should\u2019ve picked hickey."
+            ],
+            [
+                202,
+                "It was a compromise. I lost."
+            ]
+        ],
+        "Raj": [
+            [
+                8,
+                "Hey, Stuart, I see you\u2019re getting ready for your Halloween party."
+            ],
+            [
+                10,
+                "Would you like me to help? I do have a certain je ne sais quois when it comes to soirees."
+            ],
+            [
+                12,
+                "You know, you don\u2019t worry about money. I\u2019ll take care of everything."
+            ],
+            [
+                14,
+                "Yeah, you\u2019ll love it. Ain\u2019t no party like a Koothra-party."
+            ],
+            [
+                106,
+                "Before I forget, I\u2019d like your opinion on the menus I\u2019ve prepared for the Halloween party. The theme is food that goes bump in the night."
+            ],
+            [
+                108,
+                "On Sesame seed Bunzillas."
+            ],
+            [
+                110,
+                "It\u2019s funny because bread sounds like dead."
+            ],
+            [
+                112,
+                "Ooh, Hallow-weenies! That\u2019s a good one. They\u2019ll pair nicely with my Draculoni and Cheese. How do I do it?"
+            ],
+            [
+                147,
+                "So, I thought the photo booth for the party could either be creepy like a mummy\u2019s tomb, or they also have the Tardis from Doctor Who."
+            ],
+            [
+                149,
+                "Do you have a preference?"
+            ],
+            [
+                152,
+                "Oh, by the way, can I borrow your bullwhip and fedora?"
+            ],
+            [
+                154,
+                "I was thinking of dressing up as Indiana Jones\u2019 mocha-skinned love child. Indian Jones."
+            ],
+            [
+                156,
+                "What\u2019s wrong with you?"
+            ],
+            [
+                158,
+                "Oh, Howard, I\u2019ve got a party to plan. Don\u2019t make me pull it out of you."
+            ],
+            [
+                161,
+                "No."
+            ],
+            [
+                163,
+                "It\u2019s called being nice."
+            ],
+            [
+                203,
+                "Can you believe Stuart\u2019s walking around taking credit for this party?"
+            ],
+            [
+                205,
+                "What do you mean who cares? Look at what I pulled off here. The DJ\u2019s on fire, there\u2019s a Tardis photo booth in the back room, and, oh, my God, the food. Stuart wanted Kraft Draculoni and cheese."
+            ],
+            [
+                207,
+                "Is this about the space thing again?"
+            ]
+        ],
+        "Amy": [
+            [
+                26,
+                "Ladies night at the Cheesecake Factory. Does it get any better than this?"
+            ],
+            [
+                28,
+                "Question. Do you think your husband\u2019s fondness for turtlenecks is an expression of longing for his missing foreskin?"
+            ],
+            [
+                33,
+                "And my boyfriend?"
+            ],
+            [
+                39,
+                "Then what\u2019s your job?"
+            ],
+            [
+                42,
+                "That\u2019s not always true. Last night I gave Sheldon my best come-hither look, and he responded by explaining how wheat came to be cultivated."
+            ],
+            [
+                46,
+                "Why?"
+            ],
+            [
+                50,
+                "He takes hypotheses and designs protocols to determine their accuracy."
+            ],
+            [
+                54,
+                "I think I\u2019m gonna try green tea mixed with lemon zinger."
+            ],
+            [
+                56,
+                "So, listen, Sheldon, I was thinking, since this is gonna be our first Halloween party as boyfriend and girlfriend, I thought it might be fun for us to go in a couples costume."
+            ],
+            [
+                58,
+                "Really? I find that inconsistent with everything I know about you."
+            ],
+            [
+                60,
+                "Yeah?"
+            ],
+            [
+                62,
+                "Sheldon, when I said couples costume, I meant like Romeo and Juliet or Cinderella and Prince Charming, not two robots from some silly movie I don\u2019t even like."
+            ],
+            [
+                64,
+                "I make compromises for you all the time. Just this once, can\u2019t we find something that we\u2019re both happy with?"
+            ],
+            [
+                170,
+                "You know salt makes me retain water and my cousin William was ground to death in a pepper factory accident. How about Raggedy Ann and Andy? I loved them growing up."
+            ],
+            [
+                172,
+                "No. There are certain things that say to the world, I have a boyfriend, and he\u2019s not made up. Matching costumes, hickeys and sex tapes. Pick one."
+            ],
+            [
+                198,
+                "Sheldon, get in here."
+            ],
+            [
+                201,
+                "I\u2019m Raggedy Ann, and he\u2019s Raggedy C-3PO."
+            ]
+        ],
+        "Penny": [
+            [
+                27,
+                "I hope so."
+            ],
+            [
+                29,
+                "It\u2019s not getting any better. (Text tone) Ugh. It\u2019s Leonard. He wants to go costume shopping later."
+            ],
+            [
+                31,
+                "I do, it\u2019s just he wants to go to that party at the comic book store. A lot of the guys that hang out there are kind of creepy."
+            ],
+            [
+                34,
+                "I\u2019m, I\u2019m sorry, Amy. You were saying something about Howard\u2019s foreskin?"
+            ],
+            [
+                36,
+                "Yeah, I\u2019m gonna go. It\u2019s just not my idea of a good time."
+            ],
+            [
+                38,
+                "Well, yeah, he\u2019s my boyfriend. Isn\u2019t that, like, his job?"
+            ],
+            [
+                40,
+                "Letting him make me happy."
+            ],
+            [
+                43,
+                "I guess I could probably try a little harder."
+            ],
+            [
+                45,
+                "Yeah, that\u2019s kind of a problem."
+            ],
+            [
+                47,
+                "Not really clear on what he does."
+            ],
+            [
+                49,
+                "Yeah, I\u2019m not really clear on what that means."
+            ],
+            [
+                51,
+                "Yeah, you\u2019re really just making it worse."
+            ],
+            [
+                67,
+                "Anybody home?"
+            ],
+            [
+                69,
+                "I just thought I\u2019d stop by and say hello."
+            ],
+            [
+                71,
+                "No, I know. It\u2019s long overdue. So, what ya doing? Better not be building a robot girlfriend."
+            ],
+            [
+                73,
+                "You\u2019re kidding."
+            ],
+            [
+                75,
+                "Ooh! What\u2019s going on in here?"
+            ],
+            [
+                77,
+                "What, is it secret?"
+            ],
+            [
+                79,
+                "Oh. You might want to put a sign on it."
+            ],
+            [
+                81,
+                "Ah. Danger. Sure, sure. Yeah. What\u2019s, what\u2019s that?"
+            ],
+            [
+                83,
+                "Wow. High-techie-techie. What\u2019s this little box?"
+            ],
+            [
+                85,
+                "Ooh, low-techie-techie. So, what are you working on right now?"
+            ],
+            [
+                87,
+                "Yeah?"
+            ],
+            [
+                89,
+                "Sharp. Thanks to the machine we saw earlier."
+            ],
+            [
+                91,
+                "Wow. That is amazing."
+            ],
+            [
+                93,
+                "What do you mean? (Leonard flicks a switch. The hologram changes to a view of the planet Earth). Oh! Wow!"
+            ],
+            [
+                95,
+                "Hmm."
+            ],
+            [
+                97,
+                "Sometimes I forget how smart you are."
+            ],
+            [
+                99,
+                "Take off your clothes."
+            ],
+            [
+                101,
+                "Yeah. You got a problem with that?"
+            ],
+            [
+                103,
+                "Really? Never?"
+            ],
+            [
+                137,
+                "Whoa! That\u2019s heavy."
+            ],
+            [
+                139,
+                "No. Why?"
+            ],
+            [
+                141,
+                "Whoa! That is very cool."
+            ],
+            [
+                143,
+                "Getting a little less cool, Leonard."
+            ],
+            [
+                145,
+                "There we go."
+            ],
+            [
+                187,
+                "Oh, my God, you guys look adorable."
+            ],
+            [
+                189,
+                "No, sexy cop. Slutty cop only came with a skirt and two badges."
+            ],
+            [
+                192,
+                "I thought we said in the car, no accents?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                30,
+                "I thought you liked Halloween."
+            ],
+            [
+                32,
+                "Like my husband?"
+            ],
+            [
+                35,
+                "Nice try, but you have to go to that party because we\u2019re going."
+            ],
+            [
+                37,
+                "Leonard does thing he doesn\u2019t like to make you happy."
+            ],
+            [
+                41,
+                "I just think in relationships you get back what you put into them."
+            ],
+            [
+                44,
+                "You could start by taking an interest in his work."
+            ],
+            [
+                48,
+                "He\u2019s an experimental physicist."
+            ],
+            [
+                121,
+                "Yeah, you mentioned it once or twice."
+            ],
+            [
+                123,
+                "Okay, we need to talk."
+            ],
+            [
+                125,
+                "Howie, I know you went to space. I\u2019m incredibly proud of you. But you might want to try and not bring it up every minute."
+            ],
+            [
+                127,
+                "Tonight at dinner you went on bout it for an hour straight."
+            ],
+            [
+                129,
+                "I\u2019m just saying, people are getting a little tired of it."
+            ],
+            [
+                131,
+                "Of course you can. But maybe a good rule would be to wait for people to bring it up."
+            ],
+            [
+                133,
+                "I love you."
+            ],
+            [
+                175,
+                "How do I look?"
+            ],
+            [
+                177,
+                "Uh-oh, is someone a little blue? Come on, Howie, that\u2019s like the funniest thing I\u2019ve ever said in my life. What do you say? You ready to go?"
+            ],
+            [
+                179,
+                "What are you talking about? It\u2019ll be fun. All your friends\u2019ll be there."
+            ],
+            [
+                181,
+                "No, if I\u2019m there alone, people might think I\u2019m just a really short person from Avatar."
+            ],
+            [
+                183,
+                "Hey, I just spent the last three hours colouring myself blue. I\u2019m gonna be washing paint out of my Smurf for a month."
+            ],
+            [
+                185,
+                "Yeah, well, now you\u2019re a Smurf. Keep walking."
+            ],
+            [
+                188,
+                "Thanks, so do you. Slutty cop?"
+            ],
+            [
+                190,
+                "And Albert Einstein?"
+            ],
+            [
+                209,
+                "Whoa, Drinky Smurf. Can I talk to you for a second?"
+            ],
+            [
+                211,
+                "You, out! You are being very rude."
+            ],
+            [
+                213,
+                "Me? What did I do?"
+            ],
+            [
+                217,
+                "I\u2019m always on your side."
+            ],
+            [
+                219,
+                "Just what?"
+            ],
+            [
+                221,
+                "Plain old Howard Wolowitz is the best guy I know."
+            ],
+            [
+                223,
+                "No, I\u2019m not. I married him. On purpose. Come here."
+            ],
+            [
+                225,
+                "I love you, too."
+            ],
+            [
+                229,
+                "Hey, what you watching?"
+            ]
+        ],
+        "All": [
+            [
+                118,
+                "Space."
+            ]
+        ],
+        "Girl dressed as a Witch": [
+            [
+                194,
+                "Hello. It\u2019s a great party."
+            ]
+        ],
+        "Witch": [
+            [
+                196,
+                "The monster foods, they\u2019re really fun."
+            ]
+        ],
+        "Howard (in a squeaky voice)": [
+            [
+                214,
+                "Oh, Howie, stop talking about space so much. Nobody likes it."
+            ]
+        ],
+        "Bernadette (in a gruff voice)": [
+            [
+                215,
+                "I don\u2019t sound like that."
+            ]
+        ],
+        "Penny (emerging from Tardis)": [
+            [
+                226,
+                "Nothing to see here. Just sexy police business."
+            ]
+        ],
+        "Buzz (on video, handing Halloween candy to children)": [
+            [
+                231,
+                "Here you go. It\u2019s a Milky Way. The Milky Way\u2019s a galaxy in space. I\u2019ve been in space. Here\u2019s a Mars bar. I\u2019m an astronaut. And this one\u2019s a Moon Pie. I walked on the Moon. What have you done?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The Comic Book Store"
+        ],
+        [
+            "Howard",
+            "Oh, hey, Stuart, I got you a little souvenir from my trip to space."
+        ],
+        [
+            "Stuart",
+            "Well, Howard, that\u2019s very nice of you."
+        ],
+        [
+            "Leonard",
+            "Yeah, maybe. Open it first."
+        ],
+        [
+            "Howard",
+            "It\u2019s my official NASA portrait."
+        ],
+        [
+            "Stuart",
+            "To Stuart, your comic book store is out of this world. Just like the guy in this picture was.\u201d"
+        ],
+        [
+            "Sheldon",
+            "For the record, he also thinks the Walgreens and the dry cleaners are out of this world."
+        ],
+        [
+            "Howard",
+            "That\u2019s not true. At the Walgreens I was over the moon for their store-brand antacids."
+        ],
+        [
+            "Raj",
+            "Hey, Stuart, I see you\u2019re getting ready for your Halloween party."
+        ],
+        [
+            "Stuart",
+            "Yeah, it\u2019s my annual attempt to meet women. Ninth time\u2019s the charm."
+        ],
+        [
+            "Raj",
+            "Would you like me to help? I do have a certain je ne sais quois when it comes to soirees."
+        ],
+        [
+            "Stuart",
+            "Thanks, but I can\u2019t afford je ne sais quois. How much for just quois?"
+        ],
+        [
+            "Raj",
+            "You know, you don\u2019t worry about money. I\u2019ll take care of everything."
+        ],
+        [
+            "Stuart",
+            "Really?"
+        ],
+        [
+            "Raj",
+            "Yeah, you\u2019ll love it. Ain\u2019t no party like a Koothra-party."
+        ],
+        [
+            "Howard",
+            "But you know what wasn\u2019t a party? That hotel in Kazakhstan they put you up in before the launch. I mean, it\u2019s your last night on Earth. You\u2019d think you\u2019d get one porn channel."
+        ],
+        [
+            "Leonard",
+            "Have you noticed that Howard can take any topic and use it to remind you that he went to space?"
+        ],
+        [
+            "Sheldon",
+            "Interesting hypothesis. Let\u2019s apply the scientific method, perform an experiment."
+        ],
+        [
+            "Leonard",
+            "Okay. Hey, Howard, any thoughts on where we should get dinner?"
+        ],
+        [
+            "Howard",
+            "Anywhere but the Space Station. On a good day, dinner was a bag full of meat loaf. But, hey, you don\u2019t go there for the food, you go there for the view."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s fascinating. Let me see if I can duplicate the result. Howard, I\u2019ve always thought the lemon was an underrated fruit. Care to weigh in?"
+        ],
+        [
+            "Howard",
+            "Not really."
+        ],
+        [
+            "Sheldon",
+            "Oh, well."
+        ],
+        [
+            "Howard",
+            "You know, people say the Soyuz capsule was a lemon. But, hey, that baby got me to space and back."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory Bar"
+        ],
+        [
+            "Amy",
+            "Ladies night at the Cheesecake Factory. Does it get any better than this?"
+        ],
+        [
+            "Penny",
+            "I hope so."
+        ],
+        [
+            "Amy",
+            "Question. Do you think your husband\u2019s fondness for turtlenecks is an expression of longing for his missing foreskin?"
+        ],
+        [
+            "Penny",
+            "It\u2019s not getting any better. (Text tone) Ugh. It\u2019s Leonard. He wants to go costume shopping later."
+        ],
+        [
+            "Bernadette",
+            "I thought you liked Halloween."
+        ],
+        [
+            "Penny",
+            "I do, it\u2019s just he wants to go to that party at the comic book store. A lot of the guys that hang out there are kind of creepy."
+        ],
+        [
+            "Bernadette",
+            "Like my husband?"
+        ],
+        [
+            "Amy",
+            "And my boyfriend?"
+        ],
+        [
+            "Penny",
+            "I\u2019m, I\u2019m sorry, Amy. You were saying something about Howard\u2019s foreskin?"
+        ],
+        [
+            "Bernadette",
+            "Nice try, but you have to go to that party because we\u2019re going."
+        ],
+        [
+            "Penny",
+            "Yeah, I\u2019m gonna go. It\u2019s just not my idea of a good time."
+        ],
+        [
+            "Bernadette",
+            "Leonard does thing he doesn\u2019t like to make you happy."
+        ],
+        [
+            "Penny",
+            "Well, yeah, he\u2019s my boyfriend. Isn\u2019t that, like, his job?"
+        ],
+        [
+            "Amy",
+            "Then what\u2019s your job?"
+        ],
+        [
+            "Penny",
+            "Letting him make me happy."
+        ],
+        [
+            "Bernadette",
+            "I just think in relationships you get back what you put into them."
+        ],
+        [
+            "Amy",
+            "That\u2019s not always true. Last night I gave Sheldon my best come-hither look, and he responded by explaining how wheat came to be cultivated."
+        ],
+        [
+            "Penny",
+            "I guess I could probably try a little harder."
+        ],
+        [
+            "Bernadette",
+            "You could start by taking an interest in his work."
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s kind of a problem."
+        ],
+        [
+            "Amy",
+            "Why?"
+        ],
+        [
+            "Penny",
+            "Not really clear on what he does."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s an experimental physicist."
+        ],
+        [
+            "Penny",
+            "Yeah, I\u2019m not really clear on what that means."
+        ],
+        [
+            "Amy",
+            "He takes hypotheses and designs protocols to determine their accuracy."
+        ],
+        [
+            "Penny",
+            "Yeah, you\u2019re really just making it worse."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "What kind of tea would you like?"
+        ],
+        [
+            "Amy",
+            "I think I\u2019m gonna try green tea mixed with lemon zinger."
+        ],
+        [
+            "Sheldon",
+            "Two tea bags in one cup? You\u2019re not at a rave."
+        ],
+        [
+            "Amy",
+            "So, listen, Sheldon, I was thinking, since this is gonna be our first Halloween party as boyfriend and girlfriend, I thought it might be fun for us to go in a couples costume."
+        ],
+        [
+            "Sheldon",
+            "I couldn\u2019t agree more."
+        ],
+        [
+            "Amy",
+            "Really? I find that inconsistent with everything I know about you."
+        ],
+        [
+            "Sheldon",
+            "Oh, oh, on the contrary. Couples costumes are one of the few benefits of being in a relationship. Now imagine this, you and I entering Stuart\u2019s party and all eyes turn to see America\u2019s most beloved and glamorous couple."
+        ],
+        [
+            "Amy",
+            "Yeah?"
+        ],
+        [
+            "Sheldon",
+            "R2-D2 and C-3PO. Dibs on Threepio."
+        ],
+        [
+            "Amy",
+            "Sheldon, when I said couples costume, I meant like Romeo and Juliet or Cinderella and Prince Charming, not two robots from some silly movie I don\u2019t even like."
+        ],
+        [
+            "Sheldon",
+            "Okay, I\u2019m gonna let that slide because I know you\u2019re hopped up on tea bags."
+        ],
+        [
+            "Amy",
+            "I make compromises for you all the time. Just this once, can\u2019t we find something that we\u2019re both happy with?"
+        ],
+        [
+            "Sheldon",
+            "Fine. How about one of the most beguiling and influential couples of the 20th century? Hewlett and Packard. Dibs on Hewlett. What? You want to be Hewlett?"
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s laboratory."
+        ],
+        [
+            "Penny",
+            "Anybody home?"
+        ],
+        [
+            "Leonard",
+            "Hey, what are you doing here?"
+        ],
+        [
+            "Penny",
+            "I just thought I\u2019d stop by and say hello."
+        ],
+        [
+            "Leonard",
+            "Oh, what a nice surprise. I don\u2019t think you\u2019ve ever seen my lab before."
+        ],
+        [
+            "Penny",
+            "No, I know. It\u2019s long overdue. So, what ya doing? Better not be building a robot girlfriend."
+        ],
+        [
+            "Leonard",
+            "No. Although Howard was making some real strides in that area until he met Bernadette."
+        ],
+        [
+            "Penny",
+            "You\u2019re kidding."
+        ],
+        [
+            "Leonard",
+            "Nope. Now the Lisatronic 3000 just sits in a box waiting for the phone to ring."
+        ],
+        [
+            "Penny",
+            "Ooh! What\u2019s going on in here?"
+        ],
+        [
+            "Leonard",
+            "Oh, no, no, no, don\u2019t look in there."
+        ],
+        [
+            "Penny",
+            "What, is it secret?"
+        ],
+        [
+            "Leonard",
+            "No, it\u2019s a nitrogen laser. It\u2019ll cook your eyeball like a soft-boiled egg."
+        ],
+        [
+            "Penny",
+            "Oh. You might want to put a sign on it."
+        ],
+        [
+            "Leonard",
+            "Sign right there."
+        ],
+        [
+            "Penny",
+            "Ah. Danger. Sure, sure. Yeah. What\u2019s, what\u2019s that?"
+        ],
+        [
+            "Leonard",
+            "Uh, that is an integrated ion trap and time-of-flight mass spectrometer."
+        ],
+        [
+            "Penny",
+            "Wow. High-techie-techie. What\u2019s this little box?"
+        ],
+        [
+            "Leonard",
+            "That is a pencil sharpener."
+        ],
+        [
+            "Penny",
+            "Ooh, low-techie-techie. So, what are you working on right now?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s actually pretty neat."
+        ],
+        [
+            "Penny",
+            "Yeah?"
+        ],
+        [
+            "Leonard",
+            "Yeah. It\u2019s a front-projected holographic display combined with laser-based finger tracking. Here, I\u2019ll show you. We\u2019ll just put this pencil over here."
+        ],
+        [
+            "Penny",
+            "Sharp. Thanks to the machine we saw earlier."
+        ],
+        [
+            "Leonard",
+            "Very good. And then a laser will map the reflective surface, and voila. (A floating 3D image of the pencil appears. Leonard moves it around with his finger)"
+        ],
+        [
+            "Penny",
+            "Wow. That is amazing."
+        ],
+        [
+            "Leonard",
+            "You know, there\u2019s a foundational idea in string theory that the whole universe may be a hologram."
+        ],
+        [
+            "Penny",
+            "What do you mean? (Leonard flicks a switch. The hologram changes to a view of the planet Earth). Oh! Wow!"
+        ],
+        [
+            "Leonard",
+            "Uh-huh. Well, the holographic principle suggests that what we all experience every day in three dimensions may really (changes view to solar system) just be information (changes view to the galaxy) on a surface located at the farthest reaches of our cosmos. (Starts the galaxy spinning) So it\u2019s possible that our lives are really just acting out a painting on the largest canvas in the universe."
+        ],
+        [
+            "Penny",
+            "Hmm."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Sometimes I forget how smart you are."
+        ],
+        [
+            "Leonard",
+            "You should visit more often. What are you doing?"
+        ],
+        [
+            "Penny",
+            "Take off your clothes."
+        ],
+        [
+            "Leonard",
+            "What? Here? Now?"
+        ],
+        [
+            "Penny",
+            "Yeah. You got a problem with that?"
+        ],
+        [
+            "Leonard",
+            "No, no. It\u2019s kind of crazy. I\u2019ve never fooled around in the lab before."
+        ],
+        [
+            "Penny",
+            "Really? Never?"
+        ],
+        [
+            "Leonard",
+            "No. I did have a shot with the Lisatronic, but the extension cord wasn\u2019t long enough."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Raj",
+            "Before I forget, I\u2019d like your opinion on the menus I\u2019ve prepared for the Halloween party. The theme is food that goes bump in the night."
+        ],
+        [
+            "Howard",
+            "Creature from the Black Forest Ham Lagoon."
+        ],
+        [
+            "Raj",
+            "On Sesame seed Bunzillas."
+        ],
+        [
+            "Sheldon",
+            "Night of the Living Garlic Bread?"
+        ],
+        [
+            "Raj",
+            "It\u2019s funny because bread sounds like dead."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, but these are just ordinary foods with the names bent into tortured puns. The dishes themselves are in no way Halloweenie."
+        ],
+        [
+            "Raj",
+            "Ooh, Hallow-weenies! That\u2019s a good one. They\u2019ll pair nicely with my Draculoni and Cheese. How do I do it?"
+        ],
+        [
+            "Howard",
+            "That reminds me, I was thinking about wearing my NASA jumpsuit as a costume. But then I realized everyone would be, like, where\u2019s your costume? Why are you wearing your work clothes, you nut?"
+        ],
+        [
+            "Leonard",
+            "Hello, boys."
+        ],
+        [
+            "Sheldon",
+            "What are you smiling at?"
+        ],
+        [
+            "Leonard",
+            "Nothing."
+        ],
+        [
+            "Howard",
+            "You know where\u2019s there\u2019s a lot of nothing."
+        ],
+        [
+            "All",
+            "Space."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bedroom."
+        ],
+        [
+            "Howard",
+            "Boy, it\u2019s nice to sleep in a bed with gravity again. Did I tell you about the night my retainer floated out of my mouth and into the air lock?"
+        ],
+        [
+            "Bernadette",
+            "Yeah, you mentioned it once or twice."
+        ],
+        [
+            "Howard",
+            "So, here we are, just a couple of young newlyweds. What to do? What to do to you? Astronaut Wolowitz, reporting for booty. Preparing thrusters. We have liftoff. Are we clear to jettison that nightgown?"
+        ],
+        [
+            "Bernadette",
+            "Okay, we need to talk."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Bernadette",
+            "Howie, I know you went to space. I\u2019m incredibly proud of you. But you might want to try and not bring it up every minute."
+        ],
+        [
+            "Howard",
+            "I don\u2019t talk about it every minute."
+        ],
+        [
+            "Bernadette",
+            "Tonight at dinner you went on bout it for an hour straight."
+        ],
+        [
+            "Howard",
+            "What was I supposed to talk about? We were eating at Johnny Rockets."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m just saying, people are getting a little tired of it."
+        ],
+        [
+            "Howard",
+            "So, I did this amazing thing and I\u2019m never allowed to mention it?"
+        ],
+        [
+            "Bernadette",
+            "Of course you can. But maybe a good rule would be to wait for people to bring it up."
+        ],
+        [
+            "Howard",
+            "Okay, no problem. It won\u2019t happen again."
+        ],
+        [
+            "Bernadette",
+            "I love you."
+        ],
+        [
+            "Howard",
+            "I love you, too. I can\u2019t tell you how many times I dreamed I was in bed here with you when I was\u2026 you know. What, I can\u2019t even point?"
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s lab."
+        ],
+        [
+            "Leonard",
+            "So, basically, this is what\u2019s called mag-lev technology. It uses very powerful electromagnets to create a force strong enough to overcome gravity. Here, you hold this."
+        ],
+        [
+            "Penny",
+            "Whoa! That\u2019s heavy."
+        ],
+        [
+            "Leonard",
+            "Yeah. Oh, uh, you don\u2019t have on any jewellery, do you?"
+        ],
+        [
+            "Penny",
+            "No. Why?"
+        ],
+        [
+            "Leonard",
+            "A grad student forgot to take out one of his piercings. Now he\u2019s on a transplant list waiting for a nipple his size. Now watch this."
+        ],
+        [
+            "Penny",
+            "Whoa! That is very cool."
+        ],
+        [
+            "Leonard",
+            "Sometimes I like to turn this on and pretend I\u2019m the super villain Magneto."
+        ],
+        [
+            "Penny",
+            "Getting a little less cool, Leonard."
+        ],
+        [
+            "Leonard",
+            "But what I really am is a very smart scientist who understands the mechanics of the universe and is wearing the sexy black underwear you bought him."
+        ],
+        [
+            "Penny",
+            "There we go."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Raj",
+            "So, I thought the photo booth for the party could either be creepy like a mummy\u2019s tomb, or they also have the Tardis from Doctor Who."
+        ],
+        [
+            "Sheldon",
+            "A Tardis makes no sense. It\u2019s a time machine from a science-fiction show. It has nothing to do with Halloween. That being said, if you don\u2019t get a Tardis, you stink and your party stinks."
+        ],
+        [
+            "Raj",
+            "Do you have a preference?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t care. Get the Tardis."
+        ],
+        [
+            "Sheldon",
+            "Yes! This party just became a major rager."
+        ],
+        [
+            "Raj",
+            "Oh, by the way, can I borrow your bullwhip and fedora?"
+        ],
+        [
+            "Howard",
+            "Yeah, sure, whatever."
+        ],
+        [
+            "Raj",
+            "I was thinking of dressing up as Indiana Jones\u2019 mocha-skinned love child. Indian Jones."
+        ],
+        [
+            "Howard",
+            "Clever."
+        ],
+        [
+            "Raj",
+            "What\u2019s wrong with you?"
+        ],
+        [
+            "Howard",
+            "Nothing."
+        ],
+        [
+            "Raj",
+            "Oh, Howard, I\u2019ve got a party to plan. Don\u2019t make me pull it out of you."
+        ],
+        [
+            "Howard",
+            "Okay, here it is. Bernadette said you guys are all sick of me talking about my trip to space. Is that true?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "We seem to have different approaches here. I was going for helpful honesty. I have no idea what you\u2019re doing."
+        ],
+        [
+            "Raj",
+            "It\u2019s called being nice."
+        ],
+        [
+            "Sheldon",
+            "Okay. If you think being nice will get him to shut up, I\u2019ll try it."
+        ],
+        [
+            "Howard",
+            "You know what, guys? Never mind. I just won\u2019t talk about the greatest achievement of my life ever again."
+        ],
+        [
+            "Sheldon",
+            "Look at that, the problem solved itself."
+        ],
+        [
+            "Leonard",
+            "Hello, boys."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "What if we were to go as dinner table favourites salt and pepper?"
+        ],
+        [
+            "Amy",
+            "You know salt makes me retain water and my cousin William was ground to death in a pepper factory accident. How about Raggedy Ann and Andy? I loved them growing up."
+        ],
+        [
+            "Sheldon",
+            "No, I don\u2019t think so. Those dolls represent three things I do not care for, clowns, children and raggediness. I think it\u2019s a lost cause."
+        ],
+        [
+            "Amy",
+            "No. There are certain things that say to the world, I have a boyfriend, and he\u2019s not made up. Matching costumes, hickeys and sex tapes. Pick one."
+        ],
+        [
+            "Sheldon",
+            "What\u2019s a hickey?"
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bedroom. Howard and Bernadette are dressed as smurfs."
+        ],
+        [
+            "Bernadette",
+            "How do I look?"
+        ],
+        [
+            "Howard",
+            "Fine."
+        ],
+        [
+            "Bernadette",
+            "Uh-oh, is someone a little blue? Come on, Howie, that\u2019s like the funniest thing I\u2019ve ever said in my life. What do you say? You ready to go?"
+        ],
+        [
+            "Howard",
+            "To tell you the truth, I\u2019m not really in the mood."
+        ],
+        [
+            "Bernadette",
+            "What are you talking about? It\u2019ll be fun. All your friends\u2019ll be there."
+        ],
+        [
+            "Howard",
+            "Yeah, some friends. They all think I\u2019m boring. Maybe you should go without me."
+        ],
+        [
+            "Bernadette",
+            "No, if I\u2019m there alone, people might think I\u2019m just a really short person from Avatar."
+        ],
+        [
+            "Howard",
+            "I\u2019m sorry. I just don\u2019t want to go."
+        ],
+        [
+            "Bernadette",
+            "Hey, I just spent the last three hours colouring myself blue. I\u2019m gonna be washing paint out of my Smurf for a month."
+        ],
+        [
+            "Howard",
+            "Fine. Two weeks ago I was an astronaut."
+        ],
+        [
+            "Bernadette",
+            "Yeah, well, now you\u2019re a Smurf. Keep walking."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Penny",
+            "Oh, my God, you guys look adorable."
+        ],
+        [
+            "Bernadette",
+            "Thanks, so do you. Slutty cop?"
+        ],
+        [
+            "Penny",
+            "No, sexy cop. Slutty cop only came with a skirt and two badges."
+        ],
+        [
+            "Bernadette",
+            "And Albert Einstein?"
+        ],
+        [
+            "Leonard",
+            "Ja, und later she\u2019s going to arrest me for goink fashter zen da shpeed of light."
+        ],
+        [
+            "Penny",
+            "I thought we said in the car, no accents?"
+        ],
+        [
+            "Leonard",
+            "Sorry, Officer."
+        ],
+        [
+            "Girl dressed as a Witch",
+            "Hello. It\u2019s a great party."
+        ],
+        [
+            "Stuart",
+            "Thank you."
+        ],
+        [
+            "Witch",
+            "The monster foods, they\u2019re really fun."
+        ],
+        [
+            "Stuart",
+            "Oh, yes, thank you. I like to think of fun things like that because I\u2019m fun. I\u2019m not clinically depressed at all."
+        ],
+        [
+            "Amy",
+            "Sheldon, get in here."
+        ],
+        [
+            "Sheldon",
+            "I should\u2019ve picked hickey."
+        ],
+        [
+            "Stuart",
+            "Hey, hey, look at you guys!"
+        ],
+        [
+            "Amy",
+            "I\u2019m Raggedy Ann, and he\u2019s Raggedy C-3PO."
+        ],
+        [
+            "Sheldon",
+            "It was a compromise. I lost."
+        ],
+        [
+            "Raj",
+            "Can you believe Stuart\u2019s walking around taking credit for this party?"
+        ],
+        [
+            "Howard",
+            "Who cares?"
+        ],
+        [
+            "Raj",
+            "What do you mean who cares? Look at what I pulled off here. The DJ\u2019s on fire, there\u2019s a Tardis photo booth in the back room, and, oh, my God, the food. Stuart wanted Kraft Draculoni and cheese."
+        ],
+        [
+            "Howard",
+            "You\u2019re right, the party\u2019s fantastic. Please, tell me more. I haven\u2019t heard enough about it all week because hearing about that never gets old."
+        ],
+        [
+            "Raj",
+            "Is this about the space thing again?"
+        ],
+        [
+            "Howard",
+            "Well, I\u2019m not allowed to talk about it, but since you brought it up, I went to space! Space, space! Space! Space, space! Space!"
+        ],
+        [
+            "Bernadette",
+            "Whoa, Drinky Smurf. Can I talk to you for a second?"
+        ],
+        [
+            "Howard",
+            "Great, now I\u2019m in trouble. You happy?"
+        ],
+        [
+            "Bernadette",
+            "You, out! You are being very rude."
+        ],
+        [
+            "Howard",
+            "No, I\u2019m not. They\u2019re all being rude. And you\u2019re being rude."
+        ],
+        [
+            "Bernadette",
+            "Me? What did I do?"
+        ],
+        [
+            "Howard (in a squeaky voice)",
+            "Oh, Howie, stop talking about space so much. Nobody likes it."
+        ],
+        [
+            "Bernadette (in a gruff voice)",
+            "I don\u2019t sound like that."
+        ],
+        [
+            "Howard",
+            "You\u2019re my wife. You\u2019re supposed to be on my side."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m always on your side."
+        ],
+        [
+            "Howard",
+            "Then why are you trying to take this away from me? Being an astronaut is the coolest thing I\u2019m ever gonna do. If I stop talking about it, then I\u2019m just\u2026"
+        ],
+        [
+            "Bernadette",
+            "Just what?"
+        ],
+        [
+            "Howard",
+            "Just plain old Howard Wolowitz again."
+        ],
+        [
+            "Bernadette",
+            "Plain old Howard Wolowitz is the best guy I know."
+        ],
+        [
+            "Howard",
+            "You\u2019re just saying that."
+        ],
+        [
+            "Bernadette",
+            "No, I\u2019m not. I married him. On purpose. Come here."
+        ],
+        [
+            "Howard",
+            "I love you."
+        ],
+        [
+            "Bernadette",
+            "I love you, too."
+        ],
+        [
+            "Penny (emerging from Tardis)",
+            "Nothing to see here. Just sexy police business."
+        ],
+        [
+            "Leonard",
+            "Just explaining the theory of relativity. Twice."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bedroom."
+        ],
+        [
+            "Bernadette",
+            "Hey, what you watching?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. Raj sent me some video of Buzz Aldrin."
+        ],
+        [
+            "Buzz (on video, handing Halloween candy to children)",
+            "Here you go. It\u2019s a Milky Way. The Milky Way\u2019s a galaxy in space. I\u2019ve been in space. Here\u2019s a Mars bar. I\u2019m an astronaut. And this one\u2019s a Moon Pie. I walked on the Moon. What have you done?"
+        ],
+        [
+            "Howard",
+            "Okay, I get it."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-05-the-holographic-excitation/"
+}

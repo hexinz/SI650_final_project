@@ -1,0 +1,1800 @@
+{
+    "Season": 2,
+    "Episode": 12,
+    "Title": "the killer robot instability",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                22,
+                "The stairwell."
+            ],
+            [
+                25,
+                "Credits sequence."
+            ],
+            [
+                26,
+                "Outside in stairwell"
+            ],
+            [
+                60,
+                "Howard\u2019s bedroom."
+            ],
+            [
+                73,
+                "The university cafeteria. Other end of the phone call."
+            ],
+            [
+                98,
+                "Outside Penny\u2019s door."
+            ],
+            [
+                128,
+                "Howard\u2019s bedroom."
+            ],
+            [
+                145,
+                "The apartment. The guys are watching footage on a laptop screen."
+            ],
+            [
+                160,
+                "Howard\u2019s bedroom. "
+            ],
+            [
+                179,
+                "The lab. "
+            ],
+            [
+                207,
+                "The apartment. Monte is in pieces on the table."
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "All right, that\u2019s the last servo. Behold the Mobile Omnidirectional Neutralization and Termination Eradicator. Or\u2026"
+            ],
+            [
+                4,
+                "Featuring one articulated razor-sharp killing saw, one polycarbonate grinding and flipping wheel, steel armour plate exoskeleton top and bottom, and enough horsepower to drive a 110 pounds of mechanized death from zero to holy crap in 4.8 seconds."
+            ],
+            [
+                7,
+                "All right, enough chitchat, let\u2019s destroy something."
+            ],
+            [
+                17,
+                "Gentlemen, goggles."
+            ],
+            [
+                27,
+                "Oh yeah, they still got the full Monte."
+            ],
+            [
+                37,
+                "It\u2019s a big deal. There\u2019s an awards banquet and a dance afterward. Perhaps you\u2019d like to come with me. I know the other fellas would be really excited to see a girl there."
+            ],
+            [
+                39,
+                "Well, that may be a slight exaggeration. You\u2019d be the only doable girl."
+            ],
+            [
+                41,
+                "How is doable anything but a compliment?"
+            ],
+            [
+                43,
+                "Please, Leonard, not now. Once again, Penny and I have begun our little tango."
+            ],
+            [
+                45,
+                "The carnal repartee, the erotic to and fro. But as delicious as the appetizer might be, at some point we will have to succumb and eat the entree while it\u2019s still\u2026 hot."
+            ],
+            [
+                50,
+                "Um, so what are you saying?"
+            ],
+            [
+                52,
+                "Wait a minute. This isn\u2019t flirting, you\u2019re serious."
+            ],
+            [
+                54,
+                "Thanks for the heads up."
+            ],
+            [
+                56,
+                "I\u2019m going home to live my creepy, pathetic life."
+            ],
+            [
+                62,
+                "Here\u2019s a crazy idea, Ma, answer it!"
+            ],
+            [
+                64,
+                "I don\u2019t go to school, Ma. I work at a university."
+            ],
+            [
+                66,
+                "I don\u2019t want to talk to anybody."
+            ],
+            [
+                68,
+                "I don\u2019t have homework. I\u2019m a grown man with a master\u2019s degree in engineering!"
+            ],
+            [
+                70,
+                "Cherry, please!"
+            ],
+            [
+                72,
+                "You make me want to kill myself."
+            ],
+            [
+                130,
+                "Who?"
+            ],
+            [
+                132,
+                "I don\u2019t want to talk to her."
+            ],
+            [
+                134,
+                "Ma!"
+            ],
+            [
+                137,
+                "I\u2019m fine."
+            ],
+            [
+                139,
+                "People move away from her on the bus. What do you want?"
+            ],
+            [
+                141,
+                "Fine, you\u2019re sorry. Good-bye."
+            ],
+            [
+                143,
+                "Hey, I\u2019m a big boy. I\u2019m not traumatized by some random comment from some random woman. I mean, get over yourself."
+            ],
+            [
+                161,
+                "And then, when I was 14, I met Marcy Grossman. She was so beautiful. She just got her braces off but they left a little of the overbite. It was so hot, like a sexy little chipmunk. I didn\u2019t have the courage to ask her out, but I dedicated a song to her at the ninth grade talent show."
+            ],
+            [
+                163,
+                "Marcy Grossman is sunshine, on a cloudy day, when it\u2019s cold outside, Marcy Grossman is the month of May\u2026"
+            ],
+            [
+                165,
+                "I guess you\u2019d say, what can make me feel this way, Marcy Grossman, Marcy Grossman, Marcy Grossman, Talkin\u2019 \u2019bout Marcy\u2026"
+            ],
+            [
+                167,
+                "Grossman."
+            ],
+            [
+                169,
+                "And then she came up with that sexy little chipmunk mouth and spit in my hair. Which brings us to tenth grade."
+            ],
+            [
+                171,
+                "Look at me. What chance do I have if I don\u2019t try too hard?"
+            ],
+            [
+                173,
+                "I guess."
+            ],
+            [
+                175,
+                "You really think so?"
+            ],
+            [
+                177,
+                "I don\u2019t know."
+            ],
+            [
+                214,
+                "Yes, I slipped and fell. In the bathroom. Bounced right off the tub."
+            ],
+            [
+                216,
+                "Yeah. They sucker punch you when your eyes are closed."
+            ],
+            [
+                218,
+                "Oh, no. A little electrical tape, some solder. Are you insane? I\u2019ve seen space probes that crashed into the desert that were in better shape than this."
+            ],
+            [
+                224,
+                "Well, don\u2019t get the wrong idea. The way I see it, I\u2019m halfway to pity sex."
+            ]
+        ],
+        "All": [
+            [
+                3,
+                "MONTE."
+            ]
+        ],
+        "Sheldon": [
+            [
+                5,
+                "Is it wrong to say I love our killer robot?"
+            ],
+            [
+                12,
+                "Did it when I was four. It\u2019s an icosahedral dye floating in tinted blue water."
+            ],
+            [
+                15,
+                "What did the toaster oven ever do to you?"
+            ],
+            [
+                18,
+                "Yeah, this is an auspicious moment. Yeah, like Robert Oppenheimer or Neil Armstrong, we need the appropriate words to mark this historic scientific event."
+            ],
+            [
+                33,
+                "If it wanted to kill you, you\u2019d be dead."
+            ],
+            [
+                35,
+                "I\u2019m sorry, are you unaware of the upcoming Southern California Robot Fighting League Round Robin Invitational?"
+            ],
+            [
+                48,
+                "Yeah, excuse me, Penny, but in this room, you\u2019re the one who\u2019s peculiar."
+            ],
+            [
+                79,
+                "His name is Monte."
+            ],
+            [
+                82,
+                "Leonard, I believe it is. This is trash talk, and trash talk is a traditional component in all sporting events. Kripke, your robot is inferior and it will be defeated by ours because ours exceeds yours in both design and execution. Also, I\u2019m given to understand that your mother is overweight."
+            ],
+            [
+                84,
+                "Now, of course, if that is the result of a glandular condition and not sloth and gluttony, I withdraw that comment."
+            ],
+            [
+                86,
+                "There are boundaries."
+            ],
+            [
+                88,
+                "What do you mean?"
+            ],
+            [
+                90,
+                "We accept your challenge. Name a time and place."
+            ],
+            [
+                92,
+                "Make it so."
+            ],
+            [
+                151,
+                "We don\u2019t have that option, we\u2019ve accepted the challenge. We can\u2019t run away from a fight."
+            ],
+            [
+                153,
+                "Impressive as that may be, Monte is not us. Monte has no fear."
+            ],
+            [
+                155,
+                "You are overlooking the fact that we now know what we\u2019re up against and we can modify Monte so that he\u2019s prepared."
+            ],
+            [
+                159,
+                "Have faith, gentlemen. We don\u2019t need Wolowitz, engineering is merely the slow younger brother of physics. Watch and learn. Do either of you know how to open the toolbox?"
+            ],
+            [
+                186,
+                "No, Leonard. For years, merciless thugs like Kripke have made my life a series of painful noogies and humiliating wedgies and the insensitively named Indian burns. That stops now."
+            ],
+            [
+                188,
+                "What you fail to realize is Kripke suffers from a fatal flaw, overconfidence from his robot\u2019s massive size and its overwhelming power."
+            ],
+            [
+                190,
+                "Trust me, Kripke will fall easy prey to my psychological warfare. Observe. Kripke! I would ask if your robot is prepared to meet its maker, but as you are its maker, clearly the two of you have met."
+            ],
+            [
+                195,
+                "He\u2019s right, Leonard. The paradigm is to the death."
+            ],
+            [
+                197,
+                "Never. I\u2019d rather see Monte dead than in your hands."
+            ],
+            [
+                199,
+                "Do it."
+            ],
+            [
+                202,
+                "Indeed. We are prepared for anything he can throw at us. (A flame begins to jet out of Kripke\u2019s robot.) That\u2019s new."
+            ],
+            [
+                206,
+                "Don\u2019t hurt us, don\u2019t hurt us,"
+            ],
+            [
+                209,
+                "I did this. Monte was killed by my hubris and my pride. No matter what anybody says, this is my fault."
+            ],
+            [
+                217,
+                "So what do you think, Howard? It\u2019s not that bad, right?"
+            ],
+            [
+                219,
+                "You\u2019re right. Monte\u2019s gone. We\u2019ll bury him in the morning. A simple ceremony. I\u2019ll speak. Leonard, you\u2019ll play your cello."
+            ],
+            [
+                221,
+                "Just a toy robot?"
+            ]
+        ],
+        "Raj": [
+            [
+                6,
+                "As with my father, I both love and fear it."
+            ],
+            [
+                9,
+                "Okay. What shall be first to taste the wrath of Monte?"
+            ],
+            [
+                11,
+                "Okay. Ooh, perhaps today is the day we finally find out what\u2019s inside the Magic Eight Ball."
+            ],
+            [
+                13,
+                "Man, call spoiler alert before you say things like that."
+            ],
+            [
+                19,
+                "How about \u201cDie, toaster, die\u201d?"
+            ],
+            [
+                74,
+                "What\u2019s going on?"
+            ],
+            [
+                76,
+                "I\u2019m not surprised. Despite his hard and crusty shell, Howard is a very sensitive man. Do you know he writes poetry? Mostly about men from Nantucket and hermits named Dave, but he does it with real sensitivity."
+            ],
+            [
+                83,
+                "Oh, snap."
+            ],
+            [
+                85,
+                "What difference does it make? Fat is fat."
+            ],
+            [
+                95,
+                "He\u2019s depressed because he\u2019s pathetic and creepy and he can\u2019t get girls."
+            ],
+            [
+                97,
+                "I\u2019m curious, what part of America is that accent from?"
+            ],
+            [
+                149,
+                "I can\u2019t watch anymore."
+            ],
+            [
+                154,
+                "Sheldon, did we all not just watch the same video? Kripke\u2019s robot just had angry sex with a mid-sized automobile."
+            ],
+            [
+                157,
+                "Excuse me, but how are we going to make any modifications without Wolowitz? Have you heard from Penny yet?"
+            ],
+            [
+                187,
+                "But, Sheldon, we don\u2019t have a chance. The only improvement you were able to make on the robot was to put fresh batteries in the remote."
+            ],
+            [
+                189,
+                "That\u2019s not overconfidence, that\u2019s observation."
+            ],
+            [
+                192,
+                "Way to bust out the Jedi mind tricks, dude."
+            ],
+            [
+                201,
+                "Come on, Sheldon, you got this."
+            ],
+            [
+                204,
+                "Go, Monte! Go Monte!"
+            ],
+            [
+                210,
+                "No one\u2019s arguing with you, dude."
+            ]
+        ],
+        "Together (lifting)": [
+            [
+                8,
+                "One, two, three, go."
+            ]
+        ],
+        "Leonard": [
+            [
+                10,
+                "Maybe we should start small."
+            ],
+            [
+                14,
+                "How about the toaster oven?"
+            ],
+            [
+                16,
+                "What did I ever do to Jimmy Mullins in the third grade? He still punched me in the face with my own fists. Sorry, you little nerd, you were just in the wrong boys\u2019 room at the wrong time."
+            ],
+            [
+                20,
+                "That\u2019ll do it."
+            ],
+            [
+                29,
+                "Uh-huh?"
+            ],
+            [
+                31,
+                "Killer robot. We built it."
+            ],
+            [
+                42,
+                "Howard, why don\u2019t we just work on the robot?"
+            ],
+            [
+                46,
+                "I\u2019m begging you, stop talking."
+            ],
+            [
+                55,
+                "Howard, where you going?"
+            ],
+            [
+                57,
+                "Wow."
+            ],
+            [
+                59,
+                "He said maybe we should enter you in the killer robot competition."
+            ],
+            [
+                75,
+                "I don\u2019t know, now they\u2019re just yelling about Popsicles. Sounds like Penny really got to him."
+            ],
+            [
+                78,
+                "Yes, we did, Kripke."
+            ],
+            [
+                81,
+                "Come on, is that really necessary?"
+            ],
+            [
+                93,
+                "No, don\u2019t make it so. Barry, we can\u2019t fight you tomorrow, our engineer is incapacitated."
+            ],
+            [
+                101,
+                "Hey, you got a minute?"
+            ],
+            [
+                103,
+                "I need you to apologize to How\u2026"
+            ],
+            [
+                105,
+                "Come on. Wolowitz won\u2019t come out of his house and we need him for a robot battle."
+            ],
+            [
+                107,
+                "The robot didn\u2019t hurt his feelings."
+            ],
+            [
+                109,
+                "He\u2019s been in bed for two days."
+            ],
+            [
+                111,
+                "He\u2019s not with a\u2026 does it really matter who or what he\u2019s with? The guy is devastated."
+            ],
+            [
+                113,
+                "Okay, don\u2019t take this as a criticism, but you kind of have that overexposed-to-gamma-rays thing going on."
+            ],
+            [
+                115,
+                "You know, like, most of the time, you\u2019re the easygoing Bruce Banner, but then, when you get angry, you kind of turn into, like, you know, grrrrr!"
+            ],
+            [
+                117,
+                "Seriously? Gamma rays? Bruce Banner? You didn\u2019t get The Incredible Hulk from that? Never mind, just, please go talk to him."
+            ],
+            [
+                119,
+                "Well, maybe you can go at it from a different angle, like, um, you see a glimmer of goodness in him and you only said what you said because you want to nurture it and make it shine."
+            ],
+            [
+                121,
+                "Okay, let\u2019s try it this way. Remember the day that we first met and you asked me to go to your boyfriend\u2019s apartment to get your TV back and he was nine feet tall and he took my pants off and you said\u2026 what was that? What did you say? Oh, yes, you said you owed me one."
+            ],
+            [
+                123,
+                "I came home with no pants."
+            ],
+            [
+                125,
+                "Thank you. I should probably give you a heads up about his mother."
+            ],
+            [
+                127,
+                "She\u2019s a delightful woman. You\u2019ll love her."
+            ],
+            [
+                147,
+                "Oh, my God. That\u2019s Kripke\u2019s robot?"
+            ],
+            [
+                150,
+                "Sheldon, we have to call it off."
+            ],
+            [
+                152,
+                "Oh, please, we\u2019ve spent our whole lives running away from fights. Personally, I can squeeze through a hole in a fence half my size."
+            ],
+            [
+                156,
+                "You want to prepare him? Install a bladder and a pair of shorts so he can wet himself."
+            ],
+            [
+                158,
+                "Not yet."
+            ],
+            [
+                181,
+                "Nice little bot you\u2019ve got here."
+            ],
+            [
+                183,
+                "What\u2019s this do, spin?"
+            ],
+            [
+                185,
+                "Neat. Good work. Sheldon, we\u2019ve got to call this off."
+            ],
+            [
+                193,
+                "I just want to make sure that we\u2019re all clear, standard robotic fighting league rules apply."
+            ],
+            [
+                203,
+                "Run, Monte, run!"
+            ],
+            [
+                205,
+                "Go, go, go, go!"
+            ],
+            [
+                208,
+                "Well, so much for making up for the emotional wounds of childhood."
+            ],
+            [
+                212,
+                "Forget the robot. What happened to you?"
+            ],
+            [
+                222,
+                "Penny."
+            ]
+        ],
+        "Raj (after watching complete destruction of toaster oven)": [
+            [
+                21,
+                "All right, what\u2019s next?"
+            ]
+        ],
+        "Penny": [
+            [
+                23,
+                "No, I think I\u2019m just going to stay in tonight and do laundry. (Monte bursts through boys door. Penny screams and runs down the stairs.)"
+            ],
+            [
+                28,
+                "Leonard?"
+            ],
+            [
+                30,
+                "What the hell?"
+            ],
+            [
+                32,
+                "Yeah, well, it almost killed me."
+            ],
+            [
+                34,
+                "So, who exactly does it want to kill?"
+            ],
+            [
+                36,
+                "You know, since I moved last year, not all my mail has been forwarded."
+            ],
+            [
+                38,
+                "How is it supposed to be a dance if I\u2019m the only girl?"
+            ],
+            [
+                40,
+                "You\u2019re a pig, Howard."
+            ],
+            [
+                44,
+                "Our tango?"
+            ],
+            [
+                47,
+                "Look, normally I can just ignore you. I mean, I get it, you\u2019re a little peculiar. You know, like Sheldon."
+            ],
+            [
+                49,
+                "Yeah, you might be right. But back to you. I know you think you\u2019re some sort of smooth-talking ladies\u2019 man, but the truth is, you are just pathetic and creepy."
+            ],
+            [
+                51,
+                "I am saying it is not a compliment to call me doable. It\u2019s not sexy to stare at my ass and say, \u201cOoh, it must be jelly \u2019cause jam don\u2019t shake like that.\u201d And most important, we are not dancing a tango, we\u2019re not to\u2019ing and fro\u2019ing. Nothing is ever going to happen between us. Ever."
+            ],
+            [
+                53,
+                "Flirting? You think I\u2019m flirting with you? I am not flirting with you, no woman is ever gonna flirt with you, you\u2019re just gonna grow old and die alone."
+            ],
+            [
+                58,
+                "Well, someone had to say it. (Raj whispers in Leonard\u2019s ear) What?"
+            ],
+            [
+                100,
+                "Hey."
+            ],
+            [
+                102,
+                "Yeah, come on in. What\u2019s up?"
+            ],
+            [
+                104,
+                "Get out."
+            ],
+            [
+                106,
+                "Well, then have the robot go and get him."
+            ],
+            [
+                108,
+                "His feelings needed to be hurt."
+            ],
+            [
+                110,
+                "Yeah, probably with a blow-up doll."
+            ],
+            [
+                112,
+                "Oh, please, how could I possibly devastate Howard?"
+            ],
+            [
+                114,
+                "What does that mean?"
+            ],
+            [
+                116,
+                "I turn into a bear?"
+            ],
+            [
+                118,
+                "And say what? That I didn\u2019t mean it, because I meant it."
+            ],
+            [
+                120,
+                "Oh, pthththth."
+            ],
+            [
+                122,
+                "Okay, come on, that\u2019s not fair."
+            ],
+            [
+                124,
+                "Fine, I\u2019ll go over there tomorrow."
+            ],
+            [
+                126,
+                "What about her?"
+            ],
+            [
+                136,
+                "So, I just came by to see how you were doing."
+            ],
+            [
+                138,
+                "Good. Your mom seems nice."
+            ],
+            [
+                140,
+                "Okay, look. Howard, I just want to apologize for some things that I have said. About you. I\u2019ve been informed that you have feelings. And apparently, I have hurt them. So, I\u2019m sorry. Howard."
+            ],
+            [
+                142,
+                "So, you\u2019re okay?"
+            ],
+            [
+                144,
+                "Okay. Well, bye. (Penny leaves room. Sound of Howard crying through door.) So close (goes back in.)"
+            ],
+            [
+                162,
+                "Aw, that sounds sweet."
+            ],
+            [
+                164,
+                "Oh, it\u2019s cute."
+            ],
+            [
+                166,
+                "That\u2019s great."
+            ],
+            [
+                168,
+                "Oh, it\u2019s fun."
+            ],
+            [
+                170,
+                "Howard, do you think maybe sometimes you try too hard?"
+            ],
+            [
+                172,
+                "Well, you\u2019d have a terrific chance. I mean, you\u2019re smart, you\u2019re funny, you have a cool job. You build stuff that goes into outer space."
+            ],
+            [
+                174,
+                "Look, I\u2019m telling you, I\u2019ve known you for, like, a year and a half and this is the first time I feel like I\u2019m talking to a real person. And you know what? I like him, he\u2019s a nice guy."
+            ],
+            [
+                176,
+                "Yes."
+            ],
+            [
+                178,
+                "I do. (Howard tries to kiss her. She punches him.)"
+            ],
+            [
+                213,
+                "He slipped and fell."
+            ],
+            [
+                215,
+                "Yes, now he knows what bathtubs are capable of doing when you don\u2019t treat them with respect."
+            ],
+            [
+                220,
+                "Sheldon, honey, aren\u2019t you getting a little carried away? I mean, it\u2019s just a toy robot."
+            ],
+            [
+                223,
+                "I know, I got it. Sheldon, I\u2019m sorry."
+            ]
+        ],
+        "Howard\u2019s Mother (voice)": [
+            [
+                61,
+                "Howard, the phone is ringing!"
+            ],
+            [
+                63,
+                "Hello? All right, hold on. It\u2019s your friend, Leonard! He wants to know why you\u2019re not at school today!"
+            ],
+            [
+                65,
+                "That\u2019s a school! Now pick up the phone!"
+            ],
+            [
+                67,
+                "Should I ask Leonard to bring over your homework?!"
+            ],
+            [
+                69,
+                "Excuse me, Mr. Fancy-Pants. Want me to get you a Popsicle?"
+            ],
+            [
+                71,
+                "I ate the cherry. All that\u2019s left is green."
+            ],
+            [
+                129,
+                "Howard, there\u2019s a blonde girl, Patsy, here to see you!"
+            ],
+            [
+                131,
+                "Okay, now she\u2019s saying it\u2019s Penny."
+            ],
+            [
+                135,
+                "She ran past me. Was I supposed to tackle her?"
+            ]
+        ],
+        "Kripke (arriving)": [
+            [
+                77,
+                "Hey, Hofstadter. Word around the pwasma wab is you built a wobot?"
+            ]
+        ],
+        "Kripke": [
+            [
+                80,
+                "Well, if you have any dewusions about entewing him against my wobot, the Kwipke Kwippler in the Southern California Wobot Fighting League Wound Wobin Invitational, aka the S.C.aw.F.L.aw.aw.I., his name is gonna be Swrap Metal."
+            ],
+            [
+                87,
+                "Tell you what, forget the S.C.aw.F.L.aw.aw.I., let\u2019s settle this woboto a woboto."
+            ],
+            [
+                89,
+                "There\u2019s no guawantee we\u2019ve gotta go against each other in the Wound Wobin, so let\u2019s thwow down. You know, unless you\u2019re afwaid."
+            ],
+            [
+                91,
+                "Tomowow, thwee o\u2019clock, the kinetics wab."
+            ],
+            [
+                94,
+                "What\u2019s wrong with him?"
+            ],
+            [
+                96,
+                "We\u2019re all pathetic and cweepy and can\u2019t get girls, that\u2019s why we fight wobots. If you\u2019re not there, you\u2019ll be exposed to widicule."
+            ],
+            [
+                182,
+                "I\u2019m aware."
+            ],
+            [
+                184,
+                "Yep. At 3400 RPM. It can cut through steel like it was wubber."
+            ],
+            [
+                191,
+                "What is his pwoblem?"
+            ],
+            [
+                194,
+                "Are you cwazy? This is a stweet fight, the stweet has no rules."
+            ],
+            [
+                196,
+                "I will, however, give you the opportunity to concede my supewiowity now and offer me your wobot as the spoils of war."
+            ],
+            [
+                198,
+                "That could be easily awanged. Weady, set, go?"
+            ],
+            [
+                200,
+                "Alwight then. Weady. Set. Go."
+            ]
+        ],
+        "Penny (entering)": [
+            [
+                133,
+                "Hey."
+            ]
+        ],
+        "Kripke (voice)": [
+            [
+                148,
+                "As you can see, the Kwippler is weducing the Chevy Cavawier to wubble."
+            ]
+        ],
+        "Howard (arriving)": [
+            [
+                211,
+                "I got your text. How bad is\u2026 Oy."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "All right, that\u2019s the last servo. Behold the Mobile Omnidirectional Neutralization and Termination Eradicator. Or\u2026"
+        ],
+        [
+            "All",
+            "MONTE."
+        ],
+        [
+            "Howard",
+            "Featuring one articulated razor-sharp killing saw, one polycarbonate grinding and flipping wheel, steel armour plate exoskeleton top and bottom, and enough horsepower to drive a 110 pounds of mechanized death from zero to holy crap in 4.8 seconds."
+        ],
+        [
+            "Sheldon",
+            "Is it wrong to say I love our killer robot?"
+        ],
+        [
+            "Raj",
+            "As with my father, I both love and fear it."
+        ],
+        [
+            "Howard",
+            "All right, enough chitchat, let\u2019s destroy something."
+        ],
+        [
+            "Together (lifting)",
+            "One, two, three, go."
+        ],
+        [
+            "Raj",
+            "Okay. What shall be first to taste the wrath of Monte?"
+        ],
+        [
+            "Leonard",
+            "Maybe we should start small."
+        ],
+        [
+            "Raj",
+            "Okay. Ooh, perhaps today is the day we finally find out what\u2019s inside the Magic Eight Ball."
+        ],
+        [
+            "Sheldon",
+            "Did it when I was four. It\u2019s an icosahedral dye floating in tinted blue water."
+        ],
+        [
+            "Raj",
+            "Man, call spoiler alert before you say things like that."
+        ],
+        [
+            "Leonard",
+            "How about the toaster oven?"
+        ],
+        [
+            "Sheldon",
+            "What did the toaster oven ever do to you?"
+        ],
+        [
+            "Leonard",
+            "What did I ever do to Jimmy Mullins in the third grade? He still punched me in the face with my own fists. Sorry, you little nerd, you were just in the wrong boys\u2019 room at the wrong time."
+        ],
+        [
+            "Howard",
+            "Gentlemen, goggles."
+        ],
+        [
+            "Sheldon",
+            "Yeah, this is an auspicious moment. Yeah, like Robert Oppenheimer or Neil Armstrong, we need the appropriate words to mark this historic scientific event."
+        ],
+        [
+            "Raj",
+            "How about \u201cDie, toaster, die\u201d?"
+        ],
+        [
+            "Leonard",
+            "That\u2019ll do it."
+        ],
+        [
+            "Raj (after watching complete destruction of toaster oven)",
+            "All right, what\u2019s next?"
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Penny",
+            "No, I think I\u2019m just going to stay in tonight and do laundry. (Monte bursts through boys door. Penny screams and runs down the stairs.)"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Outside in stairwell"
+        ],
+        [
+            "Howard",
+            "Oh yeah, they still got the full Monte."
+        ],
+        [
+            "Penny",
+            "Leonard?"
+        ],
+        [
+            "Leonard",
+            "Uh-huh?"
+        ],
+        [
+            "Penny",
+            "What the hell?"
+        ],
+        [
+            "Leonard",
+            "Killer robot. We built it."
+        ],
+        [
+            "Penny",
+            "Yeah, well, it almost killed me."
+        ],
+        [
+            "Sheldon",
+            "If it wanted to kill you, you\u2019d be dead."
+        ],
+        [
+            "Penny",
+            "So, who exactly does it want to kill?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, are you unaware of the upcoming Southern California Robot Fighting League Round Robin Invitational?"
+        ],
+        [
+            "Penny",
+            "You know, since I moved last year, not all my mail has been forwarded."
+        ],
+        [
+            "Howard",
+            "It\u2019s a big deal. There\u2019s an awards banquet and a dance afterward. Perhaps you\u2019d like to come with me. I know the other fellas would be really excited to see a girl there."
+        ],
+        [
+            "Penny",
+            "How is it supposed to be a dance if I\u2019m the only girl?"
+        ],
+        [
+            "Howard",
+            "Well, that may be a slight exaggeration. You\u2019d be the only doable girl."
+        ],
+        [
+            "Penny",
+            "You\u2019re a pig, Howard."
+        ],
+        [
+            "Howard",
+            "How is doable anything but a compliment?"
+        ],
+        [
+            "Leonard",
+            "Howard, why don\u2019t we just work on the robot?"
+        ],
+        [
+            "Howard",
+            "Please, Leonard, not now. Once again, Penny and I have begun our little tango."
+        ],
+        [
+            "Penny",
+            "Our tango?"
+        ],
+        [
+            "Howard",
+            "The carnal repartee, the erotic to and fro. But as delicious as the appetizer might be, at some point we will have to succumb and eat the entree while it\u2019s still\u2026 hot."
+        ],
+        [
+            "Leonard",
+            "I\u2019m begging you, stop talking."
+        ],
+        [
+            "Penny",
+            "Look, normally I can just ignore you. I mean, I get it, you\u2019re a little peculiar. You know, like Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Yeah, excuse me, Penny, but in this room, you\u2019re the one who\u2019s peculiar."
+        ],
+        [
+            "Penny",
+            "Yeah, you might be right. But back to you. I know you think you\u2019re some sort of smooth-talking ladies\u2019 man, but the truth is, you are just pathetic and creepy."
+        ],
+        [
+            "Howard",
+            "Um, so what are you saying?"
+        ],
+        [
+            "Penny",
+            "I am saying it is not a compliment to call me doable. It\u2019s not sexy to stare at my ass and say, \u201cOoh, it must be jelly \u2019cause jam don\u2019t shake like that.\u201d And most important, we are not dancing a tango, we\u2019re not to\u2019ing and fro\u2019ing. Nothing is ever going to happen between us. Ever."
+        ],
+        [
+            "Howard",
+            "Wait a minute. This isn\u2019t flirting, you\u2019re serious."
+        ],
+        [
+            "Penny",
+            "Flirting? You think I\u2019m flirting with you? I am not flirting with you, no woman is ever gonna flirt with you, you\u2019re just gonna grow old and die alone."
+        ],
+        [
+            "Howard",
+            "Thanks for the heads up."
+        ],
+        [
+            "Leonard",
+            "Howard, where you going?"
+        ],
+        [
+            "Howard",
+            "I\u2019m going home to live my creepy, pathetic life."
+        ],
+        [
+            "Leonard",
+            "Wow."
+        ],
+        [
+            "Penny",
+            "Well, someone had to say it. (Raj whispers in Leonard\u2019s ear) What?"
+        ],
+        [
+            "Leonard",
+            "He said maybe we should enter you in the killer robot competition."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "Howard, the phone is ringing!"
+        ],
+        [
+            "Howard",
+            "Here\u2019s a crazy idea, Ma, answer it!"
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "Hello? All right, hold on. It\u2019s your friend, Leonard! He wants to know why you\u2019re not at school today!"
+        ],
+        [
+            "Howard",
+            "I don\u2019t go to school, Ma. I work at a university."
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "That\u2019s a school! Now pick up the phone!"
+        ],
+        [
+            "Howard",
+            "I don\u2019t want to talk to anybody."
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "Should I ask Leonard to bring over your homework?!"
+        ],
+        [
+            "Howard",
+            "I don\u2019t have homework. I\u2019m a grown man with a master\u2019s degree in engineering!"
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "Excuse me, Mr. Fancy-Pants. Want me to get you a Popsicle?"
+        ],
+        [
+            "Howard",
+            "Cherry, please!"
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "I ate the cherry. All that\u2019s left is green."
+        ],
+        [
+            "Howard",
+            "You make me want to kill myself."
+        ],
+        [
+            "Scene",
+            "The university cafeteria. Other end of the phone call."
+        ],
+        [
+            "Raj",
+            "What\u2019s going on?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know, now they\u2019re just yelling about Popsicles. Sounds like Penny really got to him."
+        ],
+        [
+            "Raj",
+            "I\u2019m not surprised. Despite his hard and crusty shell, Howard is a very sensitive man. Do you know he writes poetry? Mostly about men from Nantucket and hermits named Dave, but he does it with real sensitivity."
+        ],
+        [
+            "Kripke (arriving)",
+            "Hey, Hofstadter. Word around the pwasma wab is you built a wobot?"
+        ],
+        [
+            "Leonard",
+            "Yes, we did, Kripke."
+        ],
+        [
+            "Sheldon",
+            "His name is Monte."
+        ],
+        [
+            "Kripke",
+            "Well, if you have any dewusions about entewing him against my wobot, the Kwipke Kwippler in the Southern California Wobot Fighting League Wound Wobin Invitational, aka the S.C.aw.F.L.aw.aw.I., his name is gonna be Swrap Metal."
+        ],
+        [
+            "Leonard",
+            "Come on, is that really necessary?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, I believe it is. This is trash talk, and trash talk is a traditional component in all sporting events. Kripke, your robot is inferior and it will be defeated by ours because ours exceeds yours in both design and execution. Also, I\u2019m given to understand that your mother is overweight."
+        ],
+        [
+            "Raj",
+            "Oh, snap."
+        ],
+        [
+            "Sheldon",
+            "Now, of course, if that is the result of a glandular condition and not sloth and gluttony, I withdraw that comment."
+        ],
+        [
+            "Raj",
+            "What difference does it make? Fat is fat."
+        ],
+        [
+            "Sheldon",
+            "There are boundaries."
+        ],
+        [
+            "Kripke",
+            "Tell you what, forget the S.C.aw.F.L.aw.aw.I., let\u2019s settle this woboto a woboto."
+        ],
+        [
+            "Sheldon",
+            "What do you mean?"
+        ],
+        [
+            "Kripke",
+            "There\u2019s no guawantee we\u2019ve gotta go against each other in the Wound Wobin, so let\u2019s thwow down. You know, unless you\u2019re afwaid."
+        ],
+        [
+            "Sheldon",
+            "We accept your challenge. Name a time and place."
+        ],
+        [
+            "Kripke",
+            "Tomowow, thwee o\u2019clock, the kinetics wab."
+        ],
+        [
+            "Sheldon",
+            "Make it so."
+        ],
+        [
+            "Leonard",
+            "No, don\u2019t make it so. Barry, we can\u2019t fight you tomorrow, our engineer is incapacitated."
+        ],
+        [
+            "Kripke",
+            "What\u2019s wrong with him?"
+        ],
+        [
+            "Raj",
+            "He\u2019s depressed because he\u2019s pathetic and creepy and he can\u2019t get girls."
+        ],
+        [
+            "Kripke",
+            "We\u2019re all pathetic and cweepy and can\u2019t get girls, that\u2019s why we fight wobots. If you\u2019re not there, you\u2019ll be exposed to widicule."
+        ],
+        [
+            "Raj",
+            "I\u2019m curious, what part of America is that accent from?"
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s door."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Leonard",
+            "Hey, you got a minute?"
+        ],
+        [
+            "Penny",
+            "Yeah, come on in. What\u2019s up?"
+        ],
+        [
+            "Leonard",
+            "I need you to apologize to How\u2026"
+        ],
+        [
+            "Penny",
+            "Get out."
+        ],
+        [
+            "Leonard",
+            "Come on. Wolowitz won\u2019t come out of his house and we need him for a robot battle."
+        ],
+        [
+            "Penny",
+            "Well, then have the robot go and get him."
+        ],
+        [
+            "Leonard",
+            "The robot didn\u2019t hurt his feelings."
+        ],
+        [
+            "Penny",
+            "His feelings needed to be hurt."
+        ],
+        [
+            "Leonard",
+            "He\u2019s been in bed for two days."
+        ],
+        [
+            "Penny",
+            "Yeah, probably with a blow-up doll."
+        ],
+        [
+            "Leonard",
+            "He\u2019s not with a\u2026 does it really matter who or what he\u2019s with? The guy is devastated."
+        ],
+        [
+            "Penny",
+            "Oh, please, how could I possibly devastate Howard?"
+        ],
+        [
+            "Leonard",
+            "Okay, don\u2019t take this as a criticism, but you kind of have that overexposed-to-gamma-rays thing going on."
+        ],
+        [
+            "Penny",
+            "What does that mean?"
+        ],
+        [
+            "Leonard",
+            "You know, like, most of the time, you\u2019re the easygoing Bruce Banner, but then, when you get angry, you kind of turn into, like, you know, grrrrr!"
+        ],
+        [
+            "Penny",
+            "I turn into a bear?"
+        ],
+        [
+            "Leonard",
+            "Seriously? Gamma rays? Bruce Banner? You didn\u2019t get The Incredible Hulk from that? Never mind, just, please go talk to him."
+        ],
+        [
+            "Penny",
+            "And say what? That I didn\u2019t mean it, because I meant it."
+        ],
+        [
+            "Leonard",
+            "Well, maybe you can go at it from a different angle, like, um, you see a glimmer of goodness in him and you only said what you said because you want to nurture it and make it shine."
+        ],
+        [
+            "Penny",
+            "Oh, pthththth."
+        ],
+        [
+            "Leonard",
+            "Okay, let\u2019s try it this way. Remember the day that we first met and you asked me to go to your boyfriend\u2019s apartment to get your TV back and he was nine feet tall and he took my pants off and you said\u2026 what was that? What did you say? Oh, yes, you said you owed me one."
+        ],
+        [
+            "Penny",
+            "Okay, come on, that\u2019s not fair."
+        ],
+        [
+            "Leonard",
+            "I came home with no pants."
+        ],
+        [
+            "Penny",
+            "Fine, I\u2019ll go over there tomorrow."
+        ],
+        [
+            "Leonard",
+            "Thank you. I should probably give you a heads up about his mother."
+        ],
+        [
+            "Penny",
+            "What about her?"
+        ],
+        [
+            "Leonard",
+            "She\u2019s a delightful woman. You\u2019ll love her."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "Howard, there\u2019s a blonde girl, Patsy, here to see you!"
+        ],
+        [
+            "Howard",
+            "Who?"
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "Okay, now she\u2019s saying it\u2019s Penny."
+        ],
+        [
+            "Howard",
+            "I don\u2019t want to talk to her."
+        ],
+        [
+            "Penny (entering)",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "Ma!"
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "She ran past me. Was I supposed to tackle her?"
+        ],
+        [
+            "Penny",
+            "So, I just came by to see how you were doing."
+        ],
+        [
+            "Howard",
+            "I\u2019m fine."
+        ],
+        [
+            "Penny",
+            "Good. Your mom seems nice."
+        ],
+        [
+            "Howard",
+            "People move away from her on the bus. What do you want?"
+        ],
+        [
+            "Penny",
+            "Okay, look. Howard, I just want to apologize for some things that I have said. About you. I\u2019ve been informed that you have feelings. And apparently, I have hurt them. So, I\u2019m sorry. Howard."
+        ],
+        [
+            "Howard",
+            "Fine, you\u2019re sorry. Good-bye."
+        ],
+        [
+            "Penny",
+            "So, you\u2019re okay?"
+        ],
+        [
+            "Howard",
+            "Hey, I\u2019m a big boy. I\u2019m not traumatized by some random comment from some random woman. I mean, get over yourself."
+        ],
+        [
+            "Penny",
+            "Okay. Well, bye. (Penny leaves room. Sound of Howard crying through door.) So close (goes back in.)"
+        ],
+        [
+            "Scene",
+            "The apartment. The guys are watching footage on a laptop screen."
+        ],
+        [
+            "Leonard",
+            "Oh, my God. That\u2019s Kripke\u2019s robot?"
+        ],
+        [
+            "Kripke (voice)",
+            "As you can see, the Kwippler is weducing the Chevy Cavawier to wubble."
+        ],
+        [
+            "Raj",
+            "I can\u2019t watch anymore."
+        ],
+        [
+            "Leonard",
+            "Sheldon, we have to call it off."
+        ],
+        [
+            "Sheldon",
+            "We don\u2019t have that option, we\u2019ve accepted the challenge. We can\u2019t run away from a fight."
+        ],
+        [
+            "Leonard",
+            "Oh, please, we\u2019ve spent our whole lives running away from fights. Personally, I can squeeze through a hole in a fence half my size."
+        ],
+        [
+            "Sheldon",
+            "Impressive as that may be, Monte is not us. Monte has no fear."
+        ],
+        [
+            "Raj",
+            "Sheldon, did we all not just watch the same video? Kripke\u2019s robot just had angry sex with a mid-sized automobile."
+        ],
+        [
+            "Sheldon",
+            "You are overlooking the fact that we now know what we\u2019re up against and we can modify Monte so that he\u2019s prepared."
+        ],
+        [
+            "Leonard",
+            "You want to prepare him? Install a bladder and a pair of shorts so he can wet himself."
+        ],
+        [
+            "Raj",
+            "Excuse me, but how are we going to make any modifications without Wolowitz? Have you heard from Penny yet?"
+        ],
+        [
+            "Leonard",
+            "Not yet."
+        ],
+        [
+            "Sheldon",
+            "Have faith, gentlemen. We don\u2019t need Wolowitz, engineering is merely the slow younger brother of physics. Watch and learn. Do either of you know how to open the toolbox?"
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom. "
+        ],
+        [
+            "Howard",
+            "And then, when I was 14, I met Marcy Grossman. She was so beautiful. She just got her braces off but they left a little of the overbite. It was so hot, like a sexy little chipmunk. I didn\u2019t have the courage to ask her out, but I dedicated a song to her at the ninth grade talent show."
+        ],
+        [
+            "Penny",
+            "Aw, that sounds sweet."
+        ],
+        [
+            "Howard",
+            "Marcy Grossman is sunshine, on a cloudy day, when it\u2019s cold outside, Marcy Grossman is the month of May\u2026"
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s cute."
+        ],
+        [
+            "Howard",
+            "I guess you\u2019d say, what can make me feel this way, Marcy Grossman, Marcy Grossman, Marcy Grossman, Talkin\u2019 \u2019bout Marcy\u2026"
+        ],
+        [
+            "Penny",
+            "That\u2019s great."
+        ],
+        [
+            "Howard",
+            "Grossman."
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s fun."
+        ],
+        [
+            "Howard",
+            "And then she came up with that sexy little chipmunk mouth and spit in my hair. Which brings us to tenth grade."
+        ],
+        [
+            "Penny",
+            "Howard, do you think maybe sometimes you try too hard?"
+        ],
+        [
+            "Howard",
+            "Look at me. What chance do I have if I don\u2019t try too hard?"
+        ],
+        [
+            "Penny",
+            "Well, you\u2019d have a terrific chance. I mean, you\u2019re smart, you\u2019re funny, you have a cool job. You build stuff that goes into outer space."
+        ],
+        [
+            "Howard",
+            "I guess."
+        ],
+        [
+            "Penny",
+            "Look, I\u2019m telling you, I\u2019ve known you for, like, a year and a half and this is the first time I feel like I\u2019m talking to a real person. And you know what? I like him, he\u2019s a nice guy."
+        ],
+        [
+            "Howard",
+            "You really think so?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Howard",
+            "I don\u2019t know."
+        ],
+        [
+            "Penny",
+            "I do. (Howard tries to kiss her. She punches him.)"
+        ],
+        [
+            "Scene",
+            "The lab. "
+        ],
+        [
+            "Leonard",
+            "Nice little bot you\u2019ve got here."
+        ],
+        [
+            "Kripke",
+            "I\u2019m aware."
+        ],
+        [
+            "Leonard",
+            "What\u2019s this do, spin?"
+        ],
+        [
+            "Kripke",
+            "Yep. At 3400 RPM. It can cut through steel like it was wubber."
+        ],
+        [
+            "Leonard",
+            "Neat. Good work. Sheldon, we\u2019ve got to call this off."
+        ],
+        [
+            "Sheldon",
+            "No, Leonard. For years, merciless thugs like Kripke have made my life a series of painful noogies and humiliating wedgies and the insensitively named Indian burns. That stops now."
+        ],
+        [
+            "Raj",
+            "But, Sheldon, we don\u2019t have a chance. The only improvement you were able to make on the robot was to put fresh batteries in the remote."
+        ],
+        [
+            "Sheldon",
+            "What you fail to realize is Kripke suffers from a fatal flaw, overconfidence from his robot\u2019s massive size and its overwhelming power."
+        ],
+        [
+            "Raj",
+            "That\u2019s not overconfidence, that\u2019s observation."
+        ],
+        [
+            "Sheldon",
+            "Trust me, Kripke will fall easy prey to my psychological warfare. Observe. Kripke! I would ask if your robot is prepared to meet its maker, but as you are its maker, clearly the two of you have met."
+        ],
+        [
+            "Kripke",
+            "What is his pwoblem?"
+        ],
+        [
+            "Raj",
+            "Way to bust out the Jedi mind tricks, dude."
+        ],
+        [
+            "Leonard",
+            "I just want to make sure that we\u2019re all clear, standard robotic fighting league rules apply."
+        ],
+        [
+            "Kripke",
+            "Are you cwazy? This is a stweet fight, the stweet has no rules."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s right, Leonard. The paradigm is to the death."
+        ],
+        [
+            "Kripke",
+            "I will, however, give you the opportunity to concede my supewiowity now and offer me your wobot as the spoils of war."
+        ],
+        [
+            "Sheldon",
+            "Never. I\u2019d rather see Monte dead than in your hands."
+        ],
+        [
+            "Kripke",
+            "That could be easily awanged. Weady, set, go?"
+        ],
+        [
+            "Sheldon",
+            "Do it."
+        ],
+        [
+            "Kripke",
+            "Alwight then. Weady. Set. Go."
+        ],
+        [
+            "Raj",
+            "Come on, Sheldon, you got this."
+        ],
+        [
+            "Sheldon",
+            "Indeed. We are prepared for anything he can throw at us. (A flame begins to jet out of Kripke\u2019s robot.) That\u2019s new."
+        ],
+        [
+            "Leonard",
+            "Run, Monte, run!"
+        ],
+        [
+            "Raj",
+            "Go, Monte! Go Monte!"
+        ],
+        [
+            "Leonard",
+            "Go, go, go, go!"
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t hurt us, don\u2019t hurt us,"
+        ],
+        [
+            "Scene",
+            "The apartment. Monte is in pieces on the table."
+        ],
+        [
+            "Leonard",
+            "Well, so much for making up for the emotional wounds of childhood."
+        ],
+        [
+            "Sheldon",
+            "I did this. Monte was killed by my hubris and my pride. No matter what anybody says, this is my fault."
+        ],
+        [
+            "Raj",
+            "No one\u2019s arguing with you, dude."
+        ],
+        [
+            "Howard (arriving)",
+            "I got your text. How bad is\u2026 Oy."
+        ],
+        [
+            "Leonard",
+            "Forget the robot. What happened to you?"
+        ],
+        [
+            "Penny",
+            "He slipped and fell."
+        ],
+        [
+            "Howard",
+            "Yes, I slipped and fell. In the bathroom. Bounced right off the tub."
+        ],
+        [
+            "Penny",
+            "Yes, now he knows what bathtubs are capable of doing when you don\u2019t treat them with respect."
+        ],
+        [
+            "Howard",
+            "Yeah. They sucker punch you when your eyes are closed."
+        ],
+        [
+            "Sheldon",
+            "So what do you think, Howard? It\u2019s not that bad, right?"
+        ],
+        [
+            "Howard",
+            "Oh, no. A little electrical tape, some solder. Are you insane? I\u2019ve seen space probes that crashed into the desert that were in better shape than this."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right. Monte\u2019s gone. We\u2019ll bury him in the morning. A simple ceremony. I\u2019ll speak. Leonard, you\u2019ll play your cello."
+        ],
+        [
+            "Penny",
+            "Sheldon, honey, aren\u2019t you getting a little carried away? I mean, it\u2019s just a toy robot."
+        ],
+        [
+            "Sheldon",
+            "Just a toy robot?"
+        ],
+        [
+            "Leonard",
+            "Penny."
+        ],
+        [
+            "Penny",
+            "I know, I got it. Sheldon, I\u2019m sorry."
+        ],
+        [
+            "Howard",
+            "Well, don\u2019t get the wrong idea. The way I see it, I\u2019m halfway to pity sex."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-2-episode-12-the-killer-robot-instability/"
+}

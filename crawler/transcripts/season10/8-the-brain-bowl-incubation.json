@@ -1,0 +1,1822 @@
+{
+    "Season": 10,
+    "Episode": 8,
+    "Title": "the brain bowl incubation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Amy\u2019s lab."
+            ],
+            [
+                18,
+                "Credits sequence."
+            ],
+            [
+                19,
+                "The telescope room."
+            ],
+            [
+                43,
+                "Amy\u2019s lab."
+            ],
+            [
+                53,
+                "expose it to images of me and you and see who it likes better."
+            ],
+            [
+                56,
+                "The apartment."
+            ],
+            [
+                85,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                105,
+                "A washroom at the university."
+            ],
+            [
+                131,
+                "Amy\u2019s lab."
+            ],
+            [
+                149,
+                "The telescope room. "
+            ],
+            [
+                161,
+                "The stairwell. "
+            ],
+            [
+                184,
+                "The telescope room. "
+            ],
+            [
+                215,
+                "The apartment. "
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "How much will it hurt?"
+            ],
+            [
+                3,
+                "On a scale of one to ten, where one is a pebble in your shoe and ten is the monkey you thought was your pet biting your face off."
+            ],
+            [
+                5,
+                "Eating a whole Altoid?"
+            ],
+            [
+                7,
+                "No, this is for science. I can be brave for science."
+            ],
+            [
+                9,
+                "Oh, jiminy, that\u2019s cold."
+            ],
+            [
+                11,
+                "All right, just warn me before you do it."
+            ],
+            [
+                13,
+                "You tricked me. You didn\u2019t say one."
+            ],
+            [
+                15,
+                "No, but three, two and we\u2019re done is incomplete. You know those things bother me. It\u2019s like hearing da-da-da-da-da-dah without yelling\u2026"
+            ],
+            [
+                17,
+                "Thank you. Now yell charge and we can get out of here."
+            ],
+            [
+                44,
+                "Did it work? Are they brain cells yet?"
+            ],
+            [
+                46,
+                "Oh, just let me look. Oh, my goodness. I see quivering black lines. Those must be neurons, oh, they\u2019re so thick and beautiful."
+            ],
+            [
+                48,
+                "I have such a profound sense of creation. I, it\u2019s like when I hatched sea monkeys, except that this is from my DNA, so this is like me monkeys. "
+            ],
+            [
+                50,
+                "Yeah, but us monkeys doesn\u2019t pop. Oh, oh, oh, oh, wait, we monkeys, there you go. Hey, when can we start running tests on it?"
+            ],
+            [
+                52,
+                "What stimulus should we introduce it to first? Light, sound, temperature, oh, oh, let\u2019s"
+            ],
+            [
+                55,
+                "I understand. She\u2019s the mean one, I\u2019m the fun one."
+            ],
+            [
+                89,
+                "Look, look, here I am standing next to the incubator. Uh, here is a microscopic view of the cells."
+            ],
+            [
+                91,
+                "Aw. Yeah, this little guy can already recognize electronically transmitted images 20% faster than any other sample in Amy\u2019s lab."
+            ],
+            [
+                96,
+                "Yeah, I have to say, it is nice to share this experience with someone who\u2019s on the same journey. Although right now ours is testing off the charts while yours is floating around in its own waste."
+            ],
+            [
+                98,
+                "Well, I didn\u2019t make you waddle up four flights of stairs for the heck of it."
+            ],
+            [
+                100,
+                "Yeah, but ours can recognize a specific data stream among background noise."
+            ],
+            [
+                102,
+                "Ours doesn\u2019t need an immune system because it lives in a state-of-the-art German incubator."
+            ],
+            [
+                104,
+                "Okay, fine. Let\u2019s just agree that both creations are special in their own way and it is foolish to try and compare them. Although, we didn\u2019t need to have sex with Howard for ours, so we win."
+            ],
+            [
+                132,
+                "Would you look at that? The image we gave it was 45% white noise, and it still managed to reconstruct it."
+            ],
+            [
+                134,
+                "Yeah, we need to stop for magnets on the way home, this is going right on the fridge."
+            ],
+            [
+                136,
+                "Oh, I am. And you realize what the next step is?"
+            ],
+            [
+                138,
+                "Uh, no. We lock that door, lower our underpants a little and make a baby."
+            ],
+            [
+                140,
+                "Clearly the combination of our DNA is exceptional. Our child could be the next step in the evolution of mankind. We\u2019ll be able to get into any preschool we want!"
+            ],
+            [
+                142,
+                "Oh, yes, you are. I track your cycle. For the next 36 hours you\u2019re as fertile as a manure-covered wheat field."
+            ],
+            [
+                144,
+                "I don\u2019t understand. I thought you\u2019d be thrilled to procreate with me."
+            ],
+            [
+                146,
+                "Oh, I see what\u2019s happening here. You\u2019re playing hard to get."
+            ],
+            [
+                148,
+                "Very well. Oops, how clumsy of me. You know what? Let me get that. Hey. Where are you going? I, did you even look at my bottom?"
+            ],
+            [
+                173,
+                "Well, hello."
+            ],
+            [
+                175,
+                "Would you care for a brandy?"
+            ],
+            [
+                177,
+                "Good choice, it\u2019s disgusting."
+            ],
+            [
+                179,
+                "Who\u2019s trying to seduce you? After a long day I always turn on smooth jazz and spray deer musk on my inner thighs."
+            ],
+            [
+                181,
+                "Anything you\u2019d like to pet? Not my hair. There\u2019s a lot of goop in it."
+            ],
+            [
+                183,
+                "Amy, come back. I don\u2019t know how to open the oysters."
+            ],
+            [
+                220,
+                "Amy, I didn\u2019t want it to come to this, but you have left me no choice but to employ the most passionate, seductive dance known to man. The flamenco."
+            ],
+            [
+                222,
+                "You guys are aroused, right?"
+            ]
+        ],
+        "Amy": [
+            [
+                2,
+                "It\u2019s just a tiny skin sample. You saw me do it to myself."
+            ],
+            [
+                4,
+                "A two."
+            ],
+            [
+                6,
+                "Sheldon, if I\u2019m gonna synthesize a neural network from our skin cells, I need to harvest them. Now, I\u2019ve done this dozens of times, but if you\u2019re too scared you don\u2019t have to."
+            ],
+            [
+                8,
+                "Thank you."
+            ],
+            [
+                10,
+                "Just think how happy you\u2019ll be in a few weeks when I\u2019ve converted our skin cells into functional brain cells."
+            ],
+            [
+                12,
+                "Okay. Three, two, and we\u2019re done."
+            ],
+            [
+                14,
+                "It didn\u2019t hurt, did it?"
+            ],
+            [
+                16,
+                "Okay, fine, one."
+            ],
+            [
+                45,
+                "If you\u2019d give me a minute, I\u2019ll tell you."
+            ],
+            [
+                47,
+                "Those are your eyelashes, move. Well, Sheldon, I see astrocytes. Our combined skin cells are now a primitive neural network."
+            ],
+            [
+                49,
+                "These cells come from both of us."
+            ],
+            [
+                51,
+                "No reason we can\u2019t start right now."
+            ],
+            [
+                54,
+                "Sheldon, this is a rudimentary collection of neurons. I mean, it\u2019s remarkable, but it\u2019s still limited in what it can do."
+            ],
+            [
+                86,
+                "You know, most people don\u2019t realize this technique has actually been around for a few years."
+            ],
+            [
+                88,
+                "Well, I turned this one into a functioning boyfriend, so sky\u2019s the limit."
+            ],
+            [
+                93,
+                "So, enough about us, how are things going with you?"
+            ],
+            [
+                95,
+                "Good, you know, in case the exit isn\u2019t clearly marked."
+            ],
+            [
+                103,
+                "Sheldon, that\u2019s enough."
+            ],
+            [
+                133,
+                "I\u2019ve never seen results like this before."
+            ],
+            [
+                135,
+                "Aren\u2019t you glad you participated in this?"
+            ],
+            [
+                137,
+                "Set up a second culture and try to replicate our results."
+            ],
+            [
+                139,
+                "Make a baby? What are you talking about?"
+            ],
+            [
+                141,
+                "Sheldon, I\u2019m not ready to have a baby."
+            ],
+            [
+                143,
+                "Wow. I, I can actually feel the egg crawling its way back up."
+            ],
+            [
+                145,
+                "Not right now."
+            ],
+            [
+                147,
+                "I\u2019m not playing anything. We\u2019re not making a baby today."
+            ],
+            [
+                163,
+                "No. He was explicit. Needlessly and freakishly explicit."
+            ],
+            [
+                166,
+                "Well, there is a genetic component, but that doesn\u2019t guarantee anything."
+            ],
+            [
+                170,
+                "Hey, you\u2019re talking about the person I love and have been avoiding for the past three hours. Oh, man. "
+            ],
+            [
+                174,
+                "Hello."
+            ],
+            [
+                176,
+                "I don\u2019t think so."
+            ],
+            [
+                178,
+                "Sheldon, please stop trying to seduce me."
+            ],
+            [
+                180,
+                "I thought it smelled like a petting zoo in here."
+            ],
+            [
+                182,
+                "Okay, I\u2019ve had enough."
+            ],
+            [
+                217,
+                "It was like being hit on by Rat Pack Pee-wee Herman."
+            ],
+            [
+                219,
+                "No. "
+            ],
+            [
+                221,
+                "For God\u2019s sake, you\u2019re ridiculous."
+            ],
+            [
+                223,
+                "That was a close one."
+            ]
+        ],
+        "Raj": [
+            [
+                20,
+                "Oh, my God, I just got it. Fun onions, Funyuns. Hold on. Is that a wobble? Yes. That\u2019s definitely a gravitational wobble."
+            ],
+            [
+                22,
+                "Oh, no, it\u2019s okay. I just found a wobble."
+            ],
+            [
+                24,
+                "It\u2019s a gravitational wobble. It could be a sign of an extrasolar planet that may contain life and someday be named after me."
+            ],
+            [
+                26,
+                "Yeah, but it\u2019s probably difficult to pronounce."
+            ],
+            [
+                28,
+                "Rajesh Ramayan Koothrappali."
+            ],
+            [
+                30,
+                "Good point. And you are?"
+            ],
+            [
+                32,
+                "Oh, well, nice to meet you."
+            ],
+            [
+                34,
+                "Oh, please, show me a ten-year-old who knows to dip Tootsie Rolls in Nutella. "
+            ],
+            [
+                36,
+                "Oh, please, allow me. That\u2019s a lot of empty calories."
+            ],
+            [
+                38,
+                "You\u2019re welcome."
+            ],
+            [
+                40,
+                "Okay."
+            ],
+            [
+                42,
+                "Thank you. Good luck with your future endeavours."
+            ],
+            [
+                58,
+                "Oh, no, that\u2019s mine."
+            ],
+            [
+                60,
+                "Well, I can\u2019t eat like a ten-year-old all the time."
+            ],
+            [
+                62,
+                "What? What are you talking about?"
+            ],
+            [
+                65,
+                "That\u2019s because you keep trying to stick pencils in it."
+            ],
+            [
+                67,
+                "There\u2019s nothing to tell."
+            ],
+            [
+                70,
+                "It\u2019s gross but I have to eat it because I met somebody."
+            ],
+            [
+                72,
+                "Isabella. "
+            ],
+            [
+                74,
+                "Yes, in the telescope room."
+            ],
+            [
+                76,
+                "Yes, which is why she was in the telescope room. Yes, this is all making sense. Good."
+            ],
+            [
+                78,
+                "Mm-hmm."
+            ],
+            [
+                80,
+                "No, no, this is brand new. We haven\u2019t even been on a proper date yet."
+            ],
+            [
+                82,
+                "Thank you."
+            ],
+            [
+                106,
+                "This is fun. I have never cleaned a toilet before."
+            ],
+            [
+                108,
+                "No, I grew up with a house full of servants and now I have a cleaning lady who is a lovely woman who I have great respect for."
+            ],
+            [
+                110,
+                "Oh, good, because she also walks my dog, buys my groceries and cuts my hair."
+            ],
+            [
+                112,
+                "Uh, so forgive me, forgive me for being nosy, but is, is there a wedding ring under those pretty rubber gloves?"
+            ],
+            [
+                114,
+                "Oh, so, you are unencumbered?"
+            ],
+            [
+                116,
+                "I love kids, how old is he?"
+            ],
+            [
+                118,
+                "That\u2019s a cute age. They can do so many things."
+            ],
+            [
+                120,
+                "That\u2019s wonderful. A lawyer, my sister\u2019s a lawyer. Look at that, we have something in common."
+            ],
+            [
+                122,
+                "Maybe there are other things we have in common. Come dinnertime, do you enjoy eating food?"
+            ],
+            [
+                124,
+                "Yeah, sure. I understand. Yeah, I\u2019m very busy, too."
+            ],
+            [
+                126,
+                "I think you\u2019re very nice as well."
+            ],
+            [
+                128,
+                "Oh, yes. Oh, okay. Uh, Good night. I don\u2019t know, maybe it\u2019s the fumes from the urinal cakes, but I feel like something is happening between us."
+            ],
+            [
+                130,
+                "Okay. I\u2019ll leave. But just know, every time I come in here, I\u2019ll be thinking of you."
+            ],
+            [
+                150,
+                "Welcome."
+            ],
+            [
+                152,
+                "Oh, well, you said you didn\u2019t have time to go out for dinner, so I thought we could have one right here."
+            ],
+            [
+                154,
+                "Oh, come on, we\u2019re in the telescope room. It\u2019ll be like dining under the stars. You see this, uh, double zero? When it says zero one that means it\u2019s twinkling. Sometimes it takes a while."
+            ],
+            [
+                156,
+                "That\u2019s why I already cleaned up in here and all the other rooms in the hall."
+            ],
+            [
+                158,
+                "Oh, please sit. I tried to cook you a meal from your homeland."
+            ],
+            [
+                160,
+                "That depends, do they have Mexican food in Cuba?"
+            ],
+            [
+                185,
+                "So, um, what surprised you the most when you first came to America?"
+            ],
+            [
+                187,
+                "I thought that, too. But then I got my first waffle maker and never questioned her again."
+            ],
+            [
+                190,
+                "Uh."
+            ],
+            [
+                196,
+                "Uh. "
+            ],
+            [
+                198,
+                "No, p-please don\u2019t."
+            ],
+            [
+                201,
+                "Isabella. Isabella wait, wait, let me explain."
+            ],
+            [
+                203,
+                "I\u2019m sorry. Honestly, I didn\u2019t think your job would bother me, but I guess it did. And I hate myself for that. But there\u2019s a lot of things about me that would totally embarrass you."
+            ],
+            [
+                205,
+                "Well, prepare to be mortified. I let my dog eat food out of my mouth, not because she likes it but because I do. Also, I know they\u2019re pretty, but I\u2019m scared of butterflies."
+            ],
+            [
+                207,
+                "Come on. What do you say? Let me make it up to you."
+            ],
+            [
+                209,
+                "It\u2019s my one move."
+            ],
+            [
+                211,
+                "Great. Where would you like to go?"
+            ],
+            [
+                213,
+                "Excuse me, but I\u2019m Indian."
+            ]
+        ],
+        "Cleaner": [
+            [
+                21,
+                "Uh, sorry, I could come back."
+            ],
+            [
+                23,
+                "Oh, do I need a mop?"
+            ],
+            [
+                25,
+                "Oh, well, if it has life, maybe it already has a name, huh?"
+            ],
+            [
+                27,
+                "What is your name?"
+            ],
+            [
+                29,
+                "You think it would be more difficult than that?"
+            ],
+            [
+                31,
+                "Oh, uh, Isabella Maria Concepcion."
+            ]
+        ],
+        "Isabella": [
+            [
+                33,
+                "Nice to meet you, too. You know, I have to say, based on the candy wrappers and the bags of junk food I see in this trash, working here was ten years old."
+            ],
+            [
+                35,
+                "Bueno, um, I\u2019m just going to empty your waste paper basket and then I\u2019ll get out of your way."
+            ],
+            [
+                37,
+                "Thank you."
+            ],
+            [
+                39,
+                "Okay, uh, okay, I have to go. "
+            ],
+            [
+                41,
+                "Good luck with your, um, space exploration."
+            ],
+            [
+                107,
+                "You\u2019re kidding."
+            ],
+            [
+                109,
+                "It\u2019s okay, you\u2019re allowed to have a cleaning lady."
+            ],
+            [
+                111,
+                "I think that\u2019s called a mommy."
+            ],
+            [
+                113,
+                "No, not for many years."
+            ],
+            [
+                115,
+                "Just me and my son."
+            ],
+            [
+                117,
+                "Nineteen."
+            ],
+            [
+                119,
+                "He\u2019s studying to be a lawyer at UCLA."
+            ],
+            [
+                121,
+                "Yeah, I guess we do."
+            ],
+            [
+                123,
+                "Ay, Rajesh, I think you\u2019re very sweet, but I work two jobs and I don\u2019t have time for dating."
+            ],
+            [
+                125,
+                "Oh, please don\u2019t take it personal, I think you\u2019re a very nice man."
+            ],
+            [
+                127,
+                "Thank you for helping me. Good night, Rajesh."
+            ],
+            [
+                129,
+                "Good night, Rajesh."
+            ],
+            [
+                151,
+                "What is this?"
+            ],
+            [
+                153,
+                "Oh, Rajesh."
+            ],
+            [
+                155,
+                "Rajesh, this is so sweet, but you, you know I\u2019m working."
+            ],
+            [
+                157,
+                "Well, I suppose that gives me a little time."
+            ],
+            [
+                159,
+                "Oh, really? You made Cuban food?"
+            ],
+            [
+                186,
+                "Well, I suppose how much people care about Oprah\u2019s favourite things."
+            ],
+            [
+                188,
+                "You know, I do have some time off this Sunday if you\u2019d like to\u2026"
+            ],
+            [
+                191,
+                "It\u2019s okay. Uh, I should get back to work."
+            ],
+            [
+                193,
+                "Oh. Isabella Concepcion."
+            ],
+            [
+                195,
+                "You told him I was an astronomer?"
+            ],
+            [
+                197,
+                "I understand. Time to go."
+            ],
+            [
+                199,
+                "It\u2019s okay, Rajesh, I\u2019m a grown woman. I don\u2019t have to waste my time with someone who\u2019s embarrassed by me."
+            ],
+            [
+                202,
+                "If you are embarrassed by what I do, why did you pursue me?"
+            ],
+            [
+                204,
+                "I doubt that."
+            ],
+            [
+                208,
+                "You\u2019re very persistent."
+            ],
+            [
+                210,
+                "Okay. This Sunday night, you may take me to dinner at a nice restaurant."
+            ],
+            [
+                212,
+                "Your choice. It can be Pakistani food if you like."
+            ],
+            [
+                214,
+                "And now you know how it feels."
+            ]
+        ],
+        "Howard": [
+            [
+                57,
+                "Huh, they screwed up and gave us steamed broccoli."
+            ],
+            [
+                64,
+                "No, she\u2019s right. As long as I\u2019ve known you, you\u2019ve always been self-conscious about your cleavage."
+            ],
+            [
+                73,
+                "Oh, did you meet her at work?"
+            ],
+            [
+                79,
+                "So, when do we meet her?"
+            ],
+            [
+                189,
+                "Hey! I saw your car\u2026 Oh, sorry. Am I interrupting?"
+            ],
+            [
+                192,
+                "Hi. Howard Wolowitz."
+            ],
+            [
+                194,
+                "Oh, yeah, the astronomer. Raj told us about you. Hey, free toilet paper."
+            ],
+            [
+                200,
+                "I can keep this, right?"
+            ],
+            [
+                206,
+                "Sorry, just passing through. I think this fell off your cart."
+            ]
+        ],
+        "Leonard": [
+            [
+                59,
+                "Really? The last green thing I saw you eat was a Skittle."
+            ],
+            [
+                69,
+                "How\u2019s that broccoli?"
+            ],
+            [
+                75,
+                "Oh, so she\u2019s an astronomer?"
+            ],
+            [
+                81,
+                "Okay, well, good luck with it."
+            ],
+            [
+                84,
+                "I\u2019m married, I don\u2019t have to be attractive."
+            ],
+            [
+                164,
+                "Why does he need a baby? He\u2019s already hairless and smells like talcum powder."
+            ],
+            [
+                167,
+                "That\u2019s true. Sheldon\u2019s father once picked a fight with a cactus."
+            ],
+            [
+                169,
+                "Well, we know they were smart enough to send him away."
+            ],
+            [
+                172,
+                "Well, have fun with whatever nightmare\u2019s behind door number two."
+            ],
+            [
+                218,
+                "I\u2019m sorry, is that a yes?"
+            ]
+        ],
+        "Penny": [
+            [
+                61,
+                "You\u2019re dating somebody, who is it?"
+            ],
+            [
+                63,
+                "You only watch what you eat when you\u2019re afraid you might have to take your shirt off."
+            ],
+            [
+                66,
+                "All right, fine, don\u2019t tell us."
+            ],
+            [
+                68,
+                "All right."
+            ],
+            [
+                71,
+                "Bam. Thank you. What\u2019s her name?"
+            ],
+            [
+                77,
+                "Well, that\u2019s great, Raj. You must have so much in common."
+            ],
+            [
+                83,
+                "How come you never eat broccoli?"
+            ],
+            [
+                162,
+                "Now, when he said make a baby, is it possible he meant out of Legos?"
+            ],
+            [
+                165,
+                "Could you two really have some sort of super-intelligent child?"
+            ],
+            [
+                168,
+                "Yeah, but that\u2019s just his Earth parents. We don\u2019t know anything about the ones that sent him here."
+            ],
+            [
+                171,
+                "Ooh, Sheldon gonna get some."
+            ],
+            [
+                216,
+                "So, were you turned on even a little bit?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                87,
+                "Still, I can\u2019t believe you can turn ordinary skin cells into functioning brain cells."
+            ],
+            [
+                90,
+                "Look at that, put them in a tiny Flash T-shirt and it\u2019s you."
+            ],
+            [
+                92,
+                "I\u2019m running out of ways to act excited."
+            ],
+            [
+                94,
+                "Great, the doctor said the baby\u2019s head is facing down now."
+            ],
+            [
+                97,
+                "Are you actually comparing my human baby to your brain in a bowl?"
+            ],
+            [
+                99,
+                "You do realize my baby has functioning organs and can recognize voices."
+            ],
+            [
+                101,
+                "Mine has a fully developed immune system."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Amy\u2019s lab."
+        ],
+        [
+            "Sheldon",
+            "How much will it hurt?"
+        ],
+        [
+            "Amy",
+            "It\u2019s just a tiny skin sample. You saw me do it to myself."
+        ],
+        [
+            "Sheldon",
+            "On a scale of one to ten, where one is a pebble in your shoe and ten is the monkey you thought was your pet biting your face off."
+        ],
+        [
+            "Amy",
+            "A two."
+        ],
+        [
+            "Sheldon",
+            "Eating a whole Altoid?"
+        ],
+        [
+            "Amy",
+            "Sheldon, if I\u2019m gonna synthesize a neural network from our skin cells, I need to harvest them. Now, I\u2019ve done this dozens of times, but if you\u2019re too scared you don\u2019t have to."
+        ],
+        [
+            "Sheldon",
+            "No, this is for science. I can be brave for science."
+        ],
+        [
+            "Amy",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Oh, jiminy, that\u2019s cold."
+        ],
+        [
+            "Amy",
+            "Just think how happy you\u2019ll be in a few weeks when I\u2019ve converted our skin cells into functional brain cells."
+        ],
+        [
+            "Sheldon",
+            "All right, just warn me before you do it."
+        ],
+        [
+            "Amy",
+            "Okay. Three, two, and we\u2019re done."
+        ],
+        [
+            "Sheldon",
+            "You tricked me. You didn\u2019t say one."
+        ],
+        [
+            "Amy",
+            "It didn\u2019t hurt, did it?"
+        ],
+        [
+            "Sheldon",
+            "No, but three, two and we\u2019re done is incomplete. You know those things bother me. It\u2019s like hearing da-da-da-da-da-dah without yelling\u2026"
+        ],
+        [
+            "Amy",
+            "Okay, fine, one."
+        ],
+        [
+            "Sheldon",
+            "Thank you. Now yell charge and we can get out of here."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The telescope room."
+        ],
+        [
+            "Raj",
+            "Oh, my God, I just got it. Fun onions, Funyuns. Hold on. Is that a wobble? Yes. That\u2019s definitely a gravitational wobble."
+        ],
+        [
+            "Cleaner",
+            "Uh, sorry, I could come back."
+        ],
+        [
+            "Raj",
+            "Oh, no, it\u2019s okay. I just found a wobble."
+        ],
+        [
+            "Cleaner",
+            "Oh, do I need a mop?"
+        ],
+        [
+            "Raj",
+            "It\u2019s a gravitational wobble. It could be a sign of an extrasolar planet that may contain life and someday be named after me."
+        ],
+        [
+            "Cleaner",
+            "Oh, well, if it has life, maybe it already has a name, huh?"
+        ],
+        [
+            "Raj",
+            "Yeah, but it\u2019s probably difficult to pronounce."
+        ],
+        [
+            "Cleaner",
+            "What is your name?"
+        ],
+        [
+            "Raj",
+            "Rajesh Ramayan Koothrappali."
+        ],
+        [
+            "Cleaner",
+            "You think it would be more difficult than that?"
+        ],
+        [
+            "Raj",
+            "Good point. And you are?"
+        ],
+        [
+            "Cleaner",
+            "Oh, uh, Isabella Maria Concepcion."
+        ],
+        [
+            "Raj",
+            "Oh, well, nice to meet you."
+        ],
+        [
+            "Isabella",
+            "Nice to meet you, too. You know, I have to say, based on the candy wrappers and the bags of junk food I see in this trash, working here was ten years old."
+        ],
+        [
+            "Raj",
+            "Oh, please, show me a ten-year-old who knows to dip Tootsie Rolls in Nutella. "
+        ],
+        [
+            "Isabella",
+            "Bueno, um, I\u2019m just going to empty your waste paper basket and then I\u2019ll get out of your way."
+        ],
+        [
+            "Raj",
+            "Oh, please, allow me. That\u2019s a lot of empty calories."
+        ],
+        [
+            "Isabella",
+            "Thank you."
+        ],
+        [
+            "Raj",
+            "You\u2019re welcome."
+        ],
+        [
+            "Isabella",
+            "Okay, uh, okay, I have to go. "
+        ],
+        [
+            "Raj",
+            "Okay."
+        ],
+        [
+            "Isabella",
+            "Good luck with your, um, space exploration."
+        ],
+        [
+            "Raj",
+            "Thank you. Good luck with your future endeavours."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s lab."
+        ],
+        [
+            "Sheldon",
+            "Did it work? Are they brain cells yet?"
+        ],
+        [
+            "Amy",
+            "If you\u2019d give me a minute, I\u2019ll tell you."
+        ],
+        [
+            "Sheldon",
+            "Oh, just let me look. Oh, my goodness. I see quivering black lines. Those must be neurons, oh, they\u2019re so thick and beautiful."
+        ],
+        [
+            "Amy",
+            "Those are your eyelashes, move. Well, Sheldon, I see astrocytes. Our combined skin cells are now a primitive neural network."
+        ],
+        [
+            "Sheldon",
+            "I have such a profound sense of creation. I, it\u2019s like when I hatched sea monkeys, except that this is from my DNA, so this is like me monkeys. "
+        ],
+        [
+            "Amy",
+            "These cells come from both of us."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but us monkeys doesn\u2019t pop. Oh, oh, oh, oh, wait, we monkeys, there you go. Hey, when can we start running tests on it?"
+        ],
+        [
+            "Amy",
+            "No reason we can\u2019t start right now."
+        ],
+        [
+            "Sheldon",
+            "What stimulus should we introduce it to first? Light, sound, temperature, oh, oh, let\u2019s"
+        ],
+        [
+            "Scene",
+            "expose it to images of me and you and see who it likes better."
+        ],
+        [
+            "Amy",
+            "Sheldon, this is a rudimentary collection of neurons. I mean, it\u2019s remarkable, but it\u2019s still limited in what it can do."
+        ],
+        [
+            "Sheldon",
+            "I understand. She\u2019s the mean one, I\u2019m the fun one."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "Huh, they screwed up and gave us steamed broccoli."
+        ],
+        [
+            "Raj",
+            "Oh, no, that\u2019s mine."
+        ],
+        [
+            "Leonard",
+            "Really? The last green thing I saw you eat was a Skittle."
+        ],
+        [
+            "Raj",
+            "Well, I can\u2019t eat like a ten-year-old all the time."
+        ],
+        [
+            "Penny",
+            "You\u2019re dating somebody, who is it?"
+        ],
+        [
+            "Raj",
+            "What? What are you talking about?"
+        ],
+        [
+            "Penny",
+            "You only watch what you eat when you\u2019re afraid you might have to take your shirt off."
+        ],
+        [
+            "Howard",
+            "No, she\u2019s right. As long as I\u2019ve known you, you\u2019ve always been self-conscious about your cleavage."
+        ],
+        [
+            "Raj",
+            "That\u2019s because you keep trying to stick pencils in it."
+        ],
+        [
+            "Penny",
+            "All right, fine, don\u2019t tell us."
+        ],
+        [
+            "Raj",
+            "There\u2019s nothing to tell."
+        ],
+        [
+            "Penny",
+            "All right."
+        ],
+        [
+            "Leonard",
+            "How\u2019s that broccoli?"
+        ],
+        [
+            "Raj",
+            "It\u2019s gross but I have to eat it because I met somebody."
+        ],
+        [
+            "Penny",
+            "Bam. Thank you. What\u2019s her name?"
+        ],
+        [
+            "Raj",
+            "Isabella. "
+        ],
+        [
+            "Howard",
+            "Oh, did you meet her at work?"
+        ],
+        [
+            "Raj",
+            "Yes, in the telescope room."
+        ],
+        [
+            "Leonard",
+            "Oh, so she\u2019s an astronomer?"
+        ],
+        [
+            "Raj",
+            "Yes, which is why she was in the telescope room. Yes, this is all making sense. Good."
+        ],
+        [
+            "Penny",
+            "Well, that\u2019s great, Raj. You must have so much in common."
+        ],
+        [
+            "Raj",
+            "Mm-hmm."
+        ],
+        [
+            "Howard",
+            "So, when do we meet her?"
+        ],
+        [
+            "Raj",
+            "No, no, this is brand new. We haven\u2019t even been on a proper date yet."
+        ],
+        [
+            "Leonard",
+            "Okay, well, good luck with it."
+        ],
+        [
+            "Raj",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "How come you never eat broccoli?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m married, I don\u2019t have to be attractive."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "You know, most people don\u2019t realize this technique has actually been around for a few years."
+        ],
+        [
+            "Bernadette",
+            "Still, I can\u2019t believe you can turn ordinary skin cells into functioning brain cells."
+        ],
+        [
+            "Amy",
+            "Well, I turned this one into a functioning boyfriend, so sky\u2019s the limit."
+        ],
+        [
+            "Sheldon",
+            "Look, look, here I am standing next to the incubator. Uh, here is a microscopic view of the cells."
+        ],
+        [
+            "Bernadette",
+            "Look at that, put them in a tiny Flash T-shirt and it\u2019s you."
+        ],
+        [
+            "Sheldon",
+            "Aw. Yeah, this little guy can already recognize electronically transmitted images 20% faster than any other sample in Amy\u2019s lab."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m running out of ways to act excited."
+        ],
+        [
+            "Amy",
+            "So, enough about us, how are things going with you?"
+        ],
+        [
+            "Bernadette",
+            "Great, the doctor said the baby\u2019s head is facing down now."
+        ],
+        [
+            "Amy",
+            "Good, you know, in case the exit isn\u2019t clearly marked."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I have to say, it is nice to share this experience with someone who\u2019s on the same journey. Although right now ours is testing off the charts while yours is floating around in its own waste."
+        ],
+        [
+            "Bernadette",
+            "Are you actually comparing my human baby to your brain in a bowl?"
+        ],
+        [
+            "Sheldon",
+            "Well, I didn\u2019t make you waddle up four flights of stairs for the heck of it."
+        ],
+        [
+            "Bernadette",
+            "You do realize my baby has functioning organs and can recognize voices."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but ours can recognize a specific data stream among background noise."
+        ],
+        [
+            "Bernadette",
+            "Mine has a fully developed immune system."
+        ],
+        [
+            "Sheldon",
+            "Ours doesn\u2019t need an immune system because it lives in a state-of-the-art German incubator."
+        ],
+        [
+            "Amy",
+            "Sheldon, that\u2019s enough."
+        ],
+        [
+            "Sheldon",
+            "Okay, fine. Let\u2019s just agree that both creations are special in their own way and it is foolish to try and compare them. Although, we didn\u2019t need to have sex with Howard for ours, so we win."
+        ],
+        [
+            "Scene",
+            "A washroom at the university."
+        ],
+        [
+            "Raj",
+            "This is fun. I have never cleaned a toilet before."
+        ],
+        [
+            "Isabella",
+            "You\u2019re kidding."
+        ],
+        [
+            "Raj",
+            "No, I grew up with a house full of servants and now I have a cleaning lady who is a lovely woman who I have great respect for."
+        ],
+        [
+            "Isabella",
+            "It\u2019s okay, you\u2019re allowed to have a cleaning lady."
+        ],
+        [
+            "Raj",
+            "Oh, good, because she also walks my dog, buys my groceries and cuts my hair."
+        ],
+        [
+            "Isabella",
+            "I think that\u2019s called a mommy."
+        ],
+        [
+            "Raj",
+            "Uh, so forgive me, forgive me for being nosy, but is, is there a wedding ring under those pretty rubber gloves?"
+        ],
+        [
+            "Isabella",
+            "No, not for many years."
+        ],
+        [
+            "Raj",
+            "Oh, so, you are unencumbered?"
+        ],
+        [
+            "Isabella",
+            "Just me and my son."
+        ],
+        [
+            "Raj",
+            "I love kids, how old is he?"
+        ],
+        [
+            "Isabella",
+            "Nineteen."
+        ],
+        [
+            "Raj",
+            "That\u2019s a cute age. They can do so many things."
+        ],
+        [
+            "Isabella",
+            "He\u2019s studying to be a lawyer at UCLA."
+        ],
+        [
+            "Raj",
+            "That\u2019s wonderful. A lawyer, my sister\u2019s a lawyer. Look at that, we have something in common."
+        ],
+        [
+            "Isabella",
+            "Yeah, I guess we do."
+        ],
+        [
+            "Raj",
+            "Maybe there are other things we have in common. Come dinnertime, do you enjoy eating food?"
+        ],
+        [
+            "Isabella",
+            "Ay, Rajesh, I think you\u2019re very sweet, but I work two jobs and I don\u2019t have time for dating."
+        ],
+        [
+            "Raj",
+            "Yeah, sure. I understand. Yeah, I\u2019m very busy, too."
+        ],
+        [
+            "Isabella",
+            "Oh, please don\u2019t take it personal, I think you\u2019re a very nice man."
+        ],
+        [
+            "Raj",
+            "I think you\u2019re very nice as well."
+        ],
+        [
+            "Isabella",
+            "Thank you for helping me. Good night, Rajesh."
+        ],
+        [
+            "Raj",
+            "Oh, yes. Oh, okay. Uh, Good night. I don\u2019t know, maybe it\u2019s the fumes from the urinal cakes, but I feel like something is happening between us."
+        ],
+        [
+            "Isabella",
+            "Good night, Rajesh."
+        ],
+        [
+            "Raj",
+            "Okay. I\u2019ll leave. But just know, every time I come in here, I\u2019ll be thinking of you."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s lab."
+        ],
+        [
+            "Sheldon",
+            "Would you look at that? The image we gave it was 45% white noise, and it still managed to reconstruct it."
+        ],
+        [
+            "Amy",
+            "I\u2019ve never seen results like this before."
+        ],
+        [
+            "Sheldon",
+            "Yeah, we need to stop for magnets on the way home, this is going right on the fridge."
+        ],
+        [
+            "Amy",
+            "Aren\u2019t you glad you participated in this?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I am. And you realize what the next step is?"
+        ],
+        [
+            "Amy",
+            "Set up a second culture and try to replicate our results."
+        ],
+        [
+            "Sheldon",
+            "Uh, no. We lock that door, lower our underpants a little and make a baby."
+        ],
+        [
+            "Amy",
+            "Make a baby? What are you talking about?"
+        ],
+        [
+            "Sheldon",
+            "Clearly the combination of our DNA is exceptional. Our child could be the next step in the evolution of mankind. We\u2019ll be able to get into any preschool we want!"
+        ],
+        [
+            "Amy",
+            "Sheldon, I\u2019m not ready to have a baby."
+        ],
+        [
+            "Sheldon",
+            "Oh, yes, you are. I track your cycle. For the next 36 hours you\u2019re as fertile as a manure-covered wheat field."
+        ],
+        [
+            "Amy",
+            "Wow. I, I can actually feel the egg crawling its way back up."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t understand. I thought you\u2019d be thrilled to procreate with me."
+        ],
+        [
+            "Amy",
+            "Not right now."
+        ],
+        [
+            "Sheldon",
+            "Oh, I see what\u2019s happening here. You\u2019re playing hard to get."
+        ],
+        [
+            "Amy",
+            "I\u2019m not playing anything. We\u2019re not making a baby today."
+        ],
+        [
+            "Sheldon",
+            "Very well. Oops, how clumsy of me. You know what? Let me get that. Hey. Where are you going? I, did you even look at my bottom?"
+        ],
+        [
+            "Scene",
+            "The telescope room. "
+        ],
+        [
+            "Raj",
+            "Welcome."
+        ],
+        [
+            "Isabella",
+            "What is this?"
+        ],
+        [
+            "Raj",
+            "Oh, well, you said you didn\u2019t have time to go out for dinner, so I thought we could have one right here."
+        ],
+        [
+            "Isabella",
+            "Oh, Rajesh."
+        ],
+        [
+            "Raj",
+            "Oh, come on, we\u2019re in the telescope room. It\u2019ll be like dining under the stars. You see this, uh, double zero? When it says zero one that means it\u2019s twinkling. Sometimes it takes a while."
+        ],
+        [
+            "Isabella",
+            "Rajesh, this is so sweet, but you, you know I\u2019m working."
+        ],
+        [
+            "Raj",
+            "That\u2019s why I already cleaned up in here and all the other rooms in the hall."
+        ],
+        [
+            "Isabella",
+            "Well, I suppose that gives me a little time."
+        ],
+        [
+            "Raj",
+            "Oh, please sit. I tried to cook you a meal from your homeland."
+        ],
+        [
+            "Isabella",
+            "Oh, really? You made Cuban food?"
+        ],
+        [
+            "Raj",
+            "That depends, do they have Mexican food in Cuba?"
+        ],
+        [
+            "Scene",
+            "The stairwell. "
+        ],
+        [
+            "Penny",
+            "Now, when he said make a baby, is it possible he meant out of Legos?"
+        ],
+        [
+            "Amy",
+            "No. He was explicit. Needlessly and freakishly explicit."
+        ],
+        [
+            "Leonard",
+            "Why does he need a baby? He\u2019s already hairless and smells like talcum powder."
+        ],
+        [
+            "Penny",
+            "Could you two really have some sort of super-intelligent child?"
+        ],
+        [
+            "Amy",
+            "Well, there is a genetic component, but that doesn\u2019t guarantee anything."
+        ],
+        [
+            "Leonard",
+            "That\u2019s true. Sheldon\u2019s father once picked a fight with a cactus."
+        ],
+        [
+            "Penny",
+            "Yeah, but that\u2019s just his Earth parents. We don\u2019t know anything about the ones that sent him here."
+        ],
+        [
+            "Leonard",
+            "Well, we know they were smart enough to send him away."
+        ],
+        [
+            "Amy",
+            "Hey, you\u2019re talking about the person I love and have been avoiding for the past three hours. Oh, man. "
+        ],
+        [
+            "Penny",
+            "Ooh, Sheldon gonna get some."
+        ],
+        [
+            "Leonard",
+            "Well, have fun with whatever nightmare\u2019s behind door number two."
+        ],
+        [
+            "Sheldon",
+            "Well, hello."
+        ],
+        [
+            "Amy",
+            "Hello."
+        ],
+        [
+            "Sheldon",
+            "Would you care for a brandy?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t think so."
+        ],
+        [
+            "Sheldon",
+            "Good choice, it\u2019s disgusting."
+        ],
+        [
+            "Amy",
+            "Sheldon, please stop trying to seduce me."
+        ],
+        [
+            "Sheldon",
+            "Who\u2019s trying to seduce you? After a long day I always turn on smooth jazz and spray deer musk on my inner thighs."
+        ],
+        [
+            "Amy",
+            "I thought it smelled like a petting zoo in here."
+        ],
+        [
+            "Sheldon",
+            "Anything you\u2019d like to pet? Not my hair. There\u2019s a lot of goop in it."
+        ],
+        [
+            "Amy",
+            "Okay, I\u2019ve had enough."
+        ],
+        [
+            "Sheldon",
+            "Amy, come back. I don\u2019t know how to open the oysters."
+        ],
+        [
+            "Scene",
+            "The telescope room. "
+        ],
+        [
+            "Raj",
+            "So, um, what surprised you the most when you first came to America?"
+        ],
+        [
+            "Isabella",
+            "Well, I suppose how much people care about Oprah\u2019s favourite things."
+        ],
+        [
+            "Raj",
+            "I thought that, too. But then I got my first waffle maker and never questioned her again."
+        ],
+        [
+            "Isabella",
+            "You know, I do have some time off this Sunday if you\u2019d like to\u2026"
+        ],
+        [
+            "Howard",
+            "Hey! I saw your car\u2026 Oh, sorry. Am I interrupting?"
+        ],
+        [
+            "Raj",
+            "Uh."
+        ],
+        [
+            "Isabella",
+            "It\u2019s okay. Uh, I should get back to work."
+        ],
+        [
+            "Howard",
+            "Hi. Howard Wolowitz."
+        ],
+        [
+            "Isabella",
+            "Oh. Isabella Concepcion."
+        ],
+        [
+            "Howard",
+            "Oh, yeah, the astronomer. Raj told us about you. Hey, free toilet paper."
+        ],
+        [
+            "Isabella",
+            "You told him I was an astronomer?"
+        ],
+        [
+            "Raj",
+            "Uh. "
+        ],
+        [
+            "Isabella",
+            "I understand. Time to go."
+        ],
+        [
+            "Raj",
+            "No, p-please don\u2019t."
+        ],
+        [
+            "Isabella",
+            "It\u2019s okay, Rajesh, I\u2019m a grown woman. I don\u2019t have to waste my time with someone who\u2019s embarrassed by me."
+        ],
+        [
+            "Howard",
+            "I can keep this, right?"
+        ],
+        [
+            "Raj",
+            "Isabella. Isabella wait, wait, let me explain."
+        ],
+        [
+            "Isabella",
+            "If you are embarrassed by what I do, why did you pursue me?"
+        ],
+        [
+            "Raj",
+            "I\u2019m sorry. Honestly, I didn\u2019t think your job would bother me, but I guess it did. And I hate myself for that. But there\u2019s a lot of things about me that would totally embarrass you."
+        ],
+        [
+            "Isabella",
+            "I doubt that."
+        ],
+        [
+            "Raj",
+            "Well, prepare to be mortified. I let my dog eat food out of my mouth, not because she likes it but because I do. Also, I know they\u2019re pretty, but I\u2019m scared of butterflies."
+        ],
+        [
+            "Howard",
+            "Sorry, just passing through. I think this fell off your cart."
+        ],
+        [
+            "Raj",
+            "Come on. What do you say? Let me make it up to you."
+        ],
+        [
+            "Isabella",
+            "You\u2019re very persistent."
+        ],
+        [
+            "Raj",
+            "It\u2019s my one move."
+        ],
+        [
+            "Isabella",
+            "Okay. This Sunday night, you may take me to dinner at a nice restaurant."
+        ],
+        [
+            "Raj",
+            "Great. Where would you like to go?"
+        ],
+        [
+            "Isabella",
+            "Your choice. It can be Pakistani food if you like."
+        ],
+        [
+            "Raj",
+            "Excuse me, but I\u2019m Indian."
+        ],
+        [
+            "Isabella",
+            "And now you know how it feels."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "So, were you turned on even a little bit?"
+        ],
+        [
+            "Amy",
+            "It was like being hit on by Rat Pack Pee-wee Herman."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, is that a yes?"
+        ],
+        [
+            "Amy",
+            "No. "
+        ],
+        [
+            "Sheldon",
+            "Amy, I didn\u2019t want it to come to this, but you have left me no choice but to employ the most passionate, seductive dance known to man. The flamenco."
+        ],
+        [
+            "Amy",
+            "For God\u2019s sake, you\u2019re ridiculous."
+        ],
+        [
+            "Sheldon",
+            "You guys are aroused, right?"
+        ],
+        [
+            "Amy",
+            "That was a close one."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-08-the-brain-bowl-incubation/"
+}

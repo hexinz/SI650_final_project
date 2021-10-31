@@ -1,0 +1,1728 @@
+{
+    "Season": 6,
+    "Episode": 3,
+    "Title": "the higgs boson observation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Webcam conversation between Bernadette\u2019s Office and the International Space Station"
+            ],
+            [
+                12,
+                "The apartment. Penny enters, carrying a box."
+            ],
+            [
+                48,
+                "Credits sequence."
+            ],
+            [
+                49,
+                "Sheldon\u2019s office."
+            ],
+            [
+                63,
+                "A University corridor."
+            ],
+            [
+                79,
+                "Webcam conversation between Bernadette\u2019s Office and the International Space Station"
+            ],
+            [
+                90,
+                "Penny\u2019s apartment. Amy is applying very red lip gloss."
+            ],
+            [
+                115,
+                "University corridor."
+            ],
+            [
+                124,
+                "The cafeteria."
+            ],
+            [
+                165,
+                "Webcam conversation between Bernadette\u2019s Office and the International Space Station"
+            ],
+            [
+                172,
+                "Penny\u2019s car."
+            ],
+            [
+                182,
+                "The apartment."
+            ],
+            [
+                206,
+                "Webcam conversation between Bernadette\u2019s Office and the International Space Station"
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "Hey, Bernie."
+            ],
+            [
+                3,
+                "Okay, I guess. It\u2019s just, being cooped up in this tin can for weeks on end is starting to get to me."
+            ],
+            [
+                5,
+                "I know."
+            ],
+            [
+                7,
+                "Love you too. Hey, Bernie? Before you go, can you do something for me?"
+            ],
+            [
+                9,
+                "Okay, here it is. I really miss gravity. Can you drop something so I can watch it fall?"
+            ],
+            [
+                11,
+                "Oh, baby, you\u2019re killing me."
+            ],
+            [
+                81,
+                "Uh, no, not really."
+            ],
+            [
+                83,
+                "Well, remember the Soyuz capsule they were sending to bring us home?"
+            ],
+            [
+                85,
+                "It\u2019s delayed. We\u2019re gonna be here at least another week. Maybe ten days. It\u2019s the Russians, so you don\u2019t know. They left dogs up here in the sixties."
+            ],
+            [
+                87,
+                "I don\u2019t know how much longer I can take this. I can\u2019t sleep, and zero gravity is giving me crazy acid reflux. I\u2019m down to my last three Tums."
+            ],
+            [
+                89,
+                "Okay, okay. What am I doing? I\u2019m using up all the oxygen. If I die, promise you\u2019ll never have sex with another man."
+            ],
+            [
+                167,
+                "Oh, a lot better, thanks. One sec. Listen close, I don\u2019t have a lot of time. I need you to go to my house. In my bedroom, you\u2019ll find a model rocket. I want you to take it and bring it back to your place."
+            ],
+            [
+                169,
+                "Step two, build a version roughly fourteen stories high. Fill it full of rocket fuel and come get me. I\u2019ll leave the door unlocked."
+            ],
+            [
+                171,
+                "No, no, I\u2019m fine. No anxiety. We should probably talk in code. From now on, frog is me, sandwich means you and lemon means rocket. So, come on, sandwich, build me a lemon \u2019cause froggy wants to come home."
+            ],
+            [
+                208,
+                "Better. Much better. The other astronauts held me down, gave me a shot. Oooh. Attention, people of Earth. Tonight, there will be two moons in the sky."
+            ],
+            [
+                210,
+                "Whee! Whee!"
+            ]
+        ],
+        "Bernadette": [
+            [
+                2,
+                "Hey, how\u2019s my little astronautie hottie?"
+            ],
+            [
+                4,
+                "Well, hang in there. You just have a couple more days to go, and then you\u2019ll be home."
+            ],
+            [
+                6,
+                "I got to get back to work. I love you."
+            ],
+            [
+                8,
+                "What do you want me to do?"
+            ],
+            [
+                10,
+                "Really, you\u2019re serious? Okay. (Drops a pencil)"
+            ],
+            [
+                80,
+                "Hey, I wasn\u2019t expecting to hear from you today. Everything okay?"
+            ],
+            [
+                82,
+                "What\u2019s wrong?"
+            ],
+            [
+                84,
+                "Uh-huh."
+            ],
+            [
+                86,
+                "Come on, Howard. No one\u2019s leaving you up there."
+            ],
+            [
+                88,
+                "You\u2019re going to be fine. You survived that Weight Watchers cruise with your mom. And they ran out of low-fat ice cream on day two. Just calm down and take a few deep breaths."
+            ],
+            [
+                166,
+                "How you doing, Howie? You feeling a little better?"
+            ],
+            [
+                168,
+                "Okay."
+            ],
+            [
+                170,
+                "Howie, honey, maybe you should talk to someone, let them know you\u2019re having a little anxiety."
+            ],
+            [
+                207,
+                "Hey, Howie, how you feeling?"
+            ],
+            [
+                209,
+                "Howie, stop that. NASA\u2019s watching this! Put your pants back on!"
+            ]
+        ],
+        "Penny": [
+            [
+                13,
+                "Ugh. Hey, Sheldon? Hi. This came for you today. It\u2019s from your mom."
+            ],
+            [
+                15,
+                "M-hmm."
+            ],
+            [
+                17,
+                "Oh, boy, a whole dollar. Now, I can quit my paper route. So, what\u2019s in it?"
+            ],
+            [
+                20,
+                "Aw, how cute. Is this like a diary?"
+            ],
+            [
+                22,
+                "Really, your potty training journal?"
+            ],
+            [
+                26,
+                "Oh, disgusting."
+            ],
+            [
+                28,
+                "Why do you need all this stuff?"
+            ],
+            [
+                30,
+                "Sorry!"
+            ],
+            [
+                32,
+                "Of course, it is, it\u2019s been in the news. And it\u2019s a very famous boson."
+            ],
+            [
+                34,
+                "Yeah, that\u2019s basically what I said."
+            ],
+            [
+                37,
+                "You really think there\u2019s some kind of scientific discovery in here?"
+            ],
+            [
+                44,
+                "Maybe I could do it."
+            ],
+            [
+                46,
+                "A proof that algebraic topology can never have a non self-contradictory set of abelion groups. I\u2019m just a blonde monkey to you, aren\u2019t I?"
+            ],
+            [
+                92,
+                "Okay, for the final touch, this is an eyelash curler. You just place it on your lashes and squeeze it closed."
+            ],
+            [
+                94,
+                "Who I hope for her sake is not Captain Hook, so\u2026 who are you calling?"
+            ],
+            [
+                106,
+                "What?"
+            ],
+            [
+                108,
+                "Maybe he didn\u2019t notice."
+            ],
+            [
+                110,
+                "No, you do not."
+            ],
+            [
+                112,
+                "Oh, Amy, really? She is not going to come on to Sheldon."
+            ],
+            [
+                114,
+                "Well, for starters, at some point, that face starts talking."
+            ],
+            [
+                116,
+                "Amy, this is crazy. You have nothing to be suspicious about."
+            ],
+            [
+                118,
+                "Can we go now?"
+            ],
+            [
+                120,
+                "What are you doing?"
+            ],
+            [
+                122,
+                "Come on, Amy. That is not gonna work."
+            ],
+            [
+                174,
+                "There\u2019s nothing to be brave about. Everything\u2019s fine."
+            ],
+            [
+                176,
+                "Okay, maybe she was flirting with him, but who cares? Look, I don\u2019t even know where my relationship is with Leonard is right now."
+            ],
+            [
+                178,
+                "Well, of course he\u2019s desirable. I mean, he\u2019s great. He\u2019s smart, he\u2019s sweet, and, ooh, in the bedroom, whew, let me tell you, he really tries."
+            ],
+            [
+                180,
+                "Fine, it bothers me a little. No. You know what? This is stupid. It doesn\u2019t bother me. Okay, it bothers me. But only because she wouldn\u2019t stop laughing. Leonard is not that funny."
+            ],
+            [
+                183,
+                "So, how was work today?"
+            ],
+            [
+                185,
+                "Oh! You\u2019re kidding."
+            ],
+            [
+                187,
+                "Wow. Anything else?"
+            ],
+            [
+                189,
+                "Oh, is that it?"
+            ],
+            [
+                197,
+                "Oh, it\u2019s about time. I hated the old way. Hi. I\u2019m Penny."
+            ],
+            [
+                199,
+                "In a way. We\u2019ve kind of been involved in a five-year experiment."
+            ],
+            [
+                201,
+                "Well, a lot of people can\u2019t. Uh, hey."
+            ],
+            [
+                203,
+                "My limbic system wants to take your pants off."
+            ]
+        ],
+        "Sheldon": [
+            [
+                14,
+                "Oh, thank you, Penny."
+            ],
+            [
+                16,
+                "Yeah, wait, here. For your troubles."
+            ],
+            [
+                19,
+                "Yeah, it\u2019s journals and research papers I wrote as a child."
+            ],
+            [
+                21,
+                "No, that\u2019s my potty training journal."
+            ],
+            [
+                23,
+                "Yeah. And forgive my crude penmanship. I didn\u2019t start typing until I was six."
+            ],
+            [
+                25,
+                "There are some charts in the back where I kept track of shape, colour and consistency."
+            ],
+            [
+                31,
+                "I am glad you asked. Are you familiar with the Higgs boson?"
+            ],
+            [
+                33,
+                "Nice try. Now, in 1964, Dr. Peter Higgs, accomplished self-promoter and physicist, he wrote a paper postulating the existence of a subatomic particle called the Higgs boson. Now, initially the paper was rejected, but recently, he was proven right, and now he\u2019s on the fast track to win a Nobel prize."
+            ],
+            [
+                35,
+                "Yeah, the point is Higgs is being celebrated for work he did 50 years ago, so that got me thinking, perhaps I\u2019ve already hit upon the idea that will win me my Nobel prize."
+            ],
+            [
+                38,
+                "Well, this box only covers my work through nursery school. There\u2019s a good deal more to come. I didn\u2019t really hit my academic stride until I cut out that time-suck known as playing outdoors."
+            ],
+            [
+                40,
+                "That\u2019s a good point. My time is much too valuable. You know, perhaps I should find someone to do it for me. You know, someone with a rudimentary understanding of science, but whose real talents lie in menial labour."
+            ],
+            [
+                42,
+                "Well, if I didn\u2019t think you could handle it, I wouldn\u2019t be asking."
+            ],
+            [
+                45,
+                "You, really? You can assess the quality of my work? Okay, um, here. I wrote this when I was five years old."
+            ],
+            [
+                47,
+                "You said it, not me."
+            ],
+            [
+                50,
+                "All right, Ms. Jenson. Uh, before we begin, may I offer you a refreshment? Water, coffee, tea, a marijuana cigarette?"
+            ],
+            [
+                52,
+                "Now, are you sure? Everyone\u2019s smoking them. I think they\u2019re the best."
+            ],
+            [
+                54,
+                "Excellent, yeah. That was a ruse. They\u2019re not the best. Physics is the best. And by the way, coffee was also an unacceptable choice. All right, so I see here you\u2019re from Des Moines, Iowa. Uh, you\u2019re summa cum laude in theoretical physics from Stanford University. Oh, and two years ago, you had a persistent ear infection. I hope that didn\u2019t cause any hearing loss."
+            ],
+            [
+                56,
+                "I did a comprehensive background check. Medical records, credit reports, criminal history. (Hiding mouth behind book)  I trust you paid off those parking tickets."
+            ],
+            [
+                58,
+                "Hearing unimpaired, good."
+            ],
+            [
+                60,
+                "Flattery will not get you this job, Ms. Jenson."
+            ],
+            [
+                62,
+                "Oh, well, thank you. Welcome aboard."
+            ],
+            [
+                69,
+                "No. I have people for that now. You\u2019re up."
+            ],
+            [
+                73,
+                "Yeah, please reserve chitchat for your breaks, Ms. Jenson. FYI, there will be no breaks."
+            ],
+            [
+                126,
+                "Oh, in fact, she has. Uh, her exact words were, what is that guy\u2019s problem?"
+            ],
+            [
+                130,
+                "Half chocolate, half vanilla, side by side, not swirled?"
+            ],
+            [
+                132,
+                "Half a teaspoon of sprinkles?"
+            ],
+            [
+                134,
+                "Two cherries?"
+            ],
+            [
+                136,
+                "Stems removed?"
+            ],
+            [
+                140,
+                "It\u2019s all right, Alex. I\u2019m not mad at you, I\u2019m just disappointed."
+            ],
+            [
+                143,
+                "Uh, Alex, a moment. I need a word with Dr. Hofstadter. Do you think it\u2019s appropriate for her to sit with us, given her station?"
+            ],
+            [
+                145,
+                "If I\u2019ve learned anything from British television shows on PBS, it\u2019s that servants dine downstairs with their own kind."
+            ],
+            [
+                147,
+                "It\u2019s a kindness, Leonard. Otherwise, you\u2019re cruelly tempting them with a glimpse of a world that\u2019s just beyond their soot-stained fingertips."
+            ],
+            [
+                193,
+                "I believe Alex may have unearthed the grade school science project that could be my ticket to the Nobel Prize. Behold."
+            ],
+            [
+                195,
+                "The original title was \u201cA Rederivation of Maxwell\u2019s Equations Regarding Electromagnetism\u201d\u201d I dumbed it down because some of the more religious people in town were starting to say I was a witch."
+            ],
+            [
+                205,
+                "Notice people on your own time. We\u2019re working."
+            ]
+        ],
+        "Leonard": [
+            [
+                18,
+                "Mmm, doesn\u2019t matter. Half the time, he just ends up playing with the box."
+            ],
+            [
+                27,
+                "No, what\u2019s disgusting is he\u2019s still keeping track."
+            ],
+            [
+                29,
+                "No, no, no, no."
+            ],
+            [
+                36,
+                "I didn\u2019t know they gave Nobel prizes for making boom-boom in the potty."
+            ],
+            [
+                39,
+                "So, you\u2019re going to spend hours and hours combing through all this stuff?"
+            ],
+            [
+                41,
+                "Not gonna happen."
+            ],
+            [
+                43,
+                "If you want help, just hire a grad student."
+            ],
+            [
+                64,
+                "You talk to Howard lately?"
+            ],
+            [
+                66,
+                "Smooth. Hi."
+            ],
+            [
+                68,
+                "Sheldon, aren\u2019t you going to introduce us?"
+            ],
+            [
+                71,
+                "Ah, congratulations and may God have mercy on your soul. I\u2019m Leonard. This is Raj."
+            ],
+            [
+                75,
+                "She seems nice."
+            ],
+            [
+                77,
+                "All I said was she seems nice."
+            ],
+            [
+                129,
+                "This should be fun."
+            ],
+            [
+                138,
+                "Oh!"
+            ],
+            [
+                141,
+                "Wait, Alex. Do you want to join us?"
+            ],
+            [
+                144,
+                "Given her what?"
+            ],
+            [
+                146,
+                "What?"
+            ],
+            [
+                148,
+                "Oh, sure. Please join us."
+            ],
+            [
+                150,
+                "So, Alex, what\u2019s the topic of your dissertation?"
+            ],
+            [
+                152,
+                "Oh, that happens to be Dr. Koothrappali\u2019s field of expertise. You two have a lot to talk about."
+            ],
+            [
+                154,
+                "No. But compared to your boss, he\u2019s the poster boy for sanity."
+            ],
+            [
+                156,
+                "Oh, SETI, the Search for Extraterrestrial Intelligence. You should introduce him to Sheldon. The search is over."
+            ],
+            [
+                158,
+                "High-energy lasers."
+            ],
+            [
+                160,
+                "Not yet, but I can remove unwanted hair from two miles away."
+            ],
+            [
+                163,
+                "Thank you."
+            ],
+            [
+                184,
+                "Ah, it was all right, I guess. Got to Heimlich a cherry stem out of Sheldon. Caught Raj right in the eye."
+            ],
+            [
+                186,
+                "No, Raj had to go to the nurse."
+            ],
+            [
+                188,
+                "Mmm, the nurse is a woman, so he couldn\u2019t talk to her. She had to bring him a Grover puppet so he could point at what hurt."
+            ],
+            [
+                190,
+                "Isn\u2019t that enough? It had the weaponised fruit and a puppet. What more do you want?"
+            ],
+            [
+                192,
+                "What do you got?"
+            ],
+            [
+                202,
+                "Where are we going?"
+            ]
+        ],
+        "Penny: August 7, 8": [
+            [
+                24,
+                "42 a.m. This is humiliating. What was wrong with diapers?"
+            ]
+        ],
+        "Ms Jenson": [
+            [
+                51,
+                "No, thanks. I\u2019m fine."
+            ],
+            [
+                53,
+                "I don\u2019t do drugs."
+            ],
+            [
+                55,
+                "No, of course not. How did you know about that?"
+            ],
+            [
+                57,
+                "Yes, I did."
+            ],
+            [
+                59,
+                "Look, Dr. Cooper, I really want this position. It would be an incredible honour to work for a man of your brilliance."
+            ],
+            [
+                61,
+                "It\u2019s not flattery if it\u2019s the truth."
+            ],
+            [
+                67,
+                "Hello."
+            ],
+            [
+                70,
+                "I\u2019m Alex, Dr. Cooper\u2019s new assistant."
+            ]
+        ],
+        "Raj": [
+            [
+                65,
+                "Uh, yeah, last night. He kept making me drop pencils for him. I got uncomfortable. (Entering Sheldon\u2019s office)  Hey, Sheldon, hope you\u2019re hungry, they\u2019re serving macaroni and\u2026 (spots Ms Jenson)  che-ee-ee-ese."
+            ],
+            [
+                76,
+                "Hey, you already got a girlfriend. I call dibs."
+            ],
+            [
+                78,
+                "Yeah, well, I love her."
+            ],
+            [
+                125,
+                "Has your, uh, assistant said anything about me?"
+            ],
+            [
+                127,
+                "I\u2019m in her head. Let the dance begin."
+            ]
+        ],
+        "Alex": [
+            [
+                72,
+                "It\u2019s nice to meet you. I\u2019m so excited to be working with Dr\u2026"
+            ],
+            [
+                74,
+                "I should probably get to work."
+            ],
+            [
+                96,
+                "Dr. Cooper\u2019s office."
+            ],
+            [
+                98,
+                "I\u2019m Alex, Dr. Cooper\u2019s assistant. Can I help you?"
+            ],
+            [
+                100,
+                "I\u2019m sorry. He\u2019s asked me to hold all calls unless you\u2019re Stephen Hawking, his mother or himself from the future."
+            ],
+            [
+                102,
+                "Last name?"
+            ],
+            [
+                104,
+                "All right, I will tell him you called."
+            ],
+            [
+                128,
+                "Here\u2019s your frozen yoghurt, Dr. Cooper."
+            ],
+            [
+                131,
+                "Yes."
+            ],
+            [
+                133,
+                "Rainbow, not chocolate."
+            ],
+            [
+                135,
+                "One on top, one on the bottom."
+            ],
+            [
+                137,
+                "Um, top one, yes. I didn\u2019t check the one on the bottom."
+            ],
+            [
+                139,
+                "I\u2019m so sorry, Dr. Cooper."
+            ],
+            [
+                142,
+                "Um\u2026"
+            ],
+            [
+                149,
+                "Oh, okay. Thank you."
+            ],
+            [
+                151,
+                "I\u2019m looking for Trojan asteroids at Earth\u2019s L-Five Lagrange point."
+            ],
+            [
+                153,
+                "Is that true? Is he all right?"
+            ],
+            [
+                155,
+                "It\u2019s okay, I\u2019ve been around scientists all my life. My dad\u2019s an astronomer at SETI."
+            ],
+            [
+                157,
+                "So, what kind of research are you doing?"
+            ],
+            [
+                159,
+                "Ooh. Military?"
+            ],
+            [
+                162,
+                "You\u2019re very funny, Dr. Hofstadter."
+            ],
+            [
+                196,
+                "Sheldon thinks the approach in this paper might change the way we calculate ferromagnetic hysteresis."
+            ],
+            [
+                198,
+                "Alex. Uh, do you work with Dr. Hofstadter?"
+            ],
+            [
+                200,
+                "Oh. Well, you\u2019re lucky. He seems very talented. And I\u2019m sure a lot of people want to work with him."
+            ],
+            [
+                204,
+                "She seems nice."
+            ]
+        ],
+        "Amy": [
+            [
+                91,
+                "Oh, yeah. I\u2019m a man-eater now."
+            ],
+            [
+                93,
+                "Oh, I don\u2019t know. Looks like something used by Tinkerbell\u2019s gynecologist."
+            ],
+            [
+                95,
+                "I\u2019m going to video-chat Sheldon. If my new look leads to phone sex, I\u2019m going to have to ask you to leave the room."
+            ],
+            [
+                97,
+                "Oh, hello. Who are you?"
+            ],
+            [
+                99,
+                "I\u2019d like to speak to Sheldon."
+            ],
+            [
+                101,
+                "All right. Well, tell him Amy called."
+            ],
+            [
+                103,
+                "He knows my last name. I\u2019m his girlfriend. We have a contract and everything. I\u2019ll send you a PDF."
+            ],
+            [
+                105,
+                "Hmm, that\u2019s weird."
+            ],
+            [
+                107,
+                "Sheldon told me he had a new assistant named Alex. He didn\u2019t mention that Alex was a girl."
+            ],
+            [
+                109,
+                "You\u2019re right. I don\u2019t have to worry about Sheldon."
+            ],
+            [
+                111,
+                "It\u2019s her I have to worry about."
+            ],
+            [
+                113,
+                "Oh, really? Look at this face (Sheldon\u2019s picture on phone) How can any woman spend eight hours a day alone with this face and not fall in love with it?"
+            ],
+            [
+                117,
+                "I\u2019m not suspicious. I just want to stop in, say hi to my boyfriend and meet his new assistant. (Throwing open Sheldon\u2019s office door) Aha!"
+            ],
+            [
+                119,
+                "Hang on. (Rubs Sheldon\u2019s telephone receiver under her armpit)"
+            ],
+            [
+                121,
+                "Isn\u2019t it obvious? I\u2019m spreading my scent to mark my territory."
+            ],
+            [
+                123,
+                "Really? Because just before you became my best friend, I did this all over your apartment."
+            ],
+            [
+                173,
+                "Look at you, putting on a brave face."
+            ],
+            [
+                175,
+                "Really? I don\u2019t know how much you know about primate behaviour, but Sheldon\u2019s assistant was clearly courting Leonard. Were she a mandrill, she would have bent over and displayed her brightly coloured hindquarters like a big red welcome mat. By the way, you try that at the junior prom, you get kicked out."
+            ],
+            [
+                177,
+                "So says your prefrontal cortex. But meanwhile, the limbic system of your brain is calculating that if another woman is attracted to Leonard, it must be because he\u2019s desirable."
+            ],
+            [
+                179,
+                "So it does bother you."
+            ],
+            [
+                181,
+                "And there you have it, prefrontal cortex reasoning versus limbic lust. If this were a boxing match, they might call it the thrilla adjacent to the amygdala. If you were a brain scientist, you would be busting a gut right now."
+            ]
+        ],
+        "Amy (to Penny, on other side of room)": [
+            [
+                161,
+                "You were right. I had nothing to worry about. That skank\u2019s your problem, not mine."
+            ]
+        ],
+        "Sheldon (choking)": [
+            [
+                164,
+                "Cherry stem! Cherry stem!"
+            ]
+        ],
+        "Sheldon (arriving with Alex)": [
+            [
+                191,
+                "Oh, good, Leonard, you\u2019re here. Science news. This will interest you. And, Penny, feel free to paint your nails."
+            ]
+        ],
+        "Leonard: Magnets": [
+            [
+                194,
+                "What Do They Stick To? If the answer is metal, it\u2019s not exactly groundbreaking."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Webcam conversation between Bernadette\u2019s Office and the International Space Station"
+        ],
+        [
+            "Howard",
+            "Hey, Bernie."
+        ],
+        [
+            "Bernadette",
+            "Hey, how\u2019s my little astronautie hottie?"
+        ],
+        [
+            "Howard",
+            "Okay, I guess. It\u2019s just, being cooped up in this tin can for weeks on end is starting to get to me."
+        ],
+        [
+            "Bernadette",
+            "Well, hang in there. You just have a couple more days to go, and then you\u2019ll be home."
+        ],
+        [
+            "Howard",
+            "I know."
+        ],
+        [
+            "Bernadette",
+            "I got to get back to work. I love you."
+        ],
+        [
+            "Howard",
+            "Love you too. Hey, Bernie? Before you go, can you do something for me?"
+        ],
+        [
+            "Bernadette",
+            "What do you want me to do?"
+        ],
+        [
+            "Howard",
+            "Okay, here it is. I really miss gravity. Can you drop something so I can watch it fall?"
+        ],
+        [
+            "Bernadette",
+            "Really, you\u2019re serious? Okay. (Drops a pencil)"
+        ],
+        [
+            "Howard",
+            "Oh, baby, you\u2019re killing me."
+        ],
+        [
+            "Scene",
+            "The apartment. Penny enters, carrying a box."
+        ],
+        [
+            "Penny",
+            "Ugh. Hey, Sheldon? Hi. This came for you today. It\u2019s from your mom."
+        ],
+        [
+            "Sheldon",
+            "Oh, thank you, Penny."
+        ],
+        [
+            "Penny",
+            "M-hmm."
+        ],
+        [
+            "Sheldon",
+            "Yeah, wait, here. For your troubles."
+        ],
+        [
+            "Penny",
+            "Oh, boy, a whole dollar. Now, I can quit my paper route. So, what\u2019s in it?"
+        ],
+        [
+            "Leonard",
+            "Mmm, doesn\u2019t matter. Half the time, he just ends up playing with the box."
+        ],
+        [
+            "Sheldon",
+            "Yeah, it\u2019s journals and research papers I wrote as a child."
+        ],
+        [
+            "Penny",
+            "Aw, how cute. Is this like a diary?"
+        ],
+        [
+            "Sheldon",
+            "No, that\u2019s my potty training journal."
+        ],
+        [
+            "Penny",
+            "Really, your potty training journal?"
+        ],
+        [
+            "Sheldon",
+            "Yeah. And forgive my crude penmanship. I didn\u2019t start typing until I was six."
+        ],
+        [
+            "Penny: August 7, 8",
+            "42 a.m. This is humiliating. What was wrong with diapers?"
+        ],
+        [
+            "Sheldon",
+            "There are some charts in the back where I kept track of shape, colour and consistency."
+        ],
+        [
+            "Penny",
+            "Oh, disgusting."
+        ],
+        [
+            "Leonard",
+            "No, what\u2019s disgusting is he\u2019s still keeping track."
+        ],
+        [
+            "Penny",
+            "Why do you need all this stuff?"
+        ],
+        [
+            "Leonard",
+            "No, no, no, no."
+        ],
+        [
+            "Penny",
+            "Sorry!"
+        ],
+        [
+            "Sheldon",
+            "I am glad you asked. Are you familiar with the Higgs boson?"
+        ],
+        [
+            "Penny",
+            "Of course, it is, it\u2019s been in the news. And it\u2019s a very famous boson."
+        ],
+        [
+            "Sheldon",
+            "Nice try. Now, in 1964, Dr. Peter Higgs, accomplished self-promoter and physicist, he wrote a paper postulating the existence of a subatomic particle called the Higgs boson. Now, initially the paper was rejected, but recently, he was proven right, and now he\u2019s on the fast track to win a Nobel prize."
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s basically what I said."
+        ],
+        [
+            "Sheldon",
+            "Yeah, the point is Higgs is being celebrated for work he did 50 years ago, so that got me thinking, perhaps I\u2019ve already hit upon the idea that will win me my Nobel prize."
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t know they gave Nobel prizes for making boom-boom in the potty."
+        ],
+        [
+            "Penny",
+            "You really think there\u2019s some kind of scientific discovery in here?"
+        ],
+        [
+            "Sheldon",
+            "Well, this box only covers my work through nursery school. There\u2019s a good deal more to come. I didn\u2019t really hit my academic stride until I cut out that time-suck known as playing outdoors."
+        ],
+        [
+            "Leonard",
+            "So, you\u2019re going to spend hours and hours combing through all this stuff?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a good point. My time is much too valuable. You know, perhaps I should find someone to do it for me. You know, someone with a rudimentary understanding of science, but whose real talents lie in menial labour."
+        ],
+        [
+            "Leonard",
+            "Not gonna happen."
+        ],
+        [
+            "Sheldon",
+            "Well, if I didn\u2019t think you could handle it, I wouldn\u2019t be asking."
+        ],
+        [
+            "Leonard",
+            "If you want help, just hire a grad student."
+        ],
+        [
+            "Penny",
+            "Maybe I could do it."
+        ],
+        [
+            "Sheldon",
+            "You, really? You can assess the quality of my work? Okay, um, here. I wrote this when I was five years old."
+        ],
+        [
+            "Penny",
+            "A proof that algebraic topology can never have a non self-contradictory set of abelion groups. I\u2019m just a blonde monkey to you, aren\u2019t I?"
+        ],
+        [
+            "Sheldon",
+            "You said it, not me."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Sheldon",
+            "All right, Ms. Jenson. Uh, before we begin, may I offer you a refreshment? Water, coffee, tea, a marijuana cigarette?"
+        ],
+        [
+            "Ms Jenson",
+            "No, thanks. I\u2019m fine."
+        ],
+        [
+            "Sheldon",
+            "Now, are you sure? Everyone\u2019s smoking them. I think they\u2019re the best."
+        ],
+        [
+            "Ms Jenson",
+            "I don\u2019t do drugs."
+        ],
+        [
+            "Sheldon",
+            "Excellent, yeah. That was a ruse. They\u2019re not the best. Physics is the best. And by the way, coffee was also an unacceptable choice. All right, so I see here you\u2019re from Des Moines, Iowa. Uh, you\u2019re summa cum laude in theoretical physics from Stanford University. Oh, and two years ago, you had a persistent ear infection. I hope that didn\u2019t cause any hearing loss."
+        ],
+        [
+            "Ms Jenson",
+            "No, of course not. How did you know about that?"
+        ],
+        [
+            "Sheldon",
+            "I did a comprehensive background check. Medical records, credit reports, criminal history. (Hiding mouth behind book)  I trust you paid off those parking tickets."
+        ],
+        [
+            "Ms Jenson",
+            "Yes, I did."
+        ],
+        [
+            "Sheldon",
+            "Hearing unimpaired, good."
+        ],
+        [
+            "Ms Jenson",
+            "Look, Dr. Cooper, I really want this position. It would be an incredible honour to work for a man of your brilliance."
+        ],
+        [
+            "Sheldon",
+            "Flattery will not get you this job, Ms. Jenson."
+        ],
+        [
+            "Ms Jenson",
+            "It\u2019s not flattery if it\u2019s the truth."
+        ],
+        [
+            "Sheldon",
+            "Oh, well, thank you. Welcome aboard."
+        ],
+        [
+            "Scene",
+            "A University corridor."
+        ],
+        [
+            "Leonard",
+            "You talk to Howard lately?"
+        ],
+        [
+            "Raj",
+            "Uh, yeah, last night. He kept making me drop pencils for him. I got uncomfortable. (Entering Sheldon\u2019s office)  Hey, Sheldon, hope you\u2019re hungry, they\u2019re serving macaroni and\u2026 (spots Ms Jenson)  che-ee-ee-ese."
+        ],
+        [
+            "Leonard",
+            "Smooth. Hi."
+        ],
+        [
+            "Ms Jenson",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "Sheldon, aren\u2019t you going to introduce us?"
+        ],
+        [
+            "Sheldon",
+            "No. I have people for that now. You\u2019re up."
+        ],
+        [
+            "Ms Jenson",
+            "I\u2019m Alex, Dr. Cooper\u2019s new assistant."
+        ],
+        [
+            "Leonard",
+            "Ah, congratulations and may God have mercy on your soul. I\u2019m Leonard. This is Raj."
+        ],
+        [
+            "Alex",
+            "It\u2019s nice to meet you. I\u2019m so excited to be working with Dr\u2026"
+        ],
+        [
+            "Sheldon",
+            "Yeah, please reserve chitchat for your breaks, Ms. Jenson. FYI, there will be no breaks."
+        ],
+        [
+            "Alex",
+            "I should probably get to work."
+        ],
+        [
+            "Leonard",
+            "She seems nice."
+        ],
+        [
+            "Raj",
+            "Hey, you already got a girlfriend. I call dibs."
+        ],
+        [
+            "Leonard",
+            "All I said was she seems nice."
+        ],
+        [
+            "Raj",
+            "Yeah, well, I love her."
+        ],
+        [
+            "Scene",
+            "Webcam conversation between Bernadette\u2019s Office and the International Space Station"
+        ],
+        [
+            "Bernadette",
+            "Hey, I wasn\u2019t expecting to hear from you today. Everything okay?"
+        ],
+        [
+            "Howard",
+            "Uh, no, not really."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s wrong?"
+        ],
+        [
+            "Howard",
+            "Well, remember the Soyuz capsule they were sending to bring us home?"
+        ],
+        [
+            "Bernadette",
+            "Uh-huh."
+        ],
+        [
+            "Howard",
+            "It\u2019s delayed. We\u2019re gonna be here at least another week. Maybe ten days. It\u2019s the Russians, so you don\u2019t know. They left dogs up here in the sixties."
+        ],
+        [
+            "Bernadette",
+            "Come on, Howard. No one\u2019s leaving you up there."
+        ],
+        [
+            "Howard",
+            "I don\u2019t know how much longer I can take this. I can\u2019t sleep, and zero gravity is giving me crazy acid reflux. I\u2019m down to my last three Tums."
+        ],
+        [
+            "Bernadette",
+            "You\u2019re going to be fine. You survived that Weight Watchers cruise with your mom. And they ran out of low-fat ice cream on day two. Just calm down and take a few deep breaths."
+        ],
+        [
+            "Howard",
+            "Okay, okay. What am I doing? I\u2019m using up all the oxygen. If I die, promise you\u2019ll never have sex with another man."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. Amy is applying very red lip gloss."
+        ],
+        [
+            "Amy",
+            "Oh, yeah. I\u2019m a man-eater now."
+        ],
+        [
+            "Penny",
+            "Okay, for the final touch, this is an eyelash curler. You just place it on your lashes and squeeze it closed."
+        ],
+        [
+            "Amy",
+            "Oh, I don\u2019t know. Looks like something used by Tinkerbell\u2019s gynecologist."
+        ],
+        [
+            "Penny",
+            "Who I hope for her sake is not Captain Hook, so\u2026 who are you calling?"
+        ],
+        [
+            "Amy",
+            "I\u2019m going to video-chat Sheldon. If my new look leads to phone sex, I\u2019m going to have to ask you to leave the room."
+        ],
+        [
+            "Alex",
+            "Dr. Cooper\u2019s office."
+        ],
+        [
+            "Amy",
+            "Oh, hello. Who are you?"
+        ],
+        [
+            "Alex",
+            "I\u2019m Alex, Dr. Cooper\u2019s assistant. Can I help you?"
+        ],
+        [
+            "Amy",
+            "I\u2019d like to speak to Sheldon."
+        ],
+        [
+            "Alex",
+            "I\u2019m sorry. He\u2019s asked me to hold all calls unless you\u2019re Stephen Hawking, his mother or himself from the future."
+        ],
+        [
+            "Amy",
+            "All right. Well, tell him Amy called."
+        ],
+        [
+            "Alex",
+            "Last name?"
+        ],
+        [
+            "Amy",
+            "He knows my last name. I\u2019m his girlfriend. We have a contract and everything. I\u2019ll send you a PDF."
+        ],
+        [
+            "Alex",
+            "All right, I will tell him you called."
+        ],
+        [
+            "Amy",
+            "Hmm, that\u2019s weird."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Amy",
+            "Sheldon told me he had a new assistant named Alex. He didn\u2019t mention that Alex was a girl."
+        ],
+        [
+            "Penny",
+            "Maybe he didn\u2019t notice."
+        ],
+        [
+            "Amy",
+            "You\u2019re right. I don\u2019t have to worry about Sheldon."
+        ],
+        [
+            "Penny",
+            "No, you do not."
+        ],
+        [
+            "Amy",
+            "It\u2019s her I have to worry about."
+        ],
+        [
+            "Penny",
+            "Oh, Amy, really? She is not going to come on to Sheldon."
+        ],
+        [
+            "Amy",
+            "Oh, really? Look at this face (Sheldon\u2019s picture on phone) How can any woman spend eight hours a day alone with this face and not fall in love with it?"
+        ],
+        [
+            "Penny",
+            "Well, for starters, at some point, that face starts talking."
+        ],
+        [
+            "Scene",
+            "University corridor."
+        ],
+        [
+            "Penny",
+            "Amy, this is crazy. You have nothing to be suspicious about."
+        ],
+        [
+            "Amy",
+            "I\u2019m not suspicious. I just want to stop in, say hi to my boyfriend and meet his new assistant. (Throwing open Sheldon\u2019s office door) Aha!"
+        ],
+        [
+            "Penny",
+            "Can we go now?"
+        ],
+        [
+            "Amy",
+            "Hang on. (Rubs Sheldon\u2019s telephone receiver under her armpit)"
+        ],
+        [
+            "Penny",
+            "What are you doing?"
+        ],
+        [
+            "Amy",
+            "Isn\u2019t it obvious? I\u2019m spreading my scent to mark my territory."
+        ],
+        [
+            "Penny",
+            "Come on, Amy. That is not gonna work."
+        ],
+        [
+            "Amy",
+            "Really? Because just before you became my best friend, I did this all over your apartment."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Raj",
+            "Has your, uh, assistant said anything about me?"
+        ],
+        [
+            "Sheldon",
+            "Oh, in fact, she has. Uh, her exact words were, what is that guy\u2019s problem?"
+        ],
+        [
+            "Raj",
+            "I\u2019m in her head. Let the dance begin."
+        ],
+        [
+            "Alex",
+            "Here\u2019s your frozen yoghurt, Dr. Cooper."
+        ],
+        [
+            "Leonard",
+            "This should be fun."
+        ],
+        [
+            "Sheldon",
+            "Half chocolate, half vanilla, side by side, not swirled?"
+        ],
+        [
+            "Alex",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Half a teaspoon of sprinkles?"
+        ],
+        [
+            "Alex",
+            "Rainbow, not chocolate."
+        ],
+        [
+            "Sheldon",
+            "Two cherries?"
+        ],
+        [
+            "Alex",
+            "One on top, one on the bottom."
+        ],
+        [
+            "Sheldon",
+            "Stems removed?"
+        ],
+        [
+            "Alex",
+            "Um, top one, yes. I didn\u2019t check the one on the bottom."
+        ],
+        [
+            "Leonard",
+            "Oh!"
+        ],
+        [
+            "Alex",
+            "I\u2019m so sorry, Dr. Cooper."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s all right, Alex. I\u2019m not mad at you, I\u2019m just disappointed."
+        ],
+        [
+            "Leonard",
+            "Wait, Alex. Do you want to join us?"
+        ],
+        [
+            "Alex",
+            "Um\u2026"
+        ],
+        [
+            "Sheldon",
+            "Uh, Alex, a moment. I need a word with Dr. Hofstadter. Do you think it\u2019s appropriate for her to sit with us, given her station?"
+        ],
+        [
+            "Leonard",
+            "Given her what?"
+        ],
+        [
+            "Sheldon",
+            "If I\u2019ve learned anything from British television shows on PBS, it\u2019s that servants dine downstairs with their own kind."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a kindness, Leonard. Otherwise, you\u2019re cruelly tempting them with a glimpse of a world that\u2019s just beyond their soot-stained fingertips."
+        ],
+        [
+            "Leonard",
+            "Oh, sure. Please join us."
+        ],
+        [
+            "Alex",
+            "Oh, okay. Thank you."
+        ],
+        [
+            "Leonard",
+            "So, Alex, what\u2019s the topic of your dissertation?"
+        ],
+        [
+            "Alex",
+            "I\u2019m looking for Trojan asteroids at Earth\u2019s L-Five Lagrange point."
+        ],
+        [
+            "Leonard",
+            "Oh, that happens to be Dr. Koothrappali\u2019s field of expertise. You two have a lot to talk about."
+        ],
+        [
+            "Alex",
+            "Is that true? Is he all right?"
+        ],
+        [
+            "Leonard",
+            "No. But compared to your boss, he\u2019s the poster boy for sanity."
+        ],
+        [
+            "Alex",
+            "It\u2019s okay, I\u2019ve been around scientists all my life. My dad\u2019s an astronomer at SETI."
+        ],
+        [
+            "Leonard",
+            "Oh, SETI, the Search for Extraterrestrial Intelligence. You should introduce him to Sheldon. The search is over."
+        ],
+        [
+            "Alex",
+            "So, what kind of research are you doing?"
+        ],
+        [
+            "Leonard",
+            "High-energy lasers."
+        ],
+        [
+            "Alex",
+            "Ooh. Military?"
+        ],
+        [
+            "Leonard",
+            "Not yet, but I can remove unwanted hair from two miles away."
+        ],
+        [
+            "Amy (to Penny, on other side of room)",
+            "You were right. I had nothing to worry about. That skank\u2019s your problem, not mine."
+        ],
+        [
+            "Alex",
+            "You\u2019re very funny, Dr. Hofstadter."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Sheldon (choking)",
+            "Cherry stem! Cherry stem!"
+        ],
+        [
+            "Scene",
+            "Webcam conversation between Bernadette\u2019s Office and the International Space Station"
+        ],
+        [
+            "Bernadette",
+            "How you doing, Howie? You feeling a little better?"
+        ],
+        [
+            "Howard",
+            "Oh, a lot better, thanks. One sec. Listen close, I don\u2019t have a lot of time. I need you to go to my house. In my bedroom, you\u2019ll find a model rocket. I want you to take it and bring it back to your place."
+        ],
+        [
+            "Bernadette",
+            "Okay."
+        ],
+        [
+            "Howard",
+            "Step two, build a version roughly fourteen stories high. Fill it full of rocket fuel and come get me. I\u2019ll leave the door unlocked."
+        ],
+        [
+            "Bernadette",
+            "Howie, honey, maybe you should talk to someone, let them know you\u2019re having a little anxiety."
+        ],
+        [
+            "Howard",
+            "No, no, I\u2019m fine. No anxiety. We should probably talk in code. From now on, frog is me, sandwich means you and lemon means rocket. So, come on, sandwich, build me a lemon \u2019cause froggy wants to come home."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car."
+        ],
+        [
+            "Amy",
+            "Look at you, putting on a brave face."
+        ],
+        [
+            "Penny",
+            "There\u2019s nothing to be brave about. Everything\u2019s fine."
+        ],
+        [
+            "Amy",
+            "Really? I don\u2019t know how much you know about primate behaviour, but Sheldon\u2019s assistant was clearly courting Leonard. Were she a mandrill, she would have bent over and displayed her brightly coloured hindquarters like a big red welcome mat. By the way, you try that at the junior prom, you get kicked out."
+        ],
+        [
+            "Penny",
+            "Okay, maybe she was flirting with him, but who cares? Look, I don\u2019t even know where my relationship is with Leonard is right now."
+        ],
+        [
+            "Amy",
+            "So says your prefrontal cortex. But meanwhile, the limbic system of your brain is calculating that if another woman is attracted to Leonard, it must be because he\u2019s desirable."
+        ],
+        [
+            "Penny",
+            "Well, of course he\u2019s desirable. I mean, he\u2019s great. He\u2019s smart, he\u2019s sweet, and, ooh, in the bedroom, whew, let me tell you, he really tries."
+        ],
+        [
+            "Amy",
+            "So it does bother you."
+        ],
+        [
+            "Penny",
+            "Fine, it bothers me a little. No. You know what? This is stupid. It doesn\u2019t bother me. Okay, it bothers me. But only because she wouldn\u2019t stop laughing. Leonard is not that funny."
+        ],
+        [
+            "Amy",
+            "And there you have it, prefrontal cortex reasoning versus limbic lust. If this were a boxing match, they might call it the thrilla adjacent to the amygdala. If you were a brain scientist, you would be busting a gut right now."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "So, how was work today?"
+        ],
+        [
+            "Leonard",
+            "Ah, it was all right, I guess. Got to Heimlich a cherry stem out of Sheldon. Caught Raj right in the eye."
+        ],
+        [
+            "Penny",
+            "Oh! You\u2019re kidding."
+        ],
+        [
+            "Leonard",
+            "No, Raj had to go to the nurse."
+        ],
+        [
+            "Penny",
+            "Wow. Anything else?"
+        ],
+        [
+            "Leonard",
+            "Mmm, the nurse is a woman, so he couldn\u2019t talk to her. She had to bring him a Grover puppet so he could point at what hurt."
+        ],
+        [
+            "Penny",
+            "Oh, is that it?"
+        ],
+        [
+            "Leonard",
+            "Isn\u2019t that enough? It had the weaponised fruit and a puppet. What more do you want?"
+        ],
+        [
+            "Sheldon (arriving with Alex)",
+            "Oh, good, Leonard, you\u2019re here. Science news. This will interest you. And, Penny, feel free to paint your nails."
+        ],
+        [
+            "Leonard",
+            "What do you got?"
+        ],
+        [
+            "Sheldon",
+            "I believe Alex may have unearthed the grade school science project that could be my ticket to the Nobel Prize. Behold."
+        ],
+        [
+            "Leonard: Magnets",
+            "What Do They Stick To? If the answer is metal, it\u2019s not exactly groundbreaking."
+        ],
+        [
+            "Sheldon",
+            "The original title was \u201cA Rederivation of Maxwell\u2019s Equations Regarding Electromagnetism\u201d\u201d I dumbed it down because some of the more religious people in town were starting to say I was a witch."
+        ],
+        [
+            "Alex",
+            "Sheldon thinks the approach in this paper might change the way we calculate ferromagnetic hysteresis."
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s about time. I hated the old way. Hi. I\u2019m Penny."
+        ],
+        [
+            "Alex",
+            "Alex. Uh, do you work with Dr. Hofstadter?"
+        ],
+        [
+            "Penny",
+            "In a way. We\u2019ve kind of been involved in a five-year experiment."
+        ],
+        [
+            "Alex",
+            "Oh. Well, you\u2019re lucky. He seems very talented. And I\u2019m sure a lot of people want to work with him."
+        ],
+        [
+            "Penny",
+            "Well, a lot of people can\u2019t. Uh, hey."
+        ],
+        [
+            "Leonard",
+            "Where are we going?"
+        ],
+        [
+            "Penny",
+            "My limbic system wants to take your pants off."
+        ],
+        [
+            "Alex",
+            "She seems nice."
+        ],
+        [
+            "Sheldon",
+            "Notice people on your own time. We\u2019re working."
+        ],
+        [
+            "Scene",
+            "Webcam conversation between Bernadette\u2019s Office and the International Space Station"
+        ],
+        [
+            "Bernadette",
+            "Hey, Howie, how you feeling?"
+        ],
+        [
+            "Howard",
+            "Better. Much better. The other astronauts held me down, gave me a shot. Oooh. Attention, people of Earth. Tonight, there will be two moons in the sky."
+        ],
+        [
+            "Bernadette",
+            "Howie, stop that. NASA\u2019s watching this! Put your pants back on!"
+        ],
+        [
+            "Howard",
+            "Whee! Whee!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-03-the-higgs-boson-observation/"
+}

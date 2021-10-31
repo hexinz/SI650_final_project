@@ -1,0 +1,1758 @@
+{
+    "Season": 10,
+    "Episode": 13,
+    "Title": "the romance recalibration",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "After a previously on sequence."
+            ],
+            [
+                1,
+                "The apartment. "
+            ],
+            [
+                17,
+                "Out of daydream sequence."
+            ],
+            [
+                19,
+                "Credits sequence."
+            ],
+            [
+                20,
+                "The stairwell."
+            ],
+            [
+                33,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                47,
+                "Howard and Bernadette\u2019s kitchen. "
+            ],
+            [
+                57,
+                "The apartment. "
+            ],
+            [
+                86,
+                "Howard and Bernadette\u2019s kitchen."
+            ],
+            [
+                98,
+                "The apartment."
+            ],
+            [
+                121,
+                "The apartment, later. "
+            ],
+            [
+                139,
+                "Howard and Bernadette\u2019s nursery."
+            ],
+            [
+                150,
+                "Leonards car."
+            ],
+            [
+                157,
+                "The spa. "
+            ],
+            [
+                178,
+                "Howard and Bernadette\u2019s nursery."
+            ],
+            [
+                180,
+                "once you get the hang of it. Step. Step. Hop onto Ottoman."
+            ],
+            [
+                186,
+                "The spa."
+            ],
+            [
+                204,
+                "The apartment. "
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "What, what\u2019s all this?"
+            ],
+            [
+                4,
+                "Oh, that is so thoughtful."
+            ],
+            [
+                6,
+                "Yeah, i remember us driving up there, going to the winery and, that\u2019s it."
+            ],
+            [
+                8,
+                "Oh. Hey, what smells so good?"
+            ],
+            [
+                10,
+                "Pink wine and pizza bagels? It\u2019s like eighth grade all over again. I am so lucky to have you."
+            ],
+            [
+                12,
+                "Oh, you always know what not to say. I just, i can\u2019t believe you did all this."
+            ],
+            [
+                14,
+                "You did not just quote an Nsync song."
+            ],
+            [
+                16,
+                "Oh. "
+            ],
+            [
+                35,
+                "I hadn\u2019t really thought about it."
+            ],
+            [
+                40,
+                "Hey, can I ask you a question? You\u2019ve been married for a while, is it normal for the husband to kind of completely stop giving a crap?"
+            ],
+            [
+                42,
+                "Well, Leonard used to do all these things, like bring me flowers and wear pants."
+            ],
+            [
+                45,
+                "Well, it\u2019s not just the pants, it\u2019s just, it\u2019s like since we got married he doesn\u2019t really try any more. "
+            ],
+            [
+                60,
+                "Hey."
+            ],
+            [
+                63,
+                "Oh, it was fine."
+            ],
+            [
+                65,
+                "Uh, chips."
+            ],
+            [
+                67,
+                "Some wine."
+            ],
+            [
+                70,
+                "Hm. At least he took an interest. "
+            ],
+            [
+                72,
+                "Nothing."
+            ],
+            [
+                74,
+                "I don\u2019t want to talk about it."
+            ],
+            [
+                76,
+                "Fine. Lately I kind of feel like you\u2019ve been taking me for granted."
+            ],
+            [
+                79,
+                "It\u2019s just, since we got married you seem to think you don\u2019t have to try any more."
+            ],
+            [
+                81,
+                "This is exactly why I didn\u2019t want to talk about it."
+            ],
+            [
+                83,
+                "Okay, you know what? Maybe I\u2019ll take Amy with me to the spa this weekend instead."
+            ],
+            [
+                99,
+                "All right, we\u2019re heading out."
+            ],
+            [
+                105,
+                "Thanks. Are you ready?"
+            ],
+            [
+                112,
+                "Let\u2019s go."
+            ],
+            [
+                158,
+                "When was the last time you got a massage?"
+            ],
+            [
+                160,
+                "Leonard stood on me once, too, but he was just trying to see the Rose Parade."
+            ],
+            [
+                162,
+                "Well, yeah."
+            ],
+            [
+                165,
+                "What are you doing here?"
+            ],
+            [
+                167,
+                "Okay. Leonard, I really appreciate that, but I need a little time to myself."
+            ],
+            [
+                172,
+                "All right. Can you please just go and we\u2019ll talk about this tomorrow?"
+            ],
+            [
+                174,
+                "I\u2019m trying to figure it out."
+            ],
+            [
+                193,
+                "Hey."
+            ],
+            [
+                195,
+                "We\u2019re not getting divorced."
+            ],
+            [
+                197,
+                "Yeah. And there are a few things we need to stay on top of. So we thought it would useful, and I can\u2019t believe I\u2019m about to say this, um."
+            ],
+            [
+                199,
+                "Although a rule about him texting me from in there might help with the romance. "
+            ],
+            [
+                206,
+                "Article 8, subsection B, Leonard will restrict videogaming in underpants to hours Penny is not home. This includes boxers, briefs, thongs, G-strings or anything else that calls attention to his pasty little thighs."
+            ],
+            [
+                210,
+                "I think this all looks good."
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "Well, it sounded like you were having a rough day, so i wanted you to come home to something nice."
+            ],
+            [
+                5,
+                "Hey, do you remember when we went wine tasting in Santa Barbara and you said that was you\u2019d ever had?"
+            ],
+            [
+                7,
+                "and this wine is why."
+            ],
+            [
+                9,
+                "I made your favourite. Pizza bagels."
+            ],
+            [
+                11,
+                "Well, now be careful, these are hot. i could explain the thermodynamics of why the cheese seems hotter than the crust, but instead I\u2019m gonna keep it to myself."
+            ],
+            [
+                13,
+                "Well, you know, It\u2019s easy to take each other for granted and I never want to do that to you, because your love, it\u2019s like a river. It\u2019s peaceful and deep. Your soul is, it\u2019s like a secret that I could never keep."
+            ],
+            [
+                15,
+                "I quoted your favourite Nsync song."
+            ],
+            [
+                18,
+                "Damn. I burped so hard, i died in my game."
+            ],
+            [
+                22,
+                "Why?"
+            ],
+            [
+                24,
+                "That\u2019s nice. I wear a size eight and a half."
+            ],
+            [
+                26,
+                "Are you gonna laugh at the answer?"
+            ],
+            [
+                28,
+                "If you must know, Penny won a spa weekend from work, and she\u2019s taking me."
+            ],
+            [
+                30,
+                "So, hang out with me and we\u2019ll have boys\u2019 night."
+            ],
+            [
+                32,
+                "Because we just spent our allowance on comic books."
+            ],
+            [
+                59,
+                "Oh, no. Good game."
+            ],
+            [
+                61,
+                "Hey."
+            ],
+            [
+                69,
+                "Just ignore him."
+            ],
+            [
+                71,
+                "What\u2019s that supposed to mean?"
+            ],
+            [
+                73,
+                "Hey, what\u2019s going on with you?"
+            ],
+            [
+                75,
+                "Well, hey, come on, just tell me."
+            ],
+            [
+                77,
+                "What? Where is this coming from?"
+            ],
+            [
+                80,
+                "That is ridiculous. "
+            ],
+            [
+                82,
+                "No, no, no, no, let\u2019s talk about it. I\u2019m the one who\u2019s made all the effort in this relationship since day one. Please tell me what more I could do?"
+            ],
+            [
+                84,
+                "Fine, go ahead."
+            ],
+            [
+                100,
+                "Mm-hmm."
+            ],
+            [
+                104,
+                "Have fun."
+            ],
+            [
+                108,
+                "Go ahead, it\u2019s fine."
+            ],
+            [
+                111,
+                "Okay."
+            ],
+            [
+                120,
+                "Thank you."
+            ],
+            [
+                123,
+                "Thanks."
+            ],
+            [
+                125,
+                "Earl grey?"
+            ],
+            [
+                127,
+                "Honey?"
+            ],
+            [
+                129,
+                "Unsweetened almond\u2026"
+            ],
+            [
+                131,
+                "Sorry, thank you."
+            ],
+            [
+                133,
+                "I really don\u2019t know."
+            ],
+            [
+                135,
+                "I don\u2019t want to play a game, Sheldon."
+            ],
+            [
+                137,
+                "Its not that I\u2019d stopped trying, its just how relationships progress. They start with infatuation, but over time mellow into something more comfortable."
+            ],
+            [
+                152,
+                "Is it about the failing state of my relationship with Penny?"
+            ],
+            [
+                154,
+                "I don\u2019t want to wait two days for us to work this out."
+            ],
+            [
+                156,
+                "I would pull this car over and kick you out, but If Penny dumps me, you\u2019re all I got. "
+            ],
+            [
+                164,
+                "Hey."
+            ],
+            [
+                166,
+                "I came here to apologize."
+            ],
+            [
+                168,
+                "Okay. I don\u2019t get it, you said make an effort, here I am making an effort. "
+            ],
+            [
+                173,
+                "I don\u2019t understand what you want."
+            ],
+            [
+                192,
+                "Hey."
+            ],
+            [
+                196,
+                "Listen, we realized, that, uh, we\u2019re facing some new challenges as a married couple."
+            ],
+            [
+                198,
+                "Would you please help us make a relationship agreement? But one that\u2019s tailored to us, okay, we don\u2019t need a bathroom schedule. "
+            ],
+            [
+                200,
+                "What do you say?"
+            ],
+            [
+                207,
+                "Does it really need to say that?"
+            ],
+            [
+                209,
+                "Article 10, subsection C, if questioned Penny may not say that everything is fine if it isn\u2019t. Other unacceptable responses include, it\u2019s nothing, don\u2019t worry about it, and, I said it\u2019s nothing don\u2019t worry about it. "
+            ],
+            [
+                211,
+                "Me, too."
+            ]
+        ],
+        "Sheldon": [
+            [
+                21,
+                "Leonard, i\u2019ve been meaning to ask you, what size shoe do you wear? "
+            ],
+            [
+                23,
+                "I\u2019m trying to take more of an interest in other people\u2019s lives."
+            ],
+            [
+                25,
+                "That\u2019s small. So, tell me, do you have any plans for the weekend?"
+            ],
+            [
+                27,
+                "Only if the answer is shopping for baby shoes."
+            ],
+            [
+                29,
+                "Oh, well you know, that is interesting. I wonder what kind of infection you\u2019ll come home with. My money\u2019s on fungal. They\u2019re still having girls night across the hall."
+            ],
+            [
+                31,
+                "At our age, why don\u2019t we call it man\u2019s night?"
+            ],
+            [
+                58,
+                "If you do that, i\u2019ll win in eight moves. I\u2019ll win in five moves. I\u2019ll win in one move."
+            ],
+            [
+                62,
+                "Oh, Penny, I\u2019m trying to take an interest in other people. Uh, how was your girls\u2019 night?"
+            ],
+            [
+                64,
+                "Hmm. Did you have anything to eat?"
+            ],
+            [
+                66,
+                "Anything to drink?"
+            ],
+            [
+                68,
+                "Well, I\u2019m just playing tennis against the drapes here."
+            ],
+            [
+                78,
+                "Leonard, she might be drunk. All she had was chips."
+            ],
+            [
+                85,
+                "Amy is free. She had a harp lesson on Saturday but it got cancelled. Boy, when you take an interest in people, you really uncork a geyser of nonsense. "
+            ],
+            [
+                102,
+                "And if they have any of those tiny bottles of shampoo?"
+            ],
+            [
+                107,
+                "You know what? I feel uncomfortable engaging in a public display of affection while their relationship is strained."
+            ],
+            [
+                109,
+                "Bye."
+            ],
+            [
+                114,
+                "Bye."
+            ],
+            [
+                116,
+                "Yeah, I\u2019ll miss you too."
+            ],
+            [
+                118,
+                "Well, if x equals the amount that you\u2019ll miss me, then I\u2019ll miss you x plus one."
+            ],
+            [
+                122,
+                "Here. You\u2019re sad, so I made you tea."
+            ],
+            [
+                124,
+                "And it\u2019s just the way you like it."
+            ],
+            [
+                126,
+                "Yes."
+            ],
+            [
+                128,
+                "Yes."
+            ],
+            [
+                130,
+                "Good Lord, I made you tea, just drink it."
+            ],
+            [
+                132,
+                "Well, what can we do to cheer you up?"
+            ],
+            [
+                134,
+                "You want to play Jenga? Or, uh, Ticket to Ride? Hearthstone? What would you be the happiest losing at?"
+            ],
+            [
+                136,
+                "Wow, and I remember when you loved playing games with me. Maybe Penny isn\u2019t the only relationship you\u2019re phoning in."
+            ],
+            [
+                138,
+                "Hmm. Yeah, you\u2019re right. It\u2019s like when I first encountered the Pythagorean theorem. You know, I was blown away that the square of the hypotenuse was the sum of the squares of the opposite sides. But now I\u2019m just like, eh."
+            ],
+            [
+                151,
+                "Would you like to play a driving game I invented?"
+            ],
+            [
+                153,
+                "Never mind. You know, Penny went to this spa to be away from you. Are you sure you should be going there?"
+            ],
+            [
+                155,
+                "Very well. You got married spur of the moment, I don\u2019t see why your divorce should be any different."
+            ],
+            [
+                169,
+                "Hello, Amy. It\u2019s nice to see you."
+            ],
+            [
+                171,
+                "And that\u2019s how you make effort look effortless."
+            ],
+            [
+                175,
+                "You know what? If you\u2019d like, I could whip up a quick relationship agreement. Well, I\u2019m at a spa, I might as well do something relaxing. "
+            ],
+            [
+                177,
+                "Very well. Hey, later we\u2019ll check out the minibar, I\u2019ll show you how Godzilla gets drunk."
+            ],
+            [
+                187,
+                "There\u2019s a cucumber in my water."
+            ],
+            [
+                189,
+                "Do they know it\u2019s there? I mean, should I tell somebody? "
+            ],
+            [
+                191,
+                "Interesting. The world\u2019s most boring liquid and the world\u2019s most boring vegetable, but you put \u2019em together and bleugh. "
+            ],
+            [
+                194,
+                "Oh good, you\u2019re here. Are you still fighting? If you get divorced, do I get two Christmas\u2019s?"
+            ],
+            [
+                201,
+                "I get to write a contract? I say, let\u2019s get this party of the first part started."
+            ],
+            [
+                205,
+                "If you find this draft acceptable, then I believe your new relationship agreement is ready to be signed."
+            ],
+            [
+                208,
+                "I did this for free, let me get a little something."
+            ],
+            [
+                212,
+                "Oh well, great then, here, you sign here, date here, and Penny, if you could initial here to indicate that you\u2019re accepting Leonard in as is condition."
+            ],
+            [
+                214,
+                "Mm. You seem to be forgetting the no nostalgia clause."
+            ]
+        ],
+        "Amy": [
+            [
+                34,
+                "Penny, is it weird that we\u2019re having girls\u2019 night here, but you don\u2019t live here any more, so it\u2019s basically my girls\u2019 night?"
+            ],
+            [
+                36,
+                "But now you\u2019re thinking about it and it bothers you? I get that."
+            ],
+            [
+                38,
+                "Better than ever. He asks about my day, takes an interest in my life. He\u2019s like my boyfriend in college, except he\u2019s real, so people can see him."
+            ],
+            [
+                44,
+                "Well Sheldon always has his pants on. I don\u2019t think I could pick his knees out of a line-up."
+            ],
+            [
+                46,
+                "Uh, Penny, I don\u2019t know how to say this, but this is my first girls\u2019 night and you\u2019re kind of bumming everybody out. "
+            ],
+            [
+                101,
+                "I\u2019ll call you when we get to the hotel."
+            ],
+            [
+                103,
+                "I will bring them home so you can show me how Godzilla takes a shower. "
+            ],
+            [
+                106,
+                "Uh-huh. Bye, Sheldon."
+            ],
+            [
+                110,
+                "Bye."
+            ],
+            [
+                113,
+                "Bye."
+            ],
+            [
+                115,
+                "I\u2019ll miss you."
+            ],
+            [
+                117,
+                "I\u2019ll miss you more. "
+            ],
+            [
+                119,
+                "If you miss me x plus one, I\u2019ll miss you open paren x plus one, close paren to the second\u2026"
+            ],
+            [
+                159,
+                "Sheldon walked on my back two weeks ago, but that was just \u2019cause there was a spider on his pillow and he was trying to get away."
+            ],
+            [
+                161,
+                "I don\u2019t know the protocol, are you gonna be naked for your massage?"
+            ],
+            [
+                163,
+                "Hmm. Then this is probably too many clothes."
+            ],
+            [
+                170,
+                "Nice to see you, too."
+            ],
+            [
+                176,
+                "Sheldon, why don\u2019t we give them some privacy?"
+            ],
+            [
+                188,
+                "Uh-huh."
+            ],
+            [
+                190,
+                "It\u2019s there on purpose. It\u2019s refreshing."
+            ],
+            [
+                203,
+                "It\u2019s in our agreement. I have to laugh."
+            ],
+            [
+                213,
+                "I remember signing our first relationship agreement."
+            ],
+            [
+                215,
+                "Right, right. Got it."
+            ]
+        ],
+        "Bernadette": [
+            [
+                37,
+                "Things going well with you and Sheldon living together?"
+            ],
+            [
+                39,
+                "I\u2019ve been seeing him for years, I\u2019m still not convinced he\u2019s real."
+            ],
+            [
+                41,
+                "Uh oh, what\u2019s going on?"
+            ],
+            [
+                43,
+                "It\u2019s okay, Howie never has on pants. The Domino\u2019s guy brings the pizza like this now."
+            ],
+            [
+                95,
+                "I have one. What if you got a giant slingshot and flung yourself into the wall?"
+            ],
+            [
+                183,
+                "You actually expect me to do this while holding a baby in the dark. "
+            ]
+        ],
+        "Howard": [
+            [
+                48,
+                "All right, got Halley to sleep. "
+            ],
+            [
+                50,
+                "Yeah, got to get her hooked on TV or someday she\u2019ll want me to play outside. Boy, that floor is so squeaky. I\u2019m surprised I didn\u2019t wake her up walking out of the room."
+            ],
+            [
+                52,
+                "Well, i put the rug down. It didn\u2019t help."
+            ],
+            [
+                54,
+                "Did try nailing a couple of the boards down."
+            ],
+            [
+                56,
+                "Yeah, it left little holes in the floor, that\u2019s why I bought the rug. "
+            ],
+            [
+                88,
+                "That sounds expensive."
+            ],
+            [
+                90,
+                "MIT\u2019s motto is mind and hand, which just so happens was also my motto as a lonely teenager."
+            ],
+            [
+                92,
+                "No."
+            ],
+            [
+                94,
+                "No."
+            ],
+            [
+                96,
+                "Is that supposed to be funny?"
+            ],
+            [
+                140,
+                "Okay, this grid represents the room. All we need to do is plot out where each squeak is, and we can find a quiet path to the crib."
+            ],
+            [
+                142,
+                "Mm. Except the creature in the crib is a level-nine poop monster."
+            ],
+            [
+                144,
+                "Okay, space A3, here we go. It\u2019s squeaking. Mark it."
+            ],
+            [
+                146,
+                "Mm. I hope she has the same amount of sex in it I did. None. Next square."
+            ],
+            [
+                148,
+                "It\u2019s a tradition of my people. (Singing) If I were a rich man, ya ba dibba dibba dibba dibba dibba dibba dum."
+            ],
+            [
+                179,
+                "So, what we did was map out the entire room to identify every squeak. Watch. It\u2019s easy,"
+            ],
+            [
+                182,
+                "Then simply sit, spin, stand, stretch, maybe in looser pants, then step, grab, tiny pivot, pull, and you\u2019re there. Easy peasy, mac and\u2026 you get the idea."
+            ],
+            [
+                185,
+                "Bigger problems, I felt something pop. "
+            ]
+        ],
+        "Raj": [
+            [
+                49,
+                "Yeah, i heard you on the baby monitor. Didn\u2019t think you could think you could turn the theme from Walking Dead into a lullaby. "
+            ],
+            [
+                51,
+                "Have you tried anything to fix it?"
+            ],
+            [
+                53,
+                "I know. Blue shag, what were you thinking?"
+            ],
+            [
+                55,
+                "Did that do anything?"
+            ],
+            [
+                89,
+                "Hang on. No offence to her father, but he\u2019s not an MIT trained engineer. Thinking and building is what you do."
+            ],
+            [
+                91,
+                "Oh come on, we just need to be more creative. What if you didn\u2019t step on the floor at all? Like, what if you swung on a rope from the ceiling?"
+            ],
+            [
+                93,
+                "Okay, um, okay, what if you rig up a pulley system and move yourself across the room in a harness?"
+            ],
+            [
+                97,
+                "Hold on. Yeah, that\u2019s funny."
+            ],
+            [
+                141,
+                "It looks like a map from Dungeons and Dragons. "
+            ],
+            [
+                143,
+                "Okay, uh, you check for squeaks, and I will mark them down. "
+            ],
+            [
+                145,
+                "It\u2019s nice to think that you grew up in this room and now your daughter\u2019s going to as well."
+            ],
+            [
+                147,
+                "Why do you bounce with your hands in the air like that?"
+            ],
+            [
+                149,
+                "Material Girl needs ot be retired, that is your karaoke song. "
+            ],
+            [
+                181,
+                "Don\u2019t do that in socks, I almost broke my neck."
+            ],
+            [
+                184,
+                "Hold on, I don\u2019t think she was impressed."
+            ]
+        ],
+        "Bernadette (on phone)": [
+            [
+                87,
+                "Okay. Thanks, daddy. He said the only way to really fix an old floor like that is to tear it up and replace the whole thing."
+            ]
+        ],
+        "Penny (after Amy laughs)": [
+            [
+                202,
+                "Do you really think that\u2019s funny?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "After a previously on sequence."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "What, what\u2019s all this?"
+        ],
+        [
+            "Leonard",
+            "Well, it sounded like you were having a rough day, so i wanted you to come home to something nice."
+        ],
+        [
+            "Penny",
+            "Oh, that is so thoughtful."
+        ],
+        [
+            "Leonard",
+            "Hey, do you remember when we went wine tasting in Santa Barbara and you said that was you\u2019d ever had?"
+        ],
+        [
+            "Penny",
+            "Yeah, i remember us driving up there, going to the winery and, that\u2019s it."
+        ],
+        [
+            "Leonard",
+            "and this wine is why."
+        ],
+        [
+            "Penny",
+            "Oh. Hey, what smells so good?"
+        ],
+        [
+            "Leonard",
+            "I made your favourite. Pizza bagels."
+        ],
+        [
+            "Penny",
+            "Pink wine and pizza bagels? It\u2019s like eighth grade all over again. I am so lucky to have you."
+        ],
+        [
+            "Leonard",
+            "Well, now be careful, these are hot. i could explain the thermodynamics of why the cheese seems hotter than the crust, but instead I\u2019m gonna keep it to myself."
+        ],
+        [
+            "Penny",
+            "Oh, you always know what not to say. I just, i can\u2019t believe you did all this."
+        ],
+        [
+            "Leonard",
+            "Well, you know, It\u2019s easy to take each other for granted and I never want to do that to you, because your love, it\u2019s like a river. It\u2019s peaceful and deep. Your soul is, it\u2019s like a secret that I could never keep."
+        ],
+        [
+            "Penny",
+            "You did not just quote an Nsync song."
+        ],
+        [
+            "Leonard",
+            "I quoted your favourite Nsync song."
+        ],
+        [
+            "Penny",
+            "Oh. "
+        ],
+        [
+            "Scene",
+            "Out of daydream sequence."
+        ],
+        [
+            "Leonard",
+            "Damn. I burped so hard, i died in my game."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Sheldon",
+            "Leonard, i\u2019ve been meaning to ask you, what size shoe do you wear? "
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m trying to take more of an interest in other people\u2019s lives."
+        ],
+        [
+            "Leonard",
+            "That\u2019s nice. I wear a size eight and a half."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s small. So, tell me, do you have any plans for the weekend?"
+        ],
+        [
+            "Leonard",
+            "Are you gonna laugh at the answer?"
+        ],
+        [
+            "Sheldon",
+            "Only if the answer is shopping for baby shoes."
+        ],
+        [
+            "Leonard",
+            "If you must know, Penny won a spa weekend from work, and she\u2019s taking me."
+        ],
+        [
+            "Sheldon",
+            "Oh, well you know, that is interesting. I wonder what kind of infection you\u2019ll come home with. My money\u2019s on fungal. They\u2019re still having girls night across the hall."
+        ],
+        [
+            "Leonard",
+            "So, hang out with me and we\u2019ll have boys\u2019 night."
+        ],
+        [
+            "Sheldon",
+            "At our age, why don\u2019t we call it man\u2019s night?"
+        ],
+        [
+            "Leonard",
+            "Because we just spent our allowance on comic books."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "Penny, is it weird that we\u2019re having girls\u2019 night here, but you don\u2019t live here any more, so it\u2019s basically my girls\u2019 night?"
+        ],
+        [
+            "Penny",
+            "I hadn\u2019t really thought about it."
+        ],
+        [
+            "Amy",
+            "But now you\u2019re thinking about it and it bothers you? I get that."
+        ],
+        [
+            "Bernadette",
+            "Things going well with you and Sheldon living together?"
+        ],
+        [
+            "Amy",
+            "Better than ever. He asks about my day, takes an interest in my life. He\u2019s like my boyfriend in college, except he\u2019s real, so people can see him."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ve been seeing him for years, I\u2019m still not convinced he\u2019s real."
+        ],
+        [
+            "Penny",
+            "Hey, can I ask you a question? You\u2019ve been married for a while, is it normal for the husband to kind of completely stop giving a crap?"
+        ],
+        [
+            "Bernadette",
+            "Uh oh, what\u2019s going on?"
+        ],
+        [
+            "Penny",
+            "Well, Leonard used to do all these things, like bring me flowers and wear pants."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s okay, Howie never has on pants. The Domino\u2019s guy brings the pizza like this now."
+        ],
+        [
+            "Amy",
+            "Well Sheldon always has his pants on. I don\u2019t think I could pick his knees out of a line-up."
+        ],
+        [
+            "Penny",
+            "Well, it\u2019s not just the pants, it\u2019s just, it\u2019s like since we got married he doesn\u2019t really try any more. "
+        ],
+        [
+            "Amy",
+            "Uh, Penny, I don\u2019t know how to say this, but this is my first girls\u2019 night and you\u2019re kind of bumming everybody out. "
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen. "
+        ],
+        [
+            "Howard",
+            "All right, got Halley to sleep. "
+        ],
+        [
+            "Raj",
+            "Yeah, i heard you on the baby monitor. Didn\u2019t think you could think you could turn the theme from Walking Dead into a lullaby. "
+        ],
+        [
+            "Howard",
+            "Yeah, got to get her hooked on TV or someday she\u2019ll want me to play outside. Boy, that floor is so squeaky. I\u2019m surprised I didn\u2019t wake her up walking out of the room."
+        ],
+        [
+            "Raj",
+            "Have you tried anything to fix it?"
+        ],
+        [
+            "Howard",
+            "Well, i put the rug down. It didn\u2019t help."
+        ],
+        [
+            "Raj",
+            "I know. Blue shag, what were you thinking?"
+        ],
+        [
+            "Howard",
+            "Did try nailing a couple of the boards down."
+        ],
+        [
+            "Raj",
+            "Did that do anything?"
+        ],
+        [
+            "Howard",
+            "Yeah, it left little holes in the floor, that\u2019s why I bought the rug. "
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "If you do that, i\u2019ll win in eight moves. I\u2019ll win in five moves. I\u2019ll win in one move."
+        ],
+        [
+            "Leonard",
+            "Oh, no. Good game."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Oh, Penny, I\u2019m trying to take an interest in other people. Uh, how was your girls\u2019 night?"
+        ],
+        [
+            "Penny",
+            "Oh, it was fine."
+        ],
+        [
+            "Sheldon",
+            "Hmm. Did you have anything to eat?"
+        ],
+        [
+            "Penny",
+            "Uh, chips."
+        ],
+        [
+            "Sheldon",
+            "Anything to drink?"
+        ],
+        [
+            "Penny",
+            "Some wine."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m just playing tennis against the drapes here."
+        ],
+        [
+            "Leonard",
+            "Just ignore him."
+        ],
+        [
+            "Penny",
+            "Hm. At least he took an interest. "
+        ],
+        [
+            "Leonard",
+            "What\u2019s that supposed to mean?"
+        ],
+        [
+            "Penny",
+            "Nothing."
+        ],
+        [
+            "Leonard",
+            "Hey, what\u2019s going on with you?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t want to talk about it."
+        ],
+        [
+            "Leonard",
+            "Well, hey, come on, just tell me."
+        ],
+        [
+            "Penny",
+            "Fine. Lately I kind of feel like you\u2019ve been taking me for granted."
+        ],
+        [
+            "Leonard",
+            "What? Where is this coming from?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, she might be drunk. All she had was chips."
+        ],
+        [
+            "Penny",
+            "It\u2019s just, since we got married you seem to think you don\u2019t have to try any more."
+        ],
+        [
+            "Leonard",
+            "That is ridiculous. "
+        ],
+        [
+            "Penny",
+            "This is exactly why I didn\u2019t want to talk about it."
+        ],
+        [
+            "Leonard",
+            "No, no, no, no, let\u2019s talk about it. I\u2019m the one who\u2019s made all the effort in this relationship since day one. Please tell me what more I could do?"
+        ],
+        [
+            "Penny",
+            "Okay, you know what? Maybe I\u2019ll take Amy with me to the spa this weekend instead."
+        ],
+        [
+            "Leonard",
+            "Fine, go ahead."
+        ],
+        [
+            "Sheldon",
+            "Amy is free. She had a harp lesson on Saturday but it got cancelled. Boy, when you take an interest in people, you really uncork a geyser of nonsense. "
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Bernadette (on phone)",
+            "Okay. Thanks, daddy. He said the only way to really fix an old floor like that is to tear it up and replace the whole thing."
+        ],
+        [
+            "Howard",
+            "That sounds expensive."
+        ],
+        [
+            "Raj",
+            "Hang on. No offence to her father, but he\u2019s not an MIT trained engineer. Thinking and building is what you do."
+        ],
+        [
+            "Howard",
+            "MIT\u2019s motto is mind and hand, which just so happens was also my motto as a lonely teenager."
+        ],
+        [
+            "Raj",
+            "Oh come on, we just need to be more creative. What if you didn\u2019t step on the floor at all? Like, what if you swung on a rope from the ceiling?"
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Raj",
+            "Okay, um, okay, what if you rig up a pulley system and move yourself across the room in a harness?"
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Bernadette",
+            "I have one. What if you got a giant slingshot and flung yourself into the wall?"
+        ],
+        [
+            "Howard",
+            "Is that supposed to be funny?"
+        ],
+        [
+            "Raj",
+            "Hold on. Yeah, that\u2019s funny."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "All right, we\u2019re heading out."
+        ],
+        [
+            "Leonard",
+            "Mm-hmm."
+        ],
+        [
+            "Amy",
+            "I\u2019ll call you when we get to the hotel."
+        ],
+        [
+            "Sheldon",
+            "And if they have any of those tiny bottles of shampoo?"
+        ],
+        [
+            "Amy",
+            "I will bring them home so you can show me how Godzilla takes a shower. "
+        ],
+        [
+            "Leonard",
+            "Have fun."
+        ],
+        [
+            "Penny",
+            "Thanks. Are you ready?"
+        ],
+        [
+            "Amy",
+            "Uh-huh. Bye, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "You know what? I feel uncomfortable engaging in a public display of affection while their relationship is strained."
+        ],
+        [
+            "Leonard",
+            "Go ahead, it\u2019s fine."
+        ],
+        [
+            "Sheldon",
+            "Bye."
+        ],
+        [
+            "Amy",
+            "Bye."
+        ],
+        [
+            "Leonard",
+            "Okay."
+        ],
+        [
+            "Penny",
+            "Let\u2019s go."
+        ],
+        [
+            "Amy",
+            "Bye."
+        ],
+        [
+            "Sheldon",
+            "Bye."
+        ],
+        [
+            "Amy",
+            "I\u2019ll miss you."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I\u2019ll miss you too."
+        ],
+        [
+            "Amy",
+            "I\u2019ll miss you more. "
+        ],
+        [
+            "Sheldon",
+            "Well, if x equals the amount that you\u2019ll miss me, then I\u2019ll miss you x plus one."
+        ],
+        [
+            "Amy",
+            "If you miss me x plus one, I\u2019ll miss you open paren x plus one, close paren to the second\u2026"
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Scene",
+            "The apartment, later. "
+        ],
+        [
+            "Sheldon",
+            "Here. You\u2019re sad, so I made you tea."
+        ],
+        [
+            "Leonard",
+            "Thanks."
+        ],
+        [
+            "Sheldon",
+            "And it\u2019s just the way you like it."
+        ],
+        [
+            "Leonard",
+            "Earl grey?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "Honey?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "Unsweetened almond\u2026"
+        ],
+        [
+            "Sheldon",
+            "Good Lord, I made you tea, just drink it."
+        ],
+        [
+            "Leonard",
+            "Sorry, thank you."
+        ],
+        [
+            "Sheldon",
+            "Well, what can we do to cheer you up?"
+        ],
+        [
+            "Leonard",
+            "I really don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "You want to play Jenga? Or, uh, Ticket to Ride? Hearthstone? What would you be the happiest losing at?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t want to play a game, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Wow, and I remember when you loved playing games with me. Maybe Penny isn\u2019t the only relationship you\u2019re phoning in."
+        ],
+        [
+            "Leonard",
+            "Its not that I\u2019d stopped trying, its just how relationships progress. They start with infatuation, but over time mellow into something more comfortable."
+        ],
+        [
+            "Sheldon",
+            "Hmm. Yeah, you\u2019re right. It\u2019s like when I first encountered the Pythagorean theorem. You know, I was blown away that the square of the hypotenuse was the sum of the squares of the opposite sides. But now I\u2019m just like, eh."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s nursery."
+        ],
+        [
+            "Howard",
+            "Okay, this grid represents the room. All we need to do is plot out where each squeak is, and we can find a quiet path to the crib."
+        ],
+        [
+            "Raj",
+            "It looks like a map from Dungeons and Dragons. "
+        ],
+        [
+            "Howard",
+            "Mm. Except the creature in the crib is a level-nine poop monster."
+        ],
+        [
+            "Raj",
+            "Okay, uh, you check for squeaks, and I will mark them down. "
+        ],
+        [
+            "Howard",
+            "Okay, space A3, here we go. It\u2019s squeaking. Mark it."
+        ],
+        [
+            "Raj",
+            "It\u2019s nice to think that you grew up in this room and now your daughter\u2019s going to as well."
+        ],
+        [
+            "Howard",
+            "Mm. I hope she has the same amount of sex in it I did. None. Next square."
+        ],
+        [
+            "Raj",
+            "Why do you bounce with your hands in the air like that?"
+        ],
+        [
+            "Howard",
+            "It\u2019s a tradition of my people. (Singing) If I were a rich man, ya ba dibba dibba dibba dibba dibba dibba dum."
+        ],
+        [
+            "Raj",
+            "Material Girl needs ot be retired, that is your karaoke song. "
+        ],
+        [
+            "Scene",
+            "Leonards car."
+        ],
+        [
+            "Sheldon",
+            "Would you like to play a driving game I invented?"
+        ],
+        [
+            "Leonard",
+            "Is it about the failing state of my relationship with Penny?"
+        ],
+        [
+            "Sheldon",
+            "Never mind. You know, Penny went to this spa to be away from you. Are you sure you should be going there?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t want to wait two days for us to work this out."
+        ],
+        [
+            "Sheldon",
+            "Very well. You got married spur of the moment, I don\u2019t see why your divorce should be any different."
+        ],
+        [
+            "Leonard",
+            "I would pull this car over and kick you out, but If Penny dumps me, you\u2019re all I got. "
+        ],
+        [
+            "Scene",
+            "The spa. "
+        ],
+        [
+            "Penny",
+            "When was the last time you got a massage?"
+        ],
+        [
+            "Amy",
+            "Sheldon walked on my back two weeks ago, but that was just \u2019cause there was a spider on his pillow and he was trying to get away."
+        ],
+        [
+            "Penny",
+            "Leonard stood on me once, too, but he was just trying to see the Rose Parade."
+        ],
+        [
+            "Amy",
+            "I don\u2019t know the protocol, are you gonna be naked for your massage?"
+        ],
+        [
+            "Penny",
+            "Well, yeah."
+        ],
+        [
+            "Amy",
+            "Hmm. Then this is probably too many clothes."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "What are you doing here?"
+        ],
+        [
+            "Leonard",
+            "I came here to apologize."
+        ],
+        [
+            "Penny",
+            "Okay. Leonard, I really appreciate that, but I need a little time to myself."
+        ],
+        [
+            "Leonard",
+            "Okay. I don\u2019t get it, you said make an effort, here I am making an effort. "
+        ],
+        [
+            "Sheldon",
+            "Hello, Amy. It\u2019s nice to see you."
+        ],
+        [
+            "Amy",
+            "Nice to see you, too."
+        ],
+        [
+            "Sheldon",
+            "And that\u2019s how you make effort look effortless."
+        ],
+        [
+            "Penny",
+            "All right. Can you please just go and we\u2019ll talk about this tomorrow?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t understand what you want."
+        ],
+        [
+            "Penny",
+            "I\u2019m trying to figure it out."
+        ],
+        [
+            "Sheldon",
+            "You know what? If you\u2019d like, I could whip up a quick relationship agreement. Well, I\u2019m at a spa, I might as well do something relaxing. "
+        ],
+        [
+            "Amy",
+            "Sheldon, why don\u2019t we give them some privacy?"
+        ],
+        [
+            "Sheldon",
+            "Very well. Hey, later we\u2019ll check out the minibar, I\u2019ll show you how Godzilla gets drunk."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s nursery."
+        ],
+        [
+            "Howard",
+            "So, what we did was map out the entire room to identify every squeak. Watch. It\u2019s easy,"
+        ],
+        [
+            "Scene",
+            "once you get the hang of it. Step. Step. Hop onto Ottoman."
+        ],
+        [
+            "Raj",
+            "Don\u2019t do that in socks, I almost broke my neck."
+        ],
+        [
+            "Howard",
+            "Then simply sit, spin, stand, stretch, maybe in looser pants, then step, grab, tiny pivot, pull, and you\u2019re there. Easy peasy, mac and\u2026 you get the idea."
+        ],
+        [
+            "Bernadette",
+            "You actually expect me to do this while holding a baby in the dark. "
+        ],
+        [
+            "Raj",
+            "Hold on, I don\u2019t think she was impressed."
+        ],
+        [
+            "Howard",
+            "Bigger problems, I felt something pop. "
+        ],
+        [
+            "Scene",
+            "The spa."
+        ],
+        [
+            "Sheldon",
+            "There\u2019s a cucumber in my water."
+        ],
+        [
+            "Amy",
+            "Uh-huh."
+        ],
+        [
+            "Sheldon",
+            "Do they know it\u2019s there? I mean, should I tell somebody? "
+        ],
+        [
+            "Amy",
+            "It\u2019s there on purpose. It\u2019s refreshing."
+        ],
+        [
+            "Sheldon",
+            "Interesting. The world\u2019s most boring liquid and the world\u2019s most boring vegetable, but you put \u2019em together and bleugh. "
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Oh good, you\u2019re here. Are you still fighting? If you get divorced, do I get two Christmas\u2019s?"
+        ],
+        [
+            "Penny",
+            "We\u2019re not getting divorced."
+        ],
+        [
+            "Leonard",
+            "Listen, we realized, that, uh, we\u2019re facing some new challenges as a married couple."
+        ],
+        [
+            "Penny",
+            "Yeah. And there are a few things we need to stay on top of. So we thought it would useful, and I can\u2019t believe I\u2019m about to say this, um."
+        ],
+        [
+            "Leonard",
+            "Would you please help us make a relationship agreement? But one that\u2019s tailored to us, okay, we don\u2019t need a bathroom schedule. "
+        ],
+        [
+            "Penny",
+            "Although a rule about him texting me from in there might help with the romance. "
+        ],
+        [
+            "Leonard",
+            "What do you say?"
+        ],
+        [
+            "Sheldon",
+            "I get to write a contract? I say, let\u2019s get this party of the first part started."
+        ],
+        [
+            "Penny (after Amy laughs)",
+            "Do you really think that\u2019s funny?"
+        ],
+        [
+            "Amy",
+            "It\u2019s in our agreement. I have to laugh."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "If you find this draft acceptable, then I believe your new relationship agreement is ready to be signed."
+        ],
+        [
+            "Penny",
+            "Article 8, subsection B, Leonard will restrict videogaming in underpants to hours Penny is not home. This includes boxers, briefs, thongs, G-strings or anything else that calls attention to his pasty little thighs."
+        ],
+        [
+            "Leonard",
+            "Does it really need to say that?"
+        ],
+        [
+            "Sheldon",
+            "I did this for free, let me get a little something."
+        ],
+        [
+            "Leonard",
+            "Article 10, subsection C, if questioned Penny may not say that everything is fine if it isn\u2019t. Other unacceptable responses include, it\u2019s nothing, don\u2019t worry about it, and, I said it\u2019s nothing don\u2019t worry about it. "
+        ],
+        [
+            "Penny",
+            "I think this all looks good."
+        ],
+        [
+            "Leonard",
+            "Me, too."
+        ],
+        [
+            "Sheldon",
+            "Oh well, great then, here, you sign here, date here, and Penny, if you could initial here to indicate that you\u2019re accepting Leonard in as is condition."
+        ],
+        [
+            "Amy",
+            "I remember signing our first relationship agreement."
+        ],
+        [
+            "Sheldon",
+            "Mm. You seem to be forgetting the no nostalgia clause."
+        ],
+        [
+            "Amy",
+            "Right, right. Got it."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-13-the-romance-recalibration/"
+}

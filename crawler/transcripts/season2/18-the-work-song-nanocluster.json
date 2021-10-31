@@ -1,0 +1,1938 @@
+{
+    "Season": 2,
+    "Episode": 18,
+    "Title": "the work song nanocluster",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                17,
+                "Outside Penny\u2019s door. Sheldon stands looking at his watch with his hand poised to knock. At the right moment he starts knocking."
+            ],
+            [
+                76,
+                "Credits sequence."
+            ],
+            [
+                77,
+                "Penny\u2019s apartment. Penny is making a barette. Sheldon is timing her."
+            ],
+            [
+                95,
+                "The apartment"
+            ],
+            [
+                100,
+                "From Penny\u2019s apartment they hear Penny and Sheldon singing \u201cBlow the man down.\u201d They enter to find Sheldon and Penny working together on the barettes."
+            ],
+            [
+                139,
+                "The apartment."
+            ],
+            [
+                182,
+                "The same, later. Sheldon and Penny are making barettes, singing \u201cShe\u2019ll be coming round the mountain.\u201d"
+            ],
+            [
+                194,
+                "Time shift"
+            ],
+            [
+                211,
+                "Time shift"
+            ],
+            [
+                215,
+                "Time shift"
+            ],
+            [
+                237,
+                "The apartment. Raj is negotiating the laser beams. Sheldon and Howard are singing dramatically. "
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "Knight to queen\u2019s bishop-five."
+            ],
+            [
+                3,
+                "Let\u2019s find out. Leonard, ready?"
+            ],
+            [
+                5,
+                "Go. (Leonard sprays an aerosol which lights up laser beams. He tries to negotiate the beams as Howard and Raj sing dramatic music. Eventually he touches one of the beams and a buzzer sounds.)"
+            ],
+            [
+                98,
+                "What\u2019s the matter?"
+            ],
+            [
+                183,
+                "You know, if I wanted to spend my Saturday nights doing this, I could have stayed in India."
+            ],
+            [
+                185,
+                "We only had four servants. And two of them were children."
+            ],
+            [
+                187,
+                "We have 128 assorted Penny Blossoms ready to ship."
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "Oh, very nice. What\u2019s Leonard going to do? Does he give up the pawn or does he give up the position?"
+            ],
+            [
+                7,
+                "Too bad. You know the rules of Secret Agent Laser Obstacle Chess. Uh, Leonard died again, Sheldon. You\u2019re up."
+            ],
+            [
+                14,
+                "Hey, you know what\u2019d be a great idea? We get some girls over here and play Laser Obstacle Strip Chess."
+            ],
+            [
+                16,
+                "You underestimate me."
+            ],
+            [
+                99,
+                "I think I bruised a testicle capturing that last pawn."
+            ],
+            [
+                109,
+                "Hold on. What are you using as a bonding agent?"
+            ],
+            [
+                111,
+                "You\u2019re kidding. Any of the cyanoacrylates would do a better job."
+            ],
+            [
+                118,
+                "Why not eliminate the middle man? We could install a small server farm with a static IP in her bedroom."
+            ],
+            [
+                122,
+                "Uh, I\u2019ve seen this before."
+            ],
+            [
+                124,
+                "It\u2019s a common stripper problem. They dance, they sweat, they clump."
+            ],
+            [
+                127,
+                "Actually, I\u2019m thinking about this one stripper named Vega. But sure, calcium sulphate could work."
+            ],
+            [
+                147,
+                "Please. Dateline could use it to attract predators."
+            ],
+            [
+                159,
+                "We add Bluetooth!"
+            ],
+            [
+                167,
+                "And I\u2019ll bet lesbians love Bluetooth."
+            ],
+            [
+                177,
+                "They didn\u2019t quit. They were massacred by, like, a gazillion angry Mexicans."
+            ],
+            [
+                184,
+                "Oh, stop with the fake third world crap. Your father\u2019s a gynaecologist, and you had a house full of servants."
+            ],
+            [
+                188,
+                "Oh, God, we\u2019re never gonna finish in time. Who made Sheldon the boss anyway?"
+            ],
+            [
+                217,
+                "1,000 friggin\u2019 Penny Blossoms."
+            ],
+            [
+                219,
+                "That\u2019s your entire profit margin."
+            ],
+            [
+                227,
+                "You can\u2019t be serious."
+            ],
+            [
+                231,
+                "Penny, although you may find it hard to believe, we do have lives."
+            ],
+            [
+                240,
+                "Sorry, guys, but Secret Agent Laser Obstacle Lunch is just stupid."
+            ]
+        ],
+        "Leonard": [
+            [
+                4,
+                "Ready."
+            ],
+            [
+                6,
+                "Damn it. I slipped."
+            ],
+            [
+                9,
+                "Why?"
+            ],
+            [
+                11,
+                "So?"
+            ],
+            [
+                15,
+                "Believe me, Howard, any girl who would be willing to play that, you don\u2019t want to see naked."
+            ],
+            [
+                46,
+                "Cheeseburger. I get a cheeseburger."
+            ],
+            [
+                97,
+                "Let\u2019s go. We\u2019re going to miss the coming attractions."
+            ],
+            [
+                102,
+                "Hello?"
+            ],
+            [
+                104,
+                "W-W-Wait, what\u2019s going on?"
+            ],
+            [
+                107,
+                "Terrific, but that kind of raises more questions than it answers."
+            ],
+            [
+                113,
+                "What if we infused the bottom layer with silicone-RTV to provide a better mounting surface?"
+            ],
+            [
+                119,
+                "She\u2019d need some kind of industrial cooling system."
+            ],
+            [
+                123,
+                "Where?"
+            ],
+            [
+                126,
+                "Are you thinking about adding a desiccant like calcium sulphate?"
+            ],
+            [
+                132,
+                "Hey, we could liberate some micro-porous charcoal from the chem lab."
+            ],
+            [
+                137,
+                "Uh, hey, it\u2019s your business. Do whatever you want."
+            ],
+            [
+                140,
+                "I\u2019m still tweaking things a little bit, but this will give you the general idea of the Web site. So, what do you guys think?"
+            ],
+            [
+                142,
+                "Okay, what\u2019s wrong with it?"
+            ],
+            [
+                144,
+                "Not you. I wasn\u2019t asking you. Penny?"
+            ],
+            [
+                146,
+                "No, it doesn\u2019t."
+            ],
+            [
+                149,
+                "You want to fire me?"
+            ],
+            [
+                151,
+                "Excuse me, but if I did such a bad job then why do we already have orders?"
+            ],
+            [
+                153,
+                "Uh-huh. Look. Mrs. Fiona Fondell from Huntsville, Alabama has ordered two."
+            ],
+            [
+                155,
+                "Uh-huh. Look at the comments."
+            ],
+            [
+                163,
+                "Holy crap. Someone just ordered a thousand Penny Blossoms."
+            ],
+            [
+                165,
+                "The Fifth Annual East Rutherford, New Jersey, Gay, Lesbian, Bisexual and Transgender Alliance Luau."
+            ],
+            [
+                170,
+                "Amazon offers one-day rush."
+            ],
+            [
+                172,
+                "Don\u2019t yell at me. I\u2019m not manufacturing. I\u2019m just Web design."
+            ],
+            [
+                180,
+                "What are you doing?"
+            ],
+            [
+                186,
+                "How are we doing?"
+            ],
+            [
+                204,
+                "Sheldon, we still have 380 of these things to make."
+            ],
+            [
+                207,
+                "Yeah, no. But, Sheldon, without your insight and leadership this entire enterprise will surely fail."
+            ],
+            [
+                214,
+                "Bam."
+            ],
+            [
+                216,
+                "I can\u2019t believe we actually did it."
+            ],
+            [
+                221,
+                "I\u2019ll print out the shipping label. Uh-oh."
+            ],
+            [
+                223,
+                "We got an e-mail from the East Rutherford, New Jersey, Gay, Lesbian, Bisexual and Transgender Alliance. They want another thousand Penny Blossoms."
+            ],
+            [
+                225,
+                "One-day rush. I really need to take that off the Web site."
+            ],
+            [
+                229,
+                "Davy Crockett. Jiminy Crockett was a cricket."
+            ],
+            [
+                233,
+                "Sorry. My apologies to the gay community of East Rutherford, New Jersey."
+            ]
+        ],
+        "Sheldon": [
+            [
+                8,
+                "Despite my deep love of chess, lasers and aerosol disinfectant, I must forfeit."
+            ],
+            [
+                10,
+                "\u2013 Because it\u2019s almost eleven o\u2019clock."
+            ],
+            [
+                12,
+                "So, Penny has a don\u2019t knock on my door before eleven o\u2019clock\u00a0 or I punch you in the throat rule."
+            ],
+            [
+                18,
+                "(Knock, knock, knock) Penny, (knock, knock, knock) Penny, (knock, knock, knock) Penny."
+            ],
+            [
+                20,
+                "It\u2019s eleven am."
+            ],
+            [
+                22,
+                "This package came while you were at work."
+            ],
+            [
+                24,
+                "Excuse me."
+            ],
+            [
+                26,
+                "You have to sign this."
+            ],
+            [
+                28,
+                "When I signed for the package, I was deputized by the United Parcel Service and entrusted with its final delivery. I now need you to acknowledge receipt of the package so that I\u2019m fully indemnified and no longer liable."
+            ],
+            [
+                30,
+                "Well, the contents are irrelevant. A legal bailment has been created. Does that mean nothing to you?"
+            ],
+            [
+                32,
+                "Bailment describes a relationship in common law where a physical possession of personal property, or chattels, is transferred from one person, the bailor, to another person, the bailee."
+            ],
+            [
+                34,
+                "Obviously, not a cleaning business."
+            ],
+            [
+                36,
+                "Good for you. Sign here."
+            ],
+            [
+                38,
+                "But then who will bring me my cheeseburger on Tuesday nights?"
+            ],
+            [
+                40,
+                "What\u2019s her name?"
+            ],
+            [
+                42,
+                "And you\u2019re going to let her handle my food?"
+            ],
+            [
+                44,
+                "I think you\u2019re just making that up."
+            ],
+            [
+                48,
+                "Maybe I\u2019d be better off with Nancy."
+            ],
+            [
+                50,
+                "How many of these can you make a day?"
+            ],
+            [
+                52,
+                "And how much profit do you make per Penny Blossom?"
+            ],
+            [
+                54,
+                "No, Of course you\u2019re not. All right, ten dollars a day times five days a week times 52 weeks a year is two thousand six hundred dollars."
+            ],
+            [
+                56,
+                "Before taxes."
+            ],
+            [
+                58,
+                "I believe the Internal Revenue Service would strongly disagree. But, if you took advantage of modern marketing techniques, and you optimized your manufacturing process, you might be able to make this a viable business."
+            ],
+            [
+                60,
+                "Penny, I\u2019m a physicist. I have a working knowledge of the entire universe and everything it contains."
+            ],
+            [
+                62,
+                "I have a working knowledge of the important things in the universe. Good luck."
+            ],
+            [
+                64,
+                "Of course I could."
+            ],
+            [
+                66,
+                "Just to be clear here, you\u2019re asking for my assistance."
+            ],
+            [
+                68,
+                "And you understand that will involve me telling you what to do?"
+            ],
+            [
+                70,
+                "And you\u2019re not allowed to be sarcastic or snide to me while I\u2019m doing so."
+            ],
+            [
+                72,
+                "Good. Let\u2019s begin with the premise that everything you\u2019ve done up to this point is wrong."
+            ],
+            [
+                74,
+                "Sarcasm. Good-bye."
+            ],
+            [
+                80,
+                "All right. 12 minutes and 17 seconds."
+            ],
+            [
+                82,
+                "That\u2019s 4.9 Penny Blossoms per hour. Based on your cost of materials and your wholesale selling price, you\u2019ll effectively be paying yourself\u2026 $5.19 a day."
+            ],
+            [
+                84,
+                "There are children in a sneaker factory in Indonesia who outearn you."
+            ],
+            [
+                86,
+                "You\u2019re questioning my math?"
+            ],
+            [
+                88,
+                "Want me to show my work?"
+            ],
+            [
+                90,
+                "All right, are you familiar with the development that resulted from Honor\u00e9 Blanc\u2019s 1778 use of interchangeable parts? The assembly line, of course."
+            ],
+            [
+                92,
+                "That wasn\u2019t a part of our original agreement, and I do not agree to it now."
+            ],
+            [
+                94,
+                "You\u2019re thinking of the moving assembly line, an understandable but not excusable mistake. No. The moving assembly line, that was introduced by Henry Ford in 1908. That innovation is what made possible our modern consumer culture by enabling a low-unit cost for manufactured goods. I guess that isn\u2019t one of the topics discussed on your Radiohead."
+            ],
+            [
+                105,
+                "I assume you\u2019re referring to the sea shanty. It\u2019s a rhythmic work song designed to increase productivity."
+            ],
+            [
+                108,
+                "Penny\u2019s making hair accessories. I\u2019m helping her optimize her manufacturing process. All right, break\u2019s over. (They start singing again.)"
+            ],
+            [
+                110,
+                "Hot glue."
+            ],
+            [
+                112,
+                "It won\u2019t work, the flower\u2019s too porous."
+            ],
+            [
+                114,
+                "Intriguing."
+            ],
+            [
+                117,
+                "Hush, hush, hush, hush, hush, virtually non-existent. I\u2019m thinking that we set her up with a hosted turnkey e-commerce system to start."
+            ],
+            [
+                120,
+                "Of course, but before we set up a marketing and distribution infrastructure, we should finish optimizing the manufacturing process. To start with, she has a terrible problem with moisture-induced glitter clump."
+            ],
+            [
+                128,
+                "Let\u2019s think out of the box for a moment. How about a molecular sieve?"
+            ],
+            [
+                131,
+                "Wow."
+            ],
+            [
+                133,
+                "Oh, great. Raj, why don\u2019t you and Howard go get the charcoal? Leonard, why don\u2019t you start working on some preliminary Web site designs. I\u2019ll make some space in our apartment so we can move the manufacturing process."
+            ],
+            [
+                135,
+                "It\u2019s not my apartment."
+            ],
+            [
+                143,
+                "\u2013 What\u2019s wrong with it?"
+            ],
+            [
+                148,
+                "Penny, this is your enterprise, so it\u2019s ultimately your decision, but based on the quality of his work, I\u2019d strongly recommend that we let Leonard go."
+            ],
+            [
+                150,
+                "What I want is irrelevant. This is Penny\u2019s decision. Penny?"
+            ],
+            [
+                157,
+                "Camouflaging bald spots. That\u2019s primarily a male concern. Perhaps we could expand our market."
+            ],
+            [
+                160,
+                "Brilliant. Men love Bluetooth."
+            ],
+            [
+                162,
+                "Penny, everything is better with Bluetooth."
+            ],
+            [
+                166,
+                "Oh, another market to expand into, balding gay men."
+            ],
+            [
+                168,
+                "We should get to work."
+            ],
+            [
+                174,
+                "Excuse me, but was this not your goal? Financial independence through entrepreneurial brilliance and innovation? My brilliance and innovation, of course, but still."
+            ],
+            [
+                176,
+                "Okay, that, right there, that equivocation and self-doubt, that is not the American spirit. Did Davy Crockett quit at the Alamo? Did Jim Bowie?"
+            ],
+            [
+                178,
+                "Alright, let me put it this way. Your gross receipts on this one order will be over $3,000 for one night\u2019s work."
+            ],
+            [
+                189,
+                "I believe I\u2019m hearing some negativity on the factory floor."
+            ],
+            [
+                191,
+                "Penny, the labour force is a living organism that must be carefully nurtured. Any counterproductive grumbling must be skilfully headed off by management. Observe. Hey! Less talk, more work!"
+            ],
+            [
+                193,
+                "Thank you. You hear any union talk, you let me know."
+            ],
+            [
+                200,
+                "No, I don\u2019t drink coffee."
+            ],
+            [
+                202,
+                "I\u2019m sorry, coffee\u2019s out of the question. When I moved to California, I promised my mother that I wouldn\u2019t start doing drugs."
+            ],
+            [
+                205,
+                "I have complete faith that you will make them. Good night."
+            ],
+            [
+                208,
+                "You\u2019re right, of course."
+            ],
+            [
+                210,
+                "Very well, but if this leads to opiates or hallucinogenics, you\u2019re going to have to answer to my mother."
+            ],
+            [
+                212,
+                "Look at Planck\u2019s Constant. People say it\u2019s arbitrary. It could not be less arbitrary. If it varied even slightly, life as we know it would not exist. Bam! Now, now, let\u2019s reconsider the entire argument, but with entropy reversed and effect preceding cause, so you are thinking of a universe that\u2019s not expanding from the centre, no, it is retreating from a, from a possibility space. Bam! This is a space where we are all essentially Alice through the looking glass, standing in front the Red Queen, and we\u2019re being offered a cracker to quench our thirst. Bam! Of course, in another universe, let\u2019s call it universe prime, there\u2019s another Sheldon, let\u2019s call him Sheldon prime\u2026"
+            ],
+            [
+                236,
+                "No problem. I\u2019ll be back before this banana hits the ground. Zoom, zoom, zoom, zoom! Zoom, zoom, zoom, zoom!"
+            ]
+        ],
+        "All": [
+            [
+                13,
+                "Ah."
+            ]
+        ],
+        "Penny": [
+            [
+                19,
+                "Hey, Sheldon."
+            ],
+            [
+                21,
+                "I know. You\u2019re safe."
+            ],
+            [
+                23,
+                "Oh, great, my rhinestones. Thank you."
+            ],
+            [
+                25,
+                "What?"
+            ],
+            [
+                27,
+                "What is it?"
+            ],
+            [
+                29,
+                "Sheldon, it\u2019s just a box of rhinestones."
+            ],
+            [
+                31,
+                "It means nothing to anybody. Come here, let me show you what I\u2019m doing."
+            ],
+            [
+                33,
+                "Yeah, yeah, yeah, yeah. Look, look, look! I started a business."
+            ],
+            [
+                35,
+                "No, I\u2019m making flower barrettes. See? I call them Penny Blossoms. I made one for myself, then all the girls at work wanted one. Then I showed some to this lady who runs a shop in Old Town. She sells cards and homemade jewellery. She said she wanted to sell them. I said okay, and in one week, I made a $156."
+            ],
+            [
+                37,
+                "Sheldon, don\u2019t you get it? If this takes off, I won\u2019t have to be a waitress anymore."
+            ],
+            [
+                39,
+                "Another waitress."
+            ],
+            [
+                41,
+                "I don\u2019t know."
+            ],
+            [
+                43,
+                "Nancy. Her name is Nancy."
+            ],
+            [
+                45,
+                "Sheldon, I\u2019m sorry about your hamburger, okay? I just don\u2019t want to be a waitress for the rest of my life."
+            ],
+            [
+                47,
+                "Fine, cheeseburger."
+            ],
+            [
+                49,
+                "So, what do you think? I mean, this could be a business, right?"
+            ],
+            [
+                51,
+                "About twenty."
+            ],
+            [
+                53,
+                "I don\u2019t know, like, 50 cents. I\u2019m not sure."
+            ],
+            [
+                55,
+                "That\u2019s all?"
+            ],
+            [
+                57,
+                "Well, I don\u2019t have to pay taxes on this stuff."
+            ],
+            [
+                59,
+                "And you know about that stuff?"
+            ],
+            [
+                61,
+                "Who\u2019s Radiohead?"
+            ],
+            [
+                63,
+                "Sheldon, hold on. Could you maybe show me how to make more money with this?"
+            ],
+            [
+                65,
+                "Sheldon, wait! Will you?"
+            ],
+            [
+                67,
+                "Yes."
+            ],
+            [
+                69,
+                "I understand."
+            ],
+            [
+                71,
+                "Okay."
+            ],
+            [
+                73,
+                "Oh, imagine that."
+            ],
+            [
+                75,
+                "No, sorry. Wait! Please come back!"
+            ],
+            [
+                79,
+                "There. Done."
+            ],
+            [
+                81,
+                "Pretty good, right?"
+            ],
+            [
+                83,
+                "A day?"
+            ],
+            [
+                85,
+                "That just can\u2019t be right."
+            ],
+            [
+                87,
+                "No, sorry."
+            ],
+            [
+                89,
+                "Oh, God, no, no. Just please tell me what to do about it."
+            ],
+            [
+                91,
+                "Okay, you know what, if I\u2019m not allowed to be snide, you\u2019re not allowed to be condescending."
+            ],
+            [
+                93,
+                "All right, fine. How are we supposed to set up machines and conveyor belts in my apartment?"
+            ],
+            [
+                106,
+                "Yeah, it\u2019s crazy, but it totally works. Look, we made this Penny Blossom in under three minutes."
+            ],
+            [
+                116,
+                "Well, there are the waitresses at my work, and this cute, little shop in Old Town."
+            ],
+            [
+                121,
+                "Yeah, it\u2019s a bitch."
+            ],
+            [
+                125,
+                "Ew."
+            ],
+            [
+                130,
+                "I\u2019ve got a spaghetti strainer in the kitchen."
+            ],
+            [
+                134,
+                "Well, what\u2019s wrong with my apartment?"
+            ],
+            [
+                136,
+                "Wait, wait, what am I going to do?"
+            ],
+            [
+                138,
+                "Oh, okay, cool. I\u2019m going to take a nap."
+            ],
+            [
+                145,
+                "Uh, well, it\u2019s a little juvenile. I mean, it kind of looks like the MySpace page of a 13-year-old girl."
+            ],
+            [
+                152,
+                "We do?"
+            ],
+            [
+                154,
+                "No kidding. Two?"
+            ],
+            [
+                156,
+                "Thank you, Penny Blossoms. These will be perfect to cover my bald spot. Aww, that is so sweet."
+            ],
+            [
+                158,
+                "How are flower barrettes going to appeal to men?"
+            ],
+            [
+                161,
+                "Wait a minute, wait a minute, you want to make a hair barrette with Bluetooth?"
+            ],
+            [
+                164,
+                "Get out! Who needs a thousand sparkly flower barrettes with rhinestones?"
+            ],
+            [
+                169,
+                "Wait, wait, wait, why does it say one-day rush? Since when do we offer a one-day rush?"
+            ],
+            [
+                171,
+                "Yeah, but they don\u2019t have to glue the books together. How the hell are we going to make a thousand Penny Blossoms in one day?"
+            ],
+            [
+                173,
+                "Okay, well, I\u2019m gonna have to call them and cancel the order."
+            ],
+            [
+                175,
+                "I just don\u2019t see how see can pull this off."
+            ],
+            [
+                179,
+                "You guys get started."
+            ],
+            [
+                181,
+                "Going online to buy shoes!"
+            ],
+            [
+                190,
+                "So?"
+            ],
+            [
+                192,
+                "Nicely done."
+            ],
+            [
+                199,
+                "Honey, do you want some coffee?"
+            ],
+            [
+                201,
+                "Come on, but if you don\u2019t stay awake we\u2019ll never finish in time."
+            ],
+            [
+                203,
+                "Leonard, help."
+            ],
+            [
+                206,
+                "Leonard?"
+            ],
+            [
+                209,
+                "Here, this will help."
+            ],
+            [
+                213,
+                "We should have let him go to bed."
+            ],
+            [
+                218,
+                "I just want you guys to know I am really grateful for your help, and for every dollar I make, I\u2019m going to give you 20 cents."
+            ],
+            [
+                220,
+                "Oh. Then never mind."
+            ],
+            [
+                222,
+                "What?"
+            ],
+            [
+                224,
+                "Really?"
+            ],
+            [
+                226,
+                "Okay, well. Guess we\u2019d better get started."
+            ],
+            [
+                228,
+                "Come on. What about the living organism of the workforce and the American spirit and Jiminy Crockett at the Alamo?"
+            ],
+            [
+                230,
+                "Yes, yes, I know that, okay? I\u2019m tired, I\u2019ve had like 18 cups of coffee. The point is, if we all just pull together, we can do this. Who\u2019s with me?"
+            ],
+            [
+                232,
+                "Leonard?"
+            ],
+            [
+                235,
+                "We\u2019re all out."
+            ]
+        ],
+        "Penny & Sheldon together": [
+            [
+                103,
+                "Hello. (They resume singing and working) "
+            ]
+        ],
+        "Howard (after Raj whispers to him)": [
+            [
+                115,
+                "Good question, what are you marketing and distribution channels?"
+            ],
+            [
+                141,
+                "Uh, pretty much any way I say that is going to hurt his feelings."
+            ]
+        ],
+        "Leonard & Howard": [
+            [
+                129,
+                "Oh!"
+            ]
+        ],
+        "Leonard (singing)": [
+            [
+                195,
+                "Someone\u2019s in the kitchen with Dinah\u2026"
+            ]
+        ],
+        "Howard (reluctantly singing)": [
+            [
+                196,
+                "Someone\u2019s in the kitchen I know-ow-ow-ow"
+            ]
+        ],
+        "Penny (singing)": [
+            [
+                197,
+                "Someone\u2019s in the kitchen with Dinah\u2026 Sheldon? Sheldon! (nudges him)"
+            ]
+        ],
+        "Sheldon (waking up, singing)": [
+            [
+                198,
+                "\u2018Cause I sold my soul to the company store."
+            ]
+        ],
+        "Sheldon (entering dressed as The Flash)": [
+            [
+                234,
+                "Zoom, zoom, zoom! Where\u2019s the coffee?"
+            ]
+        ],
+        "Raj (reaching the other side)": [
+            [
+                239,
+                "Yes! (He takes a slice of pizza)"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Knight to queen\u2019s bishop-five."
+        ],
+        [
+            "Howard",
+            "Oh, very nice. What\u2019s Leonard going to do? Does he give up the pawn or does he give up the position?"
+        ],
+        [
+            "Raj",
+            "Let\u2019s find out. Leonard, ready?"
+        ],
+        [
+            "Leonard",
+            "Ready."
+        ],
+        [
+            "Raj",
+            "Go. (Leonard sprays an aerosol which lights up laser beams. He tries to negotiate the beams as Howard and Raj sing dramatic music. Eventually he touches one of the beams and a buzzer sounds.)"
+        ],
+        [
+            "Leonard",
+            "Damn it. I slipped."
+        ],
+        [
+            "Howard",
+            "Too bad. You know the rules of Secret Agent Laser Obstacle Chess. Uh, Leonard died again, Sheldon. You\u2019re up."
+        ],
+        [
+            "Sheldon",
+            "Despite my deep love of chess, lasers and aerosol disinfectant, I must forfeit."
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "\u2013 Because it\u2019s almost eleven o\u2019clock."
+        ],
+        [
+            "Leonard",
+            "So?"
+        ],
+        [
+            "Sheldon",
+            "So, Penny has a don\u2019t knock on my door before eleven o\u2019clock\u00a0 or I punch you in the throat rule."
+        ],
+        [
+            "All",
+            "Ah."
+        ],
+        [
+            "Howard",
+            "Hey, you know what\u2019d be a great idea? We get some girls over here and play Laser Obstacle Strip Chess."
+        ],
+        [
+            "Leonard",
+            "Believe me, Howard, any girl who would be willing to play that, you don\u2019t want to see naked."
+        ],
+        [
+            "Howard",
+            "You underestimate me."
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s door. Sheldon stands looking at his watch with his hand poised to knock. At the right moment he starts knocking."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny, (knock, knock, knock) Penny, (knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "Hey, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s eleven am."
+        ],
+        [
+            "Penny",
+            "I know. You\u2019re safe."
+        ],
+        [
+            "Sheldon",
+            "This package came while you were at work."
+        ],
+        [
+            "Penny",
+            "Oh, great, my rhinestones. Thank you."
+        ],
+        [
+            "Sheldon",
+            "Excuse me."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "You have to sign this."
+        ],
+        [
+            "Penny",
+            "What is it?"
+        ],
+        [
+            "Sheldon",
+            "When I signed for the package, I was deputized by the United Parcel Service and entrusted with its final delivery. I now need you to acknowledge receipt of the package so that I\u2019m fully indemnified and no longer liable."
+        ],
+        [
+            "Penny",
+            "Sheldon, it\u2019s just a box of rhinestones."
+        ],
+        [
+            "Sheldon",
+            "Well, the contents are irrelevant. A legal bailment has been created. Does that mean nothing to you?"
+        ],
+        [
+            "Penny",
+            "It means nothing to anybody. Come here, let me show you what I\u2019m doing."
+        ],
+        [
+            "Sheldon",
+            "Bailment describes a relationship in common law where a physical possession of personal property, or chattels, is transferred from one person, the bailor, to another person, the bailee."
+        ],
+        [
+            "Penny",
+            "Yeah, yeah, yeah, yeah. Look, look, look! I started a business."
+        ],
+        [
+            "Sheldon",
+            "Obviously, not a cleaning business."
+        ],
+        [
+            "Penny",
+            "No, I\u2019m making flower barrettes. See? I call them Penny Blossoms. I made one for myself, then all the girls at work wanted one. Then I showed some to this lady who runs a shop in Old Town. She sells cards and homemade jewellery. She said she wanted to sell them. I said okay, and in one week, I made a $156."
+        ],
+        [
+            "Sheldon",
+            "Good for you. Sign here."
+        ],
+        [
+            "Penny",
+            "Sheldon, don\u2019t you get it? If this takes off, I won\u2019t have to be a waitress anymore."
+        ],
+        [
+            "Sheldon",
+            "But then who will bring me my cheeseburger on Tuesday nights?"
+        ],
+        [
+            "Penny",
+            "Another waitress."
+        ],
+        [
+            "Sheldon",
+            "What\u2019s her name?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "And you\u2019re going to let her handle my food?"
+        ],
+        [
+            "Penny",
+            "Nancy. Her name is Nancy."
+        ],
+        [
+            "Sheldon",
+            "I think you\u2019re just making that up."
+        ],
+        [
+            "Penny",
+            "Sheldon, I\u2019m sorry about your hamburger, okay? I just don\u2019t want to be a waitress for the rest of my life."
+        ],
+        [
+            "Leonard",
+            "Cheeseburger. I get a cheeseburger."
+        ],
+        [
+            "Penny",
+            "Fine, cheeseburger."
+        ],
+        [
+            "Sheldon",
+            "Maybe I\u2019d be better off with Nancy."
+        ],
+        [
+            "Penny",
+            "So, what do you think? I mean, this could be a business, right?"
+        ],
+        [
+            "Sheldon",
+            "How many of these can you make a day?"
+        ],
+        [
+            "Penny",
+            "About twenty."
+        ],
+        [
+            "Sheldon",
+            "And how much profit do you make per Penny Blossom?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know, like, 50 cents. I\u2019m not sure."
+        ],
+        [
+            "Sheldon",
+            "No, Of course you\u2019re not. All right, ten dollars a day times five days a week times 52 weeks a year is two thousand six hundred dollars."
+        ],
+        [
+            "Penny",
+            "That\u2019s all?"
+        ],
+        [
+            "Sheldon",
+            "Before taxes."
+        ],
+        [
+            "Penny",
+            "Well, I don\u2019t have to pay taxes on this stuff."
+        ],
+        [
+            "Sheldon",
+            "I believe the Internal Revenue Service would strongly disagree. But, if you took advantage of modern marketing techniques, and you optimized your manufacturing process, you might be able to make this a viable business."
+        ],
+        [
+            "Penny",
+            "And you know about that stuff?"
+        ],
+        [
+            "Sheldon",
+            "Penny, I\u2019m a physicist. I have a working knowledge of the entire universe and everything it contains."
+        ],
+        [
+            "Penny",
+            "Who\u2019s Radiohead?"
+        ],
+        [
+            "Sheldon",
+            "I have a working knowledge of the important things in the universe. Good luck."
+        ],
+        [
+            "Penny",
+            "Sheldon, hold on. Could you maybe show me how to make more money with this?"
+        ],
+        [
+            "Sheldon",
+            "Of course I could."
+        ],
+        [
+            "Penny",
+            "Sheldon, wait! Will you?"
+        ],
+        [
+            "Sheldon",
+            "Just to be clear here, you\u2019re asking for my assistance."
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "And you understand that will involve me telling you what to do?"
+        ],
+        [
+            "Penny",
+            "I understand."
+        ],
+        [
+            "Sheldon",
+            "And you\u2019re not allowed to be sarcastic or snide to me while I\u2019m doing so."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "Good. Let\u2019s begin with the premise that everything you\u2019ve done up to this point is wrong."
+        ],
+        [
+            "Penny",
+            "Oh, imagine that."
+        ],
+        [
+            "Sheldon",
+            "Sarcasm. Good-bye."
+        ],
+        [
+            "Penny",
+            "No, sorry. Wait! Please come back!"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. Penny is making a barette. Sheldon is timing her."
+        ],
+        [
+            "Penny",
+            "There. Done."
+        ],
+        [
+            "Sheldon",
+            "All right. 12 minutes and 17 seconds."
+        ],
+        [
+            "Penny",
+            "Pretty good, right?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s 4.9 Penny Blossoms per hour. Based on your cost of materials and your wholesale selling price, you\u2019ll effectively be paying yourself\u2026 $5.19 a day."
+        ],
+        [
+            "Penny",
+            "A day?"
+        ],
+        [
+            "Sheldon",
+            "There are children in a sneaker factory in Indonesia who outearn you."
+        ],
+        [
+            "Penny",
+            "That just can\u2019t be right."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re questioning my math?"
+        ],
+        [
+            "Penny",
+            "No, sorry."
+        ],
+        [
+            "Sheldon",
+            "Want me to show my work?"
+        ],
+        [
+            "Penny",
+            "Oh, God, no, no. Just please tell me what to do about it."
+        ],
+        [
+            "Sheldon",
+            "All right, are you familiar with the development that resulted from Honor\u00e9 Blanc\u2019s 1778 use of interchangeable parts? The assembly line, of course."
+        ],
+        [
+            "Penny",
+            "Okay, you know what, if I\u2019m not allowed to be snide, you\u2019re not allowed to be condescending."
+        ],
+        [
+            "Sheldon",
+            "That wasn\u2019t a part of our original agreement, and I do not agree to it now."
+        ],
+        [
+            "Penny",
+            "All right, fine. How are we supposed to set up machines and conveyor belts in my apartment?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re thinking of the moving assembly line, an understandable but not excusable mistake. No. The moving assembly line, that was introduced by Henry Ford in 1908. That innovation is what made possible our modern consumer culture by enabling a low-unit cost for manufactured goods. I guess that isn\u2019t one of the topics discussed on your Radiohead."
+        ],
+        [
+            "Scene",
+            "The apartment"
+        ],
+        [
+            "Leonard",
+            "Let\u2019s go. We\u2019re going to miss the coming attractions."
+        ],
+        [
+            "Raj",
+            "What\u2019s the matter?"
+        ],
+        [
+            "Howard",
+            "I think I bruised a testicle capturing that last pawn."
+        ],
+        [
+            "Scene",
+            "From Penny\u2019s apartment they hear Penny and Sheldon singing \u201cBlow the man down.\u201d They enter to find Sheldon and Penny working together on the barettes."
+        ],
+        [
+            "Leonard",
+            "Hello?"
+        ],
+        [
+            "Penny & Sheldon together",
+            "Hello. (They resume singing and working) "
+        ],
+        [
+            "Leonard",
+            "W-W-Wait, what\u2019s going on?"
+        ],
+        [
+            "Sheldon",
+            "I assume you\u2019re referring to the sea shanty. It\u2019s a rhythmic work song designed to increase productivity."
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s crazy, but it totally works. Look, we made this Penny Blossom in under three minutes."
+        ],
+        [
+            "Leonard",
+            "Terrific, but that kind of raises more questions than it answers."
+        ],
+        [
+            "Sheldon",
+            "Penny\u2019s making hair accessories. I\u2019m helping her optimize her manufacturing process. All right, break\u2019s over. (They start singing again.)"
+        ],
+        [
+            "Howard",
+            "Hold on. What are you using as a bonding agent?"
+        ],
+        [
+            "Sheldon",
+            "Hot glue."
+        ],
+        [
+            "Howard",
+            "You\u2019re kidding. Any of the cyanoacrylates would do a better job."
+        ],
+        [
+            "Sheldon",
+            "It won\u2019t work, the flower\u2019s too porous."
+        ],
+        [
+            "Leonard",
+            "What if we infused the bottom layer with silicone-RTV to provide a better mounting surface?"
+        ],
+        [
+            "Sheldon",
+            "Intriguing."
+        ],
+        [
+            "Howard (after Raj whispers to him)",
+            "Good question, what are you marketing and distribution channels?"
+        ],
+        [
+            "Penny",
+            "Well, there are the waitresses at my work, and this cute, little shop in Old Town."
+        ],
+        [
+            "Sheldon",
+            "Hush, hush, hush, hush, hush, virtually non-existent. I\u2019m thinking that we set her up with a hosted turnkey e-commerce system to start."
+        ],
+        [
+            "Howard",
+            "Why not eliminate the middle man? We could install a small server farm with a static IP in her bedroom."
+        ],
+        [
+            "Leonard",
+            "She\u2019d need some kind of industrial cooling system."
+        ],
+        [
+            "Sheldon",
+            "Of course, but before we set up a marketing and distribution infrastructure, we should finish optimizing the manufacturing process. To start with, she has a terrible problem with moisture-induced glitter clump."
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s a bitch."
+        ],
+        [
+            "Howard",
+            "Uh, I\u2019ve seen this before."
+        ],
+        [
+            "Leonard",
+            "Where?"
+        ],
+        [
+            "Howard",
+            "It\u2019s a common stripper problem. They dance, they sweat, they clump."
+        ],
+        [
+            "Penny",
+            "Ew."
+        ],
+        [
+            "Leonard",
+            "Are you thinking about adding a desiccant like calcium sulphate?"
+        ],
+        [
+            "Howard",
+            "Actually, I\u2019m thinking about this one stripper named Vega. But sure, calcium sulphate could work."
+        ],
+        [
+            "Sheldon",
+            "Let\u2019s think out of the box for a moment. How about a molecular sieve?"
+        ],
+        [
+            "Leonard & Howard",
+            "Oh!"
+        ],
+        [
+            "Penny",
+            "I\u2019ve got a spaghetti strainer in the kitchen."
+        ],
+        [
+            "Sheldon",
+            "Wow."
+        ],
+        [
+            "Leonard",
+            "Hey, we could liberate some micro-porous charcoal from the chem lab."
+        ],
+        [
+            "Sheldon",
+            "Oh, great. Raj, why don\u2019t you and Howard go get the charcoal? Leonard, why don\u2019t you start working on some preliminary Web site designs. I\u2019ll make some space in our apartment so we can move the manufacturing process."
+        ],
+        [
+            "Penny",
+            "Well, what\u2019s wrong with my apartment?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not my apartment."
+        ],
+        [
+            "Penny",
+            "Wait, wait, what am I going to do?"
+        ],
+        [
+            "Leonard",
+            "Uh, hey, it\u2019s your business. Do whatever you want."
+        ],
+        [
+            "Penny",
+            "Oh, okay, cool. I\u2019m going to take a nap."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "I\u2019m still tweaking things a little bit, but this will give you the general idea of the Web site. So, what do you guys think?"
+        ],
+        [
+            "Howard (after Raj whispers to him)",
+            "Uh, pretty much any way I say that is going to hurt his feelings."
+        ],
+        [
+            "Leonard",
+            "Okay, what\u2019s wrong with it?"
+        ],
+        [
+            "Sheldon",
+            "\u2013 What\u2019s wrong with it?"
+        ],
+        [
+            "Leonard",
+            "Not you. I wasn\u2019t asking you. Penny?"
+        ],
+        [
+            "Penny",
+            "Uh, well, it\u2019s a little juvenile. I mean, it kind of looks like the MySpace page of a 13-year-old girl."
+        ],
+        [
+            "Leonard",
+            "No, it doesn\u2019t."
+        ],
+        [
+            "Howard",
+            "Please. Dateline could use it to attract predators."
+        ],
+        [
+            "Sheldon",
+            "Penny, this is your enterprise, so it\u2019s ultimately your decision, but based on the quality of his work, I\u2019d strongly recommend that we let Leonard go."
+        ],
+        [
+            "Leonard",
+            "You want to fire me?"
+        ],
+        [
+            "Sheldon",
+            "What I want is irrelevant. This is Penny\u2019s decision. Penny?"
+        ],
+        [
+            "Leonard",
+            "Excuse me, but if I did such a bad job then why do we already have orders?"
+        ],
+        [
+            "Penny",
+            "We do?"
+        ],
+        [
+            "Leonard",
+            "Uh-huh. Look. Mrs. Fiona Fondell from Huntsville, Alabama has ordered two."
+        ],
+        [
+            "Penny",
+            "No kidding. Two?"
+        ],
+        [
+            "Leonard",
+            "Uh-huh. Look at the comments."
+        ],
+        [
+            "Penny",
+            "Thank you, Penny Blossoms. These will be perfect to cover my bald spot. Aww, that is so sweet."
+        ],
+        [
+            "Sheldon",
+            "Camouflaging bald spots. That\u2019s primarily a male concern. Perhaps we could expand our market."
+        ],
+        [
+            "Penny",
+            "How are flower barrettes going to appeal to men?"
+        ],
+        [
+            "Howard",
+            "We add Bluetooth!"
+        ],
+        [
+            "Sheldon",
+            "Brilliant. Men love Bluetooth."
+        ],
+        [
+            "Penny",
+            "Wait a minute, wait a minute, you want to make a hair barrette with Bluetooth?"
+        ],
+        [
+            "Sheldon",
+            "Penny, everything is better with Bluetooth."
+        ],
+        [
+            "Leonard",
+            "Holy crap. Someone just ordered a thousand Penny Blossoms."
+        ],
+        [
+            "Penny",
+            "Get out! Who needs a thousand sparkly flower barrettes with rhinestones?"
+        ],
+        [
+            "Leonard",
+            "The Fifth Annual East Rutherford, New Jersey, Gay, Lesbian, Bisexual and Transgender Alliance Luau."
+        ],
+        [
+            "Sheldon",
+            "Oh, another market to expand into, balding gay men."
+        ],
+        [
+            "Howard",
+            "And I\u2019ll bet lesbians love Bluetooth."
+        ],
+        [
+            "Sheldon",
+            "We should get to work."
+        ],
+        [
+            "Penny",
+            "Wait, wait, wait, why does it say one-day rush? Since when do we offer a one-day rush?"
+        ],
+        [
+            "Leonard",
+            "Amazon offers one-day rush."
+        ],
+        [
+            "Penny",
+            "Yeah, but they don\u2019t have to glue the books together. How the hell are we going to make a thousand Penny Blossoms in one day?"
+        ],
+        [
+            "Leonard",
+            "Don\u2019t yell at me. I\u2019m not manufacturing. I\u2019m just Web design."
+        ],
+        [
+            "Penny",
+            "Okay, well, I\u2019m gonna have to call them and cancel the order."
+        ],
+        [
+            "Sheldon",
+            "Excuse me, but was this not your goal? Financial independence through entrepreneurial brilliance and innovation? My brilliance and innovation, of course, but still."
+        ],
+        [
+            "Penny",
+            "I just don\u2019t see how see can pull this off."
+        ],
+        [
+            "Sheldon",
+            "Okay, that, right there, that equivocation and self-doubt, that is not the American spirit. Did Davy Crockett quit at the Alamo? Did Jim Bowie?"
+        ],
+        [
+            "Howard",
+            "They didn\u2019t quit. They were massacred by, like, a gazillion angry Mexicans."
+        ],
+        [
+            "Sheldon",
+            "Alright, let me put it this way. Your gross receipts on this one order will be over $3,000 for one night\u2019s work."
+        ],
+        [
+            "Penny",
+            "You guys get started."
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Penny",
+            "Going online to buy shoes!"
+        ],
+        [
+            "Scene",
+            "The same, later. Sheldon and Penny are making barettes, singing \u201cShe\u2019ll be coming round the mountain.\u201d"
+        ],
+        [
+            "Raj",
+            "You know, if I wanted to spend my Saturday nights doing this, I could have stayed in India."
+        ],
+        [
+            "Howard",
+            "Oh, stop with the fake third world crap. Your father\u2019s a gynaecologist, and you had a house full of servants."
+        ],
+        [
+            "Raj",
+            "We only had four servants. And two of them were children."
+        ],
+        [
+            "Leonard",
+            "How are we doing?"
+        ],
+        [
+            "Raj",
+            "We have 128 assorted Penny Blossoms ready to ship."
+        ],
+        [
+            "Howard",
+            "Oh, God, we\u2019re never gonna finish in time. Who made Sheldon the boss anyway?"
+        ],
+        [
+            "Sheldon",
+            "I believe I\u2019m hearing some negativity on the factory floor."
+        ],
+        [
+            "Penny",
+            "So?"
+        ],
+        [
+            "Sheldon",
+            "Penny, the labour force is a living organism that must be carefully nurtured. Any counterproductive grumbling must be skilfully headed off by management. Observe. Hey! Less talk, more work!"
+        ],
+        [
+            "Penny",
+            "Nicely done."
+        ],
+        [
+            "Sheldon",
+            "Thank you. You hear any union talk, you let me know."
+        ],
+        [
+            "Scene",
+            "Time shift"
+        ],
+        [
+            "Leonard (singing)",
+            "Someone\u2019s in the kitchen with Dinah\u2026"
+        ],
+        [
+            "Howard (reluctantly singing)",
+            "Someone\u2019s in the kitchen I know-ow-ow-ow"
+        ],
+        [
+            "Penny (singing)",
+            "Someone\u2019s in the kitchen with Dinah\u2026 Sheldon? Sheldon! (nudges him)"
+        ],
+        [
+            "Sheldon (waking up, singing)",
+            "\u2018Cause I sold my soul to the company store."
+        ],
+        [
+            "Penny",
+            "Honey, do you want some coffee?"
+        ],
+        [
+            "Sheldon",
+            "No, I don\u2019t drink coffee."
+        ],
+        [
+            "Penny",
+            "Come on, but if you don\u2019t stay awake we\u2019ll never finish in time."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, coffee\u2019s out of the question. When I moved to California, I promised my mother that I wouldn\u2019t start doing drugs."
+        ],
+        [
+            "Penny",
+            "Leonard, help."
+        ],
+        [
+            "Leonard",
+            "Sheldon, we still have 380 of these things to make."
+        ],
+        [
+            "Sheldon",
+            "I have complete faith that you will make them. Good night."
+        ],
+        [
+            "Penny",
+            "Leonard?"
+        ],
+        [
+            "Leonard",
+            "Yeah, no. But, Sheldon, without your insight and leadership this entire enterprise will surely fail."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right, of course."
+        ],
+        [
+            "Penny",
+            "Here, this will help."
+        ],
+        [
+            "Sheldon",
+            "Very well, but if this leads to opiates or hallucinogenics, you\u2019re going to have to answer to my mother."
+        ],
+        [
+            "Scene",
+            "Time shift"
+        ],
+        [
+            "Sheldon",
+            "Look at Planck\u2019s Constant. People say it\u2019s arbitrary. It could not be less arbitrary. If it varied even slightly, life as we know it would not exist. Bam! Now, now, let\u2019s reconsider the entire argument, but with entropy reversed and effect preceding cause, so you are thinking of a universe that\u2019s not expanding from the centre, no, it is retreating from a, from a possibility space. Bam! This is a space where we are all essentially Alice through the looking glass, standing in front the Red Queen, and we\u2019re being offered a cracker to quench our thirst. Bam! Of course, in another universe, let\u2019s call it universe prime, there\u2019s another Sheldon, let\u2019s call him Sheldon prime\u2026"
+        ],
+        [
+            "Penny",
+            "We should have let him go to bed."
+        ],
+        [
+            "Leonard",
+            "Bam."
+        ],
+        [
+            "Scene",
+            "Time shift"
+        ],
+        [
+            "Leonard",
+            "I can\u2019t believe we actually did it."
+        ],
+        [
+            "Howard",
+            "1,000 friggin\u2019 Penny Blossoms."
+        ],
+        [
+            "Penny",
+            "I just want you guys to know I am really grateful for your help, and for every dollar I make, I\u2019m going to give you 20 cents."
+        ],
+        [
+            "Howard",
+            "That\u2019s your entire profit margin."
+        ],
+        [
+            "Penny",
+            "Oh. Then never mind."
+        ],
+        [
+            "Leonard",
+            "I\u2019ll print out the shipping label. Uh-oh."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "We got an e-mail from the East Rutherford, New Jersey, Gay, Lesbian, Bisexual and Transgender Alliance. They want another thousand Penny Blossoms."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Leonard",
+            "One-day rush. I really need to take that off the Web site."
+        ],
+        [
+            "Penny",
+            "Okay, well. Guess we\u2019d better get started."
+        ],
+        [
+            "Howard",
+            "You can\u2019t be serious."
+        ],
+        [
+            "Penny",
+            "Come on. What about the living organism of the workforce and the American spirit and Jiminy Crockett at the Alamo?"
+        ],
+        [
+            "Leonard",
+            "Davy Crockett. Jiminy Crockett was a cricket."
+        ],
+        [
+            "Penny",
+            "Yes, yes, I know that, okay? I\u2019m tired, I\u2019ve had like 18 cups of coffee. The point is, if we all just pull together, we can do this. Who\u2019s with me?"
+        ],
+        [
+            "Howard",
+            "Penny, although you may find it hard to believe, we do have lives."
+        ],
+        [
+            "Penny",
+            "Leonard?"
+        ],
+        [
+            "Leonard",
+            "Sorry. My apologies to the gay community of East Rutherford, New Jersey."
+        ],
+        [
+            "Sheldon (entering dressed as The Flash)",
+            "Zoom, zoom, zoom! Where\u2019s the coffee?"
+        ],
+        [
+            "Penny",
+            "We\u2019re all out."
+        ],
+        [
+            "Sheldon",
+            "No problem. I\u2019ll be back before this banana hits the ground. Zoom, zoom, zoom, zoom! Zoom, zoom, zoom, zoom!"
+        ],
+        [
+            "Scene",
+            "The apartment. Raj is negotiating the laser beams. Sheldon and Howard are singing dramatically. "
+        ],
+        [
+            "Raj (reaching the other side)",
+            "Yes! (He takes a slice of pizza)"
+        ],
+        [
+            "Howard",
+            "Sorry, guys, but Secret Agent Laser Obstacle Lunch is just stupid."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-2-episode-18-the-work-song-nanocluster/"
+}

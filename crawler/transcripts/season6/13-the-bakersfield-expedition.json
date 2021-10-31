@@ -1,0 +1,1992 @@
+{
+    "Season": 6,
+    "Episode": 13,
+    "Title": "the bakersfield expedition",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. Sheldon is steaming a Star Trek uniform."
+            ],
+            [
+                21,
+                "Credits sequence."
+            ],
+            [
+                22,
+                "A restaurant."
+            ],
+            [
+                42,
+                "Leonard\u2019s car."
+            ],
+            [
+                69,
+                "The comic book store."
+            ],
+            [
+                90,
+                "Vasquez Rocks. Sheldon, dressed as Data, is having his makeup put on by Raj, dressed as Worf."
+            ],
+            [
+                113,
+                "The side of the road."
+            ],
+            [
+                128,
+                "Penny\u2019s apartment."
+            ],
+            [
+                157,
+                "The desert."
+            ],
+            [
+                167,
+                "Penny\u2019s Apartment."
+            ],
+            [
+                176,
+                "A diner."
+            ],
+            [
+                182,
+                "Penny\u2019s apartment."
+            ],
+            [
+                188,
+                "The diner."
+            ],
+            [
+                209,
+                "The apartment."
+            ],
+            [
+                217,
+                "The stairwell."
+            ],
+            [
+                235,
+                "Leonard\u2019s car."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Hey, will you steam my uniform next?"
+            ],
+            [
+                4,
+                "Oh, thanks, I thought I had more."
+            ],
+            [
+                6,
+                "Hey, hey, hey, hey. This is my Comic-Con makeup. I love you, but there are some things a man doesn\u2019t share with his girlfriend."
+            ],
+            [
+                9,
+                "That was San Diego Comic-Con. This is Bakersfield Comic-Con."
+            ],
+            [
+                11,
+                "Well, it\u2019s a lot smaller. It\u2019s more about the comic books. The way these conventions used to be before they went all Hollywood."
+            ],
+            [
+                16,
+                "Yeah."
+            ],
+            [
+                18,
+                "Oh, hang on a second. (Hands her the day\u2019s newspaper) Hold this. (Photographs the two of them together)"
+            ],
+            [
+                20,
+                "To show people when they don\u2019t believe me."
+            ],
+            [
+                44,
+                "It is on."
+            ],
+            [
+                47,
+                "I\u2019m turning it on, but just to shut you up."
+            ],
+            [
+                50,
+                "What did you do?"
+            ],
+            [
+                53,
+                "Counterpoint, no, it\u2019s not."
+            ],
+            [
+                55,
+                "Really?"
+            ],
+            [
+                63,
+                "Yeah, that sounds fun."
+            ],
+            [
+                65,
+                "No."
+            ],
+            [
+                97,
+                "I\u2019ll set the timer."
+            ],
+            [
+                104,
+                "What? Hey, hey! Come back here!"
+            ],
+            [
+                107,
+                "I don\u2019t believe this."
+            ],
+            [
+                111,
+                "Mine, too. Anybody got any ideas?"
+            ],
+            [
+                114,
+                "What kind of a person steals another person\u2019s car in broad daylight?"
+            ],
+            [
+                116,
+                "I thought we agreed this was all Koothrappali\u2019s fault."
+            ],
+            [
+                121,
+                "Look at us, Sheldon. We\u2019re the crazy people."
+            ],
+            [
+                124,
+                "Come on, let\u2019s just start walking. There\u2019s got to be a gas station or something nearby."
+            ],
+            [
+                126,
+                "Yes."
+            ],
+            [
+                160,
+                "Oh, you poor thing, you\u2019re sweating. That\u2019s so much worse than having your car stolen."
+            ],
+            [
+                163,
+                "Please, Sheldon, I am so not in the mood."
+            ],
+            [
+                178,
+                "Can I use your phone? Our car got stolen."
+            ],
+            [
+                190,
+                "Our clothes, our wallets, phones."
+            ],
+            [
+                193,
+                "Uh, we\u2019re going to the Comic-Con in Bakersfield. They have a big costume contest. It\u2019s cooler than it sounds."
+            ],
+            [
+                196,
+                "Okay, he gets how cool it is."
+            ],
+            [
+                198,
+                "Thanks, but we\u2019ve got it covered."
+            ],
+            [
+                201,
+                "Are you kidding me? After all we\u2019ve been through, I just want to go home."
+            ],
+            [
+                224,
+                "No, that can\u2019t be right."
+            ],
+            [
+                232,
+                "I say we investigate."
+            ],
+            [
+                234,
+                "Fine, but set them to stun. If we vaporize Penny, I\u2019ll never find a girlfriend that pretty again."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Interesting. Do you recall this conversation? Leonard, want to go halfsies on a steamer? No, Sheldon, we don\u2019t need a steamer. Looks like that rumpled chicken\u2019s come home to roost."
+            ],
+            [
+                7,
+                "That\u2019s a wise policy. I once borrowed my sister\u2019s makeup for a costume contest. Got a terrible case of pinkeye. But luckily, I was going as a zombie. I won second place."
+            ],
+            [
+                12,
+                "So to answer your question, no, it\u2019s not better."
+            ],
+            [
+                14,
+                "It\u2019s a comic book convention. You know, it\u2019s like pizza or particle accelerators, even the stinky one\u2019s still pretty good."
+            ],
+            [
+                43,
+                "I think you should turn on the GPS."
+            ],
+            [
+                45,
+                "But the turn-by-turn voice option isn\u2019t on. I know I\u2019d feel more safe if you turn on the turn-by-turn voice option. I love the turn-by-turn voice option."
+            ],
+            [
+                49,
+                "Ooh, sounds like that fellow knows what he\u2019s talking about. I\u2019d put on my listening ears if I were you."
+            ],
+            [
+                51,
+                "I found a hack online. I was able to upload MP3 recordings of my voice to your GPS."
+            ],
+            [
+                56,
+                "Shh, he said it\u2019s interesting."
+            ],
+            [
+                60,
+                "Oh, they shot a lot of Star Trek episodes out there."
+            ],
+            [
+                64,
+                "Oh, smashing. Now, Leonard, do you know how to get there?"
+            ],
+            [
+                66,
+                "Yeah, well luckily, someone in the car does."
+            ],
+            [
+                68,
+                "None of you will get it. It\u2019s Eisenhower."
+            ],
+            [
+                92,
+                "I know Mr. Data isn\u2019t supposed to smile, but here it comes."
+            ],
+            [
+                99,
+                "Mr. Data\u2019s weapon is his mind. I\u2019m wielding it."
+            ],
+            [
+                106,
+                "Stealing is against the law!"
+            ],
+            [
+                112,
+                "Nope. The only thing left to do now is assign blame. (To Raj) Nice going."
+            ],
+            [
+                115,
+                "What kind of person leaves his keys in the car?"
+            ],
+            [
+                117,
+                "You\u2019re right. Nice going."
+            ],
+            [
+                120,
+                "Maybe we\u2019re better off. What if we were to get in a car with a crazy person?"
+            ],
+            [
+                122,
+                "Well, perhaps we should hold up a sign that assures passing motorists of our mental competence."
+            ],
+            [
+                125,
+                "What, you think just because you\u2019re wearing a captain\u2019s uniform, you\u2019re in charge?"
+            ],
+            [
+                127,
+                "All right."
+            ],
+            [
+                162,
+                "Gentlemen, a little less bellyaching. We\u2019re Starfleet officers and a member of the Borg Collective."
+            ],
+            [
+                164,
+                "Leonard, all our lives we have dreamed of finding ourselves inside one of the fantasy worlds we love. And look at us. At this moment, we are, in fact, a Star Trek landing party stranded in an alien and unforgiving environment, relying only on our wits, our fortitude and our moxie. As long as we have those things, nothing can stop\u2026"
+            ],
+            [
+                166,
+                "I hate this planet."
+            ],
+            [
+                177,
+                "Hello. Hello. Uh, uh, uh, four glasses of water, please. Anything for you guys?"
+            ],
+            [
+                180,
+                "Scotty was on the original series, and we\u2019re Next Generation. So, joke\u2019s on you."
+            ],
+            [
+                205,
+                "Actually, it\u2019s three against one."
+            ],
+            [
+                207,
+                "Yeah, well, we\u2019re not. We\u2019re an imaginary landing party who had real-life garbage thrown at us by real-life strangers who think we\u2019re idiots. And to tell you the truth, I\u2019m starting to feel like one. I want to go home now."
+            ],
+            [
+                218,
+                "Well, I say that\u2019s the last time we ever go outside."
+            ],
+            [
+                229,
+                "There\u2019s only one logical explanation. Somewhere in the desert we crossed into an alternate dimension where the women in our lives can finally appreciate great literature."
+            ],
+            [
+                231,
+                "Captain, what are your orders?"
+            ],
+            [
+                233,
+                "Wait. They might be hostile."
+            ]
+        ],
+        "Penny": [
+            [
+                3,
+                "Hi. Here are the make-up sponges you asked for."
+            ],
+            [
+                5,
+                "Damn, you\u2019ve got more makeup than I do. You\u2019ve got better makeup than I do. Yeah, I\u2019m borrowing this."
+            ],
+            [
+                8,
+                "I feel like you guys just went to Comic-Con."
+            ],
+            [
+                10,
+                "Is that better?"
+            ],
+            [
+                13,
+                "Well, then why are you going?"
+            ],
+            [
+                15,
+                "All right. Well, you guys have fun. I guess I\u2019ll see you Sunday night."
+            ],
+            [
+                17,
+                "Okay."
+            ],
+            [
+                19,
+                "What was that for?"
+            ],
+            [
+                23,
+                "Oh, this is the best. You have booze with breakfast on a Tuesday, you got a problem. You do it on the weekend, you got brunch."
+            ],
+            [
+                31,
+                "I know. The four of them work at a major university. They\u2019re all super smart. How can they still be into something made for 12-year-olds?"
+            ],
+            [
+                34,
+                "Mmmm. Now I feel bad for picking on all those kids. Although, in my defence, if Danny Biffle didn\u2019t want to eat a mouthful of dirt, he shouldn\u2019t have shown up to school wearing a bow tie."
+            ],
+            [
+                36,
+                "Uh-uh."
+            ],
+            [
+                41,
+                "That is an amazing idea. Okay, how many of these have I had?"
+            ],
+            [
+                73,
+                "Hey, Stuart."
+            ],
+            [
+                77,
+                "No, we were just wondering why the guys like this stuff so much, so we thought we\u2019d give it a try."
+            ],
+            [
+                83,
+                "Well then, what do you recommend?"
+            ],
+            [
+                86,
+                "As evidenced by your boyfriend and his fear of hamsters."
+            ],
+            [
+                88,
+                "Ooh, Thor! He\u2019s hot."
+            ],
+            [
+                129,
+                "Hmm, okay, I\u2019m done. How did you guys finish so fast?"
+            ],
+            [
+                131,
+                "Yeah, well, I have street smarts."
+            ],
+            [
+                134,
+                "Mmm."
+            ],
+            [
+                136,
+                "Stupid?"
+            ],
+            [
+                138,
+                "I don\u2019t know how Leonard can get so caught up in this."
+            ],
+            [
+                141,
+                "I know. A hammer so heavy that no one else can pick it up?"
+            ],
+            [
+                143,
+                "That makes even less sense, I mean\u2026"
+            ],
+            [
+                145,
+                "Okay, hang on, what if Thor\u2019s hand is on the hammer? I mean, if he\u2019s touching it with his god magic, does that mean I could lift it?"
+            ],
+            [
+                148,
+                "Well, which is it?"
+            ],
+            [
+                151,
+                "Okay."
+            ],
+            [
+                155,
+                "Wait, I thought we were reading."
+            ],
+            [
+                170,
+                "Yes!"
+            ],
+            [
+                172,
+                "You said it\u2019s a magic hammer."
+            ],
+            [
+                174,
+                "If Harry Potter\u2019s wand can make decisions, why can\u2019t Thor\u2019s hammer?"
+            ],
+            [
+                184,
+                "Oh, yeah? Then how does the sun come up every day?"
+            ],
+            [
+                187,
+                "Oh, great. Yes. And then you will see, I am not wrong, because if we were in outer space, then anyone could pick up the hammer because it would be floating around in a weightless environment. Yeah, that\u2019s right, the slow reader used science. Suck on that."
+            ],
+            [
+                214,
+                "Okay, hang on. If I go to a bar and pick up a guy, and he picks up a girl, and then we all leave together, did I pick up the girl?"
+            ],
+            [
+                216,
+                "Hey, are we talking about me or are we talking about Thor?"
+            ]
+        ],
+        "Amy": [
+            [
+                24,
+                "Sheldon doesn\u2019t believe in brunch. He can\u2019t stand being at a table where one person\u2019s having an omelette and another person\u2019s having a sandwich."
+            ],
+            [
+                28,
+                "When did Howard learn to sew?"
+            ],
+            [
+                30,
+                "I don\u2019t even understand why they go to these conventions."
+            ],
+            [
+                33,
+                "It\u2019s probably because they were bullied growing up. In a world where you can\u2019t fight back, superheroes provide meaningful wish-fulfillment."
+            ],
+            [
+                37,
+                "No."
+            ],
+            [
+                39,
+                "Seriously?"
+            ],
+            [
+                71,
+                "Who cares? Just soak it in. Hello, boys."
+            ],
+            [
+                81,
+                "All right, well, who\u2019s the best superhero?"
+            ],
+            [
+                85,
+                "Ooh, I do love a bad boy."
+            ],
+            [
+                133,
+                "Well, there was a lot of action."
+            ],
+            [
+                135,
+                "And the story moved along at a brisk pace. It was, overall, what\u2019s the word I\u2019m looking for?"
+            ],
+            [
+                137,
+                "So stupid."
+            ],
+            [
+                140,
+                "What a waste of time."
+            ],
+            [
+                144,
+                "No, no, no, it doesn\u2019t. Thor is a god. The hammer is his, only he can use it. It\u2019s like Sheldon and his toothbrush. Or his thin, beckoning lips."
+            ],
+            [
+                147,
+                "Yes."
+            ],
+            [
+                149,
+                "Maybe we missed something."
+            ],
+            [
+                152,
+                "Yeah."
+            ],
+            [
+                154,
+                "Good idea. I\u2019ll help you."
+            ],
+            [
+                156,
+                "We are. We\u2019re just, uh, giving you a head start."
+            ],
+            [
+                168,
+                "It says right here on the hammer, whoever holds this hammer, if he be worthy, shall possess the power of Thor."
+            ],
+            [
+                171,
+                "No! It can\u2019t decide. It\u2019s a hammer."
+            ],
+            [
+                173,
+                "Yeah, but, it can\u2019t make decisions."
+            ],
+            [
+                175,
+                "Okay, if you\u2019re going to start comparing wands and hammers, I can\u2019t even take you seriously."
+            ],
+            [
+                183,
+                "You can\u2019t pick something up in outer space. In space, there is no up."
+            ],
+            [
+                185,
+                "Hard to argue with those kind of street smarts."
+            ],
+            [
+                211,
+                "Yeah?"
+            ],
+            [
+                213,
+                "No. Hulk picked up Thor, Thor picked up the hammer."
+            ],
+            [
+                215,
+                "Did that ever happen?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                25,
+                "He\u2019s not exhausting at all."
+            ],
+            [
+                27,
+                "It\u2019s cute how excited they are. You should have seen Howard sewing his costume all week for the convention."
+            ],
+            [
+                29,
+                "When he was a little boy, every couple months, he would have to let his mom\u2019s pants out."
+            ],
+            [
+                32,
+                "I don\u2019t mind it. I think Howie\u2019s just in touch with his inner child. Although when he comes to bed in his Batman pyjamas, sometimes it feels like I\u2019m touching his inner child."
+            ],
+            [
+                35,
+                "I\u2019ve never even read a comic book. You guys?"
+            ],
+            [
+                38,
+                "I mean, it\u2019s such an important part of their lives. Maybe we should try reading some."
+            ],
+            [
+                40,
+                "The comic book store isn\u2019t far from here."
+            ],
+            [
+                70,
+                "Why are they staring?"
+            ],
+            [
+                75,
+                "We were looking for a recommendation about comic books."
+            ],
+            [
+                79,
+                "What kind of comics do the guys like?"
+            ],
+            [
+                130,
+                "I don\u2019t know, there were a lot of pictures, and one page only had the word brakkadoom!"
+            ],
+            [
+                132,
+                "So, what\u2019d you guys think?"
+            ],
+            [
+                139,
+                "It\u2019s crazy, they spend hours arguing about things that don\u2019t even exist."
+            ],
+            [
+                142,
+                "I don\u2019t think it\u2019s heavy. It\u2019s some sort of magic, so only Thor can lift it."
+            ],
+            [
+                146,
+                "No."
+            ],
+            [
+                150,
+                "Let\u2019s read it again."
+            ],
+            [
+                153,
+                "You want some tea?"
+            ],
+            [
+                169,
+                "Hold on, who decides who\u2019s worthy? Does the hammer decide?"
+            ],
+            [
+                186,
+                "Leonard and Sheldon have boxes of comics across the hall. Why don\u2019t we go look at those?"
+            ],
+            [
+                210,
+                "Well, what if the Hulk picked up Thor while Thor is holding the hammer?"
+            ],
+            [
+                212,
+                "Then by the transitive property of picking things up, Hulk picked up the hammer."
+            ]
+        ],
+        "Penny (receiving text)": [
+            [
+                26,
+                "Oh. It\u2019s Leonard. He says they\u2019re on the road and headed for Bakersfield at warp speed. Maybe it\u2019s the mimosa, but I\u2019m gonna give the kid an LOL."
+            ]
+        ],
+        "Howard": [
+            [
+                46,
+                "Has it really only been ten miles?"
+            ],
+            [
+                58,
+                "Look, Leonard, there\u2019s a bridge. Drive off it."
+            ],
+            [
+                61,
+                "We\u2019ve got our costumes in the trunk. We could go there and have a little photo shoot."
+            ],
+            [
+                95,
+                "So what\u2019s our first pose going to be?"
+            ],
+            [
+                98,
+                "Sheldon, how is that a fight pose?"
+            ],
+            [
+                101,
+                "Okay, what\u2019s next?"
+            ],
+            [
+                103,
+                "Oh, my God. Leonard, someone\u2019s stealing your car!"
+            ],
+            [
+                108,
+                "Son of a bitch."
+            ],
+            [
+                110,
+                "Oh, so is mine."
+            ],
+            [
+                118,
+                "Car."
+            ],
+            [
+                123,
+                "Good idea. Why don\u2019t you get started on that?"
+            ],
+            [
+                158,
+                "I wish my mom was here. We could all hang out in her shadow."
+            ],
+            [
+                181,
+                "We\u2019re not with him."
+            ],
+            [
+                199,
+                "Okay, I just talked to my mom. She arranged for us to get a rental car."
+            ],
+            [
+                203,
+                "I\u2019m with Leonard. I\u2019m done."
+            ],
+            [
+                225,
+                "Maybe Thor\u2019s Hammer is a new colour of nail polish."
+            ]
+        ],
+        "GPS (in Sheldon\u2019s voice)": [
+            [
+                48,
+                "Leonard, bear left and continue on Interstate 210."
+            ]
+        ],
+        "Raj": [
+            [
+                52,
+                "That is so cool."
+            ],
+            [
+                59,
+                "You know, we\u2019re not that far from Vazquez Rocks."
+            ],
+            [
+                62,
+                "Great idea. I haven\u2019t had a carbohydrate in two weeks. These cheekbones need to be in front of a camera before I eat a pretzel and they\u2019re gone."
+            ],
+            [
+                91,
+                "And we\u2019re blending, and we\u2019re blending, and we\u2019re done."
+            ],
+            [
+                96,
+                "I say we begin with a classic Star Trek fight scene."
+            ],
+            [
+                100,
+                "Phasers on the Borg! Charlie\u2019s Angels."
+            ],
+            [
+                102,
+                "Now let\u2019s do some sexy glamour shots. I\u2019ll set the mood. (Rhythmically) Oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, Yeah, nice one, oontz, oontz. That\u2019s right. Oontz, oontz, oontz, oontz, oontz, oontz, oontz\u2026"
+            ],
+            [
+                105,
+                "Stop!"
+            ],
+            [
+                109,
+                "I\u2019ll call 911. What, oh, no, my phone is in my other pants."
+            ],
+            [
+                119,
+                "What is wrong with people? Why don\u2019t they stop?"
+            ],
+            [
+                159,
+                "Wool pants in the desert. I feel like I\u2019ve got poached testicles."
+            ],
+            [
+                161,
+                "Insurance is gonna buy you a new car. It\u2019s not gonna de-funk my junk."
+            ],
+            [
+                191,
+                "And about three hundred dollars worth of makeup, so this thief could look like anyone right now."
+            ],
+            [
+                195,
+                "It, it is. It\u2019s not just comic books. They\u2019ve got action figures, toys, a Tron-themed dance party."
+            ],
+            [
+                200,
+                "Great. We can still make it to Comic-Con."
+            ],
+            [
+                202,
+                "Don\u2019t be like that. Come on, Howard, talk to him."
+            ],
+            [
+                204,
+                "Fine, then I guess it\u2019s two against two. How do we decide?"
+            ],
+            [
+                206,
+                "What? What about the mission? You said we were a real-life landing party."
+            ],
+            [
+                208,
+                "Okay. Did we at least rent the car from Enterprise? Get it? Enterprise? Screw you. That\u2019s funny."
+            ],
+            [
+                223,
+                "Are they actually arguing about comic books?"
+            ],
+            [
+                230,
+                "If it\u2019s an alternate dimension, sounds like a job for a landing party."
+            ]
+        ],
+        "GPS": [
+            [
+                54,
+                "Continue on Interstate 210 for five miles. Here\u2019s an interesting fact about interstates."
+            ],
+            [
+                57,
+                "Interstates are numbered as follows. Even-numbered routes run east and west, odd-numbered routes run north and south. Three-digit route numbers indicate bypasses or spurs."
+            ],
+            [
+                67,
+                "Recalculating. While we\u2019re waiting, do you know which president signed the Intestate Highway System Act into law? The answer, coming up in 14 miles."
+            ],
+            [
+                236,
+                "Fun fact, President Eisenhower signed the Federal Aid Highway Act from his hospital room."
+            ],
+            [
+                239,
+                "Say, can you name the four state capitols that are not served by the interstate system?"
+            ]
+        ],
+        "Stuart": [
+            [
+                72,
+                "Oh, hey. Could you please stop staring? They\u2019re just girls. It\u2019s nothing you haven\u2019t seen in movies or in drawings."
+            ],
+            [
+                74,
+                "What brings you guys here?"
+            ],
+            [
+                76,
+                "Oh, well, I recommend you don\u2019t open a store and sell them."
+            ],
+            [
+                78,
+                "Oh, okay. What do you think you might be into? Superhero, fantasy, graphic novels, manga\u2026 I swear I will turn a hose on you."
+            ],
+            [
+                80,
+                "Um, a little bit of everything. Mostly superhero stuff."
+            ],
+            [
+                82,
+                "Shh! You can\u2019t ask a question like that in here. Are you trying to start a rumble?"
+            ],
+            [
+                84,
+                "Well, uh, let\u2019s see. You\u2019ve got your basic clean-cut good guys, Superman, Spider-Man, Captain America. Then you have your darker anti-heroes, your Batman, your Wolverine, Punisher."
+            ],
+            [
+                87,
+                "If I were you, I\u2019d go for Fables number one. The artwork is sophisticated, it\u2019s intelligently written, and it doesn\u2019t objectify or stereotype women."
+            ],
+            [
+                89,
+                "Yeah, he kind of is."
+            ]
+        ],
+        "Howard (dressed as a Borg)": [
+            [
+                93,
+                "Come on, guys. Let\u2019s do this."
+            ]
+        ],
+        "Leonard (dressed as Captain Picard)": [
+            [
+                94,
+                "Yeah, I\u2019m sweating my bald cap off."
+            ]
+        ],
+        "Guys in Passing Car (throwing a drink over Sheldon)": [
+            [
+                165,
+                "Nerds!"
+            ]
+        ],
+        "Waitress": [
+            [
+                179,
+                "Why don\u2019t you ask Scotty to beam you up?"
+            ]
+        ],
+        "Policeman": [
+            [
+                189,
+                "Was there anything valuable in the car?"
+            ],
+            [
+                192,
+                "Makeup? Sure."
+            ],
+            [
+                194,
+                "I don\u2019t know, sounds pretty cool."
+            ],
+            [
+                197,
+                "I think I have all I need here. You guys need me to call someone? I\u2019m guessing your moms?"
+            ]
+        ],
+        "Amy (off)": [
+            [
+                219,
+                "Look, right here. Red Hulk is picking up Thor\u2019s hammer \u2019cause Thor\u2019s touching it."
+            ]
+        ],
+        "Penny (off)": [
+            [
+                220,
+                "No, it\u2019s because they\u2019re in space. He\u2019s really just touching the strap."
+            ],
+            [
+                227,
+                "How could Red Hulk be worthy?"
+            ]
+        ],
+        "Amy(off)": [
+            [
+                221,
+                "The strap is part of the hammer."
+            ]
+        ],
+        "Bernadette (off)": [
+            [
+                222,
+                "No, it\u2019s not!"
+            ],
+            [
+                226,
+                "Then Red Hulk must be worthy."
+            ],
+            [
+                228,
+                "You don\u2019t know his life."
+            ]
+        ],
+        "First Car Thief": [
+            [
+                237,
+                "Wow, that is interesting."
+            ],
+            [
+                240,
+                "Ooh, another quiz."
+            ]
+        ],
+        "Second Car Thief": [
+            [
+                238,
+                "You learn something new every day."
+            ],
+            [
+                241,
+                "Yes!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. Sheldon is steaming a Star Trek uniform."
+        ],
+        [
+            "Leonard",
+            "Hey, will you steam my uniform next?"
+        ],
+        [
+            "Sheldon",
+            "Interesting. Do you recall this conversation? Leonard, want to go halfsies on a steamer? No, Sheldon, we don\u2019t need a steamer. Looks like that rumpled chicken\u2019s come home to roost."
+        ],
+        [
+            "Penny",
+            "Hi. Here are the make-up sponges you asked for."
+        ],
+        [
+            "Leonard",
+            "Oh, thanks, I thought I had more."
+        ],
+        [
+            "Penny",
+            "Damn, you\u2019ve got more makeup than I do. You\u2019ve got better makeup than I do. Yeah, I\u2019m borrowing this."
+        ],
+        [
+            "Leonard",
+            "Hey, hey, hey, hey. This is my Comic-Con makeup. I love you, but there are some things a man doesn\u2019t share with his girlfriend."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a wise policy. I once borrowed my sister\u2019s makeup for a costume contest. Got a terrible case of pinkeye. But luckily, I was going as a zombie. I won second place."
+        ],
+        [
+            "Penny",
+            "I feel like you guys just went to Comic-Con."
+        ],
+        [
+            "Leonard",
+            "That was San Diego Comic-Con. This is Bakersfield Comic-Con."
+        ],
+        [
+            "Penny",
+            "Is that better?"
+        ],
+        [
+            "Leonard",
+            "Well, it\u2019s a lot smaller. It\u2019s more about the comic books. The way these conventions used to be before they went all Hollywood."
+        ],
+        [
+            "Sheldon",
+            "So to answer your question, no, it\u2019s not better."
+        ],
+        [
+            "Penny",
+            "Well, then why are you going?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a comic book convention. You know, it\u2019s like pizza or particle accelerators, even the stinky one\u2019s still pretty good."
+        ],
+        [
+            "Penny",
+            "All right. Well, you guys have fun. I guess I\u2019ll see you Sunday night."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "Oh, hang on a second. (Hands her the day\u2019s newspaper) Hold this. (Photographs the two of them together)"
+        ],
+        [
+            "Penny",
+            "What was that for?"
+        ],
+        [
+            "Leonard",
+            "To show people when they don\u2019t believe me."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "A restaurant."
+        ],
+        [
+            "Penny",
+            "Oh, this is the best. You have booze with breakfast on a Tuesday, you got a problem. You do it on the weekend, you got brunch."
+        ],
+        [
+            "Amy",
+            "Sheldon doesn\u2019t believe in brunch. He can\u2019t stand being at a table where one person\u2019s having an omelette and another person\u2019s having a sandwich."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s not exhausting at all."
+        ],
+        [
+            "Penny (receiving text)",
+            "Oh. It\u2019s Leonard. He says they\u2019re on the road and headed for Bakersfield at warp speed. Maybe it\u2019s the mimosa, but I\u2019m gonna give the kid an LOL."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s cute how excited they are. You should have seen Howard sewing his costume all week for the convention."
+        ],
+        [
+            "Amy",
+            "When did Howard learn to sew?"
+        ],
+        [
+            "Bernadette",
+            "When he was a little boy, every couple months, he would have to let his mom\u2019s pants out."
+        ],
+        [
+            "Amy",
+            "I don\u2019t even understand why they go to these conventions."
+        ],
+        [
+            "Penny",
+            "I know. The four of them work at a major university. They\u2019re all super smart. How can they still be into something made for 12-year-olds?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t mind it. I think Howie\u2019s just in touch with his inner child. Although when he comes to bed in his Batman pyjamas, sometimes it feels like I\u2019m touching his inner child."
+        ],
+        [
+            "Amy",
+            "It\u2019s probably because they were bullied growing up. In a world where you can\u2019t fight back, superheroes provide meaningful wish-fulfillment."
+        ],
+        [
+            "Penny",
+            "Mmmm. Now I feel bad for picking on all those kids. Although, in my defence, if Danny Biffle didn\u2019t want to eat a mouthful of dirt, he shouldn\u2019t have shown up to school wearing a bow tie."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ve never even read a comic book. You guys?"
+        ],
+        [
+            "Penny",
+            "Uh-uh."
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Bernadette",
+            "I mean, it\u2019s such an important part of their lives. Maybe we should try reading some."
+        ],
+        [
+            "Amy",
+            "Seriously?"
+        ],
+        [
+            "Bernadette",
+            "The comic book store isn\u2019t far from here."
+        ],
+        [
+            "Penny",
+            "That is an amazing idea. Okay, how many of these have I had?"
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Sheldon",
+            "I think you should turn on the GPS."
+        ],
+        [
+            "Leonard",
+            "It is on."
+        ],
+        [
+            "Sheldon",
+            "But the turn-by-turn voice option isn\u2019t on. I know I\u2019d feel more safe if you turn on the turn-by-turn voice option. I love the turn-by-turn voice option."
+        ],
+        [
+            "Howard",
+            "Has it really only been ten miles?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m turning it on, but just to shut you up."
+        ],
+        [
+            "GPS (in Sheldon\u2019s voice)",
+            "Leonard, bear left and continue on Interstate 210."
+        ],
+        [
+            "Sheldon",
+            "Ooh, sounds like that fellow knows what he\u2019s talking about. I\u2019d put on my listening ears if I were you."
+        ],
+        [
+            "Leonard",
+            "What did you do?"
+        ],
+        [
+            "Sheldon",
+            "I found a hack online. I was able to upload MP3 recordings of my voice to your GPS."
+        ],
+        [
+            "Raj",
+            "That is so cool."
+        ],
+        [
+            "Leonard",
+            "Counterpoint, no, it\u2019s not."
+        ],
+        [
+            "GPS",
+            "Continue on Interstate 210 for five miles. Here\u2019s an interesting fact about interstates."
+        ],
+        [
+            "Leonard",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "Shh, he said it\u2019s interesting."
+        ],
+        [
+            "GPS",
+            "Interstates are numbered as follows. Even-numbered routes run east and west, odd-numbered routes run north and south. Three-digit route numbers indicate bypasses or spurs."
+        ],
+        [
+            "Howard",
+            "Look, Leonard, there\u2019s a bridge. Drive off it."
+        ],
+        [
+            "Raj",
+            "You know, we\u2019re not that far from Vazquez Rocks."
+        ],
+        [
+            "Sheldon",
+            "Oh, they shot a lot of Star Trek episodes out there."
+        ],
+        [
+            "Howard",
+            "We\u2019ve got our costumes in the trunk. We could go there and have a little photo shoot."
+        ],
+        [
+            "Raj",
+            "Great idea. I haven\u2019t had a carbohydrate in two weeks. These cheekbones need to be in front of a camera before I eat a pretzel and they\u2019re gone."
+        ],
+        [
+            "Leonard",
+            "Yeah, that sounds fun."
+        ],
+        [
+            "Sheldon",
+            "Oh, smashing. Now, Leonard, do you know how to get there?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well luckily, someone in the car does."
+        ],
+        [
+            "GPS",
+            "Recalculating. While we\u2019re waiting, do you know which president signed the Intestate Highway System Act into law? The answer, coming up in 14 miles."
+        ],
+        [
+            "Sheldon",
+            "None of you will get it. It\u2019s Eisenhower."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Bernadette",
+            "Why are they staring?"
+        ],
+        [
+            "Amy",
+            "Who cares? Just soak it in. Hello, boys."
+        ],
+        [
+            "Stuart",
+            "Oh, hey. Could you please stop staring? They\u2019re just girls. It\u2019s nothing you haven\u2019t seen in movies or in drawings."
+        ],
+        [
+            "Penny",
+            "Hey, Stuart."
+        ],
+        [
+            "Stuart",
+            "What brings you guys here?"
+        ],
+        [
+            "Bernadette",
+            "We were looking for a recommendation about comic books."
+        ],
+        [
+            "Stuart",
+            "Oh, well, I recommend you don\u2019t open a store and sell them."
+        ],
+        [
+            "Penny",
+            "No, we were just wondering why the guys like this stuff so much, so we thought we\u2019d give it a try."
+        ],
+        [
+            "Stuart",
+            "Oh, okay. What do you think you might be into? Superhero, fantasy, graphic novels, manga\u2026 I swear I will turn a hose on you."
+        ],
+        [
+            "Bernadette",
+            "What kind of comics do the guys like?"
+        ],
+        [
+            "Stuart",
+            "Um, a little bit of everything. Mostly superhero stuff."
+        ],
+        [
+            "Amy",
+            "All right, well, who\u2019s the best superhero?"
+        ],
+        [
+            "Stuart",
+            "Shh! You can\u2019t ask a question like that in here. Are you trying to start a rumble?"
+        ],
+        [
+            "Penny",
+            "Well then, what do you recommend?"
+        ],
+        [
+            "Stuart",
+            "Well, uh, let\u2019s see. You\u2019ve got your basic clean-cut good guys, Superman, Spider-Man, Captain America. Then you have your darker anti-heroes, your Batman, your Wolverine, Punisher."
+        ],
+        [
+            "Amy",
+            "Ooh, I do love a bad boy."
+        ],
+        [
+            "Penny",
+            "As evidenced by your boyfriend and his fear of hamsters."
+        ],
+        [
+            "Stuart",
+            "If I were you, I\u2019d go for Fables number one. The artwork is sophisticated, it\u2019s intelligently written, and it doesn\u2019t objectify or stereotype women."
+        ],
+        [
+            "Penny",
+            "Ooh, Thor! He\u2019s hot."
+        ],
+        [
+            "Stuart",
+            "Yeah, he kind of is."
+        ],
+        [
+            "Scene",
+            "Vasquez Rocks. Sheldon, dressed as Data, is having his makeup put on by Raj, dressed as Worf."
+        ],
+        [
+            "Raj",
+            "And we\u2019re blending, and we\u2019re blending, and we\u2019re done."
+        ],
+        [
+            "Sheldon",
+            "I know Mr. Data isn\u2019t supposed to smile, but here it comes."
+        ],
+        [
+            "Howard (dressed as a Borg)",
+            "Come on, guys. Let\u2019s do this."
+        ],
+        [
+            "Leonard (dressed as Captain Picard)",
+            "Yeah, I\u2019m sweating my bald cap off."
+        ],
+        [
+            "Howard",
+            "So what\u2019s our first pose going to be?"
+        ],
+        [
+            "Raj",
+            "I say we begin with a classic Star Trek fight scene."
+        ],
+        [
+            "Leonard",
+            "I\u2019ll set the timer."
+        ],
+        [
+            "Howard",
+            "Sheldon, how is that a fight pose?"
+        ],
+        [
+            "Sheldon",
+            "Mr. Data\u2019s weapon is his mind. I\u2019m wielding it."
+        ],
+        [
+            "Raj",
+            "Phasers on the Borg! Charlie\u2019s Angels."
+        ],
+        [
+            "Howard",
+            "Okay, what\u2019s next?"
+        ],
+        [
+            "Raj",
+            "Now let\u2019s do some sexy glamour shots. I\u2019ll set the mood. (Rhythmically) Oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, oontz, Yeah, nice one, oontz, oontz. That\u2019s right. Oontz, oontz, oontz, oontz, oontz, oontz, oontz\u2026"
+        ],
+        [
+            "Howard",
+            "Oh, my God. Leonard, someone\u2019s stealing your car!"
+        ],
+        [
+            "Leonard",
+            "What? Hey, hey! Come back here!"
+        ],
+        [
+            "Raj",
+            "Stop!"
+        ],
+        [
+            "Sheldon",
+            "Stealing is against the law!"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t believe this."
+        ],
+        [
+            "Howard",
+            "Son of a bitch."
+        ],
+        [
+            "Raj",
+            "I\u2019ll call 911. What, oh, no, my phone is in my other pants."
+        ],
+        [
+            "Howard",
+            "Oh, so is mine."
+        ],
+        [
+            "Leonard",
+            "Mine, too. Anybody got any ideas?"
+        ],
+        [
+            "Sheldon",
+            "Nope. The only thing left to do now is assign blame. (To Raj) Nice going."
+        ],
+        [
+            "Scene",
+            "The side of the road."
+        ],
+        [
+            "Leonard",
+            "What kind of a person steals another person\u2019s car in broad daylight?"
+        ],
+        [
+            "Sheldon",
+            "What kind of person leaves his keys in the car?"
+        ],
+        [
+            "Leonard",
+            "I thought we agreed this was all Koothrappali\u2019s fault."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right. Nice going."
+        ],
+        [
+            "Howard",
+            "Car."
+        ],
+        [
+            "Raj",
+            "What is wrong with people? Why don\u2019t they stop?"
+        ],
+        [
+            "Sheldon",
+            "Maybe we\u2019re better off. What if we were to get in a car with a crazy person?"
+        ],
+        [
+            "Leonard",
+            "Look at us, Sheldon. We\u2019re the crazy people."
+        ],
+        [
+            "Sheldon",
+            "Well, perhaps we should hold up a sign that assures passing motorists of our mental competence."
+        ],
+        [
+            "Howard",
+            "Good idea. Why don\u2019t you get started on that?"
+        ],
+        [
+            "Leonard",
+            "Come on, let\u2019s just start walking. There\u2019s got to be a gas station or something nearby."
+        ],
+        [
+            "Sheldon",
+            "What, you think just because you\u2019re wearing a captain\u2019s uniform, you\u2019re in charge?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "All right."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Hmm, okay, I\u2019m done. How did you guys finish so fast?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know, there were a lot of pictures, and one page only had the word brakkadoom!"
+        ],
+        [
+            "Penny",
+            "Yeah, well, I have street smarts."
+        ],
+        [
+            "Bernadette",
+            "So, what\u2019d you guys think?"
+        ],
+        [
+            "Amy",
+            "Well, there was a lot of action."
+        ],
+        [
+            "Penny",
+            "Mmm."
+        ],
+        [
+            "Amy",
+            "And the story moved along at a brisk pace. It was, overall, what\u2019s the word I\u2019m looking for?"
+        ],
+        [
+            "Penny",
+            "Stupid?"
+        ],
+        [
+            "Amy",
+            "So stupid."
+        ],
+        [
+            "Penny",
+            "I don\u2019t know how Leonard can get so caught up in this."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s crazy, they spend hours arguing about things that don\u2019t even exist."
+        ],
+        [
+            "Amy",
+            "What a waste of time."
+        ],
+        [
+            "Penny",
+            "I know. A hammer so heavy that no one else can pick it up?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t think it\u2019s heavy. It\u2019s some sort of magic, so only Thor can lift it."
+        ],
+        [
+            "Penny",
+            "That makes even less sense, I mean\u2026"
+        ],
+        [
+            "Amy",
+            "No, no, no, it doesn\u2019t. Thor is a god. The hammer is his, only he can use it. It\u2019s like Sheldon and his toothbrush. Or his thin, beckoning lips."
+        ],
+        [
+            "Penny",
+            "Okay, hang on, what if Thor\u2019s hand is on the hammer? I mean, if he\u2019s touching it with his god magic, does that mean I could lift it?"
+        ],
+        [
+            "Bernadette",
+            "No."
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "Well, which is it?"
+        ],
+        [
+            "Amy",
+            "Maybe we missed something."
+        ],
+        [
+            "Bernadette",
+            "Let\u2019s read it again."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Amy",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "You want some tea?"
+        ],
+        [
+            "Amy",
+            "Good idea. I\u2019ll help you."
+        ],
+        [
+            "Penny",
+            "Wait, I thought we were reading."
+        ],
+        [
+            "Amy",
+            "We are. We\u2019re just, uh, giving you a head start."
+        ],
+        [
+            "Scene",
+            "The desert."
+        ],
+        [
+            "Howard",
+            "I wish my mom was here. We could all hang out in her shadow."
+        ],
+        [
+            "Raj",
+            "Wool pants in the desert. I feel like I\u2019ve got poached testicles."
+        ],
+        [
+            "Leonard",
+            "Oh, you poor thing, you\u2019re sweating. That\u2019s so much worse than having your car stolen."
+        ],
+        [
+            "Raj",
+            "Insurance is gonna buy you a new car. It\u2019s not gonna de-funk my junk."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, a little less bellyaching. We\u2019re Starfleet officers and a member of the Borg Collective."
+        ],
+        [
+            "Leonard",
+            "Please, Sheldon, I am so not in the mood."
+        ],
+        [
+            "Sheldon",
+            "Leonard, all our lives we have dreamed of finding ourselves inside one of the fantasy worlds we love. And look at us. At this moment, we are, in fact, a Star Trek landing party stranded in an alien and unforgiving environment, relying only on our wits, our fortitude and our moxie. As long as we have those things, nothing can stop\u2026"
+        ],
+        [
+            "Guys in Passing Car (throwing a drink over Sheldon)",
+            "Nerds!"
+        ],
+        [
+            "Sheldon",
+            "I hate this planet."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s Apartment."
+        ],
+        [
+            "Amy",
+            "It says right here on the hammer, whoever holds this hammer, if he be worthy, shall possess the power of Thor."
+        ],
+        [
+            "Bernadette",
+            "Hold on, who decides who\u2019s worthy? Does the hammer decide?"
+        ],
+        [
+            "Penny",
+            "Yes!"
+        ],
+        [
+            "Amy",
+            "No! It can\u2019t decide. It\u2019s a hammer."
+        ],
+        [
+            "Penny",
+            "You said it\u2019s a magic hammer."
+        ],
+        [
+            "Amy",
+            "Yeah, but, it can\u2019t make decisions."
+        ],
+        [
+            "Penny",
+            "If Harry Potter\u2019s wand can make decisions, why can\u2019t Thor\u2019s hammer?"
+        ],
+        [
+            "Amy",
+            "Okay, if you\u2019re going to start comparing wands and hammers, I can\u2019t even take you seriously."
+        ],
+        [
+            "Scene",
+            "A diner."
+        ],
+        [
+            "Sheldon",
+            "Hello. Hello. Uh, uh, uh, four glasses of water, please. Anything for you guys?"
+        ],
+        [
+            "Leonard",
+            "Can I use your phone? Our car got stolen."
+        ],
+        [
+            "Waitress",
+            "Why don\u2019t you ask Scotty to beam you up?"
+        ],
+        [
+            "Sheldon",
+            "Scotty was on the original series, and we\u2019re Next Generation. So, joke\u2019s on you."
+        ],
+        [
+            "Howard",
+            "We\u2019re not with him."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "You can\u2019t pick something up in outer space. In space, there is no up."
+        ],
+        [
+            "Penny",
+            "Oh, yeah? Then how does the sun come up every day?"
+        ],
+        [
+            "Amy",
+            "Hard to argue with those kind of street smarts."
+        ],
+        [
+            "Bernadette",
+            "Leonard and Sheldon have boxes of comics across the hall. Why don\u2019t we go look at those?"
+        ],
+        [
+            "Penny",
+            "Oh, great. Yes. And then you will see, I am not wrong, because if we were in outer space, then anyone could pick up the hammer because it would be floating around in a weightless environment. Yeah, that\u2019s right, the slow reader used science. Suck on that."
+        ],
+        [
+            "Scene",
+            "The diner."
+        ],
+        [
+            "Policeman",
+            "Was there anything valuable in the car?"
+        ],
+        [
+            "Leonard",
+            "Our clothes, our wallets, phones."
+        ],
+        [
+            "Raj",
+            "And about three hundred dollars worth of makeup, so this thief could look like anyone right now."
+        ],
+        [
+            "Policeman",
+            "Makeup? Sure."
+        ],
+        [
+            "Leonard",
+            "Uh, we\u2019re going to the Comic-Con in Bakersfield. They have a big costume contest. It\u2019s cooler than it sounds."
+        ],
+        [
+            "Policeman",
+            "I don\u2019t know, sounds pretty cool."
+        ],
+        [
+            "Raj",
+            "It, it is. It\u2019s not just comic books. They\u2019ve got action figures, toys, a Tron-themed dance party."
+        ],
+        [
+            "Leonard",
+            "Okay, he gets how cool it is."
+        ],
+        [
+            "Policeman",
+            "I think I have all I need here. You guys need me to call someone? I\u2019m guessing your moms?"
+        ],
+        [
+            "Leonard",
+            "Thanks, but we\u2019ve got it covered."
+        ],
+        [
+            "Howard",
+            "Okay, I just talked to my mom. She arranged for us to get a rental car."
+        ],
+        [
+            "Raj",
+            "Great. We can still make it to Comic-Con."
+        ],
+        [
+            "Leonard",
+            "Are you kidding me? After all we\u2019ve been through, I just want to go home."
+        ],
+        [
+            "Raj",
+            "Don\u2019t be like that. Come on, Howard, talk to him."
+        ],
+        [
+            "Howard",
+            "I\u2019m with Leonard. I\u2019m done."
+        ],
+        [
+            "Raj",
+            "Fine, then I guess it\u2019s two against two. How do we decide?"
+        ],
+        [
+            "Sheldon",
+            "Actually, it\u2019s three against one."
+        ],
+        [
+            "Raj",
+            "What? What about the mission? You said we were a real-life landing party."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, we\u2019re not. We\u2019re an imaginary landing party who had real-life garbage thrown at us by real-life strangers who think we\u2019re idiots. And to tell you the truth, I\u2019m starting to feel like one. I want to go home now."
+        ],
+        [
+            "Raj",
+            "Okay. Did we at least rent the car from Enterprise? Get it? Enterprise? Screw you. That\u2019s funny."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Bernadette",
+            "Well, what if the Hulk picked up Thor while Thor is holding the hammer?"
+        ],
+        [
+            "Amy",
+            "Yeah?"
+        ],
+        [
+            "Bernadette",
+            "Then by the transitive property of picking things up, Hulk picked up the hammer."
+        ],
+        [
+            "Amy",
+            "No. Hulk picked up Thor, Thor picked up the hammer."
+        ],
+        [
+            "Penny",
+            "Okay, hang on. If I go to a bar and pick up a guy, and he picks up a girl, and then we all leave together, did I pick up the girl?"
+        ],
+        [
+            "Amy",
+            "Did that ever happen?"
+        ],
+        [
+            "Penny",
+            "Hey, are we talking about me or are we talking about Thor?"
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Sheldon",
+            "Well, I say that\u2019s the last time we ever go outside."
+        ],
+        [
+            "Amy (off)",
+            "Look, right here. Red Hulk is picking up Thor\u2019s hammer \u2019cause Thor\u2019s touching it."
+        ],
+        [
+            "Penny (off)",
+            "No, it\u2019s because they\u2019re in space. He\u2019s really just touching the strap."
+        ],
+        [
+            "Amy(off)",
+            "The strap is part of the hammer."
+        ],
+        [
+            "Bernadette (off)",
+            "No, it\u2019s not!"
+        ],
+        [
+            "Raj",
+            "Are they actually arguing about comic books?"
+        ],
+        [
+            "Leonard",
+            "No, that can\u2019t be right."
+        ],
+        [
+            "Howard",
+            "Maybe Thor\u2019s Hammer is a new colour of nail polish."
+        ],
+        [
+            "Bernadette (off)",
+            "Then Red Hulk must be worthy."
+        ],
+        [
+            "Penny (off)",
+            "How could Red Hulk be worthy?"
+        ],
+        [
+            "Bernadette (off)",
+            "You don\u2019t know his life."
+        ],
+        [
+            "Sheldon",
+            "There\u2019s only one logical explanation. Somewhere in the desert we crossed into an alternate dimension where the women in our lives can finally appreciate great literature."
+        ],
+        [
+            "Raj",
+            "If it\u2019s an alternate dimension, sounds like a job for a landing party."
+        ],
+        [
+            "Sheldon",
+            "Captain, what are your orders?"
+        ],
+        [
+            "Leonard",
+            "I say we investigate."
+        ],
+        [
+            "Sheldon",
+            "Wait. They might be hostile."
+        ],
+        [
+            "Leonard",
+            "Fine, but set them to stun. If we vaporize Penny, I\u2019ll never find a girlfriend that pretty again."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "GPS",
+            "Fun fact, President Eisenhower signed the Federal Aid Highway Act from his hospital room."
+        ],
+        [
+            "First Car Thief",
+            "Wow, that is interesting."
+        ],
+        [
+            "Second Car Thief",
+            "You learn something new every day."
+        ],
+        [
+            "GPS",
+            "Say, can you name the four state capitols that are not served by the interstate system?"
+        ],
+        [
+            "First Car Thief",
+            "Ooh, another quiz."
+        ],
+        [
+            "Second Car Thief",
+            "Yes!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-13-the-bakersfield-expedition/"
+}

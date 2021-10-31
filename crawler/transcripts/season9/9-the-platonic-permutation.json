@@ -1,0 +1,2002 @@
+{
+    "Season": 9,
+    "Episode": 9,
+    "Title": "the platonic permutation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                22,
+                "Credits sequence."
+            ],
+            [
+                23,
+                "The apartment."
+            ],
+            [
+                38,
+                "Outside the soup kitchen."
+            ],
+            [
+                57,
+                "The apartment."
+            ],
+            [
+                79,
+                "Amy\u2019s car."
+            ],
+            [
+                91,
+                "The soup kitchen."
+            ],
+            [
+                98,
+                "Amy\u2019s car. "
+            ],
+            [
+                107,
+                "The apartment."
+            ],
+            [
+                125,
+                "The soup kitchen."
+            ],
+            [
+                141,
+                "The apartment. "
+            ],
+            [
+                157,
+                "Amy\u2019s car."
+            ],
+            [
+                173,
+                "The soup kitchen."
+            ],
+            [
+                194,
+                "The aquarium. "
+            ],
+            [
+                219,
+                "The apartment. "
+            ],
+            [
+                229,
+                "The apartment."
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "Have you guys seen this feature that lets you talk to Siri without pressing any buttons?"
+            ],
+            [
+                3,
+                "You just say, uh, Hey, Siri, what time is it?"
+            ],
+            [
+                6,
+                "Nice try. It only recognizes my voice."
+            ],
+            [
+                8,
+                "I don\u2019t sound like that."
+            ],
+            [
+                42,
+                "Do you ever do anything for anyone else?"
+            ],
+            [
+                96,
+                "You\u2019re in a soup kitchen, not a production of Oliver!"
+            ],
+            [
+                126,
+                "You know, this reminds me of high school."
+            ],
+            [
+                128,
+                "No, I was in India, it was humid and smelled funny."
+            ],
+            [
+                132,
+                "You know, I read that washing dishes can be an excellent form of meditation. The key is that while washing the dishes one should only be washing the dishes."
+            ],
+            [
+                134,
+                "No, seriously. It\u2019s about being present in the moment, focusing on the feeling of the warm water, the smell of the detergent, the sound of the dishes squeaking, and following your own breath. It\u2019s about, it\u2019s about simply being."
+            ],
+            [
+                138,
+                "Me."
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "No. How does it work?"
+            ],
+            [
+                5,
+                "So now anyone can control your phone? Hey, Siri, show me pictures of naked grandma butts."
+            ],
+            [
+                7,
+                "Oh. Cool. (In thick Indian accent) Hey, Siri, show me pictures of naked grandma butts."
+            ],
+            [
+                19,
+                "Oh, I can\u2019t. I\u2019m going to the soup kitchen, too."
+            ],
+            [
+                21,
+                "If you can\u2019t support me when I\u2019m lying, why are we married?"
+            ],
+            [
+                41,
+                "Six hours? Oh, God, I don\u2019t want to complain for that long."
+            ],
+            [
+                43,
+                "I happen to be a giving and generous lover."
+            ],
+            [
+                50,
+                "Maybe I\u2019m happy that so many people turned up to help the less fortunate."
+            ],
+            [
+                55,
+                "Wipe that smug smile off your face."
+            ],
+            [
+                93,
+                "So we don\u2019t even get to be up front where the action is?"
+            ],
+            [
+                95,
+                "I don\u2019t know. I was hoping some poor kid would come up to me and say, please, sir, I want some more."
+            ],
+            [
+                97,
+                "It\u2019s not like I\u2019m expecting them to sing."
+            ],
+            [
+                129,
+                "All right, I think I\u2019m getting into a groove here. This isn\u2019t so bad."
+            ],
+            [
+                131,
+                "We\u2019ve only been doing this 20 minutes?"
+            ],
+            [
+                133,
+                "Just because you have that accent doesn\u2019t mean what you say isn\u2019t stupid."
+            ],
+            [
+                135,
+                "Huh. Okay, I\u2019ll try it."
+            ],
+            [
+                140,
+                "No fair, I was meditating."
+            ],
+            [
+                175,
+                "Thanks. You got to be kidding me."
+            ],
+            [
+                177,
+                "Y, you\u2019re Elon Musk."
+            ],
+            [
+                179,
+                "Wh, what are you doing here?"
+            ],
+            [
+                181,
+                "Oh, man. I, what an honour to meet you. I\u2019m, I\u2019m such a fan of Tesla and SpaceX. All your companies. Howard Wolowitz, Caltech."
+            ],
+            [
+                183,
+                "Oh, yeah. Nothing better than helping people. Which is something I realized when I was viewing Earth from the deck of the International Space Station, where I spent two months as a payload specialist, a job I was qualified for because I\u2019m an MIT-trained engineer."
+            ],
+            [
+                185,
+                "Sorry. It\u2019s just, you\u2019re you, you know? And I really want you to adopt me."
+            ],
+            [
+                187,
+                "Oh. I made my wife come down, too."
+            ],
+            [
+                189,
+                "Is that a job offer? \u2018Cause I really want to go to Mars. Assuming I can bring my wife. She hardly takes up any room. She\u2019s basically a carry-on."
+            ],
+            [
+                191,
+                "Thank you."
+            ],
+            [
+                193,
+                "A partially eaten piece of pumpkin pie from a homeless shelter? With Elon Musk, you bet I do."
+            ]
+        ],
+        "Siri: The time is 6": [
+            [
+                4,
+                "37 p.m."
+            ]
+        ],
+        "Siri": [
+            [
+                9,
+                "Here are some images of naked grandma butts."
+            ]
+        ],
+        "Sheldon": [
+            [
+                10,
+                "Hey. Good news, everybody. Now that I\u2019m no longer with Amy, I have an extra ticket to the annual Thanksgiving lunch buffet at the aquarium cafeteria. Who wants it? Well, you realize you won\u2019t be going alone, I\u2019ll be there the whole time. Providing fish and pilgrim facts. Can you people hear me?"
+            ],
+            [
+                18,
+                "Well, Howard, what about you?"
+            ],
+            [
+                25,
+                "Well, I\u2019m calling because Thanksgiving is coming up, and I wanted to offer you the aquarium tickets."
+            ],
+            [
+                27,
+                "No. They\u2019d rather spend the holiday with each other than find out of this is the year I finally touch a starfish. Anyway, I wouldn\u2019t want the tickets to go to waste, so take whomever you\u2019d like."
+            ],
+            [
+                29,
+                "And feel free to tell your guest that the Myanmar catfish is also known as the pilgrim fish. In case the turkey\u2019s dry and you need something juicy."
+            ],
+            [
+                31,
+                "You don\u2019t think that will be awkward?"
+            ],
+            [
+                33,
+                "Very well, then. I\u2019ll see you on Thanksgiving morning."
+            ],
+            [
+                35,
+                "Oh, and forget what I said about the Myanmar catfish. My list of marine-themed pilgrim facts is pretty short."
+            ],
+            [
+                37,
+                "And there goes my list."
+            ],
+            [
+                80,
+                "Hello."
+            ],
+            [
+                82,
+                "I am. You know, and in an effort to reduce awkwardness as we learn how to function as friends, I printed out a list of safe topics for polite conversation."
+            ],
+            [
+                84,
+                "If there were a list of things that make me more comfortable, lists would be on the top of that list. Okay, now, oh, since last we spoke, have you acquired any pets?"
+            ],
+            [
+                86,
+                "No. Um, since last we spoke, have you planned or gone on any vacations?"
+            ],
+            [
+                88,
+                "Mm. Your aunt in Modesto?"
+            ],
+            [
+                90,
+                "Bakersfield. I see. Where has this list been all my life?"
+            ],
+            [
+                99,
+                "and then the next day was 73 degrees, and the day after that was 72, and then it was 72 again, uh, then it was 74, and that brings us to today, at I\u2019d wear shorts if I had a pair. 78."
+            ],
+            [
+                101,
+                "I don\u2019t know if I\u2019d call it discussing. You kind of sat back and let me do all the work. Let\u2019s see, what\u2019s next on the list. Oh, uh, do you whittle, and if so, what kind of knife do you use."
+            ],
+            [
+                103,
+                "All right. Well, what should we talk about?"
+            ],
+            [
+                105,
+                "Very well. I know you\u2019ve been seeing other men. Have you had coitus with any of them?"
+            ],
+            [
+                158,
+                "I\u2019m sensing things have gotten awkward."
+            ],
+            [
+                160,
+                "All right."
+            ],
+            [
+                162,
+                "Just a few."
+            ],
+            [
+                164,
+                "How many dates have you been on? Who were they with? Where\u2019d you go? Where did you meet them? Did you sleep with them? And how much longer to the aquarium? I\u2019m getting kind of hungry."
+            ],
+            [
+                166,
+                "Is that regular or honey nut?"
+            ],
+            [
+                168,
+                "You mixed them. No wonder gentleman callers are pounding down your door. Do you have any questions for me?"
+            ],
+            [
+                170,
+                "I am."
+            ],
+            [
+                172,
+                "I believe you. I\u2019d believe you more if you threw a few Apple Jacks in here."
+            ],
+            [
+                195,
+                "You know, for a Thanksgiving buffet in an aquarium cafeteria, that was really bad."
+            ],
+            [
+                197,
+                "They gave one to that baby. He wasn\u2019t even awake."
+            ],
+            [
+                199,
+                "Oh. Would you care to play an ocean-themed game I invented?"
+            ],
+            [
+                201,
+                "It\u2019s called Food, Friend, Fight. One of us chooses three aquatic creatures, and the other one must decide which he would eat, befriend, or battle."
+            ],
+            [
+                203,
+                "What is that?"
+            ],
+            [
+                205,
+                "Well, my game is better, \u2019cause instead of marrying someone, you get to eat them."
+            ],
+            [
+                207,
+                "I\u2019ll start you off easy. Electric eel, pufferfish, shrimp."
+            ],
+            [
+                209,
+                "Very well done."
+            ],
+            [
+                211,
+                "Well, I\u2019d befriend SpongeBob but he\u2019s not real, so I can\u2019t do that, can I?"
+            ],
+            [
+                213,
+                "Hey, let\u2019s not pull at that thread. Okay. I\u2019ll fight SpongeBob, because he\u2019s so friendly we\u2019ll just end up tickling each other. Um, I\u2019ll befriend the seal, because he\u2019s trainable, which is the problem I\u2019m having with my current friends. Which means I\u2019ll have to eat the hagfish."
+            ],
+            [
+                215,
+                "I know. It makes its own gravy, it\u2019ll slide right down."
+            ],
+            [
+                217,
+                "How can you miss a game you\u2019ve never played before, silly?"
+            ],
+            [
+                231,
+                "Me, too. It\u2019s comforting to know that she and I are able to function as friends."
+            ],
+            [
+                233,
+                "Oh, I\u2019m sure you and Leonard will be able to pull it off. (Phone rings) Oh. It\u2019s my friend Amy. Hello."
+            ],
+            [
+                235,
+                "Did you have a nice time?"
+            ],
+            [
+                237,
+                "Well, I can\u2019t take all the credit. It was pretty funny when that one anchovy started going the wrong way."
+            ],
+            [
+                239,
+                "Oh. I thought we were just friends."
+            ],
+            [
+                241,
+                "Amy, I excel at many things, but getting over you wasn\u2019t one of them. I think I need to just be your friend."
+            ],
+            [
+                243,
+                "Good. Oh, I watched a video of the hagfish producing mucus, so I\u2019m gonna change my answer and eat SpongeBob."
+            ]
+        ],
+        "Leonard": [
+            [
+                11,
+                "Well, we\u2019re having everyone over."
+            ],
+            [
+                13,
+                "Otherwise we\u2019d love to."
+            ],
+            [
+                15,
+                "Yeah, poor us."
+            ],
+            [
+                59,
+                "I know. I feel so grown up."
+            ],
+            [
+                61,
+                "Really? How many grown-ups do you know who have Mr. Spock oven mitts? Hey, the recipes are on my iPad. Will you pull \u2019em up?"
+            ],
+            [
+                63,
+                "My birthday."
+            ],
+            [
+                65,
+                "It\u2019s just the four digits, month and day."
+            ],
+            [
+                67,
+                "Let me see. Yeah, there. What number were you putting in?"
+            ],
+            [
+                69,
+                "You don\u2019t know my birthday, do you?"
+            ],
+            [
+                71,
+                "Well, what is it?"
+            ],
+            [
+                73,
+                "May what?"
+            ],
+            [
+                75,
+                "You don\u2019t know your own husband\u2019s birthday."
+            ],
+            [
+                77,
+                "Your birthday is December 2, you grew up on Perkins Street, the last four digits of your social are 7 6-2 1, and the odds of me letting you forget this are zero."
+            ],
+            [
+                108,
+                "Next we need a teaspoon of pepper, which, I believe, was also the name of your childhood dog."
+            ],
+            [
+                110,
+                "Baby."
+            ],
+            [
+                112,
+                "Justin."
+            ],
+            [
+                114,
+                "Nice try. NSYNC forever."
+            ],
+            [
+                116,
+                "Face it, you can\u2019t stump me. I am the king of husbands. I know that you don\u2019t like the lingerie that I got you on Valentine\u2019s Day. I know you hate the word moist. I know\u2026"
+            ],
+            [
+                118,
+                "Because it\u2019s orange and you think it makes you look like a slutty carrot."
+            ],
+            [
+                120,
+                "Sure you did."
+            ],
+            [
+                122,
+                "What? I didn\u2019t know you had a journal."
+            ],
+            [
+                124,
+                "No, it doesn\u2019t."
+            ],
+            [
+                142,
+                "Come on, don\u2019t be mad. It was a long time ago, and it was an accident."
+            ],
+            [
+                144,
+                "I didn\u2019t even know what it was. I saw it on your nightstand. I picked it up."
+            ],
+            [
+                146,
+                "You know me, I\u2019m a big ol\u2019 bookworm."
+            ],
+            [
+                148,
+                "Well, hey, okay. Let me make this up to you. Sometimes I keep an online journal. I want you to read something that I wrote."
+            ],
+            [
+                150,
+                "Okay. Well, then I\u2019ll read it to you. It\u2019s from the day we first met. Beauty, thy name is Penny."
+            ],
+            [
+                152,
+                "Fine. Mmm, Penny\u2019s beauty, like our love, grows more with each passing day.\u201d"
+            ],
+            [
+                154,
+                "Why would I lie?"
+            ],
+            [
+                156,
+                "Well, you didn\u2019t read it right. The new Star Wars is coming. Gah."
+            ],
+            [
+                221,
+                "Be right there. Hi, lover."
+            ],
+            [
+                223,
+                "I\u2019m sorry about the journal. I want to make it up to you. So I\u2019m gonna let you post a shame photo of me on Facebook."
+            ],
+            [
+                225,
+                "Don\u2019t want people to see what, huh? A little bit of this?"
+            ],
+            [
+                227,
+                "Huh? Some of this? And, since it\u2019s Thanksgiving, an extra helping of this?"
+            ],
+            [
+                230,
+                "I\u2019m glad you had a nice time with Amy."
+            ]
+        ],
+        "Penny": [
+            [
+                12,
+                "Yeah, Leonard and I are gonna be cooking all day."
+            ],
+            [
+                14,
+                "But we can\u2019t."
+            ],
+            [
+                16,
+                "Mm-hmm."
+            ],
+            [
+                58,
+                "Look at us. Our first Thanksgiving as husband and wife."
+            ],
+            [
+                60,
+                "Sweetie, you are grown up."
+            ],
+            [
+                62,
+                "Yep. What\u2019s the code?"
+            ],
+            [
+                64,
+                "It\u2019s not working."
+            ],
+            [
+                66,
+                "Nope."
+            ],
+            [
+                68,
+                "Uh."
+            ],
+            [
+                70,
+                "Yes, I do."
+            ],
+            [
+                72,
+                "May."
+            ],
+            [
+                74,
+                "I\u2019m not gonna say your password out loud. That is not secure."
+            ],
+            [
+                76,
+                "Well, you don\u2019t know everything about me."
+            ],
+            [
+                78,
+                "Oh, look at us. Our last Thanksgiving as husband and wife."
+            ],
+            [
+                109,
+                "Fine. You think you know so much. Who\u2019s my favourite Spice Girl?"
+            ],
+            [
+                111,
+                "Who\u2019s my favorite member of NSYNC?"
+            ],
+            [
+                113,
+                "Who\u2019s my favorite Backstreet Boy?"
+            ],
+            [
+                115,
+                "Damn it."
+            ],
+            [
+                117,
+                "Hang on. Wait, wait. Why don\u2019t I like the lingerie you got me?"
+            ],
+            [
+                119,
+                "Interesting. I never told you that."
+            ],
+            [
+                121,
+                "No. I never told anyone that. But I did write it in my journal."
+            ],
+            [
+                123,
+                "I also know your voice gets higher when you\u2019re lying."
+            ],
+            [
+                143,
+                "How can reading my journal be an accident?"
+            ],
+            [
+                145,
+                "Well, when you realized what it was, why didn\u2019t you stop?"
+            ],
+            [
+                147,
+                "All right. Let\u2019s just finish cooking."
+            ],
+            [
+                149,
+                "Okay, really, I\u2019m fine."
+            ],
+            [
+                151,
+                "Oh, God. Stop. I don\u2019t want you to read something you think\u2019ll just butter me up. I want to hear the most recent thing you wrote."
+            ],
+            [
+                153,
+                "Does it really say that?"
+            ],
+            [
+                155,
+                "OMG. OMG. We\u2019re so close to the new Star Wars. I can\u2019t take it. Gah. Gah?"
+            ],
+            [
+                220,
+                "Hey. Where\u2019d you go? I can\u2019t tell if the turkey\u2019s done."
+            ],
+            [
+                222,
+                "What are you doing?"
+            ],
+            [
+                224,
+                "I am not putting that on the Internet. I don\u2019t want people to see this. I don\u2019t want to see it."
+            ],
+            [
+                226,
+                "Oh."
+            ],
+            [
+                232,
+                "Well, I\u2019ve never been friends with any of my exes."
+            ]
+        ],
+        "Bernadette": [
+            [
+                17,
+                "And Raj and I are volunteering at the soup kitchen, feeding food to the homeless."
+            ],
+            [
+                20,
+                "You said that sounded like the worst thing ever."
+            ],
+            [
+                40,
+                "The soup kitchen manager assigns the jobs, and the shifts are six hours."
+            ],
+            [
+                45,
+                "We are, and I believe the word you\u2019re looking for is yu-huh-huh-huh."
+            ],
+            [
+                47,
+                "Hi. We\u2019d like to volunteer."
+            ],
+            [
+                49,
+                "Oh. Okay. Wipe that smug smile off your face."
+            ],
+            [
+                52,
+                "That he\u2019s an ass? He beat you to it."
+            ],
+            [
+                54,
+                "Oh, great. We\u2019d love to help."
+            ],
+            [
+                56,
+                "I can\u2019t."
+            ],
+            [
+                94,
+                "What difference does it make?"
+            ],
+            [
+                137,
+                "I\u2019ll do it."
+            ],
+            [
+                228,
+                "Happy Thanks\u2026 Yikes."
+            ]
+        ],
+        "Amy (on skype)": [
+            [
+                24,
+                "Hi, Sheldon. What\u2019s up?"
+            ]
+        ],
+        "Amy": [
+            [
+                26,
+                "No one can go with you?"
+            ],
+            [
+                28,
+                "Oh. Okay. Thank you."
+            ],
+            [
+                30,
+                "Sheldon, I can tell you want to go, so if you\u2019d be comfortable with it, maybe we could go as friends."
+            ],
+            [
+                32,
+                "Well it is Thanksgiving in an aquarium cafeteria, so I\u2019m gonna go out on a limb here and say yes. But if you mean between us, I think it\u2019ll be fine."
+            ],
+            [
+                34,
+                "See you then."
+            ],
+            [
+                36,
+                "Did you know they served shellfish and eel at the very first Thanksgiving?"
+            ],
+            [
+                81,
+                "Hi. Ready for the aquarium?"
+            ],
+            [
+                83,
+                "If that makes you more comfortable."
+            ],
+            [
+                85,
+                "No. You?"
+            ],
+            [
+                87,
+                "I might go visit my aunt next week."
+            ],
+            [
+                89,
+                "No, the one in Bakersfield."
+            ],
+            [
+                100,
+                "Are we done discussing the weather?"
+            ],
+            [
+                102,
+                "Sheldon. We\u2019ve known each other a long time. We are perfectly capable of having a conversation without relying on a list off the Internet."
+            ],
+            [
+                104,
+                "I don\u2019t know. Just ask me whatever comes to mind."
+            ],
+            [
+                106,
+                "Man, I walked right into that one."
+            ],
+            [
+                159,
+                "No. It\u2019s okay. If we\u2019re friends, we should be able to talk about anything."
+            ],
+            [
+                161,
+                "So, you had some questions about me seeing other people."
+            ],
+            [
+                163,
+                "Go ahead."
+            ],
+            [
+                165,
+                "Let\u2019s see. I have been on six dates with three different people. It was either for coffee or dinner. One I met at a bookstore and two I met online. I haven\u2019t slept with anyone. The aquarium is 40 minutes away. And there\u2019s a baggie of Cheerios for you in the glove compartment."
+            ],
+            [
+                167,
+                "I mixed them."
+            ],
+            [
+                169,
+                "Just one. Are you doing okay?"
+            ],
+            [
+                171,
+                "Good. I want you to be happy."
+            ],
+            [
+                196,
+                "You\u2019re just upset \u2019cause they ran out of Pilgrim hats."
+            ],
+            [
+                198,
+                "Well, it wouldn\u2019t be a holiday without you being mad at a baby."
+            ],
+            [
+                200,
+                "Sure. What is it?"
+            ],
+            [
+                202,
+                "So it\u2019s like Kiss, Marry, Kill."
+            ],
+            [
+                204,
+                "It\u2019s a game where you\u2019re given three people and you choose which one you\u2019d kiss, marry, or kill."
+            ],
+            [
+                206,
+                "Let\u2019s just play."
+            ],
+            [
+                208,
+                "Hmm. Well, I wouldn\u2019t fight the eel, because I know it can generate enough current to kill a horse. So I\u2019d eat the eel, fight the shrimp, and befriend the pufferfish, because it would be nice to have company on those days I feel bloated."
+            ],
+            [
+                210,
+                "Thank you. Okay, your turn. Hmm. Seal, hagfish, SpongeBob SquarePants."
+            ],
+            [
+                212,
+                "But you can pal around with a hagfish?"
+            ],
+            [
+                214,
+                "Isn\u2019t that gross? I mean, a hagfish can produce enough mucus to fill a bucket in a minute."
+            ],
+            [
+                216,
+                "I miss this."
+            ],
+            [
+                218,
+                "I guess sometimes I\u2019m silly."
+            ],
+            [
+                234,
+                "Hi, Sheldon. I\u2019m just driving home from my mother\u2019s."
+            ],
+            [
+                236,
+                "I did. Um, listen, I really enjoyed spending this morning with you."
+            ],
+            [
+                238,
+                "It was. Uh, listen, I, I was thinking that, um, maybe I\u2019m ready to be your girlfriend again."
+            ],
+            [
+                240,
+                "We are. But I was hoping, maybe\u2026"
+            ],
+            [
+                242,
+                "Okay. I understand."
+            ],
+            [
+                244,
+                "Okay. Sure."
+            ]
+        ],
+        "Emily": [
+            [
+                39,
+                "So, how does this work?"
+            ],
+            [
+                44,
+                "Are you and I close enough for me to say that\u2019s creepy?"
+            ],
+            [
+                51,
+                "Are you and I close enough for me to say\u2026"
+            ],
+            [
+                127,
+                "You worked in a restaurant?"
+            ],
+            [
+                139,
+                "Right here!"
+            ]
+        ],
+        "Soup Kitchen Manager": [
+            [
+                46,
+                "Uh, can I help you?"
+            ],
+            [
+                48,
+                "Oh, I appreciate you guys coming down, but we already have enough people. Any other day, please, come back."
+            ],
+            [
+                53,
+                "I was wrong. A large group had to cancel."
+            ],
+            [
+                92,
+                "We\u2019re gonna have you washing dishes. Uh, aprons and rubber gloves are here, just scrape, wash and stack. If you need me, I\u2019ll be around."
+            ],
+            [
+                136,
+                "I need three people out front."
+            ]
+        ],
+        "Emly": [
+            [
+                130,
+                "Only five hours and 40 minutes to go."
+            ]
+        ],
+        "Man": [
+            [
+                174,
+                "Here you go."
+            ],
+            [
+                176,
+                "Sorry?"
+            ]
+        ],
+        "Elon": [
+            [
+                178,
+                "I am."
+            ],
+            [
+                180,
+                "I\u2019m washing dishes. Well, I was on the turkey line, but I got demoted for being too generous with the gravy."
+            ],
+            [
+                182,
+                "Nice to meet you, Howard. Feels great to come down here and help the less fortunate, huh?"
+            ],
+            [
+                184,
+                "And I thought I ladled the gravy on thick."
+            ],
+            [
+                186,
+                "Well, you\u2019re here on Thanksgiving, so you\u2019re probably a good person."
+            ],
+            [
+                188,
+                "You think you might ever get back out to space?"
+            ],
+            [
+                190,
+                "Well, we\u2019re not quite there yet, but we\u2019re always looking for engineers. So let me give you my e-mail. We can stay in touch."
+            ],
+            [
+                192,
+                "Oh, look. Someone hardly touched their pumpkin pie. Want to share it with me?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Have you guys seen this feature that lets you talk to Siri without pressing any buttons?"
+        ],
+        [
+            "Howard",
+            "No. How does it work?"
+        ],
+        [
+            "Raj",
+            "You just say, uh, Hey, Siri, what time is it?"
+        ],
+        [
+            "Siri: The time is 6",
+            "37 p.m."
+        ],
+        [
+            "Howard",
+            "So now anyone can control your phone? Hey, Siri, show me pictures of naked grandma butts."
+        ],
+        [
+            "Raj",
+            "Nice try. It only recognizes my voice."
+        ],
+        [
+            "Howard",
+            "Oh. Cool. (In thick Indian accent) Hey, Siri, show me pictures of naked grandma butts."
+        ],
+        [
+            "Raj",
+            "I don\u2019t sound like that."
+        ],
+        [
+            "Siri",
+            "Here are some images of naked grandma butts."
+        ],
+        [
+            "Sheldon",
+            "Hey. Good news, everybody. Now that I\u2019m no longer with Amy, I have an extra ticket to the annual Thanksgiving lunch buffet at the aquarium cafeteria. Who wants it? Well, you realize you won\u2019t be going alone, I\u2019ll be there the whole time. Providing fish and pilgrim facts. Can you people hear me?"
+        ],
+        [
+            "Leonard",
+            "Well, we\u2019re having everyone over."
+        ],
+        [
+            "Penny",
+            "Yeah, Leonard and I are gonna be cooking all day."
+        ],
+        [
+            "Leonard",
+            "Otherwise we\u2019d love to."
+        ],
+        [
+            "Penny",
+            "But we can\u2019t."
+        ],
+        [
+            "Leonard",
+            "Yeah, poor us."
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Bernadette",
+            "And Raj and I are volunteering at the soup kitchen, feeding food to the homeless."
+        ],
+        [
+            "Sheldon",
+            "Well, Howard, what about you?"
+        ],
+        [
+            "Howard",
+            "Oh, I can\u2019t. I\u2019m going to the soup kitchen, too."
+        ],
+        [
+            "Bernadette",
+            "You said that sounded like the worst thing ever."
+        ],
+        [
+            "Howard",
+            "If you can\u2019t support me when I\u2019m lying, why are we married?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy (on skype)",
+            "Hi, Sheldon. What\u2019s up?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m calling because Thanksgiving is coming up, and I wanted to offer you the aquarium tickets."
+        ],
+        [
+            "Amy",
+            "No one can go with you?"
+        ],
+        [
+            "Sheldon",
+            "No. They\u2019d rather spend the holiday with each other than find out of this is the year I finally touch a starfish. Anyway, I wouldn\u2019t want the tickets to go to waste, so take whomever you\u2019d like."
+        ],
+        [
+            "Amy",
+            "Oh. Okay. Thank you."
+        ],
+        [
+            "Sheldon",
+            "And feel free to tell your guest that the Myanmar catfish is also known as the pilgrim fish. In case the turkey\u2019s dry and you need something juicy."
+        ],
+        [
+            "Amy",
+            "Sheldon, I can tell you want to go, so if you\u2019d be comfortable with it, maybe we could go as friends."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t think that will be awkward?"
+        ],
+        [
+            "Amy",
+            "Well it is Thanksgiving in an aquarium cafeteria, so I\u2019m gonna go out on a limb here and say yes. But if you mean between us, I think it\u2019ll be fine."
+        ],
+        [
+            "Sheldon",
+            "Very well, then. I\u2019ll see you on Thanksgiving morning."
+        ],
+        [
+            "Amy",
+            "See you then."
+        ],
+        [
+            "Sheldon",
+            "Oh, and forget what I said about the Myanmar catfish. My list of marine-themed pilgrim facts is pretty short."
+        ],
+        [
+            "Amy",
+            "Did you know they served shellfish and eel at the very first Thanksgiving?"
+        ],
+        [
+            "Sheldon",
+            "And there goes my list."
+        ],
+        [
+            "Scene",
+            "Outside the soup kitchen."
+        ],
+        [
+            "Emily",
+            "So, how does this work?"
+        ],
+        [
+            "Bernadette",
+            "The soup kitchen manager assigns the jobs, and the shifts are six hours."
+        ],
+        [
+            "Howard",
+            "Six hours? Oh, God, I don\u2019t want to complain for that long."
+        ],
+        [
+            "Raj",
+            "Do you ever do anything for anyone else?"
+        ],
+        [
+            "Howard",
+            "I happen to be a giving and generous lover."
+        ],
+        [
+            "Emily",
+            "Are you and I close enough for me to say that\u2019s creepy?"
+        ],
+        [
+            "Bernadette",
+            "We are, and I believe the word you\u2019re looking for is yu-huh-huh-huh."
+        ],
+        [
+            "Soup Kitchen Manager",
+            "Uh, can I help you?"
+        ],
+        [
+            "Bernadette",
+            "Hi. We\u2019d like to volunteer."
+        ],
+        [
+            "Soup Kitchen Manager",
+            "Oh, I appreciate you guys coming down, but we already have enough people. Any other day, please, come back."
+        ],
+        [
+            "Bernadette",
+            "Oh. Okay. Wipe that smug smile off your face."
+        ],
+        [
+            "Howard",
+            "Maybe I\u2019m happy that so many people turned up to help the less fortunate."
+        ],
+        [
+            "Emily",
+            "Are you and I close enough for me to say\u2026"
+        ],
+        [
+            "Bernadette",
+            "That he\u2019s an ass? He beat you to it."
+        ],
+        [
+            "Soup Kitchen Manager",
+            "I was wrong. A large group had to cancel."
+        ],
+        [
+            "Bernadette",
+            "Oh, great. We\u2019d love to help."
+        ],
+        [
+            "Howard",
+            "Wipe that smug smile off your face."
+        ],
+        [
+            "Bernadette",
+            "I can\u2019t."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Look at us. Our first Thanksgiving as husband and wife."
+        ],
+        [
+            "Leonard",
+            "I know. I feel so grown up."
+        ],
+        [
+            "Penny",
+            "Sweetie, you are grown up."
+        ],
+        [
+            "Leonard",
+            "Really? How many grown-ups do you know who have Mr. Spock oven mitts? Hey, the recipes are on my iPad. Will you pull \u2019em up?"
+        ],
+        [
+            "Penny",
+            "Yep. What\u2019s the code?"
+        ],
+        [
+            "Leonard",
+            "My birthday."
+        ],
+        [
+            "Penny",
+            "It\u2019s not working."
+        ],
+        [
+            "Leonard",
+            "It\u2019s just the four digits, month and day."
+        ],
+        [
+            "Penny",
+            "Nope."
+        ],
+        [
+            "Leonard",
+            "Let me see. Yeah, there. What number were you putting in?"
+        ],
+        [
+            "Penny",
+            "Uh."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t know my birthday, do you?"
+        ],
+        [
+            "Penny",
+            "Yes, I do."
+        ],
+        [
+            "Leonard",
+            "Well, what is it?"
+        ],
+        [
+            "Penny",
+            "May."
+        ],
+        [
+            "Leonard",
+            "May what?"
+        ],
+        [
+            "Penny",
+            "I\u2019m not gonna say your password out loud. That is not secure."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t know your own husband\u2019s birthday."
+        ],
+        [
+            "Penny",
+            "Well, you don\u2019t know everything about me."
+        ],
+        [
+            "Leonard",
+            "Your birthday is December 2, you grew up on Perkins Street, the last four digits of your social are 7 6-2 1, and the odds of me letting you forget this are zero."
+        ],
+        [
+            "Penny",
+            "Oh, look at us. Our last Thanksgiving as husband and wife."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s car."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Amy",
+            "Hi. Ready for the aquarium?"
+        ],
+        [
+            "Sheldon",
+            "I am. You know, and in an effort to reduce awkwardness as we learn how to function as friends, I printed out a list of safe topics for polite conversation."
+        ],
+        [
+            "Amy",
+            "If that makes you more comfortable."
+        ],
+        [
+            "Sheldon",
+            "If there were a list of things that make me more comfortable, lists would be on the top of that list. Okay, now, oh, since last we spoke, have you acquired any pets?"
+        ],
+        [
+            "Amy",
+            "No. You?"
+        ],
+        [
+            "Sheldon",
+            "No. Um, since last we spoke, have you planned or gone on any vacations?"
+        ],
+        [
+            "Amy",
+            "I might go visit my aunt next week."
+        ],
+        [
+            "Sheldon",
+            "Mm. Your aunt in Modesto?"
+        ],
+        [
+            "Amy",
+            "No, the one in Bakersfield."
+        ],
+        [
+            "Sheldon",
+            "Bakersfield. I see. Where has this list been all my life?"
+        ],
+        [
+            "Scene",
+            "The soup kitchen."
+        ],
+        [
+            "Soup Kitchen Manager",
+            "We\u2019re gonna have you washing dishes. Uh, aprons and rubber gloves are here, just scrape, wash and stack. If you need me, I\u2019ll be around."
+        ],
+        [
+            "Howard",
+            "So we don\u2019t even get to be up front where the action is?"
+        ],
+        [
+            "Bernadette",
+            "What difference does it make?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. I was hoping some poor kid would come up to me and say, please, sir, I want some more."
+        ],
+        [
+            "Raj",
+            "You\u2019re in a soup kitchen, not a production of Oliver!"
+        ],
+        [
+            "Howard",
+            "It\u2019s not like I\u2019m expecting them to sing."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s car. "
+        ],
+        [
+            "Sheldon",
+            "and then the next day was 73 degrees, and the day after that was 72, and then it was 72 again, uh, then it was 74, and that brings us to today, at I\u2019d wear shorts if I had a pair. 78."
+        ],
+        [
+            "Amy",
+            "Are we done discussing the weather?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know if I\u2019d call it discussing. You kind of sat back and let me do all the work. Let\u2019s see, what\u2019s next on the list. Oh, uh, do you whittle, and if so, what kind of knife do you use."
+        ],
+        [
+            "Amy",
+            "Sheldon. We\u2019ve known each other a long time. We are perfectly capable of having a conversation without relying on a list off the Internet."
+        ],
+        [
+            "Sheldon",
+            "All right. Well, what should we talk about?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know. Just ask me whatever comes to mind."
+        ],
+        [
+            "Sheldon",
+            "Very well. I know you\u2019ve been seeing other men. Have you had coitus with any of them?"
+        ],
+        [
+            "Amy",
+            "Man, I walked right into that one."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Next we need a teaspoon of pepper, which, I believe, was also the name of your childhood dog."
+        ],
+        [
+            "Penny",
+            "Fine. You think you know so much. Who\u2019s my favourite Spice Girl?"
+        ],
+        [
+            "Leonard",
+            "Baby."
+        ],
+        [
+            "Penny",
+            "Who\u2019s my favorite member of NSYNC?"
+        ],
+        [
+            "Leonard",
+            "Justin."
+        ],
+        [
+            "Penny",
+            "Who\u2019s my favorite Backstreet Boy?"
+        ],
+        [
+            "Leonard",
+            "Nice try. NSYNC forever."
+        ],
+        [
+            "Penny",
+            "Damn it."
+        ],
+        [
+            "Leonard",
+            "Face it, you can\u2019t stump me. I am the king of husbands. I know that you don\u2019t like the lingerie that I got you on Valentine\u2019s Day. I know you hate the word moist. I know\u2026"
+        ],
+        [
+            "Penny",
+            "Hang on. Wait, wait. Why don\u2019t I like the lingerie you got me?"
+        ],
+        [
+            "Leonard",
+            "Because it\u2019s orange and you think it makes you look like a slutty carrot."
+        ],
+        [
+            "Penny",
+            "Interesting. I never told you that."
+        ],
+        [
+            "Leonard",
+            "Sure you did."
+        ],
+        [
+            "Penny",
+            "No. I never told anyone that. But I did write it in my journal."
+        ],
+        [
+            "Leonard",
+            "What? I didn\u2019t know you had a journal."
+        ],
+        [
+            "Penny",
+            "I also know your voice gets higher when you\u2019re lying."
+        ],
+        [
+            "Leonard",
+            "No, it doesn\u2019t."
+        ],
+        [
+            "Scene",
+            "The soup kitchen."
+        ],
+        [
+            "Raj",
+            "You know, this reminds me of high school."
+        ],
+        [
+            "Emily",
+            "You worked in a restaurant?"
+        ],
+        [
+            "Raj",
+            "No, I was in India, it was humid and smelled funny."
+        ],
+        [
+            "Howard",
+            "All right, I think I\u2019m getting into a groove here. This isn\u2019t so bad."
+        ],
+        [
+            "Emly",
+            "Only five hours and 40 minutes to go."
+        ],
+        [
+            "Howard",
+            "We\u2019ve only been doing this 20 minutes?"
+        ],
+        [
+            "Raj",
+            "You know, I read that washing dishes can be an excellent form of meditation. The key is that while washing the dishes one should only be washing the dishes."
+        ],
+        [
+            "Howard",
+            "Just because you have that accent doesn\u2019t mean what you say isn\u2019t stupid."
+        ],
+        [
+            "Raj",
+            "No, seriously. It\u2019s about being present in the moment, focusing on the feeling of the warm water, the smell of the detergent, the sound of the dishes squeaking, and following your own breath. It\u2019s about, it\u2019s about simply being."
+        ],
+        [
+            "Howard",
+            "Huh. Okay, I\u2019ll try it."
+        ],
+        [
+            "Soup Kitchen Manager",
+            "I need three people out front."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll do it."
+        ],
+        [
+            "Raj",
+            "Me."
+        ],
+        [
+            "Emily",
+            "Right here!"
+        ],
+        [
+            "Howard",
+            "No fair, I was meditating."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Come on, don\u2019t be mad. It was a long time ago, and it was an accident."
+        ],
+        [
+            "Penny",
+            "How can reading my journal be an accident?"
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t even know what it was. I saw it on your nightstand. I picked it up."
+        ],
+        [
+            "Penny",
+            "Well, when you realized what it was, why didn\u2019t you stop?"
+        ],
+        [
+            "Leonard",
+            "You know me, I\u2019m a big ol\u2019 bookworm."
+        ],
+        [
+            "Penny",
+            "All right. Let\u2019s just finish cooking."
+        ],
+        [
+            "Leonard",
+            "Well, hey, okay. Let me make this up to you. Sometimes I keep an online journal. I want you to read something that I wrote."
+        ],
+        [
+            "Penny",
+            "Okay, really, I\u2019m fine."
+        ],
+        [
+            "Leonard",
+            "Okay. Well, then I\u2019ll read it to you. It\u2019s from the day we first met. Beauty, thy name is Penny."
+        ],
+        [
+            "Penny",
+            "Oh, God. Stop. I don\u2019t want you to read something you think\u2019ll just butter me up. I want to hear the most recent thing you wrote."
+        ],
+        [
+            "Leonard",
+            "Fine. Mmm, Penny\u2019s beauty, like our love, grows more with each passing day.\u201d"
+        ],
+        [
+            "Penny",
+            "Does it really say that?"
+        ],
+        [
+            "Leonard",
+            "Why would I lie?"
+        ],
+        [
+            "Penny",
+            "OMG. OMG. We\u2019re so close to the new Star Wars. I can\u2019t take it. Gah. Gah?"
+        ],
+        [
+            "Leonard",
+            "Well, you didn\u2019t read it right. The new Star Wars is coming. Gah."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s car."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sensing things have gotten awkward."
+        ],
+        [
+            "Amy",
+            "No. It\u2019s okay. If we\u2019re friends, we should be able to talk about anything."
+        ],
+        [
+            "Sheldon",
+            "All right."
+        ],
+        [
+            "Amy",
+            "So, you had some questions about me seeing other people."
+        ],
+        [
+            "Sheldon",
+            "Just a few."
+        ],
+        [
+            "Amy",
+            "Go ahead."
+        ],
+        [
+            "Sheldon",
+            "How many dates have you been on? Who were they with? Where\u2019d you go? Where did you meet them? Did you sleep with them? And how much longer to the aquarium? I\u2019m getting kind of hungry."
+        ],
+        [
+            "Amy",
+            "Let\u2019s see. I have been on six dates with three different people. It was either for coffee or dinner. One I met at a bookstore and two I met online. I haven\u2019t slept with anyone. The aquarium is 40 minutes away. And there\u2019s a baggie of Cheerios for you in the glove compartment."
+        ],
+        [
+            "Sheldon",
+            "Is that regular or honey nut?"
+        ],
+        [
+            "Amy",
+            "I mixed them."
+        ],
+        [
+            "Sheldon",
+            "You mixed them. No wonder gentleman callers are pounding down your door. Do you have any questions for me?"
+        ],
+        [
+            "Amy",
+            "Just one. Are you doing okay?"
+        ],
+        [
+            "Sheldon",
+            "I am."
+        ],
+        [
+            "Amy",
+            "Good. I want you to be happy."
+        ],
+        [
+            "Sheldon",
+            "I believe you. I\u2019d believe you more if you threw a few Apple Jacks in here."
+        ],
+        [
+            "Scene",
+            "The soup kitchen."
+        ],
+        [
+            "Man",
+            "Here you go."
+        ],
+        [
+            "Howard",
+            "Thanks. You got to be kidding me."
+        ],
+        [
+            "Man",
+            "Sorry?"
+        ],
+        [
+            "Howard",
+            "Y, you\u2019re Elon Musk."
+        ],
+        [
+            "Elon",
+            "I am."
+        ],
+        [
+            "Howard",
+            "Wh, what are you doing here?"
+        ],
+        [
+            "Elon",
+            "I\u2019m washing dishes. Well, I was on the turkey line, but I got demoted for being too generous with the gravy."
+        ],
+        [
+            "Howard",
+            "Oh, man. I, what an honour to meet you. I\u2019m, I\u2019m such a fan of Tesla and SpaceX. All your companies. Howard Wolowitz, Caltech."
+        ],
+        [
+            "Elon",
+            "Nice to meet you, Howard. Feels great to come down here and help the less fortunate, huh?"
+        ],
+        [
+            "Howard",
+            "Oh, yeah. Nothing better than helping people. Which is something I realized when I was viewing Earth from the deck of the International Space Station, where I spent two months as a payload specialist, a job I was qualified for because I\u2019m an MIT-trained engineer."
+        ],
+        [
+            "Elon",
+            "And I thought I ladled the gravy on thick."
+        ],
+        [
+            "Howard",
+            "Sorry. It\u2019s just, you\u2019re you, you know? And I really want you to adopt me."
+        ],
+        [
+            "Elon",
+            "Well, you\u2019re here on Thanksgiving, so you\u2019re probably a good person."
+        ],
+        [
+            "Howard",
+            "Oh. I made my wife come down, too."
+        ],
+        [
+            "Elon",
+            "You think you might ever get back out to space?"
+        ],
+        [
+            "Howard",
+            "Is that a job offer? \u2018Cause I really want to go to Mars. Assuming I can bring my wife. She hardly takes up any room. She\u2019s basically a carry-on."
+        ],
+        [
+            "Elon",
+            "Well, we\u2019re not quite there yet, but we\u2019re always looking for engineers. So let me give you my e-mail. We can stay in touch."
+        ],
+        [
+            "Howard",
+            "Thank you."
+        ],
+        [
+            "Elon",
+            "Oh, look. Someone hardly touched their pumpkin pie. Want to share it with me?"
+        ],
+        [
+            "Howard",
+            "A partially eaten piece of pumpkin pie from a homeless shelter? With Elon Musk, you bet I do."
+        ],
+        [
+            "Scene",
+            "The aquarium. "
+        ],
+        [
+            "Sheldon",
+            "You know, for a Thanksgiving buffet in an aquarium cafeteria, that was really bad."
+        ],
+        [
+            "Amy",
+            "You\u2019re just upset \u2019cause they ran out of Pilgrim hats."
+        ],
+        [
+            "Sheldon",
+            "They gave one to that baby. He wasn\u2019t even awake."
+        ],
+        [
+            "Amy",
+            "Well, it wouldn\u2019t be a holiday without you being mad at a baby."
+        ],
+        [
+            "Sheldon",
+            "Oh. Would you care to play an ocean-themed game I invented?"
+        ],
+        [
+            "Amy",
+            "Sure. What is it?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s called Food, Friend, Fight. One of us chooses three aquatic creatures, and the other one must decide which he would eat, befriend, or battle."
+        ],
+        [
+            "Amy",
+            "So it\u2019s like Kiss, Marry, Kill."
+        ],
+        [
+            "Sheldon",
+            "What is that?"
+        ],
+        [
+            "Amy",
+            "It\u2019s a game where you\u2019re given three people and you choose which one you\u2019d kiss, marry, or kill."
+        ],
+        [
+            "Sheldon",
+            "Well, my game is better, \u2019cause instead of marrying someone, you get to eat them."
+        ],
+        [
+            "Amy",
+            "Let\u2019s just play."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll start you off easy. Electric eel, pufferfish, shrimp."
+        ],
+        [
+            "Amy",
+            "Hmm. Well, I wouldn\u2019t fight the eel, because I know it can generate enough current to kill a horse. So I\u2019d eat the eel, fight the shrimp, and befriend the pufferfish, because it would be nice to have company on those days I feel bloated."
+        ],
+        [
+            "Sheldon",
+            "Very well done."
+        ],
+        [
+            "Amy",
+            "Thank you. Okay, your turn. Hmm. Seal, hagfish, SpongeBob SquarePants."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019d befriend SpongeBob but he\u2019s not real, so I can\u2019t do that, can I?"
+        ],
+        [
+            "Amy",
+            "But you can pal around with a hagfish?"
+        ],
+        [
+            "Sheldon",
+            "Hey, let\u2019s not pull at that thread. Okay. I\u2019ll fight SpongeBob, because he\u2019s so friendly we\u2019ll just end up tickling each other. Um, I\u2019ll befriend the seal, because he\u2019s trainable, which is the problem I\u2019m having with my current friends. Which means I\u2019ll have to eat the hagfish."
+        ],
+        [
+            "Amy",
+            "Isn\u2019t that gross? I mean, a hagfish can produce enough mucus to fill a bucket in a minute."
+        ],
+        [
+            "Sheldon",
+            "I know. It makes its own gravy, it\u2019ll slide right down."
+        ],
+        [
+            "Amy",
+            "I miss this."
+        ],
+        [
+            "Sheldon",
+            "How can you miss a game you\u2019ve never played before, silly?"
+        ],
+        [
+            "Amy",
+            "I guess sometimes I\u2019m silly."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Hey. Where\u2019d you go? I can\u2019t tell if the turkey\u2019s done."
+        ],
+        [
+            "Leonard",
+            "Be right there. Hi, lover."
+        ],
+        [
+            "Penny",
+            "What are you doing?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry about the journal. I want to make it up to you. So I\u2019m gonna let you post a shame photo of me on Facebook."
+        ],
+        [
+            "Penny",
+            "I am not putting that on the Internet. I don\u2019t want people to see this. I don\u2019t want to see it."
+        ],
+        [
+            "Leonard",
+            "Don\u2019t want people to see what, huh? A little bit of this?"
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Leonard",
+            "Huh? Some of this? And, since it\u2019s Thanksgiving, an extra helping of this?"
+        ],
+        [
+            "Bernadette",
+            "Happy Thanks\u2026 Yikes."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "I\u2019m glad you had a nice time with Amy."
+        ],
+        [
+            "Sheldon",
+            "Me, too. It\u2019s comforting to know that she and I are able to function as friends."
+        ],
+        [
+            "Penny",
+            "Well, I\u2019ve never been friends with any of my exes."
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m sure you and Leonard will be able to pull it off. (Phone rings) Oh. It\u2019s my friend Amy. Hello."
+        ],
+        [
+            "Amy",
+            "Hi, Sheldon. I\u2019m just driving home from my mother\u2019s."
+        ],
+        [
+            "Sheldon",
+            "Did you have a nice time?"
+        ],
+        [
+            "Amy",
+            "I did. Um, listen, I really enjoyed spending this morning with you."
+        ],
+        [
+            "Sheldon",
+            "Well, I can\u2019t take all the credit. It was pretty funny when that one anchovy started going the wrong way."
+        ],
+        [
+            "Amy",
+            "It was. Uh, listen, I, I was thinking that, um, maybe I\u2019m ready to be your girlfriend again."
+        ],
+        [
+            "Sheldon",
+            "Oh. I thought we were just friends."
+        ],
+        [
+            "Amy",
+            "We are. But I was hoping, maybe\u2026"
+        ],
+        [
+            "Sheldon",
+            "Amy, I excel at many things, but getting over you wasn\u2019t one of them. I think I need to just be your friend."
+        ],
+        [
+            "Amy",
+            "Okay. I understand."
+        ],
+        [
+            "Sheldon",
+            "Good. Oh, I watched a video of the hagfish producing mucus, so I\u2019m gonna change my answer and eat SpongeBob."
+        ],
+        [
+            "Amy",
+            "Okay. Sure."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-09-the-platonic-permutation/"
+}

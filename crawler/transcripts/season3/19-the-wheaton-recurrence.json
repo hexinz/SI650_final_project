@@ -1,0 +1,2038 @@
+{
+    "Season": 3,
+    "Episode": 19,
+    "Title": "the wheaton recurrence",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Leonard and Penny are in Penny\u2019s bed."
+            ],
+            [
+                19,
+                "Credits sequence"
+            ],
+            [
+                20,
+                "The apartment."
+            ],
+            [
+                30,
+                "The comic book store."
+            ],
+            [
+                65,
+                "The stairwell."
+            ],
+            [
+                83,
+                "The bowling alley."
+            ],
+            [
+                97,
+                "Time lapse."
+            ],
+            [
+                122,
+                "Penny\u2019s apartment door."
+            ],
+            [
+                149,
+                "The laundry room."
+            ],
+            [
+                161,
+                "The bowling alley."
+            ],
+            [
+                181,
+                "Time lapse."
+            ],
+            [
+                250,
+                "The comic book store."
+            ],
+            [
+                252,
+                "(The guys enter dressed as female superheroes. Howard is Batgirl, Sheldon is Wonder Woman, Leonard is Supergirl and Raj is Catwoman.)"
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Having a little trouble catching your breath there?"
+            ],
+            [
+                3,
+                "Do or do not. There is no try."
+            ],
+            [
+                5,
+                "I believe I quoted Empire Strikes Back."
+            ],
+            [
+                7,
+                "Oh. Oh. Thank you."
+            ],
+            [
+                9,
+                "Oh, yeah, no, I, I\u2019m, I\u2019m glad."
+            ],
+            [
+                11,
+                "Yeah. Yeah. No, no. Um. So, it\u2019s getting pretty late. We should probably go to sleep."
+            ],
+            [
+                13,
+                "Okay."
+            ],
+            [
+                15,
+                "Hmm."
+            ],
+            [
+                17,
+                "Okay, good night, sweetie."
+            ],
+            [
+                68,
+                "Hi."
+            ],
+            [
+                71,
+                "Oh, right, bowling."
+            ],
+            [
+                73,
+                "No, no, it\u2019s okay. I mean, let\u2019s face it, you guys would get creamed without me."
+            ],
+            [
+                75,
+                "It\u2019s always nice chatting with you, Sheldon."
+            ],
+            [
+                77,
+                "Thinly veiled contempt."
+            ],
+            [
+                79,
+                "Got it."
+            ],
+            [
+                81,
+                "Bite me!"
+            ],
+            [
+                105,
+                "Yes. I love chilli cheese fries."
+            ],
+            [
+                107,
+                "Yeah, why?"
+            ],
+            [
+                109,
+                "Do you really want to get into this right now?"
+            ],
+            [
+                111,
+                "Okay, look, you just caught me by surprise last night. I didn\u2019t know what to say."
+            ],
+            [
+                113,
+                "I\u2019m not sure."
+            ],
+            [
+                115,
+                "Okay, this isn\u2019t the place to have this conversation."
+            ],
+            [
+                117,
+                "Don\u2019t push it, Leonard."
+            ],
+            [
+                119,
+                "You are. You don\u2019t get to decide when I\u2019m ready to say I love you!"
+            ],
+            [
+                125,
+                "What?"
+            ],
+            [
+                127,
+                "Ice cream?"
+            ],
+            [
+                129,
+                "Um, Ach."
+            ],
+            [
+                131,
+                "Did Leonard send you over here?"
+            ],
+            [
+                133,
+                "Yeah, I\u2019m sorry about that."
+            ],
+            [
+                135,
+                "Again, I\u2019m sorry."
+            ],
+            [
+                137,
+                "You\u2019re kidding."
+            ],
+            [
+                139,
+                "All right, Sheldon, what part of this is supposed to make me feel better?"
+            ],
+            [
+                141,
+                "Oh, honey, I don\u2019t know. Things are a little weird with Leonard right now."
+            ],
+            [
+                143,
+                "No, no, that\u2019s okay. Just let me talk to him, and I\u2019ll get back to you."
+            ],
+            [
+                145,
+                "I don\u2019t know."
+            ],
+            [
+                147,
+                "You\u2019re not gonna leave me alone until I do it, are you?"
+            ],
+            [
+                150,
+                "I think we should talk now."
+            ],
+            [
+                152,
+                "Really? So, you didn\u2019t get all snarky \u2019cause I said something nice to a bowl of chilli fries?"
+            ],
+            [
+                154,
+                "Look, Leonard, you have to know how much I care about you. It\u2019s just that I\u2019ve said the L word too soon before, and it didn\u2019t work out very well."
+            ],
+            [
+                156,
+                "I\u2019m sorry. You know what I\u2019m talking about, though."
+            ],
+            [
+                158,
+                "So, we\u2019re good?"
+            ],
+            [
+                164,
+                "The Wesley Crushers?"
+            ],
+            [
+                166,
+                "I don\u2019t get it."
+            ],
+            [
+                168,
+                "Still don\u2019t get it."
+            ],
+            [
+                170,
+                "Okay, I\u2019m sorry, honey, but the Wesley Crushers sounds like a bunch of people who like Wesley Crusher."
+            ],
+            [
+                192,
+                "Thank you, Stuart. It\u2019s nice to know."
+            ],
+            [
+                197,
+                "Hey, thanks."
+            ],
+            [
+                199,
+                "Yeah."
+            ],
+            [
+                201,
+                "Mm-hmm."
+            ],
+            [
+                203,
+                "Yeah, that\u2019s right."
+            ],
+            [
+                210,
+                "Oh, yeah, me, too."
+            ],
+            [
+                212,
+                "Tell me about it."
+            ],
+            [
+                214,
+                "Oh, I\u2019m sorry."
+            ],
+            [
+                216,
+                "Really?"
+            ],
+            [
+                221,
+                "What are you talking about?"
+            ],
+            [
+                223,
+                "No!"
+            ],
+            [
+                229,
+                "Yeah, I got it."
+            ],
+            [
+                231,
+                "I know."
+            ],
+            [
+                233,
+                "Leonard, stop pressuring me."
+            ],
+            [
+                235,
+                "Yeah, you are! Just back off!"
+            ],
+            [
+                237,
+                "I didn\u2019t mean shut up."
+            ],
+            [
+                239,
+                "No, this isn\u2019t fair to you, Leonard. I\u2019m sorry."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "No, no, I\u2019m good. If my P.E. teachers had told me this is what I was training for, I would have tried a lot harder."
+            ],
+            [
+                4,
+                "Did you just quote Star Wars?"
+            ],
+            [
+                6,
+                "Oh, my God. I\u2019m lying in bed with a beautiful woman who can quote Yoda. I love you, Penny."
+            ],
+            [
+                8,
+                "You\u2019re welcome. I just wanted to put that out there."
+            ],
+            [
+                10,
+                "Good. Glad is good."
+            ],
+            [
+                12,
+                "Yeah."
+            ],
+            [
+                14,
+                "Yeah."
+            ],
+            [
+                16,
+                "Yeah, probably."
+            ],
+            [
+                18,
+                "Good night."
+            ],
+            [
+                24,
+                "Seriously? You have nothing better to do than sit around and discuss the possibility of giant ants?"
+            ],
+            [
+                36,
+                "I honestly don\u2019t care."
+            ],
+            [
+                38,
+                "What do you want from me? I just don\u2019t give a rat\u2019s ass."
+            ],
+            [
+                41,
+                "Can we please talk about something else? Maybe something vaguely related to life as we know it on this planet?"
+            ],
+            [
+                45,
+                "No, there was no spat."
+            ],
+            [
+                47,
+                "I don\u2019t want to talk about it."
+            ],
+            [
+                51,
+                "What? No."
+            ],
+            [
+                58,
+                "No."
+            ],
+            [
+                60,
+                "No."
+            ],
+            [
+                62,
+                "I\u2019m walking away from you now."
+            ],
+            [
+                69,
+                "Oh, hey."
+            ],
+            [
+                72,
+                "You don\u2019t have to come if you don\u2019t want to."
+            ],
+            [
+                104,
+                "Chilli cheese fry?"
+            ],
+            [
+                106,
+                "Really? You love them?"
+            ],
+            [
+                108,
+                "No reason. I\u2019m just glad to hear you\u2019re comfortable saying you love something."
+            ],
+            [
+                110,
+                "Get into what? Why wouldn\u2019t you love the chilli cheese fries? They\u2019ve been in your life a long time. They make you happy. They deserve to know."
+            ],
+            [
+                112,
+                "Okay, well, now you\u2019ve had some time to think about it. So, what do you want to say?"
+            ],
+            [
+                114,
+                "How can you not be sure?"
+            ],
+            [
+                116,
+                "No, the place to have the conversation was in bed after I said, I love you, and you said, Thank you, good night."
+            ],
+            [
+                118,
+                "I am not pushing anything."
+            ],
+            [
+                151,
+                "What? No, it\u2019s okay. We don\u2019t have to talk \u2019cause there\u2019s nothing to talk about. Everything\u2019s good."
+            ],
+            [
+                153,
+                "All right, maybe I overreacted. So we\u2019re in two different places emotionally. So what? And maybe I\u2019m a little ahead of you. That\u2019s fine. You know. In fact, it makes sense, \u2019cause let\u2019s face it, I\u2019ve been in this relationship two years longer than you."
+            ],
+            [
+                155,
+                "Really? I wouldn\u2019t know what that\u2019s like."
+            ],
+            [
+                157,
+                "Yeah, I do."
+            ],
+            [
+                159,
+                "Yes, that\u2019s what I\u2019m telling you. We are good. We are great."
+            ],
+            [
+                167,
+                "Wesley Crusher was Wil Wheaton\u2019s character on Star Trek."
+            ],
+            [
+                198,
+                "This is fun, huh?"
+            ],
+            [
+                200,
+                "It\u2019s good that we got out and did something physical."
+            ],
+            [
+                202,
+                "Gets us out of our heads. You get in your head, you start to overthink, overanalyze, obsess, you worry. That\u2019s not what we\u2019re doing tonight. Tonight we\u2019re just throwing a ball at some pins."
+            ],
+            [
+                204,
+                "Mm-hmm, and someday, we don\u2019t know when, maybe you\u2019ll love me back. Ooh, I\u2019m up."
+            ],
+            [
+                227,
+                "Penny, you\u2019re up."
+            ],
+            [
+                230,
+                "We really need a strike here."
+            ],
+            [
+                232,
+                "So just take your time and concentrate."
+            ],
+            [
+                234,
+                "I\u2019m not pressuring you."
+            ],
+            [
+                236,
+                "Okay, I\u2019m sorry. I\u2019ll shut up."
+            ],
+            [
+                238,
+                "Fine. Just tell me what to do, and I\u2019ll do it."
+            ],
+            [
+                241,
+                "No, let her go."
+            ],
+            [
+                243,
+                "I\u2019m pretty sure it\u2019s already over."
+            ]
+        ],
+        "Howard": [
+            [
+                21,
+                "Hey, Leonard, where do you come down on giant ants?"
+            ],
+            [
+                25,
+                "What\u2019s with him?"
+            ],
+            [
+                27,
+                "Are you saying he\u2019s man-struating?"
+            ],
+            [
+                31,
+                "Okay, forget giant ants. How about giant rabbits?"
+            ],
+            [
+                35,
+                "Leonard, where do you stand on giant rabbits and scrotal position?"
+            ],
+            [
+                39,
+                "Would that be a giant rat\u2019s ass?"
+            ],
+            [
+                42,
+                "Okay, how about this for a topic, why is Leonard being a giant douche? Assuming giant douches are possible."
+            ],
+            [
+                46,
+                "Oh, but something happened."
+            ],
+            [
+                49,
+                "What\u2019d you do, Romeo? You pour maple syrup all over your body and ask her if she was in the mood for a short stack?"
+            ],
+            [
+                57,
+                "Did you ask her to start waxing?"
+            ],
+            [
+                61,
+                "While making love, did you accidentally spank your own ass and cry out Mommy?"
+            ],
+            [
+                63,
+                "That wasn\u2019t a no."
+            ],
+            [
+                66,
+                "Did you take a Benadryl and fall asleep while pleasuring her? Because you can die that way."
+            ],
+            [
+                84,
+                "I thought you were bringing your own bowling shoes."
+            ],
+            [
+                86,
+                "Then what\u2019s with the disinfectant?"
+            ],
+            [
+                100,
+                "Hey, I just wanted to tell you I\u2019m a big fan."
+            ],
+            [
+                102,
+                "I\u2019m sure you\u2019re probably sick of Star Trek questions, but, Whoopi Goldberg, you ever hit that?"
+            ],
+            [
+                121,
+                "I guessed premature. Does that count?"
+            ],
+            [
+                172,
+                "You know, if you want it to mean you\u2019re crushing Wesley, it\u2019d be the \u201cWesley\u201d Crushers."
+            ],
+            [
+                195,
+                "Leave me alone, Sheldon."
+            ]
+        ],
+        "Raj": [
+            [
+                22,
+                "Sheldon says impossible. Howard and I say not only possible, but as a mode of transportation, way cooler than a Batmobile."
+            ],
+            [
+                29,
+                "Interesting. That might explain my weepy days in the middle of the month. You know what I\u2019m talking about."
+            ],
+            [
+                32,
+                "Big or small, I don\u2019t like rabbits. They always look like they\u2019re about to say something, but they never do."
+            ],
+            [
+                34,
+                "Maybe that\u2019s what they want to talk about."
+            ],
+            [
+                37,
+                "Really? Because every time we\u2019ve talked about unusual animal genitals, you\u2019ve always had some pretty strong and controversial opinions."
+            ],
+            [
+                44,
+                "Maybe he\u2019s having a lover\u2019s spat with Penny."
+            ],
+            [
+                50,
+                "Did you think it would be funny to put on a pair of her panties and jump around, but it wound up just creeping her out?"
+            ],
+            [
+                52,
+                "I\u2019m just asking, dude. It happens."
+            ],
+            [
+                59,
+                "Did you start waxing?"
+            ],
+            [
+                64,
+                "Yeah, I think we\u2019re getting close."
+            ],
+            [
+                67,
+                "Oh, that would be a good way to go."
+            ],
+            [
+                103,
+                "Ah, beer. The magic elixir that can turn this poor, shy Indian boy into the life of the party. Oh, yeah."
+            ],
+            [
+                120,
+                "Ah, the premature I love you."
+            ],
+            [
+                253,
+                "I don\u2019t know about you, but I feel empowered."
+            ]
+        ],
+        "Sheldon": [
+            [
+                23,
+                "You are ignoring the square-cube law. The giant ant would be crushed under the weight of its own exoskeleton. And for the record, the appropriate ranking of cool modes of transportation is jet pack, hoverboard, transporter, Batmobile, and then giant ant."
+            ],
+            [
+                26,
+                "Perhaps he\u2019s at a sensitive point in his monthly cycle."
+            ],
+            [
+                28,
+                "Not literally. But as far back as the 17th century, scientists observed a 33-day fluctuation in men\u2019s hormone levels."
+            ],
+            [
+                33,
+                "Rabbits do have a respiratory system that would support great size. And on a side note, they are one of the few mammals whose scrotum is in front of the penis."
+            ],
+            [
+                40,
+                "For the record, giant rats are possible."
+            ],
+            [
+                43,
+                "Of course they are. Leonard\u2019s being one."
+            ],
+            [
+                48,
+                "But I sense you\u2019re going to and I don\u2019t want to hear about it. Excuse me."
+            ],
+            [
+                54,
+                "Oh, yes. In fact, I\u2019ve prepared some trash talk for the occasion. You bowl like your mama. Unless, of course, she bowls well. In which case, you bowl nothing like her."
+            ],
+            [
+                56,
+                "That is what is referred to as a burn on you."
+            ],
+            [
+                70,
+                "Good, Penny, reminder, bowling tonight at seven o\u2019clock."
+            ],
+            [
+                74,
+                "We would indeed. In this particular case, your lack of femininity works to our advantage."
+            ],
+            [
+                76,
+                "Sarcasm?"
+            ],
+            [
+                78,
+                "Remember, seven o\u2019clock."
+            ],
+            [
+                80,
+                "Pacific Daylight time!"
+            ],
+            [
+                82,
+                "Please reserve that butch spirit for the lanes."
+            ],
+            [
+                85,
+                "These are my own bowling shoes."
+            ],
+            [
+                87,
+                "I know where my feet have been."
+            ],
+            [
+                90,
+                "Well, well, well. If it isn\u2019t Wil Wheaton, the Green Goblin to my Spider-Man, the Pope Paul the fifth to my Galileo, the Internet Explorer to my Firefox."
+            ],
+            [
+                92,
+                "I\u2019m the proud owner of Wil Wheaton stinks dot com, dot net, and dot org. What does that tell you?"
+            ],
+            [
+                94,
+                "Oh, I\u2019m ready. I don\u2019t know if Stuart told you what you\u2019re up against tonight, but before you stands the co-captain of the East Texas Christian Youth Holy Roller Bowling League championship team. Seven to twelve year-old division. Also, Penny\u2019s pretty good."
+            ],
+            [
+                96,
+                "Oh, foolish Wil Wheaton, it was never off."
+            ],
+            [
+                99,
+                "A common spare. The Miss Congeniality of the bowling pageant. Before you jump on Twitter to tout your modest accomplishment, watch how it\u2019s really done. I am the ball. My thoughts are its thoughts. Its holes are my holes. (Gets a strike) Yes. Tweet that, Tweety Bird."
+            ],
+            [
+                124,
+                "(Knock, knock, knock) Penny, (knock, knock, knock) Penny, (knock, knock, knock) Penny."
+            ],
+            [
+                126,
+                "This is for you."
+            ],
+            [
+                128,
+                "I\u2019ve been familiarizing myself with female emotional crises by studying the comic strip Cathy. When she\u2019s upset, she says Ach and eats ice cream."
+            ],
+            [
+                130,
+                "If you were a cat, I would have brought you a lasagna."
+            ],
+            [
+                132,
+                "No, we haven\u2019t spoken since your abrupt departure last night caused us to forfeit to Stuart and his dastardly ringer Wil Wheaton."
+            ],
+            [
+                134,
+                "I\u2019m not too proud to admit that I cried myself to sleep."
+            ],
+            [
+                136,
+                "And let me tell you sleep did not come easily with Leonard in the next room singing along with Alanis Morrisette."
+            ],
+            [
+                138,
+                "No. Clearly another woman in dire need of ice cream."
+            ],
+            [
+                140,
+                "The part where I tell you I\u2019ve engineered a rematch with Stuart\u2019s team for tonight."
+            ],
+            [
+                142,
+                "You want me to remove him from the team? I\u2019m the captain, I can do that."
+            ],
+            [
+                144,
+                "When are you going to talk to him?"
+            ],
+            [
+                146,
+                "He\u2019s in the laundry room now. Now would be a good time."
+            ],
+            [
+                148,
+                "Oh, I think we both know the answer to that question."
+            ],
+            [
+                160,
+                "All right! Fence mended, problem swept under the rug. Time to bowl! Yes, I was eavesdropping, there\u2019s a lot at stake here."
+            ],
+            [
+                163,
+                "Attention, all bowlers. I\u2019ve taken the liberty of having these made for our rematch."
+            ],
+            [
+                165,
+                "No, not the Wesley Crushers. The Wesley \u201cCrushers.\u201d"
+            ],
+            [
+                169,
+                "It\u2019s a blindingly clever play on words. By appropriating his character\u2019s name and adding the S, we imply that we we\u2019ll be the crushers of Wesley."
+            ],
+            [
+                171,
+                "What? No! Again, it\u2019s not the Wesley Crushers. It\u2019s the Wesley \u201cCrushers.\u201d"
+            ],
+            [
+                173,
+                "Do you people even hear yourselves? It\u2019s not the Wesley Crushers. It\u2019s not the \u201cWesley\u201d Crushers. It\u2019s the Wesley \u201cCrushers.\u201d"
+            ],
+            [
+                175,
+                "No, it\u2019s not the\u2026 Never mind."
+            ],
+            [
+                177,
+                "Oh, yes. The losers will be publicly humiliated in a fashion to be chosen by the victor. FYI, I plan on having you publish a scientific paper expounding the discredited Velikovsky hypothesis."
+            ],
+            [
+                180,
+                "Oh, yes? Well, before I respond, let me ask you a question. Is your mother a good or poor bowler?"
+            ],
+            [
+                184,
+                "No, after you, as we are currently crushing you, Wesley."
+            ],
+            [
+                186,
+                "All right."
+            ],
+            [
+                188,
+                "I so loathe you."
+            ],
+            [
+                190,
+                "That\u2019s not even from your franchise!"
+            ],
+            [
+                194,
+                "Be the ball, Howard."
+            ],
+            [
+                196,
+                "You weren\u2019t the ball."
+            ],
+            [
+                206,
+                "Excuse me. I don\u2019t know who you\u2019re chanting for as I am currently the ball."
+            ],
+            [
+                208,
+                "Thank you, Jesus! As my mother would say."
+            ],
+            [
+                220,
+                "Did you let Wil Wheaton get in your head?"
+            ],
+            [
+                222,
+                "He\u2019s evil. He plays evil mind games. Did he tell you his grandmother died?"
+            ],
+            [
+                224,
+                "Well, if he does, don\u2019t believe it. He\u2019s not above playing the dead meemaw card."
+            ],
+            [
+                228,
+                "All right, remember, his meemaw\u2019s alive and be the ball."
+            ],
+            [
+                240,
+                "Wait! Where are you going? Penny, come back! I\u2019ll get you ice cream!"
+            ],
+            [
+                242,
+                "Are you insane? If she leaves, it\u2019s over!"
+            ],
+            [
+                245,
+                "You did this, didn\u2019t you?"
+            ],
+            [
+                247,
+                "No, I suppose not."
+            ],
+            [
+                249,
+                "Wheaton!"
+            ]
+        ],
+        "Stuart": [
+            [
+                53,
+                "You guys still on for bowling tonight?"
+            ],
+            [
+                55,
+                "Oh. Ouch."
+            ],
+            [
+                88,
+                "Hey, Penny! And you guys. Albino Bob couldn\u2019t make it, so I brought a substitute. I believe some of you know Wil Wheaton."
+            ],
+            [
+                176,
+                "So, we\u2019re all clear on the bet and the stakes?"
+            ],
+            [
+                178,
+                "Ouch again."
+            ],
+            [
+                191,
+                "I, um, I want you to know that even though we\u2019re on opposite sides, I, I bear you no ill will."
+            ],
+            [
+                193,
+                "Mmm, mmm. People from opposite sides often have good relationships. You know, Romeo and Juliet, Tony and Maria from West Side Story, what\u2019s-his-name and the big blue chick in Avatar. I\u2019m gonna bowl now."
+            ],
+            [
+                218,
+                "Wil, you\u2019re up."
+            ],
+            [
+                251,
+                "Mm-hmm, mm-hmm, yeah, I\u2019m telling you the Match.com chicks are much looser than on eHarmony. You know, I, I gotta call you back. I won a bet, and it\u2019s time to collect."
+            ]
+        ],
+        "Wil": [
+            [
+                89,
+                "Hi, Sheldon. How\u2019s it going?"
+            ],
+            [
+                91,
+                "You\u2019re not still carrying a grudge because I beat you at that card tournament, are you?"
+            ],
+            [
+                93,
+                "It tells me that I am living rent-free right here (pointing at Sheldon\u2019s head). You ready to bowl?"
+            ],
+            [
+                95,
+                "Great. Then it\u2019s on."
+            ],
+            [
+                98,
+                "Yes!"
+            ],
+            [
+                101,
+                "Oh, thanks."
+            ],
+            [
+                174,
+                "Hey, look. They named their team after me."
+            ],
+            [
+                179,
+                "Hey, Sheldon, I just wanted you to know that I\u2019m really looking forward to wiping the floor with you."
+            ],
+            [
+                183,
+                "After you."
+            ],
+            [
+                185,
+                "It\u2019s customary for the player on the right-hand lane to bowl first."
+            ],
+            [
+                187,
+                "It\u2019s a custom, not a rule."
+            ],
+            [
+                189,
+                "That\u2019s right, Sheldon. Embrace the dark side."
+            ],
+            [
+                209,
+                "I\u2019m glad you patched things up with your boyfriend."
+            ],
+            [
+                211,
+                "It\u2019s always tough when the L bomb gets dropped and you\u2019re not ready for it."
+            ],
+            [
+                213,
+                "I dated this one girl, and I told her that I loved her, and she said she wasn\u2019t sure. And she strung me along for almost two years. It was brutal."
+            ],
+            [
+                215,
+                "Thanks. Yeah, I wish she had just broken up with me right there, put me out of my misery."
+            ],
+            [
+                217,
+                "Yeah, would have been kinder."
+            ],
+            [
+                219,
+                "Oh, that\u2019s me."
+            ],
+            [
+                225,
+                "Yes!"
+            ],
+            [
+                244,
+                "Tough luck, Sheldon."
+            ],
+            [
+                246,
+                "Do you think I would really break up a couple just to win a bowling match?"
+            ],
+            [
+                248,
+                "Good. Keep thinking that."
+            ]
+        ],
+        "All (chanting)": [
+            [
+                205,
+                "Shel-don! Shel-don! Shel-don! Shel-don!"
+            ],
+            [
+                207,
+                "The ball! The ball! The ball! The ball! The ball! The ball!"
+            ]
+        ],
+        "Sheldon: Enjoy the accolades now, Wil Wheaton, but like your time on Star Trek": [
+            [
+                226,
+                "Next Generation, your smug self-satisfaction will be short-lived."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Leonard and Penny are in Penny\u2019s bed."
+        ],
+        [
+            "Penny",
+            "Having a little trouble catching your breath there?"
+        ],
+        [
+            "Leonard",
+            "No, no, I\u2019m good. If my P.E. teachers had told me this is what I was training for, I would have tried a lot harder."
+        ],
+        [
+            "Penny",
+            "Do or do not. There is no try."
+        ],
+        [
+            "Leonard",
+            "Did you just quote Star Wars?"
+        ],
+        [
+            "Penny",
+            "I believe I quoted Empire Strikes Back."
+        ],
+        [
+            "Leonard",
+            "Oh, my God. I\u2019m lying in bed with a beautiful woman who can quote Yoda. I love you, Penny."
+        ],
+        [
+            "Penny",
+            "Oh. Oh. Thank you."
+        ],
+        [
+            "Leonard",
+            "You\u2019re welcome. I just wanted to put that out there."
+        ],
+        [
+            "Penny",
+            "Oh, yeah, no, I, I\u2019m, I\u2019m glad."
+        ],
+        [
+            "Leonard",
+            "Good. Glad is good."
+        ],
+        [
+            "Penny",
+            "Yeah. Yeah. No, no. Um. So, it\u2019s getting pretty late. We should probably go to sleep."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Penny",
+            "Hmm."
+        ],
+        [
+            "Leonard",
+            "Yeah, probably."
+        ],
+        [
+            "Penny",
+            "Okay, good night, sweetie."
+        ],
+        [
+            "Leonard",
+            "Good night."
+        ],
+        [
+            "Scene",
+            "Credits sequence"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "Hey, Leonard, where do you come down on giant ants?"
+        ],
+        [
+            "Raj",
+            "Sheldon says impossible. Howard and I say not only possible, but as a mode of transportation, way cooler than a Batmobile."
+        ],
+        [
+            "Sheldon",
+            "You are ignoring the square-cube law. The giant ant would be crushed under the weight of its own exoskeleton. And for the record, the appropriate ranking of cool modes of transportation is jet pack, hoverboard, transporter, Batmobile, and then giant ant."
+        ],
+        [
+            "Leonard",
+            "Seriously? You have nothing better to do than sit around and discuss the possibility of giant ants?"
+        ],
+        [
+            "Howard",
+            "What\u2019s with him?"
+        ],
+        [
+            "Sheldon",
+            "Perhaps he\u2019s at a sensitive point in his monthly cycle."
+        ],
+        [
+            "Howard",
+            "Are you saying he\u2019s man-struating?"
+        ],
+        [
+            "Sheldon",
+            "Not literally. But as far back as the 17th century, scientists observed a 33-day fluctuation in men\u2019s hormone levels."
+        ],
+        [
+            "Raj",
+            "Interesting. That might explain my weepy days in the middle of the month. You know what I\u2019m talking about."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Howard",
+            "Okay, forget giant ants. How about giant rabbits?"
+        ],
+        [
+            "Raj",
+            "Big or small, I don\u2019t like rabbits. They always look like they\u2019re about to say something, but they never do."
+        ],
+        [
+            "Sheldon",
+            "Rabbits do have a respiratory system that would support great size. And on a side note, they are one of the few mammals whose scrotum is in front of the penis."
+        ],
+        [
+            "Raj",
+            "Maybe that\u2019s what they want to talk about."
+        ],
+        [
+            "Howard",
+            "Leonard, where do you stand on giant rabbits and scrotal position?"
+        ],
+        [
+            "Leonard",
+            "I honestly don\u2019t care."
+        ],
+        [
+            "Raj",
+            "Really? Because every time we\u2019ve talked about unusual animal genitals, you\u2019ve always had some pretty strong and controversial opinions."
+        ],
+        [
+            "Leonard",
+            "What do you want from me? I just don\u2019t give a rat\u2019s ass."
+        ],
+        [
+            "Howard",
+            "Would that be a giant rat\u2019s ass?"
+        ],
+        [
+            "Sheldon",
+            "For the record, giant rats are possible."
+        ],
+        [
+            "Leonard",
+            "Can we please talk about something else? Maybe something vaguely related to life as we know it on this planet?"
+        ],
+        [
+            "Howard",
+            "Okay, how about this for a topic, why is Leonard being a giant douche? Assuming giant douches are possible."
+        ],
+        [
+            "Sheldon",
+            "Of course they are. Leonard\u2019s being one."
+        ],
+        [
+            "Raj",
+            "Maybe he\u2019s having a lover\u2019s spat with Penny."
+        ],
+        [
+            "Leonard",
+            "No, there was no spat."
+        ],
+        [
+            "Howard",
+            "Oh, but something happened."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t want to talk about it."
+        ],
+        [
+            "Sheldon",
+            "But I sense you\u2019re going to and I don\u2019t want to hear about it. Excuse me."
+        ],
+        [
+            "Howard",
+            "What\u2019d you do, Romeo? You pour maple syrup all over your body and ask her if she was in the mood for a short stack?"
+        ],
+        [
+            "Raj",
+            "Did you think it would be funny to put on a pair of her panties and jump around, but it wound up just creeping her out?"
+        ],
+        [
+            "Leonard",
+            "What? No."
+        ],
+        [
+            "Raj",
+            "I\u2019m just asking, dude. It happens."
+        ],
+        [
+            "Stuart",
+            "You guys still on for bowling tonight?"
+        ],
+        [
+            "Sheldon",
+            "Oh, yes. In fact, I\u2019ve prepared some trash talk for the occasion. You bowl like your mama. Unless, of course, she bowls well. In which case, you bowl nothing like her."
+        ],
+        [
+            "Stuart",
+            "Oh. Ouch."
+        ],
+        [
+            "Sheldon",
+            "That is what is referred to as a burn on you."
+        ],
+        [
+            "Howard",
+            "Did you ask her to start waxing?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Raj",
+            "Did you start waxing?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Howard",
+            "While making love, did you accidentally spank your own ass and cry out Mommy?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m walking away from you now."
+        ],
+        [
+            "Howard",
+            "That wasn\u2019t a no."
+        ],
+        [
+            "Raj",
+            "Yeah, I think we\u2019re getting close."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Howard",
+            "Did you take a Benadryl and fall asleep while pleasuring her? Because you can die that way."
+        ],
+        [
+            "Raj",
+            "Oh, that would be a good way to go."
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Leonard",
+            "Oh, hey."
+        ],
+        [
+            "Sheldon",
+            "Good, Penny, reminder, bowling tonight at seven o\u2019clock."
+        ],
+        [
+            "Penny",
+            "Oh, right, bowling."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t have to come if you don\u2019t want to."
+        ],
+        [
+            "Penny",
+            "No, no, it\u2019s okay. I mean, let\u2019s face it, you guys would get creamed without me."
+        ],
+        [
+            "Sheldon",
+            "We would indeed. In this particular case, your lack of femininity works to our advantage."
+        ],
+        [
+            "Penny",
+            "It\u2019s always nice chatting with you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Sarcasm?"
+        ],
+        [
+            "Penny",
+            "Thinly veiled contempt."
+        ],
+        [
+            "Sheldon",
+            "Remember, seven o\u2019clock."
+        ],
+        [
+            "Penny",
+            "Got it."
+        ],
+        [
+            "Sheldon",
+            "Pacific Daylight time!"
+        ],
+        [
+            "Penny",
+            "Bite me!"
+        ],
+        [
+            "Sheldon",
+            "Please reserve that butch spirit for the lanes."
+        ],
+        [
+            "Scene",
+            "The bowling alley."
+        ],
+        [
+            "Howard",
+            "I thought you were bringing your own bowling shoes."
+        ],
+        [
+            "Sheldon",
+            "These are my own bowling shoes."
+        ],
+        [
+            "Howard",
+            "Then what\u2019s with the disinfectant?"
+        ],
+        [
+            "Sheldon",
+            "I know where my feet have been."
+        ],
+        [
+            "Stuart",
+            "Hey, Penny! And you guys. Albino Bob couldn\u2019t make it, so I brought a substitute. I believe some of you know Wil Wheaton."
+        ],
+        [
+            "Wil",
+            "Hi, Sheldon. How\u2019s it going?"
+        ],
+        [
+            "Sheldon",
+            "Well, well, well. If it isn\u2019t Wil Wheaton, the Green Goblin to my Spider-Man, the Pope Paul the fifth to my Galileo, the Internet Explorer to my Firefox."
+        ],
+        [
+            "Wil",
+            "You\u2019re not still carrying a grudge because I beat you at that card tournament, are you?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m the proud owner of Wil Wheaton stinks dot com, dot net, and dot org. What does that tell you?"
+        ],
+        [
+            "Wil",
+            "It tells me that I am living rent-free right here (pointing at Sheldon\u2019s head). You ready to bowl?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m ready. I don\u2019t know if Stuart told you what you\u2019re up against tonight, but before you stands the co-captain of the East Texas Christian Youth Holy Roller Bowling League championship team. Seven to twelve year-old division. Also, Penny\u2019s pretty good."
+        ],
+        [
+            "Wil",
+            "Great. Then it\u2019s on."
+        ],
+        [
+            "Sheldon",
+            "Oh, foolish Wil Wheaton, it was never off."
+        ],
+        [
+            "Scene",
+            "Time lapse."
+        ],
+        [
+            "Wil",
+            "Yes!"
+        ],
+        [
+            "Sheldon",
+            "A common spare. The Miss Congeniality of the bowling pageant. Before you jump on Twitter to tout your modest accomplishment, watch how it\u2019s really done. I am the ball. My thoughts are its thoughts. Its holes are my holes. (Gets a strike) Yes. Tweet that, Tweety Bird."
+        ],
+        [
+            "Howard",
+            "Hey, I just wanted to tell you I\u2019m a big fan."
+        ],
+        [
+            "Wil",
+            "Oh, thanks."
+        ],
+        [
+            "Howard",
+            "I\u2019m sure you\u2019re probably sick of Star Trek questions, but, Whoopi Goldberg, you ever hit that?"
+        ],
+        [
+            "Raj",
+            "Ah, beer. The magic elixir that can turn this poor, shy Indian boy into the life of the party. Oh, yeah."
+        ],
+        [
+            "Leonard",
+            "Chilli cheese fry?"
+        ],
+        [
+            "Penny",
+            "Yes. I love chilli cheese fries."
+        ],
+        [
+            "Leonard",
+            "Really? You love them?"
+        ],
+        [
+            "Penny",
+            "Yeah, why?"
+        ],
+        [
+            "Leonard",
+            "No reason. I\u2019m just glad to hear you\u2019re comfortable saying you love something."
+        ],
+        [
+            "Penny",
+            "Do you really want to get into this right now?"
+        ],
+        [
+            "Leonard",
+            "Get into what? Why wouldn\u2019t you love the chilli cheese fries? They\u2019ve been in your life a long time. They make you happy. They deserve to know."
+        ],
+        [
+            "Penny",
+            "Okay, look, you just caught me by surprise last night. I didn\u2019t know what to say."
+        ],
+        [
+            "Leonard",
+            "Okay, well, now you\u2019ve had some time to think about it. So, what do you want to say?"
+        ],
+        [
+            "Penny",
+            "I\u2019m not sure."
+        ],
+        [
+            "Leonard",
+            "How can you not be sure?"
+        ],
+        [
+            "Penny",
+            "Okay, this isn\u2019t the place to have this conversation."
+        ],
+        [
+            "Leonard",
+            "No, the place to have the conversation was in bed after I said, I love you, and you said, Thank you, good night."
+        ],
+        [
+            "Penny",
+            "Don\u2019t push it, Leonard."
+        ],
+        [
+            "Leonard",
+            "I am not pushing anything."
+        ],
+        [
+            "Penny",
+            "You are. You don\u2019t get to decide when I\u2019m ready to say I love you!"
+        ],
+        [
+            "Raj",
+            "Ah, the premature I love you."
+        ],
+        [
+            "Howard",
+            "I guessed premature. Does that count?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment door."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny, (knock, knock, knock) Penny, (knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "This is for you."
+        ],
+        [
+            "Penny",
+            "Ice cream?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve been familiarizing myself with female emotional crises by studying the comic strip Cathy. When she\u2019s upset, she says Ach and eats ice cream."
+        ],
+        [
+            "Penny",
+            "Um, Ach."
+        ],
+        [
+            "Sheldon",
+            "If you were a cat, I would have brought you a lasagna."
+        ],
+        [
+            "Penny",
+            "Did Leonard send you over here?"
+        ],
+        [
+            "Sheldon",
+            "No, we haven\u2019t spoken since your abrupt departure last night caused us to forfeit to Stuart and his dastardly ringer Wil Wheaton."
+        ],
+        [
+            "Penny",
+            "Yeah, I\u2019m sorry about that."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not too proud to admit that I cried myself to sleep."
+        ],
+        [
+            "Penny",
+            "Again, I\u2019m sorry."
+        ],
+        [
+            "Sheldon",
+            "And let me tell you sleep did not come easily with Leonard in the next room singing along with Alanis Morrisette."
+        ],
+        [
+            "Penny",
+            "You\u2019re kidding."
+        ],
+        [
+            "Sheldon",
+            "No. Clearly another woman in dire need of ice cream."
+        ],
+        [
+            "Penny",
+            "All right, Sheldon, what part of this is supposed to make me feel better?"
+        ],
+        [
+            "Sheldon",
+            "The part where I tell you I\u2019ve engineered a rematch with Stuart\u2019s team for tonight."
+        ],
+        [
+            "Penny",
+            "Oh, honey, I don\u2019t know. Things are a little weird with Leonard right now."
+        ],
+        [
+            "Sheldon",
+            "You want me to remove him from the team? I\u2019m the captain, I can do that."
+        ],
+        [
+            "Penny",
+            "No, no, that\u2019s okay. Just let me talk to him, and I\u2019ll get back to you."
+        ],
+        [
+            "Sheldon",
+            "When are you going to talk to him?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s in the laundry room now. Now would be a good time."
+        ],
+        [
+            "Penny",
+            "You\u2019re not gonna leave me alone until I do it, are you?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I think we both know the answer to that question."
+        ],
+        [
+            "Scene",
+            "The laundry room."
+        ],
+        [
+            "Penny",
+            "I think we should talk now."
+        ],
+        [
+            "Leonard",
+            "What? No, it\u2019s okay. We don\u2019t have to talk \u2019cause there\u2019s nothing to talk about. Everything\u2019s good."
+        ],
+        [
+            "Penny",
+            "Really? So, you didn\u2019t get all snarky \u2019cause I said something nice to a bowl of chilli fries?"
+        ],
+        [
+            "Leonard",
+            "All right, maybe I overreacted. So we\u2019re in two different places emotionally. So what? And maybe I\u2019m a little ahead of you. That\u2019s fine. You know. In fact, it makes sense, \u2019cause let\u2019s face it, I\u2019ve been in this relationship two years longer than you."
+        ],
+        [
+            "Penny",
+            "Look, Leonard, you have to know how much I care about you. It\u2019s just that I\u2019ve said the L word too soon before, and it didn\u2019t work out very well."
+        ],
+        [
+            "Leonard",
+            "Really? I wouldn\u2019t know what that\u2019s like."
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry. You know what I\u2019m talking about, though."
+        ],
+        [
+            "Leonard",
+            "Yeah, I do."
+        ],
+        [
+            "Penny",
+            "So, we\u2019re good?"
+        ],
+        [
+            "Leonard",
+            "Yes, that\u2019s what I\u2019m telling you. We are good. We are great."
+        ],
+        [
+            "Sheldon",
+            "All right! Fence mended, problem swept under the rug. Time to bowl! Yes, I was eavesdropping, there\u2019s a lot at stake here."
+        ],
+        [
+            "Scene",
+            "The bowling alley."
+        ],
+        [
+            "Sheldon",
+            "Attention, all bowlers. I\u2019ve taken the liberty of having these made for our rematch."
+        ],
+        [
+            "Penny",
+            "The Wesley Crushers?"
+        ],
+        [
+            "Sheldon",
+            "No, not the Wesley Crushers. The Wesley \u201cCrushers.\u201d"
+        ],
+        [
+            "Penny",
+            "I don\u2019t get it."
+        ],
+        [
+            "Leonard",
+            "Wesley Crusher was Wil Wheaton\u2019s character on Star Trek."
+        ],
+        [
+            "Penny",
+            "Still don\u2019t get it."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a blindingly clever play on words. By appropriating his character\u2019s name and adding the S, we imply that we we\u2019ll be the crushers of Wesley."
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019m sorry, honey, but the Wesley Crushers sounds like a bunch of people who like Wesley Crusher."
+        ],
+        [
+            "Sheldon",
+            "What? No! Again, it\u2019s not the Wesley Crushers. It\u2019s the Wesley \u201cCrushers.\u201d"
+        ],
+        [
+            "Howard",
+            "You know, if you want it to mean you\u2019re crushing Wesley, it\u2019d be the \u201cWesley\u201d Crushers."
+        ],
+        [
+            "Sheldon",
+            "Do you people even hear yourselves? It\u2019s not the Wesley Crushers. It\u2019s not the \u201cWesley\u201d Crushers. It\u2019s the Wesley \u201cCrushers.\u201d"
+        ],
+        [
+            "Wil",
+            "Hey, look. They named their team after me."
+        ],
+        [
+            "Sheldon",
+            "No, it\u2019s not the\u2026 Never mind."
+        ],
+        [
+            "Stuart",
+            "So, we\u2019re all clear on the bet and the stakes?"
+        ],
+        [
+            "Sheldon",
+            "Oh, yes. The losers will be publicly humiliated in a fashion to be chosen by the victor. FYI, I plan on having you publish a scientific paper expounding the discredited Velikovsky hypothesis."
+        ],
+        [
+            "Stuart",
+            "Ouch again."
+        ],
+        [
+            "Wil",
+            "Hey, Sheldon, I just wanted you to know that I\u2019m really looking forward to wiping the floor with you."
+        ],
+        [
+            "Sheldon",
+            "Oh, yes? Well, before I respond, let me ask you a question. Is your mother a good or poor bowler?"
+        ],
+        [
+            "Scene",
+            "Time lapse."
+        ],
+        [
+            "Wil",
+            "After you."
+        ],
+        [
+            "Sheldon",
+            "No, after you, as we are currently crushing you, Wesley."
+        ],
+        [
+            "Wil",
+            "It\u2019s customary for the player on the right-hand lane to bowl first."
+        ],
+        [
+            "Sheldon",
+            "All right."
+        ],
+        [
+            "Wil",
+            "It\u2019s a custom, not a rule."
+        ],
+        [
+            "Sheldon",
+            "I so loathe you."
+        ],
+        [
+            "Wil",
+            "That\u2019s right, Sheldon. Embrace the dark side."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not even from your franchise!"
+        ],
+        [
+            "Stuart",
+            "I, um, I want you to know that even though we\u2019re on opposite sides, I, I bear you no ill will."
+        ],
+        [
+            "Penny",
+            "Thank you, Stuart. It\u2019s nice to know."
+        ],
+        [
+            "Stuart",
+            "Mmm, mmm. People from opposite sides often have good relationships. You know, Romeo and Juliet, Tony and Maria from West Side Story, what\u2019s-his-name and the big blue chick in Avatar. I\u2019m gonna bowl now."
+        ],
+        [
+            "Sheldon",
+            "Be the ball, Howard."
+        ],
+        [
+            "Howard",
+            "Leave me alone, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "You weren\u2019t the ball."
+        ],
+        [
+            "Penny",
+            "Hey, thanks."
+        ],
+        [
+            "Leonard",
+            "This is fun, huh?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "It\u2019s good that we got out and did something physical."
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Leonard",
+            "Gets us out of our heads. You get in your head, you start to overthink, overanalyze, obsess, you worry. That\u2019s not what we\u2019re doing tonight. Tonight we\u2019re just throwing a ball at some pins."
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s right."
+        ],
+        [
+            "Leonard",
+            "Mm-hmm, and someday, we don\u2019t know when, maybe you\u2019ll love me back. Ooh, I\u2019m up."
+        ],
+        [
+            "All (chanting)",
+            "Shel-don! Shel-don! Shel-don! Shel-don!"
+        ],
+        [
+            "Sheldon",
+            "Excuse me. I don\u2019t know who you\u2019re chanting for as I am currently the ball."
+        ],
+        [
+            "All (chanting)",
+            "The ball! The ball! The ball! The ball! The ball! The ball!"
+        ],
+        [
+            "Sheldon",
+            "Thank you, Jesus! As my mother would say."
+        ],
+        [
+            "Wil",
+            "I\u2019m glad you patched things up with your boyfriend."
+        ],
+        [
+            "Penny",
+            "Oh, yeah, me, too."
+        ],
+        [
+            "Wil",
+            "It\u2019s always tough when the L bomb gets dropped and you\u2019re not ready for it."
+        ],
+        [
+            "Penny",
+            "Tell me about it."
+        ],
+        [
+            "Wil",
+            "I dated this one girl, and I told her that I loved her, and she said she wasn\u2019t sure. And she strung me along for almost two years. It was brutal."
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019m sorry."
+        ],
+        [
+            "Wil",
+            "Thanks. Yeah, I wish she had just broken up with me right there, put me out of my misery."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Wil",
+            "Yeah, would have been kinder."
+        ],
+        [
+            "Stuart",
+            "Wil, you\u2019re up."
+        ],
+        [
+            "Wil",
+            "Oh, that\u2019s me."
+        ],
+        [
+            "Sheldon",
+            "Did you let Wil Wheaton get in your head?"
+        ],
+        [
+            "Penny",
+            "What are you talking about?"
+        ],
+        [
+            "Sheldon",
+            "He\u2019s evil. He plays evil mind games. Did he tell you his grandmother died?"
+        ],
+        [
+            "Penny",
+            "No!"
+        ],
+        [
+            "Sheldon",
+            "Well, if he does, don\u2019t believe it. He\u2019s not above playing the dead meemaw card."
+        ],
+        [
+            "Wil",
+            "Yes!"
+        ],
+        [
+            "Sheldon: Enjoy the accolades now, Wil Wheaton, but like your time on Star Trek",
+            "Next Generation, your smug self-satisfaction will be short-lived."
+        ],
+        [
+            "Leonard",
+            "Penny, you\u2019re up."
+        ],
+        [
+            "Sheldon",
+            "All right, remember, his meemaw\u2019s alive and be the ball."
+        ],
+        [
+            "Penny",
+            "Yeah, I got it."
+        ],
+        [
+            "Leonard",
+            "We really need a strike here."
+        ],
+        [
+            "Penny",
+            "I know."
+        ],
+        [
+            "Leonard",
+            "So just take your time and concentrate."
+        ],
+        [
+            "Penny",
+            "Leonard, stop pressuring me."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not pressuring you."
+        ],
+        [
+            "Penny",
+            "Yeah, you are! Just back off!"
+        ],
+        [
+            "Leonard",
+            "Okay, I\u2019m sorry. I\u2019ll shut up."
+        ],
+        [
+            "Penny",
+            "I didn\u2019t mean shut up."
+        ],
+        [
+            "Leonard",
+            "Fine. Just tell me what to do, and I\u2019ll do it."
+        ],
+        [
+            "Penny",
+            "No, this isn\u2019t fair to you, Leonard. I\u2019m sorry."
+        ],
+        [
+            "Sheldon",
+            "Wait! Where are you going? Penny, come back! I\u2019ll get you ice cream!"
+        ],
+        [
+            "Leonard",
+            "No, let her go."
+        ],
+        [
+            "Sheldon",
+            "Are you insane? If she leaves, it\u2019s over!"
+        ],
+        [
+            "Leonard",
+            "I\u2019m pretty sure it\u2019s already over."
+        ],
+        [
+            "Wil",
+            "Tough luck, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "You did this, didn\u2019t you?"
+        ],
+        [
+            "Wil",
+            "Do you think I would really break up a couple just to win a bowling match?"
+        ],
+        [
+            "Sheldon",
+            "No, I suppose not."
+        ],
+        [
+            "Wil",
+            "Good. Keep thinking that."
+        ],
+        [
+            "Sheldon",
+            "Wheaton!"
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Stuart",
+            "Mm-hmm, mm-hmm, yeah, I\u2019m telling you the Match.com chicks are much looser than on eHarmony. You know, I, I gotta call you back. I won a bet, and it\u2019s time to collect."
+        ],
+        [
+            "Scene",
+            "(The guys enter dressed as female superheroes. Howard is Batgirl, Sheldon is Wonder Woman, Leonard is Supergirl and Raj is Catwoman.)"
+        ],
+        [
+            "Raj",
+            "I don\u2019t know about you, but I feel empowered."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-19-the-wheaton-recurrence/"
+}

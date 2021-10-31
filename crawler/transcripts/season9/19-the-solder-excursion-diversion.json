@@ -1,0 +1,2128 @@
+{
+    "Season": 9,
+    "Episode": 19,
+    "Title": "the solder excursion diversion",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                17,
+                "Amy (on phone) Get a new computer."
+            ],
+            [
+                18,
+                "Credits sequence."
+            ],
+            [
+                19,
+                "Howard\u2019s workshop."
+            ],
+            [
+                38,
+                "The apartment."
+            ],
+            [
+                57,
+                "Howard\u2019s workshop."
+            ],
+            [
+                76,
+                "The apartment."
+            ],
+            [
+                103,
+                "A street."
+            ],
+            [
+                115,
+                "Howard\u2019s workshop."
+            ],
+            [
+                129,
+                "Amy\u2019s car."
+            ],
+            [
+                136,
+                "The cinema."
+            ],
+            [
+                168,
+                "A storage facility."
+            ],
+            [
+                180,
+                "Howard\u2019s workshop."
+            ],
+            [
+                188,
+                "The storage unit."
+            ],
+            [
+                207,
+                "Howard\u2019s workshop."
+            ],
+            [
+                233,
+                "The storage unit."
+            ],
+            [
+                248,
+                "The apartment."
+            ],
+            [
+                253,
+                "The same, shortly afterwards."
+            ]
+        ],
+        "Amy (on Skype)": [
+            [
+                1,
+                "I didn\u2019t understand your e-mail."
+            ],
+            [
+                255,
+                "I really had to go home for this?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Uh, can you repeat that? You\u2019re breaking up."
+            ],
+            [
+                4,
+                "Ah. Yeah, I had to get a little creative because the S, R and M keys on my laptop stopped working."
+            ],
+            [
+                6,
+                "So, is that a yes?"
+            ],
+            [
+                8,
+                "Oh, but I like this computer."
+            ],
+            [
+                10,
+                "I\u2019m sorry, I didn\u2019t get that."
+            ],
+            [
+                12,
+                "The sound is cutting out. I can\u2019t read that. The video is failing."
+            ],
+            [
+                14,
+                "What?"
+            ],
+            [
+                16,
+                "What? (Answering phone) Hello?"
+            ],
+            [
+                40,
+                "You\u2019re too late."
+            ],
+            [
+                42,
+                "You got emotional when that lab monkey died."
+            ],
+            [
+                44,
+                "Great. Now I\u2019m gonna have that song in my head all day."
+            ],
+            [
+                46,
+                "How could you do that?"
+            ],
+            [
+                48,
+                "Choosing a new laptop Is an incredibly personal ritual. You have taken away weeks of agonizing thought, tedious research, sleepless nights filled with indecision. I, haven\u2019t I lost enough today?"
+            ],
+            [
+                50,
+                "Oh, oh, the guy. Oh, pardon me. I didn\u2019t realize you\u2019d spoken to the guy. Yeah, tell me, did the guy choose one with a 4K display and a Thunderbolt port?"
+            ],
+            [
+                52,
+                "Yeah? Did the guy make sure that this has a one terabyte solid-state drive?"
+            ],
+            [
+                54,
+                "Yeah? Oh, well, was this guy Rick from Computer Solutions on Colorado?"
+            ],
+            [
+                56,
+                "Yeah, well, he does know his stuff."
+            ],
+            [
+                77,
+                "I suppose I should set this up. Or would you like to rob me of that, too?"
+            ],
+            [
+                79,
+                "You wouldn\u2019t."
+            ],
+            [
+                81,
+                "Fine. I\u2019m sorry. Thank you for the thoughtful gift. I really do appreciate it. As you know, I had become attached to my old laptop. But I\u2019m sure, in time, that this one will\u2026 Jeepers creepers, that started up fast."
+            ],
+            [
+                83,
+                "Look at the 4K resolution. Next time we Skype, I\u2019m gonna count all those nostril hairs."
+            ],
+            [
+                85,
+                "But you only have two eyes. You got a lot of nostril hairs."
+            ],
+            [
+                87,
+                "Oh. I am."
+            ],
+            [
+                89,
+                "Oh. Uh, no, no, no, thank you."
+            ],
+            [
+                91,
+                "Well, no, I just, I, I don\u2019t want to recycle it. And I don\u2019t want store credit."
+            ],
+            [
+                93,
+                "Can we please change the subject?"
+            ],
+            [
+                95,
+                "I\u2019m not being weird. I, it\u2019s hard to explain."
+            ],
+            [
+                97,
+                "It might be easier to show you."
+            ],
+            [
+                99,
+                "We\u2019d have to take your car."
+            ],
+            [
+                101,
+                "And I\u2019m gonna need you to sign a non-disclosure agreement."
+            ],
+            [
+                131,
+                "Sorry, you\u2019re on a need-to-know basis."
+            ],
+            [
+                133,
+                "Right."
+            ],
+            [
+                135,
+                "No, I meant turn right, and you missed it. Maybe you do need to know."
+            ],
+            [
+                170,
+                "Just wait."
+            ],
+            [
+                172,
+                "Just wait."
+            ],
+            [
+                174,
+                "Just wait. You know what? Actually, yes, thank you. Welcome to my Fortress of Shame."
+            ],
+            [
+                176,
+                "It\u2019s basically everything I\u2019ve ever owned. Um, every book, every tee shirt, every piece of broken electronics. Just all of it."
+            ],
+            [
+                178,
+                "I have a Ziploc bag filled with all my old Ziploc bags."
+            ],
+            [
+                189,
+                "In here is every clock radio I\u2019ve ever owned. Calculators, VHS tapes. Yeah. Oh. Sporting equipment."
+            ],
+            [
+                191,
+                "Well, oh, it\u2019s just a, it\u2019s a, a golf ball that my brother threw at my head. You can still feel the dent. It\u2019s right next to the hockey puck dent."
+            ],
+            [
+                193,
+                "I used to collect them as a child. The spiral of scales open in the Fibonacci sequence. A fact that, when you tell your brother, gets a golf ball thrown at your head."
+            ],
+            [
+                195,
+                "I\u2019d like to say it\u2019s nostalgia, but every time I think of throwing anything away, my ears start to ring, and I get butterflies in my stomach. And then it feels like the butterflies get eaten by rats, and then the, the rats get eaten by\u2026"
+            ],
+            [
+                197,
+                "It ends with dinosaurs. I\u2019m sorry if you think less of me."
+            ],
+            [
+                199,
+                "Really? \u2018Cause every time I come in here, I think less of me."
+            ],
+            [
+                201,
+                "Because I\u2019m a fraud. No. I purport to be a man of the mind. I\u2019ve been such a, a vocal champion of the singularity, but how can I leave my body behind and become one with the internet when I\u2019ve never even thrown a toothbrush away?"
+            ],
+            [
+                203,
+                "Like what?"
+            ],
+            [
+                205,
+                "I have an old teddy bear I secretly wiped my nose on for years."
+            ],
+            [
+                235,
+                "Only you."
+            ],
+            [
+                237,
+                "What good is having a girlfriend if you can\u2019t unload your psychological sewage on her?"
+            ],
+            [
+                239,
+                "Thank you. I wouldn\u2019t even know how to begin."
+            ],
+            [
+                241,
+                "I suppose I could try getting rid of the golf ball."
+            ],
+            [
+                243,
+                "I will always have the dent to remember it by."
+            ],
+            [
+                245,
+                "Actually, yes. I do."
+            ],
+            [
+                247,
+                "Thanks."
+            ],
+            [
+                249,
+                "I\u2019m glad I told you about the storage unit."
+            ],
+            [
+                251,
+                "Oh, I feel closer to you, too. You know, it\u2019s still a couple of hours until my bedtime."
+            ],
+            [
+                254,
+                "You look amazing. I mean, this resolution is remarkable."
+            ],
+            [
+                256,
+                "Yes, but it\u2019s like you\u2019re right here in the room."
+            ],
+            [
+                258,
+                "But I feel like I could reach out and touch you."
+            ],
+            [
+                260,
+                "I know."
+            ]
+        ],
+        "Amy": [
+            [
+                3,
+                "I didn\u2019t understand your e-mail."
+            ],
+            [
+                5,
+                "Deaw Aby, could you pleathe dwive be to the twain thtow thubtibe tobowow?"
+            ],
+            [
+                7,
+                "Sheldon, why don\u2019t you get a new computer? You know that one\u2019s out-of-date."
+            ],
+            [
+                9,
+                "The video is failing, and the sound is cutting out."
+            ],
+            [
+                11,
+                "The video is failing, and the sound is cutting out."
+            ],
+            [
+                13,
+                "Get a new computer."
+            ],
+            [
+                15,
+                "Get a new computer."
+            ],
+            [
+                39,
+                "I got here as quickly as I could."
+            ],
+            [
+                41,
+                "Sheldon, this is silly."
+            ],
+            [
+                43,
+                "That lab monkey told me he loved me in sign language."
+            ],
+            [
+                45,
+                "Look, I\u2019m, I\u2019m sorry for your loss, but I think I have something that might make you feel better. I got you a new computer."
+            ],
+            [
+                47,
+                "Do what?"
+            ],
+            [
+                49,
+                "Well, the guy at the store said this one is great."
+            ],
+            [
+                51,
+                "Yes."
+            ],
+            [
+                53,
+                "Yes."
+            ],
+            [
+                55,
+                "Yes."
+            ],
+            [
+                78,
+                "Knock it off or I\u2019ll start making W-H sounds for words that just have a W."
+            ],
+            [
+                80,
+                "Whatch me."
+            ],
+            [
+                82,
+                "I thought you might like it."
+            ],
+            [
+                84,
+                "Or you could just look into my eyes."
+            ],
+            [
+                86,
+                "Well, you know, as long as you\u2019re happy."
+            ],
+            [
+                88,
+                "And Rick said you could bring in your old one to recycle it."
+            ],
+            [
+                90,
+                "Oh, but he said you can get store credit."
+            ],
+            [
+                92,
+                "But why wouldn\u2019t\u2026"
+            ],
+            [
+                94,
+                "Okay. How \u2019bout we change it to why you\u2019re being weird about this?"
+            ],
+            [
+                96,
+                "Sheldon, just tell me."
+            ],
+            [
+                98,
+                "Okay."
+            ],
+            [
+                100,
+                "All right."
+            ],
+            [
+                102,
+                "Well, I signed one before we slept together. Why not now?"
+            ],
+            [
+                130,
+                "Will you please tell me where we\u2019re going?"
+            ],
+            [
+                132,
+                "I\u2019m driving the car. I need to know."
+            ],
+            [
+                134,
+                "So where are we going?"
+            ],
+            [
+                169,
+                "Why do you have a storage unit?"
+            ],
+            [
+                171,
+                "How long have you had it?"
+            ],
+            [
+                173,
+                "Do you want me to hold that computer?"
+            ],
+            [
+                175,
+                "I\u2019m sorry. What, what am I looking at?"
+            ],
+            [
+                177,
+                "All of it?"
+            ],
+            [
+                179,
+                "Okay. Well, I would like to tell you that there is nothing here to be ashamed of. So I\u2019m gonna need a minute."
+            ],
+            [
+                190,
+                "You have sporting equipment?"
+            ],
+            [
+                192,
+                "Okay, why do you have a bin of pine cones?"
+            ],
+            [
+                194,
+                "So, why do you feel you need to save these things?"
+            ],
+            [
+                196,
+                "Okay. I get it. I get it."
+            ],
+            [
+                198,
+                "I don\u2019t."
+            ],
+            [
+                200,
+                "Why?"
+            ],
+            [
+                202,
+                "It\u2019s okay, Sheldon. You know, I\u2019ve saved a lot of weird things, too."
+            ],
+            [
+                204,
+                "Well, um, did you know I have a microscope slide with a little bit of tissue from the first brain I ever dissected?"
+            ],
+            [
+                206,
+                "It\u2019s not a contest."
+            ],
+            [
+                234,
+                "So, no one else knows about this?"
+            ],
+            [
+                236,
+                "Thank you for trusting me."
+            ],
+            [
+                238,
+                "That\u2019s me, your emotional outhouse. You know, if you ever decide you want to do something about this, I\u2019m, I\u2019m here for you."
+            ],
+            [
+                240,
+                "Baby steps, I guess."
+            ],
+            [
+                242,
+                "Oh. Okay."
+            ],
+            [
+                244,
+                "You did it. Do you feel okay?"
+            ],
+            [
+                246,
+                "Well, I\u2019m proud of you."
+            ],
+            [
+                250,
+                "Well, I feel closer to you now."
+            ],
+            [
+                252,
+                "What did you have in mind?"
+            ],
+            [
+                257,
+                "And yet, I\u2019m not."
+            ],
+            [
+                259,
+                "And yet, you can\u2019t."
+            ]
+        ],
+        "Leonard": [
+            [
+                20,
+                "This is cool. When was the last time you and I built something together?"
+            ],
+            [
+                22,
+                "If there was a Nobel Prize for Millennium Falcons that fall apart when you pick them up, we\u2019d be set."
+            ],
+            [
+                24,
+                "Hey. What are you doing here?"
+            ],
+            [
+                27,
+                "Soup, sandwiches and emasculation, just like my mom used to make."
+            ],
+            [
+                29,
+                "Good. Slow."
+            ],
+            [
+                32,
+                "You know what, this part isn\u2019t that technical. You actually could."
+            ],
+            [
+                36,
+                "I\u2019ll show you how to do one."
+            ],
+            [
+                58,
+                "After you wrap the body in reflective tape, the ends get Teflon tape so we can get a tight seal."
+            ],
+            [
+                60,
+                "Yeah, perfect."
+            ],
+            [
+                62,
+                "And it helps to have small, delicate fingers. So don\u2019t be discouraged if you can\u2019t do it as fast as me and Howard."
+            ],
+            [
+                64,
+                "We had a full spool yesterday."
+            ],
+            [
+                67,
+                "Well, we got to make a run to the hardware store."
+            ],
+            [
+                69,
+                "Well, funny story. So, we have plenty of the 60/40 tin-to-lead ratio solder, but the spools look a lot like the 63/37 tin-to-lead\u2026"
+            ],
+            [
+                74,
+                "Okay. We\u2019ll be back as soon as we can."
+            ],
+            [
+                104,
+                "Penny says they\u2019re having fun working on the prototype."
+            ],
+            [
+                106,
+                "I know. I\u2019m lowering the bar so slowly. This time next year she\u2019ll have a coin collection."
+            ],
+            [
+                108,
+                "Oh. Sorry, we can\u2019t."
+            ],
+            [
+                112,
+                "What about the girls?"
+            ],
+            [
+                114,
+                "Okay, we\u2019ll take \u2019em. But, I swear, if it\u2019s Will Smith in Shark Tale 2, it better be at least as good as the original."
+            ],
+            [
+                137,
+                "What are we gonna tell the girls?"
+            ],
+            [
+                139,
+                "I mean without lying."
+            ],
+            [
+                141,
+                "Come on. We\u2019re a couple of smart guys. I\u2019m sure we can come up with a way to explain this that doesn\u2019t make us look bad."
+            ],
+            [
+                143,
+                "They bought it."
+            ],
+            [
+                145,
+                "Oh, you\u2019re good at this."
+            ],
+            [
+                148,
+                "Hey, you were right."
+            ],
+            [
+                151,
+                "Who are you texting?"
+            ],
+            [
+                153,
+                "He\u2019ll never make it in time."
+            ],
+            [
+                155,
+                "Ha, ha. Leonard and I are about to see Suicide Squad. Spoiler alert, when I see you I\u2019m gonna spoil it. You\u2019re a good friend."
+            ],
+            [
+                211,
+                "Hey."
+            ],
+            [
+                214,
+                "Listen, we did a stupid thing."
+            ],
+            [
+                216,
+                "So, these are for you, and if you\u2019re not too mad, we\u2019d love to take you guys to dinner."
+            ]
+        ],
+        "Howard": [
+            [
+                21,
+                "Scientifically? A little over a year ago. LEGOs? Last week in my room."
+            ],
+            [
+                30,
+                "There\u2019s a lot of tedious setup, but once we get through that it should go quicker."
+            ],
+            [
+                35,
+                "While we finish soldering these boards, it\u2019d be great if you guys could wrap these pipe fittings with Teflon tape."
+            ],
+            [
+                63,
+                "I don\u2019t know if we have enough solder to finish these circuit boards."
+            ],
+            [
+                65,
+                "What can I say, I play hard, I solder even harder."
+            ],
+            [
+                71,
+                "You want to come with us?"
+            ],
+            [
+                105,
+                "Remember when her fun was nightclubs and drinking games?"
+            ],
+            [
+                109,
+                "Well, hang on. What movie is it?"
+            ],
+            [
+                111,
+                "Wait. I bet it\u2019s Suicide Squad. Let\u2019s check it out."
+            ],
+            [
+                113,
+                "Penny just said they\u2019re having fun. Honestly, you want to wrap tape around a bunch of pipe fittings all afternoon?"
+            ],
+            [
+                138,
+                "It\u2019s not a problem."
+            ],
+            [
+                140,
+                "And now you\u2019ve made it a problem."
+            ],
+            [
+                144,
+                "But we\u2019re gonna have to put the spare on before we go back."
+            ],
+            [
+                146,
+                "Well, I lie a lot."
+            ],
+            [
+                149,
+                "Well, I keep telling you, good things happen to bad people."
+            ],
+            [
+                152,
+                "Raj. He really wants to see this movie."
+            ],
+            [
+                154,
+                "I know. I want to make him feel bad."
+            ],
+            [
+                212,
+                "Hi."
+            ],
+            [
+                215,
+                "We went to a movie and lied about it, but we feel bad and want to make it up to you."
+            ],
+            [
+                217,
+                "Yeah. Anywhere you want."
+            ],
+            [
+                221,
+                "What is he doing in there?"
+            ],
+            [
+                226,
+                "You know what wasn\u2019t anti-climactic? The end of the movie. Get this."
+            ],
+            [
+                229,
+                "Ready for dinner?"
+            ]
+        ],
+        "Penny": [
+            [
+                23,
+                "Hey, guys."
+            ],
+            [
+                26,
+                "Yup, so we brought you some lunch and we are gonna go look for \u2019em."
+            ],
+            [
+                28,
+                "So, how\u2019s it goin\u2019?"
+            ],
+            [
+                31,
+                "Is there anything we can do to help?"
+            ],
+            [
+                33,
+                "Wow, really? Called my bluff. All righty then."
+            ],
+            [
+                37,
+                "Hey, wouldn\u2019t it be funny if after all your years of hard work, I\u2019m the one who makes a scientific breakthrough? He doesn\u2019t think that\u2019s funny."
+            ],
+            [
+                59,
+                "Like this?"
+            ],
+            [
+                61,
+                "Oh."
+            ],
+            [
+                68,
+                "How can you call yourself a scientist and run out of solder?"
+            ],
+            [
+                70,
+                "Honey, honey, honey, let me stop you. That is, is not a funny story."
+            ],
+            [
+                73,
+                "Yeah, you guys run to the store and let the women handle the science for a change."
+            ],
+            [
+                75,
+                "Okay, so what is solder?"
+            ],
+            [
+                116,
+                "I mean, it\u2019s crazy, isn\u2019t it? I moved here from Nebraska to be an actress, and now I\u2019m sitting in an engineering lab at Caltech helping to build a prototype for a high-tech guidance system."
+            ],
+            [
+                119,
+                "Oh, they went to the store to get solder, which is metal you melt to make science things."
+            ],
+            [
+                122,
+                "You were home alone and had no one to play with?"
+            ],
+            [
+                125,
+                "I think we\u2019re good."
+            ],
+            [
+                157,
+                "Why?"
+            ],
+            [
+                161,
+                "Un-freakin\u2019 believable."
+            ],
+            [
+                164,
+                "No. You know what? Don\u2019t. Don\u2019t. Let\u2019s let them think they\u2019re getting away with it."
+            ],
+            [
+                166,
+                "Mm-hmm."
+            ],
+            [
+                181,
+                "All right, how are we gonna play this when they return?"
+            ],
+            [
+                183,
+                "Sweetie, I know you think jokes like that are funny, but do you really think you could handle making out with both of us?"
+            ],
+            [
+                186,
+                "Yeah, that\u2019s pretty good."
+            ],
+            [
+                208,
+                "Okay, here they come."
+            ],
+            [
+                213,
+                "Hey, what\u2019s this?"
+            ],
+            [
+                219,
+                "Yeah. You know, I want to be upset, but we did kind of have fun working on the prototype."
+            ],
+            [
+                224,
+                "Yeah, it\u2019s fine."
+            ],
+            [
+                228,
+                "And he\u2019s back in the closet."
+            ],
+            [
+                230,
+                "Yeah."
+            ]
+        ],
+        "Bernadette": [
+            [
+                25,
+                "We heard there were some sexy scientists working hard all weekend."
+            ],
+            [
+                34,
+                "Can we really help?"
+            ],
+            [
+                66,
+                "Sometimes he solders at home with his shirt off. It\u2019s like a beer commercial."
+            ],
+            [
+                72,
+                "I\u2019m kind of getting into the groove here."
+            ],
+            [
+                117,
+                "It is crazy. It\u2019s also crazy that I\u2019ve made fourteen of these and you\u2019ve made three."
+            ],
+            [
+                120,
+                "Since when do you work on weekends?"
+            ],
+            [
+                124,
+                "Not with Lightning McQueen here."
+            ],
+            [
+                127,
+                "I feel bad. Should we have asked him to stay?"
+            ],
+            [
+                159,
+                "What\u2019s going on?"
+            ],
+            [
+                162,
+                "Son of a bitch."
+            ],
+            [
+                165,
+                "Yeah, let\u2019s see how deep a hole they can dig for themselves."
+            ],
+            [
+                185,
+                "Okay. Okay, how about this? They don\u2019t know you\u2019re here with us, so you hide in the closet. When they show up, we\u2019ll hear whatever their dumb story is about where they were, we\u2019ll pretend to believe them and just when they think they got away with it, you jump out."
+            ],
+            [
+                209,
+                "Go hide."
+            ],
+            [
+                218,
+                "Oh. Well, thank you for being honest."
+            ],
+            [
+                223,
+                "It\u2019s okay. They apologized."
+            ],
+            [
+                231,
+                "Should we invite Raj?"
+            ]
+        ],
+        "Man": [
+            [
+                107,
+                "Excuse me. You guys interested in a free screening of an upcoming movie?"
+            ],
+            [
+                110,
+                "Oh, I can\u2019t tell you. But it does star Will Smith."
+            ],
+            [
+                147,
+                "Hey, guys, thank you for being a part of our test screening. You\u2019re about to be one of the first audiences to see Suicide Squad."
+            ],
+            [
+                150,
+                "Uh, we\u2019re gonna get started in a couple minutes. Enjoy."
+            ]
+        ],
+        "Raj": [
+            [
+                118,
+                "Hey. Where are the guys?"
+            ],
+            [
+                121,
+                "I\u2019m an astrophysicist. The stars don\u2019t take a day off."
+            ],
+            [
+                123,
+                "Well, the cleaning lady was there, but she doesn\u2019t like me. You need any help?"
+            ],
+            [
+                126,
+                "Okay. That\u2019s cool. I guess everybody\u2019s involved in this project but me. So, see ya."
+            ],
+            [
+                158,
+                "I need to rub my genitals on their prototype."
+            ],
+            [
+                160,
+                "Leonard and Howard don\u2019t have a flat. They went to the movies. Look."
+            ],
+            [
+                163,
+                "Oh. You know what? I\u2019m gonna let them know that I\u2019m here with you and that they\u2019re busted."
+            ],
+            [
+                167,
+                "Interesting. I mean, it\u2019s not testicles on a cryostat, but I like it."
+            ],
+            [
+                182,
+                "I know. You guys should totally be making out with me."
+            ],
+            [
+                184,
+                "No, ma\u2019am."
+            ],
+            [
+                187,
+                "I love it, I\u2019ll be all like, busted, and they\u2019ll be like, what? And then we\u2019ll all be like, oh yeah. Yeah, I get it. I wouldn\u2019t make out with me, either."
+            ],
+            [
+                210,
+                "Oh, man, when I come out of the closet, I\u2019m gonna nail those guys. Yeah, I heard it. Shut up."
+            ],
+            [
+                222,
+                "Busting you."
+            ],
+            [
+                225,
+                "Well this is kind of anti-climactic."
+            ],
+            [
+                227,
+                "No spoilers. No spoilers."
+            ]
+        ],
+        "Raj (from outside)": [
+            [
+                128,
+                "Yes."
+            ]
+        ],
+        "Penny (at Howard\u2019s workshop, reading text)": [
+            [
+                142,
+                "Oh, the boys had to drive all the way to San Bernardino for the solder and got a flat."
+            ]
+        ],
+        "Raj (at the workshop)": [
+            [
+                156,
+                "Okay. Would you ladies please leave the room for a moment?"
+            ]
+        ],
+        "Raj (inside cupboard)": [
+            [
+                220,
+                "Don\u2019t forgive them. Stay mad at them."
+            ]
+        ],
+        "Raj (in cupboard)": [
+            [
+                232,
+                "Yes."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy (on Skype)",
+            "I didn\u2019t understand your e-mail."
+        ],
+        [
+            "Sheldon",
+            "Uh, can you repeat that? You\u2019re breaking up."
+        ],
+        [
+            "Amy",
+            "I didn\u2019t understand your e-mail."
+        ],
+        [
+            "Sheldon",
+            "Ah. Yeah, I had to get a little creative because the S, R and M keys on my laptop stopped working."
+        ],
+        [
+            "Amy",
+            "Deaw Aby, could you pleathe dwive be to the twain thtow thubtibe tobowow?"
+        ],
+        [
+            "Sheldon",
+            "So, is that a yes?"
+        ],
+        [
+            "Amy",
+            "Sheldon, why don\u2019t you get a new computer? You know that one\u2019s out-of-date."
+        ],
+        [
+            "Sheldon",
+            "Oh, but I like this computer."
+        ],
+        [
+            "Amy",
+            "The video is failing, and the sound is cutting out."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, I didn\u2019t get that."
+        ],
+        [
+            "Amy",
+            "The video is failing, and the sound is cutting out."
+        ],
+        [
+            "Sheldon",
+            "The sound is cutting out. I can\u2019t read that. The video is failing."
+        ],
+        [
+            "Amy",
+            "Get a new computer."
+        ],
+        [
+            "Sheldon",
+            "What?"
+        ],
+        [
+            "Amy",
+            "Get a new computer."
+        ],
+        [
+            "Sheldon",
+            "What? (Answering phone) Hello?"
+        ],
+        [
+            "Scene",
+            "Amy (on phone) Get a new computer."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s workshop."
+        ],
+        [
+            "Leonard",
+            "This is cool. When was the last time you and I built something together?"
+        ],
+        [
+            "Howard",
+            "Scientifically? A little over a year ago. LEGOs? Last week in my room."
+        ],
+        [
+            "Leonard",
+            "If there was a Nobel Prize for Millennium Falcons that fall apart when you pick them up, we\u2019d be set."
+        ],
+        [
+            "Penny",
+            "Hey, guys."
+        ],
+        [
+            "Leonard",
+            "Hey. What are you doing here?"
+        ],
+        [
+            "Bernadette",
+            "We heard there were some sexy scientists working hard all weekend."
+        ],
+        [
+            "Penny",
+            "Yup, so we brought you some lunch and we are gonna go look for \u2019em."
+        ],
+        [
+            "Leonard",
+            "Soup, sandwiches and emasculation, just like my mom used to make."
+        ],
+        [
+            "Penny",
+            "So, how\u2019s it goin\u2019?"
+        ],
+        [
+            "Leonard",
+            "Good. Slow."
+        ],
+        [
+            "Howard",
+            "There\u2019s a lot of tedious setup, but once we get through that it should go quicker."
+        ],
+        [
+            "Penny",
+            "Is there anything we can do to help?"
+        ],
+        [
+            "Leonard",
+            "You know what, this part isn\u2019t that technical. You actually could."
+        ],
+        [
+            "Penny",
+            "Wow, really? Called my bluff. All righty then."
+        ],
+        [
+            "Bernadette",
+            "Can we really help?"
+        ],
+        [
+            "Howard",
+            "While we finish soldering these boards, it\u2019d be great if you guys could wrap these pipe fittings with Teflon tape."
+        ],
+        [
+            "Leonard",
+            "I\u2019ll show you how to do one."
+        ],
+        [
+            "Penny",
+            "Hey, wouldn\u2019t it be funny if after all your years of hard work, I\u2019m the one who makes a scientific breakthrough? He doesn\u2019t think that\u2019s funny."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "I got here as quickly as I could."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re too late."
+        ],
+        [
+            "Amy",
+            "Sheldon, this is silly."
+        ],
+        [
+            "Sheldon",
+            "You got emotional when that lab monkey died."
+        ],
+        [
+            "Amy",
+            "That lab monkey told me he loved me in sign language."
+        ],
+        [
+            "Sheldon",
+            "Great. Now I\u2019m gonna have that song in my head all day."
+        ],
+        [
+            "Amy",
+            "Look, I\u2019m, I\u2019m sorry for your loss, but I think I have something that might make you feel better. I got you a new computer."
+        ],
+        [
+            "Sheldon",
+            "How could you do that?"
+        ],
+        [
+            "Amy",
+            "Do what?"
+        ],
+        [
+            "Sheldon",
+            "Choosing a new laptop Is an incredibly personal ritual. You have taken away weeks of agonizing thought, tedious research, sleepless nights filled with indecision. I, haven\u2019t I lost enough today?"
+        ],
+        [
+            "Amy",
+            "Well, the guy at the store said this one is great."
+        ],
+        [
+            "Sheldon",
+            "Oh, oh, the guy. Oh, pardon me. I didn\u2019t realize you\u2019d spoken to the guy. Yeah, tell me, did the guy choose one with a 4K display and a Thunderbolt port?"
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Yeah? Did the guy make sure that this has a one terabyte solid-state drive?"
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Yeah? Oh, well, was this guy Rick from Computer Solutions on Colorado?"
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, he does know his stuff."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s workshop."
+        ],
+        [
+            "Leonard",
+            "After you wrap the body in reflective tape, the ends get Teflon tape so we can get a tight seal."
+        ],
+        [
+            "Penny",
+            "Like this?"
+        ],
+        [
+            "Leonard",
+            "Yeah, perfect."
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Leonard",
+            "And it helps to have small, delicate fingers. So don\u2019t be discouraged if you can\u2019t do it as fast as me and Howard."
+        ],
+        [
+            "Howard",
+            "I don\u2019t know if we have enough solder to finish these circuit boards."
+        ],
+        [
+            "Leonard",
+            "We had a full spool yesterday."
+        ],
+        [
+            "Howard",
+            "What can I say, I play hard, I solder even harder."
+        ],
+        [
+            "Bernadette",
+            "Sometimes he solders at home with his shirt off. It\u2019s like a beer commercial."
+        ],
+        [
+            "Leonard",
+            "Well, we got to make a run to the hardware store."
+        ],
+        [
+            "Penny",
+            "How can you call yourself a scientist and run out of solder?"
+        ],
+        [
+            "Leonard",
+            "Well, funny story. So, we have plenty of the 60/40 tin-to-lead ratio solder, but the spools look a lot like the 63/37 tin-to-lead\u2026"
+        ],
+        [
+            "Penny",
+            "Honey, honey, honey, let me stop you. That is, is not a funny story."
+        ],
+        [
+            "Howard",
+            "You want to come with us?"
+        ],
+        [
+            "Bernadette",
+            "I\u2019m kind of getting into the groove here."
+        ],
+        [
+            "Penny",
+            "Yeah, you guys run to the store and let the women handle the science for a change."
+        ],
+        [
+            "Leonard",
+            "Okay. We\u2019ll be back as soon as we can."
+        ],
+        [
+            "Penny",
+            "Okay, so what is solder?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "I suppose I should set this up. Or would you like to rob me of that, too?"
+        ],
+        [
+            "Amy",
+            "Knock it off or I\u2019ll start making W-H sounds for words that just have a W."
+        ],
+        [
+            "Sheldon",
+            "You wouldn\u2019t."
+        ],
+        [
+            "Amy",
+            "Whatch me."
+        ],
+        [
+            "Sheldon",
+            "Fine. I\u2019m sorry. Thank you for the thoughtful gift. I really do appreciate it. As you know, I had become attached to my old laptop. But I\u2019m sure, in time, that this one will\u2026 Jeepers creepers, that started up fast."
+        ],
+        [
+            "Amy",
+            "I thought you might like it."
+        ],
+        [
+            "Sheldon",
+            "Look at the 4K resolution. Next time we Skype, I\u2019m gonna count all those nostril hairs."
+        ],
+        [
+            "Amy",
+            "Or you could just look into my eyes."
+        ],
+        [
+            "Sheldon",
+            "But you only have two eyes. You got a lot of nostril hairs."
+        ],
+        [
+            "Amy",
+            "Well, you know, as long as you\u2019re happy."
+        ],
+        [
+            "Sheldon",
+            "Oh. I am."
+        ],
+        [
+            "Amy",
+            "And Rick said you could bring in your old one to recycle it."
+        ],
+        [
+            "Sheldon",
+            "Oh. Uh, no, no, no, thank you."
+        ],
+        [
+            "Amy",
+            "Oh, but he said you can get store credit."
+        ],
+        [
+            "Sheldon",
+            "Well, no, I just, I, I don\u2019t want to recycle it. And I don\u2019t want store credit."
+        ],
+        [
+            "Amy",
+            "But why wouldn\u2019t\u2026"
+        ],
+        [
+            "Sheldon",
+            "Can we please change the subject?"
+        ],
+        [
+            "Amy",
+            "Okay. How \u2019bout we change it to why you\u2019re being weird about this?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not being weird. I, it\u2019s hard to explain."
+        ],
+        [
+            "Amy",
+            "Sheldon, just tell me."
+        ],
+        [
+            "Sheldon",
+            "It might be easier to show you."
+        ],
+        [
+            "Amy",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "We\u2019d have to take your car."
+        ],
+        [
+            "Amy",
+            "All right."
+        ],
+        [
+            "Sheldon",
+            "And I\u2019m gonna need you to sign a non-disclosure agreement."
+        ],
+        [
+            "Amy",
+            "Well, I signed one before we slept together. Why not now?"
+        ],
+        [
+            "Scene",
+            "A street."
+        ],
+        [
+            "Leonard",
+            "Penny says they\u2019re having fun working on the prototype."
+        ],
+        [
+            "Howard",
+            "Remember when her fun was nightclubs and drinking games?"
+        ],
+        [
+            "Leonard",
+            "I know. I\u2019m lowering the bar so slowly. This time next year she\u2019ll have a coin collection."
+        ],
+        [
+            "Man",
+            "Excuse me. You guys interested in a free screening of an upcoming movie?"
+        ],
+        [
+            "Leonard",
+            "Oh. Sorry, we can\u2019t."
+        ],
+        [
+            "Howard",
+            "Well, hang on. What movie is it?"
+        ],
+        [
+            "Man",
+            "Oh, I can\u2019t tell you. But it does star Will Smith."
+        ],
+        [
+            "Howard",
+            "Wait. I bet it\u2019s Suicide Squad. Let\u2019s check it out."
+        ],
+        [
+            "Leonard",
+            "What about the girls?"
+        ],
+        [
+            "Howard",
+            "Penny just said they\u2019re having fun. Honestly, you want to wrap tape around a bunch of pipe fittings all afternoon?"
+        ],
+        [
+            "Leonard",
+            "Okay, we\u2019ll take \u2019em. But, I swear, if it\u2019s Will Smith in Shark Tale 2, it better be at least as good as the original."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s workshop."
+        ],
+        [
+            "Penny",
+            "I mean, it\u2019s crazy, isn\u2019t it? I moved here from Nebraska to be an actress, and now I\u2019m sitting in an engineering lab at Caltech helping to build a prototype for a high-tech guidance system."
+        ],
+        [
+            "Bernadette",
+            "It is crazy. It\u2019s also crazy that I\u2019ve made fourteen of these and you\u2019ve made three."
+        ],
+        [
+            "Raj",
+            "Hey. Where are the guys?"
+        ],
+        [
+            "Penny",
+            "Oh, they went to the store to get solder, which is metal you melt to make science things."
+        ],
+        [
+            "Bernadette",
+            "Since when do you work on weekends?"
+        ],
+        [
+            "Raj",
+            "I\u2019m an astrophysicist. The stars don\u2019t take a day off."
+        ],
+        [
+            "Penny",
+            "You were home alone and had no one to play with?"
+        ],
+        [
+            "Raj",
+            "Well, the cleaning lady was there, but she doesn\u2019t like me. You need any help?"
+        ],
+        [
+            "Bernadette",
+            "Not with Lightning McQueen here."
+        ],
+        [
+            "Penny",
+            "I think we\u2019re good."
+        ],
+        [
+            "Raj",
+            "Okay. That\u2019s cool. I guess everybody\u2019s involved in this project but me. So, see ya."
+        ],
+        [
+            "Bernadette",
+            "I feel bad. Should we have asked him to stay?"
+        ],
+        [
+            "Raj (from outside)",
+            "Yes."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s car."
+        ],
+        [
+            "Amy",
+            "Will you please tell me where we\u2019re going?"
+        ],
+        [
+            "Sheldon",
+            "Sorry, you\u2019re on a need-to-know basis."
+        ],
+        [
+            "Amy",
+            "I\u2019m driving the car. I need to know."
+        ],
+        [
+            "Sheldon",
+            "Right."
+        ],
+        [
+            "Amy",
+            "So where are we going?"
+        ],
+        [
+            "Sheldon",
+            "No, I meant turn right, and you missed it. Maybe you do need to know."
+        ],
+        [
+            "Scene",
+            "The cinema."
+        ],
+        [
+            "Leonard",
+            "What are we gonna tell the girls?"
+        ],
+        [
+            "Howard",
+            "It\u2019s not a problem."
+        ],
+        [
+            "Leonard",
+            "I mean without lying."
+        ],
+        [
+            "Howard",
+            "And now you\u2019ve made it a problem."
+        ],
+        [
+            "Leonard",
+            "Come on. We\u2019re a couple of smart guys. I\u2019m sure we can come up with a way to explain this that doesn\u2019t make us look bad."
+        ],
+        [
+            "Penny (at Howard\u2019s workshop, reading text)",
+            "Oh, the boys had to drive all the way to San Bernardino for the solder and got a flat."
+        ],
+        [
+            "Leonard",
+            "They bought it."
+        ],
+        [
+            "Howard",
+            "But we\u2019re gonna have to put the spare on before we go back."
+        ],
+        [
+            "Leonard",
+            "Oh, you\u2019re good at this."
+        ],
+        [
+            "Howard",
+            "Well, I lie a lot."
+        ],
+        [
+            "Man",
+            "Hey, guys, thank you for being a part of our test screening. You\u2019re about to be one of the first audiences to see Suicide Squad."
+        ],
+        [
+            "Leonard",
+            "Hey, you were right."
+        ],
+        [
+            "Howard",
+            "Well, I keep telling you, good things happen to bad people."
+        ],
+        [
+            "Man",
+            "Uh, we\u2019re gonna get started in a couple minutes. Enjoy."
+        ],
+        [
+            "Leonard",
+            "Who are you texting?"
+        ],
+        [
+            "Howard",
+            "Raj. He really wants to see this movie."
+        ],
+        [
+            "Leonard",
+            "He\u2019ll never make it in time."
+        ],
+        [
+            "Howard",
+            "I know. I want to make him feel bad."
+        ],
+        [
+            "Leonard",
+            "Ha, ha. Leonard and I are about to see Suicide Squad. Spoiler alert, when I see you I\u2019m gonna spoil it. You\u2019re a good friend."
+        ],
+        [
+            "Raj (at the workshop)",
+            "Okay. Would you ladies please leave the room for a moment?"
+        ],
+        [
+            "Penny",
+            "Why?"
+        ],
+        [
+            "Raj",
+            "I need to rub my genitals on their prototype."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s going on?"
+        ],
+        [
+            "Raj",
+            "Leonard and Howard don\u2019t have a flat. They went to the movies. Look."
+        ],
+        [
+            "Penny",
+            "Un-freakin\u2019 believable."
+        ],
+        [
+            "Bernadette",
+            "Son of a bitch."
+        ],
+        [
+            "Raj",
+            "Oh. You know what? I\u2019m gonna let them know that I\u2019m here with you and that they\u2019re busted."
+        ],
+        [
+            "Penny",
+            "No. You know what? Don\u2019t. Don\u2019t. Let\u2019s let them think they\u2019re getting away with it."
+        ],
+        [
+            "Bernadette",
+            "Yeah, let\u2019s see how deep a hole they can dig for themselves."
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Raj",
+            "Interesting. I mean, it\u2019s not testicles on a cryostat, but I like it."
+        ],
+        [
+            "Scene",
+            "A storage facility."
+        ],
+        [
+            "Amy",
+            "Why do you have a storage unit?"
+        ],
+        [
+            "Sheldon",
+            "Just wait."
+        ],
+        [
+            "Amy",
+            "How long have you had it?"
+        ],
+        [
+            "Sheldon",
+            "Just wait."
+        ],
+        [
+            "Amy",
+            "Do you want me to hold that computer?"
+        ],
+        [
+            "Sheldon",
+            "Just wait. You know what? Actually, yes, thank you. Welcome to my Fortress of Shame."
+        ],
+        [
+            "Amy",
+            "I\u2019m sorry. What, what am I looking at?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s basically everything I\u2019ve ever owned. Um, every book, every tee shirt, every piece of broken electronics. Just all of it."
+        ],
+        [
+            "Amy",
+            "All of it?"
+        ],
+        [
+            "Sheldon",
+            "I have a Ziploc bag filled with all my old Ziploc bags."
+        ],
+        [
+            "Amy",
+            "Okay. Well, I would like to tell you that there is nothing here to be ashamed of. So I\u2019m gonna need a minute."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s workshop."
+        ],
+        [
+            "Penny",
+            "All right, how are we gonna play this when they return?"
+        ],
+        [
+            "Raj",
+            "I know. You guys should totally be making out with me."
+        ],
+        [
+            "Penny",
+            "Sweetie, I know you think jokes like that are funny, but do you really think you could handle making out with both of us?"
+        ],
+        [
+            "Raj",
+            "No, ma\u2019am."
+        ],
+        [
+            "Bernadette",
+            "Okay. Okay, how about this? They don\u2019t know you\u2019re here with us, so you hide in the closet. When they show up, we\u2019ll hear whatever their dumb story is about where they were, we\u2019ll pretend to believe them and just when they think they got away with it, you jump out."
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s pretty good."
+        ],
+        [
+            "Raj",
+            "I love it, I\u2019ll be all like, busted, and they\u2019ll be like, what? And then we\u2019ll all be like, oh yeah. Yeah, I get it. I wouldn\u2019t make out with me, either."
+        ],
+        [
+            "Scene",
+            "The storage unit."
+        ],
+        [
+            "Sheldon",
+            "In here is every clock radio I\u2019ve ever owned. Calculators, VHS tapes. Yeah. Oh. Sporting equipment."
+        ],
+        [
+            "Amy",
+            "You have sporting equipment?"
+        ],
+        [
+            "Sheldon",
+            "Well, oh, it\u2019s just a, it\u2019s a, a golf ball that my brother threw at my head. You can still feel the dent. It\u2019s right next to the hockey puck dent."
+        ],
+        [
+            "Amy",
+            "Okay, why do you have a bin of pine cones?"
+        ],
+        [
+            "Sheldon",
+            "I used to collect them as a child. The spiral of scales open in the Fibonacci sequence. A fact that, when you tell your brother, gets a golf ball thrown at your head."
+        ],
+        [
+            "Amy",
+            "So, why do you feel you need to save these things?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019d like to say it\u2019s nostalgia, but every time I think of throwing anything away, my ears start to ring, and I get butterflies in my stomach. And then it feels like the butterflies get eaten by rats, and then the, the rats get eaten by\u2026"
+        ],
+        [
+            "Amy",
+            "Okay. I get it. I get it."
+        ],
+        [
+            "Sheldon",
+            "It ends with dinosaurs. I\u2019m sorry if you think less of me."
+        ],
+        [
+            "Amy",
+            "I don\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Really? \u2018Cause every time I come in here, I think less of me."
+        ],
+        [
+            "Amy",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "Because I\u2019m a fraud. No. I purport to be a man of the mind. I\u2019ve been such a, a vocal champion of the singularity, but how can I leave my body behind and become one with the internet when I\u2019ve never even thrown a toothbrush away?"
+        ],
+        [
+            "Amy",
+            "It\u2019s okay, Sheldon. You know, I\u2019ve saved a lot of weird things, too."
+        ],
+        [
+            "Sheldon",
+            "Like what?"
+        ],
+        [
+            "Amy",
+            "Well, um, did you know I have a microscope slide with a little bit of tissue from the first brain I ever dissected?"
+        ],
+        [
+            "Sheldon",
+            "I have an old teddy bear I secretly wiped my nose on for years."
+        ],
+        [
+            "Amy",
+            "It\u2019s not a contest."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s workshop."
+        ],
+        [
+            "Penny",
+            "Okay, here they come."
+        ],
+        [
+            "Bernadette",
+            "Go hide."
+        ],
+        [
+            "Raj",
+            "Oh, man, when I come out of the closet, I\u2019m gonna nail those guys. Yeah, I heard it. Shut up."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "Hi."
+        ],
+        [
+            "Penny",
+            "Hey, what\u2019s this?"
+        ],
+        [
+            "Leonard",
+            "Listen, we did a stupid thing."
+        ],
+        [
+            "Howard",
+            "We went to a movie and lied about it, but we feel bad and want to make it up to you."
+        ],
+        [
+            "Leonard",
+            "So, these are for you, and if you\u2019re not too mad, we\u2019d love to take you guys to dinner."
+        ],
+        [
+            "Howard",
+            "Yeah. Anywhere you want."
+        ],
+        [
+            "Bernadette",
+            "Oh. Well, thank you for being honest."
+        ],
+        [
+            "Penny",
+            "Yeah. You know, I want to be upset, but we did kind of have fun working on the prototype."
+        ],
+        [
+            "Raj (inside cupboard)",
+            "Don\u2019t forgive them. Stay mad at them."
+        ],
+        [
+            "Howard",
+            "What is he doing in there?"
+        ],
+        [
+            "Raj",
+            "Busting you."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s okay. They apologized."
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s fine."
+        ],
+        [
+            "Raj",
+            "Well this is kind of anti-climactic."
+        ],
+        [
+            "Howard",
+            "You know what wasn\u2019t anti-climactic? The end of the movie. Get this."
+        ],
+        [
+            "Raj",
+            "No spoilers. No spoilers."
+        ],
+        [
+            "Penny",
+            "And he\u2019s back in the closet."
+        ],
+        [
+            "Howard",
+            "Ready for dinner?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "Should we invite Raj?"
+        ],
+        [
+            "Raj (in cupboard)",
+            "Yes."
+        ],
+        [
+            "Scene",
+            "The storage unit."
+        ],
+        [
+            "Amy",
+            "So, no one else knows about this?"
+        ],
+        [
+            "Sheldon",
+            "Only you."
+        ],
+        [
+            "Amy",
+            "Thank you for trusting me."
+        ],
+        [
+            "Sheldon",
+            "What good is having a girlfriend if you can\u2019t unload your psychological sewage on her?"
+        ],
+        [
+            "Amy",
+            "That\u2019s me, your emotional outhouse. You know, if you ever decide you want to do something about this, I\u2019m, I\u2019m here for you."
+        ],
+        [
+            "Sheldon",
+            "Thank you. I wouldn\u2019t even know how to begin."
+        ],
+        [
+            "Amy",
+            "Baby steps, I guess."
+        ],
+        [
+            "Sheldon",
+            "I suppose I could try getting rid of the golf ball."
+        ],
+        [
+            "Amy",
+            "Oh. Okay."
+        ],
+        [
+            "Sheldon",
+            "I will always have the dent to remember it by."
+        ],
+        [
+            "Amy",
+            "You did it. Do you feel okay?"
+        ],
+        [
+            "Sheldon",
+            "Actually, yes. I do."
+        ],
+        [
+            "Amy",
+            "Well, I\u2019m proud of you."
+        ],
+        [
+            "Sheldon",
+            "Thanks."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m glad I told you about the storage unit."
+        ],
+        [
+            "Amy",
+            "Well, I feel closer to you now."
+        ],
+        [
+            "Sheldon",
+            "Oh, I feel closer to you, too. You know, it\u2019s still a couple of hours until my bedtime."
+        ],
+        [
+            "Amy",
+            "What did you have in mind?"
+        ],
+        [
+            "Scene",
+            "The same, shortly afterwards."
+        ],
+        [
+            "Sheldon",
+            "You look amazing. I mean, this resolution is remarkable."
+        ],
+        [
+            "Amy (on Skype)",
+            "I really had to go home for this?"
+        ],
+        [
+            "Sheldon",
+            "Yes, but it\u2019s like you\u2019re right here in the room."
+        ],
+        [
+            "Amy",
+            "And yet, I\u2019m not."
+        ],
+        [
+            "Sheldon",
+            "But I feel like I could reach out and touch you."
+        ],
+        [
+            "Amy",
+            "And yet, you can\u2019t."
+        ],
+        [
+            "Sheldon",
+            "I know."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-19-the-solder-excursion-diversion/"
+}

@@ -1,0 +1,2090 @@
+{
+    "Season": 4,
+    "Episode": 20,
+    "Title": "the herb garden germination",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "A bookstore."
+            ],
+            [
+                21,
+                "Credits sequence"
+            ],
+            [
+                22,
+                "The apartment. The guys are playing on a Nintendo Wii."
+            ],
+            [
+                44,
+                "The bathroom."
+            ],
+            [
+                74,
+                "The lobby. "
+            ],
+            [
+                93,
+                "Raj\u2019s apartment."
+            ],
+            [
+                119,
+                "The cafeteria."
+            ],
+            [
+                145,
+                "The apartment."
+            ],
+            [
+                168,
+                "Penny\u2019s door."
+            ],
+            [
+                171,
+                "The Cheesecake Factory"
+            ],
+            [
+                195,
+                "The apartment. "
+            ],
+            [
+                215,
+                "The apartment, later."
+            ],
+            [
+                250,
+                "Penny\u2019s door. "
+            ],
+            [
+                253,
+                "The stairwell, moments later. Leonard is reading a text message. "
+            ]
+        ],
+        "Dr. Brian Greene": [
+            [
+                1,
+                "My new book, The Hidden Reality, takes on a grand question. Is our universe the only universe? You see, there\u2019s a growing belief among scientists like me that ours may only be one among many universes populating a gigantic cosmos. In The Hidden Reality, I explore this possibility without presuming any knowledge of mathematics or physics on the part of the reader."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Hysterical."
+            ],
+            [
+                4,
+                "Agreed. Wait till you hear how he dumbs down Werner Heisenberg for the crowd. You may actually believe you\u2019re in a comedy club."
+            ],
+            [
+                6,
+                "Ba-dum-bump."
+            ],
+            [
+                8,
+                "Really, Amy? Gossip? I\u2019m disappointed in you."
+            ],
+            [
+                10,
+                "Forgive my language, but poppycock."
+            ],
+            [
+                12,
+                "Fine. In the parlance of the urban music scene, what\u2019s the 4-1-1?"
+            ],
+            [
+                14,
+                "I believe our nation\u2019s tuna cans are safe. Excuse me. Dr. Greene, question?"
+            ],
+            [
+                16,
+                "You\u2019ve dedicated your life\u2019s work to educating the general populace about complex scientific ideas."
+            ],
+            [
+                18,
+                "Have you ever considered trying to do something useful? Perhaps, reading to the elderly?"
+            ],
+            [
+                20,
+                "Yeah, but not your books. Something they might enjoy. I kid, of course. Big fan."
+            ],
+            [
+                24,
+                "Thank you. My father taught me archery as a child. It\u2019s odd how the activity brings back the smell of Kmart bourbon."
+            ],
+            [
+                26,
+                "I know. What an elf I would have made. Whoo, what do you think you\u2019re doing?"
+            ],
+            [
+                28,
+                "With what?"
+            ],
+            [
+                30,
+                "Really? I didn\u2019t see you draw one from your quiver."
+            ],
+            [
+                32,
+                "Leonard, the people at Nintendo can only go so far in helping us recreate an actual athletic experience. We have to do our part, too. (Leonard mimes drawing an arrow and stabbing Sheldon with it.) That was uncalled for, but I\u2019ll play along. Ow! I had an unusual experience with Amy last night."
+            ],
+            [
+                34,
+                "She was attempting to engage me in gossip."
+            ],
+            [
+                36,
+                "Yes. I think prolonged exposure to Penny has turned her into a bit of a Gabby Gertie."
+            ],
+            [
+                38,
+                "Oh, please, I was just pointing it out. I have no desire to engage in the activity."
+            ],
+            [
+                40,
+                "All right, get this. Bernadette is thinking about breaking up with Howard."
+            ],
+            [
+                42,
+                "Mm, it\u2019s hard to say. I can only speculate based on the data I collected watching my parents\u2019 marriage implode. In that case, the woman dives into religion, while the man dives into a bottle-blonde bartender who tries to buy my love with action figures. Oop! Out of arrows."
+            ],
+            [
+                120,
+                "I\u2019ve been thinking about Dr. Greene\u2019s efforts to make science palatable for the masses."
+            ],
+            [
+                122,
+                "That\u2019s all. I\u2019ve just been thinking about it. Now, I\u2019m thinking about fractal equations. Now I\u2019m thinking about the origin of the phrase train of thought. Now I\u2019m thinking about trains."
+            ],
+            [
+                126,
+                "Now I\u2019m thinking about Jell-O."
+            ],
+            [
+                141,
+                "Why are you smiling?"
+            ],
+            [
+                144,
+                "Oh, I\u2019m back to trains. Woo-woo."
+            ],
+            [
+                147,
+                "No."
+            ],
+            [
+                149,
+                "Have you learned anything?"
+            ],
+            [
+                151,
+                "If you don\u2019t mind, I\u2019d like to stop listening to you and start talking."
+            ],
+            [
+                153,
+                "Howard has announced his intention to propose marriage to Bernadette."
+            ],
+            [
+                155,
+                "I know. The group consensus is that his proposal will be met with an humiliating, soul-crushing rejection. Everyone was set a-twitter. Although oddly, no one tweeted."
+            ],
+            [
+                157,
+                "I\u2019m familiar with everything, but go on."
+            ],
+            [
+                159,
+                "I\u2019m no stranger to memetic epidemiology. At Johnson Elementary School, the phrase Shelly Cooper\u2019s a smelly pooper spread like wildfire."
+            ],
+            [
+                161,
+                "Your meme hypothesis does intrigue me. How might we examine this more closely?"
+            ],
+            [
+                163,
+                "It\u2019s one of the few forms of interaction with people that I don\u2019t find repellent."
+            ],
+            [
+                165,
+                "And a second non-tantalizing piece to use as a control."
+            ],
+            [
+                167,
+                "Look at you, getting me to engage in the social sciences. You\u2019re a vixen, Amy Farrah Fowler."
+            ],
+            [
+                197,
+                "Hey."
+            ],
+            [
+                199,
+                "Interesting. A friendly sentiment in this country, cruel taunt in the Sudan. It\u2019s a lesson in context."
+            ],
+            [
+                201,
+                "Yes, I believe so."
+            ],
+            [
+                203,
+                "Yes. Why do you ask?"
+            ],
+            [
+                205,
+                "Did he mean as if she\u2019d been out in the sun, tending an herb garden without wearing a hat or sunblock?"
+            ],
+            [
+                207,
+                "Well, we may never know. As my mother would say, the Asians are an inscrutable folk. Now, if you\u2019ll excuse me, I have work to do."
+            ],
+            [
+                209,
+                "Did you get that?"
+            ],
+            [
+                211,
+                "This is moving faster than we thought."
+            ],
+            [
+                213,
+                "I must say, Amy, pretending to have intercourse with you is giving me a great deal of satisfaction."
+            ],
+            [
+                219,
+                "Pun intended?"
+            ],
+            [
+                221,
+                "This is remarkable. Took less than 24 hours."
+            ],
+            [
+                223,
+                "Interesting. So it went beyond the mere fact of coitus to a blow by blow, as it were."
+            ],
+            [
+                225,
+                "I\u2019m sorry. What pun?"
+            ],
+            [
+                227,
+                "I wish you hadn\u2019t done that. That\u2019s going to make me a chick magnet, and I\u2019m so busy as it is."
+            ],
+            [
+                247,
+                "Perhaps your talk of my sexual prowess renewed her faith in love."
+            ]
+        ],
+        "Amy": [
+            [
+                3,
+                "I\u2019m glad you talked me into this. We work so hard, sometimes, it\u2019s nice to goof off and do something silly."
+            ],
+            [
+                7,
+                "Say, I heard an interesting tidbit about Howard and Bernadette."
+            ],
+            [
+                9,
+                "Now, now. Evolutionary biologist Robin Dunbar has identified gossip as an aid to social bonding in large groups."
+            ],
+            [
+                11,
+                "What if he\u2019s right? And by not participating in gossip, society breaks down into small feral bands of tattooed motorcycle riders fighting to the death over the last few cans of tuna fish?"
+            ],
+            [
+                13,
+                "Bernadette is thinking about breaking up with Howard."
+            ],
+            [
+                146,
+                "Did I tell you our lab got a grant to study addiction?"
+            ],
+            [
+                148,
+                "Fascinating work. I recently trained a capuchin monkey to smoke cigarettes."
+            ],
+            [
+                150,
+                "Yes. He looks much cooler than the non-smoking monkeys. Although it\u2019s not much of a contest. The other monkeys just sit around and masturbate."
+            ],
+            [
+                152,
+                "By all means."
+            ],
+            [
+                154,
+                "I don\u2019t understand. The original piece of gossip indicated an impending breakup."
+            ],
+            [
+                156,
+                "It\u2019s not surprising that the story has captured the attention of our little circle of friends. Are you familiar with meme theory?"
+            ],
+            [
+                158,
+                "Meme theory suggests that items of gossip are like living things that seek to reproduce using humans as their host."
+            ],
+            [
+                160,
+                "I should think so. That\u2019s gold."
+            ],
+            [
+                162,
+                "Do you have any ethical qualms regarding human experimentation?"
+            ],
+            [
+                164,
+                "We need to fabricate a tantalizing piece of gossip."
+            ],
+            [
+                166,
+                "Then we\u2019ll track its progress through our social group and interpret the results through the competing academic prisms of memetic theory, algebraic gossip and epidemiology."
+            ],
+            [
+                170,
+                "Sheldon and I engaged in sexual intercourse. In other news, I\u2019m thinking of starting an herb garden. Mum\u2019s the word. Gotta go."
+            ],
+            [
+                212,
+                "Agreed. It appears the rate of gossip transmission is proportional to the number of nodes squared."
+            ],
+            [
+                214,
+                "Slow down, Sheldon. I\u2019m not quite there yet."
+            ],
+            [
+                218,
+                "Bernadette just asked about my sexual encounter with you. The meme has reached full penetration."
+            ],
+            [
+                220,
+                "No. Happy accident."
+            ],
+            [
+                222,
+                "I should let you know that she asked for details about our dalliance."
+            ],
+            [
+                224,
+                "Pun intended?"
+            ],
+            [
+                226,
+                "Not important. I described your lovemaking as aloof, but effective."
+            ],
+            [
+                246,
+                "I wonder what changed her mind."
+            ],
+            [
+                248,
+                "As good an explanation as any."
+            ],
+            [
+                252,
+                "Yes, not important. Just stopped by to let you know I\u2019m getting orthotics. Also, I\u2019m carrying Sheldon\u2019s baby. Mum\u2019s the word."
+            ],
+            [
+                255,
+                "Wow. Is there anything on there about orthotics?"
+            ]
+        ],
+        "Greene": [
+            [
+                5,
+                "You can think about Heisenberg\u2019s Uncertainty Principle much like the special order menu that you find in certain Chinese restaurants, where you have dishes in column A and other dishes in column B, and if you order the first dish in column A, you can\u2019t order the corresponding dish in column B. That\u2019s sort of like the Uncertainly Principle."
+            ],
+            [
+                15,
+                "Yes?"
+            ],
+            [
+                17,
+                "Yes, in part."
+            ],
+            [
+                19,
+                "Excuse me?"
+            ]
+        ],
+        "Leonard": [
+            [
+                23,
+                "Nice shot."
+            ],
+            [
+                25,
+                "Perfect."
+            ],
+            [
+                27,
+                "Shooting at a target?"
+            ],
+            [
+                29,
+                "An arrow."
+            ],
+            [
+                31,
+                "I\u2019m not going to do that, Sheldon."
+            ],
+            [
+                33,
+                "Really? How could you tell?"
+            ],
+            [
+                35,
+                "You don\u2019t say?"
+            ],
+            [
+                37,
+                "So, what\u2019s the gossip?"
+            ],
+            [
+                39,
+                "Fine, don\u2019t tell me."
+            ],
+            [
+                41,
+                "Oh. That\u2019s too bad. I wonder what happened."
+            ],
+            [
+                43,
+                "Boy, you sure get your money\u2019s worth out of these games."
+            ],
+            [
+                45,
+                "\u2013 Priya, can I come in?"
+            ],
+            [
+                47,
+                "Oh, God."
+            ],
+            [
+                49,
+                "It\u2019s okay. You didn\u2019t know. I\u2019ll take care of it."
+            ],
+            [
+                51,
+                "Sheldon doesn\u2019t allow flossing that close to the mirror."
+            ],
+            [
+                53,
+                "It\u2019s a splatter thing. There\u2019s a little piece of tape on the floor you\u2019re supposed to stand behind."
+            ],
+            [
+                55,
+                "I know. Just do it. There\u2019s a big inspection coming up, and I don\u2019t want to lose my TV privileges."
+            ],
+            [
+                57,
+                "Mm, I don\u2019t know. I get a lawyer, he gets a lawyer, it\u2019s just easier to stand behind the tape."
+            ],
+            [
+                59,
+                "Yeah! Dodgers are baseball, right?"
+            ],
+            [
+                61,
+                "Mm, it\u2019s complicated, but as I remember it, the essentials are, get chosen last, get hit by the ball, cry, go home."
+            ],
+            [
+                63,
+                "Well, it might not be a great idea to invite those two."
+            ],
+            [
+                65,
+                "Don\u2019t tell anybody I told you, but I heard she might be breaking up with him."
+            ],
+            [
+                67,
+                "Really? Who?"
+            ],
+            [
+                69,
+                "What? You\u2019re kidding!"
+            ],
+            [
+                71,
+                "Wow, that\u2019s hard to believe."
+            ],
+            [
+                73,
+                "Oh, that one doesn\u2019t apply to you. You sit."
+            ],
+            [
+                75,
+                "Hey!"
+            ],
+            [
+                77,
+                "Not too bad. Did you hear about Howard and Bernadette?"
+            ],
+            [
+                79,
+                "I heard about it from Sheldon. He got it from Amy."
+            ],
+            [
+                81,
+                "Do you think a sexually ambivalent Indian astrophysicist with selective mutism and alcohol issues is better than a hundred-pound Jewish guy who lives with his mom?"
+            ],
+            [
+                83,
+                "I didn\u2019t say Raj. Who said Raj?"
+            ],
+            [
+                85,
+                "No."
+            ],
+            [
+                87,
+                "I can\u2019t say."
+            ],
+            [
+                89,
+                "Well, The point is, if this got out, it would destroy Howard and Raj\u2019s friendship."
+            ],
+            [
+                91,
+                "You\u2019re the one who told Amy in the first place."
+            ],
+            [
+                121,
+                "Oh, yeah? What about it?"
+            ],
+            [
+                125,
+                "Lucky bastard."
+            ],
+            [
+                130,
+                "Whatever it is, we\u2019re here for you. You can tell us anything."
+            ],
+            [
+                133,
+                "Marry you?"
+            ],
+            [
+                136,
+                "Oh, I\u2019d wait."
+            ],
+            [
+                139,
+                "Man, he\u2019s going to be blindsided."
+            ],
+            [
+                142,
+                "Yeah, Raj, why?"
+            ],
+            [
+                196,
+                "Hey."
+            ],
+            [
+                198,
+                "Hope you\u2019re hungry."
+            ],
+            [
+                200,
+                "Will Amy be joining us for dinner?"
+            ],
+            [
+                202,
+                "Good, good. Everything okay between you two?"
+            ],
+            [
+                204,
+                "No reason. I was just talking to Raj, and he mentioned what a lovely glow she has these days."
+            ],
+            [
+                206,
+                "No. That\u2019s not what he meant."
+            ],
+            [
+                208,
+                "Yeah, you do. You dog, you."
+            ],
+            [
+                216,
+                "Pass the soy sauce."
+            ],
+            [
+                229,
+                "Oh, hold on, Howard. There\u2019s lots of better times."
+            ],
+            [
+                244,
+                "Congratulations!"
+            ],
+            [
+                249,
+                "That\u2019s great."
+            ],
+            [
+                254,
+                "You\u2019re pregnant?"
+            ]
+        ],
+        "Priya": [
+            [
+                46,
+                "Sure."
+            ],
+            [
+                48,
+                "What?"
+            ],
+            [
+                50,
+                "What, what did I do?"
+            ],
+            [
+                52,
+                "You\u2019re kidding."
+            ],
+            [
+                54,
+                "That\u2019s madness."
+            ],
+            [
+                56,
+                "You really need to let me take a look at that roommate agreement one of these days."
+            ],
+            [
+                58,
+                "Oh, by the way, a fellow at work said I could use his Dodger tickets this weekend. Does that sound like fun?"
+            ],
+            [
+                60,
+                "You\u2019ll need to explain the game to me."
+            ],
+            [
+                62,
+                "Well, regardless, I\u2019ve got four tickets, and I was thinking we can bring Bernadette and Howard. She\u2019s really interesting, and I bet I can get used to him."
+            ],
+            [
+                64,
+                "Why not?"
+            ],
+            [
+                66,
+                "Oh, too bad. Although I do know one person for whom that\u2019s good news."
+            ],
+            [
+                68,
+                "My brother. He\u2019s got a big crush on Bernadette."
+            ],
+            [
+                70,
+                "Mmm. I found poems he wrote about her. Very disturbing. Oh, Bernadette, please play my clarinet."
+            ],
+            [
+                72,
+                "Yes. And for years, everyone in my family was convinced that he was the clarinet enthusiast. Hmm. What\u2019s that piece of tape?"
+            ],
+            [
+                97,
+                "It\u2019s fine. But if I\u2019m going to stay in Los Angeles much longer, I think I should get my own place."
+            ],
+            [
+                101,
+                "It\u2019s a figure of speech, Daddy. It means I-I work late."
+            ],
+            [
+                105,
+                "For now."
+            ],
+            [
+                107,
+                "I\u2019ll tell you later."
+            ],
+            [
+                113,
+                "Thank you, Daddy."
+            ],
+            [
+                115,
+                "Good night, Mummy. Good night, Daddy."
+            ],
+            [
+                117,
+                "Well you should have kept your mouth shut."
+            ],
+            [
+                245,
+                "Oh, it\u2019s so exciting."
+            ]
+        ],
+        "Penny": [
+            [
+                76,
+                "Hey! How\u2019s it going?"
+            ],
+            [
+                78,
+                "\u2018Course I heard about it. How did you hear about it?"
+            ],
+            [
+                80,
+                "Oh, damn it. I told Amy that in the strictest confidence. Boy, some people are such blabbermouths. Well, whatever, I\u2019m sure Bernadette can do better."
+            ],
+            [
+                82,
+                "You are kidding. Raj likes Bernadette?"
+            ],
+            [
+                84,
+                "Okay, give. How do you know? Did he tell you?"
+            ],
+            [
+                86,
+                "Well, then who?"
+            ],
+            [
+                88,
+                "Priya told you. What a little gossip. You know, not an attractive quality in a woman, Leonard. Not judging, just my opinion."
+            ],
+            [
+                90,
+                "You don\u2019t have to worry. Unlike Amy and Priya, I know how to keep a secret."
+            ],
+            [
+                92,
+                "In confidence!"
+            ],
+            [
+                169,
+                "Oh, hey, Amy. What\u2019s up?"
+            ],
+            [
+                178,
+                "Hey, 16 wants to order appetizers."
+            ],
+            [
+                181,
+                "What the hell are you doing? Howard is your best friend, and that is his girlfriend. You should be ashamed of yourself."
+            ],
+            [
+                183,
+                "Well, I know that. How do you know that?"
+            ],
+            [
+                185,
+                "Oh, that gossipy bitch! No offense."
+            ],
+            [
+                187,
+                "Okay, listen, just because Howard and Bernadette are having problems, does not mean you should be here sniffing around."
+            ],
+            [
+                189,
+                "All right, try thinking about this. Sheldon and Amy had sex."
+            ],
+            [
+                191,
+                "Yeah, it\u2019s true. Amy told me."
+            ],
+            [
+                193,
+                "I-I guess they just figured it out at some point."
+            ],
+            [
+                251,
+                "Oh, hey, Amy. Bernadette just texted me. Howard proposed?"
+            ]
+        ],
+        "Raj": [
+            [
+                94,
+                "Hello, Mummy. Hello, Daddy. How are you?"
+            ],
+            [
+                99,
+                "I am making her comfortable. Besides, she\u2019s not sleeping here half the time anyway."
+            ],
+            [
+                104,
+                "It, it doesn\u2019t matter. Howard has a girlfriend."
+            ],
+            [
+                106,
+                "What does that mean?"
+            ],
+            [
+                108,
+                "Is something going on with him and Bernadette?"
+            ],
+            [
+                114,
+                "Don\u2019t worry. Everything I have, I share with her. Including my friend Leon\u2026"
+            ],
+            [
+                116,
+                "Oh, my God, I think you broke my toe!"
+            ],
+            [
+                118,
+                "Fair enough. Now, what\u2019s up with Clarinet? Bernadette!"
+            ],
+            [
+                123,
+                "Are you listening to this guy?"
+            ],
+            [
+                127,
+                "So what\u2019s up?"
+            ],
+            [
+                129,
+                "Oh, no. I hope everything\u2019s okay."
+            ],
+            [
+                131,
+                "Yeah. Good or devastating."
+            ],
+            [
+                134,
+                "What?"
+            ],
+            [
+                137,
+                "No rush, no rush."
+            ],
+            [
+                140,
+                "I know. It\u2019ll be awful."
+            ],
+            [
+                143,
+                "Uh, a smile means something different in my country. You know, tears of joy, smile of sadness. India\u2019s a goofy place."
+            ],
+            [
+                173,
+                "I just felt like drinking alone, because I\u2019m deep and dark."
+            ],
+            [
+                175,
+                "No. It\u2019s just one of those times when it\u2019s just you and me. Like when the three of us went to the movies and you and I waited outside the bathroom while Howard threw up Red Vines and Cherry Coke. Do you remember that?"
+            ],
+            [
+                177,
+                "Me, too. Good times."
+            ],
+            [
+                180,
+                "This was nice."
+            ],
+            [
+                182,
+                "I was when I came in, but it\u2019s amazing what liquor does to guilt. Besides what you might not know is, Bernadette is planning on breaking up with Howard."
+            ],
+            [
+                184,
+                "My sister told me."
+            ],
+            [
+                186,
+                "None taken. You should hear how she talks about you."
+            ],
+            [
+                188,
+                "What can I do? I can\u2019t stop thinking about her."
+            ],
+            [
+                190,
+                "Shut your ass!"
+            ],
+            [
+                192,
+                "How did that even happen? Did they know that\u2019s what they were doing when they were doing it?"
+            ],
+            [
+                194,
+                "Wow. I can\u2019t believe old Smelly Pooper finally got laid."
+            ],
+            [
+                230,
+                "Leonard, please. The man is talking. Let him get it out, and let the chips fall where they may."
+            ],
+            [
+                235,
+                "This is it."
+            ],
+            [
+                240,
+                "You will?"
+            ]
+        ],
+        "Mrs Koothrappali (on webcam)": [
+            [
+                95,
+                "We\u2019re very rich in a very poor country. So, all in all, can\u2019t complain."
+            ]
+        ],
+        "Dr Koothrappali": [
+            [
+                96,
+                "So, Priya, how are enjoying staying with your brother?"
+            ],
+            [
+                100,
+                "What? Where are you sleeping, Priya?"
+            ],
+            [
+                103,
+                "Now, hold on. If she is dating an American, that\u2019s not a bad way to go. He\u2019s Jewish. Those chaps are very successful, and they don\u2019t drink a lot."
+            ],
+            [
+                110,
+                "Doesn\u2019t sound Jewish."
+            ],
+            [
+                112,
+                "Okay, we\u2019re getting off the subject. Rajesh, I want you to try harder to make your sister feel welcome."
+            ]
+        ],
+        "Mrs Koothrappali": [
+            [
+                98,
+                "Why? Is Rajesh not making you feel comfortable? Rajesh, why aren\u2019t you making your sister comfortable?"
+            ],
+            [
+                102,
+                "Please tell me you\u2019re not dating an American. I knew this would happen. Rajesh, are you letting your sister date that little Howard boy?"
+            ],
+            [
+                109,
+                "Who\u2019s Bernadette?"
+            ],
+            [
+                111,
+                "You can\u2019t tell by that. Winona Ryder is Jewish."
+            ]
+        ],
+        "Howard": [
+            [
+                124,
+                "Hmm? Oh, I\u2019m sorry. I was somewhere else."
+            ],
+            [
+                128,
+                "It\u2019s a Bernadette thing."
+            ],
+            [
+                132,
+                "I\u2019m gonna ask her to marry me."
+            ],
+            [
+                135,
+                "Yeah. I just need to figure out the right time to pop the question."
+            ],
+            [
+                217,
+                "Sure."
+            ],
+            [
+                228,
+                "Hey, everybody, I got something I want to ask Bernadette, and I can\u2019t think of a better time than when I\u2019m with all my friends."
+            ],
+            [
+                231,
+                "Thank you. Bernadette Maryann Rostenkowski\u2026"
+            ],
+            [
+                233,
+                "I know things haven\u2019t been perfect with us, and we\u2019ve had our problems, but I just have to tell you, from the moment I\u2026"
+            ],
+            [
+                237,
+                "Yes, what?"
+            ],
+            [
+                239,
+                "You will?"
+            ],
+            [
+                242,
+                "Oh, I love you so much."
+            ]
+        ],
+        "Howard (phone rings)": [
+            [
+                138,
+                "Oh, great. It\u2019s my cousin David about the ring. Hey, David, what\u2019d you find? Oh, sure, a half a carat\u2019s fine. Her freakishly small hands make anything look big. It\u2019s one of the reasons I love her."
+            ]
+        ],
+        "Bernadette": [
+            [
+                172,
+                "Oh, hey, Raj, what are you doing here?"
+            ],
+            [
+                174,
+                "Uh-huh. So, uh, Howard\u2019s not here?"
+            ],
+            [
+                176,
+                "Yeah."
+            ],
+            [
+                179,
+                "Oh, thanks."
+            ],
+            [
+                232,
+                "Oh, God. What\u2019s happening?"
+            ],
+            [
+                234,
+                "Howard, let me just stop you right here."
+            ],
+            [
+                236,
+                "Yes."
+            ],
+            [
+                238,
+                "Yes, I will marry you."
+            ],
+            [
+                241,
+                "I will. I will!"
+            ],
+            [
+                243,
+                "Oh, I love you, too."
+            ]
+        ],
+        "Amy (on webcam)": [
+            [
+                210,
+                "Every word. Our false gossip meme appears to have reached node lambda."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "A bookstore."
+        ],
+        [
+            "Dr. Brian Greene",
+            "My new book, The Hidden Reality, takes on a grand question. Is our universe the only universe? You see, there\u2019s a growing belief among scientists like me that ours may only be one among many universes populating a gigantic cosmos. In The Hidden Reality, I explore this possibility without presuming any knowledge of mathematics or physics on the part of the reader."
+        ],
+        [
+            "Sheldon",
+            "Hysterical."
+        ],
+        [
+            "Amy",
+            "I\u2019m glad you talked me into this. We work so hard, sometimes, it\u2019s nice to goof off and do something silly."
+        ],
+        [
+            "Sheldon",
+            "Agreed. Wait till you hear how he dumbs down Werner Heisenberg for the crowd. You may actually believe you\u2019re in a comedy club."
+        ],
+        [
+            "Greene",
+            "You can think about Heisenberg\u2019s Uncertainty Principle much like the special order menu that you find in certain Chinese restaurants, where you have dishes in column A and other dishes in column B, and if you order the first dish in column A, you can\u2019t order the corresponding dish in column B. That\u2019s sort of like the Uncertainly Principle."
+        ],
+        [
+            "Sheldon",
+            "Ba-dum-bump."
+        ],
+        [
+            "Amy",
+            "Say, I heard an interesting tidbit about Howard and Bernadette."
+        ],
+        [
+            "Sheldon",
+            "Really, Amy? Gossip? I\u2019m disappointed in you."
+        ],
+        [
+            "Amy",
+            "Now, now. Evolutionary biologist Robin Dunbar has identified gossip as an aid to social bonding in large groups."
+        ],
+        [
+            "Sheldon",
+            "Forgive my language, but poppycock."
+        ],
+        [
+            "Amy",
+            "What if he\u2019s right? And by not participating in gossip, society breaks down into small feral bands of tattooed motorcycle riders fighting to the death over the last few cans of tuna fish?"
+        ],
+        [
+            "Sheldon",
+            "Fine. In the parlance of the urban music scene, what\u2019s the 4-1-1?"
+        ],
+        [
+            "Amy",
+            "Bernadette is thinking about breaking up with Howard."
+        ],
+        [
+            "Sheldon",
+            "I believe our nation\u2019s tuna cans are safe. Excuse me. Dr. Greene, question?"
+        ],
+        [
+            "Greene",
+            "Yes?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019ve dedicated your life\u2019s work to educating the general populace about complex scientific ideas."
+        ],
+        [
+            "Greene",
+            "Yes, in part."
+        ],
+        [
+            "Sheldon",
+            "Have you ever considered trying to do something useful? Perhaps, reading to the elderly?"
+        ],
+        [
+            "Greene",
+            "Excuse me?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, but not your books. Something they might enjoy. I kid, of course. Big fan."
+        ],
+        [
+            "Scene",
+            "Credits sequence"
+        ],
+        [
+            "Scene",
+            "The apartment. The guys are playing on a Nintendo Wii."
+        ],
+        [
+            "Leonard",
+            "Nice shot."
+        ],
+        [
+            "Sheldon",
+            "Thank you. My father taught me archery as a child. It\u2019s odd how the activity brings back the smell of Kmart bourbon."
+        ],
+        [
+            "Leonard",
+            "Perfect."
+        ],
+        [
+            "Sheldon",
+            "I know. What an elf I would have made. Whoo, what do you think you\u2019re doing?"
+        ],
+        [
+            "Leonard",
+            "Shooting at a target?"
+        ],
+        [
+            "Sheldon",
+            "With what?"
+        ],
+        [
+            "Leonard",
+            "An arrow."
+        ],
+        [
+            "Sheldon",
+            "Really? I didn\u2019t see you draw one from your quiver."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not going to do that, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Leonard, the people at Nintendo can only go so far in helping us recreate an actual athletic experience. We have to do our part, too. (Leonard mimes drawing an arrow and stabbing Sheldon with it.) That was uncalled for, but I\u2019ll play along. Ow! I had an unusual experience with Amy last night."
+        ],
+        [
+            "Leonard",
+            "Really? How could you tell?"
+        ],
+        [
+            "Sheldon",
+            "She was attempting to engage me in gossip."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t say?"
+        ],
+        [
+            "Sheldon",
+            "Yes. I think prolonged exposure to Penny has turned her into a bit of a Gabby Gertie."
+        ],
+        [
+            "Leonard",
+            "So, what\u2019s the gossip?"
+        ],
+        [
+            "Sheldon",
+            "Oh, please, I was just pointing it out. I have no desire to engage in the activity."
+        ],
+        [
+            "Leonard",
+            "Fine, don\u2019t tell me."
+        ],
+        [
+            "Sheldon",
+            "All right, get this. Bernadette is thinking about breaking up with Howard."
+        ],
+        [
+            "Leonard",
+            "Oh. That\u2019s too bad. I wonder what happened."
+        ],
+        [
+            "Sheldon",
+            "Mm, it\u2019s hard to say. I can only speculate based on the data I collected watching my parents\u2019 marriage implode. In that case, the woman dives into religion, while the man dives into a bottle-blonde bartender who tries to buy my love with action figures. Oop! Out of arrows."
+        ],
+        [
+            "Leonard",
+            "Boy, you sure get your money\u2019s worth out of these games."
+        ],
+        [
+            "Scene",
+            "The bathroom."
+        ],
+        [
+            "Leonard",
+            "\u2013 Priya, can I come in?"
+        ],
+        [
+            "Priya",
+            "Sure."
+        ],
+        [
+            "Leonard",
+            "Oh, God."
+        ],
+        [
+            "Priya",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s okay. You didn\u2019t know. I\u2019ll take care of it."
+        ],
+        [
+            "Priya",
+            "What, what did I do?"
+        ],
+        [
+            "Leonard",
+            "Sheldon doesn\u2019t allow flossing that close to the mirror."
+        ],
+        [
+            "Priya",
+            "You\u2019re kidding."
+        ],
+        [
+            "Leonard",
+            "It\u2019s a splatter thing. There\u2019s a little piece of tape on the floor you\u2019re supposed to stand behind."
+        ],
+        [
+            "Priya",
+            "That\u2019s madness."
+        ],
+        [
+            "Leonard",
+            "I know. Just do it. There\u2019s a big inspection coming up, and I don\u2019t want to lose my TV privileges."
+        ],
+        [
+            "Priya",
+            "You really need to let me take a look at that roommate agreement one of these days."
+        ],
+        [
+            "Leonard",
+            "Mm, I don\u2019t know. I get a lawyer, he gets a lawyer, it\u2019s just easier to stand behind the tape."
+        ],
+        [
+            "Priya",
+            "Oh, by the way, a fellow at work said I could use his Dodger tickets this weekend. Does that sound like fun?"
+        ],
+        [
+            "Leonard",
+            "Yeah! Dodgers are baseball, right?"
+        ],
+        [
+            "Priya",
+            "You\u2019ll need to explain the game to me."
+        ],
+        [
+            "Leonard",
+            "Mm, it\u2019s complicated, but as I remember it, the essentials are, get chosen last, get hit by the ball, cry, go home."
+        ],
+        [
+            "Priya",
+            "Well, regardless, I\u2019ve got four tickets, and I was thinking we can bring Bernadette and Howard. She\u2019s really interesting, and I bet I can get used to him."
+        ],
+        [
+            "Leonard",
+            "Well, it might not be a great idea to invite those two."
+        ],
+        [
+            "Priya",
+            "Why not?"
+        ],
+        [
+            "Leonard",
+            "Don\u2019t tell anybody I told you, but I heard she might be breaking up with him."
+        ],
+        [
+            "Priya",
+            "Oh, too bad. Although I do know one person for whom that\u2019s good news."
+        ],
+        [
+            "Leonard",
+            "Really? Who?"
+        ],
+        [
+            "Priya",
+            "My brother. He\u2019s got a big crush on Bernadette."
+        ],
+        [
+            "Leonard",
+            "What? You\u2019re kidding!"
+        ],
+        [
+            "Priya",
+            "Mmm. I found poems he wrote about her. Very disturbing. Oh, Bernadette, please play my clarinet."
+        ],
+        [
+            "Leonard",
+            "Wow, that\u2019s hard to believe."
+        ],
+        [
+            "Priya",
+            "Yes. And for years, everyone in my family was convinced that he was the clarinet enthusiast. Hmm. What\u2019s that piece of tape?"
+        ],
+        [
+            "Leonard",
+            "Oh, that one doesn\u2019t apply to you. You sit."
+        ],
+        [
+            "Scene",
+            "The lobby. "
+        ],
+        [
+            "Leonard",
+            "Hey!"
+        ],
+        [
+            "Penny",
+            "Hey! How\u2019s it going?"
+        ],
+        [
+            "Leonard",
+            "Not too bad. Did you hear about Howard and Bernadette?"
+        ],
+        [
+            "Penny",
+            "\u2018Course I heard about it. How did you hear about it?"
+        ],
+        [
+            "Leonard",
+            "I heard about it from Sheldon. He got it from Amy."
+        ],
+        [
+            "Penny",
+            "Oh, damn it. I told Amy that in the strictest confidence. Boy, some people are such blabbermouths. Well, whatever, I\u2019m sure Bernadette can do better."
+        ],
+        [
+            "Leonard",
+            "Do you think a sexually ambivalent Indian astrophysicist with selective mutism and alcohol issues is better than a hundred-pound Jewish guy who lives with his mom?"
+        ],
+        [
+            "Penny",
+            "You are kidding. Raj likes Bernadette?"
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t say Raj. Who said Raj?"
+        ],
+        [
+            "Penny",
+            "Okay, give. How do you know? Did he tell you?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Penny",
+            "Well, then who?"
+        ],
+        [
+            "Leonard",
+            "I can\u2019t say."
+        ],
+        [
+            "Penny",
+            "Priya told you. What a little gossip. You know, not an attractive quality in a woman, Leonard. Not judging, just my opinion."
+        ],
+        [
+            "Leonard",
+            "Well, The point is, if this got out, it would destroy Howard and Raj\u2019s friendship."
+        ],
+        [
+            "Penny",
+            "You don\u2019t have to worry. Unlike Amy and Priya, I know how to keep a secret."
+        ],
+        [
+            "Leonard",
+            "You\u2019re the one who told Amy in the first place."
+        ],
+        [
+            "Penny",
+            "In confidence!"
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "Hello, Mummy. Hello, Daddy. How are you?"
+        ],
+        [
+            "Mrs Koothrappali (on webcam)",
+            "We\u2019re very rich in a very poor country. So, all in all, can\u2019t complain."
+        ],
+        [
+            "Dr Koothrappali",
+            "So, Priya, how are enjoying staying with your brother?"
+        ],
+        [
+            "Priya",
+            "It\u2019s fine. But if I\u2019m going to stay in Los Angeles much longer, I think I should get my own place."
+        ],
+        [
+            "Mrs Koothrappali",
+            "Why? Is Rajesh not making you feel comfortable? Rajesh, why aren\u2019t you making your sister comfortable?"
+        ],
+        [
+            "Raj",
+            "I am making her comfortable. Besides, she\u2019s not sleeping here half the time anyway."
+        ],
+        [
+            "Dr Koothrappali",
+            "What? Where are you sleeping, Priya?"
+        ],
+        [
+            "Priya",
+            "It\u2019s a figure of speech, Daddy. It means I-I work late."
+        ],
+        [
+            "Mrs Koothrappali",
+            "Please tell me you\u2019re not dating an American. I knew this would happen. Rajesh, are you letting your sister date that little Howard boy?"
+        ],
+        [
+            "Dr Koothrappali",
+            "Now, hold on. If she is dating an American, that\u2019s not a bad way to go. He\u2019s Jewish. Those chaps are very successful, and they don\u2019t drink a lot."
+        ],
+        [
+            "Raj",
+            "It, it doesn\u2019t matter. Howard has a girlfriend."
+        ],
+        [
+            "Priya",
+            "For now."
+        ],
+        [
+            "Raj",
+            "What does that mean?"
+        ],
+        [
+            "Priya",
+            "I\u2019ll tell you later."
+        ],
+        [
+            "Raj",
+            "Is something going on with him and Bernadette?"
+        ],
+        [
+            "Mrs Koothrappali",
+            "Who\u2019s Bernadette?"
+        ],
+        [
+            "Dr Koothrappali",
+            "Doesn\u2019t sound Jewish."
+        ],
+        [
+            "Mrs Koothrappali",
+            "You can\u2019t tell by that. Winona Ryder is Jewish."
+        ],
+        [
+            "Dr Koothrappali",
+            "Okay, we\u2019re getting off the subject. Rajesh, I want you to try harder to make your sister feel welcome."
+        ],
+        [
+            "Priya",
+            "Thank you, Daddy."
+        ],
+        [
+            "Raj",
+            "Don\u2019t worry. Everything I have, I share with her. Including my friend Leon\u2026"
+        ],
+        [
+            "Priya",
+            "Good night, Mummy. Good night, Daddy."
+        ],
+        [
+            "Raj",
+            "Oh, my God, I think you broke my toe!"
+        ],
+        [
+            "Priya",
+            "Well you should have kept your mouth shut."
+        ],
+        [
+            "Raj",
+            "Fair enough. Now, what\u2019s up with Clarinet? Bernadette!"
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve been thinking about Dr. Greene\u2019s efforts to make science palatable for the masses."
+        ],
+        [
+            "Leonard",
+            "Oh, yeah? What about it?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s all. I\u2019ve just been thinking about it. Now, I\u2019m thinking about fractal equations. Now I\u2019m thinking about the origin of the phrase train of thought. Now I\u2019m thinking about trains."
+        ],
+        [
+            "Raj",
+            "Are you listening to this guy?"
+        ],
+        [
+            "Howard",
+            "Hmm? Oh, I\u2019m sorry. I was somewhere else."
+        ],
+        [
+            "Leonard",
+            "Lucky bastard."
+        ],
+        [
+            "Sheldon",
+            "Now I\u2019m thinking about Jell-O."
+        ],
+        [
+            "Raj",
+            "So what\u2019s up?"
+        ],
+        [
+            "Howard",
+            "It\u2019s a Bernadette thing."
+        ],
+        [
+            "Raj",
+            "Oh, no. I hope everything\u2019s okay."
+        ],
+        [
+            "Leonard",
+            "Whatever it is, we\u2019re here for you. You can tell us anything."
+        ],
+        [
+            "Raj",
+            "Yeah. Good or devastating."
+        ],
+        [
+            "Howard",
+            "I\u2019m gonna ask her to marry me."
+        ],
+        [
+            "Leonard",
+            "Marry you?"
+        ],
+        [
+            "Raj",
+            "What?"
+        ],
+        [
+            "Howard",
+            "Yeah. I just need to figure out the right time to pop the question."
+        ],
+        [
+            "Leonard",
+            "Oh, I\u2019d wait."
+        ],
+        [
+            "Raj",
+            "No rush, no rush."
+        ],
+        [
+            "Howard (phone rings)",
+            "Oh, great. It\u2019s my cousin David about the ring. Hey, David, what\u2019d you find? Oh, sure, a half a carat\u2019s fine. Her freakishly small hands make anything look big. It\u2019s one of the reasons I love her."
+        ],
+        [
+            "Leonard",
+            "Man, he\u2019s going to be blindsided."
+        ],
+        [
+            "Raj",
+            "I know. It\u2019ll be awful."
+        ],
+        [
+            "Sheldon",
+            "Why are you smiling?"
+        ],
+        [
+            "Leonard",
+            "Yeah, Raj, why?"
+        ],
+        [
+            "Raj",
+            "Uh, a smile means something different in my country. You know, tears of joy, smile of sadness. India\u2019s a goofy place."
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m back to trains. Woo-woo."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Did I tell you our lab got a grant to study addiction?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Amy",
+            "Fascinating work. I recently trained a capuchin monkey to smoke cigarettes."
+        ],
+        [
+            "Sheldon",
+            "Have you learned anything?"
+        ],
+        [
+            "Amy",
+            "Yes. He looks much cooler than the non-smoking monkeys. Although it\u2019s not much of a contest. The other monkeys just sit around and masturbate."
+        ],
+        [
+            "Sheldon",
+            "If you don\u2019t mind, I\u2019d like to stop listening to you and start talking."
+        ],
+        [
+            "Amy",
+            "By all means."
+        ],
+        [
+            "Sheldon",
+            "Howard has announced his intention to propose marriage to Bernadette."
+        ],
+        [
+            "Amy",
+            "I don\u2019t understand. The original piece of gossip indicated an impending breakup."
+        ],
+        [
+            "Sheldon",
+            "I know. The group consensus is that his proposal will be met with an humiliating, soul-crushing rejection. Everyone was set a-twitter. Although oddly, no one tweeted."
+        ],
+        [
+            "Amy",
+            "It\u2019s not surprising that the story has captured the attention of our little circle of friends. Are you familiar with meme theory?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m familiar with everything, but go on."
+        ],
+        [
+            "Amy",
+            "Meme theory suggests that items of gossip are like living things that seek to reproduce using humans as their host."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m no stranger to memetic epidemiology. At Johnson Elementary School, the phrase Shelly Cooper\u2019s a smelly pooper spread like wildfire."
+        ],
+        [
+            "Amy",
+            "I should think so. That\u2019s gold."
+        ],
+        [
+            "Sheldon",
+            "Your meme hypothesis does intrigue me. How might we examine this more closely?"
+        ],
+        [
+            "Amy",
+            "Do you have any ethical qualms regarding human experimentation?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s one of the few forms of interaction with people that I don\u2019t find repellent."
+        ],
+        [
+            "Amy",
+            "We need to fabricate a tantalizing piece of gossip."
+        ],
+        [
+            "Sheldon",
+            "And a second non-tantalizing piece to use as a control."
+        ],
+        [
+            "Amy",
+            "Then we\u2019ll track its progress through our social group and interpret the results through the competing academic prisms of memetic theory, algebraic gossip and epidemiology."
+        ],
+        [
+            "Sheldon",
+            "Look at you, getting me to engage in the social sciences. You\u2019re a vixen, Amy Farrah Fowler."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s door."
+        ],
+        [
+            "Penny",
+            "Oh, hey, Amy. What\u2019s up?"
+        ],
+        [
+            "Amy",
+            "Sheldon and I engaged in sexual intercourse. In other news, I\u2019m thinking of starting an herb garden. Mum\u2019s the word. Gotta go."
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory"
+        ],
+        [
+            "Bernadette",
+            "Oh, hey, Raj, what are you doing here?"
+        ],
+        [
+            "Raj",
+            "I just felt like drinking alone, because I\u2019m deep and dark."
+        ],
+        [
+            "Bernadette",
+            "Uh-huh. So, uh, Howard\u2019s not here?"
+        ],
+        [
+            "Raj",
+            "No. It\u2019s just one of those times when it\u2019s just you and me. Like when the three of us went to the movies and you and I waited outside the bathroom while Howard threw up Red Vines and Cherry Coke. Do you remember that?"
+        ],
+        [
+            "Bernadette",
+            "Yeah."
+        ],
+        [
+            "Raj",
+            "Me, too. Good times."
+        ],
+        [
+            "Penny",
+            "Hey, 16 wants to order appetizers."
+        ],
+        [
+            "Bernadette",
+            "Oh, thanks."
+        ],
+        [
+            "Raj",
+            "This was nice."
+        ],
+        [
+            "Penny",
+            "What the hell are you doing? Howard is your best friend, and that is his girlfriend. You should be ashamed of yourself."
+        ],
+        [
+            "Raj",
+            "I was when I came in, but it\u2019s amazing what liquor does to guilt. Besides what you might not know is, Bernadette is planning on breaking up with Howard."
+        ],
+        [
+            "Penny",
+            "Well, I know that. How do you know that?"
+        ],
+        [
+            "Raj",
+            "My sister told me."
+        ],
+        [
+            "Penny",
+            "Oh, that gossipy bitch! No offense."
+        ],
+        [
+            "Raj",
+            "None taken. You should hear how she talks about you."
+        ],
+        [
+            "Penny",
+            "Okay, listen, just because Howard and Bernadette are having problems, does not mean you should be here sniffing around."
+        ],
+        [
+            "Raj",
+            "What can I do? I can\u2019t stop thinking about her."
+        ],
+        [
+            "Penny",
+            "All right, try thinking about this. Sheldon and Amy had sex."
+        ],
+        [
+            "Raj",
+            "Shut your ass!"
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s true. Amy told me."
+        ],
+        [
+            "Raj",
+            "How did that even happen? Did they know that\u2019s what they were doing when they were doing it?"
+        ],
+        [
+            "Penny",
+            "I-I guess they just figured it out at some point."
+        ],
+        [
+            "Raj",
+            "Wow. I can\u2019t believe old Smelly Pooper finally got laid."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Hey."
+        ],
+        [
+            "Leonard",
+            "Hope you\u2019re hungry."
+        ],
+        [
+            "Sheldon",
+            "Interesting. A friendly sentiment in this country, cruel taunt in the Sudan. It\u2019s a lesson in context."
+        ],
+        [
+            "Leonard",
+            "Will Amy be joining us for dinner?"
+        ],
+        [
+            "Sheldon",
+            "Yes, I believe so."
+        ],
+        [
+            "Leonard",
+            "Good, good. Everything okay between you two?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Why do you ask?"
+        ],
+        [
+            "Leonard",
+            "No reason. I was just talking to Raj, and he mentioned what a lovely glow she has these days."
+        ],
+        [
+            "Sheldon",
+            "Did he mean as if she\u2019d been out in the sun, tending an herb garden without wearing a hat or sunblock?"
+        ],
+        [
+            "Leonard",
+            "No. That\u2019s not what he meant."
+        ],
+        [
+            "Sheldon",
+            "Well, we may never know. As my mother would say, the Asians are an inscrutable folk. Now, if you\u2019ll excuse me, I have work to do."
+        ],
+        [
+            "Leonard",
+            "Yeah, you do. You dog, you."
+        ],
+        [
+            "Sheldon",
+            "Did you get that?"
+        ],
+        [
+            "Amy (on webcam)",
+            "Every word. Our false gossip meme appears to have reached node lambda."
+        ],
+        [
+            "Sheldon",
+            "This is moving faster than we thought."
+        ],
+        [
+            "Amy",
+            "Agreed. It appears the rate of gossip transmission is proportional to the number of nodes squared."
+        ],
+        [
+            "Sheldon",
+            "I must say, Amy, pretending to have intercourse with you is giving me a great deal of satisfaction."
+        ],
+        [
+            "Amy",
+            "Slow down, Sheldon. I\u2019m not quite there yet."
+        ],
+        [
+            "Scene",
+            "The apartment, later."
+        ],
+        [
+            "Leonard",
+            "Pass the soy sauce."
+        ],
+        [
+            "Howard",
+            "Sure."
+        ],
+        [
+            "Amy",
+            "Bernadette just asked about my sexual encounter with you. The meme has reached full penetration."
+        ],
+        [
+            "Sheldon",
+            "Pun intended?"
+        ],
+        [
+            "Amy",
+            "No. Happy accident."
+        ],
+        [
+            "Sheldon",
+            "This is remarkable. Took less than 24 hours."
+        ],
+        [
+            "Amy",
+            "I should let you know that she asked for details about our dalliance."
+        ],
+        [
+            "Sheldon",
+            "Interesting. So it went beyond the mere fact of coitus to a blow by blow, as it were."
+        ],
+        [
+            "Amy",
+            "Pun intended?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. What pun?"
+        ],
+        [
+            "Amy",
+            "Not important. I described your lovemaking as aloof, but effective."
+        ],
+        [
+            "Sheldon",
+            "I wish you hadn\u2019t done that. That\u2019s going to make me a chick magnet, and I\u2019m so busy as it is."
+        ],
+        [
+            "Howard",
+            "Hey, everybody, I got something I want to ask Bernadette, and I can\u2019t think of a better time than when I\u2019m with all my friends."
+        ],
+        [
+            "Leonard",
+            "Oh, hold on, Howard. There\u2019s lots of better times."
+        ],
+        [
+            "Raj",
+            "Leonard, please. The man is talking. Let him get it out, and let the chips fall where they may."
+        ],
+        [
+            "Howard",
+            "Thank you. Bernadette Maryann Rostenkowski\u2026"
+        ],
+        [
+            "Bernadette",
+            "Oh, God. What\u2019s happening?"
+        ],
+        [
+            "Howard",
+            "I know things haven\u2019t been perfect with us, and we\u2019ve had our problems, but I just have to tell you, from the moment I\u2026"
+        ],
+        [
+            "Bernadette",
+            "Howard, let me just stop you right here."
+        ],
+        [
+            "Raj",
+            "This is it."
+        ],
+        [
+            "Bernadette",
+            "Yes."
+        ],
+        [
+            "Howard",
+            "Yes, what?"
+        ],
+        [
+            "Bernadette",
+            "Yes, I will marry you."
+        ],
+        [
+            "Howard",
+            "You will?"
+        ],
+        [
+            "Raj",
+            "You will?"
+        ],
+        [
+            "Bernadette",
+            "I will. I will!"
+        ],
+        [
+            "Howard",
+            "Oh, I love you so much."
+        ],
+        [
+            "Bernadette",
+            "Oh, I love you, too."
+        ],
+        [
+            "Leonard",
+            "Congratulations!"
+        ],
+        [
+            "Priya",
+            "Oh, it\u2019s so exciting."
+        ],
+        [
+            "Amy",
+            "I wonder what changed her mind."
+        ],
+        [
+            "Sheldon",
+            "Perhaps your talk of my sexual prowess renewed her faith in love."
+        ],
+        [
+            "Amy",
+            "As good an explanation as any."
+        ],
+        [
+            "Leonard",
+            "That\u2019s great."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s door. "
+        ],
+        [
+            "Penny",
+            "Oh, hey, Amy. Bernadette just texted me. Howard proposed?"
+        ],
+        [
+            "Amy",
+            "Yes, not important. Just stopped by to let you know I\u2019m getting orthotics. Also, I\u2019m carrying Sheldon\u2019s baby. Mum\u2019s the word."
+        ],
+        [
+            "Scene",
+            "The stairwell, moments later. Leonard is reading a text message. "
+        ],
+        [
+            "Leonard",
+            "You\u2019re pregnant?"
+        ],
+        [
+            "Amy",
+            "Wow. Is there anything on there about orthotics?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-4-episode-20-the-herb-garden-germination/"
+}

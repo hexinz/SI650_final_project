@@ -1,0 +1,1882 @@
+{
+    "Season": 7,
+    "Episode": 14,
+    "Title": "the convention conundrum",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                27,
+                "Credits sequence."
+            ],
+            [
+                28,
+                "The same, shortly after."
+            ],
+            [
+                56,
+                "The cafeteria."
+            ],
+            [
+                66,
+                "The apartment. "
+            ],
+            [
+                76,
+                "Penny\u2019s apartment."
+            ],
+            [
+                90,
+                "The apartment."
+            ],
+            [
+                102,
+                "The same, later."
+            ],
+            [
+                113,
+                "Hotel tea room."
+            ],
+            [
+                124,
+                "A sushi restaurant."
+            ],
+            [
+                129,
+                "The apartment."
+            ],
+            [
+                152,
+                "The sushi restaurant."
+            ],
+            [
+                158,
+                "The hotel bar."
+            ],
+            [
+                170,
+                "The apartment."
+            ],
+            [
+                183,
+                "An ice cream parlour."
+            ],
+            [
+                191,
+                "The hotel bar."
+            ],
+            [
+                198,
+                "The apartment. Banging on door."
+            ],
+            [
+                200,
+                "A big wheel."
+            ],
+            [
+                203,
+                "A karaoke bar."
+            ],
+            [
+                215,
+                "A sauna."
+            ],
+            [
+                227,
+                "The same, later."
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "T-minus 60 seconds."
+            ],
+            [
+                8,
+                "T Minus 45 seconds."
+            ],
+            [
+                12,
+                "T-minus 30 seconds."
+            ],
+            [
+                16,
+                "15 seconds."
+            ],
+            [
+                18,
+                "Five, four, three, two, one. "
+            ],
+            [
+                23,
+                "Nope."
+            ],
+            [
+                30,
+                "It\u2019s been ten minutes. We\u2019re running out of time."
+            ],
+            [
+                36,
+                "Great."
+            ],
+            [
+                38,
+                "Damn."
+            ],
+            [
+                40,
+                "Really?"
+            ],
+            [
+                47,
+                "I can\u2019t believe we\u2019re not going."
+            ],
+            [
+                52,
+                "Not the same Hulk. Ferrigno, Bana, Norton and Ruffalo."
+            ],
+            [
+                61,
+                "I already found a guy online who\u2019s willing to sell."
+            ],
+            [
+                64,
+                "Sheldon, just come with us. You\u2019re not gonna make your own convention."
+            ],
+            [
+                93,
+                "Oh, and I thought our days of pretending to be with women who don\u2019t exist were over."
+            ],
+            [
+                99,
+                "And that\u2019s where Darth Vader\u2019s gonna pour soy sauce on your head."
+            ],
+            [
+                105,
+                "What do you mean?"
+            ],
+            [
+                109,
+                "Why would someone want to make clothes out of your skin?"
+            ],
+            [
+                112,
+                "Why do you think I told him to come to your place?"
+            ],
+            [
+                132,
+                "I can text the guy and tell him we changed our minds."
+            ],
+            [
+                134,
+                "Okay. We\u2019re officially not going to Comic-Con."
+            ],
+            [
+                136,
+                "Do what?"
+            ],
+            [
+                144,
+                "No need. I\u2019m breaking rules all the time. "
+            ],
+            [
+                146,
+                "Last night. Drank my Pepto straight out of the bottle."
+            ],
+            [
+                148,
+                "Yeah. What about it?"
+            ],
+            [
+                171,
+                "He just parked. He\u2019s on his way up."
+            ],
+            [
+                176,
+                "Oh, no. I\u2019d be an astronaut and a bad boy, how will women keep their pants on?"
+            ],
+            [
+                180,
+                "Okay, you guys are such babies. I\u2019ll handle this. If he thinks we\u2019re not home, he\u2019ll go away."
+            ],
+            [
+                182,
+                "I lied about the Pepto, I always use the little cup."
+            ],
+            [
+                199,
+                "Oh, God, I could really use exactly two tablespoons of Pepto right now."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "Oh, it all comes down to this."
+            ],
+            [
+                13,
+                "Oh, I have to go to the bathroom so bad."
+            ],
+            [
+                15,
+                "And I told you I get diaper rash."
+            ],
+            [
+                20,
+                "Anyone in?"
+            ],
+            [
+                34,
+                "Uh, what number in line are you?"
+            ],
+            [
+                39,
+                "Oh, they only have Thursday and Sunday passes left."
+            ],
+            [
+                45,
+                "So that\u2019s it? Everything\u2019s sold out?"
+            ],
+            [
+                53,
+                "We would have been the angry green belles of the masquerade ball."
+            ],
+            [
+                91,
+                "Hey, since Sheldon\u2019s not going to Comic-Con, maybe we could find a cool trio to dress up as."
+            ],
+            [
+                97,
+                "How are you gonna get James Earl Jones?"
+            ],
+            [
+                104,
+                "Does he sound like a criminal?"
+            ],
+            [
+                106,
+                "You know, did he say things like, youse guys, or, listen here, see?"
+            ],
+            [
+                108,
+                "I\u2019m just saying, we don\u2019t know who this guy is. What if he wants to steal our money or our kidneys, or make a suit outof our skins?"
+            ],
+            [
+                110,
+                "I don\u2019t know. Maybe \u2019cause dark doesn\u2019t show the stains?"
+            ],
+            [
+                130,
+                "Okay, so, I\u2019m on a Comic-Con message board, and there\u2019s a post from a guy where he says he got caught using someone else\u2019s badge, and Sheldon was right, he did get charged with petty theft. Guys, if I go to jail dressed as the Human Torch, that might send the wrong message."
+            ],
+            [
+                133,
+                "Do it."
+            ],
+            [
+                138,
+                "That\u2019s \u2019cause we\u2019re the good guys."
+            ],
+            [
+                140,
+                "You know I struggle with Batman."
+            ],
+            [
+                142,
+                "Okay, I\u2019ll be a badass, but only if you pinky-swear to be one, too."
+            ],
+            [
+                147,
+                "What about that little cup they give you?"
+            ],
+            [
+                149,
+                "Are you impressed by that?"
+            ],
+            [
+                151,
+                "Yeah, me, too."
+            ],
+            [
+                173,
+                "It is. I feel alive."
+            ],
+            [
+                175,
+                "Maybe slapped with a fine."
+            ],
+            [
+                177,
+                "Uh, maybe it\u2019ll come up when I apply for citizenship. Oh, crap, what if it comes up when I apply for citizenship? "
+            ],
+            [
+                179,
+                "He\u2019s gonna be here any second, what should we do?"
+            ],
+            [
+                181,
+                "I thought you were a badass."
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "Oh, I\u2019ve got butterflies."
+            ],
+            [
+                6,
+                "Hey. We\u2019re about to buy tickets for Comic-Con."
+            ],
+            [
+                9,
+                "They sell out incredibly fast, but as long as one of us gets in, we can buy passes\u2026"
+            ],
+            [
+                17,
+                "Well, this is it, this is it. This is it."
+            ],
+            [
+                22,
+                "Not yet. "
+            ],
+            [
+                32,
+                "I did it, I did it, I\u2019m in the queue."
+            ],
+            [
+                35,
+                "Uh, fifteen\u2026"
+            ],
+            [
+                37,
+                "\u2026thousand two hundred and eleven."
+            ],
+            [
+                41,
+                "Oh, Thursday\u2019s gone. Just Sunday left."
+            ],
+            [
+                43,
+                "Sunday\u2019s gone."
+            ],
+            [
+                46,
+                "Yeah."
+            ],
+            [
+                58,
+                "Sheldon, just buy scalped tickets with us."
+            ],
+            [
+                60,
+                "Do what you want. We\u2019re getting scalped tickets."
+            ],
+            [
+                63,
+                "The same way I know that the people in the TV set can\u2019t see me."
+            ],
+            [
+                68,
+                "Did you tell them that you\u2019re holding your convention at a Marie Callender\u2019s, and that every panellist gets a free slice of pie?"
+            ],
+            [
+                70,
+                "Look, even your friend Wil Wheaton thinks this is a waste of time."
+            ],
+            [
+                72,
+                "Sheldon, buddy, I just don\u2019t think this is going to come together for you."
+            ],
+            [
+                74,
+                "Good luck."
+            ],
+            [
+                92,
+                "Mmm, what if we go as The Fantastic Four, and just tell people that the Invisible Girl is standing there with us."
+            ],
+            [
+                95,
+                "Does that step include chloroform and a roll of duct tape?"
+            ],
+            [
+                100,
+                "Sheldon, I don\u2019t care if you get scalped tickets with us or not, but please don\u2019t be creepy and go stalking this poor guy. You\u2019re gonna get in trouble."
+            ],
+            [
+                107,
+                "Yes. He, he\u2019s late because he\u2019s on his way here from 1940."
+            ],
+            [
+                111,
+                "Well, now you\u2019re making me wonder if we should have met him at a neutral location."
+            ],
+            [
+                131,
+                "Maybe this isn\u2019t a good idea."
+            ],
+            [
+                135,
+                "Hold on. We always do this. "
+            ],
+            [
+                137,
+                "Chicken out. We\u2019re, we\u2019re so afraid of getting into trouble that we never do anything wrong."
+            ],
+            [
+                139,
+                "Even Batman breaks the rules. "
+            ],
+            [
+                141,
+                "I say, this one time, instead of wimping out, let\u2019s be badasses."
+            ],
+            [
+                143,
+                "Howard, you in on this?"
+            ],
+            [
+                145,
+                "Name one."
+            ],
+            [
+                150,
+                "A little."
+            ],
+            [
+                172,
+                "Good. This is exciting."
+            ],
+            [
+                174,
+                "Yeah. What if we do get caught, who cares? So we get banned from Comic-Con."
+            ],
+            [
+                178,
+                "I wonder if we\u2019d have to disclose something like this when we apply for grants."
+            ]
+        ],
+        "Sheldon": [
+            [
+                4,
+                "Don\u2019t get soft on me, Hofstadter. I will slap those glasses right off your face."
+            ],
+            [
+                10,
+                "Good Lord, this is not the time for flirting, keep it in your pants."
+            ],
+            [
+                14,
+                "Every year. I told you, wear a diaper."
+            ],
+            [
+                19,
+                "It\u2019s live. Go, go, go, go, go."
+            ],
+            [
+                21,
+                "No."
+            ],
+            [
+                24,
+                "Do not stop refreshing your screens."
+            ],
+            [
+                33,
+                "Yay! And they say firefighters are the real heroes."
+            ],
+            [
+                42,
+                "Oh, Sunday\u2019s the worst. Everybody\u2019s leaving, most of the good panels are over, and the only T-shirts they have left are small and XXXXL."
+            ],
+            [
+                44,
+                "Not Sunday, I love Sunday."
+            ],
+            [
+                48,
+                "It\u2019s okay. You know, there, there\u2019s always WonderCon in Anaheim, you know? That, that\u2019s just as good. Excuse me."
+            ],
+            [
+                50,
+                "I can\u2019t believe we wasted all that time on our Hulk costumes."
+            ],
+            [
+                57,
+                "Gentlemen, I have the solution to our Comic-Con problem. We don\u2019t need them. I\u2019m starting my own convention."
+            ],
+            [
+                59,
+                "I told you. Buying scalped tickets is against the rules. If you get caught, you get banned from Comic-Con for life. Life, Leonard. You\u2019re gonna feel pretty silly when we\u2019re 80 years old, and you have to drive me down there and then wait in the car for three days."
+            ],
+            [
+                62,
+                "How do you know this isn\u2019t a sting operation set up by the Comic-Con police?"
+            ],
+            [
+                65,
+                "You know, there was a time when Comic-Con didn\u2019t exist at all until one lone dreamer with a unique vision made it happen. And you mark my words, I\u2019m gonna rip that guy off."
+            ],
+            [
+                69,
+                "I didn\u2019t even get to that part."
+            ],
+            [
+                71,
+                "Not true. Wil thinks this is a great idea. He was just concerned that he wasn\u2019t a big enough celebrity to headline such an amazing event. Also, that\u2019s the same day that he shampoos his beard."
+            ],
+            [
+                73,
+                "You don\u2019t know that. I still have plenty of solid leads on this list."
+            ],
+            [
+                75,
+                "No, wait. I need you to call Stan Lee, Leonard Nimoy and Bill Nye the Science Guy, \u2019cause, legally, I\u2019m not allowed to. Oh, and, also, Carrie Fisher, you know, \u2019cause I hear he can be pretty nuts."
+            ],
+            [
+                94,
+                "Gentlemen, I am one step away from securing a huge guest for my convention."
+            ],
+            [
+                96,
+                "I don\u2019t think that will be necessary for Mr. James Earl Jones. You heard me. The voice of Darth Vader, the Lion King\u2019s dad, and FYI, the guy who says, This is CNN. Which also sounds like Darth Vader."
+            ],
+            [
+                98,
+                "Simple. Earlier today, he tweeted that he\u2019s looking forward to going to his favourite sushi restaurant for dinner. I googled an interview from four years ago which was conducted in his favourite sushi restaurant. That\u2019s where he\u2019ll be, and that\u2019s where I\u2019m going, and\u2026"
+            ],
+            [
+                101,
+                "You\u2019re the ones who are going to get in trouble. You\u2019re buying non-transferable tickets. And from a stranger, no less. Not only can you get banned from Comic-Con, if caught, you could be charged with petty theft. You think about that while I\u2019m warning James Earl Jones about the danger of posting his location on Twitter. He got lucky this time. There are some weirdoes out there. (To the Imperial March theme) Bom, bom, bom, bom, badum, bom, badum. Bom, bom, bom, bom, badum, bom, badum. Bom, bom, badala, baba, badalum, bom, badala, bom, bom, forgot my keys, bom, bom, bom, bom, badum, bom, badum\u2026 "
+            ],
+            [
+                126,
+                "Thank you. My friend Leonard said if I bothered you while you were eating, you\u2019d think I was a creepy stalker."
+            ],
+            [
+                128,
+                "He is, Mr. Earl Jones, he is."
+            ],
+            [
+                154,
+                "Me, too. But he wasn\u2019t, was he?"
+            ],
+            [
+                156,
+                "So messed up."
+            ],
+            [
+                184,
+                "Is it true, as a child, you were a stutterer and were functionally mute for eight years?"
+            ],
+            [
+                186,
+                "Oh. Is it true they used scuba gear to create the sound of Darth Vader breathing?"
+            ],
+            [
+                188,
+                "Oh. Is it true that you were pre-med in college and you almost became a doctor?"
+            ],
+            [
+                190,
+                "Oh, James, I could listen to your stories all night."
+            ],
+            [
+                201,
+                "Hey, Los Angeles. I\u2019m on a Ferris Wheel with Darth Vader. And he\u2019s nicer than you think."
+            ],
+            [
+                204,
+                "In the jungle, the mighty jungle, the lion sleeps tonight\u2026"
+            ],
+            [
+                206,
+                "Bring it home, Mufasa. Eee, eee, eee, eee, eee, um, um-a-weh."
+            ],
+            [
+                209,
+                "I don\u2019t understand what we\u2019re doing."
+            ],
+            [
+                211,
+                "Whose house is this?"
+            ],
+            [
+                217,
+                "Okay. But I think it could have ended with the karaoke."
+            ],
+            [
+                219,
+                "Oh. How much does it cost to get them off my lap?"
+            ],
+            [
+                221,
+                "Oh, right. Well, my friends and I couldn\u2019t get into Comic-Con this year, and I was trying to start my own convention, and I was going to ask if you would be a panelist."
+            ],
+            [
+                223,
+                "Really?"
+            ],
+            [
+                225,
+                "Ay-yi-yi. "
+            ],
+            [
+                229,
+                "I\u2019m sorry, who\u2019s Angie Dickinson?"
+            ]
+        ],
+        "Penny": [
+            [
+                5,
+                "What\u2019s going on?"
+            ],
+            [
+                7,
+                "Oh."
+            ],
+            [
+                11,
+                "This is a whole lot of weird before coffee."
+            ],
+            [
+                26,
+                "Yeah, this is not gonna be enough coffee."
+            ],
+            [
+                31,
+                "To be cool? Yeah."
+            ],
+            [
+                49,
+                "Oh, guys, this is really sad. And in a different way than it was twenty minutes ago."
+            ],
+            [
+                51,
+                "What? You were all going as the Hulk?"
+            ],
+            [
+                55,
+                "And we\u2019re back to the first kind of sad."
+            ],
+            [
+                77,
+                "I can\u2019t believe Leonard is spending hundreds of dollars on scalped tickets. "
+            ],
+            [
+                79,
+                "Yeah, but those tickets only get him into Comic-Con. That dress gets me into anywhere I want."
+            ],
+            [
+                84,
+                "Yes, like a museum, but anything else."
+            ],
+            [
+                87,
+                "Oh, all right, if we\u2019re gonna be fancy, I should probably put on clean underwear."
+            ],
+            [
+                89,
+                "No, we\u2019re gonna stop at Target on the way."
+            ],
+            [
+                115,
+                "I can\u2019t believe we thought this would makes us feel grown up."
+            ],
+            [
+                121,
+                "Well, there\u2019s a bar in the lobby."
+            ],
+            [
+                159,
+                "So, afternoon tea was a bust."
+            ],
+            [
+                161,
+                "Let me ask you a question, when did you guys start feeling grown up? \u2018Cause I am not sure I do."
+            ],
+            [
+                163,
+                "Okay, so I\u2019m an adult, and the other day I saw an old man slip and fall down, and I laughed. I mean, I laughed hard. Like, like, out loud. If he was conscious, he would\u2019ve heard me."
+            ],
+            [
+                165,
+                "I know. One of the tennis balls came off his walker and bounced right off his head. I mean, I, I almost wet myself. I guess you had to be there."
+            ],
+            [
+                167,
+                "Okay, sex is not what makes you a grown-up."
+            ],
+            [
+                169,
+                "Really? Is that how you talk to your mother?"
+            ],
+            [
+                192,
+                "I mean, really, what\u2019s so great about being grown up?"
+            ],
+            [
+                194,
+                "I\u2019m serious. Who wants to do all that stuff? Have insurance, pay mortgages, leave one of those little notes when you hit a parked car."
+            ],
+            [
+                196,
+                "Oh, come on, it wasn\u2019t me. Anyone could have knocked your mirror off, or whatever happened."
+            ]
+        ],
+        "All (repeatedly)": [
+            [
+                25,
+                "Refresh. Refresh. Refresh\u2026."
+            ],
+            [
+                29,
+                "Refresh\u2026 Refresh\u2026 Refresh\u2026"
+            ]
+        ],
+        "All": [
+            [
+                54,
+                "Yeah. "
+            ]
+        ],
+        "Sheldon (on phone)": [
+            [
+                67,
+                "Yes, I\u2019m starting my own comic book convention, and I thought that your client, Robert Downey Jr., would be perfect to appear on our first panel. Oh, well, now, why are you saying no? You haven\u2019t even asked him yet. You know, excuse me, but I sat through Iron Man 2. I believe he owes me two hours of his time. They hung up on me."
+            ]
+        ],
+        "Amy": [
+            [
+                78,
+                "Last week, you spent that on a little dress. "
+            ],
+            [
+                81,
+                "Why can\u2019t they do something sensible like Sheldon and start their own comic book convention? Also, who wants to throw me out that window?"
+            ],
+            [
+                83,
+                "Oh. You mean like a museum?"
+            ],
+            [
+                86,
+                "Ooh, afternoon tea, how sophisticated of us."
+            ],
+            [
+                114,
+                "There sure are a lot of little kids here."
+            ],
+            [
+                117,
+                "Well, last time I got dressed up and had tea was when I was five. Just me, my teddy bear, Raggedy Ann and my hamster. "
+            ],
+            [
+                119,
+                "It was. Till my hamster ate all her babies. It got less cute really fast."
+            ],
+            [
+                123,
+                "Aw. Drinking in the afternoon, just like her mommy."
+            ],
+            [
+                160,
+                "On the bright side, every six-year-old there was jealous of my tiara. Not gonna lie, it felt good."
+            ],
+            [
+                164,
+                "Gosh."
+            ],
+            [
+                166,
+                "I think I have you both beat. Imagine trying to feel like a grown-up when you\u2019ve never even been with a man."
+            ],
+            [
+                195,
+                "I told you it was Penny."
+            ],
+            [
+                197,
+                "Maybe the guys are right. I mean, we spent the whole night trying to be mature, and it was kind of boring. I\u2019m sure they\u2019re having more fun than we are."
+            ]
+        ],
+        "Bernadette": [
+            [
+                80,
+                "Those tickets were pretty expensive. I had to give Howie an advance on his allowance. Now he\u2019s never gonna put his toys away."
+            ],
+            [
+                82,
+                "Well, while they\u2019re acting like teenagers, we could do something grown-up."
+            ],
+            [
+                85,
+                "Oh, I know. There\u2019s a nice hotel not far from here where they do afternoon tea."
+            ],
+            [
+                88,
+                "La-dee-da, look who has clean underwear."
+            ],
+            [
+                116,
+                "I can\u2019t believe the waiter thought I was your daughter."
+            ],
+            [
+                118,
+                "That\u2019s cute."
+            ],
+            [
+                120,
+                "Should we leave?"
+            ],
+            [
+                122,
+                "I could go for a drink."
+            ],
+            [
+                162,
+                "Honestly, I thought when I got married I would, but I still kind of feel like I\u2019m pretending. It doesn\u2019t help that most of my clothes come from Gap Kids."
+            ],
+            [
+                168,
+                "Yeah. Or you\u2019d be the oldest one here."
+            ],
+            [
+                193,
+                "Well, for starters, we\u2019d be splitting this check three ways."
+            ]
+        ],
+        "Howard (on phone)": [
+            [
+                103,
+                "Okay, great. Bye. Our friendly neighbourhood scalper says he\u2019s running late."
+            ]
+        ],
+        "James Earl Jones": [
+            [
+                125,
+                "Let me guess. You like Star Wars. You know, I\u2019ve been in other movies. But you don\u2019t care about those, do you? I have one thing to say to people like you. I like Star Wars, too. Care to join me?"
+            ],
+            [
+                127,
+                "Well, your friend Leonard sounds like a real weenie."
+            ]
+        ],
+        "James": [
+            [
+                153,
+                "You know, when I first read the script for Empire Strikes Back and Darth Vader told Luke he was his father, I thought for sure he was lying."
+            ],
+            [
+                155,
+                "He was not. How messed up was that?"
+            ],
+            [
+                157,
+                "What do you say let\u2019s go have some fun? My wife\u2019s in New York, and I got a Lion King residual cheque burning a hole in my pocket."
+            ],
+            [
+                185,
+                "It is true."
+            ],
+            [
+                187,
+                "They sure did."
+            ],
+            [
+                189,
+                "That\u2019s right."
+            ],
+            [
+                202,
+                "I am."
+            ],
+            [
+                205,
+                "Ah-wimoweh, ah-wimoweh\u2026"
+            ],
+            [
+                207,
+                "Ah-wimoweh, ah-wimoweh\u2026"
+            ],
+            [
+                210,
+                "Shh."
+            ],
+            [
+                212,
+                "Carrie Fisher. And she\u2019s a little crazy, so get ready to run. (Rings doorbell)"
+            ],
+            [
+                214,
+                "Then why am I laughing?"
+            ],
+            [
+                216,
+                "Ah, Sheldon, this is the perfect end to a perfect night."
+            ],
+            [
+                218,
+                "What were you trying to ask me at the strip club?"
+            ],
+            [
+                220,
+                "No. Something about a convention."
+            ],
+            [
+                222,
+                "Why don\u2019t you and your friends come to Comic-Con with me?"
+            ],
+            [
+                224,
+                "Of course. And San Diego is right across the border from my favorite city on Earth, Tijuana, where I\u2019m taking you every night. "
+            ],
+            [
+                226,
+                "Ay-yi-yi, bang-bang."
+            ],
+            [
+                228,
+                "So, Beau Bridges is on my shoulders, and Jeff Bridges is on Marlon Brando\u2019s shoulders, and remember, we do not have permission to be in the pool\u2026 hey, Sheldon, wake up. And Angie Dickinson is about to sic the dogs on us, and I go under the water and Marlon goes under the water, and the water raises about two feet and sloshes all over her patio, and the dogs freak out and run like hell, and then we run like hell. Oh, boy, that was a lot of fun."
+            ]
+        ],
+        "Sceme": [
+            [
+                208,
+                "Outside a house."
+            ]
+        ],
+        "Carrie Fisher": [
+            [
+                213,
+                "It\u2019s not funny anymore, James."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "T-minus 60 seconds."
+        ],
+        [
+            "Raj",
+            "Oh, it all comes down to this."
+        ],
+        [
+            "Leonard",
+            "Oh, I\u2019ve got butterflies."
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t get soft on me, Hofstadter. I will slap those glasses right off your face."
+        ],
+        [
+            "Penny",
+            "What\u2019s going on?"
+        ],
+        [
+            "Leonard",
+            "Hey. We\u2019re about to buy tickets for Comic-Con."
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Howard",
+            "T Minus 45 seconds."
+        ],
+        [
+            "Leonard",
+            "They sell out incredibly fast, but as long as one of us gets in, we can buy passes\u2026"
+        ],
+        [
+            "Sheldon",
+            "Good Lord, this is not the time for flirting, keep it in your pants."
+        ],
+        [
+            "Penny",
+            "This is a whole lot of weird before coffee."
+        ],
+        [
+            "Howard",
+            "T-minus 30 seconds."
+        ],
+        [
+            "Raj",
+            "Oh, I have to go to the bathroom so bad."
+        ],
+        [
+            "Sheldon",
+            "Every year. I told you, wear a diaper."
+        ],
+        [
+            "Raj",
+            "And I told you I get diaper rash."
+        ],
+        [
+            "Howard",
+            "15 seconds."
+        ],
+        [
+            "Leonard",
+            "Well, this is it, this is it. This is it."
+        ],
+        [
+            "Howard",
+            "Five, four, three, two, one. "
+        ],
+        [
+            "Sheldon",
+            "It\u2019s live. Go, go, go, go, go."
+        ],
+        [
+            "Raj",
+            "Anyone in?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Leonard",
+            "Not yet. "
+        ],
+        [
+            "Howard",
+            "Nope."
+        ],
+        [
+            "Sheldon",
+            "Do not stop refreshing your screens."
+        ],
+        [
+            "All (repeatedly)",
+            "Refresh. Refresh. Refresh\u2026."
+        ],
+        [
+            "Penny",
+            "Yeah, this is not gonna be enough coffee."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The same, shortly after."
+        ],
+        [
+            "All (repeatedly)",
+            "Refresh\u2026 Refresh\u2026 Refresh\u2026"
+        ],
+        [
+            "Howard",
+            "It\u2019s been ten minutes. We\u2019re running out of time."
+        ],
+        [
+            "Penny",
+            "To be cool? Yeah."
+        ],
+        [
+            "Leonard",
+            "I did it, I did it, I\u2019m in the queue."
+        ],
+        [
+            "Sheldon",
+            "Yay! And they say firefighters are the real heroes."
+        ],
+        [
+            "Raj",
+            "Uh, what number in line are you?"
+        ],
+        [
+            "Leonard",
+            "Uh, fifteen\u2026"
+        ],
+        [
+            "Howard",
+            "Great."
+        ],
+        [
+            "Leonard",
+            "\u2026thousand two hundred and eleven."
+        ],
+        [
+            "Howard",
+            "Damn."
+        ],
+        [
+            "Raj",
+            "Oh, they only have Thursday and Sunday passes left."
+        ],
+        [
+            "Howard",
+            "Really?"
+        ],
+        [
+            "Leonard",
+            "Oh, Thursday\u2019s gone. Just Sunday left."
+        ],
+        [
+            "Sheldon",
+            "Oh, Sunday\u2019s the worst. Everybody\u2019s leaving, most of the good panels are over, and the only T-shirts they have left are small and XXXXL."
+        ],
+        [
+            "Leonard",
+            "Sunday\u2019s gone."
+        ],
+        [
+            "Sheldon",
+            "Not Sunday, I love Sunday."
+        ],
+        [
+            "Raj",
+            "So that\u2019s it? Everything\u2019s sold out?"
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Howard",
+            "I can\u2019t believe we\u2019re not going."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s okay. You know, there, there\u2019s always WonderCon in Anaheim, you know? That, that\u2019s just as good. Excuse me."
+        ],
+        [
+            "Penny",
+            "Oh, guys, this is really sad. And in a different way than it was twenty minutes ago."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t believe we wasted all that time on our Hulk costumes."
+        ],
+        [
+            "Penny",
+            "What? You were all going as the Hulk?"
+        ],
+        [
+            "Howard",
+            "Not the same Hulk. Ferrigno, Bana, Norton and Ruffalo."
+        ],
+        [
+            "Raj",
+            "We would have been the angry green belles of the masquerade ball."
+        ],
+        [
+            "All",
+            "Yeah. "
+        ],
+        [
+            "Penny",
+            "And we\u2019re back to the first kind of sad."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, I have the solution to our Comic-Con problem. We don\u2019t need them. I\u2019m starting my own convention."
+        ],
+        [
+            "Leonard",
+            "Sheldon, just buy scalped tickets with us."
+        ],
+        [
+            "Sheldon",
+            "I told you. Buying scalped tickets is against the rules. If you get caught, you get banned from Comic-Con for life. Life, Leonard. You\u2019re gonna feel pretty silly when we\u2019re 80 years old, and you have to drive me down there and then wait in the car for three days."
+        ],
+        [
+            "Leonard",
+            "Do what you want. We\u2019re getting scalped tickets."
+        ],
+        [
+            "Howard",
+            "I already found a guy online who\u2019s willing to sell."
+        ],
+        [
+            "Sheldon",
+            "How do you know this isn\u2019t a sting operation set up by the Comic-Con police?"
+        ],
+        [
+            "Leonard",
+            "The same way I know that the people in the TV set can\u2019t see me."
+        ],
+        [
+            "Howard",
+            "Sheldon, just come with us. You\u2019re not gonna make your own convention."
+        ],
+        [
+            "Sheldon",
+            "You know, there was a time when Comic-Con didn\u2019t exist at all until one lone dreamer with a unique vision made it happen. And you mark my words, I\u2019m gonna rip that guy off."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon (on phone)",
+            "Yes, I\u2019m starting my own comic book convention, and I thought that your client, Robert Downey Jr., would be perfect to appear on our first panel. Oh, well, now, why are you saying no? You haven\u2019t even asked him yet. You know, excuse me, but I sat through Iron Man 2. I believe he owes me two hours of his time. They hung up on me."
+        ],
+        [
+            "Leonard",
+            "Did you tell them that you\u2019re holding your convention at a Marie Callender\u2019s, and that every panellist gets a free slice of pie?"
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t even get to that part."
+        ],
+        [
+            "Leonard",
+            "Look, even your friend Wil Wheaton thinks this is a waste of time."
+        ],
+        [
+            "Sheldon",
+            "Not true. Wil thinks this is a great idea. He was just concerned that he wasn\u2019t a big enough celebrity to headline such an amazing event. Also, that\u2019s the same day that he shampoos his beard."
+        ],
+        [
+            "Leonard",
+            "Sheldon, buddy, I just don\u2019t think this is going to come together for you."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t know that. I still have plenty of solid leads on this list."
+        ],
+        [
+            "Leonard",
+            "Good luck."
+        ],
+        [
+            "Sheldon",
+            "No, wait. I need you to call Stan Lee, Leonard Nimoy and Bill Nye the Science Guy, \u2019cause, legally, I\u2019m not allowed to. Oh, and, also, Carrie Fisher, you know, \u2019cause I hear he can be pretty nuts."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "I can\u2019t believe Leonard is spending hundreds of dollars on scalped tickets. "
+        ],
+        [
+            "Amy",
+            "Last week, you spent that on a little dress. "
+        ],
+        [
+            "Penny",
+            "Yeah, but those tickets only get him into Comic-Con. That dress gets me into anywhere I want."
+        ],
+        [
+            "Bernadette",
+            "Those tickets were pretty expensive. I had to give Howie an advance on his allowance. Now he\u2019s never gonna put his toys away."
+        ],
+        [
+            "Amy",
+            "Why can\u2019t they do something sensible like Sheldon and start their own comic book convention? Also, who wants to throw me out that window?"
+        ],
+        [
+            "Bernadette",
+            "Well, while they\u2019re acting like teenagers, we could do something grown-up."
+        ],
+        [
+            "Amy",
+            "Oh. You mean like a museum?"
+        ],
+        [
+            "Penny",
+            "Yes, like a museum, but anything else."
+        ],
+        [
+            "Bernadette",
+            "Oh, I know. There\u2019s a nice hotel not far from here where they do afternoon tea."
+        ],
+        [
+            "Amy",
+            "Ooh, afternoon tea, how sophisticated of us."
+        ],
+        [
+            "Penny",
+            "Oh, all right, if we\u2019re gonna be fancy, I should probably put on clean underwear."
+        ],
+        [
+            "Bernadette",
+            "La-dee-da, look who has clean underwear."
+        ],
+        [
+            "Penny",
+            "No, we\u2019re gonna stop at Target on the way."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Hey, since Sheldon\u2019s not going to Comic-Con, maybe we could find a cool trio to dress up as."
+        ],
+        [
+            "Leonard",
+            "Mmm, what if we go as The Fantastic Four, and just tell people that the Invisible Girl is standing there with us."
+        ],
+        [
+            "Howard",
+            "Oh, and I thought our days of pretending to be with women who don\u2019t exist were over."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, I am one step away from securing a huge guest for my convention."
+        ],
+        [
+            "Leonard",
+            "Does that step include chloroform and a roll of duct tape?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t think that will be necessary for Mr. James Earl Jones. You heard me. The voice of Darth Vader, the Lion King\u2019s dad, and FYI, the guy who says, This is CNN. Which also sounds like Darth Vader."
+        ],
+        [
+            "Raj",
+            "How are you gonna get James Earl Jones?"
+        ],
+        [
+            "Sheldon",
+            "Simple. Earlier today, he tweeted that he\u2019s looking forward to going to his favourite sushi restaurant for dinner. I googled an interview from four years ago which was conducted in his favourite sushi restaurant. That\u2019s where he\u2019ll be, and that\u2019s where I\u2019m going, and\u2026"
+        ],
+        [
+            "Howard",
+            "And that\u2019s where Darth Vader\u2019s gonna pour soy sauce on your head."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I don\u2019t care if you get scalped tickets with us or not, but please don\u2019t be creepy and go stalking this poor guy. You\u2019re gonna get in trouble."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re the ones who are going to get in trouble. You\u2019re buying non-transferable tickets. And from a stranger, no less. Not only can you get banned from Comic-Con, if caught, you could be charged with petty theft. You think about that while I\u2019m warning James Earl Jones about the danger of posting his location on Twitter. He got lucky this time. There are some weirdoes out there. (To the Imperial March theme) Bom, bom, bom, bom, badum, bom, badum. Bom, bom, bom, bom, badum, bom, badum. Bom, bom, badala, baba, badalum, bom, badala, bom, bom, forgot my keys, bom, bom, bom, bom, badum, bom, badum\u2026 "
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Howard (on phone)",
+            "Okay, great. Bye. Our friendly neighbourhood scalper says he\u2019s running late."
+        ],
+        [
+            "Raj",
+            "Does he sound like a criminal?"
+        ],
+        [
+            "Howard",
+            "What do you mean?"
+        ],
+        [
+            "Raj",
+            "You know, did he say things like, youse guys, or, listen here, see?"
+        ],
+        [
+            "Leonard",
+            "Yes. He, he\u2019s late because he\u2019s on his way here from 1940."
+        ],
+        [
+            "Raj",
+            "I\u2019m just saying, we don\u2019t know who this guy is. What if he wants to steal our money or our kidneys, or make a suit outof our skins?"
+        ],
+        [
+            "Howard",
+            "Why would someone want to make clothes out of your skin?"
+        ],
+        [
+            "Raj",
+            "I don\u2019t know. Maybe \u2019cause dark doesn\u2019t show the stains?"
+        ],
+        [
+            "Leonard",
+            "Well, now you\u2019re making me wonder if we should have met him at a neutral location."
+        ],
+        [
+            "Howard",
+            "Why do you think I told him to come to your place?"
+        ],
+        [
+            "Scene",
+            "Hotel tea room."
+        ],
+        [
+            "Amy",
+            "There sure are a lot of little kids here."
+        ],
+        [
+            "Penny",
+            "I can\u2019t believe we thought this would makes us feel grown up."
+        ],
+        [
+            "Bernadette",
+            "I can\u2019t believe the waiter thought I was your daughter."
+        ],
+        [
+            "Amy",
+            "Well, last time I got dressed up and had tea was when I was five. Just me, my teddy bear, Raggedy Ann and my hamster. "
+        ],
+        [
+            "Bernadette",
+            "That\u2019s cute."
+        ],
+        [
+            "Amy",
+            "It was. Till my hamster ate all her babies. It got less cute really fast."
+        ],
+        [
+            "Bernadette",
+            "Should we leave?"
+        ],
+        [
+            "Penny",
+            "Well, there\u2019s a bar in the lobby."
+        ],
+        [
+            "Bernadette",
+            "I could go for a drink."
+        ],
+        [
+            "Amy",
+            "Aw. Drinking in the afternoon, just like her mommy."
+        ],
+        [
+            "Scene",
+            "A sushi restaurant."
+        ],
+        [
+            "James Earl Jones",
+            "Let me guess. You like Star Wars. You know, I\u2019ve been in other movies. But you don\u2019t care about those, do you? I have one thing to say to people like you. I like Star Wars, too. Care to join me?"
+        ],
+        [
+            "Sheldon",
+            "Thank you. My friend Leonard said if I bothered you while you were eating, you\u2019d think I was a creepy stalker."
+        ],
+        [
+            "James Earl Jones",
+            "Well, your friend Leonard sounds like a real weenie."
+        ],
+        [
+            "Sheldon",
+            "He is, Mr. Earl Jones, he is."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Okay, so, I\u2019m on a Comic-Con message board, and there\u2019s a post from a guy where he says he got caught using someone else\u2019s badge, and Sheldon was right, he did get charged with petty theft. Guys, if I go to jail dressed as the Human Torch, that might send the wrong message."
+        ],
+        [
+            "Leonard",
+            "Maybe this isn\u2019t a good idea."
+        ],
+        [
+            "Howard",
+            "I can text the guy and tell him we changed our minds."
+        ],
+        [
+            "Raj",
+            "Do it."
+        ],
+        [
+            "Howard",
+            "Okay. We\u2019re officially not going to Comic-Con."
+        ],
+        [
+            "Leonard",
+            "Hold on. We always do this. "
+        ],
+        [
+            "Howard",
+            "Do what?"
+        ],
+        [
+            "Leonard",
+            "Chicken out. We\u2019re, we\u2019re so afraid of getting into trouble that we never do anything wrong."
+        ],
+        [
+            "Raj",
+            "That\u2019s \u2019cause we\u2019re the good guys."
+        ],
+        [
+            "Leonard",
+            "Even Batman breaks the rules. "
+        ],
+        [
+            "Raj",
+            "You know I struggle with Batman."
+        ],
+        [
+            "Leonard",
+            "I say, this one time, instead of wimping out, let\u2019s be badasses."
+        ],
+        [
+            "Raj",
+            "Okay, I\u2019ll be a badass, but only if you pinky-swear to be one, too."
+        ],
+        [
+            "Leonard",
+            "Howard, you in on this?"
+        ],
+        [
+            "Howard",
+            "No need. I\u2019m breaking rules all the time. "
+        ],
+        [
+            "Leonard",
+            "Name one."
+        ],
+        [
+            "Howard",
+            "Last night. Drank my Pepto straight out of the bottle."
+        ],
+        [
+            "Raj",
+            "What about that little cup they give you?"
+        ],
+        [
+            "Howard",
+            "Yeah. What about it?"
+        ],
+        [
+            "Raj",
+            "Are you impressed by that?"
+        ],
+        [
+            "Leonard",
+            "A little."
+        ],
+        [
+            "Raj",
+            "Yeah, me, too."
+        ],
+        [
+            "Scene",
+            "The sushi restaurant."
+        ],
+        [
+            "James",
+            "You know, when I first read the script for Empire Strikes Back and Darth Vader told Luke he was his father, I thought for sure he was lying."
+        ],
+        [
+            "Sheldon",
+            "Me, too. But he wasn\u2019t, was he?"
+        ],
+        [
+            "James",
+            "He was not. How messed up was that?"
+        ],
+        [
+            "Sheldon",
+            "So messed up."
+        ],
+        [
+            "James",
+            "What do you say let\u2019s go have some fun? My wife\u2019s in New York, and I got a Lion King residual cheque burning a hole in my pocket."
+        ],
+        [
+            "Scene",
+            "The hotel bar."
+        ],
+        [
+            "Penny",
+            "So, afternoon tea was a bust."
+        ],
+        [
+            "Amy",
+            "On the bright side, every six-year-old there was jealous of my tiara. Not gonna lie, it felt good."
+        ],
+        [
+            "Penny",
+            "Let me ask you a question, when did you guys start feeling grown up? \u2018Cause I am not sure I do."
+        ],
+        [
+            "Bernadette",
+            "Honestly, I thought when I got married I would, but I still kind of feel like I\u2019m pretending. It doesn\u2019t help that most of my clothes come from Gap Kids."
+        ],
+        [
+            "Penny",
+            "Okay, so I\u2019m an adult, and the other day I saw an old man slip and fall down, and I laughed. I mean, I laughed hard. Like, like, out loud. If he was conscious, he would\u2019ve heard me."
+        ],
+        [
+            "Amy",
+            "Gosh."
+        ],
+        [
+            "Penny",
+            "I know. One of the tennis balls came off his walker and bounced right off his head. I mean, I, I almost wet myself. I guess you had to be there."
+        ],
+        [
+            "Amy",
+            "I think I have you both beat. Imagine trying to feel like a grown-up when you\u2019ve never even been with a man."
+        ],
+        [
+            "Penny",
+            "Okay, sex is not what makes you a grown-up."
+        ],
+        [
+            "Bernadette",
+            "Yeah. Or you\u2019d be the oldest one here."
+        ],
+        [
+            "Penny",
+            "Really? Is that how you talk to your mother?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "He just parked. He\u2019s on his way up."
+        ],
+        [
+            "Leonard",
+            "Good. This is exciting."
+        ],
+        [
+            "Raj",
+            "It is. I feel alive."
+        ],
+        [
+            "Leonard",
+            "Yeah. What if we do get caught, who cares? So we get banned from Comic-Con."
+        ],
+        [
+            "Raj",
+            "Maybe slapped with a fine."
+        ],
+        [
+            "Howard",
+            "Oh, no. I\u2019d be an astronaut and a bad boy, how will women keep their pants on?"
+        ],
+        [
+            "Raj",
+            "Uh, maybe it\u2019ll come up when I apply for citizenship. Oh, crap, what if it comes up when I apply for citizenship? "
+        ],
+        [
+            "Leonard",
+            "I wonder if we\u2019d have to disclose something like this when we apply for grants."
+        ],
+        [
+            "Raj",
+            "He\u2019s gonna be here any second, what should we do?"
+        ],
+        [
+            "Howard",
+            "Okay, you guys are such babies. I\u2019ll handle this. If he thinks we\u2019re not home, he\u2019ll go away."
+        ],
+        [
+            "Raj",
+            "I thought you were a badass."
+        ],
+        [
+            "Howard",
+            "I lied about the Pepto, I always use the little cup."
+        ],
+        [
+            "Scene",
+            "An ice cream parlour."
+        ],
+        [
+            "Sheldon",
+            "Is it true, as a child, you were a stutterer and were functionally mute for eight years?"
+        ],
+        [
+            "James",
+            "It is true."
+        ],
+        [
+            "Sheldon",
+            "Oh. Is it true they used scuba gear to create the sound of Darth Vader breathing?"
+        ],
+        [
+            "James",
+            "They sure did."
+        ],
+        [
+            "Sheldon",
+            "Oh. Is it true that you were pre-med in college and you almost became a doctor?"
+        ],
+        [
+            "James",
+            "That\u2019s right."
+        ],
+        [
+            "Sheldon",
+            "Oh, James, I could listen to your stories all night."
+        ],
+        [
+            "Scene",
+            "The hotel bar."
+        ],
+        [
+            "Penny",
+            "I mean, really, what\u2019s so great about being grown up?"
+        ],
+        [
+            "Bernadette",
+            "Well, for starters, we\u2019d be splitting this check three ways."
+        ],
+        [
+            "Penny",
+            "I\u2019m serious. Who wants to do all that stuff? Have insurance, pay mortgages, leave one of those little notes when you hit a parked car."
+        ],
+        [
+            "Amy",
+            "I told you it was Penny."
+        ],
+        [
+            "Penny",
+            "Oh, come on, it wasn\u2019t me. Anyone could have knocked your mirror off, or whatever happened."
+        ],
+        [
+            "Amy",
+            "Maybe the guys are right. I mean, we spent the whole night trying to be mature, and it was kind of boring. I\u2019m sure they\u2019re having more fun than we are."
+        ],
+        [
+            "Scene",
+            "The apartment. Banging on door."
+        ],
+        [
+            "Howard",
+            "Oh, God, I could really use exactly two tablespoons of Pepto right now."
+        ],
+        [
+            "Scene",
+            "A big wheel."
+        ],
+        [
+            "Sheldon",
+            "Hey, Los Angeles. I\u2019m on a Ferris Wheel with Darth Vader. And he\u2019s nicer than you think."
+        ],
+        [
+            "James",
+            "I am."
+        ],
+        [
+            "Scene",
+            "A karaoke bar."
+        ],
+        [
+            "Sheldon",
+            "In the jungle, the mighty jungle, the lion sleeps tonight\u2026"
+        ],
+        [
+            "James",
+            "Ah-wimoweh, ah-wimoweh\u2026"
+        ],
+        [
+            "Sheldon",
+            "Bring it home, Mufasa. Eee, eee, eee, eee, eee, um, um-a-weh."
+        ],
+        [
+            "James",
+            "Ah-wimoweh, ah-wimoweh\u2026"
+        ],
+        [
+            "Sceme",
+            "Outside a house."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t understand what we\u2019re doing."
+        ],
+        [
+            "James",
+            "Shh."
+        ],
+        [
+            "Sheldon",
+            "Whose house is this?"
+        ],
+        [
+            "James",
+            "Carrie Fisher. And she\u2019s a little crazy, so get ready to run. (Rings doorbell)"
+        ],
+        [
+            "Carrie Fisher",
+            "It\u2019s not funny anymore, James."
+        ],
+        [
+            "James",
+            "Then why am I laughing?"
+        ],
+        [
+            "Scene",
+            "A sauna."
+        ],
+        [
+            "James",
+            "Ah, Sheldon, this is the perfect end to a perfect night."
+        ],
+        [
+            "Sheldon",
+            "Okay. But I think it could have ended with the karaoke."
+        ],
+        [
+            "James",
+            "What were you trying to ask me at the strip club?"
+        ],
+        [
+            "Sheldon",
+            "Oh. How much does it cost to get them off my lap?"
+        ],
+        [
+            "James",
+            "No. Something about a convention."
+        ],
+        [
+            "Sheldon",
+            "Oh, right. Well, my friends and I couldn\u2019t get into Comic-Con this year, and I was trying to start my own convention, and I was going to ask if you would be a panelist."
+        ],
+        [
+            "James",
+            "Why don\u2019t you and your friends come to Comic-Con with me?"
+        ],
+        [
+            "Sheldon",
+            "Really?"
+        ],
+        [
+            "James",
+            "Of course. And San Diego is right across the border from my favorite city on Earth, Tijuana, where I\u2019m taking you every night. "
+        ],
+        [
+            "Sheldon",
+            "Ay-yi-yi. "
+        ],
+        [
+            "James",
+            "Ay-yi-yi, bang-bang."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "James",
+            "So, Beau Bridges is on my shoulders, and Jeff Bridges is on Marlon Brando\u2019s shoulders, and remember, we do not have permission to be in the pool\u2026 hey, Sheldon, wake up. And Angie Dickinson is about to sic the dogs on us, and I go under the water and Marlon goes under the water, and the water raises about two feet and sloshes all over her patio, and the dogs freak out and run like hell, and then we run like hell. Oh, boy, that was a lot of fun."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, who\u2019s Angie Dickinson?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-14-the-convention-conundrum/"
+}

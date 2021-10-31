@@ -1,0 +1,1846 @@
+{
+    "Season": 7,
+    "Episode": 22,
+    "Title": "the proton transmogrification",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                10,
+                "Credits sequence."
+            ],
+            [
+                11,
+                "Sheldon\u2019s bedroom. There is a knock on the door."
+            ],
+            [
+                28,
+                "Amy\u2019s apartment. "
+            ],
+            [
+                40,
+                "The apartment."
+            ],
+            [
+                60,
+                "Amy\u201ds apartment. "
+            ],
+            [
+                68,
+                "The funeral."
+            ],
+            [
+                88,
+                "The apartment. "
+            ],
+            [
+                104,
+                "Later."
+            ],
+            [
+                112,
+                "Sheldon, dreaming he is in the living room of the apartment on his laptop."
+            ],
+            [
+                129,
+                "The funeral."
+            ],
+            [
+                159,
+                "Amy\u2019s apartment."
+            ],
+            [
+                171,
+                "Leonard\u2019s car."
+            ],
+            [
+                181,
+                "Sheldon\u2019s dream."
+            ],
+            [
+                205,
+                "The apartment. "
+            ],
+            [
+                217,
+                "The same, everyone is falling asleep."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Gentlemen, Star Wars Day is rapidly approaching. We should finalize our plans."
+            ],
+            [
+                6,
+                "Get it?"
+            ],
+            [
+                12,
+                "Come in."
+            ],
+            [
+                14,
+                "Yes. Actually, I\u2019m glad you\u2019re here. I\u2019m working on the Star Wars Day schedule. Now, I have a window built in after Phantom Menace for complaining, but I\u2019m worried an hour won\u2019t be enough time."
+            ],
+            [
+                16,
+                "What is it?"
+            ],
+            [
+                18,
+                "Professor Proton is dead?"
+            ],
+            [
+                20,
+                "What are you doing?"
+            ],
+            [
+                22,
+                "Your heart might be in the right place, but your head, chest and arms certainly aren\u2019t."
+            ],
+            [
+                24,
+                "But, that\u2019s Star Wars Day."
+            ],
+            [
+                26,
+                "I\u2019m fine."
+            ],
+            [
+                31,
+                "Hmm. Yes. Look at him, Amy. It\u2019s such a shame. Struck down in the prime of my life."
+            ],
+            [
+                33,
+                "Oh, I\u2019m not going to the funeral."
+            ],
+            [
+                35,
+                "All those people blowing their noses. You can\u2019t tell the sick from the sad. Mm. I\u2019ll be at home celebrating Star Wars Day, as planned."
+            ],
+            [
+                37,
+                "Amy, mourning the inevitable is a complete waste of time."
+            ],
+            [
+                39,
+                "If we were in a physical relationship, you just lost sex tonight."
+            ],
+            [
+                50,
+                "Uh, no, thank you."
+            ],
+            [
+                52,
+                "I\u2019m fine."
+            ],
+            [
+                54,
+                "Oh, I appreciate the offer, but Arthur is gone and there\u2019s nothing I can do about it. When Darth Vader struck down Obi-Wan, did Luke cry like a baby and go to his funeral?"
+            ],
+            [
+                56,
+                "Arthur Jeffries was a scientist. I\u2019m sure he didn\u2019t care about silly superstitions like funerals. You know, if he were here, I think he\u2019d say enjoy Star Wars Day."
+            ],
+            [
+                92,
+                "Howard, I think you of all people should avoid espousing the principle that if something is not our favourite we should just get rid of it."
+            ],
+            [
+                95,
+                "Get rid of the trade route part? Then how would Palpatine get Chancellor Valorum kicked out of office? How would he get himself elected? How? Can we get through one holiday without you saying something ridiculous?"
+            ],
+            [
+                97,
+                "Well, you know what else was just a suggestion? Why don\u2019t we change the Raisin Bran box? Hmm? And you know who got hurt by that? Every single person who eats breakfast."
+            ],
+            [
+                113,
+                "Look at Arthur, cracking up at a joke I told him. I\u2019ll never hear that laugh again."
+            ],
+            [
+                115,
+                "Arthur. I thought you were dead."
+            ],
+            [
+                117,
+                "Why are you here?"
+            ],
+            [
+                119,
+                "I know why. You\u2019ve come to me because you\u2019re my Obi-Wan."
+            ],
+            [
+                121,
+                "Wow. Uh, you\u2019re dead, so I\u2019m going to let that slide. Obi-Wan Kenobi is a character from Star Wars. After his physical demise, he comes to Luke Skywalker as his mentor in spirit form."
+            ],
+            [
+                123,
+                "You must be here to give me advice."
+            ],
+            [
+                125,
+                "Those are your Jedi robes."
+            ],
+            [
+                127,
+                "Be careful with that."
+            ],
+            [
+                183,
+                "This is the swampland of Dagobah. It\u2019s where Luke was trained in the ways of the Jedi."
+            ],
+            [
+                185,
+                "When Obi-Wan came to Luke on this very spot, he gave him all sorts of helpful advice. So, um, what do you got for me?"
+            ],
+            [
+                187,
+                "That\u2019s it? I thought there\u2019d be more of a reason why you\u2019re here."
+            ],
+            [
+                189,
+                "I suppose it has something to do with your recent passing."
+            ],
+            [
+                191,
+                "Oh, no. No. I\u2019ve already had to say good-bye to 11 Dr. Whos."
+            ],
+            [
+                193,
+                "Of course, my grandfather died when I was five. My father died when I was 14."
+            ],
+            [
+                195,
+                "And now you\u2019re gone, too. It\u2019s like all the men I\u2019ve looked up to have gone away."
+            ],
+            [
+                197,
+                "But I do appreciate them."
+            ],
+            [
+                200,
+                "I\u2019m okay. How was the funeral?"
+            ],
+            [
+                202,
+                "I do. After I make them go back and watch one through five first."
+            ],
+            [
+                204,
+                "That\u2019s true. Oh, it\u2019s a good thing I had a nap."
+            ],
+            [
+                212,
+                "Wow. A Death Star cake."
+            ],
+            [
+                218,
+                "You\u2019re back."
+            ],
+            [
+                220,
+                "That\u2019s nice."
+            ],
+            [
+                222,
+                "Why do I need you now?"
+            ],
+            [
+                224,
+                "So?"
+            ],
+            [
+                226,
+                "Not at all."
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "What? That\u2019s a real thing? What is it, Star Wars Christmas?"
+            ],
+            [
+                4,
+                "So, when is it?"
+            ],
+            [
+                9,
+                "Oh, no. This face wasn\u2019t because I didn\u2019t get it."
+            ],
+            [
+                41,
+                "Hey, guys."
+            ],
+            [
+                43,
+                "Okay."
+            ],
+            [
+                45,
+                "No, thanks. Leonard and I are just going to the funeral."
+            ],
+            [
+                48,
+                "Oh, I get it, like C3PO. What happened to me?"
+            ],
+            [
+                53,
+                "Sweetie, are you sure you don\u2019t want to come with us to the funeral?"
+            ],
+            [
+                55,
+                "No, he blew up the Death Star. Why do I know this?"
+            ],
+            [
+                59,
+                "Oh, like Attack of the Clones. We are leaving right now."
+            ],
+            [
+                69,
+                "I have a confession to make."
+            ],
+            [
+                71,
+                "I\u2019ve never been to a funeral before."
+            ],
+            [
+                73,
+                "I just never knew anyone that died. I had a pet pig when I was a kid. I mean, when he died, we didn\u2019t have a funeral, we had a barbecue."
+            ],
+            [
+                75,
+                "I didn\u2019t know him very well, but I still really liked him. It\u2019s weird that he\u2019s just gone."
+            ],
+            [
+                77,
+                "I feel like I want to cry."
+            ],
+            [
+                79,
+                "I can\u2019t do it with you staring at me."
+            ],
+            [
+                81,
+                "No, I\u2019m dry. You\u2019re a big crybaby, you start, I\u2019ll join in."
+            ],
+            [
+                83,
+                "Toy Story 3?"
+            ],
+            [
+                85,
+                "It was a gift. Thank you for being the emotional one in this relationship."
+            ],
+            [
+                87,
+                "Yeah."
+            ],
+            [
+                131,
+                "Well, I don\u2019t want to be a jerk, but it was kind of a bummer."
+            ],
+            [
+                133,
+                "You think about dying?"
+            ],
+            [
+                135,
+                "What would you regret?"
+            ],
+            [
+                137,
+                "You know Klingon."
+            ],
+            [
+                139,
+                "No, I meant that as a regret."
+            ],
+            [
+                141,
+                "What\u2019s that?"
+            ],
+            [
+                143,
+                "Well, it just wasn\u2019t the right time."
+            ],
+            [
+                145,
+                "And this is also not the right time. Do not propose."
+            ],
+            [
+                147,
+                "I know that face. That\u2019s your propose face."
+            ],
+            [
+                149,
+                "What\u2019s two to one?"
+            ],
+            [
+                151,
+                "Oh, my. It\u2019s not a contest."
+            ],
+            [
+                153,
+                "Okay. Fine. Would you feel better if I propose so you could turn me down again?"
+            ],
+            [
+                155,
+                "Okay. Leonard, will you marry me?"
+            ],
+            [
+                157,
+                "No, don\u2019t you dare. You reject me right now and tie things up."
+            ],
+            [
+                173,
+                "This isn\u2019t funny anymore. Just say no so we\u2019re done with this. Will you marry me or not?"
+            ],
+            [
+                175,
+                "No."
+            ],
+            [
+                177,
+                "You know what? Fine. Do whatever you want."
+            ],
+            [
+                179,
+                "Thank you."
+            ],
+            [
+                208,
+                "Yeah, he is pretty stupid."
+            ]
+        ],
+        "Howard": [
+            [
+                3,
+                "No. Don\u2019t be ridiculous. That\u2019s Wookiee Life Day."
+            ],
+            [
+                46,
+                "You sure. Not even coffee? We have R2-Decaf. Maybe a nice Cafe Au Leia?"
+            ],
+            [
+                51,
+                "You\u2019re being so quiet. Are you upset or are you just rebooting?"
+            ],
+            [
+                91,
+                "Since we all agree Episode I isn\u2019t our favourite, maybe we just skip it this time."
+            ],
+            [
+                94,
+                "Okay, so you\u2019d lose most of Jar Jar, all the trade route talk and the boring senate hearings, which are like watching C-SPAN with monsters."
+            ],
+            [
+                99,
+                "I think he\u2019s taking this Professor Proton thing pretty hard."
+            ],
+            [
+                101,
+                "Or should we respect his privacy in this moment of grief?"
+            ],
+            [
+                103,
+                "That\u2019s what good friends would do."
+            ],
+            [
+                105,
+                "Well, at least without Sheldon here, we got to start with Episode IV."
+            ],
+            [
+                107,
+                "Me, too."
+            ],
+            [
+                109,
+                "Yeah."
+            ],
+            [
+                111,
+                "Obviously."
+            ],
+            [
+                206,
+                "Boy, some of the physical comedy with Jar Jar is a little tough to watch."
+            ],
+            [
+                215,
+                "Well, you didn\u2019t miss anything. We just started over."
+            ]
+        ],
+        "Leonard": [
+            [
+                5,
+                "Uh, well, it\u2019s not May the fifth, and it\u2019s not May the third. It\u2019s May the fourth."
+            ],
+            [
+                8,
+                "May the force be with you. Get it?"
+            ],
+            [
+                13,
+                "Hey, you got a second?"
+            ],
+            [
+                15,
+                "Sheldon, I\u2019ve got some bad news."
+            ],
+            [
+                17,
+                "I just read online that Arthur Jeffries passed away."
+            ],
+            [
+                19,
+                "Sorry, buddy."
+            ],
+            [
+                21,
+                "Comforting you?"
+            ],
+            [
+                23,
+                "Anyway, the, the funeral\u2019s on Sunday."
+            ],
+            [
+                25,
+                "Yeah, um, of all the things about this that are sad, that might not be number one. You okay? I know he meant a lot to you."
+            ],
+            [
+                27,
+                "Okay. Yet he cried when they changed the Raisin Bran box."
+            ],
+            [
+                57,
+                "He was 84, he\u2019d say where\u2019s my pudding?"
+            ],
+            [
+                70,
+                "Hmm?"
+            ],
+            [
+                72,
+                "Really?"
+            ],
+            [
+                74,
+                "Yeah, we won\u2019t be eating Arthur tonight."
+            ],
+            [
+                76,
+                "I know."
+            ],
+            [
+                78,
+                "Oh that\u2019s, that\u2019s fine. Go ahead."
+            ],
+            [
+                80,
+                "Sorry."
+            ],
+            [
+                82,
+                "I am not a crybaby."
+            ],
+            [
+                84,
+                "The toys were holding hands in a furnace. Look, Arthur lived a full life. And he inspired a lot of people. Sure, he, he was my childhood hero, but the fact that I got to work with him, side by side, before he died was, it was, it was a gift."
+            ],
+            [
+                86,
+                "I got your back."
+            ],
+            [
+                130,
+                "So, what did you think of your first funeral?"
+            ],
+            [
+                132,
+                "Yeah, well, when I die, you can rent a bounce house."
+            ],
+            [
+                134,
+                "Mm. Well, I think more about if I\u2019d have any regrets."
+            ],
+            [
+                136,
+                "Mm, you know, that I didn\u2019t travel more, take more risks, learn another language."
+            ],
+            [
+                138,
+                "That\u2019s true."
+            ],
+            [
+                140,
+                "I just thought of one more."
+            ],
+            [
+                142,
+                "I regret not saying yes when you asked me to marry you."
+            ],
+            [
+                144,
+                "Yeah."
+            ],
+            [
+                146,
+                "What?"
+            ],
+            [
+                148,
+                "I was not gonna propose. It\u2019s already two to one."
+            ],
+            [
+                150,
+                "I proposed twice, you proposed once. Two to one."
+            ],
+            [
+                152,
+                "I don\u2019t know what you\u2019re upset about. I\u2019m the one who\u2019s losing."
+            ],
+            [
+                154,
+                "Yeah, I think I would."
+            ],
+            [
+                156,
+                "Hmm."
+            ],
+            [
+                158,
+                "It\u2019s just such a big decision. I don\u2019t want to have any regrets."
+            ],
+            [
+                172,
+                "On the one hand, if I say yes\u2026"
+            ],
+            [
+                174,
+                "Ooh, interesting. Did you just propose to me again?"
+            ],
+            [
+                176,
+                "Really? Because I just heard will you marry me? That\u2019s two proposals, one day. Sounds like someone wants to spend the rest of her life telling people how to spell the name Hofstadter."
+            ],
+            [
+                178,
+                "Hey. Penny, don\u2019t get upset. Here. I love you, but, no, I will not marry you."
+            ],
+            [
+                180,
+                "Now, about that second proposal. On the one hand\u2026"
+            ],
+            [
+                199,
+                "Hey, buddy. Heard you\u2019re having a rough day. You all right?"
+            ],
+            [
+                201,
+                "It was nice, you know. A lot of people showed up, told some great stories about him. Did you know that Arthur\u2019s son is a high school sci\u2026? (Sheldon hugs him) Hey, the guys are about to start Jedi. You want to go watch?"
+            ],
+            [
+                203,
+                "Sheldon, that, that\u2019ll take us all night."
+            ],
+            [
+                207,
+                "At least they toned him down in the second one."
+            ]
+        ],
+        "Raj": [
+            [
+                7,
+                "May the fourth be with you?"
+            ],
+            [
+                42,
+                "Hey, Penny. Happy Star Wars Day."
+            ],
+            [
+                44,
+                "Can I make you breakfast? Admiral Ackbar\u2019s Snack Bar is open for business."
+            ],
+            [
+                47,
+                "And if you\u2019re not in the mood for coffee I can always make you a Chai Tea-3PO."
+            ],
+            [
+                49,
+                "Hey, uh, Sheldon, you want anything?"
+            ],
+            [
+                58,
+                "Before you go, at least let me pack you some Attack of the Scones for the road."
+            ],
+            [
+                90,
+                "Ugh, let\u2019s get this over with."
+            ],
+            [
+                93,
+                "You know, I heard of this way of watching the movies called the Machete Order, where you watch Episodes IV and V, then skip Episode I, watch II and III as a flashback, and then finish with VI."
+            ],
+            [
+                96,
+                "It was just a suggestion."
+            ],
+            [
+                98,
+                "Wow."
+            ],
+            [
+                100,
+                "Should we try to console him?"
+            ],
+            [
+                102,
+                "By staying here and watching the movie."
+            ],
+            [
+                106,
+                "Mm, true. I do feel guilty about him."
+            ],
+            [
+                108,
+                "Maybe we should see how he\u2019s doing."
+            ],
+            [
+                110,
+                "But after the cantina scene."
+            ],
+            [
+                209,
+                "Hey, we can say it. You can\u2019t."
+            ]
+        ],
+        "Amy": [
+            [
+                30,
+                "Watching your old friend?"
+            ],
+            [
+                32,
+                "Do you want me to go to the funeral with you?"
+            ],
+            [
+                34,
+                "Why not?"
+            ],
+            [
+                36,
+                "Are you sure you don\u2019t want to go say good-bye?"
+            ],
+            [
+                38,
+                "And watching a bunch of goofy space movies you\u2019ve seen hundreds of times isn\u2019t?"
+            ],
+            [
+                61,
+                "Arthur passing away was harder on Sheldon than he\u2019s ready to admit. Really hoping this will cheer him up."
+            ],
+            [
+                63,
+                "No, it combines two of Sheldon\u2019s favorite things, chocolate chips and the ability to destroy a planet at the push of a button."
+            ],
+            [
+                65,
+                "Okay, let\u2019s get the fondant and start decorating."
+            ],
+            [
+                67,
+                "I wonder why that is."
+            ],
+            [
+                160,
+                "Did you ever watch Professor Proton when you were a kid?"
+            ],
+            [
+                162,
+                "I never watched him, either, but he seems to be the reason that Sheldon got interested in science."
+            ],
+            [
+                164,
+                "That\u2019s cute."
+            ],
+            [
+                166,
+                "Oh, I guess it must have been back when I was in the Girl Sprouts."
+            ],
+            [
+                168,
+                "My mom made it up as an alternative to the Girl Scouts. She didn\u2019t want me selling cookies on some street corner like a whore."
+            ],
+            [
+                170,
+                "Oh, I went to the library and took out a book on biology to see what whores did."
+            ],
+            [
+                210,
+                "Hey, guys."
+            ],
+            [
+                213,
+                "Yeah. We were hoping it might cheer you up."
+            ]
+        ],
+        "Bernadette": [
+            [
+                62,
+                "Me, too. Although, it might\u2019ve been thoughtless of us to bake a Death Star cake."
+            ],
+            [
+                64,
+                "Well, anyway, it\u2019ll be a nice surprise for the boys. And Howie doesn\u2019t think I take his interests seriously, so hopefully this will keep him fooled for a while."
+            ],
+            [
+                66,
+                "This is pretty cool. You don\u2019t see too many spherical cakes."
+            ],
+            [
+                161,
+                "No. My dad controlled the TV, so unless someone was a Texas Ranger, Jake or the Fatman, we didn\u2019t see it."
+            ],
+            [
+                163,
+                "Not me. I got into science \u2019cause I was always the smallest kid in school, so I thought if I became a scientist, I could invent a formula that made me taller."
+            ],
+            [
+                165,
+                "Yeah, I thought it was working for a while, but then I found out my brother was just lowering the pencil marks on the door frame. How about you?"
+            ],
+            [
+                167,
+                "Girl Sprouts?"
+            ],
+            [
+                169,
+                "How did that get you into science?"
+            ],
+            [
+                211,
+                "Happy Star Wars Day."
+            ],
+            [
+                214,
+                "And even though it meant we had to miss the movies, we could still be part of the fun."
+            ],
+            [
+                216,
+                "Son of a bitch."
+            ]
+        ],
+        "Sheldon: Okay, here we go. Episode I": [
+            [
+                89,
+                "The Phantom Menace."
+            ]
+        ],
+        "Arthur": [
+            [
+                114,
+                "You never heard it that time."
+            ],
+            [
+                116,
+                "I am. Oh, it, it\u2019s fantastic. I mean this, this is the longest that I\u2019ve gone without running into a men\u2019s room in, in, in years."
+            ],
+            [
+                118,
+                "I don\u2019t know. I was, I was hoping I was going to haunt my ex-wife."
+            ],
+            [
+                120,
+                "I\u2019m, I\u2019m not, I\u2019m not familiar with that. Is, is, is that an, an Internet?"
+            ],
+            [
+                122,
+                "Well, that, that clears that up."
+            ],
+            [
+                124,
+                "Well, this, this is weird. Most, most of my robes open in, in the back."
+            ],
+            [
+                126,
+                "Oh, wait. What, what, what is, what is this?"
+            ],
+            [
+                128,
+                "Oh. Oh. Oh, neato. I\u2019m, uh, I\u2019m going to need a Band-Aid."
+            ],
+            [
+                182,
+                "Where, where, where are we?"
+            ],
+            [
+                184,
+                "Oh. Too bad. I thought it was Florida."
+            ],
+            [
+                186,
+                "Um, always, get, get a prenup."
+            ],
+            [
+                188,
+                "Well, why, why do you think I\u2019m here?"
+            ],
+            [
+                190,
+                "Is, is this the, the first time you\u2019ve lost, you know, someone close to you?"
+            ],
+            [
+                192,
+                "Yeah, I\u2019ve, I\u2019ve outlived a few of my doctors, too."
+            ],
+            [
+                194,
+                "I\u2019m, I\u2019m sorry about that."
+            ],
+            [
+                196,
+                "Well, you know, it\u2019s, it\u2019s okay to, to be sad about them. Just, just make sure, you know, you appreciate those who, who are still there for you."
+            ],
+            [
+                198,
+                "Well, then, what am I doing in a swamp dressed like Friar Tuck? Appreciate them, Sheldon. (Sheldon is woken up by a knocking on his bedroom door.)"
+            ],
+            [
+                219,
+                "Yeah, apparently, um, I\u2019m here whenever, when, whenever you need me."
+            ],
+            [
+                221,
+                "May, maybe for you."
+            ],
+            [
+                223,
+                "Well, as near as I could tell, you, you fell asleep watching Star Wars, and now you\u2019re, you\u2019re dreaming you\u2019re watching Star Wars."
+            ],
+            [
+                225,
+                "I mean, don\u2019t, don\u2019t you see a problem there? I mean, how, how you\u2019re spending your limited time on Earth?"
+            ],
+            [
+                227,
+                "Okay, good luck to you."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, Star Wars Day is rapidly approaching. We should finalize our plans."
+        ],
+        [
+            "Penny",
+            "What? That\u2019s a real thing? What is it, Star Wars Christmas?"
+        ],
+        [
+            "Howard",
+            "No. Don\u2019t be ridiculous. That\u2019s Wookiee Life Day."
+        ],
+        [
+            "Penny",
+            "So, when is it?"
+        ],
+        [
+            "Leonard",
+            "Uh, well, it\u2019s not May the fifth, and it\u2019s not May the third. It\u2019s May the fourth."
+        ],
+        [
+            "Sheldon",
+            "Get it?"
+        ],
+        [
+            "Raj",
+            "May the fourth be with you?"
+        ],
+        [
+            "Leonard",
+            "May the force be with you. Get it?"
+        ],
+        [
+            "Penny",
+            "Oh, no. This face wasn\u2019t because I didn\u2019t get it."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s bedroom. There is a knock on the door."
+        ],
+        [
+            "Sheldon",
+            "Come in."
+        ],
+        [
+            "Leonard",
+            "Hey, you got a second?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Actually, I\u2019m glad you\u2019re here. I\u2019m working on the Star Wars Day schedule. Now, I have a window built in after Phantom Menace for complaining, but I\u2019m worried an hour won\u2019t be enough time."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I\u2019ve got some bad news."
+        ],
+        [
+            "Sheldon",
+            "What is it?"
+        ],
+        [
+            "Leonard",
+            "I just read online that Arthur Jeffries passed away."
+        ],
+        [
+            "Sheldon",
+            "Professor Proton is dead?"
+        ],
+        [
+            "Leonard",
+            "Sorry, buddy."
+        ],
+        [
+            "Sheldon",
+            "What are you doing?"
+        ],
+        [
+            "Leonard",
+            "Comforting you?"
+        ],
+        [
+            "Sheldon",
+            "Your heart might be in the right place, but your head, chest and arms certainly aren\u2019t."
+        ],
+        [
+            "Leonard",
+            "Anyway, the, the funeral\u2019s on Sunday."
+        ],
+        [
+            "Sheldon",
+            "But, that\u2019s Star Wars Day."
+        ],
+        [
+            "Leonard",
+            "Yeah, um, of all the things about this that are sad, that might not be number one. You okay? I know he meant a lot to you."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m fine."
+        ],
+        [
+            "Leonard",
+            "Okay. Yet he cried when they changed the Raisin Bran box."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "Watching your old friend?"
+        ],
+        [
+            "Sheldon",
+            "Hmm. Yes. Look at him, Amy. It\u2019s such a shame. Struck down in the prime of my life."
+        ],
+        [
+            "Amy",
+            "Do you want me to go to the funeral with you?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m not going to the funeral."
+        ],
+        [
+            "Amy",
+            "Why not?"
+        ],
+        [
+            "Sheldon",
+            "All those people blowing their noses. You can\u2019t tell the sick from the sad. Mm. I\u2019ll be at home celebrating Star Wars Day, as planned."
+        ],
+        [
+            "Amy",
+            "Are you sure you don\u2019t want to go say good-bye?"
+        ],
+        [
+            "Sheldon",
+            "Amy, mourning the inevitable is a complete waste of time."
+        ],
+        [
+            "Amy",
+            "And watching a bunch of goofy space movies you\u2019ve seen hundreds of times isn\u2019t?"
+        ],
+        [
+            "Sheldon",
+            "If we were in a physical relationship, you just lost sex tonight."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Hey, guys."
+        ],
+        [
+            "Raj",
+            "Hey, Penny. Happy Star Wars Day."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Raj",
+            "Can I make you breakfast? Admiral Ackbar\u2019s Snack Bar is open for business."
+        ],
+        [
+            "Penny",
+            "No, thanks. Leonard and I are just going to the funeral."
+        ],
+        [
+            "Howard",
+            "You sure. Not even coffee? We have R2-Decaf. Maybe a nice Cafe Au Leia?"
+        ],
+        [
+            "Raj",
+            "And if you\u2019re not in the mood for coffee I can always make you a Chai Tea-3PO."
+        ],
+        [
+            "Penny",
+            "Oh, I get it, like C3PO. What happened to me?"
+        ],
+        [
+            "Raj",
+            "Hey, uh, Sheldon, you want anything?"
+        ],
+        [
+            "Sheldon",
+            "Uh, no, thank you."
+        ],
+        [
+            "Howard",
+            "You\u2019re being so quiet. Are you upset or are you just rebooting?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m fine."
+        ],
+        [
+            "Penny",
+            "Sweetie, are you sure you don\u2019t want to come with us to the funeral?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I appreciate the offer, but Arthur is gone and there\u2019s nothing I can do about it. When Darth Vader struck down Obi-Wan, did Luke cry like a baby and go to his funeral?"
+        ],
+        [
+            "Penny",
+            "No, he blew up the Death Star. Why do I know this?"
+        ],
+        [
+            "Sheldon",
+            "Arthur Jeffries was a scientist. I\u2019m sure he didn\u2019t care about silly superstitions like funerals. You know, if he were here, I think he\u2019d say enjoy Star Wars Day."
+        ],
+        [
+            "Leonard",
+            "He was 84, he\u2019d say where\u2019s my pudding?"
+        ],
+        [
+            "Raj",
+            "Before you go, at least let me pack you some Attack of the Scones for the road."
+        ],
+        [
+            "Penny",
+            "Oh, like Attack of the Clones. We are leaving right now."
+        ],
+        [
+            "Scene",
+            "Amy\u201ds apartment. "
+        ],
+        [
+            "Amy",
+            "Arthur passing away was harder on Sheldon than he\u2019s ready to admit. Really hoping this will cheer him up."
+        ],
+        [
+            "Bernadette",
+            "Me, too. Although, it might\u2019ve been thoughtless of us to bake a Death Star cake."
+        ],
+        [
+            "Amy",
+            "No, it combines two of Sheldon\u2019s favorite things, chocolate chips and the ability to destroy a planet at the push of a button."
+        ],
+        [
+            "Bernadette",
+            "Well, anyway, it\u2019ll be a nice surprise for the boys. And Howie doesn\u2019t think I take his interests seriously, so hopefully this will keep him fooled for a while."
+        ],
+        [
+            "Amy",
+            "Okay, let\u2019s get the fondant and start decorating."
+        ],
+        [
+            "Bernadette",
+            "This is pretty cool. You don\u2019t see too many spherical cakes."
+        ],
+        [
+            "Amy",
+            "I wonder why that is."
+        ],
+        [
+            "Scene",
+            "The funeral."
+        ],
+        [
+            "Penny",
+            "I have a confession to make."
+        ],
+        [
+            "Leonard",
+            "Hmm?"
+        ],
+        [
+            "Penny",
+            "I\u2019ve never been to a funeral before."
+        ],
+        [
+            "Leonard",
+            "Really?"
+        ],
+        [
+            "Penny",
+            "I just never knew anyone that died. I had a pet pig when I was a kid. I mean, when he died, we didn\u2019t have a funeral, we had a barbecue."
+        ],
+        [
+            "Leonard",
+            "Yeah, we won\u2019t be eating Arthur tonight."
+        ],
+        [
+            "Penny",
+            "I didn\u2019t know him very well, but I still really liked him. It\u2019s weird that he\u2019s just gone."
+        ],
+        [
+            "Leonard",
+            "I know."
+        ],
+        [
+            "Penny",
+            "I feel like I want to cry."
+        ],
+        [
+            "Leonard",
+            "Oh that\u2019s, that\u2019s fine. Go ahead."
+        ],
+        [
+            "Penny",
+            "I can\u2019t do it with you staring at me."
+        ],
+        [
+            "Leonard",
+            "Sorry."
+        ],
+        [
+            "Penny",
+            "No, I\u2019m dry. You\u2019re a big crybaby, you start, I\u2019ll join in."
+        ],
+        [
+            "Leonard",
+            "I am not a crybaby."
+        ],
+        [
+            "Penny",
+            "Toy Story 3?"
+        ],
+        [
+            "Leonard",
+            "The toys were holding hands in a furnace. Look, Arthur lived a full life. And he inspired a lot of people. Sure, he, he was my childhood hero, but the fact that I got to work with him, side by side, before he died was, it was, it was a gift."
+        ],
+        [
+            "Penny",
+            "It was a gift. Thank you for being the emotional one in this relationship."
+        ],
+        [
+            "Leonard",
+            "I got your back."
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon: Okay, here we go. Episode I",
+            "The Phantom Menace."
+        ],
+        [
+            "Raj",
+            "Ugh, let\u2019s get this over with."
+        ],
+        [
+            "Howard",
+            "Since we all agree Episode I isn\u2019t our favourite, maybe we just skip it this time."
+        ],
+        [
+            "Sheldon",
+            "Howard, I think you of all people should avoid espousing the principle that if something is not our favourite we should just get rid of it."
+        ],
+        [
+            "Raj",
+            "You know, I heard of this way of watching the movies called the Machete Order, where you watch Episodes IV and V, then skip Episode I, watch II and III as a flashback, and then finish with VI."
+        ],
+        [
+            "Howard",
+            "Okay, so you\u2019d lose most of Jar Jar, all the trade route talk and the boring senate hearings, which are like watching C-SPAN with monsters."
+        ],
+        [
+            "Sheldon",
+            "Get rid of the trade route part? Then how would Palpatine get Chancellor Valorum kicked out of office? How would he get himself elected? How? Can we get through one holiday without you saying something ridiculous?"
+        ],
+        [
+            "Raj",
+            "It was just a suggestion."
+        ],
+        [
+            "Sheldon",
+            "Well, you know what else was just a suggestion? Why don\u2019t we change the Raisin Bran box? Hmm? And you know who got hurt by that? Every single person who eats breakfast."
+        ],
+        [
+            "Raj",
+            "Wow."
+        ],
+        [
+            "Howard",
+            "I think he\u2019s taking this Professor Proton thing pretty hard."
+        ],
+        [
+            "Raj",
+            "Should we try to console him?"
+        ],
+        [
+            "Howard",
+            "Or should we respect his privacy in this moment of grief?"
+        ],
+        [
+            "Raj",
+            "By staying here and watching the movie."
+        ],
+        [
+            "Howard",
+            "That\u2019s what good friends would do."
+        ],
+        [
+            "Scene",
+            "Later."
+        ],
+        [
+            "Howard",
+            "Well, at least without Sheldon here, we got to start with Episode IV."
+        ],
+        [
+            "Raj",
+            "Mm, true. I do feel guilty about him."
+        ],
+        [
+            "Howard",
+            "Me, too."
+        ],
+        [
+            "Raj",
+            "Maybe we should see how he\u2019s doing."
+        ],
+        [
+            "Howard",
+            "Yeah."
+        ],
+        [
+            "Raj",
+            "But after the cantina scene."
+        ],
+        [
+            "Howard",
+            "Obviously."
+        ],
+        [
+            "Scene",
+            "Sheldon, dreaming he is in the living room of the apartment on his laptop."
+        ],
+        [
+            "Sheldon",
+            "Look at Arthur, cracking up at a joke I told him. I\u2019ll never hear that laugh again."
+        ],
+        [
+            "Arthur",
+            "You never heard it that time."
+        ],
+        [
+            "Sheldon",
+            "Arthur. I thought you were dead."
+        ],
+        [
+            "Arthur",
+            "I am. Oh, it, it\u2019s fantastic. I mean this, this is the longest that I\u2019ve gone without running into a men\u2019s room in, in, in years."
+        ],
+        [
+            "Sheldon",
+            "Why are you here?"
+        ],
+        [
+            "Arthur",
+            "I don\u2019t know. I was, I was hoping I was going to haunt my ex-wife."
+        ],
+        [
+            "Sheldon",
+            "I know why. You\u2019ve come to me because you\u2019re my Obi-Wan."
+        ],
+        [
+            "Arthur",
+            "I\u2019m, I\u2019m not, I\u2019m not familiar with that. Is, is, is that an, an Internet?"
+        ],
+        [
+            "Sheldon",
+            "Wow. Uh, you\u2019re dead, so I\u2019m going to let that slide. Obi-Wan Kenobi is a character from Star Wars. After his physical demise, he comes to Luke Skywalker as his mentor in spirit form."
+        ],
+        [
+            "Arthur",
+            "Well, that, that clears that up."
+        ],
+        [
+            "Sheldon",
+            "You must be here to give me advice."
+        ],
+        [
+            "Arthur",
+            "Well, this, this is weird. Most, most of my robes open in, in the back."
+        ],
+        [
+            "Sheldon",
+            "Those are your Jedi robes."
+        ],
+        [
+            "Arthur",
+            "Oh, wait. What, what, what is, what is this?"
+        ],
+        [
+            "Sheldon",
+            "Be careful with that."
+        ],
+        [
+            "Arthur",
+            "Oh. Oh. Oh, neato. I\u2019m, uh, I\u2019m going to need a Band-Aid."
+        ],
+        [
+            "Scene",
+            "The funeral."
+        ],
+        [
+            "Leonard",
+            "So, what did you think of your first funeral?"
+        ],
+        [
+            "Penny",
+            "Well, I don\u2019t want to be a jerk, but it was kind of a bummer."
+        ],
+        [
+            "Leonard",
+            "Yeah, well, when I die, you can rent a bounce house."
+        ],
+        [
+            "Penny",
+            "You think about dying?"
+        ],
+        [
+            "Leonard",
+            "Mm. Well, I think more about if I\u2019d have any regrets."
+        ],
+        [
+            "Penny",
+            "What would you regret?"
+        ],
+        [
+            "Leonard",
+            "Mm, you know, that I didn\u2019t travel more, take more risks, learn another language."
+        ],
+        [
+            "Penny",
+            "You know Klingon."
+        ],
+        [
+            "Leonard",
+            "That\u2019s true."
+        ],
+        [
+            "Penny",
+            "No, I meant that as a regret."
+        ],
+        [
+            "Leonard",
+            "I just thought of one more."
+        ],
+        [
+            "Penny",
+            "What\u2019s that?"
+        ],
+        [
+            "Leonard",
+            "I regret not saying yes when you asked me to marry you."
+        ],
+        [
+            "Penny",
+            "Well, it just wasn\u2019t the right time."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Penny",
+            "And this is also not the right time. Do not propose."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Penny",
+            "I know that face. That\u2019s your propose face."
+        ],
+        [
+            "Leonard",
+            "I was not gonna propose. It\u2019s already two to one."
+        ],
+        [
+            "Penny",
+            "What\u2019s two to one?"
+        ],
+        [
+            "Leonard",
+            "I proposed twice, you proposed once. Two to one."
+        ],
+        [
+            "Penny",
+            "Oh, my. It\u2019s not a contest."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know what you\u2019re upset about. I\u2019m the one who\u2019s losing."
+        ],
+        [
+            "Penny",
+            "Okay. Fine. Would you feel better if I propose so you could turn me down again?"
+        ],
+        [
+            "Leonard",
+            "Yeah, I think I would."
+        ],
+        [
+            "Penny",
+            "Okay. Leonard, will you marry me?"
+        ],
+        [
+            "Leonard",
+            "Hmm."
+        ],
+        [
+            "Penny",
+            "No, don\u2019t you dare. You reject me right now and tie things up."
+        ],
+        [
+            "Leonard",
+            "It\u2019s just such a big decision. I don\u2019t want to have any regrets."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "Did you ever watch Professor Proton when you were a kid?"
+        ],
+        [
+            "Bernadette",
+            "No. My dad controlled the TV, so unless someone was a Texas Ranger, Jake or the Fatman, we didn\u2019t see it."
+        ],
+        [
+            "Amy",
+            "I never watched him, either, but he seems to be the reason that Sheldon got interested in science."
+        ],
+        [
+            "Bernadette",
+            "Not me. I got into science \u2019cause I was always the smallest kid in school, so I thought if I became a scientist, I could invent a formula that made me taller."
+        ],
+        [
+            "Amy",
+            "That\u2019s cute."
+        ],
+        [
+            "Bernadette",
+            "Yeah, I thought it was working for a while, but then I found out my brother was just lowering the pencil marks on the door frame. How about you?"
+        ],
+        [
+            "Amy",
+            "Oh, I guess it must have been back when I was in the Girl Sprouts."
+        ],
+        [
+            "Bernadette",
+            "Girl Sprouts?"
+        ],
+        [
+            "Amy",
+            "My mom made it up as an alternative to the Girl Scouts. She didn\u2019t want me selling cookies on some street corner like a whore."
+        ],
+        [
+            "Bernadette",
+            "How did that get you into science?"
+        ],
+        [
+            "Amy",
+            "Oh, I went to the library and took out a book on biology to see what whores did."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Leonard",
+            "On the one hand, if I say yes\u2026"
+        ],
+        [
+            "Penny",
+            "This isn\u2019t funny anymore. Just say no so we\u2019re done with this. Will you marry me or not?"
+        ],
+        [
+            "Leonard",
+            "Ooh, interesting. Did you just propose to me again?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Leonard",
+            "Really? Because I just heard will you marry me? That\u2019s two proposals, one day. Sounds like someone wants to spend the rest of her life telling people how to spell the name Hofstadter."
+        ],
+        [
+            "Penny",
+            "You know what? Fine. Do whatever you want."
+        ],
+        [
+            "Leonard",
+            "Hey. Penny, don\u2019t get upset. Here. I love you, but, no, I will not marry you."
+        ],
+        [
+            "Penny",
+            "Thank you."
+        ],
+        [
+            "Leonard",
+            "Now, about that second proposal. On the one hand\u2026"
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s dream."
+        ],
+        [
+            "Arthur",
+            "Where, where, where are we?"
+        ],
+        [
+            "Sheldon",
+            "This is the swampland of Dagobah. It\u2019s where Luke was trained in the ways of the Jedi."
+        ],
+        [
+            "Arthur",
+            "Oh. Too bad. I thought it was Florida."
+        ],
+        [
+            "Sheldon",
+            "When Obi-Wan came to Luke on this very spot, he gave him all sorts of helpful advice. So, um, what do you got for me?"
+        ],
+        [
+            "Arthur",
+            "Um, always, get, get a prenup."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s it? I thought there\u2019d be more of a reason why you\u2019re here."
+        ],
+        [
+            "Arthur",
+            "Well, why, why do you think I\u2019m here?"
+        ],
+        [
+            "Sheldon",
+            "I suppose it has something to do with your recent passing."
+        ],
+        [
+            "Arthur",
+            "Is, is this the, the first time you\u2019ve lost, you know, someone close to you?"
+        ],
+        [
+            "Sheldon",
+            "Oh, no. No. I\u2019ve already had to say good-bye to 11 Dr. Whos."
+        ],
+        [
+            "Arthur",
+            "Yeah, I\u2019ve, I\u2019ve outlived a few of my doctors, too."
+        ],
+        [
+            "Sheldon",
+            "Of course, my grandfather died when I was five. My father died when I was 14."
+        ],
+        [
+            "Arthur",
+            "I\u2019m, I\u2019m sorry about that."
+        ],
+        [
+            "Sheldon",
+            "And now you\u2019re gone, too. It\u2019s like all the men I\u2019ve looked up to have gone away."
+        ],
+        [
+            "Arthur",
+            "Well, you know, it\u2019s, it\u2019s okay to, to be sad about them. Just, just make sure, you know, you appreciate those who, who are still there for you."
+        ],
+        [
+            "Sheldon",
+            "But I do appreciate them."
+        ],
+        [
+            "Arthur",
+            "Well, then, what am I doing in a swamp dressed like Friar Tuck? Appreciate them, Sheldon. (Sheldon is woken up by a knocking on his bedroom door.)"
+        ],
+        [
+            "Leonard",
+            "Hey, buddy. Heard you\u2019re having a rough day. You all right?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m okay. How was the funeral?"
+        ],
+        [
+            "Leonard",
+            "It was nice, you know. A lot of people showed up, told some great stories about him. Did you know that Arthur\u2019s son is a high school sci\u2026? (Sheldon hugs him) Hey, the guys are about to start Jedi. You want to go watch?"
+        ],
+        [
+            "Sheldon",
+            "I do. After I make them go back and watch one through five first."
+        ],
+        [
+            "Leonard",
+            "Sheldon, that, that\u2019ll take us all night."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s true. Oh, it\u2019s a good thing I had a nap."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Howard",
+            "Boy, some of the physical comedy with Jar Jar is a little tough to watch."
+        ],
+        [
+            "Leonard",
+            "At least they toned him down in the second one."
+        ],
+        [
+            "Penny",
+            "Yeah, he is pretty stupid."
+        ],
+        [
+            "Raj",
+            "Hey, we can say it. You can\u2019t."
+        ],
+        [
+            "Amy",
+            "Hey, guys."
+        ],
+        [
+            "Bernadette",
+            "Happy Star Wars Day."
+        ],
+        [
+            "Sheldon",
+            "Wow. A Death Star cake."
+        ],
+        [
+            "Amy",
+            "Yeah. We were hoping it might cheer you up."
+        ],
+        [
+            "Bernadette",
+            "And even though it meant we had to miss the movies, we could still be part of the fun."
+        ],
+        [
+            "Howard",
+            "Well, you didn\u2019t miss anything. We just started over."
+        ],
+        [
+            "Bernadette",
+            "Son of a bitch."
+        ],
+        [
+            "Scene",
+            "The same, everyone is falling asleep."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re back."
+        ],
+        [
+            "Arthur",
+            "Yeah, apparently, um, I\u2019m here whenever, when, whenever you need me."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s nice."
+        ],
+        [
+            "Arthur",
+            "May, maybe for you."
+        ],
+        [
+            "Sheldon",
+            "Why do I need you now?"
+        ],
+        [
+            "Arthur",
+            "Well, as near as I could tell, you, you fell asleep watching Star Wars, and now you\u2019re, you\u2019re dreaming you\u2019re watching Star Wars."
+        ],
+        [
+            "Sheldon",
+            "So?"
+        ],
+        [
+            "Arthur",
+            "I mean, don\u2019t, don\u2019t you see a problem there? I mean, how, how you\u2019re spending your limited time on Earth?"
+        ],
+        [
+            "Sheldon",
+            "Not at all."
+        ],
+        [
+            "Arthur",
+            "Okay, good luck to you."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-22-the-proton-transmogrification/"
+}

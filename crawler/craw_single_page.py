@@ -9,19 +9,106 @@ import re
 
 url = 'https://bigbangtheory.fandom.com/wiki/Transcripts/'
 
-def clean_me(html):
-    soup = BeautifulSoup(html)
-    for s in soup(['script', 'style']):
-        s.decompose()
-    return ' '.join(soup.stripped_strings)
-
 class Crawler():
     
     def __init__(self):
         pass
         # self.base_url = base_url
 
-    def craw_page(self, url, season, title):
+    def matching(self, content):
+
+        actor_line_regex = r"^(.+)[:;][ ]?(.+)"
+
+        match = re.findall(actor_line_regex, content)
+                
+        if len(match) == 1: # found perfect match
+            actor, line = match[0]
+        elif len(match) == 0: # no match found
+            actor = "Scene"
+            line = content.strip()
+        else:
+            print("ERROR!")
+            exit(1)
+        
+        return actor, line
+
+    def craw_page_wordpress(self, url, season, episode, title, save_file=True):
+        r = requests.get(url)
+        r.encoding = r.apparent_encoding
+        html = r.text
+        soup = BeautifulSoup(html, 'html.parser')
+
+        transcript_dict = {
+            'Season': season,
+            'Episode': episode,
+            'Title': ' '.join(title.split('-')),
+            'Actor2Line': dict(list()),
+            'AllLines': list(),
+            'url': url,
+        }
+
+        cleaned = []
+
+        for p in soup.find_all('p'):
+
+            if p.em is not None: # remove any useless em tags
+                str_p = str(p)
+                str_p = str_p.replace("<em>", "")
+                str_p = str_p.replace("</em>", "")
+                p = BeautifulSoup(str_p, 'html.parser')
+
+            if p.i is not None: # remove any useless i tags
+                str_p = str(p)
+                str_p = str_p.replace("<i>", "")
+                str_p = str_p.replace("</i>", "")
+                p = BeautifulSoup(str_p, 'html.parser')
+
+            if p.string is not None: # directly extractable
+
+                cleaned.append(p.string)
+
+            elif p.span is not None: # most annoying case, use .text attribute to get 
+
+                for content in p.span.text.strip().split('\n'):
+
+                    if content.strip() == "":
+                        continue
+
+                    cleaned.append(content)
+
+            else: # no string or em
+                print("WARNING: Give up ", p)
+                continue
+
+        for line_idx, content in enumerate(cleaned):
+            
+            actor, line = self.matching(content)
+
+            if actor == "Scene":
+                if line.strip() != "":
+                    if line == ':': # remove redundancy
+                        continue
+                    print(f"* scene[ {line} ]")
+                else:
+                    continue
+
+            if actor not in transcript_dict['Actor2Line']:
+                transcript_dict['Actor2Line'][actor] = [(line_idx, line)]
+            else:
+                transcript_dict['Actor2Line'][actor].append((line_idx, line))
+
+            transcript_dict['AllLines'].append((actor, line))
+
+        if save_file:
+            save_path = os.path.join('transcripts', 'season'+str(season), str(episode)+'-'+title+'.json')
+            os.makedirs(os.path.dirname(save_path), exist_ok=True)
+
+            with open(save_path, 'w+') as fout:
+                json.dump(transcript_dict, fout, indent=4)
+
+        return transcript_dict
+
+    def craw_page_fandom(self, url, season, title):
 
         # page_name = os.path.basename(url)
         r = requests.get(url)
@@ -105,4 +192,29 @@ class Crawler():
 
 if __name__ == '__main__':
     crawler = Crawler()
-    crawler.craw_page(url+'The Cooper-Nowitzki Theorem', 2, 'The Cooper-Nowitzki Theorem')
+    url = 'https://bigbangtrans.wordpress.com/series-9-episode-06-the-helium-insufficiency/'
+    crawler.craw_page_wordpress(url, 0, 0, 'junk')
+
+
+# elif p.em is not None:
+            #     if p.em.string is not None:
+            #         actor = "Scene"
+            #         line = p.em.string
+            #     else:
+            #         #print(p.contents)
+            #         
+            #         #content = str(p)
+            #         #content.replace(" ", "")
+            #         #content.replace("\n", "")
+            #         #content.replace("\t", "")
+            #         #print(content,'\n')
+            #         ##for item in p.span:
+            #         #    #print(type(item))
+            #         ##    print("@", item.string)
+            #         #for known_name in transcript_dict.keys():
+            #         #    regex = ">"+known_name+":(.+)</span"
+            #         #    match = re.findall(regex, content)
+            #         #    print('@',match,'\n')
+            #         print("WARNING: Give up ", p)
+            #         #    print()
+            #         continue

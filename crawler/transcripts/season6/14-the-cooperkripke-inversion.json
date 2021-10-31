@@ -1,0 +1,1768 @@
+{
+    "Season": 6,
+    "Episode": 14,
+    "Title": "the cooperkripke inversion",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The Apartment."
+            ],
+            [
+                19,
+                "Credits sequence."
+            ],
+            [
+                20,
+                "Sheldon\u2019s office."
+            ],
+            [
+                30,
+                "Howard\u2019s lab."
+            ],
+            [
+                44,
+                "The stairwell."
+            ],
+            [
+                64,
+                "Sheldon\u2019s office."
+            ],
+            [
+                81,
+                "Howard\u2019s lab."
+            ],
+            [
+                99,
+                "The apartment."
+            ],
+            [
+                110,
+                "The apartment."
+            ],
+            [
+                124,
+                "Howard\u2019s lab."
+            ],
+            [
+                136,
+                "Sheldon\u2019s office."
+            ],
+            [
+                149,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                170,
+                "The apartment."
+            ],
+            [
+                195,
+                "The cafeteria."
+            ],
+            [
+                202,
+                "Sheldon\u2019s office."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Sheldon, your food\u2019s getting cold."
+            ],
+            [
+                8,
+                "Oh, this is neat. Think about all the action figures we\u2019ve bought over the years. It would be kind of cool to have ones that look like us. Don\u2019t you think?"
+            ],
+            [
+                10,
+                "Yeah, so, I\u2019m out."
+            ],
+            [
+                15,
+                "You get that these are personalised action figures."
+            ],
+            [
+                18,
+                "Yep."
+            ],
+            [
+                31,
+                "Hmm. Kind of a strange place to put a picture of you and Bernadette."
+            ],
+            [
+                34,
+                "A thousand dollars on action figures? How can you afford that?"
+            ],
+            [
+                38,
+                "Maybe it\u2019s a shipping problem."
+            ],
+            [
+                40,
+                "Yeah. Maybe Wesley Snipes and Toucan Sam just got action figures that look like you guys."
+            ],
+            [
+                43,
+                "Aw, and my girlfriend wouldn\u2019t let me get one. Look at my face. Do I look smug? I feel smug."
+            ],
+            [
+                46,
+                "Well, sometimes there\u2019s a secret ending, like in The Avengers."
+            ],
+            [
+                48,
+                "They could show bloopers. Oh, no."
+            ],
+            [
+                50,
+                "That is Sheldon\u2019s \u201cI\u2019m unhappy and about to destroy the planet\u201d music. Come on, let\u2019s just go to your place."
+            ],
+            [
+                52,
+                "Shouldn\u2019t we talk to him? Have you learned nothing in six years?"
+            ],
+            [
+                55,
+                "Want me to make you some tea?"
+            ],
+            [
+                57,
+                "So, cocoa?"
+            ],
+            [
+                59,
+                "Oh, teacher! Me! Me!"
+            ],
+            [
+                62,
+                "Oh, no, no, no, I know this. Uh, hot apple cider with cinnamon sticks?"
+            ],
+            [
+                111,
+                "Come on, Sheldon, we\u2019re going to be late."
+            ],
+            [
+                113,
+                "You\u2019re not sick. You just don\u2019t want to face Kripke."
+            ],
+            [
+                115,
+                "128."
+            ],
+            [
+                117,
+                "What did you do, put this in your tea?"
+            ],
+            [
+                119,
+                "Sheldon, Kripke\u2019s not smarter than you. You just got stuck on a wrong path. Happened to Einstein. He got stuck on the unified field theory for decades."
+            ],
+            [
+                121,
+                "Sheldon Lee Cooper, I do not have time for this nonsense. Now, go put your clothes on, get in the car, and lets go to work."
+            ],
+            [
+                123,
+                "How did I do that? I got to remember how I did that."
+            ],
+            [
+                173,
+                "Is my coitus whimsically inventive?"
+            ],
+            [
+                175,
+                "I know you\u2019re joking, but I\u2019d be okay with that."
+            ],
+            [
+                180,
+                "We don\u2019t ask Sheldon things like that."
+            ],
+            [
+                184,
+                "All right, we\u2019re down the rabbit hole. What are you doing?"
+            ],
+            [
+                188,
+                "Now you know how I feel when I have to put it on you."
+            ],
+            [
+                194,
+                "Ow!"
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "I\u2019ll eat later. Right now, I\u2019m suckling at the informative bosom of mother physics."
+            ],
+            [
+                12,
+                "Would it come with Kung-Fu grip?"
+            ],
+            [
+                14,
+                "Don\u2019t waste my time."
+            ],
+            [
+                21,
+                "A hush falls over the crowd as Cooper studies the board. He makes his move. He\u2019s dividing both sides by I. He\u2019s adding back the coefficient. He has a value for P. He\u2019s plugging that back in. He takes the derivative, and he solves the equation. The crowd goes wild. Nobel! Nobel!"
+            ],
+            [
+                23,
+                "Nobel. Kripke. Don\u2019t look at my board."
+            ],
+            [
+                25,
+                "That\u2019s a drawing of a really cool train. Don\u2019t look at that, either. What do you want?"
+            ],
+            [
+                27,
+                "So they asked you to pack up your things and ship out. That\u2019s hard cheese, Barry. You\u2019re one of the good ones."
+            ],
+            [
+                29,
+                "That\u2019s ridiculous. I am one of the great minds of our generation. I work on a level so rarified you couldn\u2019t even imagine it. I said stop looking at my cool train!"
+            ],
+            [
+                54,
+                "There is ominous music playing, and there is an afghan over my head. I don\u2019t know where you\u2019re from, but where I\u2019m from, that means I\u2019m not doing okay."
+            ],
+            [
+                56,
+                "Tea is for when I\u2019m upset. I\u2019m not upset. The university\u2019s forcing me to work with Kripke. I\u2019m outraged."
+            ],
+            [
+                58,
+                "Yes, cocoa. Do you have any idea what it\u2019s like to be paired with someone who\u2019s so incredibly annoying?"
+            ],
+            [
+                60,
+                "See, I did all this great work, and now he\u2019s just going to come along and ruin it. I am angrier than ever and filled with despair."
+            ],
+            [
+                63,
+                "Yes, hot apple cider with cinnamon sticks!"
+            ],
+            [
+                66,
+                "And yet, now you\u2019re in my office. Point, Cooper. Welcome to the Thunderdome, Kripke."
+            ],
+            [
+                68,
+                "Why don\u2019t you show me yours first."
+            ],
+            [
+                70,
+                "How do I know you\u2019re not going to take my ideas and publish them as your own?"
+            ],
+            [
+                72,
+                "Because I\u2019m not interested in getting published in Mad magazine. Zingers fly fast in the Thunderdome, Barry."
+            ],
+            [
+                74,
+                "Fine."
+            ],
+            [
+                76,
+                "And I am sure it\u2019s still more valuable than whatever\u2019s in here."
+            ],
+            [
+                78,
+                "Very well."
+            ],
+            [
+                80,
+                "Fine."
+            ],
+            [
+                101,
+                "I\u2019m fine."
+            ],
+            [
+                103,
+                "Yes."
+            ],
+            [
+                105,
+                "I read his research, and, it\u2019s leaps and bounds ahead of mine. Which means the mommy of the smartest physicist at the university is not my mommy as I had thought. It\u2019s his mommy."
+            ],
+            [
+                107,
+                "What do we have to lose?"
+            ],
+            [
+                109,
+                "I feel like I\u2019m being strangled by a boa constrictor. Why\u2019d you stop?"
+            ],
+            [
+                112,
+                "I can\u2019t go in today. I\u2019m sick."
+            ],
+            [
+                114,
+                "No, look."
+            ],
+            [
+                116,
+                "See?"
+            ],
+            [
+                118,
+                "Oh, dear. Now I\u2019m not even smarter than you."
+            ],
+            [
+                120,
+                "Oh, don\u2019t play the Einstein card. His great breakthroughs happened when no one knew anything. So everything was a great breakthrough."
+            ],
+            [
+                122,
+                "All right, geez. What a grouch."
+            ],
+            [
+                138,
+                "I know. Go ahead, mock me. Just use small words so I understand."
+            ],
+            [
+                140,
+                "We do?"
+            ],
+            [
+                142,
+                "So?"
+            ],
+            [
+                144,
+                "Yes. That is the reason. My work is suffering because of all the laid I\u2019m getting."
+            ],
+            [
+                146,
+                "What can I say, you know? She enjoys my genitals. I am giving them to her on a nightly basis."
+            ],
+            [
+                148,
+                "I\u2019ll do what I can. But it\u2019s not going to be easy, because when I\u2019m with Amy and our bathing suit areas mush together, boy howdy, is it magic"
+            ],
+            [
+                172,
+                "Because the truth made me look bad, whereas a ridiculous bald-faced lie makes me look good. Anyway, if Kripke asks, tell him my coitus with Amy is frequent, intense and whimsically inventive."
+            ],
+            [
+                177,
+                "Of course."
+            ],
+            [
+                179,
+                "That\u2019s awfully personal."
+            ],
+            [
+                182,
+                "Well, word around the university is I\u2019m giving her sex organs a proper jostling."
+            ],
+            [
+                185,
+                "Well, first of all, I\u2019m quite fond of Amy."
+            ],
+            [
+                187,
+                "Penny, all my life, I have been uncomfortable with the sort of physical contact that comes easily to others, hand-shaking, hugging, prostate exams. But I\u2019m working on it, you know? Just recently, I had to put VapoRub on Amy\u2019s chest. A year ago, that would have been unthinkable."
+            ],
+            [
+                190,
+                "It\u2019s a possibility."
+            ],
+            [
+                192,
+                "Fine."
+            ],
+            [
+                203,
+                "Well, the equation balances, but it\u2019s certainly not elegant."
+            ],
+            [
+                205,
+                "Yes."
+            ],
+            [
+                207,
+                "No, I gave it to her well. Now, over here, I was thinking the turbulence could be reduced if we just put\u2026"
+            ],
+            [
+                209,
+                "I didn\u2019t notice."
+            ],
+            [
+                211,
+                "I was too busy squishing all the desirable parts of her body."
+            ],
+            [
+                213,
+                "Can we get back to work?"
+            ],
+            [
+                215,
+                "Toys? I do have a model rocket next to my bed."
+            ]
+        ],
+        "Penny": [
+            [
+                3,
+                "It\u2019s hot when Sheldon talks dirty."
+            ],
+            [
+                9,
+                "Yeah, if that\u2019s your idea of what\u2019s cool, you should get one."
+            ],
+            [
+                16,
+                "Honey, if you want one, just get one."
+            ],
+            [
+                45,
+                "I hate it when you make me sit through all the credits."
+            ],
+            [
+                47,
+                "Yeah, but I don\u2019t think that\u2019s going to happen in a documentary about the Holocaust."
+            ],
+            [
+                49,
+                "What is that?"
+            ],
+            [
+                51,
+                "Well, wait, if he\u2019s unhappy,shouldn\u2019t we talk to him?"
+            ],
+            [
+                61,
+                "What beverage do you make for that?"
+            ],
+            [
+                171,
+                "All right, I don\u2019t understand. Why didn\u2019t you just tell Kripke the truth?"
+            ],
+            [
+                174,
+                "That is what I write on the bathroom walls. For a whimsically inventive time, call Leonard Hofstadter."
+            ],
+            [
+                176,
+                "Yeah. Sheldon, can I ask you a question?"
+            ],
+            [
+                178,
+                "You ever going to sleep with Amy?"
+            ],
+            [
+                181,
+                "Maybe you don\u2019t, I do. What\u2019s the deal?"
+            ],
+            [
+                183,
+                "All right, come on, be serious. Look, you guys have been going out a long time. She would clearly like to have a physical relationship with you, so what are you doing?"
+            ],
+            [
+                186,
+                "Then what\u2019s the problem?"
+            ],
+            [
+                189,
+                "Okay. Hang on. Are you saying someday you and Amy might actually get physical?"
+            ]
+        ],
+        "Raj": [
+            [
+                4,
+                "So, I found this Web site where you send them pictures, they sculpt your head and make an action figure out of you. How awesome is that?"
+            ],
+            [
+                6,
+                "Yeah, you can pick your wardrobe. You can even choose your accessories."
+            ],
+            [
+                11,
+                "What do you think, Sheldon? Want an action figure that looks just like you?"
+            ],
+            [
+                13,
+                "No."
+            ],
+            [
+                33,
+                "They\u2019re here. Our action figures have arrived. This is the best five hundred dollars I\u2019ve ever spent."
+            ],
+            [
+                36,
+                "Say hello to an exact scale model of me. Oh, I\u2019m not dark chocolate. I\u2019m melt-in-your-mouth caramel."
+            ],
+            [
+                41,
+                "This sucks."
+            ],
+            [
+                82,
+                "You! Always bet on black."
+            ],
+            [
+                84,
+                "It\u2019s only a waste of money if we don\u2019t play with them. (As doll) He\u2019s right, dawg."
+            ],
+            [
+                86,
+                "You know, there is a way we can get action figures to look exactly like us."
+            ],
+            [
+                88,
+                "Two words, 3-D printer. Wait, maybe it\u2019s three words. No, hang on. Okay, one word, a letter and a number and maybe a hyphen. 3-D printer."
+            ],
+            [
+                90,
+                "Of course you have. They\u2019re an engineer\u2019s dream. Anything you can design, a 3-D printer can make out of plastic."
+            ],
+            [
+                92,
+                "Oh, come on. You deserve one. You\u2019ve worked hard to find a woman who makes a lot of money."
+            ],
+            [
+                94,
+                "Oh, true. They\u2019re practically giving them away. You know, in exchange for money."
+            ],
+            [
+                96,
+                "Not to mention Malibu Koothrappali and his totally bitchin\u2019 dream house."
+            ],
+            [
+                98,
+                "Really, smart guy? Where\u2019s he supposed to park his sweet little Corvette?"
+            ],
+            [
+                126,
+                "I think this thing was made in China."
+            ],
+            [
+                128,
+                "Ooh, I, I think it\u2019s done. Oh, it worked. We printed a whistle."
+            ],
+            [
+                130,
+                "And we made it in only three hours. Sounds just like store-bought."
+            ],
+            [
+                132,
+                "Oh, I wish I was in better shape."
+            ],
+            [
+                134,
+                "Oh, okay, great. Now I can look like Val Kilmer as Batman instead of Val Kilmer as he looks today."
+            ],
+            [
+                196,
+                "Are you sure you want to do this? Give up your half of the 3-D printer?"
+            ],
+            [
+                198,
+                "Wow, that\u2019s harsh."
+            ],
+            [
+                200,
+                "Aren\u2019t you gonna eat lunch?"
+            ]
+        ],
+        "Howard": [
+            [
+                5,
+                "Let me see."
+            ],
+            [
+                7,
+                "Leonard, you can get a little asthma inhaler."
+            ],
+            [
+                17,
+                "You\u2019re still out, right?"
+            ],
+            [
+                32,
+                "Well, I wanted everybody to know I love my wife. And nobody to know I forgot to turn off the laser."
+            ],
+            [
+                35,
+                "Easy. His family\u2019s loaded, and Bernadette has a great job. My wife came with both fun bags and money bags."
+            ],
+            [
+                37,
+                "Oh, man. Look at my nose."
+            ],
+            [
+                39,
+                "What?"
+            ],
+            [
+                42,
+                "I can\u2019t believe I wasted all that money."
+            ],
+            [
+                83,
+                "Get that waste of money out of my face."
+            ],
+            [
+                85,
+                "Please, I\u2019m working."
+            ],
+            [
+                87,
+                "Oh, yeah? How\u2019s that?"
+            ],
+            [
+                89,
+                "I have always wanted a 3-D printer."
+            ],
+            [
+                91,
+                "Yeah, but they\u2019re so expensive."
+            ],
+            [
+                93,
+                "Well, the prices have been coming down."
+            ],
+            [
+                95,
+                "And we can make stuff we need for work with it. Prototypes of my CAD/CAM designs, specialized tools\u2026"
+            ],
+            [
+                97,
+                "We don\u2019t need Malibu Koothrappali\u2019s dream house."
+            ],
+            [
+                125,
+                "Do you realize, by owning a 3-D printer, we are reclaiming the manufacturing process and taking jobs back from sweatshops in China?"
+            ],
+            [
+                127,
+                "Eh, what can you do?"
+            ],
+            [
+                129,
+                "Amazing. You realize these things go for 25 cents a pop at a party store."
+            ],
+            [
+                131,
+                "Okay, give me a superhero pose, and I will scan you into the computer for your action figure."
+            ],
+            [
+                133,
+                "Stop holding your stomach in. I\u2019ll give you a six-pack with the computer."
+            ],
+            [
+                135,
+                "All right, you can suck it in a little bit."
+            ],
+            [
+                150,
+                "Oh, good, you\u2019re home. Got a little surprise for you."
+            ],
+            [
+                152,
+                "Say hello to my little friend."
+            ],
+            [
+                154,
+                "I know, right? And, thanks to photographs and a little 3-D modeling, here comes the bride."
+            ],
+            [
+                156,
+                "I thought you might."
+            ],
+            [
+                158,
+                "Didn\u2019t cost a thing. I made them myself."
+            ],
+            [
+                160,
+                "Koothrappali and I bought a used 3-D printer for $5,000."
+            ],
+            [
+                162,
+                "Not just for a couple of dolls. For as many dolls as we want. And whistles."
+            ],
+            [
+                164,
+                "It\u2019s kind of dawning on me now."
+            ],
+            [
+                166,
+                "What are you talking about? We make plenty of money."
+            ],
+            [
+                168,
+                "Yes, but we\u2019re married now. That means, when you get sick, I take care of you. And when you make a bunch of money, I get to buy stuff. Sorry if you don\u2019t like it, but that\u2019s how love works."
+            ],
+            [
+                197,
+                "Yes. And can you please make that out to Bernadette? I was taken off the joint account until I learn the value of money."
+            ],
+            [
+                199,
+                "Tell me about it."
+            ],
+            [
+                201,
+                "Nah, I blew my food allowance on Pokemon cards."
+            ]
+        ],
+        "Kripke": [
+            [
+                22,
+                "Cooper?"
+            ],
+            [
+                24,
+                "What\u2019s that?"
+            ],
+            [
+                26,
+                "I have some bad news. You\u2019re working on a gwant pwoposal fow a new fusion weactow. I\u2019m working on a gwant pwoposal fow a new fusion weactow. The university is only awowed to submit one pwoposal."
+            ],
+            [
+                28,
+                "No, they\u2019re making us work together."
+            ],
+            [
+                65,
+                "What the fwig, Cooper? We were supposed to meet in my office a half an hour ago."
+            ],
+            [
+                67,
+                "We agweed to exchange copies of our work. Let me see yours."
+            ],
+            [
+                69,
+                "You think I just few off the turnip twuck? We exchange at the same time."
+            ],
+            [
+                71,
+                "How do I know you\u2019re not going to do that with mine?"
+            ],
+            [
+                73,
+                "Are we going to do this or not? Thank you. So, we wead each other\u2019s work, meet again tomowow?"
+            ],
+            [
+                75,
+                "Nice twy. This is bwank paper."
+            ],
+            [
+                77,
+                "Cough it up, Cooper."
+            ],
+            [
+                79,
+                "If this one\u2019s bwank, too, I\u2019m going to be fuwious."
+            ],
+            [
+                137,
+                "Cooper, we have a pwobwem. Your work is weawy not at a wevew I expected it to be."
+            ],
+            [
+                139,
+                "Don\u2019t pway dumb with me. We both know what your pwobwem is."
+            ],
+            [
+                141,
+                "You have a girlfwiend."
+            ],
+            [
+                143,
+                "So my work would suffew, too, if I was getting waid all the time."
+            ],
+            [
+                145,
+                "You wucky bastard."
+            ],
+            [
+                147,
+                "Okay, stop bwagging. You had some bwiwiant insights in here, but if we\u2019re gonna make this work, you need to buckew down and focus."
+            ],
+            [
+                204,
+                "Whatever. You get any wast night?"
+            ],
+            [
+                206,
+                "Gave it to her good, huh?"
+            ],
+            [
+                208,
+                "Yeah, yeah, yeah. Was she naked, or was she weawing wingewie?"
+            ],
+            [
+                210,
+                "How could you not notice?"
+            ],
+            [
+                212,
+                "Ah, you\u2019re kiwing me, Cooper!"
+            ],
+            [
+                214,
+                "Sure, sure, sure. You guys ever use any toys?"
+            ],
+            [
+                216,
+                "A wocket? You\u2019we a fweak! I wove it!"
+            ]
+        ],
+        "Penny (entering apartment)": [
+            [
+                53,
+                "You doing okay, sweetie?"
+            ]
+        ],
+        "Amy": [
+            [
+                100,
+                "The monkey in my tobacco study has taken to smoking a pipe. I\u2019m supposed to remove his brain to examine, but it\u2019s hard because now he reminds me of my uncle. You\u2019ve been awfully quiet tonight. Is everything okay?"
+            ],
+            [
+                102,
+                "All right, well, how was work today? Did you exchange your research with Kripke?"
+            ],
+            [
+                104,
+                "Sheldon, what\u2019s going on?"
+            ],
+            [
+                106,
+                "Sheldon, I wish there was something I could do to make you feel better. May I offer you a consoling hug?"
+            ],
+            [
+                108,
+                "How\u2019s that?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                151,
+                "What?"
+            ],
+            [
+                153,
+                "Oh, my God. That\u2019s so cute. I didn\u2019t think there could be a smaller version of you."
+            ],
+            [
+                155,
+                "Oh, Howie, I love these."
+            ],
+            [
+                157,
+                "Were they expensive?"
+            ],
+            [
+                159,
+                "How?"
+            ],
+            [
+                161,
+                "$5,000 for a couple of dolls? Are you out of your mind?"
+            ],
+            [
+                163,
+                "At any point, did it dawn on you to talk to me about spending this kind of money?"
+            ],
+            [
+                165,
+                "I don\u2019t believe you. Howie, we can\u2019t afford to waste money on junk like this."
+            ],
+            [
+                167,
+                "I make plenty of money. You make peanuts."
+            ],
+            [
+                169,
+                "No, here\u2019s how love works. You\u2019re gonna return the machine, or you can print out a working set of lady parts and sleep with those. Oh, my God! Are you actually thinking about it?"
+            ]
+        ],
+        "Penny (under breath while hitting Leonard)": [
+            [
+                191,
+                "Oh, my God! (Out loud) Sheldon, I know this wasn\u2019t easy for you, and I\u2019m really glad we could have this conversation."
+            ],
+            [
+                193,
+                "Oh, my God!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The Apartment."
+        ],
+        [
+            "Leonard",
+            "Sheldon, your food\u2019s getting cold."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll eat later. Right now, I\u2019m suckling at the informative bosom of mother physics."
+        ],
+        [
+            "Penny",
+            "It\u2019s hot when Sheldon talks dirty."
+        ],
+        [
+            "Raj",
+            "So, I found this Web site where you send them pictures, they sculpt your head and make an action figure out of you. How awesome is that?"
+        ],
+        [
+            "Howard",
+            "Let me see."
+        ],
+        [
+            "Raj",
+            "Yeah, you can pick your wardrobe. You can even choose your accessories."
+        ],
+        [
+            "Howard",
+            "Leonard, you can get a little asthma inhaler."
+        ],
+        [
+            "Leonard",
+            "Oh, this is neat. Think about all the action figures we\u2019ve bought over the years. It would be kind of cool to have ones that look like us. Don\u2019t you think?"
+        ],
+        [
+            "Penny",
+            "Yeah, if that\u2019s your idea of what\u2019s cool, you should get one."
+        ],
+        [
+            "Leonard",
+            "Yeah, so, I\u2019m out."
+        ],
+        [
+            "Raj",
+            "What do you think, Sheldon? Want an action figure that looks just like you?"
+        ],
+        [
+            "Sheldon",
+            "Would it come with Kung-Fu grip?"
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t waste my time."
+        ],
+        [
+            "Leonard",
+            "You get that these are personalised action figures."
+        ],
+        [
+            "Penny",
+            "Honey, if you want one, just get one."
+        ],
+        [
+            "Howard",
+            "You\u2019re still out, right?"
+        ],
+        [
+            "Leonard",
+            "Yep."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Sheldon",
+            "A hush falls over the crowd as Cooper studies the board. He makes his move. He\u2019s dividing both sides by I. He\u2019s adding back the coefficient. He has a value for P. He\u2019s plugging that back in. He takes the derivative, and he solves the equation. The crowd goes wild. Nobel! Nobel!"
+        ],
+        [
+            "Kripke",
+            "Cooper?"
+        ],
+        [
+            "Sheldon",
+            "Nobel. Kripke. Don\u2019t look at my board."
+        ],
+        [
+            "Kripke",
+            "What\u2019s that?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a drawing of a really cool train. Don\u2019t look at that, either. What do you want?"
+        ],
+        [
+            "Kripke",
+            "I have some bad news. You\u2019re working on a gwant pwoposal fow a new fusion weactow. I\u2019m working on a gwant pwoposal fow a new fusion weactow. The university is only awowed to submit one pwoposal."
+        ],
+        [
+            "Sheldon",
+            "So they asked you to pack up your things and ship out. That\u2019s hard cheese, Barry. You\u2019re one of the good ones."
+        ],
+        [
+            "Kripke",
+            "No, they\u2019re making us work together."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s ridiculous. I am one of the great minds of our generation. I work on a level so rarified you couldn\u2019t even imagine it. I said stop looking at my cool train!"
+        ],
+        [
+            "Scene",
+            "Howard\u2019s lab."
+        ],
+        [
+            "Leonard",
+            "Hmm. Kind of a strange place to put a picture of you and Bernadette."
+        ],
+        [
+            "Howard",
+            "Well, I wanted everybody to know I love my wife. And nobody to know I forgot to turn off the laser."
+        ],
+        [
+            "Raj",
+            "They\u2019re here. Our action figures have arrived. This is the best five hundred dollars I\u2019ve ever spent."
+        ],
+        [
+            "Leonard",
+            "A thousand dollars on action figures? How can you afford that?"
+        ],
+        [
+            "Howard",
+            "Easy. His family\u2019s loaded, and Bernadette has a great job. My wife came with both fun bags and money bags."
+        ],
+        [
+            "Raj",
+            "Say hello to an exact scale model of me. Oh, I\u2019m not dark chocolate. I\u2019m melt-in-your-mouth caramel."
+        ],
+        [
+            "Howard",
+            "Oh, man. Look at my nose."
+        ],
+        [
+            "Leonard",
+            "Maybe it\u2019s a shipping problem."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "Yeah. Maybe Wesley Snipes and Toucan Sam just got action figures that look like you guys."
+        ],
+        [
+            "Raj",
+            "This sucks."
+        ],
+        [
+            "Howard",
+            "I can\u2019t believe I wasted all that money."
+        ],
+        [
+            "Leonard",
+            "Aw, and my girlfriend wouldn\u2019t let me get one. Look at my face. Do I look smug? I feel smug."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Penny",
+            "I hate it when you make me sit through all the credits."
+        ],
+        [
+            "Leonard",
+            "Well, sometimes there\u2019s a secret ending, like in The Avengers."
+        ],
+        [
+            "Penny",
+            "Yeah, but I don\u2019t think that\u2019s going to happen in a documentary about the Holocaust."
+        ],
+        [
+            "Leonard",
+            "They could show bloopers. Oh, no."
+        ],
+        [
+            "Penny",
+            "What is that?"
+        ],
+        [
+            "Leonard",
+            "That is Sheldon\u2019s \u201cI\u2019m unhappy and about to destroy the planet\u201d music. Come on, let\u2019s just go to your place."
+        ],
+        [
+            "Penny",
+            "Well, wait, if he\u2019s unhappy,shouldn\u2019t we talk to him?"
+        ],
+        [
+            "Leonard",
+            "Shouldn\u2019t we talk to him? Have you learned nothing in six years?"
+        ],
+        [
+            "Penny (entering apartment)",
+            "You doing okay, sweetie?"
+        ],
+        [
+            "Sheldon",
+            "There is ominous music playing, and there is an afghan over my head. I don\u2019t know where you\u2019re from, but where I\u2019m from, that means I\u2019m not doing okay."
+        ],
+        [
+            "Leonard",
+            "Want me to make you some tea?"
+        ],
+        [
+            "Sheldon",
+            "Tea is for when I\u2019m upset. I\u2019m not upset. The university\u2019s forcing me to work with Kripke. I\u2019m outraged."
+        ],
+        [
+            "Leonard",
+            "So, cocoa?"
+        ],
+        [
+            "Sheldon",
+            "Yes, cocoa. Do you have any idea what it\u2019s like to be paired with someone who\u2019s so incredibly annoying?"
+        ],
+        [
+            "Leonard",
+            "Oh, teacher! Me! Me!"
+        ],
+        [
+            "Sheldon",
+            "See, I did all this great work, and now he\u2019s just going to come along and ruin it. I am angrier than ever and filled with despair."
+        ],
+        [
+            "Penny",
+            "What beverage do you make for that?"
+        ],
+        [
+            "Leonard",
+            "Oh, no, no, no, I know this. Uh, hot apple cider with cinnamon sticks?"
+        ],
+        [
+            "Sheldon",
+            "Yes, hot apple cider with cinnamon sticks!"
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Kripke",
+            "What the fwig, Cooper? We were supposed to meet in my office a half an hour ago."
+        ],
+        [
+            "Sheldon",
+            "And yet, now you\u2019re in my office. Point, Cooper. Welcome to the Thunderdome, Kripke."
+        ],
+        [
+            "Kripke",
+            "We agweed to exchange copies of our work. Let me see yours."
+        ],
+        [
+            "Sheldon",
+            "Why don\u2019t you show me yours first."
+        ],
+        [
+            "Kripke",
+            "You think I just few off the turnip twuck? We exchange at the same time."
+        ],
+        [
+            "Sheldon",
+            "How do I know you\u2019re not going to take my ideas and publish them as your own?"
+        ],
+        [
+            "Kripke",
+            "How do I know you\u2019re not going to do that with mine?"
+        ],
+        [
+            "Sheldon",
+            "Because I\u2019m not interested in getting published in Mad magazine. Zingers fly fast in the Thunderdome, Barry."
+        ],
+        [
+            "Kripke",
+            "Are we going to do this or not? Thank you. So, we wead each other\u2019s work, meet again tomowow?"
+        ],
+        [
+            "Sheldon",
+            "Fine."
+        ],
+        [
+            "Kripke",
+            "Nice twy. This is bwank paper."
+        ],
+        [
+            "Sheldon",
+            "And I am sure it\u2019s still more valuable than whatever\u2019s in here."
+        ],
+        [
+            "Kripke",
+            "Cough it up, Cooper."
+        ],
+        [
+            "Sheldon",
+            "Very well."
+        ],
+        [
+            "Kripke",
+            "If this one\u2019s bwank, too, I\u2019m going to be fuwious."
+        ],
+        [
+            "Sheldon",
+            "Fine."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s lab."
+        ],
+        [
+            "Raj",
+            "You! Always bet on black."
+        ],
+        [
+            "Howard",
+            "Get that waste of money out of my face."
+        ],
+        [
+            "Raj",
+            "It\u2019s only a waste of money if we don\u2019t play with them. (As doll) He\u2019s right, dawg."
+        ],
+        [
+            "Howard",
+            "Please, I\u2019m working."
+        ],
+        [
+            "Raj",
+            "You know, there is a way we can get action figures to look exactly like us."
+        ],
+        [
+            "Howard",
+            "Oh, yeah? How\u2019s that?"
+        ],
+        [
+            "Raj",
+            "Two words, 3-D printer. Wait, maybe it\u2019s three words. No, hang on. Okay, one word, a letter and a number and maybe a hyphen. 3-D printer."
+        ],
+        [
+            "Howard",
+            "I have always wanted a 3-D printer."
+        ],
+        [
+            "Raj",
+            "Of course you have. They\u2019re an engineer\u2019s dream. Anything you can design, a 3-D printer can make out of plastic."
+        ],
+        [
+            "Howard",
+            "Yeah, but they\u2019re so expensive."
+        ],
+        [
+            "Raj",
+            "Oh, come on. You deserve one. You\u2019ve worked hard to find a woman who makes a lot of money."
+        ],
+        [
+            "Howard",
+            "Well, the prices have been coming down."
+        ],
+        [
+            "Raj",
+            "Oh, true. They\u2019re practically giving them away. You know, in exchange for money."
+        ],
+        [
+            "Howard",
+            "And we can make stuff we need for work with it. Prototypes of my CAD/CAM designs, specialized tools\u2026"
+        ],
+        [
+            "Raj",
+            "Not to mention Malibu Koothrappali and his totally bitchin\u2019 dream house."
+        ],
+        [
+            "Howard",
+            "We don\u2019t need Malibu Koothrappali\u2019s dream house."
+        ],
+        [
+            "Raj",
+            "Really, smart guy? Where\u2019s he supposed to park his sweet little Corvette?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "The monkey in my tobacco study has taken to smoking a pipe. I\u2019m supposed to remove his brain to examine, but it\u2019s hard because now he reminds me of my uncle. You\u2019ve been awfully quiet tonight. Is everything okay?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m fine."
+        ],
+        [
+            "Amy",
+            "All right, well, how was work today? Did you exchange your research with Kripke?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Amy",
+            "Sheldon, what\u2019s going on?"
+        ],
+        [
+            "Sheldon",
+            "I read his research, and, it\u2019s leaps and bounds ahead of mine. Which means the mommy of the smartest physicist at the university is not my mommy as I had thought. It\u2019s his mommy."
+        ],
+        [
+            "Amy",
+            "Sheldon, I wish there was something I could do to make you feel better. May I offer you a consoling hug?"
+        ],
+        [
+            "Sheldon",
+            "What do we have to lose?"
+        ],
+        [
+            "Amy",
+            "How\u2019s that?"
+        ],
+        [
+            "Sheldon",
+            "I feel like I\u2019m being strangled by a boa constrictor. Why\u2019d you stop?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Come on, Sheldon, we\u2019re going to be late."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t go in today. I\u2019m sick."
+        ],
+        [
+            "Leonard",
+            "You\u2019re not sick. You just don\u2019t want to face Kripke."
+        ],
+        [
+            "Sheldon",
+            "No, look."
+        ],
+        [
+            "Leonard",
+            "128."
+        ],
+        [
+            "Sheldon",
+            "See?"
+        ],
+        [
+            "Leonard",
+            "What did you do, put this in your tea?"
+        ],
+        [
+            "Sheldon",
+            "Oh, dear. Now I\u2019m not even smarter than you."
+        ],
+        [
+            "Leonard",
+            "Sheldon, Kripke\u2019s not smarter than you. You just got stuck on a wrong path. Happened to Einstein. He got stuck on the unified field theory for decades."
+        ],
+        [
+            "Sheldon",
+            "Oh, don\u2019t play the Einstein card. His great breakthroughs happened when no one knew anything. So everything was a great breakthrough."
+        ],
+        [
+            "Leonard",
+            "Sheldon Lee Cooper, I do not have time for this nonsense. Now, go put your clothes on, get in the car, and lets go to work."
+        ],
+        [
+            "Sheldon",
+            "All right, geez. What a grouch."
+        ],
+        [
+            "Leonard",
+            "How did I do that? I got to remember how I did that."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s lab."
+        ],
+        [
+            "Howard",
+            "Do you realize, by owning a 3-D printer, we are reclaiming the manufacturing process and taking jobs back from sweatshops in China?"
+        ],
+        [
+            "Raj",
+            "I think this thing was made in China."
+        ],
+        [
+            "Howard",
+            "Eh, what can you do?"
+        ],
+        [
+            "Raj",
+            "Ooh, I, I think it\u2019s done. Oh, it worked. We printed a whistle."
+        ],
+        [
+            "Howard",
+            "Amazing. You realize these things go for 25 cents a pop at a party store."
+        ],
+        [
+            "Raj",
+            "And we made it in only three hours. Sounds just like store-bought."
+        ],
+        [
+            "Howard",
+            "Okay, give me a superhero pose, and I will scan you into the computer for your action figure."
+        ],
+        [
+            "Raj",
+            "Oh, I wish I was in better shape."
+        ],
+        [
+            "Howard",
+            "Stop holding your stomach in. I\u2019ll give you a six-pack with the computer."
+        ],
+        [
+            "Raj",
+            "Oh, okay, great. Now I can look like Val Kilmer as Batman instead of Val Kilmer as he looks today."
+        ],
+        [
+            "Howard",
+            "All right, you can suck it in a little bit."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Kripke",
+            "Cooper, we have a pwobwem. Your work is weawy not at a wevew I expected it to be."
+        ],
+        [
+            "Sheldon",
+            "I know. Go ahead, mock me. Just use small words so I understand."
+        ],
+        [
+            "Kripke",
+            "Don\u2019t pway dumb with me. We both know what your pwobwem is."
+        ],
+        [
+            "Sheldon",
+            "We do?"
+        ],
+        [
+            "Kripke",
+            "You have a girlfwiend."
+        ],
+        [
+            "Sheldon",
+            "So?"
+        ],
+        [
+            "Kripke",
+            "So my work would suffew, too, if I was getting waid all the time."
+        ],
+        [
+            "Sheldon",
+            "Yes. That is the reason. My work is suffering because of all the laid I\u2019m getting."
+        ],
+        [
+            "Kripke",
+            "You wucky bastard."
+        ],
+        [
+            "Sheldon",
+            "What can I say, you know? She enjoys my genitals. I am giving them to her on a nightly basis."
+        ],
+        [
+            "Kripke",
+            "Okay, stop bwagging. You had some bwiwiant insights in here, but if we\u2019re gonna make this work, you need to buckew down and focus."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll do what I can. But it\u2019s not going to be easy, because when I\u2019m with Amy and our bathing suit areas mush together, boy howdy, is it magic"
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Oh, good, you\u2019re home. Got a little surprise for you."
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Howard",
+            "Say hello to my little friend."
+        ],
+        [
+            "Bernadette",
+            "Oh, my God. That\u2019s so cute. I didn\u2019t think there could be a smaller version of you."
+        ],
+        [
+            "Howard",
+            "I know, right? And, thanks to photographs and a little 3-D modeling, here comes the bride."
+        ],
+        [
+            "Bernadette",
+            "Oh, Howie, I love these."
+        ],
+        [
+            "Howard",
+            "I thought you might."
+        ],
+        [
+            "Bernadette",
+            "Were they expensive?"
+        ],
+        [
+            "Howard",
+            "Didn\u2019t cost a thing. I made them myself."
+        ],
+        [
+            "Bernadette",
+            "How?"
+        ],
+        [
+            "Howard",
+            "Koothrappali and I bought a used 3-D printer for $5,000."
+        ],
+        [
+            "Bernadette",
+            "$5,000 for a couple of dolls? Are you out of your mind?"
+        ],
+        [
+            "Howard",
+            "Not just for a couple of dolls. For as many dolls as we want. And whistles."
+        ],
+        [
+            "Bernadette",
+            "At any point, did it dawn on you to talk to me about spending this kind of money?"
+        ],
+        [
+            "Howard",
+            "It\u2019s kind of dawning on me now."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t believe you. Howie, we can\u2019t afford to waste money on junk like this."
+        ],
+        [
+            "Howard",
+            "What are you talking about? We make plenty of money."
+        ],
+        [
+            "Bernadette",
+            "I make plenty of money. You make peanuts."
+        ],
+        [
+            "Howard",
+            "Yes, but we\u2019re married now. That means, when you get sick, I take care of you. And when you make a bunch of money, I get to buy stuff. Sorry if you don\u2019t like it, but that\u2019s how love works."
+        ],
+        [
+            "Bernadette",
+            "No, here\u2019s how love works. You\u2019re gonna return the machine, or you can print out a working set of lady parts and sleep with those. Oh, my God! Are you actually thinking about it?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "All right, I don\u2019t understand. Why didn\u2019t you just tell Kripke the truth?"
+        ],
+        [
+            "Sheldon",
+            "Because the truth made me look bad, whereas a ridiculous bald-faced lie makes me look good. Anyway, if Kripke asks, tell him my coitus with Amy is frequent, intense and whimsically inventive."
+        ],
+        [
+            "Leonard",
+            "Is my coitus whimsically inventive?"
+        ],
+        [
+            "Penny",
+            "That is what I write on the bathroom walls. For a whimsically inventive time, call Leonard Hofstadter."
+        ],
+        [
+            "Leonard",
+            "I know you\u2019re joking, but I\u2019d be okay with that."
+        ],
+        [
+            "Penny",
+            "Yeah. Sheldon, can I ask you a question?"
+        ],
+        [
+            "Sheldon",
+            "Of course."
+        ],
+        [
+            "Penny",
+            "You ever going to sleep with Amy?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s awfully personal."
+        ],
+        [
+            "Leonard",
+            "We don\u2019t ask Sheldon things like that."
+        ],
+        [
+            "Penny",
+            "Maybe you don\u2019t, I do. What\u2019s the deal?"
+        ],
+        [
+            "Sheldon",
+            "Well, word around the university is I\u2019m giving her sex organs a proper jostling."
+        ],
+        [
+            "Penny",
+            "All right, come on, be serious. Look, you guys have been going out a long time. She would clearly like to have a physical relationship with you, so what are you doing?"
+        ],
+        [
+            "Leonard",
+            "All right, we\u2019re down the rabbit hole. What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "Well, first of all, I\u2019m quite fond of Amy."
+        ],
+        [
+            "Penny",
+            "Then what\u2019s the problem?"
+        ],
+        [
+            "Sheldon",
+            "Penny, all my life, I have been uncomfortable with the sort of physical contact that comes easily to others, hand-shaking, hugging, prostate exams. But I\u2019m working on it, you know? Just recently, I had to put VapoRub on Amy\u2019s chest. A year ago, that would have been unthinkable."
+        ],
+        [
+            "Leonard",
+            "Now you know how I feel when I have to put it on you."
+        ],
+        [
+            "Penny",
+            "Okay. Hang on. Are you saying someday you and Amy might actually get physical?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a possibility."
+        ],
+        [
+            "Penny (under breath while hitting Leonard)",
+            "Oh, my God! (Out loud) Sheldon, I know this wasn\u2019t easy for you, and I\u2019m really glad we could have this conversation."
+        ],
+        [
+            "Sheldon",
+            "Fine."
+        ],
+        [
+            "Penny (under breath while hitting Leonard)",
+            "Oh, my God!"
+        ],
+        [
+            "Leonard",
+            "Ow!"
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Raj",
+            "Are you sure you want to do this? Give up your half of the 3-D printer?"
+        ],
+        [
+            "Howard",
+            "Yes. And can you please make that out to Bernadette? I was taken off the joint account until I learn the value of money."
+        ],
+        [
+            "Raj",
+            "Wow, that\u2019s harsh."
+        ],
+        [
+            "Howard",
+            "Tell me about it."
+        ],
+        [
+            "Raj",
+            "Aren\u2019t you gonna eat lunch?"
+        ],
+        [
+            "Howard",
+            "Nah, I blew my food allowance on Pokemon cards."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Sheldon",
+            "Well, the equation balances, but it\u2019s certainly not elegant."
+        ],
+        [
+            "Kripke",
+            "Whatever. You get any wast night?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Kripke",
+            "Gave it to her good, huh?"
+        ],
+        [
+            "Sheldon",
+            "No, I gave it to her well. Now, over here, I was thinking the turbulence could be reduced if we just put\u2026"
+        ],
+        [
+            "Kripke",
+            "Yeah, yeah, yeah. Was she naked, or was she weawing wingewie?"
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t notice."
+        ],
+        [
+            "Kripke",
+            "How could you not notice?"
+        ],
+        [
+            "Sheldon",
+            "I was too busy squishing all the desirable parts of her body."
+        ],
+        [
+            "Kripke",
+            "Ah, you\u2019re kiwing me, Cooper!"
+        ],
+        [
+            "Sheldon",
+            "Can we get back to work?"
+        ],
+        [
+            "Kripke",
+            "Sure, sure, sure. You guys ever use any toys?"
+        ],
+        [
+            "Sheldon",
+            "Toys? I do have a model rocket next to my bed."
+        ],
+        [
+            "Kripke",
+            "A wocket? You\u2019we a fweak! I wove it!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-14-the-cooperkripke-inversion/"
+}

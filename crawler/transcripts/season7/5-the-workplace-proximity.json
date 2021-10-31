@@ -1,0 +1,1632 @@
+{
+    "Season": 7,
+    "Episode": 5,
+    "Title": "the workplace proximity",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The Cheesecake Factory"
+            ],
+            [
+                20,
+                "Credits sequence."
+            ],
+            [
+                21,
+                "The apartment. "
+            ],
+            [
+                38,
+                "Penny\u2019s apartment."
+            ],
+            [
+                88,
+                "The cafeteria."
+            ],
+            [
+                112,
+                "Amy\u2019s lab."
+            ],
+            [
+                133,
+                "The apartment."
+            ],
+            [
+                157,
+                "Raj\u2019s apartment."
+            ],
+            [
+                178,
+                "Amy\u2019s apartment."
+            ],
+            [
+                192,
+                "The Cheesecake Factory Bar."
+            ],
+            [
+                196,
+                "The apartment. "
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Awkward silence, Sheldon on his phone, no touching. Somebody\u2019s having date night."
+            ],
+            [
+                4,
+                "How do you not tear off his clothes and take him right here on this table?"
+            ],
+            [
+                44,
+                "You know, not a lot of people know this, but the monoamine oxidase enzyme was discovered by a woman, Mary Bernheim. That\u2019s right, my phone is just as smart as you guys."
+            ],
+            [
+                51,
+                "Sheldon, I don\u2019t understand. I thought you said you were fine with it."
+            ],
+            [
+                58,
+                "Yeah, and you can\u2019t tell her what she can and cannot do."
+            ],
+            [
+                60,
+                "That\u2019s different. I\u2019m not going to the mall with someone dressed like a dumb space bear."
+            ],
+            [
+                136,
+                "Oh, no."
+            ],
+            [
+                140,
+                "Why\u2019d you get that? You hate lamb."
+            ],
+            [
+                144,
+                "Okay, Sheldon, what happened between you and Amy?"
+            ],
+            [
+                146,
+                "Yeah."
+            ],
+            [
+                154,
+                "Okay, fine, Sheldon. What is your side?"
+            ],
+            [
+                156,
+                "Nope, got to go with Amy on this one."
+            ],
+            [
+                195,
+                "All right, don\u2019t worry. I talked to Leonard. He is gonna sit the guys down and set them straight."
+            ]
+        ],
+        "Amy": [
+            [
+                2,
+                "It\u2019s actually steamier than it looks. Sheldon\u2019s looking up the phallic symbolism of root vegetables in Renaissance paintings."
+            ],
+            [
+                6,
+                "Sheldon, I have some exciting news to tell you."
+            ],
+            [
+                8,
+                "I\u2019ve been invited to consult on an experiment at your university for a few months. Isn\u2019t that great? We could have lunch together. We could carpool. "
+            ],
+            [
+                10,
+                "So, you\u2019re okay with this?"
+            ],
+            [
+                12,
+                "Well, this project would have us working in close proximity to one another. And there\u2019s the vulgar adage that one should not defecate where one eats."
+            ],
+            [
+                14,
+                "Sheldon, don\u2019t defecate where you eat means don\u2019t have a romantic relationship in the workplace."
+            ],
+            [
+                16,
+                "Yes."
+            ],
+            [
+                18,
+                "I\u2019m relieved that you don\u2019t have a problem with us working together."
+            ],
+            [
+                40,
+                "I\u2019m leading a study to see if deficiency of the monoamine oxidase enzyme leads to paralyzing fear in monkeys."
+            ],
+            [
+                42,
+                "Wait, you\u2019ve, you\u2019ve done this experiment on humans?"
+            ],
+            [
+                47,
+                "I don\u2019t mind. I\u2019m hoping to put his love of repetition to good use someday."
+            ],
+            [
+                49,
+                "Sheldon. I already signed the contract. I cashed a cheque. "
+            ],
+            [
+                57,
+                "No, we\u2019re not good here. I am working on this project."
+            ],
+            [
+                61,
+                "Sheldon, you don\u2019t have to worry about me bothering you. I\u2019ll be in a different building. And we don\u2019t even have to have lunch together."
+            ],
+            [
+                63,
+                "Yes. Before all things, I\u2019m a scientist. I\u2019m just there to do my work and, with a little luck, scare the living crap out of some monkeys."
+            ],
+            [
+                65,
+                "More and more sure."
+            ],
+            [
+                67,
+                "I didn\u2019t ask for your permission."
+            ],
+            [
+                95,
+                "Gentlemen."
+            ],
+            [
+                106,
+                "And this is Dr. Gunderson from Stockholm."
+            ],
+            [
+                108,
+                "Where are we going with this, Dr. Cooper?"
+            ],
+            [
+                110,
+                "Sheldon."
+            ],
+            [
+                113,
+                "Test subject D7, aka Betsy, fear response study. Image number one, Frenchman on bicycle carrying baguettes. No visible reaction. Image number two, sousaphone. Still no reaction. Okay. Let\u2019s kick things up a notch. Image number three, crocodile with a mouthful of monkeys. Okay, now we\u2019re talking."
+            ],
+            [
+                115,
+                "What do you want, Sheldon?"
+            ],
+            [
+                117,
+                "Oh, sorry, sorry, sorry. Sorry, uh, better?"
+            ],
+            [
+                119,
+                "Determining baseline fear levels in capuchin monkeys by measuring their response to visual stimuli."
+            ],
+            [
+                121,
+                "I can\u2019t leave now, Sheldon. I\u2019m very busy. Besides, why would I want to do you a favour after the way you treated me in the cafeteria? Image number four, boa constrictor. "
+            ],
+            [
+                123,
+                "You embarrassed me in front of my colleagues on my first day here. Image number five, kitten in a teacup."
+            ],
+            [
+                125,
+                "You know what? I don\u2019t have time for this. Find another way home."
+            ],
+            [
+                127,
+                "Really? What tipped you off?"
+            ],
+            [
+                129,
+                "Get out."
+            ],
+            [
+                131,
+                "Image number six, woman giving birth."
+            ],
+            [
+                180,
+                "Sheldon, what are you doing here so late?"
+            ],
+            [
+                182,
+                "No."
+            ],
+            [
+                184,
+                "What do you want?"
+            ],
+            [
+                186,
+                "Sheldon, you\u2019re not a weirdo."
+            ],
+            [
+                188,
+                "What\u2019s your point?"
+            ],
+            [
+                190,
+                "I like you, too."
+            ],
+            [
+                194,
+                "Sheldon, too. If I see him at work, I\u2019m just going to ignore him."
+            ]
+        ],
+        "Sheldon": [
+            [
+                3,
+                "Oh, no, I got bored with that. I\u2019m just browsing cuticle scissors on Amazon."
+            ],
+            [
+                5,
+                "If you do that, I\u2019ll scream."
+            ],
+            [
+                7,
+                "That makes two of us. My new cuticle scissors will be here in one to two business days. Come on, one."
+            ],
+            [
+                9,
+                "You know, riding with Leonard has gotten a little tedious lately. The only car game he ever wants to play is the Quiet Game. And he\u2019s terrible at it, I always win."
+            ],
+            [
+                11,
+                "Well, why wouldn\u2019t I be?"
+            ],
+            [
+                13,
+                "My father used to say that all the time. That and, um, who does one have to orally gratify to get a drink around here? But what does that have to do with you working at the university?"
+            ],
+            [
+                15,
+                "Really?"
+            ],
+            [
+                17,
+                "Huh. Yeah, I always took it literally. That\u2019s why I have never once moved my bowels in this or any restaurant. Hmm."
+            ],
+            [
+                19,
+                "Not as relieved as I\u2019m about to be. It\u2019s a brave new world, little lady."
+            ],
+            [
+                23,
+                "Why not? Hairy Fairy."
+            ],
+            [
+                29,
+                "That\u2019s a Raging Ogre."
+            ],
+            [
+                34,
+                "Well, I appreciate your concern, but I won\u2019t be seeing any more of Amy than I already do. I assume we\u2019ll deduct any extra time we spend together at work from our weekly quota."
+            ],
+            [
+                36,
+                "Why? So you can see the look on Amy\u2019s face when she hears my top-notch idea?"
+            ],
+            [
+                48,
+                "Hi. Um, I\u2019ve reconsidered. Uh, you can\u2019t work where I work. Enjoy the rest of your evening."
+            ],
+            [
+                50,
+                "Mmm, you are not going to come out of this looking good."
+            ],
+            [
+                52,
+                "Well, I was. But that was before Howard explained to me how awful it would be if he had to work with his significant other."
+            ],
+            [
+                54,
+                "Now, don\u2019t be insulted. He just thinks too much of you would be mind-numbingly tedious. "
+            ],
+            [
+                56,
+                "Yeah, well, now, well, keep it short. From what I gather, brevity is your friend. So, are we good here?"
+            ],
+            [
+                59,
+                "Last week, you told Leonard he couldn\u2019t wear his Wookie jacket out in public."
+            ],
+            [
+                62,
+                "Really?"
+            ],
+            [
+                64,
+                "Hmm. You sure your mothlike personality won\u2019t be drawn to this blazing fire that is myself?"
+            ],
+            [
+                66,
+                "Well, then, you have my permission."
+            ],
+            [
+                68,
+                "Too late. No backsies."
+            ],
+            [
+                70,
+                "Howard, if you\u2019re going to lie to your wife, don\u2019t start the sentence with Sheldon misunderstood. That\u2019s a dead giveaway."
+            ],
+            [
+                73,
+                "Yeah, but to be fair, he only said the part about him getting sick of you."
+            ],
+            [
+                87,
+                "If it makes you feel any better, Amy and I are fine. I mean, really good."
+            ],
+            [
+                94,
+                "Uh, it also wouldn\u2019t have happened if, in the early universe, hydrogen was a little more common or a little less common. This is fun. Your turn."
+            ],
+            [
+                98,
+                "Hello."
+            ],
+            [
+                100,
+                "Oh, we\u2019re fine. As Howard advised, she\u2019s merely respecting our professional boundaries."
+            ],
+            [
+                102,
+                "Yeah, you make a good point. It would appear I was worried for nothing. Look at her, desperately wishing she was over here at the cool table. Don\u2019t worry, little moth. The flame will come to you."
+            ],
+            [
+                107,
+                "Ah, Sweden. Yeah, home of my favourite Muppet and, uh, second favourite meatball. Okay, the Nordic reputation for lack of humour is well-founded. Boy, is his name Gunderson or No-Funderson?"
+            ],
+            [
+                109,
+                "Oh, please, I\u2019m your boyfriend. You call me Sheldon. That\u2019s right, I am in a boy-girl relationship with this cute little lump of wool."
+            ],
+            [
+                111,
+                "It\u2019s a physical relationship, too. Hand-holding, hugging, even on hot days. Ow. Okay, here\u2019s a new one. Apparently now we kick each other in the shin under the table. How do you like it when I do it to you? Not so much, huh?"
+            ],
+            [
+                114,
+                "Dr. Fowler?"
+            ],
+            [
+                116,
+                "Well, I\u2019m done with work, so\u2026 ugh!"
+            ],
+            [
+                118,
+                "Oh, baguettes. Yes, I like baguettes. What exactly are you doing?"
+            ],
+            [
+                120,
+                "So, goofing off. As I was saying, I\u2019m done with work and Leonard\u2019s not. So good news, you get to take me home. Play your cards right, I\u2019ll let you drive me past the lot where the buses park at night."
+            ],
+            [
+                122,
+                "What on earth are you talking about? My behaviour in the cafeteria was delightful. Maybe your friend Gunderson needs to head over to IKEA and assemble a sense of humour."
+            ],
+            [
+                124,
+                "Aw. Embarrassed you?"
+            ],
+            [
+                126,
+                "I\u2019m starting to get the sense that you\u2019re angry with me."
+            ],
+            [
+                128,
+                "Couple things, actually. Your tone of voice, your body language\u2026"
+            ],
+            [
+                130,
+                "Well, now, that."
+            ],
+            [
+                132,
+                "Bleugh!"
+            ],
+            [
+                135,
+                "Oh, I had to take the bus home. Fell asleep and missed my stop."
+            ],
+            [
+                137,
+                "Did you know that Los Angeles has a Little Sri Lanka?"
+            ],
+            [
+                139,
+                "Well, I do now. They\u2019re a lovely people. Although terrifying when you wake up face-to-face with them. If you\u2019re hungry, I brought home some mutton and coconut milk."
+            ],
+            [
+                141,
+                "I was asking for directions. Apparently, there was a communication problem."
+            ],
+            [
+                143,
+                "Yeah, I thought so, too, but she\u2019s acting very strangely. I was discussing it with a Sri Lankan fellow on the bus, and he hypothesized that a tiger may have recently run across her shadow. Although he may have just been trying to drum up business for his brother-in-law\u2019s witch doctor practice."
+            ],
+            [
+                145,
+                "Well, can you believe she said I embarrassed her?"
+            ],
+            [
+                147,
+                "But you didn\u2019t even hear the details."
+            ],
+            [
+                149,
+                "But you don\u2019t even know\u2026"
+            ],
+            [
+                151,
+                "But, now, but in my defence\u2026"
+            ],
+            [
+                153,
+                "You\u2019re not listening to my side of it."
+            ],
+            [
+                155,
+                "Well\u2026"
+            ],
+            [
+                179,
+                "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy."
+            ],
+            [
+                181,
+                "I couldn\u2019t sleep because I kept thinking about what happened earlier between us. Also, I had one heck of a bus nap. Oh, speaking of which, do you want some mutton and coconut milk?"
+            ],
+            [
+                183,
+                "Well, I cannot give this stuff away."
+            ],
+            [
+                185,
+                "Amy, this isn\u2019t easy to say. All relationships are difficult, but even more so when you\u2019re in one with a person who struggles with everyday social interactions. And frankly, who can strike some people as being kind of a weirdo."
+            ],
+            [
+                187,
+                "I wasn\u2019t speaking about me. I mean, honestly, there\u2019s no telling what will set you off. You know, introducing myself as your boyfriend. Giving you the opportunity to drive me home. Breaking the ice with your colleagues using ethnic humour, the funniest kind of humour."
+            ],
+            [
+                189,
+                "My point is, we\u2019re a couple, and I like you for who you are, quirks and all."
+            ],
+            [
+                191,
+                "Well, I should hope so. I don\u2019t see anyone else banging on this door to put up with your nonsense. Not even a good-bye? You see, that\u2019s the kind of thing that makes people think you\u2019re weird. Poor kid. She just doesn\u2019t see it."
+            ]
+        ],
+        "Howard": [
+            [
+                22,
+                "Are you crazy? You don\u2019t want your girlfriend at work with you. Hell Clam."
+            ],
+            [
+                27,
+                "Would you please tell him this isn\u2019t a good idea?"
+            ],
+            [
+                31,
+                "I\u2019m just saying, I\u2019d never want to work with Bernadette. Can you imagine seeing someone all day long and then you\u2019re supposed to hang out with them after work, too?"
+            ],
+            [
+                33,
+                "Yeah, I know, and it drove me into the arms of another woman. Bipolar Bear."
+            ],
+            [
+                69,
+                "No, no, listen to me. Sheldon misunderstood. What I meant was, if we worked together, there\u2019d be too much of me for you, not the other way around."
+            ],
+            [
+                72,
+                "Okay, fine. I did say that, and I think it\u2019s true. I think if we worked together and lived together, we\u2019d get sick of each other."
+            ],
+            [
+                74,
+                "For the love of God, why?"
+            ],
+            [
+                77,
+                "It\u2019s nothing in particular. I\u2026"
+            ],
+            [
+                79,
+                "My arm is feeling numb."
+            ],
+            [
+                82,
+                "My point is, I\u2019m sure there are things about me that would drive you crazy if you had to deal with them all day long."
+            ],
+            [
+                84,
+                "Oh, well, come on, where am I supposed to look when I lie to you?"
+            ],
+            [
+                86,
+                "Bernie\u2026"
+            ],
+            [
+                91,
+                "Please, stop talking."
+            ],
+            [
+                93,
+                "I mean, you know, Sheldon, none of this would\u2019ve happened if I hadn\u2019t tried to help you."
+            ],
+            [
+                104,
+                "I don\u2019t know. Sounds kind of heavy."
+            ],
+            [
+                158,
+                "Ooh, shrimp was spicy."
+            ],
+            [
+                160,
+                "You got the tropical fruit kind?"
+            ],
+            [
+                162,
+                "Tell me about it. One time, I swear I pooped out a stick of chalk. (Knock on door) I\u2019ll get it."
+            ],
+            [
+                165,
+                "Oh, hi."
+            ],
+            [
+                167,
+                "Yeah, well, I didn\u2019t handle it so great, either."
+            ],
+            [
+                169,
+                "That\u2019s not true."
+            ],
+            [
+                171,
+                "Oh, wow. Yeah, no, I get that. I\u2019m so sorry. Starting tomorrow, I am turning over a new leaf. Time with you is my number one priority."
+            ],
+            [
+                173,
+                "Well, we\u2019re real close to finishing off the new Batman game."
+            ],
+            [
+                175,
+                "Should I go after you?"
+            ],
+            [
+                177,
+                "Thanks for getting me in trouble."
+            ],
+            [
+                198,
+                "Pull."
+            ]
+        ],
+        "Raj": [
+            [
+                24,
+                "I think it could be romantic. You know, my parents met at his place of work. "
+            ],
+            [
+                26,
+                "I know. What started as a pap smear turned into a date. Which turned into her working there, which turned into marriage, which then turned into hatred, which continues to this day. Two-Eyed Cyclops."
+            ],
+            [
+                32,
+                "Hold on. We do that all the time. You and I work together and play together."
+            ],
+            [
+                76,
+                "His only options here are to fake a heart attack or have a real one."
+            ],
+            [
+                90,
+                "It wasn\u2019t a pyjama party. It was just a couple of bros hanging out, giggling, eating cookie dough and watching Princess Bride."
+            ],
+            [
+                92,
+                "As you wish."
+            ],
+            [
+                96,
+                "Amy."
+            ],
+            [
+                103,
+                "Oh, uh, on the off chance that Bernadette doesn\u2019t call back and apologize, how do you feel about Mexican food for dinner tonight?"
+            ],
+            [
+                105,
+                "That\u2019s \u2019cause you always fill up on chips."
+            ],
+            [
+                159,
+                "You want a TUMS?"
+            ],
+            [
+                161,
+                "No, if I buy those, I just go through them like candy."
+            ],
+            [
+                163,
+                "Thanks."
+            ],
+            [
+                174,
+                "It is awesome. Uh, you should probably go after her."
+            ]
+        ],
+        "Leonard": [
+            [
+                25,
+                "Your father\u2019s a gynaecologist."
+            ],
+            [
+                28,
+                "No, no, I think it\u2019ll be great. Maybe next time he gets conjunctivitis at work, she can hold his head and try to put the drops in his eyes. Giant baby."
+            ],
+            [
+                30,
+                "Yeah, I know."
+            ],
+            [
+                35,
+                "Please let me be there when you tell her that."
+            ],
+            [
+                37,
+                "Please, oh, please, just let me be there."
+            ],
+            [
+                80,
+                "Nailed it."
+            ],
+            [
+                89,
+                "So, boys, how was the pyjama party? You guys jump on the bed and sing into hair brushes?"
+            ],
+            [
+                97,
+                "Hey."
+            ],
+            [
+                99,
+                "That was kind of icy. You two okay?"
+            ],
+            [
+                101,
+                "Smart. Take relationship advice from a man who spent last night braiding Raj\u2019s hair."
+            ],
+            [
+                134,
+                "It\u2019s nine o\u2019clock, where you been?"
+            ],
+            [
+                138,
+                "I did not."
+            ],
+            [
+                142,
+                "I thought Amy was gonna drive you home."
+            ],
+            [
+                148,
+                "Sheldon, I\u2019ve known you a long time, and I\u2019m going to tell you this with all the love I can possibly muster. Amy\u2019s right. You\u2019re wrong."
+            ],
+            [
+                150,
+                "Doesn\u2019t matter."
+            ],
+            [
+                152,
+                "Doesn\u2019t matter."
+            ],
+            [
+                197,
+                "Laser\u2019s warmed up."
+            ]
+        ],
+        "Bernadette": [
+            [
+                39,
+                "So, Amy, what are you gonna be working on at Caltech?"
+            ],
+            [
+                41,
+                "If they\u2019re anything like humans, the answer\u2019s yes."
+            ],
+            [
+                43,
+                "You mean like death row inmates with nothing to lose? No, that would be unethical."
+            ],
+            [
+                46,
+                "He\u2019s never gonna stop doing that, is he?"
+            ],
+            [
+                53,
+                "He said what?"
+            ],
+            [
+                55,
+                "Excuse me, I need to have a chat with my husband."
+            ],
+            [
+                71,
+                "Well?"
+            ],
+            [
+                75,
+                "What exactly do you think you\u2019d get sick of?"
+            ],
+            [
+                78,
+                "Is it my voice? Am I too bossy? What?"
+            ],
+            [
+                81,
+                "That\u2019s the wrong arm for a heart attack, doofus. "
+            ],
+            [
+                83,
+                "Like looking me in the eye and lying to me?"
+            ],
+            [
+                85,
+                "Find somewhere else to sleep tonight."
+            ],
+            [
+                164,
+                "Hi."
+            ],
+            [
+                166,
+                "I may have overreacted."
+            ],
+            [
+                168,
+                "It\u2019s just sometimes I feel like you enjoy spending time with your friends more than with me."
+            ],
+            [
+                170,
+                "It\u2019s not? You spend all day together at work, and then you all hang out at night playing games, going to the comic book store. Last week, you two got a couples massage. So, when you said you wouldn\u2019t want to spend that much time with me, it really hurt my feelings."
+            ],
+            [
+                172,
+                "Why tomorrow?"
+            ],
+            [
+                193,
+                "I\u2019m not apologizing to Howard. He can come beg me on his knees."
+            ]
+        ],
+        "Sheldon (off)": [
+            [
+                45,
+                "(Knock, knock, knock) Amy, Bernadette, Penny. (Knock, knock, knock) Amy, Bernadette, Penny. (Knock, knock, knock) Amy, Bernadette, Penny."
+            ]
+        ],
+        "Bernadette (off)": [
+            [
+                176,
+                "No!"
+            ]
+        ],
+        "All": [
+            [
+                199,
+                "Yeah!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The Cheesecake Factory"
+        ],
+        [
+            "Penny",
+            "Awkward silence, Sheldon on his phone, no touching. Somebody\u2019s having date night."
+        ],
+        [
+            "Amy",
+            "It\u2019s actually steamier than it looks. Sheldon\u2019s looking up the phallic symbolism of root vegetables in Renaissance paintings."
+        ],
+        [
+            "Sheldon",
+            "Oh, no, I got bored with that. I\u2019m just browsing cuticle scissors on Amazon."
+        ],
+        [
+            "Penny",
+            "How do you not tear off his clothes and take him right here on this table?"
+        ],
+        [
+            "Sheldon",
+            "If you do that, I\u2019ll scream."
+        ],
+        [
+            "Amy",
+            "Sheldon, I have some exciting news to tell you."
+        ],
+        [
+            "Sheldon",
+            "That makes two of us. My new cuticle scissors will be here in one to two business days. Come on, one."
+        ],
+        [
+            "Amy",
+            "I\u2019ve been invited to consult on an experiment at your university for a few months. Isn\u2019t that great? We could have lunch together. We could carpool. "
+        ],
+        [
+            "Sheldon",
+            "You know, riding with Leonard has gotten a little tedious lately. The only car game he ever wants to play is the Quiet Game. And he\u2019s terrible at it, I always win."
+        ],
+        [
+            "Amy",
+            "So, you\u2019re okay with this?"
+        ],
+        [
+            "Sheldon",
+            "Well, why wouldn\u2019t I be?"
+        ],
+        [
+            "Amy",
+            "Well, this project would have us working in close proximity to one another. And there\u2019s the vulgar adage that one should not defecate where one eats."
+        ],
+        [
+            "Sheldon",
+            "My father used to say that all the time. That and, um, who does one have to orally gratify to get a drink around here? But what does that have to do with you working at the university?"
+        ],
+        [
+            "Amy",
+            "Sheldon, don\u2019t defecate where you eat means don\u2019t have a romantic relationship in the workplace."
+        ],
+        [
+            "Sheldon",
+            "Really?"
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Huh. Yeah, I always took it literally. That\u2019s why I have never once moved my bowels in this or any restaurant. Hmm."
+        ],
+        [
+            "Amy",
+            "I\u2019m relieved that you don\u2019t have a problem with us working together."
+        ],
+        [
+            "Sheldon",
+            "Not as relieved as I\u2019m about to be. It\u2019s a brave new world, little lady."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Howard",
+            "Are you crazy? You don\u2019t want your girlfriend at work with you. Hell Clam."
+        ],
+        [
+            "Sheldon",
+            "Why not? Hairy Fairy."
+        ],
+        [
+            "Raj",
+            "I think it could be romantic. You know, my parents met at his place of work. "
+        ],
+        [
+            "Leonard",
+            "Your father\u2019s a gynaecologist."
+        ],
+        [
+            "Raj",
+            "I know. What started as a pap smear turned into a date. Which turned into her working there, which turned into marriage, which then turned into hatred, which continues to this day. Two-Eyed Cyclops."
+        ],
+        [
+            "Howard",
+            "Would you please tell him this isn\u2019t a good idea?"
+        ],
+        [
+            "Leonard",
+            "No, no, I think it\u2019ll be great. Maybe next time he gets conjunctivitis at work, she can hold his head and try to put the drops in his eyes. Giant baby."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a Raging Ogre."
+        ],
+        [
+            "Leonard",
+            "Yeah, I know."
+        ],
+        [
+            "Howard",
+            "I\u2019m just saying, I\u2019d never want to work with Bernadette. Can you imagine seeing someone all day long and then you\u2019re supposed to hang out with them after work, too?"
+        ],
+        [
+            "Raj",
+            "Hold on. We do that all the time. You and I work together and play together."
+        ],
+        [
+            "Howard",
+            "Yeah, I know, and it drove me into the arms of another woman. Bipolar Bear."
+        ],
+        [
+            "Sheldon",
+            "Well, I appreciate your concern, but I won\u2019t be seeing any more of Amy than I already do. I assume we\u2019ll deduct any extra time we spend together at work from our weekly quota."
+        ],
+        [
+            "Leonard",
+            "Please let me be there when you tell her that."
+        ],
+        [
+            "Sheldon",
+            "Why? So you can see the look on Amy\u2019s face when she hears my top-notch idea?"
+        ],
+        [
+            "Leonard",
+            "Please, oh, please, just let me be there."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "So, Amy, what are you gonna be working on at Caltech?"
+        ],
+        [
+            "Amy",
+            "I\u2019m leading a study to see if deficiency of the monoamine oxidase enzyme leads to paralyzing fear in monkeys."
+        ],
+        [
+            "Bernadette",
+            "If they\u2019re anything like humans, the answer\u2019s yes."
+        ],
+        [
+            "Amy",
+            "Wait, you\u2019ve, you\u2019ve done this experiment on humans?"
+        ],
+        [
+            "Bernadette",
+            "You mean like death row inmates with nothing to lose? No, that would be unethical."
+        ],
+        [
+            "Penny",
+            "You know, not a lot of people know this, but the monoamine oxidase enzyme was discovered by a woman, Mary Bernheim. That\u2019s right, my phone is just as smart as you guys."
+        ],
+        [
+            "Sheldon (off)",
+            "(Knock, knock, knock) Amy, Bernadette, Penny. (Knock, knock, knock) Amy, Bernadette, Penny. (Knock, knock, knock) Amy, Bernadette, Penny."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s never gonna stop doing that, is he?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t mind. I\u2019m hoping to put his love of repetition to good use someday."
+        ],
+        [
+            "Sheldon",
+            "Hi. Um, I\u2019ve reconsidered. Uh, you can\u2019t work where I work. Enjoy the rest of your evening."
+        ],
+        [
+            "Amy",
+            "Sheldon. I already signed the contract. I cashed a cheque. "
+        ],
+        [
+            "Sheldon",
+            "Mmm, you are not going to come out of this looking good."
+        ],
+        [
+            "Penny",
+            "Sheldon, I don\u2019t understand. I thought you said you were fine with it."
+        ],
+        [
+            "Sheldon",
+            "Well, I was. But that was before Howard explained to me how awful it would be if he had to work with his significant other."
+        ],
+        [
+            "Bernadette",
+            "He said what?"
+        ],
+        [
+            "Sheldon",
+            "Now, don\u2019t be insulted. He just thinks too much of you would be mind-numbingly tedious. "
+        ],
+        [
+            "Bernadette",
+            "Excuse me, I need to have a chat with my husband."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, now, well, keep it short. From what I gather, brevity is your friend. So, are we good here?"
+        ],
+        [
+            "Amy",
+            "No, we\u2019re not good here. I am working on this project."
+        ],
+        [
+            "Penny",
+            "Yeah, and you can\u2019t tell her what she can and cannot do."
+        ],
+        [
+            "Sheldon",
+            "Last week, you told Leonard he couldn\u2019t wear his Wookie jacket out in public."
+        ],
+        [
+            "Penny",
+            "That\u2019s different. I\u2019m not going to the mall with someone dressed like a dumb space bear."
+        ],
+        [
+            "Amy",
+            "Sheldon, you don\u2019t have to worry about me bothering you. I\u2019ll be in a different building. And we don\u2019t even have to have lunch together."
+        ],
+        [
+            "Sheldon",
+            "Really?"
+        ],
+        [
+            "Amy",
+            "Yes. Before all things, I\u2019m a scientist. I\u2019m just there to do my work and, with a little luck, scare the living crap out of some monkeys."
+        ],
+        [
+            "Sheldon",
+            "Hmm. You sure your mothlike personality won\u2019t be drawn to this blazing fire that is myself?"
+        ],
+        [
+            "Amy",
+            "More and more sure."
+        ],
+        [
+            "Sheldon",
+            "Well, then, you have my permission."
+        ],
+        [
+            "Amy",
+            "I didn\u2019t ask for your permission."
+        ],
+        [
+            "Sheldon",
+            "Too late. No backsies."
+        ],
+        [
+            "Howard",
+            "No, no, listen to me. Sheldon misunderstood. What I meant was, if we worked together, there\u2019d be too much of me for you, not the other way around."
+        ],
+        [
+            "Sheldon",
+            "Howard, if you\u2019re going to lie to your wife, don\u2019t start the sentence with Sheldon misunderstood. That\u2019s a dead giveaway."
+        ],
+        [
+            "Bernadette",
+            "Well?"
+        ],
+        [
+            "Howard",
+            "Okay, fine. I did say that, and I think it\u2019s true. I think if we worked together and lived together, we\u2019d get sick of each other."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but to be fair, he only said the part about him getting sick of you."
+        ],
+        [
+            "Howard",
+            "For the love of God, why?"
+        ],
+        [
+            "Bernadette",
+            "What exactly do you think you\u2019d get sick of?"
+        ],
+        [
+            "Raj",
+            "His only options here are to fake a heart attack or have a real one."
+        ],
+        [
+            "Howard",
+            "It\u2019s nothing in particular. I\u2026"
+        ],
+        [
+            "Bernadette",
+            "Is it my voice? Am I too bossy? What?"
+        ],
+        [
+            "Howard",
+            "My arm is feeling numb."
+        ],
+        [
+            "Leonard",
+            "Nailed it."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s the wrong arm for a heart attack, doofus. "
+        ],
+        [
+            "Howard",
+            "My point is, I\u2019m sure there are things about me that would drive you crazy if you had to deal with them all day long."
+        ],
+        [
+            "Bernadette",
+            "Like looking me in the eye and lying to me?"
+        ],
+        [
+            "Howard",
+            "Oh, well, come on, where am I supposed to look when I lie to you?"
+        ],
+        [
+            "Bernadette",
+            "Find somewhere else to sleep tonight."
+        ],
+        [
+            "Howard",
+            "Bernie\u2026"
+        ],
+        [
+            "Sheldon",
+            "If it makes you feel any better, Amy and I are fine. I mean, really good."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Leonard",
+            "So, boys, how was the pyjama party? You guys jump on the bed and sing into hair brushes?"
+        ],
+        [
+            "Raj",
+            "It wasn\u2019t a pyjama party. It was just a couple of bros hanging out, giggling, eating cookie dough and watching Princess Bride."
+        ],
+        [
+            "Howard",
+            "Please, stop talking."
+        ],
+        [
+            "Raj",
+            "As you wish."
+        ],
+        [
+            "Howard",
+            "I mean, you know, Sheldon, none of this would\u2019ve happened if I hadn\u2019t tried to help you."
+        ],
+        [
+            "Sheldon",
+            "Uh, it also wouldn\u2019t have happened if, in the early universe, hydrogen was a little more common or a little less common. This is fun. Your turn."
+        ],
+        [
+            "Amy",
+            "Gentlemen."
+        ],
+        [
+            "Raj",
+            "Amy."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "That was kind of icy. You two okay?"
+        ],
+        [
+            "Sheldon",
+            "Oh, we\u2019re fine. As Howard advised, she\u2019s merely respecting our professional boundaries."
+        ],
+        [
+            "Leonard",
+            "Smart. Take relationship advice from a man who spent last night braiding Raj\u2019s hair."
+        ],
+        [
+            "Sheldon",
+            "Yeah, you make a good point. It would appear I was worried for nothing. Look at her, desperately wishing she was over here at the cool table. Don\u2019t worry, little moth. The flame will come to you."
+        ],
+        [
+            "Raj",
+            "Oh, uh, on the off chance that Bernadette doesn\u2019t call back and apologize, how do you feel about Mexican food for dinner tonight?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. Sounds kind of heavy."
+        ],
+        [
+            "Raj",
+            "That\u2019s \u2019cause you always fill up on chips."
+        ],
+        [
+            "Amy",
+            "And this is Dr. Gunderson from Stockholm."
+        ],
+        [
+            "Sheldon",
+            "Ah, Sweden. Yeah, home of my favourite Muppet and, uh, second favourite meatball. Okay, the Nordic reputation for lack of humour is well-founded. Boy, is his name Gunderson or No-Funderson?"
+        ],
+        [
+            "Amy",
+            "Where are we going with this, Dr. Cooper?"
+        ],
+        [
+            "Sheldon",
+            "Oh, please, I\u2019m your boyfriend. You call me Sheldon. That\u2019s right, I am in a boy-girl relationship with this cute little lump of wool."
+        ],
+        [
+            "Amy",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a physical relationship, too. Hand-holding, hugging, even on hot days. Ow. Okay, here\u2019s a new one. Apparently now we kick each other in the shin under the table. How do you like it when I do it to you? Not so much, huh?"
+        ],
+        [
+            "Scene",
+            "Amy\u2019s lab."
+        ],
+        [
+            "Amy",
+            "Test subject D7, aka Betsy, fear response study. Image number one, Frenchman on bicycle carrying baguettes. No visible reaction. Image number two, sousaphone. Still no reaction. Okay. Let\u2019s kick things up a notch. Image number three, crocodile with a mouthful of monkeys. Okay, now we\u2019re talking."
+        ],
+        [
+            "Sheldon",
+            "Dr. Fowler?"
+        ],
+        [
+            "Amy",
+            "What do you want, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m done with work, so\u2026 ugh!"
+        ],
+        [
+            "Amy",
+            "Oh, sorry, sorry, sorry. Sorry, uh, better?"
+        ],
+        [
+            "Sheldon",
+            "Oh, baguettes. Yes, I like baguettes. What exactly are you doing?"
+        ],
+        [
+            "Amy",
+            "Determining baseline fear levels in capuchin monkeys by measuring their response to visual stimuli."
+        ],
+        [
+            "Sheldon",
+            "So, goofing off. As I was saying, I\u2019m done with work and Leonard\u2019s not. So good news, you get to take me home. Play your cards right, I\u2019ll let you drive me past the lot where the buses park at night."
+        ],
+        [
+            "Amy",
+            "I can\u2019t leave now, Sheldon. I\u2019m very busy. Besides, why would I want to do you a favour after the way you treated me in the cafeteria? Image number four, boa constrictor. "
+        ],
+        [
+            "Sheldon",
+            "What on earth are you talking about? My behaviour in the cafeteria was delightful. Maybe your friend Gunderson needs to head over to IKEA and assemble a sense of humour."
+        ],
+        [
+            "Amy",
+            "You embarrassed me in front of my colleagues on my first day here. Image number five, kitten in a teacup."
+        ],
+        [
+            "Sheldon",
+            "Aw. Embarrassed you?"
+        ],
+        [
+            "Amy",
+            "You know what? I don\u2019t have time for this. Find another way home."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m starting to get the sense that you\u2019re angry with me."
+        ],
+        [
+            "Amy",
+            "Really? What tipped you off?"
+        ],
+        [
+            "Sheldon",
+            "Couple things, actually. Your tone of voice, your body language\u2026"
+        ],
+        [
+            "Amy",
+            "Get out."
+        ],
+        [
+            "Sheldon",
+            "Well, now, that."
+        ],
+        [
+            "Amy",
+            "Image number six, woman giving birth."
+        ],
+        [
+            "Sheldon",
+            "Bleugh!"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "It\u2019s nine o\u2019clock, where you been?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I had to take the bus home. Fell asleep and missed my stop."
+        ],
+        [
+            "Penny",
+            "Oh, no."
+        ],
+        [
+            "Sheldon",
+            "Did you know that Los Angeles has a Little Sri Lanka?"
+        ],
+        [
+            "Leonard",
+            "I did not."
+        ],
+        [
+            "Sheldon",
+            "Well, I do now. They\u2019re a lovely people. Although terrifying when you wake up face-to-face with them. If you\u2019re hungry, I brought home some mutton and coconut milk."
+        ],
+        [
+            "Penny",
+            "Why\u2019d you get that? You hate lamb."
+        ],
+        [
+            "Sheldon",
+            "I was asking for directions. Apparently, there was a communication problem."
+        ],
+        [
+            "Leonard",
+            "I thought Amy was gonna drive you home."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I thought so, too, but she\u2019s acting very strangely. I was discussing it with a Sri Lankan fellow on the bus, and he hypothesized that a tiger may have recently run across her shadow. Although he may have just been trying to drum up business for his brother-in-law\u2019s witch doctor practice."
+        ],
+        [
+            "Penny",
+            "Okay, Sheldon, what happened between you and Amy?"
+        ],
+        [
+            "Sheldon",
+            "Well, can you believe she said I embarrassed her?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "But you didn\u2019t even hear the details."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I\u2019ve known you a long time, and I\u2019m going to tell you this with all the love I can possibly muster. Amy\u2019s right. You\u2019re wrong."
+        ],
+        [
+            "Sheldon",
+            "But you don\u2019t even know\u2026"
+        ],
+        [
+            "Leonard",
+            "Doesn\u2019t matter."
+        ],
+        [
+            "Sheldon",
+            "But, now, but in my defence\u2026"
+        ],
+        [
+            "Leonard",
+            "Doesn\u2019t matter."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re not listening to my side of it."
+        ],
+        [
+            "Penny",
+            "Okay, fine, Sheldon. What is your side?"
+        ],
+        [
+            "Sheldon",
+            "Well\u2026"
+        ],
+        [
+            "Penny",
+            "Nope, got to go with Amy on this one."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Ooh, shrimp was spicy."
+        ],
+        [
+            "Raj",
+            "You want a TUMS?"
+        ],
+        [
+            "Howard",
+            "You got the tropical fruit kind?"
+        ],
+        [
+            "Raj",
+            "No, if I buy those, I just go through them like candy."
+        ],
+        [
+            "Howard",
+            "Tell me about it. One time, I swear I pooped out a stick of chalk. (Knock on door) I\u2019ll get it."
+        ],
+        [
+            "Raj",
+            "Thanks."
+        ],
+        [
+            "Bernadette",
+            "Hi."
+        ],
+        [
+            "Howard",
+            "Oh, hi."
+        ],
+        [
+            "Bernadette",
+            "I may have overreacted."
+        ],
+        [
+            "Howard",
+            "Yeah, well, I didn\u2019t handle it so great, either."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s just sometimes I feel like you enjoy spending time with your friends more than with me."
+        ],
+        [
+            "Howard",
+            "That\u2019s not true."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s not? You spend all day together at work, and then you all hang out at night playing games, going to the comic book store. Last week, you two got a couples massage. So, when you said you wouldn\u2019t want to spend that much time with me, it really hurt my feelings."
+        ],
+        [
+            "Howard",
+            "Oh, wow. Yeah, no, I get that. I\u2019m so sorry. Starting tomorrow, I am turning over a new leaf. Time with you is my number one priority."
+        ],
+        [
+            "Bernadette",
+            "Why tomorrow?"
+        ],
+        [
+            "Howard",
+            "Well, we\u2019re real close to finishing off the new Batman game."
+        ],
+        [
+            "Raj",
+            "It is awesome. Uh, you should probably go after her."
+        ],
+        [
+            "Howard",
+            "Should I go after you?"
+        ],
+        [
+            "Bernadette (off)",
+            "No!"
+        ],
+        [
+            "Howard",
+            "Thanks for getting me in trouble."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy."
+        ],
+        [
+            "Amy",
+            "Sheldon, what are you doing here so late?"
+        ],
+        [
+            "Sheldon",
+            "I couldn\u2019t sleep because I kept thinking about what happened earlier between us. Also, I had one heck of a bus nap. Oh, speaking of which, do you want some mutton and coconut milk?"
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Well, I cannot give this stuff away."
+        ],
+        [
+            "Amy",
+            "What do you want?"
+        ],
+        [
+            "Sheldon",
+            "Amy, this isn\u2019t easy to say. All relationships are difficult, but even more so when you\u2019re in one with a person who struggles with everyday social interactions. And frankly, who can strike some people as being kind of a weirdo."
+        ],
+        [
+            "Amy",
+            "Sheldon, you\u2019re not a weirdo."
+        ],
+        [
+            "Sheldon",
+            "I wasn\u2019t speaking about me. I mean, honestly, there\u2019s no telling what will set you off. You know, introducing myself as your boyfriend. Giving you the opportunity to drive me home. Breaking the ice with your colleagues using ethnic humour, the funniest kind of humour."
+        ],
+        [
+            "Amy",
+            "What\u2019s your point?"
+        ],
+        [
+            "Sheldon",
+            "My point is, we\u2019re a couple, and I like you for who you are, quirks and all."
+        ],
+        [
+            "Amy",
+            "I like you, too."
+        ],
+        [
+            "Sheldon",
+            "Well, I should hope so. I don\u2019t see anyone else banging on this door to put up with your nonsense. Not even a good-bye? You see, that\u2019s the kind of thing that makes people think you\u2019re weird. Poor kid. She just doesn\u2019t see it."
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory Bar."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m not apologizing to Howard. He can come beg me on his knees."
+        ],
+        [
+            "Amy",
+            "Sheldon, too. If I see him at work, I\u2019m just going to ignore him."
+        ],
+        [
+            "Penny",
+            "All right, don\u2019t worry. I talked to Leonard. He is gonna sit the guys down and set them straight."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Laser\u2019s warmed up."
+        ],
+        [
+            "Howard",
+            "Pull."
+        ],
+        [
+            "All",
+            "Yeah!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-05-the-workplace-proximity/"
+}

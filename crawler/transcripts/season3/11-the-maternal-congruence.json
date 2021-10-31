@@ -1,0 +1,1882 @@
+{
+    "Season": 3,
+    "Episode": 11,
+    "Title": "the maternal congruence",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                9,
+                "Credits sequence."
+            ],
+            [
+                11,
+                "The apartment."
+            ],
+            [
+                57,
+                "Leonard\u2019s car."
+            ],
+            [
+                92,
+                "The apartment."
+            ],
+            [
+                132,
+                "Penny\u2019s car."
+            ],
+            [
+                151,
+                "Leonard\u2019s bedroom."
+            ],
+            [
+                171,
+                "A bar."
+            ],
+            [
+                193,
+                "The apartment."
+            ],
+            [
+                213,
+                "Leonard\u2019s car."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Oh, I always tear up when the Grinch\u2019s heart grows three sizes."
+            ],
+            [
+                4,
+                "You really didn\u2019t like it, Sheldon?"
+            ],
+            [
+                12,
+                "I just love decorating the Christmas tree. It makes me feel like a little girl again."
+            ],
+            [
+                14,
+                "Really? Why not?"
+            ],
+            [
+                16,
+                "Oh, sounds festive. Did you at least give presents?"
+            ],
+            [
+                18,
+                "Sheldon, what about you? Did you have a Christmas tree?"
+            ],
+            [
+                20,
+                "So I take it you don\u2019t want to help us trim the tree."
+            ],
+            [
+                22,
+                "What is it?"
+            ],
+            [
+                24,
+                "Oh, sure, sure, yeah. Very Christmassy."
+            ],
+            [
+                30,
+                "No, it\u2019s fine. Look, Sir Isaac can go right next to this little candy cane."
+            ],
+            [
+                36,
+                "What? Your\u2026 your mother\u2019s coming? When?"
+            ],
+            [
+                38,
+                "When were you going to tell me?"
+            ],
+            [
+                40,
+                "Why were you keeping this a secret?"
+            ],
+            [
+                43,
+                "Why wouldn\u2019t she approve of me? I\u2019m adorable."
+            ],
+            [
+                46,
+                "Hey, it\u2019s a big menu. There\u2019s two pages just for desserts."
+            ],
+            [
+                48,
+                "Okay, you know what? It\u2019s lame when I say it, it\u2019s just ridiculous when you pile on."
+            ],
+            [
+                50,
+                "So what did she say when you told her we were going out?"
+            ],
+            [
+                52,
+                "You didn\u2019t tell her we were going out, did you?"
+            ],
+            [
+                54,
+                "Why not?"
+            ],
+            [
+                113,
+                "Well, he sent me a football and a catcher\u2019s mitt for Christmas, so I\u2019m going to say no."
+            ],
+            [
+                120,
+                "No, it sounded like a compliment."
+            ],
+            [
+                131,
+                "Nothing. Not a damn thing."
+            ],
+            [
+                134,
+                "Oh, it\u2019s not a problem."
+            ],
+            [
+                136,
+                "No, you do not."
+            ],
+            [
+                138,
+                "Yeah, I gotta put a sticker over that. So, uh, you must be devastated about your divorce."
+            ],
+            [
+                140,
+                "Come on, I mean, you\u2019re not upset that your marriage is over?"
+            ],
+            [
+                142,
+                "Sure, sure."
+            ],
+            [
+                144,
+                "Eight years?"
+            ],
+            [
+                146,
+                "Yikes. What\u2019s so funny?"
+            ],
+            [
+                148,
+                "You know what? I could use a drink. Do you want to stop for a drink?"
+            ],
+            [
+                150,
+                "I do, I\u2019ll teach you."
+            ],
+            [
+                173,
+                "Okay, now this time try drinking it all at once."
+            ],
+            [
+                175,
+                "I\u2019ve been responsible for my own buzz since 2003. Another round for me and my homegirl."
+            ],
+            [
+                177,
+                "As long as you don\u2019t feel it running down your pants, you\u2019re fine."
+            ],
+            [
+                179,
+                "Well, we are known for our cheesecake. Hit us again."
+            ],
+            [
+                181,
+                "Hey, Bev, guess what?"
+            ],
+            [
+                183,
+                "I\u2019m sleeping with your son."
+            ],
+            [
+                185,
+                "The one from whom I live across the hall from."
+            ],
+            [
+                187,
+                "Oh, Beverly, I can\u2019t talk to my boyfriend\u2019s mother about his penis."
+            ],
+            [
+                189,
+                "Actually, I\u2019ve only had the cheesecake. One more time. You know, Leonard did not want to tell you we were dating."
+            ],
+            [
+                191,
+                "Well, let\u2019s go find out who."
+            ],
+            [
+                194,
+                "Leonard?"
+            ],
+            [
+                196,
+                "Get out here! Your mommy wants to talk to you!"
+            ],
+            [
+                198,
+                "You\u2019re in trouble."
+            ],
+            [
+                200,
+                "Yeah, not bad, not bad."
+            ],
+            [
+                203,
+                "Oh, thank you."
+            ],
+            [
+                205,
+                "What the hell happened to lovely and charming?"
+            ],
+            [
+                210,
+                "That\u2019s the Del Taco."
+            ],
+            [
+                221,
+                "I blame Penny, too. Bad Penny."
+            ],
+            [
+                225,
+                "Agreed."
+            ],
+            [
+                228,
+                "Oh, thank you, Beverly."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Tears seem appropriate. Enlargement of the heart muscle, or hypertrophic cardiomyopathy, is a serious disease which could lead to congestive heart failure."
+            ],
+            [
+                5,
+                "No, on the contrary. I found the Grinch to be a relatable, engaging character, and I was really with him right up to the point that he succumbed to social convention and returned the presents and saved Christmas. What a buzz kill that was."
+            ],
+            [
+                7,
+                "Excuse me, but the sun is essential for all life on Earth. Frosty is merely a bit of frozen supernatural ephemera in a stolen hat. A crime, by the way, for which he is never brought to account."
+            ],
+            [
+                19,
+                "Oh, yes. We had a tree, we had a manger, we had an inflatable Santa Claus with plastic reindeer on the front lawn. And to make things even more jolly, there were so many blinking lights on the house they induced neighbourhood-wide seizures."
+            ],
+            [
+                21,
+                "I do not. But if you insist on decorating a spider-infested fire hazard in my home I would request that you add this."
+            ],
+            [
+                23,
+                "You\u2019re kidding, right? It\u2019s a bust of Sir Isaac Newton."
+            ],
+            [
+                25,
+                "Wait, excuse me, but it\u2019s much more Christmassy than anything you\u2019ve put on the tree."
+            ],
+            [
+                27,
+                "December 25, 1642, Julian calendar, Sir Isaac Newton is born. Jesus, on the other hand, was actually born in the summer. His birthday was moved to coincide with a traditional pagan holiday that celebrated the winter solstice with lit fires and slaughtered goats. Which, frankly, sounds like more fun than 12 hours of church with my mother followed by a fruitcake."
+            ],
+            [
+                29,
+                "I sense that\u2019s not sincere, although I have no idea why."
+            ],
+            [
+                31,
+                "No. Isaac goes at the top of the tree."
+            ],
+            [
+                33,
+                "I understand. You dispute Newton\u2019s claim that he invented calculus and you want to put Gottfried Leibniz on the top."
+            ],
+            [
+                35,
+                "Well, perhaps when your mother gets here, she\u2019ll talk some sense into you."
+            ],
+            [
+                42,
+                "If I can interject here, obviously Leonard is concerned that his mother won\u2019t approve of you as his mate."
+            ],
+            [
+                45,
+                "If I can interject again. Leonard comes from a remarkably high-achieving family, who have all chosen high-achieving partners. He probably feels that it\u2019s doubtful that his mother will be overly impressed with his dating a woman whose most significant achievement is memorizing the Cheesecake Factory menu."
+            ],
+            [
+                56,
+                "Leonard, I\u2019m no expert on meditation, but if you\u2019re trying to calm yourself down, I believe the word is Om."
+            ],
+            [
+                59,
+                "No trouble at all."
+            ],
+            [
+                62,
+                "My pleasure. For a non-physicist, you have a remarkable grasp of how electric dipoles in the brain\u2019s water molecules could not possibly form a Bose condensate."
+            ],
+            [
+                64,
+                "August 16th. Right after her carpal tunnel surgery."
+            ],
+            [
+                66,
+                "You did."
+            ],
+            [
+                68,
+                "Neither do I, but it\u2019s the social convention."
+            ],
+            [
+                76,
+                "It\u2019s what we think caused your narcissistic personality disorder. We discussed it at length during our last video chat. Although how we got onto the subject of you is baffling."
+            ],
+            [
+                83,
+                "My bad. I did send a gift from both of us."
+            ],
+            [
+                87,
+                "Well, I\u2019m not sure about interesting, but\u2026"
+            ],
+            [
+                89,
+                "Very well. Shall we switch topics to Isaac Newton v. Gottfried Leibniz?"
+            ],
+            [
+                91,
+                "Isn\u2019t she brilliant, Leonard? How I envy you."
+            ],
+            [
+                123,
+                "September 22nd."
+            ],
+            [
+                126,
+                "She was old and blind, Leonard. What choice did we have?"
+            ],
+            [
+                152,
+                "(Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+            ],
+            [
+                154,
+                "I didn\u2019t make tea for you. This is my tea."
+            ],
+            [
+                156,
+                "It\u2019s a conversation starter."
+            ],
+            [
+                158,
+                "Oh, is it? We\u2019re conversing. Checkmate."
+            ],
+            [
+                160,
+                "What I want is to be departing the Starship Enterprise in a one-man shuttle craft headed to the planetoid I rule known as Sheldon Alpha Five."
+            ],
+            [
+                162,
+                "To comfort you, of course. No, that\u2019s not going to work at all, I\u2019ll comfort you from over here. Leonard, what you\u2019re experiencing is a classic Jungian crisis in which the aging individual mourns the loss of the never-to-be realized ideal family unit."
+            ],
+            [
+                164,
+                "That\u2019s not the comforting part."
+            ],
+            [
+                166,
+                "No, no. The comforting part is that the Germans have a term for what you\u2019re feeling. Weltschmerz. It means the depression that arises from comparing the world as it is to a hypothetical, idealized world."
+            ],
+            [
+                168,
+                "Well, the Germans have always been a comforting people. Just remember, Leonard, where your biological family has failed you, you always have me, your surrogate family."
+            ],
+            [
+                170,
+                "If it\u2019s any consolation, I\u2019m not happy about it either. Good night."
+            ],
+            [
+                211,
+                "Why is Leonard softly banging his head against his bedroom door?"
+            ],
+            [
+                215,
+                "You\u2019re very welcome."
+            ],
+            [
+                218,
+                "I don\u2019t blame you. You were intoxicated."
+            ],
+            [
+                220,
+                "I blame Penny."
+            ],
+            [
+                224,
+                "Agreed."
+            ]
+        ],
+        "Leonard (singing Deck the Halls)": [
+            [
+                3,
+                "Fa-la-la, la-la-la, la-la-la."
+            ]
+        ],
+        "Leonard": [
+            [
+                6,
+                "When we watch Frosty the Snowman, he roots for the sun."
+            ],
+            [
+                13,
+                "We didn\u2019t have a tree when I was growing up."
+            ],
+            [
+                15,
+                "Mmm, in my family, holidays weren\u2019t so much celebrated as studied for their anthropological and psychological implications on human society."
+            ],
+            [
+                17,
+                "Mmm, in a way. We presented papers, and then broke off into focus groups and critiqued each other."
+            ],
+            [
+                26,
+                "Here we go."
+            ],
+            [
+                28,
+                "Merry Newton-mas, everyone."
+            ],
+            [
+                32,
+                "No, he doesn\u2019t."
+            ],
+            [
+                34,
+                "Yeah, you got me. I\u2019m a Leibniz man."
+            ],
+            [
+                37,
+                "Tomorrow."
+            ],
+            [
+                39,
+                "Um, tomorrow?"
+            ],
+            [
+                41,
+                "Well, I just, I thought\u2026"
+            ],
+            [
+                44,
+                "You are, it\u2019s just\u2026"
+            ],
+            [
+                47,
+                "I know. And those specials, they change every day."
+            ],
+            [
+                49,
+                "Okay, sorry."
+            ],
+            [
+                51,
+                "Um\u2026"
+            ],
+            [
+                53,
+                "Um\u2026"
+            ],
+            [
+                55,
+                "Um\u2026"
+            ],
+            [
+                60,
+                "I drove, Mother. I\u2019m driving now."
+            ],
+            [
+                63,
+                "Wait, wait, wait. When did you send my mom notes on a paper?"
+            ],
+            [
+                70,
+                "Wait, wait, wait. You had surgery?"
+            ],
+            [
+                72,
+                "No, I heard that."
+            ],
+            [
+                74,
+                "I just don\u2019t understand why he knows more about your life than I do."
+            ],
+            [
+                78,
+                "Fine, Mom. How are you?"
+            ],
+            [
+                80,
+                "Now I\u2019m less fine."
+            ],
+            [
+                82,
+                "No. Sheldon, why didn\u2019t you tell me?"
+            ],
+            [
+                85,
+                "You must be very happy."
+            ],
+            [
+                88,
+                "Not the time, Sheldon."
+            ],
+            [
+                104,
+                "I don\u2019t know what you\u2019re talking about."
+            ],
+            [
+                106,
+                "All right. He \u201chas\u201d a \u201cgirlfriend.\u201d"
+            ],
+            [
+                111,
+                "Oh, glad you\u2019re here, uh, sit down, I\u2019ll get you a plate. Mom, you remember Penny."
+            ],
+            [
+                116,
+                "What?"
+            ],
+            [
+                118,
+                "No!"
+            ],
+            [
+                121,
+                "When did this happen?"
+            ],
+            [
+                125,
+                "Mitzy\u2019s dead?"
+            ],
+            [
+                127,
+                "I don\u2019t believe this. Why am I the last to know?"
+            ],
+            [
+                129,
+                "You\u2019re right. I\u2019m-I\u2019m-I\u2019m-I\u2019m sorry, I\u2019m way out of line!"
+            ],
+            [
+                153,
+                "I don\u2019t want tea."
+            ],
+            [
+                155,
+                "Then why are you telling me?"
+            ],
+            [
+                157,
+                "That\u2019s a lousy conversation starter."
+            ],
+            [
+                159,
+                "What do you want, Sheldon?"
+            ],
+            [
+                161,
+                "I want that too. Why are you here?"
+            ],
+            [
+                163,
+                "Thank you, that\u2019s very comforting."
+            ],
+            [
+                165,
+                "It\u2019s not?"
+            ],
+            [
+                167,
+                "You\u2019re right, I do feel better."
+            ],
+            [
+                169,
+                "You\u2019re my surrogate family?"
+            ],
+            [
+                197,
+                "What the hell is going on?"
+            ],
+            [
+                201,
+                "Are you guys drunk?"
+            ],
+            [
+                206,
+                "How come you didn\u2019t tell me that you and Father were getting a divorce? How come you didn\u2019t tell me you had surgery? How come you didn\u2019t tell me my dog died?"
+            ],
+            [
+                208,
+                "I do."
+            ],
+            [
+                216,
+                "Once again, I\u2019m driving. I\u2019m right here."
+            ],
+            [
+                222,
+                "Wait a minute, what are you talking about? What inappropriate behaviour?"
+            ],
+            [
+                226,
+                "What the hell, agreed."
+            ],
+            [
+                230,
+                "Mother, remember when I was complaining that you don\u2019t communicate with me enough?"
+            ],
+            [
+                232,
+                "I\u2019m over it."
+            ]
+        ],
+        "Leonard (continuing Deck the Halls)": [
+            [
+                8,
+                "Fa-la-la-la-la, la-la-la-la."
+            ]
+        ],
+        "Beverley": [
+            [
+                58,
+                "It was so nice of you to come all the way down to the airport to pick me up."
+            ],
+            [
+                61,
+                "Yes, dear. Mommy\u2019s proud. I\u2019ve been meaning to thank you for your notes on my paper disproving quantum brain dynamic theory."
+            ],
+            [
+                65,
+                "Oh, did I thank you for the flowers?"
+            ],
+            [
+                67,
+                "I don\u2019t really like flowers."
+            ],
+            [
+                69,
+                "It is, isn\u2019t it?"
+            ],
+            [
+                71,
+                "Yes, and Sheldon sent me flowers."
+            ],
+            [
+                73,
+                "Then what was all that wait, wait, wait about?"
+            ],
+            [
+                75,
+                "Well, I would assume it\u2019s because Sheldon and I stay in touch due to mutual interest and respect, while you avoid me, due to unresolved childhood issues."
+            ],
+            [
+                77,
+                "Yes, but we are on the subject, so I\u2019m obliged to ask, Leonard, how are you?"
+            ],
+            [
+                79,
+                "Mmm, menopausal."
+            ],
+            [
+                81,
+                "Have you heard your brother has gotten engaged?"
+            ],
+            [
+                84,
+                "She\u2019s a remarkable girl. The youngest appeals court judge in New Jersey and a two-time Olympic bronze medallist."
+            ],
+            [
+                86,
+                "Why? I\u2019m not marrying her. So, how about you? Are you seeing anyone interesting?"
+            ],
+            [
+                90,
+                "It\u2019s all right, Sheldon. I will just pretend that Leonard\u2019s not withholding information. Although, I will point out, Leonard, that I am a trained psychiatrist and you are exhibiting the same secretive behavioural tics that accompanied your learning to masturbate."
+            ],
+            [
+                94,
+                "So, Howard, have you and Rajesh finally summoned the courage to express your latent homosexual feelings toward one another?"
+            ],
+            [
+                96,
+                "Why not?"
+            ],
+            [
+                98,
+                "I see."
+            ],
+            [
+                100,
+                "And where is she this evening?"
+            ],
+            [
+                102,
+                "I see. Her grandmother died."
+            ],
+            [
+                108,
+                "Howard, keep in mind that the more passionately you stick to this construct, the more you\u2019re hurting your partner."
+            ],
+            [
+                112,
+                "Oh, yes, the waitress slash actress with the unresolved father issues. Has he finally come to terms with his little slugger growing breasts?"
+            ],
+            [
+                115,
+                "Classic overcompensation. Oh, speaking of fathers, Leonard, that reminds me, I\u2019m divorcing yours."
+            ],
+            [
+                117,
+                "Yes. He was cheating on me."
+            ],
+            [
+                119,
+                "Yes, with some waitress from the university cafeteria. Can you believe it? A waitress? Oh, no offense, dear."
+            ],
+            [
+                122,
+                "Mmm, well, let\u2019s see. Sheldon, when did I leave Leonard\u2019s father?"
+            ],
+            [
+                124,
+                "Oh, yes, that\u2019s right. The weekend after Leonard\u2019s dog died."
+            ],
+            [
+                128,
+                "Excuse me, Leonard, I am the one who\u2019s getting a divorce, Mitzy is the one who is dead. Why are you the one making a fuss?"
+            ],
+            [
+                130,
+                "So, Penny, what\u2019s new in your life?"
+            ],
+            [
+                133,
+                "Thank you for driving me back to my hotel."
+            ],
+            [
+                135,
+                "I was going to ask Leonard to do it, but he seemed a bit emotionally unstable and you don\u2019t want someone like that operating heavy machinery."
+            ],
+            [
+                137,
+                "Your check engine light is on."
+            ],
+            [
+                139,
+                "Oh, not at all. But I am a bit distressed to be in a vehicle that\u2019s not subjected to regular maintenance."
+            ],
+            [
+                141,
+                "Well, initially I felt something akin to grief and perhaps anger, but that\u2019s the natural reaction of the limbic system to being betrayed by a loathsome son of a bitch."
+            ],
+            [
+                143,
+                "Thankfully, my shock was somewhat mitigated by the fact that I haven\u2019t had intercourse with him in eight years."
+            ],
+            [
+                145,
+                "Oh, that\u2019s nothing. I\u2019ve been responsible for my own orgasms since 1982."
+            ],
+            [
+                147,
+                "That\u2019s exactly what I say during orgasms. Yikes."
+            ],
+            [
+                149,
+                "Oh, I don\u2019t drink."
+            ],
+            [
+                174,
+                "Yikes."
+            ],
+            [
+                176,
+                "I feel a spreading warmth through my extremities."
+            ],
+            [
+                178,
+                "Oh, that is fascinating. I\u2019m noticing an immediate lowering of my inhibitions. For example, I\u2019m seriously considering asking that busboy to ravish me in the alleyway while I eat cheesecake. What do you think?"
+            ],
+            [
+                180,
+                "Yes. If a little is good, more must be better."
+            ],
+            [
+                182,
+                "What?"
+            ],
+            [
+                184,
+                "Really? Which one?"
+            ],
+            [
+                186,
+                "Well, that\u2019s convenient. How did his penis turn out?"
+            ],
+            [
+                188,
+                "Oh, fair enough. What can you tell me, if anything, about that busboy\u2019s penis?"
+            ],
+            [
+                190,
+                "Really? Well, that means he\u2019s either embarrassed about the relationship or he doesn\u2019t care enough about his mother to tell her he\u2019s in one. Either way, one of us should be insulted."
+            ],
+            [
+                192,
+                "You go get a taxi. I\u2019m gonna slip my business card into that busboy\u2019s back pocket, cupping his firm, right buttock as I do so."
+            ],
+            [
+                195,
+                "Sonny boy!"
+            ],
+            [
+                199,
+                "Why didn\u2019t you tell me you were tapping my homegirl? Did I say that right?"
+            ],
+            [
+                202,
+                "Well, I hope so. Otherwise, why would we have stopped at Del Taco? Now, how could you not tell me you were in a relationship with this lovely, charming young woman?"
+            ],
+            [
+                204,
+                "You\u2019re welcome. Is it because she\u2019s uneducated, trapped in a menial service position?"
+            ],
+            [
+                207,
+                "Wait, wait, wait, wait, wait. What I hear you saying is that you want a more intimate mother-son relationship."
+            ],
+            [
+                212,
+                "Speaking of warm feelings, come here. (She grabs Sheldon and kisses him) No, I\u2019d rather have the busboy."
+            ],
+            [
+                214,
+                "Thank you for taking me to the airport."
+            ],
+            [
+                217,
+                "Please, I am very hungover and in no mood to satisfy your need for approval. Sheldon, I do hope you\u2019ll forgive me for my inappropriate behaviour last night."
+            ],
+            [
+                219,
+                "Thank you."
+            ],
+            [
+                223,
+                "I think it\u2019s best that you not know."
+            ],
+            [
+                227,
+                "And I want you to take very good care of this young woman."
+            ],
+            [
+                229,
+                "You\u2019re welcome. She doesn\u2019t have much in the way of career prospects, don\u2019t make her responsible for her own orgasms as well."
+            ],
+            [
+                231,
+                "Yes, dear."
+            ]
+        ],
+        "Howard": [
+            [
+                95,
+                "What? No."
+            ],
+            [
+                97,
+                "Because we don\u2019t have latent homosexual feelings toward one another."
+            ],
+            [
+                99,
+                "No, really. I have a girlfriend now."
+            ],
+            [
+                101,
+                "She had to go out of town. Her grandmother died."
+            ],
+            [
+                103,
+                "Honest to God. Leonard, tell her I have a girlfriend."
+            ],
+            [
+                105,
+                "What do you mean you don\u2019t know what I\u2019m talking about? Tell her I have a girlfriend!"
+            ],
+            [
+                107,
+                "Her name is Bernadette, she\u2019s working as a waitress, but she\u2019s going to school to be a microbiologist."
+            ],
+            [
+                114,
+                "If it helps, we\u2019re all good with your breasts."
+            ]
+        ],
+        "Howard (to Raj who has whispered to him)": [
+            [
+                109,
+                "Do you really think your lips in my ear is helping?"
+            ]
+        ],
+        "Penny (arriving)": [
+            [
+                110,
+                "Hi. Sorry I\u2019m late."
+            ]
+        ],
+        "Beverley (gives him an uncomfortable hug)": [
+            [
+                209,
+                "There. It\u2019s late. Now, go to bed. I\u2019m getting a warm feeling spreading through my heart."
+            ]
+        ],
+        "Penny (finishing Deck the Halls)": [
+            [
+                233,
+                "Fa-la-la-la-la, la-la la-la."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Oh, I always tear up when the Grinch\u2019s heart grows three sizes."
+        ],
+        [
+            "Sheldon",
+            "Tears seem appropriate. Enlargement of the heart muscle, or hypertrophic cardiomyopathy, is a serious disease which could lead to congestive heart failure."
+        ],
+        [
+            "Leonard (singing Deck the Halls)",
+            "Fa-la-la, la-la-la, la-la-la."
+        ],
+        [
+            "Penny",
+            "You really didn\u2019t like it, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "No, on the contrary. I found the Grinch to be a relatable, engaging character, and I was really with him right up to the point that he succumbed to social convention and returned the presents and saved Christmas. What a buzz kill that was."
+        ],
+        [
+            "Leonard",
+            "When we watch Frosty the Snowman, he roots for the sun."
+        ],
+        [
+            "Sheldon",
+            "Excuse me, but the sun is essential for all life on Earth. Frosty is merely a bit of frozen supernatural ephemera in a stolen hat. A crime, by the way, for which he is never brought to account."
+        ],
+        [
+            "Leonard (continuing Deck the Halls)",
+            "Fa-la-la-la-la, la-la-la-la."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "I just love decorating the Christmas tree. It makes me feel like a little girl again."
+        ],
+        [
+            "Leonard",
+            "We didn\u2019t have a tree when I was growing up."
+        ],
+        [
+            "Penny",
+            "Really? Why not?"
+        ],
+        [
+            "Leonard",
+            "Mmm, in my family, holidays weren\u2019t so much celebrated as studied for their anthropological and psychological implications on human society."
+        ],
+        [
+            "Penny",
+            "Oh, sounds festive. Did you at least give presents?"
+        ],
+        [
+            "Leonard",
+            "Mmm, in a way. We presented papers, and then broke off into focus groups and critiqued each other."
+        ],
+        [
+            "Penny",
+            "Sheldon, what about you? Did you have a Christmas tree?"
+        ],
+        [
+            "Sheldon",
+            "Oh, yes. We had a tree, we had a manger, we had an inflatable Santa Claus with plastic reindeer on the front lawn. And to make things even more jolly, there were so many blinking lights on the house they induced neighbourhood-wide seizures."
+        ],
+        [
+            "Penny",
+            "So I take it you don\u2019t want to help us trim the tree."
+        ],
+        [
+            "Sheldon",
+            "I do not. But if you insist on decorating a spider-infested fire hazard in my home I would request that you add this."
+        ],
+        [
+            "Penny",
+            "What is it?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re kidding, right? It\u2019s a bust of Sir Isaac Newton."
+        ],
+        [
+            "Penny",
+            "Oh, sure, sure, yeah. Very Christmassy."
+        ],
+        [
+            "Sheldon",
+            "Wait, excuse me, but it\u2019s much more Christmassy than anything you\u2019ve put on the tree."
+        ],
+        [
+            "Leonard",
+            "Here we go."
+        ],
+        [
+            "Sheldon",
+            "December 25, 1642, Julian calendar, Sir Isaac Newton is born. Jesus, on the other hand, was actually born in the summer. His birthday was moved to coincide with a traditional pagan holiday that celebrated the winter solstice with lit fires and slaughtered goats. Which, frankly, sounds like more fun than 12 hours of church with my mother followed by a fruitcake."
+        ],
+        [
+            "Leonard",
+            "Merry Newton-mas, everyone."
+        ],
+        [
+            "Sheldon",
+            "I sense that\u2019s not sincere, although I have no idea why."
+        ],
+        [
+            "Penny",
+            "No, it\u2019s fine. Look, Sir Isaac can go right next to this little candy cane."
+        ],
+        [
+            "Sheldon",
+            "No. Isaac goes at the top of the tree."
+        ],
+        [
+            "Leonard",
+            "No, he doesn\u2019t."
+        ],
+        [
+            "Sheldon",
+            "I understand. You dispute Newton\u2019s claim that he invented calculus and you want to put Gottfried Leibniz on the top."
+        ],
+        [
+            "Leonard",
+            "Yeah, you got me. I\u2019m a Leibniz man."
+        ],
+        [
+            "Sheldon",
+            "Well, perhaps when your mother gets here, she\u2019ll talk some sense into you."
+        ],
+        [
+            "Penny",
+            "What? Your\u2026 your mother\u2019s coming? When?"
+        ],
+        [
+            "Leonard",
+            "Tomorrow."
+        ],
+        [
+            "Penny",
+            "When were you going to tell me?"
+        ],
+        [
+            "Leonard",
+            "Um, tomorrow?"
+        ],
+        [
+            "Penny",
+            "Why were you keeping this a secret?"
+        ],
+        [
+            "Leonard",
+            "Well, I just, I thought\u2026"
+        ],
+        [
+            "Sheldon",
+            "If I can interject here, obviously Leonard is concerned that his mother won\u2019t approve of you as his mate."
+        ],
+        [
+            "Penny",
+            "Why wouldn\u2019t she approve of me? I\u2019m adorable."
+        ],
+        [
+            "Leonard",
+            "You are, it\u2019s just\u2026"
+        ],
+        [
+            "Sheldon",
+            "If I can interject again. Leonard comes from a remarkably high-achieving family, who have all chosen high-achieving partners. He probably feels that it\u2019s doubtful that his mother will be overly impressed with his dating a woman whose most significant achievement is memorizing the Cheesecake Factory menu."
+        ],
+        [
+            "Penny",
+            "Hey, it\u2019s a big menu. There\u2019s two pages just for desserts."
+        ],
+        [
+            "Leonard",
+            "I know. And those specials, they change every day."
+        ],
+        [
+            "Penny",
+            "Okay, you know what? It\u2019s lame when I say it, it\u2019s just ridiculous when you pile on."
+        ],
+        [
+            "Leonard",
+            "Okay, sorry."
+        ],
+        [
+            "Penny",
+            "So what did she say when you told her we were going out?"
+        ],
+        [
+            "Leonard",
+            "Um\u2026"
+        ],
+        [
+            "Penny",
+            "You didn\u2019t tell her we were going out, did you?"
+        ],
+        [
+            "Leonard",
+            "Um\u2026"
+        ],
+        [
+            "Penny",
+            "Why not?"
+        ],
+        [
+            "Leonard",
+            "Um\u2026"
+        ],
+        [
+            "Sheldon",
+            "Leonard, I\u2019m no expert on meditation, but if you\u2019re trying to calm yourself down, I believe the word is Om."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Beverley",
+            "It was so nice of you to come all the way down to the airport to pick me up."
+        ],
+        [
+            "Sheldon",
+            "No trouble at all."
+        ],
+        [
+            "Leonard",
+            "I drove, Mother. I\u2019m driving now."
+        ],
+        [
+            "Beverley",
+            "Yes, dear. Mommy\u2019s proud. I\u2019ve been meaning to thank you for your notes on my paper disproving quantum brain dynamic theory."
+        ],
+        [
+            "Sheldon",
+            "My pleasure. For a non-physicist, you have a remarkable grasp of how electric dipoles in the brain\u2019s water molecules could not possibly form a Bose condensate."
+        ],
+        [
+            "Leonard",
+            "Wait, wait, wait. When did you send my mom notes on a paper?"
+        ],
+        [
+            "Sheldon",
+            "August 16th. Right after her carpal tunnel surgery."
+        ],
+        [
+            "Beverley",
+            "Oh, did I thank you for the flowers?"
+        ],
+        [
+            "Sheldon",
+            "You did."
+        ],
+        [
+            "Beverley",
+            "I don\u2019t really like flowers."
+        ],
+        [
+            "Sheldon",
+            "Neither do I, but it\u2019s the social convention."
+        ],
+        [
+            "Beverley",
+            "It is, isn\u2019t it?"
+        ],
+        [
+            "Leonard",
+            "Wait, wait, wait. You had surgery?"
+        ],
+        [
+            "Beverley",
+            "Yes, and Sheldon sent me flowers."
+        ],
+        [
+            "Leonard",
+            "No, I heard that."
+        ],
+        [
+            "Beverley",
+            "Then what was all that wait, wait, wait about?"
+        ],
+        [
+            "Leonard",
+            "I just don\u2019t understand why he knows more about your life than I do."
+        ],
+        [
+            "Beverley",
+            "Well, I would assume it\u2019s because Sheldon and I stay in touch due to mutual interest and respect, while you avoid me, due to unresolved childhood issues."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s what we think caused your narcissistic personality disorder. We discussed it at length during our last video chat. Although how we got onto the subject of you is baffling."
+        ],
+        [
+            "Beverley",
+            "Yes, but we are on the subject, so I\u2019m obliged to ask, Leonard, how are you?"
+        ],
+        [
+            "Leonard",
+            "Fine, Mom. How are you?"
+        ],
+        [
+            "Beverley",
+            "Mmm, menopausal."
+        ],
+        [
+            "Leonard",
+            "Now I\u2019m less fine."
+        ],
+        [
+            "Beverley",
+            "Have you heard your brother has gotten engaged?"
+        ],
+        [
+            "Leonard",
+            "No. Sheldon, why didn\u2019t you tell me?"
+        ],
+        [
+            "Sheldon",
+            "My bad. I did send a gift from both of us."
+        ],
+        [
+            "Beverley",
+            "She\u2019s a remarkable girl. The youngest appeals court judge in New Jersey and a two-time Olympic bronze medallist."
+        ],
+        [
+            "Leonard",
+            "You must be very happy."
+        ],
+        [
+            "Beverley",
+            "Why? I\u2019m not marrying her. So, how about you? Are you seeing anyone interesting?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m not sure about interesting, but\u2026"
+        ],
+        [
+            "Leonard",
+            "Not the time, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Very well. Shall we switch topics to Isaac Newton v. Gottfried Leibniz?"
+        ],
+        [
+            "Beverley",
+            "It\u2019s all right, Sheldon. I will just pretend that Leonard\u2019s not withholding information. Although, I will point out, Leonard, that I am a trained psychiatrist and you are exhibiting the same secretive behavioural tics that accompanied your learning to masturbate."
+        ],
+        [
+            "Sheldon",
+            "Isn\u2019t she brilliant, Leonard? How I envy you."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Beverley",
+            "So, Howard, have you and Rajesh finally summoned the courage to express your latent homosexual feelings toward one another?"
+        ],
+        [
+            "Howard",
+            "What? No."
+        ],
+        [
+            "Beverley",
+            "Why not?"
+        ],
+        [
+            "Howard",
+            "Because we don\u2019t have latent homosexual feelings toward one another."
+        ],
+        [
+            "Beverley",
+            "I see."
+        ],
+        [
+            "Howard",
+            "No, really. I have a girlfriend now."
+        ],
+        [
+            "Beverley",
+            "And where is she this evening?"
+        ],
+        [
+            "Howard",
+            "She had to go out of town. Her grandmother died."
+        ],
+        [
+            "Beverley",
+            "I see. Her grandmother died."
+        ],
+        [
+            "Howard",
+            "Honest to God. Leonard, tell her I have a girlfriend."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know what you\u2019re talking about."
+        ],
+        [
+            "Howard",
+            "What do you mean you don\u2019t know what I\u2019m talking about? Tell her I have a girlfriend!"
+        ],
+        [
+            "Leonard",
+            "All right. He \u201chas\u201d a \u201cgirlfriend.\u201d"
+        ],
+        [
+            "Howard",
+            "Her name is Bernadette, she\u2019s working as a waitress, but she\u2019s going to school to be a microbiologist."
+        ],
+        [
+            "Beverley",
+            "Howard, keep in mind that the more passionately you stick to this construct, the more you\u2019re hurting your partner."
+        ],
+        [
+            "Howard (to Raj who has whispered to him)",
+            "Do you really think your lips in my ear is helping?"
+        ],
+        [
+            "Penny (arriving)",
+            "Hi. Sorry I\u2019m late."
+        ],
+        [
+            "Leonard",
+            "Oh, glad you\u2019re here, uh, sit down, I\u2019ll get you a plate. Mom, you remember Penny."
+        ],
+        [
+            "Beverley",
+            "Oh, yes, the waitress slash actress with the unresolved father issues. Has he finally come to terms with his little slugger growing breasts?"
+        ],
+        [
+            "Penny",
+            "Well, he sent me a football and a catcher\u2019s mitt for Christmas, so I\u2019m going to say no."
+        ],
+        [
+            "Howard",
+            "If it helps, we\u2019re all good with your breasts."
+        ],
+        [
+            "Beverley",
+            "Classic overcompensation. Oh, speaking of fathers, Leonard, that reminds me, I\u2019m divorcing yours."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Beverley",
+            "Yes. He was cheating on me."
+        ],
+        [
+            "Leonard",
+            "No!"
+        ],
+        [
+            "Beverley",
+            "Yes, with some waitress from the university cafeteria. Can you believe it? A waitress? Oh, no offense, dear."
+        ],
+        [
+            "Penny",
+            "No, it sounded like a compliment."
+        ],
+        [
+            "Leonard",
+            "When did this happen?"
+        ],
+        [
+            "Beverley",
+            "Mmm, well, let\u2019s see. Sheldon, when did I leave Leonard\u2019s father?"
+        ],
+        [
+            "Sheldon",
+            "September 22nd."
+        ],
+        [
+            "Beverley",
+            "Oh, yes, that\u2019s right. The weekend after Leonard\u2019s dog died."
+        ],
+        [
+            "Leonard",
+            "Mitzy\u2019s dead?"
+        ],
+        [
+            "Sheldon",
+            "She was old and blind, Leonard. What choice did we have?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t believe this. Why am I the last to know?"
+        ],
+        [
+            "Beverley",
+            "Excuse me, Leonard, I am the one who\u2019s getting a divorce, Mitzy is the one who is dead. Why are you the one making a fuss?"
+        ],
+        [
+            "Leonard",
+            "You\u2019re right. I\u2019m-I\u2019m-I\u2019m-I\u2019m sorry, I\u2019m way out of line!"
+        ],
+        [
+            "Beverley",
+            "So, Penny, what\u2019s new in your life?"
+        ],
+        [
+            "Penny",
+            "Nothing. Not a damn thing."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car."
+        ],
+        [
+            "Beverley",
+            "Thank you for driving me back to my hotel."
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s not a problem."
+        ],
+        [
+            "Beverley",
+            "I was going to ask Leonard to do it, but he seemed a bit emotionally unstable and you don\u2019t want someone like that operating heavy machinery."
+        ],
+        [
+            "Penny",
+            "No, you do not."
+        ],
+        [
+            "Beverley",
+            "Your check engine light is on."
+        ],
+        [
+            "Penny",
+            "Yeah, I gotta put a sticker over that. So, uh, you must be devastated about your divorce."
+        ],
+        [
+            "Beverley",
+            "Oh, not at all. But I am a bit distressed to be in a vehicle that\u2019s not subjected to regular maintenance."
+        ],
+        [
+            "Penny",
+            "Come on, I mean, you\u2019re not upset that your marriage is over?"
+        ],
+        [
+            "Beverley",
+            "Well, initially I felt something akin to grief and perhaps anger, but that\u2019s the natural reaction of the limbic system to being betrayed by a loathsome son of a bitch."
+        ],
+        [
+            "Penny",
+            "Sure, sure."
+        ],
+        [
+            "Beverley",
+            "Thankfully, my shock was somewhat mitigated by the fact that I haven\u2019t had intercourse with him in eight years."
+        ],
+        [
+            "Penny",
+            "Eight years?"
+        ],
+        [
+            "Beverley",
+            "Oh, that\u2019s nothing. I\u2019ve been responsible for my own orgasms since 1982."
+        ],
+        [
+            "Penny",
+            "Yikes. What\u2019s so funny?"
+        ],
+        [
+            "Beverley",
+            "That\u2019s exactly what I say during orgasms. Yikes."
+        ],
+        [
+            "Penny",
+            "You know what? I could use a drink. Do you want to stop for a drink?"
+        ],
+        [
+            "Beverley",
+            "Oh, I don\u2019t drink."
+        ],
+        [
+            "Penny",
+            "I do, I\u2019ll teach you."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t want tea."
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t make tea for you. This is my tea."
+        ],
+        [
+            "Leonard",
+            "Then why are you telling me?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a conversation starter."
+        ],
+        [
+            "Leonard",
+            "That\u2019s a lousy conversation starter."
+        ],
+        [
+            "Sheldon",
+            "Oh, is it? We\u2019re conversing. Checkmate."
+        ],
+        [
+            "Leonard",
+            "What do you want, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "What I want is to be departing the Starship Enterprise in a one-man shuttle craft headed to the planetoid I rule known as Sheldon Alpha Five."
+        ],
+        [
+            "Leonard",
+            "I want that too. Why are you here?"
+        ],
+        [
+            "Sheldon",
+            "To comfort you, of course. No, that\u2019s not going to work at all, I\u2019ll comfort you from over here. Leonard, what you\u2019re experiencing is a classic Jungian crisis in which the aging individual mourns the loss of the never-to-be realized ideal family unit."
+        ],
+        [
+            "Leonard",
+            "Thank you, that\u2019s very comforting."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not the comforting part."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not?"
+        ],
+        [
+            "Sheldon",
+            "No, no. The comforting part is that the Germans have a term for what you\u2019re feeling. Weltschmerz. It means the depression that arises from comparing the world as it is to a hypothetical, idealized world."
+        ],
+        [
+            "Leonard",
+            "You\u2019re right, I do feel better."
+        ],
+        [
+            "Sheldon",
+            "Well, the Germans have always been a comforting people. Just remember, Leonard, where your biological family has failed you, you always have me, your surrogate family."
+        ],
+        [
+            "Leonard",
+            "You\u2019re my surrogate family?"
+        ],
+        [
+            "Sheldon",
+            "If it\u2019s any consolation, I\u2019m not happy about it either. Good night."
+        ],
+        [
+            "Scene",
+            "A bar."
+        ],
+        [
+            "Penny",
+            "Okay, now this time try drinking it all at once."
+        ],
+        [
+            "Beverley",
+            "Yikes."
+        ],
+        [
+            "Penny",
+            "I\u2019ve been responsible for my own buzz since 2003. Another round for me and my homegirl."
+        ],
+        [
+            "Beverley",
+            "I feel a spreading warmth through my extremities."
+        ],
+        [
+            "Penny",
+            "As long as you don\u2019t feel it running down your pants, you\u2019re fine."
+        ],
+        [
+            "Beverley",
+            "Oh, that is fascinating. I\u2019m noticing an immediate lowering of my inhibitions. For example, I\u2019m seriously considering asking that busboy to ravish me in the alleyway while I eat cheesecake. What do you think?"
+        ],
+        [
+            "Penny",
+            "Well, we are known for our cheesecake. Hit us again."
+        ],
+        [
+            "Beverley",
+            "Yes. If a little is good, more must be better."
+        ],
+        [
+            "Penny",
+            "Hey, Bev, guess what?"
+        ],
+        [
+            "Beverley",
+            "What?"
+        ],
+        [
+            "Penny",
+            "I\u2019m sleeping with your son."
+        ],
+        [
+            "Beverley",
+            "Really? Which one?"
+        ],
+        [
+            "Penny",
+            "The one from whom I live across the hall from."
+        ],
+        [
+            "Beverley",
+            "Well, that\u2019s convenient. How did his penis turn out?"
+        ],
+        [
+            "Penny",
+            "Oh, Beverly, I can\u2019t talk to my boyfriend\u2019s mother about his penis."
+        ],
+        [
+            "Beverley",
+            "Oh, fair enough. What can you tell me, if anything, about that busboy\u2019s penis?"
+        ],
+        [
+            "Penny",
+            "Actually, I\u2019ve only had the cheesecake. One more time. You know, Leonard did not want to tell you we were dating."
+        ],
+        [
+            "Beverley",
+            "Really? Well, that means he\u2019s either embarrassed about the relationship or he doesn\u2019t care enough about his mother to tell her he\u2019s in one. Either way, one of us should be insulted."
+        ],
+        [
+            "Penny",
+            "Well, let\u2019s go find out who."
+        ],
+        [
+            "Beverley",
+            "You go get a taxi. I\u2019m gonna slip my business card into that busboy\u2019s back pocket, cupping his firm, right buttock as I do so."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Leonard?"
+        ],
+        [
+            "Beverley",
+            "Sonny boy!"
+        ],
+        [
+            "Penny",
+            "Get out here! Your mommy wants to talk to you!"
+        ],
+        [
+            "Leonard",
+            "What the hell is going on?"
+        ],
+        [
+            "Penny",
+            "You\u2019re in trouble."
+        ],
+        [
+            "Beverley",
+            "Why didn\u2019t you tell me you were tapping my homegirl? Did I say that right?"
+        ],
+        [
+            "Penny",
+            "Yeah, not bad, not bad."
+        ],
+        [
+            "Leonard",
+            "Are you guys drunk?"
+        ],
+        [
+            "Beverley",
+            "Well, I hope so. Otherwise, why would we have stopped at Del Taco? Now, how could you not tell me you were in a relationship with this lovely, charming young woman?"
+        ],
+        [
+            "Penny",
+            "Oh, thank you."
+        ],
+        [
+            "Beverley",
+            "You\u2019re welcome. Is it because she\u2019s uneducated, trapped in a menial service position?"
+        ],
+        [
+            "Penny",
+            "What the hell happened to lovely and charming?"
+        ],
+        [
+            "Leonard",
+            "How come you didn\u2019t tell me that you and Father were getting a divorce? How come you didn\u2019t tell me you had surgery? How come you didn\u2019t tell me my dog died?"
+        ],
+        [
+            "Beverley",
+            "Wait, wait, wait, wait, wait. What I hear you saying is that you want a more intimate mother-son relationship."
+        ],
+        [
+            "Leonard",
+            "I do."
+        ],
+        [
+            "Beverley (gives him an uncomfortable hug)",
+            "There. It\u2019s late. Now, go to bed. I\u2019m getting a warm feeling spreading through my heart."
+        ],
+        [
+            "Penny",
+            "That\u2019s the Del Taco."
+        ],
+        [
+            "Sheldon",
+            "Why is Leonard softly banging his head against his bedroom door?"
+        ],
+        [
+            "Beverley",
+            "Speaking of warm feelings, come here. (She grabs Sheldon and kisses him) No, I\u2019d rather have the busboy."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Beverley",
+            "Thank you for taking me to the airport."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re very welcome."
+        ],
+        [
+            "Leonard",
+            "Once again, I\u2019m driving. I\u2019m right here."
+        ],
+        [
+            "Beverley",
+            "Please, I am very hungover and in no mood to satisfy your need for approval. Sheldon, I do hope you\u2019ll forgive me for my inappropriate behaviour last night."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t blame you. You were intoxicated."
+        ],
+        [
+            "Beverley",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "I blame Penny."
+        ],
+        [
+            "Penny",
+            "I blame Penny, too. Bad Penny."
+        ],
+        [
+            "Leonard",
+            "Wait a minute, what are you talking about? What inappropriate behaviour?"
+        ],
+        [
+            "Beverley",
+            "I think it\u2019s best that you not know."
+        ],
+        [
+            "Sheldon",
+            "Agreed."
+        ],
+        [
+            "Penny",
+            "Agreed."
+        ],
+        [
+            "Leonard",
+            "What the hell, agreed."
+        ],
+        [
+            "Beverley",
+            "And I want you to take very good care of this young woman."
+        ],
+        [
+            "Penny",
+            "Oh, thank you, Beverly."
+        ],
+        [
+            "Beverley",
+            "You\u2019re welcome. She doesn\u2019t have much in the way of career prospects, don\u2019t make her responsible for her own orgasms as well."
+        ],
+        [
+            "Leonard",
+            "Mother, remember when I was complaining that you don\u2019t communicate with me enough?"
+        ],
+        [
+            "Beverley",
+            "Yes, dear."
+        ],
+        [
+            "Leonard",
+            "I\u2019m over it."
+        ],
+        [
+            "Penny (finishing Deck the Halls)",
+            "Fa-la-la-la-la, la-la la-la."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-11-the-maternal-congruence/"
+}

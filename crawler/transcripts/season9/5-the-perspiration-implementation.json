@@ -1,0 +1,1740 @@
+{
+    "Season": 9,
+    "Episode": 5,
+    "Title": "the perspiration implementation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Howard\u2019s workshop."
+            ],
+            [
+                14,
+                "Credits sequence."
+            ],
+            [
+                15,
+                "The apartment."
+            ],
+            [
+                31,
+                "The comic book store."
+            ],
+            [
+                41,
+                "The gym."
+            ],
+            [
+                73,
+                "The comic book store."
+            ],
+            [
+                80,
+                "The gym."
+            ],
+            [
+                110,
+                "Later."
+            ],
+            [
+                120,
+                "The comic book store."
+            ],
+            [
+                139,
+                "A sports bar."
+            ],
+            [
+                161,
+                "Penny\u2019s apartment."
+            ],
+            [
+                184,
+                "The stairwell."
+            ],
+            [
+                209,
+                "Howard and Bernadette\u2019s kitchen."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Hey, ready for lunch?"
+            ],
+            [
+                5,
+                "That\u2019ll teach her to care about your health."
+            ],
+            [
+                12,
+                "It wouldn\u2019t be the worst thing if we were more active."
+            ],
+            [
+                16,
+                "Look at all these activities the university has. Rock climbing club, archery, flag football."
+            ],
+            [
+                19,
+                "What are you saying? We\u2019re not coordinated enough to play sports?"
+            ],
+            [
+                21,
+                "I got a triple-word score with a double letter Q. If that\u2019s not a time to bust out the scrabble dance, what\u2019s the point of having one? Hey, Barry Kripke started a fencing club."
+            ],
+            [
+                23,
+                "It\u2019s indoors, so no sunscreen."
+            ],
+            [
+                25,
+                "No gym shorts that can be yanked down."
+            ],
+            [
+                27,
+                "Preach."
+            ],
+            [
+                29,
+                "What about a game of tag on a French schoolyard?"
+            ],
+            [
+                43,
+                "I always wanted to be a swashbuckler when I was a kid."
+            ],
+            [
+                48,
+                "That\u2019s not why we\u2019re here."
+            ],
+            [
+                65,
+                "This is easy. I didn\u2019t need to wear a cup."
+            ],
+            [
+                89,
+                "What?"
+            ],
+            [
+                91,
+                "When was your honour insulted?"
+            ],
+            [
+                93,
+                "Again, that doctor didn\u2019t insult your honour. Just checked your prostate."
+            ],
+            [
+                97,
+                "Well, good. It\u2019s nice to see your mind off Amy."
+            ],
+            [
+                102,
+                "Oh. I hate to say it, but it sounds like he\u2019s interested in her."
+            ],
+            [
+                104,
+                "Oh, buddy, I get that you don\u2019t like it, but it\u2019s not really up to you."
+            ],
+            [
+                106,
+                "Look, even if it\u2019s not him, Amy\u2019s probably going to date someone at some point."
+            ],
+            [
+                108,
+                "Of course. She deserves to be happy."
+            ],
+            [
+                111,
+                "Listen, I should warn you that maybe asking Amy out isn\u2019t a good idea."
+            ],
+            [
+                113,
+                "And now the crazy version of what I just said."
+            ],
+            [
+                119,
+                "Wow. That, that was crazier than I thought."
+            ],
+            [
+                140,
+                "I\u2019m surprised you wanted to go to a sports bar, Sheldon."
+            ],
+            [
+                142,
+                "If you\u2019re cranky and retaining water, I have a theory."
+            ],
+            [
+                147,
+                "Maybe you should consider women who aren\u2019t in serious relationships with your closest friends?"
+            ],
+            [
+                152,
+                "Three."
+            ],
+            [
+                186,
+                "You\u2019re just sweaty from exercise."
+            ],
+            [
+                188,
+                "I know it only takes one doctor\u2019s finger."
+            ],
+            [
+                191,
+                "We should let you guys talk."
+            ],
+            [
+                194,
+                "Look at me go."
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "Oh, one sec."
+            ],
+            [
+                4,
+                "No, Bernadette got me a Fitbit so she can track how much I\u2019m exercising."
+            ],
+            [
+                6,
+                "Yeah, I can\u2019t wait to see the look on her face when I die young."
+            ],
+            [
+                8,
+                "The other day, when she tried to put that Fitbit on me and I ran away from her."
+            ],
+            [
+                13,
+                "You make an excellent point. Ooh, I think I\u2019m getting a runner\u2019s high."
+            ],
+            [
+                46,
+                "Well said, Puss."
+            ],
+            [
+                50,
+                "And maybe a little Princess Bride."
+            ],
+            [
+                54,
+                "Yeah. I already ran 18 miles today."
+            ],
+            [
+                59,
+                "When you\u2019re in a public restroom, which foot do you flush the toilet with?"
+            ],
+            [
+                61,
+                "He\u2019s a righty."
+            ],
+            [
+                63,
+                "Oh, God, I am going to feel this tomorrow."
+            ],
+            [
+                84,
+                "My name is Inigo Montoya. You killed my father. Prepare to die."
+            ],
+            [
+                86,
+                "I thought you were Puss in Boots."
+            ],
+            [
+                95,
+                "My name is Darth Vader. I am your father. Prepare to die."
+            ],
+            [
+                143,
+                "Sheldon, instead of focusing on Amy dating other guys, maybe you should start thinking about dating another girl."
+            ],
+            [
+                153,
+                "Oh, boy."
+            ],
+            [
+                211,
+                "What\u2019s up?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                3,
+                "Is that the prototype drive system for the high-G rover?"
+            ],
+            [
+                9,
+                "According to a recent study, simply thinking about exercise, even while sitting still, can have physical benefits. For all you know, I could be exercising right now."
+            ],
+            [
+                11,
+                "Nah, I\u2019ll do it tomorrow."
+            ],
+            [
+                17,
+                "Had me at flag, lost me at football."
+            ],
+            [
+                22,
+                "Interesting. Sword fighting does hold a certain elegant appeal. And I would imagine it meets many of our personal criteria for a sport."
+            ],
+            [
+                24,
+                "No throwing, no catching, no running."
+            ],
+            [
+                26,
+                "Or worse, up."
+            ],
+            [
+                28,
+                "And as an added bonus, the word touch\u00e9 comes from fencing. It would be our only opportunity to use it in a non-metaphorical sense."
+            ],
+            [
+                30,
+                "Ah, touch\u00e9."
+            ],
+            [
+                44,
+                "Technically, swashbuckler is a combination of two terms. Swash referring to the sound of the sword. Swash. And then buckler meaning a small shield, which you don\u2019t have."
+            ],
+            [
+                53,
+                "We\u2019re not afraid of physical activity."
+            ],
+            [
+                56,
+                "Oh, dear."
+            ],
+            [
+                58,
+                "Well, I\u2019m not sure I have a dominant leg. They\u2019re both pretty submissive."
+            ],
+            [
+                60,
+                "Right. Always right."
+            ],
+            [
+                67,
+                "Excuse me, Barry?"
+            ],
+            [
+                69,
+                "When can I stab one of my friends?"
+            ],
+            [
+                71,
+                "Uh, yes, I\u2019m aware. But if I say I want to touch one of my friends, I\u2019ll get called into Human Resources."
+            ],
+            [
+                83,
+                "En garde, Leonard. Prepare yourself for a rigorous touching."
+            ],
+            [
+                88,
+                "I\u2019m looking forward to him teaching us glove-slapping."
+            ],
+            [
+                90,
+                "You know, when my honour is insulted, and I need to challenge someone to a duel by slapping them across the face with my glove."
+            ],
+            [
+                92,
+                "My last physical."
+            ],
+            [
+                96,
+                "Ah, this is fun."
+            ],
+            [
+                99,
+                "Not that it\u2019s any of your business, but she broke up with me."
+            ],
+            [
+                101,
+                "Good to know? What\u2019s that supposed to mean?"
+            ],
+            [
+                103,
+                "Well, that\u2019s unacceptable."
+            ],
+            [
+                105,
+                "Yeah, but he\u2019s dumb, and his face is dumb."
+            ],
+            [
+                107,
+                "You really think so?"
+            ],
+            [
+                109,
+                "How dare you."
+            ],
+            [
+                112,
+                "Barry, a word?"
+            ],
+            [
+                114,
+                "If you intend to pursue Amy, you leave me with no choice but to put a stop to it."
+            ],
+            [
+                116,
+                "By challenging you to a duel."
+            ],
+            [
+                118,
+                "That is why the duel will take place at high noon, three years from today. If you\u2019re worth your salt as an instructor, I should be ready by then. Yeah, and be warned. I\u2019m going to touch you all over."
+            ],
+            [
+                141,
+                "Look at this blister. Like it or not, we\u2019re athletes now. Besides, a bar is where I belong. I\u2019m having female problems."
+            ],
+            [
+                144,
+                "That\u2019s ridiculous."
+            ],
+            [
+                146,
+                "True, but Penny\u2019s married, and so is Bernadette. And your girlfriend has red hair and white skin, which really rubs up against my clown phobia."
+            ],
+            [
+                148,
+                "There\u2019s that prostate doctor, but I\u2019m still mad at her. Oh, there\u2019s a woman. I\u2019ll make her my girlfriend."
+            ],
+            [
+                150,
+                "You\u2019re forgetting something. Ladies love jocks."
+            ],
+            [
+                154,
+                "Excuse me. I\u2019m recovering from a recent breakup, and I\u2019m told asking out another woman might make me feel better. And as Ash Ketchum said to Pikachu, I choose you."
+            ],
+            [
+                156,
+                "It\u2019s a Pok\u00e9mon reference."
+            ],
+            [
+                158,
+                "Well, we gave it a shot. How about you?"
+            ],
+            [
+                160,
+                "Ah, what might have been. And you, give my regards to Barnum and Bailey."
+            ],
+            [
+                185,
+                "I smell funny. I taste salty."
+            ],
+            [
+                187,
+                "And kind of delicious. I wonder how many licks it would take to get to the centre of me."
+            ],
+            [
+                190,
+                "Hello."
+            ],
+            [
+                193,
+                "You don\u2019t have to leave."
+            ],
+            [
+                198,
+                "I\u2019m doing all right. I tried fencing today."
+            ],
+            [
+                200,
+                "It was pretty easy. And I think my background in mathletics helped. Barry Kripke was there. I should let you know that he expressed interest in asking you out."
+            ],
+            [
+                202,
+                "Okay. But don\u2019t get too attached to him. in two years, 364 days, he\u2019s a dead man."
+            ],
+            [
+                204,
+                "Interesting. I asked two women out today, and they both said no."
+            ],
+            [
+                206,
+                "I\u2019ve been told it\u2019s a good way to move on."
+            ],
+            [
+                208,
+                "Thanks. And I taste good too."
+            ]
+        ],
+        "Raj": [
+            [
+                7,
+                "When was the last actual exercise you got?"
+            ],
+            [
+                10,
+                "Are you?"
+            ],
+            [
+                42,
+                "I feel cool. Like Puss in Boots."
+            ],
+            [
+                45,
+                "We can still be swashers."
+            ],
+            [
+                49,
+                "Yeah, I\u2019m here because I think it\u2019s gonna be like Game of Thrones."
+            ],
+            [
+                51,
+                "Ooh, ooh, I forgot about Princess Bride. That\u2019s my answer."
+            ],
+            [
+                82,
+                "Look at us. We\u2019re like the Rockettes."
+            ],
+            [
+                85,
+                "My name is Inigo Montoya. You killed my father. Prepare to die."
+            ],
+            [
+                87,
+                "Oh, yeah, right. Sorry. My name is Puss in Boots. You killed my father. Prepare to die."
+            ],
+            [
+                94,
+                "My name is Little Orphan Annie. You killed my father. Prepare to die."
+            ],
+            [
+                145,
+                "Why? You never thought you\u2019d end up in a relationship, and then you met Amy. Maybe there\u2019s someone else out there for you."
+            ],
+            [
+                149,
+                "Whoa, whoa. Walking up to a strange woman in a bar usually doesn\u2019t work."
+            ],
+            [
+                151,
+                "How many sips of that beer did he have?"
+            ]
+        ],
+        "Penny": [
+            [
+                18,
+                "Yeah, I think it\u2019s great you guys want to get more exercise, but do you really think sports is the right choice for you?"
+            ],
+            [
+                20,
+                "Okay, Leonard, sweetheart, you twisted your ankle playing Scrabble."
+            ],
+            [
+                35,
+                "All right, well, what have you tried so far?"
+            ],
+            [
+                37,
+                "Really? In a comic book store?"
+            ],
+            [
+                76,
+                "Hey, have you read the online reviews for this place?"
+            ],
+            [
+                78,
+                "All right, well, Heather H says, the owner stared at me the whole time and didn\u2019t blink once. Kelly M says, the creepy guy who runs it asked me out, then called himself stupid before I could say no. Jessica K says, I told the weird owner that I liked his shirt. He took it off and gave it to me."
+            ],
+            [
+                122,
+                "Yeah."
+            ],
+            [
+                126,
+                "Well, you\u2019re talking to us now. I mean, you don\u2019t seem nervous."
+            ],
+            [
+                132,
+                "Okay. Don\u2019t be offended, but, what went wrong with you?"
+            ],
+            [
+                163,
+                "Well, he knew he was on the breast cam."
+            ],
+            [
+                166,
+                "And sometimes we marry them anyway."
+            ],
+            [
+                168,
+                "What?"
+            ],
+            [
+                171,
+                "I told you things would change if you plucked your eyebrows."
+            ],
+            [
+                174,
+                "Well, what are you gonna do?"
+            ],
+            [
+                179,
+                "I think she means not a weirdo."
+            ],
+            [
+                182,
+                "All right, well, what happens if you imagine him naked?"
+            ]
+        ],
+        "Stuart": [
+            [
+                32,
+                "Thanks for coming by."
+            ],
+            [
+                34,
+                "Well, I know more women are buying comics than ever, but for some reason, I, I can\u2019t get \u2019em in here."
+            ],
+            [
+                36,
+                "Uh, I\u2019ve, I\u2019ve been stocking more female-oriented titles. Uh, in the bathroom, I folded the end of the toilet paper into a triangle. And, uh, you are now sitting in the official breastfeeding area."
+            ],
+            [
+                38,
+                "Oh, don\u2019t worry. I, I\u2019ve got a camera right up here, so I could watch from the counter and make sure guys aren\u2019t being pervs. Anyway, so what do I got to do to, to get you in the door?"
+            ],
+            [
+                40,
+                "Well, you don\u2019t know the backstory. Maybe she kept jumping up on the couch."
+            ],
+            [
+                75,
+                "Hmm, okay. Well, alright, what if I put up a sign in the window that said women, come in. Don\u2019t be afraid."
+            ],
+            [
+                77,
+                "Eh, the Internet\u2019s so negative. I try to avoid it."
+            ],
+            [
+                79,
+                "See? Negative."
+            ],
+            [
+                121,
+                "All right, I\u2019m not saying it\u2019s true, but let\u2019s, let\u2019s consider for a moment that possibly I\u2019m the problem."
+            ],
+            [
+                125,
+                "Okay, fine. What, I mean, what can I do? I get so nervous around women."
+            ],
+            [
+                127,
+                "Well, that\u2019s \u2019cause I\u2019m doing that trick where you imagine the audience is naked. By the way, thumbs up, ladies."
+            ],
+            [
+                129,
+                "It was a joke."
+            ],
+            [
+                131,
+                "No, I\u2019m still doing it."
+            ],
+            [
+                133,
+                "I, I guess I assumed at this point in my life, I would be married or in a relationship, or even have a pet that didn\u2019t run away or kill itself."
+            ],
+            [
+                135,
+                "I mean, I can\u2019t say for sure, but I swear that rabbit looked me right in the eye before it hopped in front of that car. Anyway, the longer I\u2019m alone, the more desperate I get."
+            ],
+            [
+                137,
+                "Okay, we\u2019re all feeling it. Yes, I\u2019ll go out with you."
+            ]
+        ],
+        "Bernadette": [
+            [
+                33,
+                "Sure. So how can we help?"
+            ],
+            [
+                123,
+                "You are."
+            ],
+            [
+                130,
+                "Was it?"
+            ],
+            [
+                134,
+                "That really happened?"
+            ],
+            [
+                162,
+                "Stuart took that rejection like a pro."
+            ],
+            [
+                165,
+                "Oh, you get used to it. Some guys you have to turn down over and over."
+            ],
+            [
+                170,
+                "Oh. Look at you, two guys in one day."
+            ],
+            [
+                172,
+                "What did he say?"
+            ],
+            [
+                176,
+                "What can it hurt?"
+            ],
+            [
+                178,
+                "You mean, not a scientist?"
+            ],
+            [
+                180,
+                "Are you attracted to him?"
+            ],
+            [
+                192,
+                "Yeah."
+            ],
+            [
+                196,
+                "Walk."
+            ],
+            [
+                210,
+                "Howie?"
+            ],
+            [
+                212,
+                "Why does your Fitbit say you ran 174 miles yesterday?"
+            ]
+        ],
+        "Amy": [
+            [
+                39,
+                "Well, for starters, you might want to rethink some of this artwork. I mean, this woman\u2019s actually on a leash like a dog."
+            ],
+            [
+                74,
+                "Have you thought about advertising directly to females?"
+            ],
+            [
+                124,
+                "You can say it."
+            ],
+            [
+                128,
+                "Do you not hear how creepy that sounds?"
+            ],
+            [
+                136,
+                "Stuart, believe it or not, I understand. You know, before I met Sheldon, I was alone for a really long time. I was so desperate for people to like me, when I met these guys, it took everything in my power to hide my insecurity."
+            ],
+            [
+                138,
+                "Suddenly, the rabbit thing makes sense."
+            ],
+            [
+                164,
+                "I don\u2019t have much experience turning men down. It wasn\u2019t so much fun."
+            ],
+            [
+                169,
+                "Barry Kripke just asked me out."
+            ],
+            [
+                173,
+                "Hi, how are you? I was wondering if you\u2019d like to get a drink after work sometime."
+            ],
+            [
+                175,
+                "I don\u2019t know. I guess I assumed that I would eventually date other people, but this is happening so fast."
+            ],
+            [
+                177,
+                "Well, I was hoping the next person I dated would be a little less like Sheldon."
+            ],
+            [
+                181,
+                "I don\u2019t know."
+            ],
+            [
+                183,
+                "Oh, I don\u2019t have to imagine it."
+            ],
+            [
+                189,
+                "Hello."
+            ],
+            [
+                195,
+                "Uh, Bernadette, you\u2019re my ride."
+            ],
+            [
+                197,
+                "How have you been?"
+            ],
+            [
+                199,
+                "How\u2019d that go?"
+            ],
+            [
+                201,
+                "Well, actually, he, he already did."
+            ],
+            [
+                203,
+                "I said no."
+            ],
+            [
+                205,
+                "I didn\u2019t know you were interested in dating."
+            ],
+            [
+                207,
+                "Oh. Okay. Anyway, um, it\u2019s nice to see you. You look good."
+            ]
+        ],
+        "Barry": [
+            [
+                47,
+                "Gentlemen, welcome to the fencing cwub. Before we start, I just want to warn you, fencing isn\u2019t a joke. I hope you\u2019re not here because you think it\u2019s going to be wike Star Wars."
+            ],
+            [
+                52,
+                "Well, sowwy to disappoint you, but fencing is a sewious spowt. If you\u2019re not wiwwing to put in the effowt, you might as well just weave now."
+            ],
+            [
+                55,
+                "Awwight. Let\u2019s begin with some fundamentals. This is the en garde position. Feet are in an L. Heels in a stwaight wine. Elbow is about a fist from the wib cage. Notice my dominant weg faces fowward."
+            ],
+            [
+                57,
+                "What\u2019s wong, Cooper?"
+            ],
+            [
+                62,
+                "Okay, show me en garde. Good. Knees bent, swightwy over the toe. Non-sword hand up for bawance."
+            ],
+            [
+                64,
+                "The first move is called an advance. You move your fwont foot fowward, heel to toe. Back foot fowwows. So fwont foot fowward, heel to toe. Back foot fowwows. Now you twy. Advance. And advance. And advance."
+            ],
+            [
+                66,
+                "Good. The next move is called a wetweat. Step back. Back foot first, toe to heel. Fwont foot fowwows. On thwee."
+            ],
+            [
+                68,
+                "Yes."
+            ],
+            [
+                70,
+                "In fencing, we don\u2019t call it a stab. We call it a touch."
+            ],
+            [
+                72,
+                "Okay, on thwee, Cooper and Koothwappawi advance, the other two wetweat. One, two, thwee. Vewy good. Switch it up. One, two, thwee. Switch again. One, two, thwee. (Phone rings) Excuse me. Can I call you back? No, I\u2019m teaching a cwass. Sure. Sure. An hour, tops. Yeah. Okay. Okay. Yeah. Okay. Thanks. And one, two, thwee."
+            ],
+            [
+                81,
+                "With your foil extended, kick your fwont weg up and push off with your back weg. Now you twy. And again. And again."
+            ],
+            [
+                98,
+                "What\u2019s going on with Amy?"
+            ],
+            [
+                100,
+                "Weawwy? Good to know."
+            ],
+            [
+                115,
+                "And how are you gonna do that?"
+            ],
+            [
+                117,
+                "You\u2019ve had one wesson. I\u2019ll destwoy you."
+            ]
+        ],
+        "Woman": [
+            [
+                155,
+                "What?"
+            ],
+            [
+                157,
+                "I don\u2019t know what that means."
+            ]
+        ],
+        "Older woman": [
+            [
+                159,
+                "I\u2019m married, and I\u2019m her grandmother."
+            ]
+        ],
+        "Amy (Phone text sound)": [
+            [
+                167,
+                "Huh. Well, this is weird."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Howard\u2019s workshop."
+        ],
+        [
+            "Leonard",
+            "Hey, ready for lunch?"
+        ],
+        [
+            "Howard",
+            "Oh, one sec."
+        ],
+        [
+            "Sheldon",
+            "Is that the prototype drive system for the high-G rover?"
+        ],
+        [
+            "Howard",
+            "No, Bernadette got me a Fitbit so she can track how much I\u2019m exercising."
+        ],
+        [
+            "Leonard",
+            "That\u2019ll teach her to care about your health."
+        ],
+        [
+            "Howard",
+            "Yeah, I can\u2019t wait to see the look on her face when I die young."
+        ],
+        [
+            "Raj",
+            "When was the last actual exercise you got?"
+        ],
+        [
+            "Howard",
+            "The other day, when she tried to put that Fitbit on me and I ran away from her."
+        ],
+        [
+            "Sheldon",
+            "According to a recent study, simply thinking about exercise, even while sitting still, can have physical benefits. For all you know, I could be exercising right now."
+        ],
+        [
+            "Raj",
+            "Are you?"
+        ],
+        [
+            "Sheldon",
+            "Nah, I\u2019ll do it tomorrow."
+        ],
+        [
+            "Leonard",
+            "It wouldn\u2019t be the worst thing if we were more active."
+        ],
+        [
+            "Howard",
+            "You make an excellent point. Ooh, I think I\u2019m getting a runner\u2019s high."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Look at all these activities the university has. Rock climbing club, archery, flag football."
+        ],
+        [
+            "Sheldon",
+            "Had me at flag, lost me at football."
+        ],
+        [
+            "Penny",
+            "Yeah, I think it\u2019s great you guys want to get more exercise, but do you really think sports is the right choice for you?"
+        ],
+        [
+            "Leonard",
+            "What are you saying? We\u2019re not coordinated enough to play sports?"
+        ],
+        [
+            "Penny",
+            "Okay, Leonard, sweetheart, you twisted your ankle playing Scrabble."
+        ],
+        [
+            "Leonard",
+            "I got a triple-word score with a double letter Q. If that\u2019s not a time to bust out the scrabble dance, what\u2019s the point of having one? Hey, Barry Kripke started a fencing club."
+        ],
+        [
+            "Sheldon",
+            "Interesting. Sword fighting does hold a certain elegant appeal. And I would imagine it meets many of our personal criteria for a sport."
+        ],
+        [
+            "Leonard",
+            "It\u2019s indoors, so no sunscreen."
+        ],
+        [
+            "Sheldon",
+            "No throwing, no catching, no running."
+        ],
+        [
+            "Leonard",
+            "No gym shorts that can be yanked down."
+        ],
+        [
+            "Sheldon",
+            "Or worse, up."
+        ],
+        [
+            "Leonard",
+            "Preach."
+        ],
+        [
+            "Sheldon",
+            "And as an added bonus, the word touch\u00e9 comes from fencing. It would be our only opportunity to use it in a non-metaphorical sense."
+        ],
+        [
+            "Leonard",
+            "What about a game of tag on a French schoolyard?"
+        ],
+        [
+            "Sheldon",
+            "Ah, touch\u00e9."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Stuart",
+            "Thanks for coming by."
+        ],
+        [
+            "Bernadette",
+            "Sure. So how can we help?"
+        ],
+        [
+            "Stuart",
+            "Well, I know more women are buying comics than ever, but for some reason, I, I can\u2019t get \u2019em in here."
+        ],
+        [
+            "Penny",
+            "All right, well, what have you tried so far?"
+        ],
+        [
+            "Stuart",
+            "Uh, I\u2019ve, I\u2019ve been stocking more female-oriented titles. Uh, in the bathroom, I folded the end of the toilet paper into a triangle. And, uh, you are now sitting in the official breastfeeding area."
+        ],
+        [
+            "Penny",
+            "Really? In a comic book store?"
+        ],
+        [
+            "Stuart",
+            "Oh, don\u2019t worry. I, I\u2019ve got a camera right up here, so I could watch from the counter and make sure guys aren\u2019t being pervs. Anyway, so what do I got to do to, to get you in the door?"
+        ],
+        [
+            "Amy",
+            "Well, for starters, you might want to rethink some of this artwork. I mean, this woman\u2019s actually on a leash like a dog."
+        ],
+        [
+            "Stuart",
+            "Well, you don\u2019t know the backstory. Maybe she kept jumping up on the couch."
+        ],
+        [
+            "Scene",
+            "The gym."
+        ],
+        [
+            "Raj",
+            "I feel cool. Like Puss in Boots."
+        ],
+        [
+            "Leonard",
+            "I always wanted to be a swashbuckler when I was a kid."
+        ],
+        [
+            "Sheldon",
+            "Technically, swashbuckler is a combination of two terms. Swash referring to the sound of the sword. Swash. And then buckler meaning a small shield, which you don\u2019t have."
+        ],
+        [
+            "Raj",
+            "We can still be swashers."
+        ],
+        [
+            "Howard",
+            "Well said, Puss."
+        ],
+        [
+            "Barry",
+            "Gentlemen, welcome to the fencing cwub. Before we start, I just want to warn you, fencing isn\u2019t a joke. I hope you\u2019re not here because you think it\u2019s going to be wike Star Wars."
+        ],
+        [
+            "Leonard",
+            "That\u2019s not why we\u2019re here."
+        ],
+        [
+            "Raj",
+            "Yeah, I\u2019m here because I think it\u2019s gonna be like Game of Thrones."
+        ],
+        [
+            "Howard",
+            "And maybe a little Princess Bride."
+        ],
+        [
+            "Raj",
+            "Ooh, ooh, I forgot about Princess Bride. That\u2019s my answer."
+        ],
+        [
+            "Barry",
+            "Well, sowwy to disappoint you, but fencing is a sewious spowt. If you\u2019re not wiwwing to put in the effowt, you might as well just weave now."
+        ],
+        [
+            "Sheldon",
+            "We\u2019re not afraid of physical activity."
+        ],
+        [
+            "Howard",
+            "Yeah. I already ran 18 miles today."
+        ],
+        [
+            "Barry",
+            "Awwight. Let\u2019s begin with some fundamentals. This is the en garde position. Feet are in an L. Heels in a stwaight wine. Elbow is about a fist from the wib cage. Notice my dominant weg faces fowward."
+        ],
+        [
+            "Sheldon",
+            "Oh, dear."
+        ],
+        [
+            "Barry",
+            "What\u2019s wong, Cooper?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m not sure I have a dominant leg. They\u2019re both pretty submissive."
+        ],
+        [
+            "Howard",
+            "When you\u2019re in a public restroom, which foot do you flush the toilet with?"
+        ],
+        [
+            "Sheldon",
+            "Right. Always right."
+        ],
+        [
+            "Howard",
+            "He\u2019s a righty."
+        ],
+        [
+            "Barry",
+            "Okay, show me en garde. Good. Knees bent, swightwy over the toe. Non-sword hand up for bawance."
+        ],
+        [
+            "Howard",
+            "Oh, God, I am going to feel this tomorrow."
+        ],
+        [
+            "Barry",
+            "The first move is called an advance. You move your fwont foot fowward, heel to toe. Back foot fowwows. So fwont foot fowward, heel to toe. Back foot fowwows. Now you twy. Advance. And advance. And advance."
+        ],
+        [
+            "Leonard",
+            "This is easy. I didn\u2019t need to wear a cup."
+        ],
+        [
+            "Barry",
+            "Good. The next move is called a wetweat. Step back. Back foot first, toe to heel. Fwont foot fowwows. On thwee."
+        ],
+        [
+            "Sheldon",
+            "Excuse me, Barry?"
+        ],
+        [
+            "Barry",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "When can I stab one of my friends?"
+        ],
+        [
+            "Barry",
+            "In fencing, we don\u2019t call it a stab. We call it a touch."
+        ],
+        [
+            "Sheldon",
+            "Uh, yes, I\u2019m aware. But if I say I want to touch one of my friends, I\u2019ll get called into Human Resources."
+        ],
+        [
+            "Barry",
+            "Okay, on thwee, Cooper and Koothwappawi advance, the other two wetweat. One, two, thwee. Vewy good. Switch it up. One, two, thwee. Switch again. One, two, thwee. (Phone rings) Excuse me. Can I call you back? No, I\u2019m teaching a cwass. Sure. Sure. An hour, tops. Yeah. Okay. Okay. Yeah. Okay. Thanks. And one, two, thwee."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Amy",
+            "Have you thought about advertising directly to females?"
+        ],
+        [
+            "Stuart",
+            "Hmm, okay. Well, alright, what if I put up a sign in the window that said women, come in. Don\u2019t be afraid."
+        ],
+        [
+            "Penny",
+            "Hey, have you read the online reviews for this place?"
+        ],
+        [
+            "Stuart",
+            "Eh, the Internet\u2019s so negative. I try to avoid it."
+        ],
+        [
+            "Penny",
+            "All right, well, Heather H says, the owner stared at me the whole time and didn\u2019t blink once. Kelly M says, the creepy guy who runs it asked me out, then called himself stupid before I could say no. Jessica K says, I told the weird owner that I liked his shirt. He took it off and gave it to me."
+        ],
+        [
+            "Stuart",
+            "See? Negative."
+        ],
+        [
+            "Scene",
+            "The gym."
+        ],
+        [
+            "Barry",
+            "With your foil extended, kick your fwont weg up and push off with your back weg. Now you twy. And again. And again."
+        ],
+        [
+            "Raj",
+            "Look at us. We\u2019re like the Rockettes."
+        ],
+        [
+            "Sheldon",
+            "En garde, Leonard. Prepare yourself for a rigorous touching."
+        ],
+        [
+            "Howard",
+            "My name is Inigo Montoya. You killed my father. Prepare to die."
+        ],
+        [
+            "Raj",
+            "My name is Inigo Montoya. You killed my father. Prepare to die."
+        ],
+        [
+            "Howard",
+            "I thought you were Puss in Boots."
+        ],
+        [
+            "Raj",
+            "Oh, yeah, right. Sorry. My name is Puss in Boots. You killed my father. Prepare to die."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m looking forward to him teaching us glove-slapping."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "You know, when my honour is insulted, and I need to challenge someone to a duel by slapping them across the face with my glove."
+        ],
+        [
+            "Leonard",
+            "When was your honour insulted?"
+        ],
+        [
+            "Sheldon",
+            "My last physical."
+        ],
+        [
+            "Leonard",
+            "Again, that doctor didn\u2019t insult your honour. Just checked your prostate."
+        ],
+        [
+            "Raj",
+            "My name is Little Orphan Annie. You killed my father. Prepare to die."
+        ],
+        [
+            "Howard",
+            "My name is Darth Vader. I am your father. Prepare to die."
+        ],
+        [
+            "Sheldon",
+            "Ah, this is fun."
+        ],
+        [
+            "Leonard",
+            "Well, good. It\u2019s nice to see your mind off Amy."
+        ],
+        [
+            "Barry",
+            "What\u2019s going on with Amy?"
+        ],
+        [
+            "Sheldon",
+            "Not that it\u2019s any of your business, but she broke up with me."
+        ],
+        [
+            "Barry",
+            "Weawwy? Good to know."
+        ],
+        [
+            "Sheldon",
+            "Good to know? What\u2019s that supposed to mean?"
+        ],
+        [
+            "Leonard",
+            "Oh. I hate to say it, but it sounds like he\u2019s interested in her."
+        ],
+        [
+            "Sheldon",
+            "Well, that\u2019s unacceptable."
+        ],
+        [
+            "Leonard",
+            "Oh, buddy, I get that you don\u2019t like it, but it\u2019s not really up to you."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but he\u2019s dumb, and his face is dumb."
+        ],
+        [
+            "Leonard",
+            "Look, even if it\u2019s not him, Amy\u2019s probably going to date someone at some point."
+        ],
+        [
+            "Sheldon",
+            "You really think so?"
+        ],
+        [
+            "Leonard",
+            "Of course. She deserves to be happy."
+        ],
+        [
+            "Sheldon",
+            "How dare you."
+        ],
+        [
+            "Scene",
+            "Later."
+        ],
+        [
+            "Leonard",
+            "Listen, I should warn you that maybe asking Amy out isn\u2019t a good idea."
+        ],
+        [
+            "Sheldon",
+            "Barry, a word?"
+        ],
+        [
+            "Leonard",
+            "And now the crazy version of what I just said."
+        ],
+        [
+            "Sheldon",
+            "If you intend to pursue Amy, you leave me with no choice but to put a stop to it."
+        ],
+        [
+            "Barry",
+            "And how are you gonna do that?"
+        ],
+        [
+            "Sheldon",
+            "By challenging you to a duel."
+        ],
+        [
+            "Barry",
+            "You\u2019ve had one wesson. I\u2019ll destwoy you."
+        ],
+        [
+            "Sheldon",
+            "That is why the duel will take place at high noon, three years from today. If you\u2019re worth your salt as an instructor, I should be ready by then. Yeah, and be warned. I\u2019m going to touch you all over."
+        ],
+        [
+            "Leonard",
+            "Wow. That, that was crazier than I thought."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Stuart",
+            "All right, I\u2019m not saying it\u2019s true, but let\u2019s, let\u2019s consider for a moment that possibly I\u2019m the problem."
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "You are."
+        ],
+        [
+            "Amy",
+            "You can say it."
+        ],
+        [
+            "Stuart",
+            "Okay, fine. What, I mean, what can I do? I get so nervous around women."
+        ],
+        [
+            "Penny",
+            "Well, you\u2019re talking to us now. I mean, you don\u2019t seem nervous."
+        ],
+        [
+            "Stuart",
+            "Well, that\u2019s \u2019cause I\u2019m doing that trick where you imagine the audience is naked. By the way, thumbs up, ladies."
+        ],
+        [
+            "Amy",
+            "Do you not hear how creepy that sounds?"
+        ],
+        [
+            "Stuart",
+            "It was a joke."
+        ],
+        [
+            "Bernadette",
+            "Was it?"
+        ],
+        [
+            "Stuart",
+            "No, I\u2019m still doing it."
+        ],
+        [
+            "Penny",
+            "Okay. Don\u2019t be offended, but, what went wrong with you?"
+        ],
+        [
+            "Stuart",
+            "I, I guess I assumed at this point in my life, I would be married or in a relationship, or even have a pet that didn\u2019t run away or kill itself."
+        ],
+        [
+            "Bernadette",
+            "That really happened?"
+        ],
+        [
+            "Stuart",
+            "I mean, I can\u2019t say for sure, but I swear that rabbit looked me right in the eye before it hopped in front of that car. Anyway, the longer I\u2019m alone, the more desperate I get."
+        ],
+        [
+            "Amy",
+            "Stuart, believe it or not, I understand. You know, before I met Sheldon, I was alone for a really long time. I was so desperate for people to like me, when I met these guys, it took everything in my power to hide my insecurity."
+        ],
+        [
+            "Stuart",
+            "Okay, we\u2019re all feeling it. Yes, I\u2019ll go out with you."
+        ],
+        [
+            "Amy",
+            "Suddenly, the rabbit thing makes sense."
+        ],
+        [
+            "Scene",
+            "A sports bar."
+        ],
+        [
+            "Leonard",
+            "I\u2019m surprised you wanted to go to a sports bar, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Look at this blister. Like it or not, we\u2019re athletes now. Besides, a bar is where I belong. I\u2019m having female problems."
+        ],
+        [
+            "Leonard",
+            "If you\u2019re cranky and retaining water, I have a theory."
+        ],
+        [
+            "Howard",
+            "Sheldon, instead of focusing on Amy dating other guys, maybe you should start thinking about dating another girl."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s ridiculous."
+        ],
+        [
+            "Raj",
+            "Why? You never thought you\u2019d end up in a relationship, and then you met Amy. Maybe there\u2019s someone else out there for you."
+        ],
+        [
+            "Sheldon",
+            "True, but Penny\u2019s married, and so is Bernadette. And your girlfriend has red hair and white skin, which really rubs up against my clown phobia."
+        ],
+        [
+            "Leonard",
+            "Maybe you should consider women who aren\u2019t in serious relationships with your closest friends?"
+        ],
+        [
+            "Sheldon",
+            "There\u2019s that prostate doctor, but I\u2019m still mad at her. Oh, there\u2019s a woman. I\u2019ll make her my girlfriend."
+        ],
+        [
+            "Raj",
+            "Whoa, whoa. Walking up to a strange woman in a bar usually doesn\u2019t work."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re forgetting something. Ladies love jocks."
+        ],
+        [
+            "Raj",
+            "How many sips of that beer did he have?"
+        ],
+        [
+            "Leonard",
+            "Three."
+        ],
+        [
+            "Howard",
+            "Oh, boy."
+        ],
+        [
+            "Sheldon",
+            "Excuse me. I\u2019m recovering from a recent breakup, and I\u2019m told asking out another woman might make me feel better. And as Ash Ketchum said to Pikachu, I choose you."
+        ],
+        [
+            "Woman",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a Pok\u00e9mon reference."
+        ],
+        [
+            "Woman",
+            "I don\u2019t know what that means."
+        ],
+        [
+            "Sheldon",
+            "Well, we gave it a shot. How about you?"
+        ],
+        [
+            "Older woman",
+            "I\u2019m married, and I\u2019m her grandmother."
+        ],
+        [
+            "Sheldon",
+            "Ah, what might have been. And you, give my regards to Barnum and Bailey."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "Stuart took that rejection like a pro."
+        ],
+        [
+            "Penny",
+            "Well, he knew he was on the breast cam."
+        ],
+        [
+            "Amy",
+            "I don\u2019t have much experience turning men down. It wasn\u2019t so much fun."
+        ],
+        [
+            "Bernadette",
+            "Oh, you get used to it. Some guys you have to turn down over and over."
+        ],
+        [
+            "Penny",
+            "And sometimes we marry them anyway."
+        ],
+        [
+            "Amy (Phone text sound)",
+            "Huh. Well, this is weird."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Amy",
+            "Barry Kripke just asked me out."
+        ],
+        [
+            "Bernadette",
+            "Oh. Look at you, two guys in one day."
+        ],
+        [
+            "Penny",
+            "I told you things would change if you plucked your eyebrows."
+        ],
+        [
+            "Bernadette",
+            "What did he say?"
+        ],
+        [
+            "Amy",
+            "Hi, how are you? I was wondering if you\u2019d like to get a drink after work sometime."
+        ],
+        [
+            "Penny",
+            "Well, what are you gonna do?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know. I guess I assumed that I would eventually date other people, but this is happening so fast."
+        ],
+        [
+            "Bernadette",
+            "What can it hurt?"
+        ],
+        [
+            "Amy",
+            "Well, I was hoping the next person I dated would be a little less like Sheldon."
+        ],
+        [
+            "Bernadette",
+            "You mean, not a scientist?"
+        ],
+        [
+            "Penny",
+            "I think she means not a weirdo."
+        ],
+        [
+            "Bernadette",
+            "Are you attracted to him?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know."
+        ],
+        [
+            "Penny",
+            "All right, well, what happens if you imagine him naked?"
+        ],
+        [
+            "Amy",
+            "Oh, I don\u2019t have to imagine it."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Sheldon",
+            "I smell funny. I taste salty."
+        ],
+        [
+            "Leonard",
+            "You\u2019re just sweaty from exercise."
+        ],
+        [
+            "Sheldon",
+            "And kind of delicious. I wonder how many licks it would take to get to the centre of me."
+        ],
+        [
+            "Leonard",
+            "I know it only takes one doctor\u2019s finger."
+        ],
+        [
+            "Amy",
+            "Hello."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "We should let you guys talk."
+        ],
+        [
+            "Bernadette",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t have to leave."
+        ],
+        [
+            "Leonard",
+            "Look at me go."
+        ],
+        [
+            "Amy",
+            "Uh, Bernadette, you\u2019re my ride."
+        ],
+        [
+            "Bernadette",
+            "Walk."
+        ],
+        [
+            "Amy",
+            "How have you been?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m doing all right. I tried fencing today."
+        ],
+        [
+            "Amy",
+            "How\u2019d that go?"
+        ],
+        [
+            "Sheldon",
+            "It was pretty easy. And I think my background in mathletics helped. Barry Kripke was there. I should let you know that he expressed interest in asking you out."
+        ],
+        [
+            "Amy",
+            "Well, actually, he, he already did."
+        ],
+        [
+            "Sheldon",
+            "Okay. But don\u2019t get too attached to him. in two years, 364 days, he\u2019s a dead man."
+        ],
+        [
+            "Amy",
+            "I said no."
+        ],
+        [
+            "Sheldon",
+            "Interesting. I asked two women out today, and they both said no."
+        ],
+        [
+            "Amy",
+            "I didn\u2019t know you were interested in dating."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve been told it\u2019s a good way to move on."
+        ],
+        [
+            "Amy",
+            "Oh. Okay. Anyway, um, it\u2019s nice to see you. You look good."
+        ],
+        [
+            "Sheldon",
+            "Thanks. And I taste good too."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Bernadette",
+            "Howie?"
+        ],
+        [
+            "Howard",
+            "What\u2019s up?"
+        ],
+        [
+            "Bernadette",
+            "Why does your Fitbit say you ran 174 miles yesterday?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-05-the-perspiration-implementation/"
+}

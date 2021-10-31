@@ -1,0 +1,1962 @@
+{
+    "Season": 8,
+    "Episode": 7,
+    "Title": "the misinterpretation agitation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Penny\u2019s apartment."
+            ],
+            [
+                18,
+                "Credits sequence."
+            ],
+            [
+                19,
+                "The building foyer. "
+            ],
+            [
+                61,
+                "A bar."
+            ],
+            [
+                82,
+                "The apartment."
+            ],
+            [
+                141,
+                "Dr Lorvis\u2019 basement."
+            ],
+            [
+                169,
+                "The lobby."
+            ],
+            [
+                181,
+                "Dr Lorvis\u2019 basement."
+            ],
+            [
+                184,
+                "The stairwell. "
+            ],
+            [
+                191,
+                "Dr Lorvis\u2019 basement."
+            ],
+            [
+                201,
+                "Penny\u2019s apartment."
+            ],
+            [
+                216,
+                "The foyer. "
+            ],
+            [
+                222,
+                "Dr Lorvis\u2019 basement. "
+            ]
+        ],
+        "Bernadette": [
+            [
+                1,
+                "So, what are you working on these days?"
+            ],
+            [
+                3,
+                "What would a one-celled organism have to be embarrassed about?"
+            ],
+            [
+                7,
+                "He was being funny. I\u2019m pretty sure. Anyway, I was asked to be a part of a magazine article about the 50 sexiest female scientists in California. Isn\u2019t that cool?"
+            ],
+            [
+                12,
+                "Why can\u2019t someone be thought of as both smart and pretty?"
+            ],
+            [
+                16,
+                "I was kind of excited about the article, but now you\u2019re making me feel bad."
+            ],
+            [
+                63,
+                "It was fine, but you\u2019ll be happy to know they pulled the sexy scientists article."
+            ],
+            [
+                65,
+                "I don\u2019t know. They just canceled the photo shoot and said they\u2019re rethinking it."
+            ],
+            [
+                67,
+                "I guess. It\u2019s really not that important. Hey, up here."
+            ],
+            [
+                69,
+                "What? How?"
+            ],
+            [
+                71,
+                "Amy, what did you say?"
+            ],
+            [
+                73,
+                "Because no one wants to see Neil deGrasse Tyson in a wet T-shirt, bent over the hood of a Porsche."
+            ],
+            [
+                75,
+                "No, what happened was you got jealous, so you took away a chance for me to get some publicity."
+            ],
+            [
+                77,
+                "That\u2019s for me to decide, not you."
+            ],
+            [
+                79,
+                "And I think you don\u2019t like people expressing their sexuality because no one wants you to express yours. Oh, Amy, I\u2019m so sorry. That was over the line."
+            ],
+            [
+                81,
+                "Please don\u2019t go. Up until my vicious attack, you were the one in the wrong."
+            ],
+            [
+                217,
+                "Oh, good, you\u2019re here. Amy, I am so sorry."
+            ],
+            [
+                219,
+                "What?"
+            ]
+        ],
+        "Amy": [
+            [
+                2,
+                "I\u2019m studying one-celled organisms to try and find the neurochemicals that lead to the feeling of shame."
+            ],
+            [
+                8,
+                "I think it\u2019s awful."
+            ],
+            [
+                10,
+                "Bernadette is a successful microbiologist. She should be celebrated for her achievements, not her looks. I mean, what kind of message does that send?"
+            ],
+            [
+                13,
+                "I just don\u2019t think a professional woman should have to flaunt her sexuality in order to get ahead."
+            ],
+            [
+                15,
+                "Maybe it\u2019s different in the world of sales, but it\u2019s already hard enough for women to be taken seriously in science."
+            ],
+            [
+                62,
+                "So, how was work today?"
+            ],
+            [
+                64,
+                "What happened?"
+            ],
+            [
+                66,
+                "Well, I\u2019m really sorry, but I think it\u2019s for the best. You want people focusing on your achievements, not staring at your breasts in some magazine."
+            ],
+            [
+                68,
+                "Sorry, it\u2019s just we\u2019re, we were talking about them. So, look, I, I wasn\u2019t going to say anything, but since you seem to be okay with the article being canceled, I have a little confession. I\u2019m the reason it was pulled."
+            ],
+            [
+                70,
+                "I sent the editors of the magazine a pretty scathing e-mail."
+            ],
+            [
+                72,
+                "I simply pointed out that they would never consider doing an article ranking male scientists on their sexuality, let alone showing them in various stages of undress."
+            ],
+            [
+                74,
+                "Well, it doesn\u2019t make a difference, because they agreed it was in bad taste, and now you agree, so Amy saves the day."
+            ],
+            [
+                76,
+                "But it was bad publicity."
+            ],
+            [
+                78,
+                "I disagree. As a female scientist, I think what you do affects all of us."
+            ],
+            [
+                80,
+                "You have a nice night."
+            ],
+            [
+                171,
+                "Nice flowers."
+            ],
+            [
+                173,
+                "Isn\u2019t she lucky?"
+            ],
+            [
+                175,
+                "What\u2019s that?"
+            ],
+            [
+                177,
+                "I guess that\u2019s all anybody wants."
+            ],
+            [
+                179,
+                "Well, I hope you get it."
+            ],
+            [
+                185,
+                "I can\u2019t take these."
+            ],
+            [
+                187,
+                "But what about the other girl?"
+            ],
+            [
+                204,
+                "We all have a past."
+            ],
+            [
+                218,
+                "That has to wait. This weirdo locked the guys up in his basement."
+            ],
+            [
+                230,
+                "Dr. Lorvis, isn\u2019t there something you want to say?"
+            ],
+            [
+                237,
+                "Sure."
+            ]
+        ],
+        "Penny": [
+            [
+                4,
+                "Same as all of us, getting out of a car without underwear."
+            ],
+            [
+                6,
+                "Okay, if it\u2019s sometimes Howie wears yours, Leonard already told us."
+            ],
+            [
+                9,
+                "Why would you say that?"
+            ],
+            [
+                11,
+                "I think the message is check out the rack on that scientist."
+            ],
+            [
+                14,
+                "Okay, what\u2019s the big deal? Look, if it helps me make a sale with a physician, I don\u2019t think it hurts to flirt a little. I mean, laugh at their joke, touch their arm, maybe crank up the AC in the car beforehand, you know, to wake up the girls."
+            ],
+            [
+                17,
+                "No, I think you should do whatever you want. You know, maybe if fashion magazines had female scientists in them, I would\u2019ve become a theoretical physicist. Stop smirking at each other."
+            ],
+            [
+                112,
+                "Hi."
+            ],
+            [
+                114,
+                "Dr. Lorvis, what are you doing here?"
+            ],
+            [
+                116,
+                "Really? Why?"
+            ],
+            [
+                119,
+                "Oh, this is very embarrassing. Dr. Lorvis, I am so sorry. I did not mean to lead you on."
+            ],
+            [
+                121,
+                "Oh. That\u2019s why you were mumbling Mississippi."
+            ],
+            [
+                123,
+                "Please, yes."
+            ],
+            [
+                127,
+                "What? No, no, I just put it on the other hand and turn it around. Keep that hand in my pocket."
+            ],
+            [
+                129,
+                "Well, what do you mean why? Look, I make more sales if these doctors think I\u2019m single. I did the same kind of thing as a waitress. The real question is, what is he doing in your apartment?"
+            ],
+            [
+                131,
+                "You were okay with that?"
+            ],
+            [
+                133,
+                "Okay, he just showed up at my door. Don\u2019t you think that\u2019s a little weird?"
+            ],
+            [
+                135,
+                "Okay. Whatever, look, my company does not allow me to socialize with doctors outside of work. You got to get rid of him."
+            ],
+            [
+                137,
+                "I can\u2019t do it, he\u2019s my best client."
+            ],
+            [
+                189,
+                "Dr. Lorvis?"
+            ],
+            [
+                202,
+                "So, you just left them alone playing games in your house?"
+            ],
+            [
+                205,
+                "Doc, you\u2019ve got to see what you\u2019re doing is, is a little creepy."
+            ],
+            [
+                207,
+                "Okay, you can\u2019t just go chasing after every girl who\u2019s nice to you."
+            ],
+            [
+                211,
+                "Okay, so how do they unstick it?"
+            ],
+            [
+                213,
+                "Okay. Nope. That\u2019s it. We are gonna go over there right now, and you are going to let them out."
+            ],
+            [
+                215,
+                "Move it."
+            ],
+            [
+                221,
+                "Just walk."
+            ],
+            [
+                228,
+                "Leonard, are you okay?"
+            ],
+            [
+                234,
+                "Okay, Leonard, let\u2019s go."
+            ],
+            [
+                238,
+                "Yeah."
+            ]
+        ],
+        "Bermadette": [
+            [
+                5,
+                "Speaking of underwear, I have some interesting news."
+            ]
+        ],
+        "Man with Flowers": [
+            [
+                20,
+                "Thank you."
+            ]
+        ],
+        "Sheldon": [
+            [
+                21,
+                "No, thank you. Delivery men are the unsung foot soldiers of our nation\u2019s commerce. It\u2019s because of people like you, people like me can limit our human contact. I\u2019d shake your hand, but, well, you know."
+            ],
+            [
+                23,
+                "That\u2019s humorous."
+            ],
+            [
+                25,
+                "Yeah, I bet you leave your patients in stitches. That was also humorous."
+            ],
+            [
+                27,
+                "Are you bringing flowers to a patient to cushion the blow of a terminal diagnosis? That wasn\u2019t a joke."
+            ],
+            [
+                29,
+                "Hmm. You know, they have delivery people that will do that for you."
+            ],
+            [
+                31,
+                "Making the extra effort. Good for you."
+            ],
+            [
+                33,
+                "Ooh, Siam Palace?"
+            ],
+            [
+                35,
+                "Uh, mee krob and chicken satay?"
+            ],
+            [
+                37,
+                "Uh, extra peanut sauce?"
+            ],
+            [
+                39,
+                "Eh, well, very well. Oh, and on the topic of sharing things that are yours, there is a gentleman caller bringing flowers to your fianc\u00e9e as we speak."
+            ],
+            [
+                41,
+                "Why didn\u2019t you get extra peanut sauce? We can both play this game."
+            ],
+            [
+                58,
+                "Hold on, Doctor. Leonard, where are your social skills? This man is clearly upset. We should invite him in for a hot beverage."
+            ],
+            [
+                60,
+                "So have these two, and they\u2019re having dinner with us."
+            ],
+            [
+                83,
+                "Here you go, Doctor. Red Zinger with one teaspoon of honey."
+            ],
+            [
+                98,
+                "What\u2019d you get? What\u2019d you get?"
+            ],
+            [
+                108,
+                "Oh, please, you know, I\u2019ll tell you how he did it. Implacable, relentless badgering. In urology terms, he was a drug-resistant staph infection. And she was a urethra that could not shake him."
+            ],
+            [
+                118,
+                "Oh, God. Don\u2019t make it so hard on her. Look, the first someone is the deceitful you. The second someone is the delightful Dr. Lorvis."
+            ],
+            [
+                125,
+                "So what other celebrity genitalia have you handled?"
+            ],
+            [
+                143,
+                "Leonard, I was wrong. Heaven does exist. And it\u2019s in the basement of a urologist\u2019s house in Sherman Oaks."
+            ],
+            [
+                158,
+                "Because it\u2019s a story of a pretty blonde girl tirelessly pursued by a small, oddly-shaped man?"
+            ],
+            [
+                160,
+                "Well, now, don\u2019t get defensive. You\u2019re oddly-shaped, but you got the girl."
+            ],
+            [
+                162,
+                "Yes. If you\u2019d like to join in, the premise is their love seems unlikely and doomed to failure."
+            ],
+            [
+                164,
+                "Oh, if you want to get in on the pool, you\u2019re too late. All the squares have been purchased."
+            ],
+            [
+                166,
+                "Leonard, as your friend I feel I should tell you something."
+            ],
+            [
+                168,
+                "I\u2019m still upset about that peanut sauce."
+            ],
+            [
+                183,
+                "No, I\u2019d look silly in that helmet."
+            ],
+            [
+                200,
+                "Oh, this day just keeps getting better."
+            ],
+            [
+                223,
+                "You can do this."
+            ]
+        ],
+        "Man": [
+            [
+                22,
+                "I\u2019m not a delivery man, I\u2019m a doctor. Although I do often deliver alarming biopsy results to my patients."
+            ],
+            [
+                24,
+                "All right."
+            ],
+            [
+                26,
+                "All right."
+            ],
+            [
+                28,
+                "All right. These are actually for a nice woman who makes sales calls to my office."
+            ],
+            [
+                30,
+                "I was hoping to impress her by tracking her down on the Internet and then showing up unannounced at her door."
+            ],
+            [
+                43,
+                "Oh, hi. Uh, does Penny live here?"
+            ],
+            [
+                45,
+                "Well, uh, I met her at my office, she winked at me. And, uh, I came hoping to initiate a romantic relationship."
+            ],
+            [
+                47,
+                "Oh, she did. Seductively, like this. And then she touched my arm for two Mississippis. Like, you know, one Mississippi, two\u2026"
+            ],
+            [
+                49,
+                "Really? I\u2019ve never seen her wear an engagement ring."
+            ],
+            [
+                51,
+                "So, am I to presume that her flirtation was just a sales technique?"
+            ],
+            [
+                53,
+                "When will I learn? It\u2019s just like the cute girl at the pet store all over again."
+            ],
+            [
+                55,
+                "Oh, uh, she touched my arm for five Mississippis, and I bought a two thousand dollar iguana habitat. Which she was always too busy to come over and see. You give these to Penny. You\u2019re a, you\u2019re a lucky man."
+            ],
+            [
+                57,
+                "Oh, uh, you probably don\u2019t want her to see this. It\u2019s unnecessarily graphic."
+            ],
+            [
+                84,
+                "Thank you. Neat Star Trek mug. I actually have one of the phasers from the original TV show."
+            ],
+            [
+                87,
+                "Oh, easy, Gene Roddenberry needed a vasectomy."
+            ],
+            [
+                89,
+                "Yes."
+            ],
+            [
+                91,
+                "I don\u2019t like to brag,but, uh, you see, I\u2019m kind of the doctor to the stars\u2019 urinary tracts."
+            ],
+            [
+                93,
+                "Uh, you, you want to see James Cameron\u2019s kidney stone?"
+            ],
+            [
+                95,
+                "He was so happy after he passed it, he gave me a Terminator."
+            ],
+            [
+                97,
+                "Ever since I was a kid, but, uh, I didn\u2019t really get serious until William Shatner\u2019s bladder infection."
+            ],
+            [
+                99,
+                "Well, he said it was a tribble. It could be a toupee, but either way, it\u2019s pretty cool."
+            ],
+            [
+                101,
+                "Anytime. Uh, I\u2019ve got some cool stuff. When I first started, I thought it would be a good way to meet women, but, well, you know."
+            ],
+            [
+                104,
+                "Can I ask you a personal question?"
+            ],
+            [
+                106,
+                "Um, I mean, you\u2019re a guy like me, so how\u2019d you get a girl like Penny?"
+            ]
+        ],
+        "Leonard": [
+            [
+                32,
+                "Great timing, food just got here."
+            ],
+            [
+                34,
+                "Yes."
+            ],
+            [
+                36,
+                "Yes."
+            ],
+            [
+                38,
+                "No, but you can have mine."
+            ],
+            [
+                40,
+                "What? Why didn\u2019t you say that first?"
+            ],
+            [
+                42,
+                "Can I help you?"
+            ],
+            [
+                44,
+                "May I ask why?"
+            ],
+            [
+                46,
+                "Okay, um, look, I\u2019m pretty sure she didn\u2019t wink at you."
+            ],
+            [
+                48,
+                "I got it, I got it. Listen, um, I think there\u2019s been a misunderstanding. See, Penny is my fianc\u00e9e."
+            ],
+            [
+                52,
+                "I think so."
+            ],
+            [
+                54,
+                "Excuse me?"
+            ],
+            [
+                56,
+                "Thank you. Sorry."
+            ],
+            [
+                59,
+                "He tried to score with Penny."
+            ],
+            [
+                96,
+                "That is amazing. How long have you been collecting?"
+            ],
+            [
+                105,
+                "Sure."
+            ],
+            [
+                107,
+                "Oh. Well, you know, just being myself, really."
+            ],
+            [
+                109,
+                "I don\u2019t know that I\u2019d call myself an infection."
+            ],
+            [
+                111,
+                "Can we please change the subject?"
+            ],
+            [
+                117,
+                "Ah, that\u2019s a good question. Apparently someone was being awfully flirty while not wearing their engagement ring, causing another someone to show up here thinking the first someone might be available."
+            ],
+            [
+                122,
+                "Can we talk in private?"
+            ],
+            [
+                124,
+                "I\u2019ll be right back."
+            ],
+            [
+                126,
+                "So, uh, what\u2019s the deal? You take off your ring when you go to work?"
+            ],
+            [
+                128,
+                "Why?"
+            ],
+            [
+                130,
+                "Oh, he was upset. So Sheldon invited him in for a hot beverage."
+            ],
+            [
+                132,
+                "No. I got upset. And Sheldon made me a beverage, too."
+            ],
+            [
+                134,
+                "A little, but he\u2019s basically harmless. He\u2019s actually kind of a nice guy."
+            ],
+            [
+                136,
+                "Why am I the one that has to get rid of him?"
+            ],
+            [
+                138,
+                "All right, I\u2019ll get rid of him. But you owe me one."
+            ],
+            [
+                140,
+                "Yeah, sure. You owe me."
+            ],
+            [
+                142,
+                "Oh, my God."
+            ],
+            [
+                157,
+                "Wow, Donkey Kong. This, this was my game when I was a kid."
+            ],
+            [
+                159,
+                "No, because I liked it."
+            ],
+            [
+                167,
+                "What?"
+            ],
+            [
+                182,
+                "Next game, let\u2019s switch helmets."
+            ],
+            [
+                195,
+                "I wonder where Dr. Lorvis is. He\u2019s been gone a while."
+            ],
+            [
+                199,
+                "Uh, guys, we\u2019re locked in here."
+            ],
+            [
+                225,
+                "Oh-hom yeah."
+            ],
+            [
+                227,
+                "Next level."
+            ],
+            [
+                229,
+                "Better than okay. I am having the game of my life."
+            ],
+            [
+                233,
+                "Got it."
+            ],
+            [
+                235,
+                "Just hang on."
+            ]
+        ],
+        "Raj": [
+            [
+                50,
+                "Really?"
+            ],
+            [
+                85,
+                "Oh, cool."
+            ],
+            [
+                100,
+                "I would love to see your collection."
+            ],
+            [
+                103,
+                "Preach."
+            ],
+            [
+                113,
+                "Well, that didn\u2019t go your way."
+            ],
+            [
+                139,
+                "Hey, we\u2019re going to Oliver\u2019s house to see his collection. You want to go with us?"
+            ],
+            [
+                148,
+                "The gun from Hellboy?"
+            ],
+            [
+                150,
+                "How did you get it?"
+            ],
+            [
+                152,
+                "Oh, I was hoping for a juicy tidbit about Ron Perlman\u2019s testicles."
+            ],
+            [
+                156,
+                "Yeah, I\u2019m not quite sure how to respond."
+            ],
+            [
+                192,
+                "You think he bites?"
+            ],
+            [
+                194,
+                "You fooled me with that goat at the petting zoo. You will not fool me again."
+            ],
+            [
+                196,
+                "Maybe he\u2019s playing bingo with his mommy."
+            ],
+            [
+                198,
+                "Okay, now you\u2019re messing with me."
+            ],
+            [
+                224,
+                "One ladder left."
+            ]
+        ],
+        "Howard": [
+            [
+                86,
+                "How\u2019d you get that?"
+            ],
+            [
+                90,
+                "Wow, he really went where no man has gone before."
+            ],
+            [
+                102,
+                "We know."
+            ],
+            [
+                110,
+                "A gallant man would defend his fianc\u00e9e for being called a urethra."
+            ],
+            [
+                145,
+                "Oh, come on. It\u2019s a replica."
+            ],
+            [
+                147,
+                "Oh, I think I just cheated on my wife."
+            ],
+            [
+                155,
+                "Still lives with his ma. Yikes, right?"
+            ],
+            [
+                193,
+                "Stick your head in there and find out."
+            ],
+            [
+                197,
+                "It\u2019s sad how some guys can\u2019t cut the apron strings."
+            ],
+            [
+                226,
+                "Yes."
+            ],
+            [
+                232,
+                "Yeah, that was very uncool. Get the hammer. Get the hammer."
+            ]
+        ],
+        "Sehldon": [
+            [
+                88,
+                "Wait a minute. You\u2019ve snipped Gene Roddenberry\u2019s vas deferens?"
+            ]
+        ],
+        "All": [
+            [
+                92,
+                "Wow."
+            ],
+            [
+                94,
+                "Ooh."
+            ]
+        ],
+        "Dr Lorvis": [
+            [
+                115,
+                "Uh, well, actually I came to see you."
+            ],
+            [
+                120,
+                "You touched my arm for two Mississippis."
+            ],
+            [
+                144,
+                "Welcome to my Fortress of Solitude. This is where I go to get away from all my other solitude."
+            ],
+            [
+                146,
+                "Original."
+            ],
+            [
+                149,
+                "Yup."
+            ],
+            [
+                151,
+                "Bought it at auction."
+            ],
+            [
+                154,
+                "Okay, Mother. Have fun."
+            ],
+            [
+                161,
+                "So, I\u2019ve noticed Leonard gets teased a lot 0about his relationship with Penny."
+            ],
+            [
+                163,
+                "So, you think she\u2019ll be single soon?"
+            ],
+            [
+                165,
+                "Interesting. Excuse me, I have to take care of something."
+            ],
+            [
+                170,
+                "Oh, could you hold the door?"
+            ],
+            [
+                172,
+                "Thank you. They\u2019re for a girl. Uh, I\u2019m being implacable and relentless."
+            ],
+            [
+                174,
+                "She keeps sending me mixed signals. But I think we both want the same thing."
+            ],
+            [
+                176,
+                "Unconditional love."
+            ],
+            [
+                178,
+                "I guess so."
+            ],
+            [
+                180,
+                "One Mississippi, two Mississippi."
+            ],
+            [
+                186,
+                "Why not? I mean, you want what I want. And we had two wonderful Mississippis."
+            ],
+            [
+                188,
+                "Oh, right. I\u2019ll tell her we should just be friends."
+            ],
+            [
+                190,
+                "Penny, we should just be friends. Happy?"
+            ],
+            [
+                203,
+                "Well, they seemed happy and I thought that would give me time for you and I to get to know each other better. That was before we met."
+            ],
+            [
+                206,
+                "You sound just like Sigourney Weaver when I followed her into a restroom."
+            ],
+            [
+                208,
+                "Well, that\u2019s not what Sheldon says. And he seems to know his way around the ladies."
+            ],
+            [
+                210,
+                "Well, they\u2019re, they\u2019re not locked in. The door just sticks."
+            ],
+            [
+                212,
+                "They\u2019d need the key."
+            ],
+            [
+                214,
+                "Three Mississippi, four Mississippi."
+            ],
+            [
+                220,
+                "She seems nice. Who\u2019s she?"
+            ],
+            [
+                231,
+                "Yes. I\u2019m very sorry for locking you in my home."
+            ],
+            [
+                236,
+                "Well, while we wait, would you like to see Tobey Maguire\u2019s prostate sonogram?"
+            ],
+            [
+                239,
+                "Oh, spoiler alert. He was worried about nothing."
+            ]
+        ],
+        "Woman\u2019s voice (off)": [
+            [
+                153,
+                "Oliver, I\u2019m going to play bingo."
+            ]
+        ],
+        "Penny (on phone)": [
+            [
+                209,
+                "Hey, Leonard. Guess who\u2019s back. Dr. Lorvis. Yeah. You care to join us? What? You locked them in your basement?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "So, what are you working on these days?"
+        ],
+        [
+            "Amy",
+            "I\u2019m studying one-celled organisms to try and find the neurochemicals that lead to the feeling of shame."
+        ],
+        [
+            "Bernadette",
+            "What would a one-celled organism have to be embarrassed about?"
+        ],
+        [
+            "Penny",
+            "Same as all of us, getting out of a car without underwear."
+        ],
+        [
+            "Bermadette",
+            "Speaking of underwear, I have some interesting news."
+        ],
+        [
+            "Penny",
+            "Okay, if it\u2019s sometimes Howie wears yours, Leonard already told us."
+        ],
+        [
+            "Bernadette",
+            "He was being funny. I\u2019m pretty sure. Anyway, I was asked to be a part of a magazine article about the 50 sexiest female scientists in California. Isn\u2019t that cool?"
+        ],
+        [
+            "Amy",
+            "I think it\u2019s awful."
+        ],
+        [
+            "Penny",
+            "Why would you say that?"
+        ],
+        [
+            "Amy",
+            "Bernadette is a successful microbiologist. She should be celebrated for her achievements, not her looks. I mean, what kind of message does that send?"
+        ],
+        [
+            "Penny",
+            "I think the message is check out the rack on that scientist."
+        ],
+        [
+            "Bernadette",
+            "Why can\u2019t someone be thought of as both smart and pretty?"
+        ],
+        [
+            "Amy",
+            "I just don\u2019t think a professional woman should have to flaunt her sexuality in order to get ahead."
+        ],
+        [
+            "Penny",
+            "Okay, what\u2019s the big deal? Look, if it helps me make a sale with a physician, I don\u2019t think it hurts to flirt a little. I mean, laugh at their joke, touch their arm, maybe crank up the AC in the car beforehand, you know, to wake up the girls."
+        ],
+        [
+            "Amy",
+            "Maybe it\u2019s different in the world of sales, but it\u2019s already hard enough for women to be taken seriously in science."
+        ],
+        [
+            "Bernadette",
+            "I was kind of excited about the article, but now you\u2019re making me feel bad."
+        ],
+        [
+            "Penny",
+            "No, I think you should do whatever you want. You know, maybe if fashion magazines had female scientists in them, I would\u2019ve become a theoretical physicist. Stop smirking at each other."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The building foyer. "
+        ],
+        [
+            "Man with Flowers",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "No, thank you. Delivery men are the unsung foot soldiers of our nation\u2019s commerce. It\u2019s because of people like you, people like me can limit our human contact. I\u2019d shake your hand, but, well, you know."
+        ],
+        [
+            "Man",
+            "I\u2019m not a delivery man, I\u2019m a doctor. Although I do often deliver alarming biopsy results to my patients."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s humorous."
+        ],
+        [
+            "Man",
+            "All right."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I bet you leave your patients in stitches. That was also humorous."
+        ],
+        [
+            "Man",
+            "All right."
+        ],
+        [
+            "Sheldon",
+            "Are you bringing flowers to a patient to cushion the blow of a terminal diagnosis? That wasn\u2019t a joke."
+        ],
+        [
+            "Man",
+            "All right. These are actually for a nice woman who makes sales calls to my office."
+        ],
+        [
+            "Sheldon",
+            "Hmm. You know, they have delivery people that will do that for you."
+        ],
+        [
+            "Man",
+            "I was hoping to impress her by tracking her down on the Internet and then showing up unannounced at her door."
+        ],
+        [
+            "Sheldon",
+            "Making the extra effort. Good for you."
+        ],
+        [
+            "Leonard",
+            "Great timing, food just got here."
+        ],
+        [
+            "Sheldon",
+            "Ooh, Siam Palace?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Uh, mee krob and chicken satay?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Uh, extra peanut sauce?"
+        ],
+        [
+            "Leonard",
+            "No, but you can have mine."
+        ],
+        [
+            "Sheldon",
+            "Eh, well, very well. Oh, and on the topic of sharing things that are yours, there is a gentleman caller bringing flowers to your fianc\u00e9e as we speak."
+        ],
+        [
+            "Leonard",
+            "What? Why didn\u2019t you say that first?"
+        ],
+        [
+            "Sheldon",
+            "Why didn\u2019t you get extra peanut sauce? We can both play this game."
+        ],
+        [
+            "Leonard",
+            "Can I help you?"
+        ],
+        [
+            "Man",
+            "Oh, hi. Uh, does Penny live here?"
+        ],
+        [
+            "Leonard",
+            "May I ask why?"
+        ],
+        [
+            "Man",
+            "Well, uh, I met her at my office, she winked at me. And, uh, I came hoping to initiate a romantic relationship."
+        ],
+        [
+            "Leonard",
+            "Okay, um, look, I\u2019m pretty sure she didn\u2019t wink at you."
+        ],
+        [
+            "Man",
+            "Oh, she did. Seductively, like this. And then she touched my arm for two Mississippis. Like, you know, one Mississippi, two\u2026"
+        ],
+        [
+            "Leonard",
+            "I got it, I got it. Listen, um, I think there\u2019s been a misunderstanding. See, Penny is my fianc\u00e9e."
+        ],
+        [
+            "Man",
+            "Really? I\u2019ve never seen her wear an engagement ring."
+        ],
+        [
+            "Raj",
+            "Really?"
+        ],
+        [
+            "Man",
+            "So, am I to presume that her flirtation was just a sales technique?"
+        ],
+        [
+            "Leonard",
+            "I think so."
+        ],
+        [
+            "Man",
+            "When will I learn? It\u2019s just like the cute girl at the pet store all over again."
+        ],
+        [
+            "Leonard",
+            "Excuse me?"
+        ],
+        [
+            "Man",
+            "Oh, uh, she touched my arm for five Mississippis, and I bought a two thousand dollar iguana habitat. Which she was always too busy to come over and see. You give these to Penny. You\u2019re a, you\u2019re a lucky man."
+        ],
+        [
+            "Leonard",
+            "Thank you. Sorry."
+        ],
+        [
+            "Man",
+            "Oh, uh, you probably don\u2019t want her to see this. It\u2019s unnecessarily graphic."
+        ],
+        [
+            "Sheldon",
+            "Hold on, Doctor. Leonard, where are your social skills? This man is clearly upset. We should invite him in for a hot beverage."
+        ],
+        [
+            "Leonard",
+            "He tried to score with Penny."
+        ],
+        [
+            "Sheldon",
+            "So have these two, and they\u2019re having dinner with us."
+        ],
+        [
+            "Scene",
+            "A bar."
+        ],
+        [
+            "Amy",
+            "So, how was work today?"
+        ],
+        [
+            "Bernadette",
+            "It was fine, but you\u2019ll be happy to know they pulled the sexy scientists article."
+        ],
+        [
+            "Amy",
+            "What happened?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know. They just canceled the photo shoot and said they\u2019re rethinking it."
+        ],
+        [
+            "Amy",
+            "Well, I\u2019m really sorry, but I think it\u2019s for the best. You want people focusing on your achievements, not staring at your breasts in some magazine."
+        ],
+        [
+            "Bernadette",
+            "I guess. It\u2019s really not that important. Hey, up here."
+        ],
+        [
+            "Amy",
+            "Sorry, it\u2019s just we\u2019re, we were talking about them. So, look, I, I wasn\u2019t going to say anything, but since you seem to be okay with the article being canceled, I have a little confession. I\u2019m the reason it was pulled."
+        ],
+        [
+            "Bernadette",
+            "What? How?"
+        ],
+        [
+            "Amy",
+            "I sent the editors of the magazine a pretty scathing e-mail."
+        ],
+        [
+            "Bernadette",
+            "Amy, what did you say?"
+        ],
+        [
+            "Amy",
+            "I simply pointed out that they would never consider doing an article ranking male scientists on their sexuality, let alone showing them in various stages of undress."
+        ],
+        [
+            "Bernadette",
+            "Because no one wants to see Neil deGrasse Tyson in a wet T-shirt, bent over the hood of a Porsche."
+        ],
+        [
+            "Amy",
+            "Well, it doesn\u2019t make a difference, because they agreed it was in bad taste, and now you agree, so Amy saves the day."
+        ],
+        [
+            "Bernadette",
+            "No, what happened was you got jealous, so you took away a chance for me to get some publicity."
+        ],
+        [
+            "Amy",
+            "But it was bad publicity."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s for me to decide, not you."
+        ],
+        [
+            "Amy",
+            "I disagree. As a female scientist, I think what you do affects all of us."
+        ],
+        [
+            "Bernadette",
+            "And I think you don\u2019t like people expressing their sexuality because no one wants you to express yours. Oh, Amy, I\u2019m so sorry. That was over the line."
+        ],
+        [
+            "Amy",
+            "You have a nice night."
+        ],
+        [
+            "Bernadette",
+            "Please don\u2019t go. Up until my vicious attack, you were the one in the wrong."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Here you go, Doctor. Red Zinger with one teaspoon of honey."
+        ],
+        [
+            "Man",
+            "Thank you. Neat Star Trek mug. I actually have one of the phasers from the original TV show."
+        ],
+        [
+            "Raj",
+            "Oh, cool."
+        ],
+        [
+            "Howard",
+            "How\u2019d you get that?"
+        ],
+        [
+            "Man",
+            "Oh, easy, Gene Roddenberry needed a vasectomy."
+        ],
+        [
+            "Sehldon",
+            "Wait a minute. You\u2019ve snipped Gene Roddenberry\u2019s vas deferens?"
+        ],
+        [
+            "Man",
+            "Yes."
+        ],
+        [
+            "Howard",
+            "Wow, he really went where no man has gone before."
+        ],
+        [
+            "Man",
+            "I don\u2019t like to brag,but, uh, you see, I\u2019m kind of the doctor to the stars\u2019 urinary tracts."
+        ],
+        [
+            "All",
+            "Wow."
+        ],
+        [
+            "Man",
+            "Uh, you, you want to see James Cameron\u2019s kidney stone?"
+        ],
+        [
+            "All",
+            "Ooh."
+        ],
+        [
+            "Man",
+            "He was so happy after he passed it, he gave me a Terminator."
+        ],
+        [
+            "Leonard",
+            "That is amazing. How long have you been collecting?"
+        ],
+        [
+            "Man",
+            "Ever since I was a kid, but, uh, I didn\u2019t really get serious until William Shatner\u2019s bladder infection."
+        ],
+        [
+            "Sheldon",
+            "What\u2019d you get? What\u2019d you get?"
+        ],
+        [
+            "Man",
+            "Well, he said it was a tribble. It could be a toupee, but either way, it\u2019s pretty cool."
+        ],
+        [
+            "Raj",
+            "I would love to see your collection."
+        ],
+        [
+            "Man",
+            "Anytime. Uh, I\u2019ve got some cool stuff. When I first started, I thought it would be a good way to meet women, but, well, you know."
+        ],
+        [
+            "Howard",
+            "We know."
+        ],
+        [
+            "Raj",
+            "Preach."
+        ],
+        [
+            "Man",
+            "Can I ask you a personal question?"
+        ],
+        [
+            "Leonard",
+            "Sure."
+        ],
+        [
+            "Man",
+            "Um, I mean, you\u2019re a guy like me, so how\u2019d you get a girl like Penny?"
+        ],
+        [
+            "Leonard",
+            "Oh. Well, you know, just being myself, really."
+        ],
+        [
+            "Sheldon",
+            "Oh, please, you know, I\u2019ll tell you how he did it. Implacable, relentless badgering. In urology terms, he was a drug-resistant staph infection. And she was a urethra that could not shake him."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know that I\u2019d call myself an infection."
+        ],
+        [
+            "Howard",
+            "A gallant man would defend his fianc\u00e9e for being called a urethra."
+        ],
+        [
+            "Leonard",
+            "Can we please change the subject?"
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Raj",
+            "Well, that didn\u2019t go your way."
+        ],
+        [
+            "Penny",
+            "Dr. Lorvis, what are you doing here?"
+        ],
+        [
+            "Dr Lorvis",
+            "Uh, well, actually I came to see you."
+        ],
+        [
+            "Penny",
+            "Really? Why?"
+        ],
+        [
+            "Leonard",
+            "Ah, that\u2019s a good question. Apparently someone was being awfully flirty while not wearing their engagement ring, causing another someone to show up here thinking the first someone might be available."
+        ],
+        [
+            "Sheldon",
+            "Oh, God. Don\u2019t make it so hard on her. Look, the first someone is the deceitful you. The second someone is the delightful Dr. Lorvis."
+        ],
+        [
+            "Penny",
+            "Oh, this is very embarrassing. Dr. Lorvis, I am so sorry. I did not mean to lead you on."
+        ],
+        [
+            "Dr Lorvis",
+            "You touched my arm for two Mississippis."
+        ],
+        [
+            "Penny",
+            "Oh. That\u2019s why you were mumbling Mississippi."
+        ],
+        [
+            "Leonard",
+            "Can we talk in private?"
+        ],
+        [
+            "Penny",
+            "Please, yes."
+        ],
+        [
+            "Leonard",
+            "I\u2019ll be right back."
+        ],
+        [
+            "Sheldon",
+            "So what other celebrity genitalia have you handled?"
+        ],
+        [
+            "Leonard",
+            "So, uh, what\u2019s the deal? You take off your ring when you go to work?"
+        ],
+        [
+            "Penny",
+            "What? No, no, I just put it on the other hand and turn it around. Keep that hand in my pocket."
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Penny",
+            "Well, what do you mean why? Look, I make more sales if these doctors think I\u2019m single. I did the same kind of thing as a waitress. The real question is, what is he doing in your apartment?"
+        ],
+        [
+            "Leonard",
+            "Oh, he was upset. So Sheldon invited him in for a hot beverage."
+        ],
+        [
+            "Penny",
+            "You were okay with that?"
+        ],
+        [
+            "Leonard",
+            "No. I got upset. And Sheldon made me a beverage, too."
+        ],
+        [
+            "Penny",
+            "Okay, he just showed up at my door. Don\u2019t you think that\u2019s a little weird?"
+        ],
+        [
+            "Leonard",
+            "A little, but he\u2019s basically harmless. He\u2019s actually kind of a nice guy."
+        ],
+        [
+            "Penny",
+            "Okay. Whatever, look, my company does not allow me to socialize with doctors outside of work. You got to get rid of him."
+        ],
+        [
+            "Leonard",
+            "Why am I the one that has to get rid of him?"
+        ],
+        [
+            "Penny",
+            "I can\u2019t do it, he\u2019s my best client."
+        ],
+        [
+            "Leonard",
+            "All right, I\u2019ll get rid of him. But you owe me one."
+        ],
+        [
+            "Raj",
+            "Hey, we\u2019re going to Oliver\u2019s house to see his collection. You want to go with us?"
+        ],
+        [
+            "Leonard",
+            "Yeah, sure. You owe me."
+        ],
+        [
+            "Scene",
+            "Dr Lorvis\u2019 basement."
+        ],
+        [
+            "Leonard",
+            "Oh, my God."
+        ],
+        [
+            "Sheldon",
+            "Leonard, I was wrong. Heaven does exist. And it\u2019s in the basement of a urologist\u2019s house in Sherman Oaks."
+        ],
+        [
+            "Dr Lorvis",
+            "Welcome to my Fortress of Solitude. This is where I go to get away from all my other solitude."
+        ],
+        [
+            "Howard",
+            "Oh, come on. It\u2019s a replica."
+        ],
+        [
+            "Dr Lorvis",
+            "Original."
+        ],
+        [
+            "Howard",
+            "Oh, I think I just cheated on my wife."
+        ],
+        [
+            "Raj",
+            "The gun from Hellboy?"
+        ],
+        [
+            "Dr Lorvis",
+            "Yup."
+        ],
+        [
+            "Raj",
+            "How did you get it?"
+        ],
+        [
+            "Dr Lorvis",
+            "Bought it at auction."
+        ],
+        [
+            "Raj",
+            "Oh, I was hoping for a juicy tidbit about Ron Perlman\u2019s testicles."
+        ],
+        [
+            "Woman\u2019s voice (off)",
+            "Oliver, I\u2019m going to play bingo."
+        ],
+        [
+            "Dr Lorvis",
+            "Okay, Mother. Have fun."
+        ],
+        [
+            "Howard",
+            "Still lives with his ma. Yikes, right?"
+        ],
+        [
+            "Raj",
+            "Yeah, I\u2019m not quite sure how to respond."
+        ],
+        [
+            "Leonard",
+            "Wow, Donkey Kong. This, this was my game when I was a kid."
+        ],
+        [
+            "Sheldon",
+            "Because it\u2019s a story of a pretty blonde girl tirelessly pursued by a small, oddly-shaped man?"
+        ],
+        [
+            "Leonard",
+            "No, because I liked it."
+        ],
+        [
+            "Sheldon",
+            "Well, now, don\u2019t get defensive. You\u2019re oddly-shaped, but you got the girl."
+        ],
+        [
+            "Dr Lorvis",
+            "So, I\u2019ve noticed Leonard gets teased a lot 0about his relationship with Penny."
+        ],
+        [
+            "Sheldon",
+            "Yes. If you\u2019d like to join in, the premise is their love seems unlikely and doomed to failure."
+        ],
+        [
+            "Dr Lorvis",
+            "So, you think she\u2019ll be single soon?"
+        ],
+        [
+            "Sheldon",
+            "Oh, if you want to get in on the pool, you\u2019re too late. All the squares have been purchased."
+        ],
+        [
+            "Dr Lorvis",
+            "Interesting. Excuse me, I have to take care of something."
+        ],
+        [
+            "Sheldon",
+            "Leonard, as your friend I feel I should tell you something."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m still upset about that peanut sauce."
+        ],
+        [
+            "Scene",
+            "The lobby."
+        ],
+        [
+            "Dr Lorvis",
+            "Oh, could you hold the door?"
+        ],
+        [
+            "Amy",
+            "Nice flowers."
+        ],
+        [
+            "Dr Lorvis",
+            "Thank you. They\u2019re for a girl. Uh, I\u2019m being implacable and relentless."
+        ],
+        [
+            "Amy",
+            "Isn\u2019t she lucky?"
+        ],
+        [
+            "Dr Lorvis",
+            "She keeps sending me mixed signals. But I think we both want the same thing."
+        ],
+        [
+            "Amy",
+            "What\u2019s that?"
+        ],
+        [
+            "Dr Lorvis",
+            "Unconditional love."
+        ],
+        [
+            "Amy",
+            "I guess that\u2019s all anybody wants."
+        ],
+        [
+            "Dr Lorvis",
+            "I guess so."
+        ],
+        [
+            "Amy",
+            "Well, I hope you get it."
+        ],
+        [
+            "Dr Lorvis",
+            "One Mississippi, two Mississippi."
+        ],
+        [
+            "Scene",
+            "Dr Lorvis\u2019 basement."
+        ],
+        [
+            "Leonard",
+            "Next game, let\u2019s switch helmets."
+        ],
+        [
+            "Sheldon",
+            "No, I\u2019d look silly in that helmet."
+        ],
+        [
+            "Scene",
+            "The stairwell. "
+        ],
+        [
+            "Amy",
+            "I can\u2019t take these."
+        ],
+        [
+            "Dr Lorvis",
+            "Why not? I mean, you want what I want. And we had two wonderful Mississippis."
+        ],
+        [
+            "Amy",
+            "But what about the other girl?"
+        ],
+        [
+            "Dr Lorvis",
+            "Oh, right. I\u2019ll tell her we should just be friends."
+        ],
+        [
+            "Penny",
+            "Dr. Lorvis?"
+        ],
+        [
+            "Dr Lorvis",
+            "Penny, we should just be friends. Happy?"
+        ],
+        [
+            "Scene",
+            "Dr Lorvis\u2019 basement."
+        ],
+        [
+            "Raj",
+            "You think he bites?"
+        ],
+        [
+            "Howard",
+            "Stick your head in there and find out."
+        ],
+        [
+            "Raj",
+            "You fooled me with that goat at the petting zoo. You will not fool me again."
+        ],
+        [
+            "Leonard",
+            "I wonder where Dr. Lorvis is. He\u2019s been gone a while."
+        ],
+        [
+            "Raj",
+            "Maybe he\u2019s playing bingo with his mommy."
+        ],
+        [
+            "Howard",
+            "It\u2019s sad how some guys can\u2019t cut the apron strings."
+        ],
+        [
+            "Raj",
+            "Okay, now you\u2019re messing with me."
+        ],
+        [
+            "Leonard",
+            "Uh, guys, we\u2019re locked in here."
+        ],
+        [
+            "Sheldon",
+            "Oh, this day just keeps getting better."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "So, you just left them alone playing games in your house?"
+        ],
+        [
+            "Dr Lorvis",
+            "Well, they seemed happy and I thought that would give me time for you and I to get to know each other better. That was before we met."
+        ],
+        [
+            "Amy",
+            "We all have a past."
+        ],
+        [
+            "Penny",
+            "Doc, you\u2019ve got to see what you\u2019re doing is, is a little creepy."
+        ],
+        [
+            "Dr Lorvis",
+            "You sound just like Sigourney Weaver when I followed her into a restroom."
+        ],
+        [
+            "Penny",
+            "Okay, you can\u2019t just go chasing after every girl who\u2019s nice to you."
+        ],
+        [
+            "Dr Lorvis",
+            "Well, that\u2019s not what Sheldon says. And he seems to know his way around the ladies."
+        ],
+        [
+            "Penny (on phone)",
+            "Hey, Leonard. Guess who\u2019s back. Dr. Lorvis. Yeah. You care to join us? What? You locked them in your basement?"
+        ],
+        [
+            "Dr Lorvis",
+            "Well, they\u2019re, they\u2019re not locked in. The door just sticks."
+        ],
+        [
+            "Penny",
+            "Okay, so how do they unstick it?"
+        ],
+        [
+            "Dr Lorvis",
+            "They\u2019d need the key."
+        ],
+        [
+            "Penny",
+            "Okay. Nope. That\u2019s it. We are gonna go over there right now, and you are going to let them out."
+        ],
+        [
+            "Dr Lorvis",
+            "Three Mississippi, four Mississippi."
+        ],
+        [
+            "Penny",
+            "Move it."
+        ],
+        [
+            "Scene",
+            "The foyer. "
+        ],
+        [
+            "Bernadette",
+            "Oh, good, you\u2019re here. Amy, I am so sorry."
+        ],
+        [
+            "Amy",
+            "That has to wait. This weirdo locked the guys up in his basement."
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Dr Lorvis",
+            "She seems nice. Who\u2019s she?"
+        ],
+        [
+            "Penny",
+            "Just walk."
+        ],
+        [
+            "Scene",
+            "Dr Lorvis\u2019 basement. "
+        ],
+        [
+            "Sheldon",
+            "You can do this."
+        ],
+        [
+            "Raj",
+            "One ladder left."
+        ],
+        [
+            "Leonard",
+            "Oh-hom yeah."
+        ],
+        [
+            "Howard",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "Next level."
+        ],
+        [
+            "Penny",
+            "Leonard, are you okay?"
+        ],
+        [
+            "Leonard",
+            "Better than okay. I am having the game of my life."
+        ],
+        [
+            "Amy",
+            "Dr. Lorvis, isn\u2019t there something you want to say?"
+        ],
+        [
+            "Dr Lorvis",
+            "Yes. I\u2019m very sorry for locking you in my home."
+        ],
+        [
+            "Howard",
+            "Yeah, that was very uncool. Get the hammer. Get the hammer."
+        ],
+        [
+            "Leonard",
+            "Got it."
+        ],
+        [
+            "Penny",
+            "Okay, Leonard, let\u2019s go."
+        ],
+        [
+            "Leonard",
+            "Just hang on."
+        ],
+        [
+            "Dr Lorvis",
+            "Well, while we wait, would you like to see Tobey Maguire\u2019s prostate sonogram?"
+        ],
+        [
+            "Amy",
+            "Sure."
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Dr Lorvis",
+            "Oh, spoiler alert. He was worried about nothing."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-07-the-misinterpretation-agitation/"
+}

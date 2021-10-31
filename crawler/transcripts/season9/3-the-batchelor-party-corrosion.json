@@ -1,0 +1,2106 @@
+{
+    "Season": 9,
+    "Episode": 3,
+    "Title": "the batchelor party corrosion",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                19,
+                "Outside, by a van."
+            ],
+            [
+                23,
+                "Credits sequence."
+            ],
+            [
+                24,
+                "The van."
+            ],
+            [
+                47,
+                "Penny\u2019s apartment."
+            ],
+            [
+                61,
+                "The van."
+            ],
+            [
+                69,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                100,
+                "The van."
+            ],
+            [
+                117,
+                "Penny\u2019s apartment."
+            ],
+            [
+                132,
+                "Mexico."
+            ],
+            [
+                141,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                185,
+                "Mexico."
+            ],
+            [
+                197,
+                "Penny\u2019s apartment."
+            ],
+            [
+                211,
+                "Mexico."
+            ],
+            [
+                246,
+                "A moment later, next to the burning van."
+            ],
+            [
+                248,
+                "The stairwell."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Would you pass the mustard?"
+            ],
+            [
+                3,
+                "Is it that the glucosinolates which give mustard its flavour were evolved by the cabbage family as a chemical defence against caterpillars?"
+            ],
+            [
+                5,
+                "Well, that was fun. Good for you, Leonard."
+            ],
+            [
+                11,
+                "Well, I\u2019d hardly call this kidnapping. Where\u2019s the blindfold? Where\u2019s the duct tape? Where\u2019s the part where you call me and demand ransom and I try to keep you on the phone, but you hang up seconds before I can trace it and then I say I\u2019m getting too old for this crud?"
+            ],
+            [
+                16,
+                "You\u2019re seriously going to get in a van and let these two take you to an unknown destination for an entire weekend?"
+            ],
+            [
+                18,
+                "Oh, and how do you think you\u2019re going to get me to do that?"
+            ],
+            [
+                20,
+                "Unhand me. This is ridiculous."
+            ],
+            [
+                25,
+                "It\u2019s bad enough I\u2019m being taken against my will. I don\u2019t see why it has to be in some hippie\u2019s mobile sex dungeon."
+            ],
+            [
+                27,
+                "It runs on syphilis?"
+            ],
+            [
+                29,
+                "No."
+            ],
+            [
+                34,
+                "Yeah, and talked about physics with them."
+            ],
+            [
+                42,
+                "Leonard, don\u2019t be fooled. I\u2019m from Texas, Me-hi-co is Spanish for Mexico."
+            ],
+            [
+                44,
+                "Uh, mariachi bands, wild dogs, beans that jump around \u2019cause there\u2019s a worm inside."
+            ],
+            [
+                46,
+                "Viva la Imodium. Ay-ay-ay."
+            ],
+            [
+                62,
+                "Uh-oh. According to this Mexican customs website, visitors may not bring more than five laser discs, 20 compact discs or 12 VHS tapes."
+            ],
+            [
+                64,
+                "How can you be sure? VHS was king when Feynman drove this van. For all we know, there are hidden compartments lousy with Jane Fonda workout videos."
+            ],
+            [
+                66,
+                "Are we all up to date on our yellow fever inoculations?"
+            ],
+            [
+                68,
+                "You can never be too careful. I got one last year before I went to Epcot."
+            ],
+            [
+                106,
+                "It is extraordinary."
+            ],
+            [
+                108,
+                "I usually don\u2019t put too much stock in charms and talismans. However, even I must admit feeling Richard Feynman\u2019s butt dent cupping my own bottom that does get the creative juices flowing."
+            ],
+            [
+                110,
+                "What was that?"
+            ],
+            [
+                112,
+                "What if it\u2019s banditos shooting at us? What if we get kidnapped? What if we end up in a factory making Bart Simpson pi\u00f1atas for the rest of our lives?"
+            ],
+            [
+                114,
+                "Leonard?"
+            ],
+            [
+                116,
+                "I am getting too old for this crud."
+            ],
+            [
+                135,
+                "If I see one scorpion, I am getting on someone\u2019s shoulders and never coming down."
+            ],
+            [
+                191,
+                "Right. Archimedes once said give me a lever long enough and a fulcrum on which to place it, and I shall move the world."
+            ],
+            [
+                195,
+                "Everybody hold on. Let\u2019s take this problem one step at a time. First, we need to decide whether we\u2019re calling it leever or lehver. And the sooner we decide it\u2019s leever, the sooner we can roll up our sleeves, not slehves, and get to work."
+            ],
+            [
+                217,
+                "Ooh, the Green Lantern\u2019s ring could make a big green hand that unscrews it."
+            ],
+            [
+                219,
+                "Oh, please, the Hulk would never get across the border with that temper."
+            ],
+            [
+                221,
+                "Yes, we could use science. But it\u2019s your bachelor party. Lighten up."
+            ],
+            [
+                229,
+                "What if that burning food attracts animals?"
+            ],
+            [
+                231,
+                "We do?"
+            ],
+            [
+                233,
+                "That\u2019s not very nice."
+            ],
+            [
+                236,
+                "What is that awful smell?"
+            ],
+            [
+                238,
+                "What an innovative solution. Perhaps I don\u2019t give your MIT education enough credit."
+            ],
+            [
+                241,
+                "All right, this rust, combined with the aluminium recovered from the van, is now thermite."
+            ],
+            [
+                254,
+                "We blew up Feynman\u2019s van."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Sure. Hey, want to hear a fun fact about mustard?"
+            ],
+            [
+                4,
+                "Yeah."
+            ],
+            [
+                7,
+                "Hey, you\u2019re early. The movie doesn\u2019t start for an hour."
+            ],
+            [
+                9,
+                "What are you talking about?"
+            ],
+            [
+                12,
+                "When do we leave?"
+            ],
+            [
+                31,
+                "This was Feynman\u2019s van? That\u2019s so cool."
+            ],
+            [
+                35,
+                "So, are you gonna give us a clue where we\u2019re headed?"
+            ],
+            [
+                37,
+                "India."
+            ],
+            [
+                39,
+                "Your house?"
+            ],
+            [
+                41,
+                "Fun, I\u2019ve never been there."
+            ],
+            [
+                65,
+                "If there was a hidden compartment, don\u2019t you think you\u2019d be stuffed in it by now?"
+            ],
+            [
+                101,
+                "Hey, watch your speed. I hear the Mexican police target tourists."
+            ],
+            [
+                105,
+                "Sheldon, can you believe that we\u2019re driving in a van that was owned by one of the greatest scientific minds of the 20th century? It\u2019s like the Batmobile. If Batman was real and a physicist and his car wasn\u2019t cool."
+            ],
+            [
+                115,
+                "What?"
+            ],
+            [
+                136,
+                "And there\u2019s your damsel."
+            ],
+            [
+                190,
+                "Yeah, this is nothing more than a physics problem."
+            ],
+            [
+                194,
+                "Let\u2019s see, a lever, a lever."
+            ],
+            [
+                196,
+                "We\u2019re gonna be here foreever."
+            ],
+            [
+                212,
+                "I don\u2019t think the lever\u2019s working."
+            ],
+            [
+                214,
+                "There\u2019s gotta be something else we could try."
+            ],
+            [
+                220,
+                "Guys, excuse me, not that calling one of the Avengers isn\u2019t a perfectly reasonable choice, but we\u2019re scientists. Don\u2019t you think we can figure this out using actual science?"
+            ],
+            [
+                228,
+                "They\u2019re basically pure hydrocarbons soaked in fat. Let\u2019s hope the lug nut expands."
+            ],
+            [
+                234,
+                "It\u2019s a bachelor party. Lighten up."
+            ],
+            [
+                244,
+                "Well, let\u2019s start small. We can always add more."
+            ],
+            [
+                250,
+                "We got a flat and couldn\u2019t get the tyre off."
+            ],
+            [
+                252,
+                "Thank you."
+            ],
+            [
+                256,
+                "I spent the night in Mexico with Sheldon."
+            ]
+        ],
+        "Raj (entering with Howard)": [
+            [
+                6,
+                "Hey, there."
+            ]
+        ],
+        "Howard": [
+            [
+                8,
+                "Actually, we\u2019re not going to the movies. We are here to kidnap you."
+            ],
+            [
+                13,
+                "Right now."
+            ],
+            [
+                15,
+                "Wow, okay."
+            ],
+            [
+                21,
+                "I told you to put tape on his mouth."
+            ],
+            [
+                26,
+                "Well, Sheldon, there\u2019s something about this van that you\u2019re going to find very interesting."
+            ],
+            [
+                30,
+                "Yeah. A buddy of mine let me borrow it."
+            ],
+            [
+                33,
+                "I bet he picked up a lot of cute grad students in this bad boy."
+            ],
+            [
+                40,
+                "We are going to Me-hi-co."
+            ],
+            [
+                45,
+                "Okay, calm down. There\u2019s a theme to this weekend. We are going to Mexico in Feynman\u2019s van to stay at the vacation house Feynman bought with the money from his Nobel Prize."
+            ],
+            [
+                67,
+                "You don\u2019t need a yellow fever shot to go to Mexico."
+            ],
+            [
+                102,
+                "Oh, not a problem. If anything goes down, we just put Koothrappali in the driver\u2019s seat and slap a sombrero on his head."
+            ],
+            [
+                104,
+                "I don\u2019t know. Have you watched the Olympics with me?"
+            ],
+            [
+                109,
+                "Hey, I have to return this van. Keep your creative juices in your pants."
+            ],
+            [
+                111,
+                "I think it\u2019s a tyre."
+            ],
+            [
+                113,
+                "It\u2019s the tyre."
+            ],
+            [
+                134,
+                "Every self-respecting gentleman should know how in case he comes across a damsel in distress by the side of the road."
+            ],
+            [
+                137,
+                "Wow, this one\u2019s really stuck."
+            ],
+            [
+                139,
+                "No. I took the other four off and when I got to this one, I thought, you know, I\u2019m in a rut, let\u2019s shake things up."
+            ],
+            [
+                186,
+                "What are you doing?"
+            ],
+            [
+                188,
+                "Great. He\u2019s pushing with his uterus."
+            ],
+            [
+                193,
+                "Exactly. I\u2019ll bet there\u2019s something around here that could be a lever."
+            ],
+            [
+                213,
+                "What makes you say that?"
+            ],
+            [
+                216,
+                "No, it\u2019s too broad of a beam. You\u2019d need something more precise, like Superman\u2019s heat vision."
+            ],
+            [
+                230,
+                "We have plenty of food for the animals."
+            ],
+            [
+                232,
+                "Yep. A six-foot wiener in a Flash T-shirt."
+            ],
+            [
+                237,
+                "It\u2019s burning salsa. I\u2019m hoping the acidity and salinity combined with electricity will corrode the lug nut off."
+            ],
+            [
+                239,
+                "Yeah, I saw it on Mythbusters."
+            ],
+            [
+                242,
+                "Great. Couple of pinches ought to do the trick."
+            ],
+            [
+                245,
+                "You put up a good fight, lug nut, but you\u2019ve met your match."
+            ]
+        ],
+        "Raj": [
+            [
+                10,
+                "Well, you eloped and we didn\u2019t get a chance to throw you a bachelor party, so there\u2019s a van downstairs and we\u2019re here to take you to a surprise location for the weekend."
+            ],
+            [
+                14,
+                "Yeah, Penny packed you a bag."
+            ],
+            [
+                17,
+                "Oh, not just him, you\u2019re coming, too."
+            ],
+            [
+                22,
+                "And I told you he bit me."
+            ],
+            [
+                28,
+                "This van was owned and driven by your personal physics hero, Richard Feynman."
+            ],
+            [
+                32,
+                "Yeah, nothing\u2019s been changed since he drove it."
+            ],
+            [
+                36,
+                "Uh, okay, let\u2019s see. They\u2019ve got spicy food and there\u2019s a chance you\u2019ll get diarrhoea."
+            ],
+            [
+                38,
+                "We can drive there."
+            ],
+            [
+                43,
+                "What\u2019s wrong with Mexico?"
+            ],
+            [
+                63,
+                "We don\u2019t have any of those."
+            ],
+            [
+                103,
+                "Dude, how many races can you offend in a single breath?"
+            ],
+            [
+                107,
+                "Perhaps some of his mojo will rub off on us. Maybe between this and his beach house, we will be inspired to greatness."
+            ],
+            [
+                133,
+                "When did you learn how to change a tyre?"
+            ],
+            [
+                138,
+                "Are you turning it the right way?"
+            ],
+            [
+                140,
+                "Here, let me try. You\u2019re right, it doesn\u2019t turn the other way."
+            ],
+            [
+                187,
+                "It\u2019s called Lamaze breathing. It helps you push."
+            ],
+            [
+                189,
+                "There\u2019s got to be a smarter way of removing it."
+            ],
+            [
+                192,
+                "Of course. All we need is to find stuff to make a lever big enough to fix this."
+            ],
+            [
+                215,
+                "If this was Star Trek, we could use a phaser to blast it off."
+            ],
+            [
+                218,
+                "If you need a green hand, why not just use the Hulk?"
+            ],
+            [
+                227,
+                "I had no idea tortilla chips were such a good fuel source."
+            ],
+            [
+                243,
+                "Is that enough to melt the lug nut?"
+            ],
+            [
+                247,
+                "Hey, look, the lug nut\u2019s off."
+            ]
+        ],
+        "Bernadette": [
+            [
+                48,
+                "Come on, Leonard\u2019s doing bachelor stuff. You sure we can\u2019t take you to a strip club?"
+            ],
+            [
+                55,
+                "Oh, look, Jewish and gentile."
+            ],
+            [
+                58,
+                "I hope the boys don\u2019t get too crazy in Mexico."
+            ],
+            [
+                72,
+                "You guys still aren\u2019t living together?"
+            ],
+            [
+                74,
+                "Speaking of Sheldon, how\u2019s single life treating you?"
+            ],
+            [
+                77,
+                "Good for you."
+            ],
+            [
+                80,
+                "Good for you."
+            ],
+            [
+                83,
+                "Your sweater?"
+            ],
+            [
+                85,
+                "Your hair?"
+            ],
+            [
+                89,
+                "You really never had that done?"
+            ],
+            [
+                93,
+                "We\u2019ll take you to the mall to get it done."
+            ],
+            [
+                99,
+                "This party\u2019s weird."
+            ],
+            [
+                118,
+                "Amy, I noticed your status still says in a relationship on Facebook."
+            ],
+            [
+                120,
+                "Did you change yours to married yet?"
+            ],
+            [
+                124,
+                "What?"
+            ],
+            [
+                127,
+                "What about your sister\u2019s wedding?"
+            ],
+            [
+                130,
+                "Yeah, isn\u2019t it gonna get worse the longer you wait?"
+            ],
+            [
+                144,
+                "That\u2019s a joke, right?"
+            ],
+            [
+                147,
+                "Bet she\u2019d still tell her if she got married."
+            ],
+            [
+                151,
+                "It\u2019s understandable. Amy was afraid to tell her mom she broke up with Sheldon."
+            ],
+            [
+                184,
+                "Okay, Amy, your turn."
+            ],
+            [
+                199,
+                "What did we do?"
+            ],
+            [
+                201,
+                "Really? They didn\u2019t eat him?"
+            ],
+            [
+                203,
+                "The breakfast meat family?"
+            ]
+        ],
+        "Penny": [
+            [
+                49,
+                "Nah, if I want to see a naked dancing man, I just flush the toilet while Leonard\u2019s in the shower."
+            ],
+            [
+                51,
+                "Hey."
+            ],
+            [
+                53,
+                "You really didn\u2019t have to, whoa! That is anatomic."
+            ],
+            [
+                59,
+                "Oh, yeah, right. Lock up your daughters or Sheldon might lecture them about the North American Free Trade Agreement."
+            ],
+            [
+                71,
+                "Oh, it\u2019s good. I just wish Leonard would work up the courage to tell Sheldon he\u2019s moving in here."
+            ],
+            [
+                73,
+                "We are. I mean, he sleeps here. But it\u2019s only a matter of time before Sheldon has a bad dream and tries to climb into bed with the Leonard-shaped pile of pillows."
+            ],
+            [
+                76,
+                "Yes."
+            ],
+            [
+                79,
+                "Yes."
+            ],
+            [
+                81,
+                "You know, it is normal to want to change your look after a breakup."
+            ],
+            [
+                84,
+                "Your glasses?"
+            ],
+            [
+                86,
+                "Your shoes."
+            ],
+            [
+                88,
+                "Oh."
+            ],
+            [
+                91,
+                "Okay, well, you\u2019re a grown woman now."
+            ],
+            [
+                94,
+                "Why? I can do it right here."
+            ],
+            [
+                96,
+                "No. All you need is a needle and an ice cube. I\u2019ve done it, like, a dozen times."
+            ],
+            [
+                98,
+                "Oh, come on. I\u2019ll be gentle. Let me take your ear virginity."
+            ],
+            [
+                121,
+                "Uh, no, not yet. There\u2019s still a few people I haven\u2019t told personally."
+            ],
+            [
+                123,
+                "Oh, just my parents and my entire family."
+            ],
+            [
+                126,
+                "Well, I don\u2019t want to hurt my dad. You know, he always wanted to dance with his daughter at her wedding."
+            ],
+            [
+                128,
+                "They started to, then her water broke. You know, if he finds out we eloped, it\u2019s gonna break his heart."
+            ],
+            [
+                131,
+                "Well, not necessarily. You know, Dad\u2019s not getting any younger, so if I wait long enough, I\u2019ll just tell him he walked me down the aisle and it was magical."
+            ],
+            [
+                142,
+                "There you go. You\u2019re all done."
+            ],
+            [
+                146,
+                "I\u2019m starting to see why you and your mom aren\u2019t very close."
+            ],
+            [
+                148,
+                "You\u2019re not gonna let this go, are you?"
+            ],
+            [
+                150,
+                "Fine, you want me to call? I\u2019ll call. Why am I so nervous?"
+            ],
+            [
+                152,
+                "Yeah? How did it go? Did she make you crawl into the breaking-up drawer?"
+            ],
+            [
+                154,
+                "You\u2019ve been giving me a hard time and you haven\u2019t even told your mom about Sheldon?"
+            ],
+            [
+                156,
+                "Fine. I\u2019m calling home, but when I\u2019m done, you\u2019re calling your mother."
+            ],
+            [
+                158,
+                "Hey, Daddy."
+            ],
+            [
+                160,
+                "Uh, good. Is Mom around?"
+            ],
+            [
+                162,
+                "Okay, I\u2019ll talk to her later. Uh, Dad, there\u2019s something I need to tell you. Leonard and I got married."
+            ],
+            [
+                164,
+                "Last week. I\u2019m sorry, I should\u2019ve told you. It was a spur of the moment thing. I feel terrible. Please don\u2019t be too disappointed."
+            ],
+            [
+                166,
+                "Very. Leonard is so great."
+            ],
+            [
+                168,
+                "Aw, thank you, Daddy. That means so much."
+            ],
+            [
+                170,
+                "It is. You\u2019re the best dad ever."
+            ],
+            [
+                172,
+                "Well, what is it?"
+            ],
+            [
+                174,
+                "No."
+            ],
+            [
+                176,
+                "Moondance?"
+            ],
+            [
+                178,
+                "You killed my pig?"
+            ],
+            [
+                180,
+                "When?"
+            ],
+            [
+                182,
+                "You didn\u2019t tell me for a year?"
+            ],
+            [
+                198,
+                "Thanks a lot, guys."
+            ],
+            [
+                200,
+                "Before I made that call, my pig was alive and happy and rolling around in the mud. Now he\u2019s illegally buried in our backyard next to my great-grandmother."
+            ],
+            [
+                202,
+                "No. He was a beloved member of the family."
+            ],
+            [
+                204,
+                "It\u2019s not funny. You\u2019re up. Call your mother."
+            ],
+            [
+                206,
+                "Phone, now."
+            ],
+            [
+                208,
+                "Try dialing."
+            ],
+            [
+                210,
+                "Okay, just give me that. Amy broke up with Sheldon, she got her ears pierced and she made us eat penis cookies. Hang on. She wants to talk to you."
+            ],
+            [
+                249,
+                "What? What are you doing back?"
+            ],
+            [
+                251,
+                "Oh, I\u2019m sorry."
+            ],
+            [
+                253,
+                "If it makes you feel any better, I pierced Amy\u2019s ears and her mom made her sit in my closet."
+            ],
+            [
+                255,
+                "My dad killed my pig with his tractor."
+            ],
+            [
+                257,
+                "You win."
+            ]
+        ],
+        "Amy (entering)": [
+            [
+                50,
+                "Hi."
+            ]
+        ],
+        "Amy": [
+            [
+                52,
+                "I know we\u2019re not making a fuss, but in the spirit of bachelorette parties, I made cookies in the shape of male genitals."
+            ],
+            [
+                54,
+                "Thank you. The veins are gummy worms."
+            ],
+            [
+                56,
+                "I had extra dough."
+            ],
+            [
+                60,
+                "Boy, that was a long night for me."
+            ],
+            [
+                70,
+                "So, Penny, how\u2019s married life?"
+            ],
+            [
+                75,
+                "Fine, I guess. I\u2019ve been focusing on me. I was thinking about changing my wardrobe."
+            ],
+            [
+                78,
+                "But then I decided I don\u2019t want to go changing who I am just because of some man."
+            ],
+            [
+                82,
+                "Actually, I was thinking of making one small change."
+            ],
+            [
+                87,
+                "Piercing my ears."
+            ],
+            [
+                90,
+                "My mom said pierced ears were for whores, pirates and genies."
+            ],
+            [
+                92,
+                "I know, but Sheldon had this clause in the Relationship Agreement forbidding cosmetic surgery unless it\u2019s to look like a Klingon."
+            ],
+            [
+                95,
+                "Really? You have a piercing gun?"
+            ],
+            [
+                97,
+                "Oh, I don\u2019t know."
+            ],
+            [
+                119,
+                "You\u2019re right. I should probably let all of my Facebook friends know. Penny, I\u2019m no longer in a relationship."
+            ],
+            [
+                122,
+                "Who?"
+            ],
+            [
+                125,
+                "Why?"
+            ],
+            [
+                129,
+                "How long do you think you can keep it from him?"
+            ],
+            [
+                143,
+                "That wasn\u2019t so bad. Nice. Boy, if my mom could see me now, she\u2019d lock me in the sin closet."
+            ],
+            [
+                145,
+                "Actually, the joke was on her. I could still see the TV through the slats."
+            ],
+            [
+                149,
+                "Well, it\u2019s kind of sad that they don\u2019t know. I mean, they love Leonard."
+            ],
+            [
+                153,
+                "Uh, well, actually, to be honest, I haven\u2019t told her yet."
+            ],
+            [
+                155,
+                "I\u2019m feeling a little dizzy from all the blood loss. I don\u2019t know what you\u2019re talking about."
+            ],
+            [
+                157,
+                "Easy for you to say. You never had to watch 60 Minutes like this."
+            ],
+            [
+                205,
+                "Oh, maybe later. Your pig dying made me sad. And a little hungry."
+            ],
+            [
+                207,
+                "Okay. Okay. Fine. Hi, Mom."
+            ],
+            [
+                209,
+                "You saw that, huh? Hi, Mom. How are you doing? Oh, good. How\u2019s work? That\u2019s nice. I\u2019m fine. Hey, listen, I\u2019ve been meaning to ask, how come Aunt Doe and Aunt Florence never got along?"
+            ]
+        ],
+        "Penny (reading text)": [
+            [
+                57,
+                "Oh, that\u2019s Leonard. He said they\u2019re about to cross the border."
+            ]
+        ],
+        "Penny\u2019s Dad": [
+            [
+                159,
+                "Hey, slugger. How\u2019s my girl?"
+            ],
+            [
+                161,
+                "Ah, she took your brother out to celebrate. He just got his tenth one-month sober chip. Yeah, she\u2019s gonna make him a little necklace."
+            ],
+            [
+                163,
+                "You did? When?"
+            ],
+            [
+                165,
+                "Are you happy?"
+            ],
+            [
+                167,
+                "Well, then I\u2019m happy for you."
+            ],
+            [
+                169,
+                "Well, I understand it\u2019s hard to tell someone something if you think it\u2019s gonna upset \u2019em."
+            ],
+            [
+                171,
+                "Yeah. Uh, hold that thought. I\u2019ve been sitting on a little news myself."
+            ],
+            [
+                173,
+                "You know that rototiller I got for the tractor?"
+            ],
+            [
+                175,
+                "Oh, you should see it. It is a beautiful piece of machinery. Anyway, uh, I backed over your pet pig with it."
+            ],
+            [
+                177,
+                "Yeah, he\u2019s, uh, not dancing anymore."
+            ],
+            [
+                179,
+                "I did not kill him. The vet took care of that."
+            ],
+            [
+                181,
+                "Oh, ten, twelve months ago."
+            ],
+            [
+                183,
+                "Well, apple doesn\u2019t fall far from the tree, does it? Love ya, slugger. Gotta go."
+            ]
+        ],
+        "Caption: Scientific Principle": [
+            [
+                222,
+                "Percussive Shock."
+            ],
+            [
+                226,
+                "Thermal Expansion."
+            ],
+            [
+                235,
+                "Accelerated Corrosion."
+            ],
+            [
+                240,
+                "Exothermic Reaction."
+            ]
+        ],
+        "Howard (singing)": [
+            [
+                223,
+                "We will, we will percussive shock you."
+            ]
+        ],
+        "Howard and Raj (singing)": [
+            [
+                224,
+                "We will, we will percussive shock you."
+            ]
+        ],
+        "Sheldon (singing)": [
+            [
+                225,
+                "Buddy you\u2019re a boy, make a big noise playin\u2019 in the street, gonna be a big man someday. You got mud on your face, you big disgrace, kickin\u2019 your can all over the place. I have an eidetic memory. Sometimes it\u2019s a curse."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Would you pass the mustard?"
+        ],
+        [
+            "Leonard",
+            "Sure. Hey, want to hear a fun fact about mustard?"
+        ],
+        [
+            "Sheldon",
+            "Is it that the glucosinolates which give mustard its flavour were evolved by the cabbage family as a chemical defence against caterpillars?"
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "Well, that was fun. Good for you, Leonard."
+        ],
+        [
+            "Raj (entering with Howard)",
+            "Hey, there."
+        ],
+        [
+            "Leonard",
+            "Hey, you\u2019re early. The movie doesn\u2019t start for an hour."
+        ],
+        [
+            "Howard",
+            "Actually, we\u2019re not going to the movies. We are here to kidnap you."
+        ],
+        [
+            "Leonard",
+            "What are you talking about?"
+        ],
+        [
+            "Raj",
+            "Well, you eloped and we didn\u2019t get a chance to throw you a bachelor party, so there\u2019s a van downstairs and we\u2019re here to take you to a surprise location for the weekend."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019d hardly call this kidnapping. Where\u2019s the blindfold? Where\u2019s the duct tape? Where\u2019s the part where you call me and demand ransom and I try to keep you on the phone, but you hang up seconds before I can trace it and then I say I\u2019m getting too old for this crud?"
+        ],
+        [
+            "Leonard",
+            "When do we leave?"
+        ],
+        [
+            "Howard",
+            "Right now."
+        ],
+        [
+            "Raj",
+            "Yeah, Penny packed you a bag."
+        ],
+        [
+            "Howard",
+            "Wow, okay."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re seriously going to get in a van and let these two take you to an unknown destination for an entire weekend?"
+        ],
+        [
+            "Raj",
+            "Oh, not just him, you\u2019re coming, too."
+        ],
+        [
+            "Sheldon",
+            "Oh, and how do you think you\u2019re going to get me to do that?"
+        ],
+        [
+            "Scene",
+            "Outside, by a van."
+        ],
+        [
+            "Sheldon",
+            "Unhand me. This is ridiculous."
+        ],
+        [
+            "Howard",
+            "I told you to put tape on his mouth."
+        ],
+        [
+            "Raj",
+            "And I told you he bit me."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The van."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s bad enough I\u2019m being taken against my will. I don\u2019t see why it has to be in some hippie\u2019s mobile sex dungeon."
+        ],
+        [
+            "Howard",
+            "Well, Sheldon, there\u2019s something about this van that you\u2019re going to find very interesting."
+        ],
+        [
+            "Sheldon",
+            "It runs on syphilis?"
+        ],
+        [
+            "Raj",
+            "This van was owned and driven by your personal physics hero, Richard Feynman."
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Howard",
+            "Yeah. A buddy of mine let me borrow it."
+        ],
+        [
+            "Leonard",
+            "This was Feynman\u2019s van? That\u2019s so cool."
+        ],
+        [
+            "Raj",
+            "Yeah, nothing\u2019s been changed since he drove it."
+        ],
+        [
+            "Howard",
+            "I bet he picked up a lot of cute grad students in this bad boy."
+        ],
+        [
+            "Sheldon",
+            "Yeah, and talked about physics with them."
+        ],
+        [
+            "Leonard",
+            "So, are you gonna give us a clue where we\u2019re headed?"
+        ],
+        [
+            "Raj",
+            "Uh, okay, let\u2019s see. They\u2019ve got spicy food and there\u2019s a chance you\u2019ll get diarrhoea."
+        ],
+        [
+            "Leonard",
+            "India."
+        ],
+        [
+            "Raj",
+            "We can drive there."
+        ],
+        [
+            "Leonard",
+            "Your house?"
+        ],
+        [
+            "Howard",
+            "We are going to Me-hi-co."
+        ],
+        [
+            "Leonard",
+            "Fun, I\u2019ve never been there."
+        ],
+        [
+            "Sheldon",
+            "Leonard, don\u2019t be fooled. I\u2019m from Texas, Me-hi-co is Spanish for Mexico."
+        ],
+        [
+            "Raj",
+            "What\u2019s wrong with Mexico?"
+        ],
+        [
+            "Sheldon",
+            "Uh, mariachi bands, wild dogs, beans that jump around \u2019cause there\u2019s a worm inside."
+        ],
+        [
+            "Howard",
+            "Okay, calm down. There\u2019s a theme to this weekend. We are going to Mexico in Feynman\u2019s van to stay at the vacation house Feynman bought with the money from his Nobel Prize."
+        ],
+        [
+            "Sheldon",
+            "Viva la Imodium. Ay-ay-ay."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "Come on, Leonard\u2019s doing bachelor stuff. You sure we can\u2019t take you to a strip club?"
+        ],
+        [
+            "Penny",
+            "Nah, if I want to see a naked dancing man, I just flush the toilet while Leonard\u2019s in the shower."
+        ],
+        [
+            "Amy (entering)",
+            "Hi."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Amy",
+            "I know we\u2019re not making a fuss, but in the spirit of bachelorette parties, I made cookies in the shape of male genitals."
+        ],
+        [
+            "Penny",
+            "You really didn\u2019t have to, whoa! That is anatomic."
+        ],
+        [
+            "Amy",
+            "Thank you. The veins are gummy worms."
+        ],
+        [
+            "Bernadette",
+            "Oh, look, Jewish and gentile."
+        ],
+        [
+            "Amy",
+            "I had extra dough."
+        ],
+        [
+            "Penny (reading text)",
+            "Oh, that\u2019s Leonard. He said they\u2019re about to cross the border."
+        ],
+        [
+            "Bernadette",
+            "I hope the boys don\u2019t get too crazy in Mexico."
+        ],
+        [
+            "Penny",
+            "Oh, yeah, right. Lock up your daughters or Sheldon might lecture them about the North American Free Trade Agreement."
+        ],
+        [
+            "Amy",
+            "Boy, that was a long night for me."
+        ],
+        [
+            "Scene",
+            "The van."
+        ],
+        [
+            "Sheldon",
+            "Uh-oh. According to this Mexican customs website, visitors may not bring more than five laser discs, 20 compact discs or 12 VHS tapes."
+        ],
+        [
+            "Raj",
+            "We don\u2019t have any of those."
+        ],
+        [
+            "Sheldon",
+            "How can you be sure? VHS was king when Feynman drove this van. For all we know, there are hidden compartments lousy with Jane Fonda workout videos."
+        ],
+        [
+            "Leonard",
+            "If there was a hidden compartment, don\u2019t you think you\u2019d be stuffed in it by now?"
+        ],
+        [
+            "Sheldon",
+            "Are we all up to date on our yellow fever inoculations?"
+        ],
+        [
+            "Howard",
+            "You don\u2019t need a yellow fever shot to go to Mexico."
+        ],
+        [
+            "Sheldon",
+            "You can never be too careful. I got one last year before I went to Epcot."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "So, Penny, how\u2019s married life?"
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s good. I just wish Leonard would work up the courage to tell Sheldon he\u2019s moving in here."
+        ],
+        [
+            "Bernadette",
+            "You guys still aren\u2019t living together?"
+        ],
+        [
+            "Penny",
+            "We are. I mean, he sleeps here. But it\u2019s only a matter of time before Sheldon has a bad dream and tries to climb into bed with the Leonard-shaped pile of pillows."
+        ],
+        [
+            "Bernadette",
+            "Speaking of Sheldon, how\u2019s single life treating you?"
+        ],
+        [
+            "Amy",
+            "Fine, I guess. I\u2019ve been focusing on me. I was thinking about changing my wardrobe."
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Bernadette",
+            "Good for you."
+        ],
+        [
+            "Amy",
+            "But then I decided I don\u2019t want to go changing who I am just because of some man."
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Bernadette",
+            "Good for you."
+        ],
+        [
+            "Penny",
+            "You know, it is normal to want to change your look after a breakup."
+        ],
+        [
+            "Amy",
+            "Actually, I was thinking of making one small change."
+        ],
+        [
+            "Bernadette",
+            "Your sweater?"
+        ],
+        [
+            "Penny",
+            "Your glasses?"
+        ],
+        [
+            "Bernadette",
+            "Your hair?"
+        ],
+        [
+            "Penny",
+            "Your shoes."
+        ],
+        [
+            "Amy",
+            "Piercing my ears."
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Bernadette",
+            "You really never had that done?"
+        ],
+        [
+            "Amy",
+            "My mom said pierced ears were for whores, pirates and genies."
+        ],
+        [
+            "Penny",
+            "Okay, well, you\u2019re a grown woman now."
+        ],
+        [
+            "Amy",
+            "I know, but Sheldon had this clause in the Relationship Agreement forbidding cosmetic surgery unless it\u2019s to look like a Klingon."
+        ],
+        [
+            "Bernadette",
+            "We\u2019ll take you to the mall to get it done."
+        ],
+        [
+            "Penny",
+            "Why? I can do it right here."
+        ],
+        [
+            "Amy",
+            "Really? You have a piercing gun?"
+        ],
+        [
+            "Penny",
+            "No. All you need is a needle and an ice cube. I\u2019ve done it, like, a dozen times."
+        ],
+        [
+            "Amy",
+            "Oh, I don\u2019t know."
+        ],
+        [
+            "Penny",
+            "Oh, come on. I\u2019ll be gentle. Let me take your ear virginity."
+        ],
+        [
+            "Bernadette",
+            "This party\u2019s weird."
+        ],
+        [
+            "Scene",
+            "The van."
+        ],
+        [
+            "Leonard",
+            "Hey, watch your speed. I hear the Mexican police target tourists."
+        ],
+        [
+            "Howard",
+            "Oh, not a problem. If anything goes down, we just put Koothrappali in the driver\u2019s seat and slap a sombrero on his head."
+        ],
+        [
+            "Raj",
+            "Dude, how many races can you offend in a single breath?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. Have you watched the Olympics with me?"
+        ],
+        [
+            "Leonard",
+            "Sheldon, can you believe that we\u2019re driving in a van that was owned by one of the greatest scientific minds of the 20th century? It\u2019s like the Batmobile. If Batman was real and a physicist and his car wasn\u2019t cool."
+        ],
+        [
+            "Sheldon",
+            "It is extraordinary."
+        ],
+        [
+            "Raj",
+            "Perhaps some of his mojo will rub off on us. Maybe between this and his beach house, we will be inspired to greatness."
+        ],
+        [
+            "Sheldon",
+            "I usually don\u2019t put too much stock in charms and talismans. However, even I must admit feeling Richard Feynman\u2019s butt dent cupping my own bottom that does get the creative juices flowing."
+        ],
+        [
+            "Howard",
+            "Hey, I have to return this van. Keep your creative juices in your pants."
+        ],
+        [
+            "Sheldon",
+            "What was that?"
+        ],
+        [
+            "Howard",
+            "I think it\u2019s a tyre."
+        ],
+        [
+            "Sheldon",
+            "What if it\u2019s banditos shooting at us? What if we get kidnapped? What if we end up in a factory making Bart Simpson pi\u00f1atas for the rest of our lives?"
+        ],
+        [
+            "Howard",
+            "It\u2019s the tyre."
+        ],
+        [
+            "Sheldon",
+            "Leonard?"
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I am getting too old for this crud."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "Amy, I noticed your status still says in a relationship on Facebook."
+        ],
+        [
+            "Amy",
+            "You\u2019re right. I should probably let all of my Facebook friends know. Penny, I\u2019m no longer in a relationship."
+        ],
+        [
+            "Bernadette",
+            "Did you change yours to married yet?"
+        ],
+        [
+            "Penny",
+            "Uh, no, not yet. There\u2019s still a few people I haven\u2019t told personally."
+        ],
+        [
+            "Amy",
+            "Who?"
+        ],
+        [
+            "Penny",
+            "Oh, just my parents and my entire family."
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Amy",
+            "Why?"
+        ],
+        [
+            "Penny",
+            "Well, I don\u2019t want to hurt my dad. You know, he always wanted to dance with his daughter at her wedding."
+        ],
+        [
+            "Bernadette",
+            "What about your sister\u2019s wedding?"
+        ],
+        [
+            "Penny",
+            "They started to, then her water broke. You know, if he finds out we eloped, it\u2019s gonna break his heart."
+        ],
+        [
+            "Amy",
+            "How long do you think you can keep it from him?"
+        ],
+        [
+            "Bernadette",
+            "Yeah, isn\u2019t it gonna get worse the longer you wait?"
+        ],
+        [
+            "Penny",
+            "Well, not necessarily. You know, Dad\u2019s not getting any younger, so if I wait long enough, I\u2019ll just tell him he walked me down the aisle and it was magical."
+        ],
+        [
+            "Scene",
+            "Mexico."
+        ],
+        [
+            "Raj",
+            "When did you learn how to change a tyre?"
+        ],
+        [
+            "Howard",
+            "Every self-respecting gentleman should know how in case he comes across a damsel in distress by the side of the road."
+        ],
+        [
+            "Sheldon",
+            "If I see one scorpion, I am getting on someone\u2019s shoulders and never coming down."
+        ],
+        [
+            "Leonard",
+            "And there\u2019s your damsel."
+        ],
+        [
+            "Howard",
+            "Wow, this one\u2019s really stuck."
+        ],
+        [
+            "Raj",
+            "Are you turning it the right way?"
+        ],
+        [
+            "Howard",
+            "No. I took the other four off and when I got to this one, I thought, you know, I\u2019m in a rut, let\u2019s shake things up."
+        ],
+        [
+            "Raj",
+            "Here, let me try. You\u2019re right, it doesn\u2019t turn the other way."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Penny",
+            "There you go. You\u2019re all done."
+        ],
+        [
+            "Amy",
+            "That wasn\u2019t so bad. Nice. Boy, if my mom could see me now, she\u2019d lock me in the sin closet."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s a joke, right?"
+        ],
+        [
+            "Amy",
+            "Actually, the joke was on her. I could still see the TV through the slats."
+        ],
+        [
+            "Penny",
+            "I\u2019m starting to see why you and your mom aren\u2019t very close."
+        ],
+        [
+            "Bernadette",
+            "Bet she\u2019d still tell her if she got married."
+        ],
+        [
+            "Penny",
+            "You\u2019re not gonna let this go, are you?"
+        ],
+        [
+            "Amy",
+            "Well, it\u2019s kind of sad that they don\u2019t know. I mean, they love Leonard."
+        ],
+        [
+            "Penny",
+            "Fine, you want me to call? I\u2019ll call. Why am I so nervous?"
+        ],
+        [
+            "Bernadette",
+            "It\u2019s understandable. Amy was afraid to tell her mom she broke up with Sheldon."
+        ],
+        [
+            "Penny",
+            "Yeah? How did it go? Did she make you crawl into the breaking-up drawer?"
+        ],
+        [
+            "Amy",
+            "Uh, well, actually, to be honest, I haven\u2019t told her yet."
+        ],
+        [
+            "Penny",
+            "You\u2019ve been giving me a hard time and you haven\u2019t even told your mom about Sheldon?"
+        ],
+        [
+            "Amy",
+            "I\u2019m feeling a little dizzy from all the blood loss. I don\u2019t know what you\u2019re talking about."
+        ],
+        [
+            "Penny",
+            "Fine. I\u2019m calling home, but when I\u2019m done, you\u2019re calling your mother."
+        ],
+        [
+            "Amy",
+            "Easy for you to say. You never had to watch 60 Minutes like this."
+        ],
+        [
+            "Penny",
+            "Hey, Daddy."
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Hey, slugger. How\u2019s my girl?"
+        ],
+        [
+            "Penny",
+            "Uh, good. Is Mom around?"
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Ah, she took your brother out to celebrate. He just got his tenth one-month sober chip. Yeah, she\u2019s gonna make him a little necklace."
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019ll talk to her later. Uh, Dad, there\u2019s something I need to tell you. Leonard and I got married."
+        ],
+        [
+            "Penny\u2019s Dad",
+            "You did? When?"
+        ],
+        [
+            "Penny",
+            "Last week. I\u2019m sorry, I should\u2019ve told you. It was a spur of the moment thing. I feel terrible. Please don\u2019t be too disappointed."
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Are you happy?"
+        ],
+        [
+            "Penny",
+            "Very. Leonard is so great."
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Well, then I\u2019m happy for you."
+        ],
+        [
+            "Penny",
+            "Aw, thank you, Daddy. That means so much."
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Well, I understand it\u2019s hard to tell someone something if you think it\u2019s gonna upset \u2019em."
+        ],
+        [
+            "Penny",
+            "It is. You\u2019re the best dad ever."
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Yeah. Uh, hold that thought. I\u2019ve been sitting on a little news myself."
+        ],
+        [
+            "Penny",
+            "Well, what is it?"
+        ],
+        [
+            "Penny\u2019s Dad",
+            "You know that rototiller I got for the tractor?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Oh, you should see it. It is a beautiful piece of machinery. Anyway, uh, I backed over your pet pig with it."
+        ],
+        [
+            "Penny",
+            "Moondance?"
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Yeah, he\u2019s, uh, not dancing anymore."
+        ],
+        [
+            "Penny",
+            "You killed my pig?"
+        ],
+        [
+            "Penny\u2019s Dad",
+            "I did not kill him. The vet took care of that."
+        ],
+        [
+            "Penny",
+            "When?"
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Oh, ten, twelve months ago."
+        ],
+        [
+            "Penny",
+            "You didn\u2019t tell me for a year?"
+        ],
+        [
+            "Penny\u2019s Dad",
+            "Well, apple doesn\u2019t fall far from the tree, does it? Love ya, slugger. Gotta go."
+        ],
+        [
+            "Bernadette",
+            "Okay, Amy, your turn."
+        ],
+        [
+            "Scene",
+            "Mexico."
+        ],
+        [
+            "Howard",
+            "What are you doing?"
+        ],
+        [
+            "Raj",
+            "It\u2019s called Lamaze breathing. It helps you push."
+        ],
+        [
+            "Howard",
+            "Great. He\u2019s pushing with his uterus."
+        ],
+        [
+            "Raj",
+            "There\u2019s got to be a smarter way of removing it."
+        ],
+        [
+            "Leonard",
+            "Yeah, this is nothing more than a physics problem."
+        ],
+        [
+            "Sheldon",
+            "Right. Archimedes once said give me a lever long enough and a fulcrum on which to place it, and I shall move the world."
+        ],
+        [
+            "Raj",
+            "Of course. All we need is to find stuff to make a lever big enough to fix this."
+        ],
+        [
+            "Howard",
+            "Exactly. I\u2019ll bet there\u2019s something around here that could be a lever."
+        ],
+        [
+            "Leonard",
+            "Let\u2019s see, a lever, a lever."
+        ],
+        [
+            "Sheldon",
+            "Everybody hold on. Let\u2019s take this problem one step at a time. First, we need to decide whether we\u2019re calling it leever or lehver. And the sooner we decide it\u2019s leever, the sooner we can roll up our sleeves, not slehves, and get to work."
+        ],
+        [
+            "Leonard",
+            "We\u2019re gonna be here foreever."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Thanks a lot, guys."
+        ],
+        [
+            "Bernadette",
+            "What did we do?"
+        ],
+        [
+            "Penny",
+            "Before I made that call, my pig was alive and happy and rolling around in the mud. Now he\u2019s illegally buried in our backyard next to my great-grandmother."
+        ],
+        [
+            "Bernadette",
+            "Really? They didn\u2019t eat him?"
+        ],
+        [
+            "Penny",
+            "No. He was a beloved member of the family."
+        ],
+        [
+            "Bernadette",
+            "The breakfast meat family?"
+        ],
+        [
+            "Penny",
+            "It\u2019s not funny. You\u2019re up. Call your mother."
+        ],
+        [
+            "Amy",
+            "Oh, maybe later. Your pig dying made me sad. And a little hungry."
+        ],
+        [
+            "Penny",
+            "Phone, now."
+        ],
+        [
+            "Amy",
+            "Okay. Okay. Fine. Hi, Mom."
+        ],
+        [
+            "Penny",
+            "Try dialing."
+        ],
+        [
+            "Amy",
+            "You saw that, huh? Hi, Mom. How are you doing? Oh, good. How\u2019s work? That\u2019s nice. I\u2019m fine. Hey, listen, I\u2019ve been meaning to ask, how come Aunt Doe and Aunt Florence never got along?"
+        ],
+        [
+            "Penny",
+            "Okay, just give me that. Amy broke up with Sheldon, she got her ears pierced and she made us eat penis cookies. Hang on. She wants to talk to you."
+        ],
+        [
+            "Scene",
+            "Mexico."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t think the lever\u2019s working."
+        ],
+        [
+            "Howard",
+            "What makes you say that?"
+        ],
+        [
+            "Leonard",
+            "There\u2019s gotta be something else we could try."
+        ],
+        [
+            "Raj",
+            "If this was Star Trek, we could use a phaser to blast it off."
+        ],
+        [
+            "Howard",
+            "No, it\u2019s too broad of a beam. You\u2019d need something more precise, like Superman\u2019s heat vision."
+        ],
+        [
+            "Sheldon",
+            "Ooh, the Green Lantern\u2019s ring could make a big green hand that unscrews it."
+        ],
+        [
+            "Raj",
+            "If you need a green hand, why not just use the Hulk?"
+        ],
+        [
+            "Sheldon",
+            "Oh, please, the Hulk would never get across the border with that temper."
+        ],
+        [
+            "Leonard",
+            "Guys, excuse me, not that calling one of the Avengers isn\u2019t a perfectly reasonable choice, but we\u2019re scientists. Don\u2019t you think we can figure this out using actual science?"
+        ],
+        [
+            "Sheldon",
+            "Yes, we could use science. But it\u2019s your bachelor party. Lighten up."
+        ],
+        [
+            "Caption: Scientific Principle",
+            "Percussive Shock."
+        ],
+        [
+            "Howard (singing)",
+            "We will, we will percussive shock you."
+        ],
+        [
+            "Howard and Raj (singing)",
+            "We will, we will percussive shock you."
+        ],
+        [
+            "Sheldon (singing)",
+            "Buddy you\u2019re a boy, make a big noise playin\u2019 in the street, gonna be a big man someday. You got mud on your face, you big disgrace, kickin\u2019 your can all over the place. I have an eidetic memory. Sometimes it\u2019s a curse."
+        ],
+        [
+            "Caption: Scientific Principle",
+            "Thermal Expansion."
+        ],
+        [
+            "Raj",
+            "I had no idea tortilla chips were such a good fuel source."
+        ],
+        [
+            "Leonard",
+            "They\u2019re basically pure hydrocarbons soaked in fat. Let\u2019s hope the lug nut expands."
+        ],
+        [
+            "Sheldon",
+            "What if that burning food attracts animals?"
+        ],
+        [
+            "Howard",
+            "We have plenty of food for the animals."
+        ],
+        [
+            "Sheldon",
+            "We do?"
+        ],
+        [
+            "Howard",
+            "Yep. A six-foot wiener in a Flash T-shirt."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not very nice."
+        ],
+        [
+            "Leonard",
+            "It\u2019s a bachelor party. Lighten up."
+        ],
+        [
+            "Caption: Scientific Principle",
+            "Accelerated Corrosion."
+        ],
+        [
+            "Sheldon",
+            "What is that awful smell?"
+        ],
+        [
+            "Howard",
+            "It\u2019s burning salsa. I\u2019m hoping the acidity and salinity combined with electricity will corrode the lug nut off."
+        ],
+        [
+            "Sheldon",
+            "What an innovative solution. Perhaps I don\u2019t give your MIT education enough credit."
+        ],
+        [
+            "Howard",
+            "Yeah, I saw it on Mythbusters."
+        ],
+        [
+            "Caption: Scientific Principle",
+            "Exothermic Reaction."
+        ],
+        [
+            "Sheldon",
+            "All right, this rust, combined with the aluminium recovered from the van, is now thermite."
+        ],
+        [
+            "Howard",
+            "Great. Couple of pinches ought to do the trick."
+        ],
+        [
+            "Raj",
+            "Is that enough to melt the lug nut?"
+        ],
+        [
+            "Leonard",
+            "Well, let\u2019s start small. We can always add more."
+        ],
+        [
+            "Howard",
+            "You put up a good fight, lug nut, but you\u2019ve met your match."
+        ],
+        [
+            "Scene",
+            "A moment later, next to the burning van."
+        ],
+        [
+            "Raj",
+            "Hey, look, the lug nut\u2019s off."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Penny",
+            "What? What are you doing back?"
+        ],
+        [
+            "Leonard",
+            "We got a flat and couldn\u2019t get the tyre off."
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019m sorry."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "If it makes you feel any better, I pierced Amy\u2019s ears and her mom made her sit in my closet."
+        ],
+        [
+            "Sheldon",
+            "We blew up Feynman\u2019s van."
+        ],
+        [
+            "Penny",
+            "My dad killed my pig with his tractor."
+        ],
+        [
+            "Leonard",
+            "I spent the night in Mexico with Sheldon."
+        ],
+        [
+            "Penny",
+            "You win."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-03-the-batchelor-party-corrosion/"
+}

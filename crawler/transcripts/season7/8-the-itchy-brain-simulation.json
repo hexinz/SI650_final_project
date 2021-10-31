@@ -1,0 +1,1724 @@
+{
+    "Season": 7,
+    "Episode": 8,
+    "Title": "the itchy brain simulation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment"
+            ],
+            [
+                36,
+                "Credits sequence."
+            ],
+            [
+                37,
+                "The apartment."
+            ],
+            [
+                52,
+                "The cheesecake factory bar."
+            ],
+            [
+                84,
+                "The apartment."
+            ],
+            [
+                101,
+                "Penny\u2019s apartment."
+            ],
+            [
+                113,
+                "The same, later."
+            ],
+            [
+                115,
+                "Sheldon\u2019s office."
+            ],
+            [
+                127,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                142,
+                "Penny\u2019s apartment."
+            ],
+            [
+                156,
+                "The apartment."
+            ],
+            [
+                165,
+                "A coffee shop."
+            ],
+            [
+                176,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                180,
+                "The apartment."
+            ],
+            [
+                199,
+                "A coffee shop."
+            ],
+            [
+                205,
+                "The cheesecake factory."
+            ],
+            [
+                207,
+                "Penny\u2019s apartment."
+            ],
+            [
+                209,
+                "Raj\u2019s apartment."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Hey, can I ask you a question?"
+            ],
+            [
+                3,
+                "You\u2019ve had this dart board since I\u2019ve known you, but I\u2019ve never seen you play."
+            ],
+            [
+                5,
+                "What window?"
+            ],
+            [
+                11,
+                "Ooh, what are you gonna get?"
+            ],
+            [
+                16,
+                "Aw, did she hate you?"
+            ],
+            [
+                25,
+                "No, if it was a spider, Lenny would\u2019ve flipped out."
+            ],
+            [
+                35,
+                "Yeah, it\u2019s freaking me out. I\u2019m gonna go."
+            ],
+            [
+                54,
+                "Yeah, hang on, just give me sec."
+            ],
+            [
+                57,
+                "I scraped gum off the bottom of that table. Only \u2019cause my manager saw me put it there."
+            ],
+            [
+                60,
+                "I don\u2019t know why but I always pictured her as Indian."
+            ],
+            [
+                62,
+                "I\u2019m gonna go talk to her."
+            ],
+            [
+                64,
+                "I\u2019m not gonna say anything. I just want to check her out. Because she hurt my friend. My Indian friend. Who\u2019s racist now?"
+            ],
+            [
+                66,
+                "Yeah, well, you\u2019re short."
+            ],
+            [
+                69,
+                "Hey, can I start you off with something to drink?"
+            ],
+            [
+                71,
+                "Okay. Um, you\u2019re Lucy, right? I\u2019m a friend of Raj Koothrappali\u2019s. Actually Amy recognized you."
+            ],
+            [
+                73,
+                "Oh, you know, he\u2019s good."
+            ],
+            [
+                75,
+                "Yeah, this is none of my business. But why did you break up with him in an e-mail?"
+            ],
+            [
+                77,
+                "Yeah, I get that. I\u2019ll go get you your water. When you say easier, you mean easier for you, right? \u2018Cause it certainly didn\u2019t make it easier for him."
+            ],
+            [
+                79,
+                "I\u2019m sorry, this is rude of me. I will go get that water. See, see, see, see. Just now you expressed your feelings to my face. How come you could do that with me, but not Raj?"
+            ],
+            [
+                81,
+                "You know what the worst part is? You\u2019re sitting here, perfectly happy and he\u2019s at home, a blubbering mess."
+            ],
+            [
+                83,
+                "Well, I also said I was getting you water, but look at me still standing here. You know, I may be a bad waitress, but you are a bad person. Now, you want to hear the specials?"
+            ],
+            [
+                102,
+                "Hey, if you guys were hungry, why didn\u2019t you order something at the restaurant?"
+            ],
+            [
+                104,
+                "Oh, that\u2019s right. Nachos and a turkey club."
+            ],
+            [
+                106,
+                "Well, I was too busy standing up for my friend to worry about your, I want to say salmon."
+            ],
+            [
+                109,
+                "What do you mean how? What\u2019s the big deal?"
+            ],
+            [
+                112,
+                "Okay, you guys are overreacting. Raj is gonna appreciate how I had his back."
+            ],
+            [
+                143,
+                "What are you doing?"
+            ],
+            [
+                145,
+                "Sheldon\u2019s not here. Why don\u2019t you take the sweater off?"
+            ],
+            [
+                147,
+                "Which is?"
+            ],
+            [
+                149,
+                "Oh, my God! Is that sweater made of bees? Come on, take it off. I won\u2019t tell."
+            ],
+            [
+                151,
+                "Sweetie, every night you don\u2019t kill him in his sleep, he wins."
+            ],
+            [
+                153,
+                "Smile."
+            ],
+            [
+                155,
+                "So you can send it to Princeton and get your money back."
+            ],
+            [
+                178,
+                "There\u2019s a girl at the Cheesecake Factory I can set you up with."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Sure."
+            ],
+            [
+                4,
+                "Oh, uh, we played, once. I broke a window."
+            ],
+            [
+                6,
+                "That one over there."
+            ],
+            [
+                8,
+                "Skee-Ball tickets?"
+            ],
+            [
+                10,
+                "Uh, if I still have them, they\u2019re probably in the junk box."
+            ],
+            [
+                13,
+                "Yup, oh, here you go."
+            ],
+            [
+                15,
+                "Oh. I forgot about this. My aunt made it for me when I started college."
+            ],
+            [
+                17,
+                "Why? Because I got an ugly, itchy sweater, and my brother got a car? No, I was her favorite."
+            ],
+            [
+                19,
+                "Hmm, I think I got them all. Nope, they\u2019re not in there."
+            ],
+            [
+                21,
+                "No, no, no, I, I looked, and there\u2019s, there\u2019s, there\u2019s no more tickets."
+            ],
+            [
+                23,
+                "Okay, okay. I\u2019m gonna show you what\u2019s in the box. But just promise not to flip out."
+            ],
+            [
+                26,
+                "Okay, Sheldon, I know I was supposed to return this DVD a long time ago, and I know we rented it on your card. But it\u2019s been, like, seven years and clearly nothing bad has happened. So in-in-in-instead of being a giant pain in the ass like you always are, what if this one time you just tried staying calm?"
+            ],
+            [
+                28,
+                "I\u2019m sorry. I\u2019ll, I\u2019ll take care of it."
+            ],
+            [
+                30,
+                "I mean it, I\u2019m going to."
+            ],
+            [
+                32,
+                "And you\u2019re going to stay calm?"
+            ],
+            [
+                34,
+                "How about that? Sheldon\u2019s being reasonable."
+            ],
+            [
+                38,
+                "So, when you say you\u2019re not going to freak out about the DVD, here\u2019s what that means. Don\u2019t fixate on it. Don\u2019t wake me up in the middle of the night. Or nag me through the door while I\u2019m on the toilet."
+            ],
+            [
+                40,
+                "When I broke my arm I used to stick a coat hanger down there. You ever try that? Maybe go in through the ear?"
+            ],
+            [
+                42,
+                "Well, I don\u2019t know how to do that."
+            ],
+            [
+                44,
+                "That\u2019s stupid. Why?"
+            ],
+            [
+                46,
+                "I\u2019m telling you, try the hanger."
+            ],
+            [
+                48,
+                "You got it. If this sweater shuts you up, I\u2019m gonna make a fortune selling them to everyone we know. Now all I need to do is head down to the video store and return the DVD."
+            ],
+            [
+                50,
+                "Really?"
+            ],
+            [
+                86,
+                "No."
+            ],
+            [
+                88,
+                "No."
+            ],
+            [
+                90,
+                "It\u2019s called proving a point."
+            ],
+            [
+                94,
+                "Monday morning I\u2019ll go downtown, look up the owner\u2019s information and send him the DVD. Pay the late fee, and prove to Sheldon that you can have a problem and solve it without acting like a complete lunatic. Ah!"
+            ],
+            [
+                122,
+                "Well, Sheldon, it took me all morning, but I found the owner of the video store. And I am happy to report that he died peacefully in his sleep, drunk at the bottom of a pool. Anyway, there is no one to return the DVD to, so this issue is resolved. Ah! And I\u2019d just like to point out that even though the sweater was uncomfortable, I didn\u2019t use it as an excuse to antagonize everyone around me."
+            ],
+            [
+                124,
+                "Or it\u2019s resolved."
+            ],
+            [
+                144,
+                "Oh, I\u2019m just trying to find the stupid next of kin to this stupid video store owner so I can return the DVD and see the look on Sheldon\u2019s stupid face when he sees that I didn\u2019t let this get to me."
+            ],
+            [
+                146,
+                "There\u2019s a principle at stake."
+            ],
+            [
+                148,
+                "Oh, I don\u2019t know. Who cares? Look at me."
+            ],
+            [
+                150,
+                "No, no, honey, if I take it off, Sheldon wins."
+            ],
+            [
+                152,
+                "No, it\u2019s, it\u2019s almost done. I just, I have to find the next of kin, and send \u2019em the DVD and then just wait for someone with my complexion to die so I can get a skin graft."
+            ],
+            [
+                154,
+                "What is that? What is that for?"
+            ],
+            [
+                184,
+                "Okay, Sheldon, I am out of options. Video store owner, Nursis Manookian, has no next of kin."
+            ],
+            [
+                186,
+                "Oh, oh, no, no. It\u2019s because I spent all afternoon at the Armenian church where his funeral mass was held. According to Father Solakian, no one attended. Luckily, my trip wasn\u2019t a complete waste. I lit a candle and prayed for your death but I\u2019m not Armenian, so it probably won\u2019t work. This is over, right?"
+            ],
+            [
+                188,
+                "Listen to me, Sheldon. I am not going to Lebanon to return Super Mario Brothers the movie."
+            ],
+            [
+                190,
+                "Why isn\u2019t this bothering you? Isn\u2019t your brain getting itchy? This is on your card. This could be ruining your credit score. Why isn\u2019t this making you crazy?"
+            ],
+            [
+                192,
+                "What?"
+            ],
+            [
+                194,
+                "What?"
+            ],
+            [
+                196,
+                "Aaaah! I, you, how can, what!"
+            ]
+        ],
+        "Sheldon": [
+            [
+                7,
+                "Leonard, where are the Skee-Ball tickets?"
+            ],
+            [
+                9,
+                "Yeah, from when we went to the arcade three years ago? I finally decided what prize I want. Hurry up."
+            ],
+            [
+                12,
+                "None of your business. But when you see me wearing a flower in my lapel later, you are most welcome to sniff it."
+            ],
+            [
+                14,
+                "Oh, thank you. Here, get yourself an eraser for your troubles."
+            ],
+            [
+                18,
+                "I seem to be a few tickets short. Are there more in the box?"
+            ],
+            [
+                20,
+                "Well, you barely looked. Let me see."
+            ],
+            [
+                22,
+                "Leonard, let me look in the box."
+            ],
+            [
+                24,
+                "Why would I flip out? Is it a spider? It\u2019s a spider."
+            ],
+            [
+                27,
+                "That seems like a reasonable request. Although so did, hey, Leonard, would you mind returning that DVD?"
+            ],
+            [
+                29,
+                "Okay."
+            ],
+            [
+                31,
+                "I believe you."
+            ],
+            [
+                33,
+                "I said I would."
+            ],
+            [
+                39,
+                "Okay, first, talking to you while you\u2019re on the toilet isn\u2019t exactly a picnic for me either, okay? Remember, when you can hear me, I can hear you. And second, you completely disregard how uncomfortable unresolved issues are for me. It\u2019s, it\u2019s like, a, an itch in my brain I can\u2019t scratch."
+            ],
+            [
+                41,
+                "You wouldn\u2019t make jokes if you could feel the way I feel."
+            ],
+            [
+                43,
+                "How about this? I promise I won\u2019t pester you about the DVD. You can defecate in peace. That\u2019s a win for both of us. But, until this matter is resolved, I would like you to wear this sweater. With nothing underneath it."
+            ],
+            [
+                45,
+                "You say it\u2019s itchy and uncomfortable. I say situations like this make me feel the same way. "
+            ],
+            [
+                47,
+                "Put it on. Let\u2019s share the experience."
+            ],
+            [
+                49,
+                "Oh, did I forget to tell you? That store went out of business years ago."
+            ],
+            [
+                51,
+                "How those nipples feeling, chief?"
+            ],
+            [
+                92,
+                "Gentlemen, please. Leonard is trying to walk a mile in my metaphorical shoes. He can\u2019t walk in my actual shoes. He has the feet of a toddler."
+            ],
+            [
+                117,
+                "I\u2019m thinking about how one could use the fact that a rapidly rotating mirror turns virtual photons into real ones as a method of observing dark energy."
+            ],
+            [
+                119,
+                "Yeah. It\u2019s great you\u2019re here. I\u2019d love to get an engineer\u2019s opinion."
+            ],
+            [
+                121,
+                "This chair is squeaky. Now, do I fix it or get a new one?"
+            ],
+            [
+                125,
+                "Hey, that next of kin thing sounds pretty good."
+            ],
+            [
+                158,
+                "I don\u2019t know why that surprises you. I\u2019m a grown man. As should be evident by this sport coat and very real flower in my lapel."
+            ],
+            [
+                160,
+                "The more interesting question you should be asking is, what does this flower smell like?"
+            ],
+            [
+                162,
+                "There\u2019s nothing to tell. Maybe I purchased a book entitled Don\u2019t Sweat the Small Stuff and I followed its wise suggestions, one of which was stop and smell the flowers."
+            ],
+            [
+                164,
+                "Please. Ha-ha, Oh."
+            ],
+            [
+                181,
+                "How is it I can conceptualize a methodology of examining dark matter in the universe but can\u2019t figure out how to fix a novelty squirt flower?"
+            ],
+            [
+                183,
+                "There\u2019s probably a deep reason. Which I\u2019d be happy to discuss with you over some peanut brittle in a can."
+            ],
+            [
+                185,
+                "Well, you seem hot under the collar, or is that the sweater?"
+            ],
+            [
+                187,
+                "Oh, not necessarily. I suggest you look for long-lost relatives either in Armenia or Lebanon."
+            ],
+            [
+                189,
+                "You know, it might be fun. You love hummus."
+            ],
+            [
+                191,
+                "Leonard, I have something to tell you, but I want you to promise not to flip out."
+            ],
+            [
+                193,
+                "Seven years ago, I found out the DVD was late and I paid for it."
+            ],
+            [
+                195,
+                "I was going to mention it at the time, but then I thought, some day, this might be a teachable moment."
+            ],
+            [
+                198,
+                "I know. And it wasn\u2019t easy. Do you have any idea what it\u2019s like to wait for years and never know if you\u2019re going to finally get satisfaction?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                53,
+                "Penny, can we please get our drinks?"
+            ],
+            [
+                56,
+                "Cool. At my lab, I performed ten laser capture micro-dissections."
+            ],
+            [
+                59,
+                "That\u2019s Lucy?"
+            ],
+            [
+                61,
+                "I think that reason\u2019s called racism."
+            ],
+            [
+                63,
+                "Why? What are you gonna say?"
+            ],
+            [
+                65,
+                "You because you just called him your Indian friend."
+            ],
+            [
+                68,
+                "No, but we knew that."
+            ],
+            [
+                103,
+                "We did, you never brought it."
+            ],
+            [
+                108,
+                "So, how are you gonna tell Raj abut what you did?"
+            ],
+            [
+                111,
+                "Then you made her cry and leave."
+            ],
+            [
+                131,
+                "If this girl hurt you so much, are you sure you want to see her again?"
+            ],
+            [
+                134,
+                "Well, if you\u2019re sure you want to do this, it\u2019s only coffee, just relax and see what happens."
+            ],
+            [
+                136,
+                "Sure."
+            ],
+            [
+                138,
+                "Maybe, if she asks."
+            ],
+            [
+                140,
+                "I\u2019d save that for the second date."
+            ]
+        ],
+        "Amy": [
+            [
+                55,
+                "At work today, I did an in vivo stereotaxic surgery."
+            ],
+            [
+                58,
+                "Oh, my gosh. That\u2019s the girl that broke Rajesh\u2019s heart."
+            ],
+            [
+                67,
+                "We\u2019re never getting our drinks."
+            ],
+            [
+                105,
+                "Not even close."
+            ],
+            [
+                107,
+                "You want to say sorry."
+            ],
+            [
+                110,
+                "You told Lucy he was a pathetic mess."
+            ],
+            [
+                157,
+                "I must say, Sheldon, you\u2019re handling this DVD business with an impressive amount of maturity."
+            ],
+            [
+                159,
+                "Is there some kind of new coping mechanism you\u2019re employing?"
+            ],
+            [
+                161,
+                "I\u2019m gonna go with sad. So what\u2019s the story with you and this DVD?"
+            ],
+            [
+                163,
+                "Seriously?"
+            ],
+            [
+                182,
+                "I think the real question is, why do you waste your time with cheap, childish pranks?"
+            ],
+            [
+                197,
+                "Sheldon, that was diabolical."
+            ]
+        ],
+        "Lucy": [
+            [
+                70,
+                "Oh, water would be great."
+            ],
+            [
+                72,
+                "Wow. How\u2019s he doing?"
+            ],
+            [
+                74,
+                "Great."
+            ],
+            [
+                76,
+                "Oh, I don\u2019t know. I guess I thought it would be easier."
+            ],
+            [
+                78,
+                "Any chance I can get a different waitress?"
+            ],
+            [
+                80,
+                "I don\u2019t know your e-mail."
+            ],
+            [
+                82,
+                "Oh, I thought you said he was okay."
+            ],
+            [
+                166,
+                "Hi."
+            ],
+            [
+                168,
+                "You, too."
+            ],
+            [
+                170,
+                "I\u2019m pretty good. Listen, I just wanted to apologize for breaking up with you in an e-mail."
+            ],
+            [
+                172,
+                "Okay."
+            ],
+            [
+                174,
+                "Oh, uh, I\u2019m kind of seeing someone."
+            ]
+        ],
+        "Howard": [
+            [
+                85,
+                "So, you can never take it off?"
+            ],
+            [
+                89,
+                "So, you\u2019re just an idiot?"
+            ],
+            [
+                91,
+                "Is the point that you\u2019re an idiot?"
+            ],
+            [
+                95,
+                "And the man impersonating a bear would like everyone to know that only you can prevent forest fires."
+            ],
+            [
+                97,
+                "You didn\u2019t have Smokey the Bear in India?"
+            ],
+            [
+                99,
+                "You had to be taught not to play with cobras?"
+            ],
+            [
+                116,
+                "Hey, what\u2019re you working on?"
+            ],
+            [
+                118,
+                "That\u2019s a pretty cool idea."
+            ],
+            [
+                120,
+                "Sure."
+            ],
+            [
+                123,
+                "You know, you could reimburse the video store owner\u2019s next of kin."
+            ],
+            [
+                126,
+                "I believe this is yours."
+            ],
+            [
+                129,
+                "You can\u2019t let her know you\u2019re hurting. You know, the key is confidence."
+            ],
+            [
+                132,
+                "Well, if I may, he has so little self-respect and is so desperate for the smallest crumb of affection, she could literally sleep with his own father in his own bed and post the video to YouTube, and he\u2019d still buy her flowers and ask her to be his bride."
+            ]
+        ],
+        "Raj": [
+            [
+                87,
+                "Not even to sleep?"
+            ],
+            [
+                93,
+                "So, how are you gonna return the DVD if the store went out of business?"
+            ],
+            [
+                96,
+                "I don\u2019t get it."
+            ],
+            [
+                98,
+                "No. Oh, is he anything like, uh, Mun-Mun the Mongoose? He taught us not to play with cobras."
+            ],
+            [
+                100,
+                "You had to be taught not to burn down the forest?"
+            ],
+            [
+                114,
+                "What is wrong with you, Penny? You ruined any chance I had of getting back with Lucy. Now she knows I\u2019m a desperate mess instead of just being pretty sure. (Phone text sound) It\u2019s Lucy. She wants to meet for coffee. I love you, Penny."
+            ],
+            [
+                128,
+                "Can I ask you guys a question? So, I\u2019m seeing Lucy tomorrow night, and I\u2019ve never hung out with someone who broke up with me. How do you do it?"
+            ],
+            [
+                130,
+                "Why is the key always confidence? How come it\u2019s never love handles and flop sweat?"
+            ],
+            [
+                133,
+                "He\u2019s right. But in my defence, if we could survive that, we could survive anything."
+            ],
+            [
+                135,
+                "Well, can I say she looks nice?"
+            ],
+            [
+                137,
+                "Can I tell her I miss her?"
+            ],
+            [
+                139,
+                "Oh, can I show her an oil painting I made of us surrounded by our children and grandchildren?"
+            ],
+            [
+                141,
+                "Good, good. \u2018Cause no matter how hard I try, I cannot get the twins to look alike."
+            ],
+            [
+                167,
+                "Hello. Oh, it\u2019s so good to see you."
+            ],
+            [
+                169,
+                "Please, sit. I, uh, I got you a cappuccino. I remembered it was your favourite. I also got crumb cake, but I remembered it was my favourite and I ate it. Anyway, uh, how are you?"
+            ],
+            [
+                171,
+                "Well, and I ate all the crumb cake. We both made mistakes."
+            ],
+            [
+                173,
+                "I\u2019m so happy you asked me here, and I hope we can hang out again sometime. You know, as friends, lovemaking partners, whatever."
+            ],
+            [
+                175,
+                "I think I know the answer to this, but just to be clear, it\u2019s not me, right?"
+            ],
+            [
+                177,
+                "This is all your fault, I should\u2019ve listened to Mun-Mun because I\u2019ve been playing with a cobra and her name is Penny. Why are you so cruel? Do you enjoy my pain?"
+            ],
+            [
+                179,
+                "I love you, Penny."
+            ],
+            [
+                200,
+                "Wow. You\u2019re even prettier than Penny said. I can\u2019t believe a girl like you doesn\u2019t have a boyfriend."
+            ],
+            [
+                202,
+                "I don\u2019t believe you, you\u2019re lying to me. "
+            ],
+            [
+                204,
+                "Oh, it\u2019s okay. I have no morals and I\u2019m desperately lonely. I\u2019ll be the other man if you want a little something-something on the side."
+            ]
+        ],
+        "Girl": [
+            [
+                201,
+                "Well, I don\u2019t."
+            ],
+            [
+                203,
+                "What?"
+            ]
+        ],
+        "Girl (to Penny)": [
+            [
+                206,
+                "What is wrong with you?"
+            ]
+        ],
+        "Penny (to Raj)": [
+            [
+                208,
+                "What is wrong with you?"
+            ]
+        ],
+        "Raj (to a mirror)": [
+            [
+                210,
+                "What is wrong with you?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment"
+        ],
+        [
+            "Penny",
+            "Hey, can I ask you a question?"
+        ],
+        [
+            "Leonard",
+            "Sure."
+        ],
+        [
+            "Penny",
+            "You\u2019ve had this dart board since I\u2019ve known you, but I\u2019ve never seen you play."
+        ],
+        [
+            "Leonard",
+            "Oh, uh, we played, once. I broke a window."
+        ],
+        [
+            "Penny",
+            "What window?"
+        ],
+        [
+            "Leonard",
+            "That one over there."
+        ],
+        [
+            "Sheldon",
+            "Leonard, where are the Skee-Ball tickets?"
+        ],
+        [
+            "Leonard",
+            "Skee-Ball tickets?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, from when we went to the arcade three years ago? I finally decided what prize I want. Hurry up."
+        ],
+        [
+            "Leonard",
+            "Uh, if I still have them, they\u2019re probably in the junk box."
+        ],
+        [
+            "Penny",
+            "Ooh, what are you gonna get?"
+        ],
+        [
+            "Sheldon",
+            "None of your business. But when you see me wearing a flower in my lapel later, you are most welcome to sniff it."
+        ],
+        [
+            "Leonard",
+            "Yup, oh, here you go."
+        ],
+        [
+            "Sheldon",
+            "Oh, thank you. Here, get yourself an eraser for your troubles."
+        ],
+        [
+            "Leonard",
+            "Oh. I forgot about this. My aunt made it for me when I started college."
+        ],
+        [
+            "Penny",
+            "Aw, did she hate you?"
+        ],
+        [
+            "Leonard",
+            "Why? Because I got an ugly, itchy sweater, and my brother got a car? No, I was her favorite."
+        ],
+        [
+            "Sheldon",
+            "I seem to be a few tickets short. Are there more in the box?"
+        ],
+        [
+            "Leonard",
+            "Hmm, I think I got them all. Nope, they\u2019re not in there."
+        ],
+        [
+            "Sheldon",
+            "Well, you barely looked. Let me see."
+        ],
+        [
+            "Leonard",
+            "No, no, no, I, I looked, and there\u2019s, there\u2019s, there\u2019s no more tickets."
+        ],
+        [
+            "Sheldon",
+            "Leonard, let me look in the box."
+        ],
+        [
+            "Leonard",
+            "Okay, okay. I\u2019m gonna show you what\u2019s in the box. But just promise not to flip out."
+        ],
+        [
+            "Sheldon",
+            "Why would I flip out? Is it a spider? It\u2019s a spider."
+        ],
+        [
+            "Penny",
+            "No, if it was a spider, Lenny would\u2019ve flipped out."
+        ],
+        [
+            "Leonard",
+            "Okay, Sheldon, I know I was supposed to return this DVD a long time ago, and I know we rented it on your card. But it\u2019s been, like, seven years and clearly nothing bad has happened. So in-in-in-instead of being a giant pain in the ass like you always are, what if this one time you just tried staying calm?"
+        ],
+        [
+            "Sheldon",
+            "That seems like a reasonable request. Although so did, hey, Leonard, would you mind returning that DVD?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry. I\u2019ll, I\u2019ll take care of it."
+        ],
+        [
+            "Sheldon",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "I mean it, I\u2019m going to."
+        ],
+        [
+            "Sheldon",
+            "I believe you."
+        ],
+        [
+            "Leonard",
+            "And you\u2019re going to stay calm?"
+        ],
+        [
+            "Sheldon",
+            "I said I would."
+        ],
+        [
+            "Leonard",
+            "How about that? Sheldon\u2019s being reasonable."
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s freaking me out. I\u2019m gonna go."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "So, when you say you\u2019re not going to freak out about the DVD, here\u2019s what that means. Don\u2019t fixate on it. Don\u2019t wake me up in the middle of the night. Or nag me through the door while I\u2019m on the toilet."
+        ],
+        [
+            "Sheldon",
+            "Okay, first, talking to you while you\u2019re on the toilet isn\u2019t exactly a picnic for me either, okay? Remember, when you can hear me, I can hear you. And second, you completely disregard how uncomfortable unresolved issues are for me. It\u2019s, it\u2019s like, a, an itch in my brain I can\u2019t scratch."
+        ],
+        [
+            "Leonard",
+            "When I broke my arm I used to stick a coat hanger down there. You ever try that? Maybe go in through the ear?"
+        ],
+        [
+            "Sheldon",
+            "You wouldn\u2019t make jokes if you could feel the way I feel."
+        ],
+        [
+            "Leonard",
+            "Well, I don\u2019t know how to do that."
+        ],
+        [
+            "Sheldon",
+            "How about this? I promise I won\u2019t pester you about the DVD. You can defecate in peace. That\u2019s a win for both of us. But, until this matter is resolved, I would like you to wear this sweater. With nothing underneath it."
+        ],
+        [
+            "Leonard",
+            "That\u2019s stupid. Why?"
+        ],
+        [
+            "Sheldon",
+            "You say it\u2019s itchy and uncomfortable. I say situations like this make me feel the same way. "
+        ],
+        [
+            "Leonard",
+            "I\u2019m telling you, try the hanger."
+        ],
+        [
+            "Sheldon",
+            "Put it on. Let\u2019s share the experience."
+        ],
+        [
+            "Leonard",
+            "You got it. If this sweater shuts you up, I\u2019m gonna make a fortune selling them to everyone we know. Now all I need to do is head down to the video store and return the DVD."
+        ],
+        [
+            "Sheldon",
+            "Oh, did I forget to tell you? That store went out of business years ago."
+        ],
+        [
+            "Leonard",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "How those nipples feeling, chief?"
+        ],
+        [
+            "Scene",
+            "The cheesecake factory bar."
+        ],
+        [
+            "Bernadette",
+            "Penny, can we please get our drinks?"
+        ],
+        [
+            "Penny",
+            "Yeah, hang on, just give me sec."
+        ],
+        [
+            "Amy",
+            "At work today, I did an in vivo stereotaxic surgery."
+        ],
+        [
+            "Bernadette",
+            "Cool. At my lab, I performed ten laser capture micro-dissections."
+        ],
+        [
+            "Penny",
+            "I scraped gum off the bottom of that table. Only \u2019cause my manager saw me put it there."
+        ],
+        [
+            "Amy",
+            "Oh, my gosh. That\u2019s the girl that broke Rajesh\u2019s heart."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s Lucy?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know why but I always pictured her as Indian."
+        ],
+        [
+            "Bernadette",
+            "I think that reason\u2019s called racism."
+        ],
+        [
+            "Penny",
+            "I\u2019m gonna go talk to her."
+        ],
+        [
+            "Bernadette",
+            "Why? What are you gonna say?"
+        ],
+        [
+            "Penny",
+            "I\u2019m not gonna say anything. I just want to check her out. Because she hurt my friend. My Indian friend. Who\u2019s racist now?"
+        ],
+        [
+            "Bernadette",
+            "You because you just called him your Indian friend."
+        ],
+        [
+            "Penny",
+            "Yeah, well, you\u2019re short."
+        ],
+        [
+            "Amy",
+            "We\u2019re never getting our drinks."
+        ],
+        [
+            "Bernadette",
+            "No, but we knew that."
+        ],
+        [
+            "Penny",
+            "Hey, can I start you off with something to drink?"
+        ],
+        [
+            "Lucy",
+            "Oh, water would be great."
+        ],
+        [
+            "Penny",
+            "Okay. Um, you\u2019re Lucy, right? I\u2019m a friend of Raj Koothrappali\u2019s. Actually Amy recognized you."
+        ],
+        [
+            "Lucy",
+            "Wow. How\u2019s he doing?"
+        ],
+        [
+            "Penny",
+            "Oh, you know, he\u2019s good."
+        ],
+        [
+            "Lucy",
+            "Great."
+        ],
+        [
+            "Penny",
+            "Yeah, this is none of my business. But why did you break up with him in an e-mail?"
+        ],
+        [
+            "Lucy",
+            "Oh, I don\u2019t know. I guess I thought it would be easier."
+        ],
+        [
+            "Penny",
+            "Yeah, I get that. I\u2019ll go get you your water. When you say easier, you mean easier for you, right? \u2018Cause it certainly didn\u2019t make it easier for him."
+        ],
+        [
+            "Lucy",
+            "Any chance I can get a different waitress?"
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry, this is rude of me. I will go get that water. See, see, see, see. Just now you expressed your feelings to my face. How come you could do that with me, but not Raj?"
+        ],
+        [
+            "Lucy",
+            "I don\u2019t know your e-mail."
+        ],
+        [
+            "Penny",
+            "You know what the worst part is? You\u2019re sitting here, perfectly happy and he\u2019s at home, a blubbering mess."
+        ],
+        [
+            "Lucy",
+            "Oh, I thought you said he was okay."
+        ],
+        [
+            "Penny",
+            "Well, I also said I was getting you water, but look at me still standing here. You know, I may be a bad waitress, but you are a bad person. Now, you want to hear the specials?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "So, you can never take it off?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Raj",
+            "Not even to sleep?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Howard",
+            "So, you\u2019re just an idiot?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s called proving a point."
+        ],
+        [
+            "Howard",
+            "Is the point that you\u2019re an idiot?"
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, please. Leonard is trying to walk a mile in my metaphorical shoes. He can\u2019t walk in my actual shoes. He has the feet of a toddler."
+        ],
+        [
+            "Raj",
+            "So, how are you gonna return the DVD if the store went out of business?"
+        ],
+        [
+            "Leonard",
+            "Monday morning I\u2019ll go downtown, look up the owner\u2019s information and send him the DVD. Pay the late fee, and prove to Sheldon that you can have a problem and solve it without acting like a complete lunatic. Ah!"
+        ],
+        [
+            "Howard",
+            "And the man impersonating a bear would like everyone to know that only you can prevent forest fires."
+        ],
+        [
+            "Raj",
+            "I don\u2019t get it."
+        ],
+        [
+            "Howard",
+            "You didn\u2019t have Smokey the Bear in India?"
+        ],
+        [
+            "Raj",
+            "No. Oh, is he anything like, uh, Mun-Mun the Mongoose? He taught us not to play with cobras."
+        ],
+        [
+            "Howard",
+            "You had to be taught not to play with cobras?"
+        ],
+        [
+            "Raj",
+            "You had to be taught not to burn down the forest?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Hey, if you guys were hungry, why didn\u2019t you order something at the restaurant?"
+        ],
+        [
+            "Bernadette",
+            "We did, you never brought it."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s right. Nachos and a turkey club."
+        ],
+        [
+            "Amy",
+            "Not even close."
+        ],
+        [
+            "Penny",
+            "Well, I was too busy standing up for my friend to worry about your, I want to say salmon."
+        ],
+        [
+            "Amy",
+            "You want to say sorry."
+        ],
+        [
+            "Bernadette",
+            "So, how are you gonna tell Raj abut what you did?"
+        ],
+        [
+            "Penny",
+            "What do you mean how? What\u2019s the big deal?"
+        ],
+        [
+            "Amy",
+            "You told Lucy he was a pathetic mess."
+        ],
+        [
+            "Bernadette",
+            "Then you made her cry and leave."
+        ],
+        [
+            "Penny",
+            "Okay, you guys are overreacting. Raj is gonna appreciate how I had his back."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Raj",
+            "What is wrong with you, Penny? You ruined any chance I had of getting back with Lucy. Now she knows I\u2019m a desperate mess instead of just being pretty sure. (Phone text sound) It\u2019s Lucy. She wants to meet for coffee. I love you, Penny."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Howard",
+            "Hey, what\u2019re you working on?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m thinking about how one could use the fact that a rapidly rotating mirror turns virtual photons into real ones as a method of observing dark energy."
+        ],
+        [
+            "Howard",
+            "That\u2019s a pretty cool idea."
+        ],
+        [
+            "Sheldon",
+            "Yeah. It\u2019s great you\u2019re here. I\u2019d love to get an engineer\u2019s opinion."
+        ],
+        [
+            "Howard",
+            "Sure."
+        ],
+        [
+            "Sheldon",
+            "This chair is squeaky. Now, do I fix it or get a new one?"
+        ],
+        [
+            "Leonard",
+            "Well, Sheldon, it took me all morning, but I found the owner of the video store. And I am happy to report that he died peacefully in his sleep, drunk at the bottom of a pool. Anyway, there is no one to return the DVD to, so this issue is resolved. Ah! And I\u2019d just like to point out that even though the sweater was uncomfortable, I didn\u2019t use it as an excuse to antagonize everyone around me."
+        ],
+        [
+            "Howard",
+            "You know, you could reimburse the video store owner\u2019s next of kin."
+        ],
+        [
+            "Leonard",
+            "Or it\u2019s resolved."
+        ],
+        [
+            "Sheldon",
+            "Hey, that next of kin thing sounds pretty good."
+        ],
+        [
+            "Howard",
+            "I believe this is yours."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "Can I ask you guys a question? So, I\u2019m seeing Lucy tomorrow night, and I\u2019ve never hung out with someone who broke up with me. How do you do it?"
+        ],
+        [
+            "Howard",
+            "You can\u2019t let her know you\u2019re hurting. You know, the key is confidence."
+        ],
+        [
+            "Raj",
+            "Why is the key always confidence? How come it\u2019s never love handles and flop sweat?"
+        ],
+        [
+            "Bernadette",
+            "If this girl hurt you so much, are you sure you want to see her again?"
+        ],
+        [
+            "Howard",
+            "Well, if I may, he has so little self-respect and is so desperate for the smallest crumb of affection, she could literally sleep with his own father in his own bed and post the video to YouTube, and he\u2019d still buy her flowers and ask her to be his bride."
+        ],
+        [
+            "Raj",
+            "He\u2019s right. But in my defence, if we could survive that, we could survive anything."
+        ],
+        [
+            "Bernadette",
+            "Well, if you\u2019re sure you want to do this, it\u2019s only coffee, just relax and see what happens."
+        ],
+        [
+            "Raj",
+            "Well, can I say she looks nice?"
+        ],
+        [
+            "Bernadette",
+            "Sure."
+        ],
+        [
+            "Raj",
+            "Can I tell her I miss her?"
+        ],
+        [
+            "Bernadette",
+            "Maybe, if she asks."
+        ],
+        [
+            "Raj",
+            "Oh, can I show her an oil painting I made of us surrounded by our children and grandchildren?"
+        ],
+        [
+            "Bernadette",
+            "I\u2019d save that for the second date."
+        ],
+        [
+            "Raj",
+            "Good, good. \u2018Cause no matter how hard I try, I cannot get the twins to look alike."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "What are you doing?"
+        ],
+        [
+            "Leonard",
+            "Oh, I\u2019m just trying to find the stupid next of kin to this stupid video store owner so I can return the DVD and see the look on Sheldon\u2019s stupid face when he sees that I didn\u2019t let this get to me."
+        ],
+        [
+            "Penny",
+            "Sheldon\u2019s not here. Why don\u2019t you take the sweater off?"
+        ],
+        [
+            "Leonard",
+            "There\u2019s a principle at stake."
+        ],
+        [
+            "Penny",
+            "Which is?"
+        ],
+        [
+            "Leonard",
+            "Oh, I don\u2019t know. Who cares? Look at me."
+        ],
+        [
+            "Penny",
+            "Oh, my God! Is that sweater made of bees? Come on, take it off. I won\u2019t tell."
+        ],
+        [
+            "Leonard",
+            "No, no, honey, if I take it off, Sheldon wins."
+        ],
+        [
+            "Penny",
+            "Sweetie, every night you don\u2019t kill him in his sleep, he wins."
+        ],
+        [
+            "Leonard",
+            "No, it\u2019s, it\u2019s almost done. I just, I have to find the next of kin, and send \u2019em the DVD and then just wait for someone with my complexion to die so I can get a skin graft."
+        ],
+        [
+            "Penny",
+            "Smile."
+        ],
+        [
+            "Leonard",
+            "What is that? What is that for?"
+        ],
+        [
+            "Penny",
+            "So you can send it to Princeton and get your money back."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "I must say, Sheldon, you\u2019re handling this DVD business with an impressive amount of maturity."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know why that surprises you. I\u2019m a grown man. As should be evident by this sport coat and very real flower in my lapel."
+        ],
+        [
+            "Amy",
+            "Is there some kind of new coping mechanism you\u2019re employing?"
+        ],
+        [
+            "Sheldon",
+            "The more interesting question you should be asking is, what does this flower smell like?"
+        ],
+        [
+            "Amy",
+            "I\u2019m gonna go with sad. So what\u2019s the story with you and this DVD?"
+        ],
+        [
+            "Sheldon",
+            "There\u2019s nothing to tell. Maybe I purchased a book entitled Don\u2019t Sweat the Small Stuff and I followed its wise suggestions, one of which was stop and smell the flowers."
+        ],
+        [
+            "Amy",
+            "Seriously?"
+        ],
+        [
+            "Sheldon",
+            "Please. Ha-ha, Oh."
+        ],
+        [
+            "Scene",
+            "A coffee shop."
+        ],
+        [
+            "Lucy",
+            "Hi."
+        ],
+        [
+            "Raj",
+            "Hello. Oh, it\u2019s so good to see you."
+        ],
+        [
+            "Lucy",
+            "You, too."
+        ],
+        [
+            "Raj",
+            "Please, sit. I, uh, I got you a cappuccino. I remembered it was your favourite. I also got crumb cake, but I remembered it was my favourite and I ate it. Anyway, uh, how are you?"
+        ],
+        [
+            "Lucy",
+            "I\u2019m pretty good. Listen, I just wanted to apologize for breaking up with you in an e-mail."
+        ],
+        [
+            "Raj",
+            "Well, and I ate all the crumb cake. We both made mistakes."
+        ],
+        [
+            "Lucy",
+            "Okay."
+        ],
+        [
+            "Raj",
+            "I\u2019m so happy you asked me here, and I hope we can hang out again sometime. You know, as friends, lovemaking partners, whatever."
+        ],
+        [
+            "Lucy",
+            "Oh, uh, I\u2019m kind of seeing someone."
+        ],
+        [
+            "Raj",
+            "I think I know the answer to this, but just to be clear, it\u2019s not me, right?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Raj",
+            "This is all your fault, I should\u2019ve listened to Mun-Mun because I\u2019ve been playing with a cobra and her name is Penny. Why are you so cruel? Do you enjoy my pain?"
+        ],
+        [
+            "Penny",
+            "There\u2019s a girl at the Cheesecake Factory I can set you up with."
+        ],
+        [
+            "Raj",
+            "I love you, Penny."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "How is it I can conceptualize a methodology of examining dark matter in the universe but can\u2019t figure out how to fix a novelty squirt flower?"
+        ],
+        [
+            "Amy",
+            "I think the real question is, why do you waste your time with cheap, childish pranks?"
+        ],
+        [
+            "Sheldon",
+            "There\u2019s probably a deep reason. Which I\u2019d be happy to discuss with you over some peanut brittle in a can."
+        ],
+        [
+            "Leonard",
+            "Okay, Sheldon, I am out of options. Video store owner, Nursis Manookian, has no next of kin."
+        ],
+        [
+            "Sheldon",
+            "Well, you seem hot under the collar, or is that the sweater?"
+        ],
+        [
+            "Leonard",
+            "Oh, oh, no, no. It\u2019s because I spent all afternoon at the Armenian church where his funeral mass was held. According to Father Solakian, no one attended. Luckily, my trip wasn\u2019t a complete waste. I lit a candle and prayed for your death but I\u2019m not Armenian, so it probably won\u2019t work. This is over, right?"
+        ],
+        [
+            "Sheldon",
+            "Oh, not necessarily. I suggest you look for long-lost relatives either in Armenia or Lebanon."
+        ],
+        [
+            "Leonard",
+            "Listen to me, Sheldon. I am not going to Lebanon to return Super Mario Brothers the movie."
+        ],
+        [
+            "Sheldon",
+            "You know, it might be fun. You love hummus."
+        ],
+        [
+            "Leonard",
+            "Why isn\u2019t this bothering you? Isn\u2019t your brain getting itchy? This is on your card. This could be ruining your credit score. Why isn\u2019t this making you crazy?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, I have something to tell you, but I want you to promise not to flip out."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Seven years ago, I found out the DVD was late and I paid for it."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I was going to mention it at the time, but then I thought, some day, this might be a teachable moment."
+        ],
+        [
+            "Leonard",
+            "Aaaah! I, you, how can, what!"
+        ],
+        [
+            "Amy",
+            "Sheldon, that was diabolical."
+        ],
+        [
+            "Sheldon",
+            "I know. And it wasn\u2019t easy. Do you have any idea what it\u2019s like to wait for years and never know if you\u2019re going to finally get satisfaction?"
+        ],
+        [
+            "Scene",
+            "A coffee shop."
+        ],
+        [
+            "Raj",
+            "Wow. You\u2019re even prettier than Penny said. I can\u2019t believe a girl like you doesn\u2019t have a boyfriend."
+        ],
+        [
+            "Girl",
+            "Well, I don\u2019t."
+        ],
+        [
+            "Raj",
+            "I don\u2019t believe you, you\u2019re lying to me. "
+        ],
+        [
+            "Girl",
+            "What?"
+        ],
+        [
+            "Raj",
+            "Oh, it\u2019s okay. I have no morals and I\u2019m desperately lonely. I\u2019ll be the other man if you want a little something-something on the side."
+        ],
+        [
+            "Scene",
+            "The cheesecake factory."
+        ],
+        [
+            "Girl (to Penny)",
+            "What is wrong with you?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny (to Raj)",
+            "What is wrong with you?"
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Raj (to a mirror)",
+            "What is wrong with you?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-08-the-itchy-brain-simulation/"
+}

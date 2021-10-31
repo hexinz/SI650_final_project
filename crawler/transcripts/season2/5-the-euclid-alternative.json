@@ -1,0 +1,1856 @@
+{
+    "Season": 2,
+    "Episode": 5,
+    "Title": "the euclid alternative",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. Leonard enters, drops his keys in the bowl by the door, then collapses onto the settee. Sheldon enters from the bedroom area."
+            ],
+            [
+                22,
+                "Outside Penny\u2019s apartment."
+            ],
+            [
+                37,
+                "Credits sequence."
+            ],
+            [
+                39,
+                "Inside Penny\u2019s car."
+            ],
+            [
+                71,
+                "The university cafeteria. Sheldon enters. "
+            ],
+            [
+                85,
+                "Howard\u2019s motor scooter. Howard is driving, Sheldon is on the back clutching him for dear life and screaming. "
+            ],
+            [
+                88,
+                "Raj\u2019s car. "
+            ],
+            [
+                98,
+                "Penny\u2019s apartment, she opens the door, Sheldon is stood outside with his Star Wars sheets."
+            ],
+            [
+                101,
+                "The apartment. Sheldon enters from the bedroom area. Everyone else is present."
+            ],
+            [
+                128,
+                "The DMV."
+            ],
+            [
+                162,
+                "The apartment. Howard is setting up a large kit of high tech equipment."
+            ],
+            [
+                186,
+                "(General panic)"
+            ],
+            [
+                195,
+                "(Sounds of car crashing. Penny hits Sheldon in face with pillow.)"
+            ],
+            [
+                197,
+                "The same, only Sheldon and Leonard are present. Sheldon is practicing. There are sounds of squealing tyres and brakes and general panic and mayhem."
+            ],
+            [
+                223,
+                "A corridor in the university. Sheldon emerges from his office in a shower cap and bathrobe. The others are turning the corner. "
+            ],
+            [
+                233,
+                "The cafeteria, late at night. Two cleaning ladies enter and find a plate with toast crusts."
+            ],
+            [
+                239,
+                "(They are startled by a noise. One of them drops the plate, it smashes on the floor. Sheldon is by the drink machine, he is wearing a cloak with a hood)"
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Good morning, Leonard."
+            ],
+            [
+                3,
+                "Yeah, we\u2019re going to have to stop by Pottery Barn on the way to work, I bought these Star Wars sheets but they turned out to be much too stimulating to be compatible with a good night\u2019s sleep. I don\u2019t like the way Darth Vader stares at me."
+            ],
+            [
+                5,
+                "Oh, just because your career\u2019s been stagnant for a few years, that\u2019s no reason to give up."
+            ],
+            [
+                7,
+                "Did the laser accidentally burn out your retinas?"
+            ],
+            [
+                9,
+                "Then you can drive. Let\u2019s go."
+            ],
+            [
+                11,
+                "You did."
+            ],
+            [
+                13,
+                "I didn\u2019t. Let\u2019s go."
+            ],
+            [
+                15,
+                "But how am I going to get to work?"
+            ],
+            [
+                17,
+                "I can\u2019t take the bus any more. They don\u2019t have seatbelts. And they won\u2019t let you lash yourself to the seat with bungee cords."
+            ],
+            [
+                19,
+                "I didn\u2019t try, I succeeded. For some reason it alarmed the other passengers and I was asked to de-bus."
+            ],
+            [
+                21,
+                "Don\u2019t talk to me like I\u2019m a child. Now, take me to return my star wars sheets!"
+            ],
+            [
+                24,
+                "(Knock, knock, knock) Penny, (knock, knock, knock) Penny, (knock, knock, knock) Penny\u2026"
+            ],
+            [
+                26,
+                "Leonard\u2019s asleep."
+            ],
+            [
+                28,
+                "No, wait. You have to drive me to work."
+            ],
+            [
+                30,
+                "But I don\u2019t drive, and I can\u2019t take the bus."
+            ],
+            [
+                32,
+                "Penny. Didn\u2019t you recently state that you and I are friends?"
+            ],
+            [
+                34,
+                "Then I hereby invoke what I\u2019m given to understand is an integral part of the implied covenant of friendship. The favour."
+            ],
+            [
+                36,
+                "I\u2019m sorry, I didn\u2019t realize I was interrupting your morning prayers. When you\u2019re done, we\u2019ll go."
+            ],
+            [
+                40,
+                "Thank you for driving me to work."
+            ],
+            [
+                42,
+                "Oh, good. I\u2019m not keeping you from anything. Your check engine light is on."
+            ],
+            [
+                44,
+                "Typically that\u2019s an indicator. To, you know, check your engine."
+            ],
+            [
+                46,
+                "Well, actually, that would be all the more reason to, you know, check your engine."
+            ],
+            [
+                48,
+                "If it were fine, the light wouldn\u2019t be on. That\u2019s why the manufacturer installed that light, to let you know it\u2019s not fine."
+            ],
+            [
+                50,
+                "Is there a \u201ccheck the check engine light light\u201d? (Penny takes a drink of coffee) O-o-o-oh!"
+            ],
+            [
+                52,
+                "Studies have shown that performing tasks such as eating, talking on a cell phone or drinking coffee while driving reduces one\u2019s reaction time by the same factor as an ounce of alcohol."
+            ],
+            [
+                54,
+                "Of course not."
+            ],
+            [
+                56,
+                "You\u2019re going up Euclid Avenue?"
+            ],
+            [
+                58,
+                "Leonard takes Los Robles Avenue."
+            ],
+            [
+                60,
+                "Euclid Avenue is shorter as the crow flies, but it has speed bumps, which appreciably increase point-to-point drive time, making it the less efficient choice. But you have the conn. Of course, if you\u2019re not going to slow down for the speed bumps, I withdraw my previous objection. Here\u2019s a fun question. Do you know what the most common street name is?"
+            ],
+            [
+                62,
+                "The answer\u2019s tricky. It\u2019s Second Street. You see, you\u2019d think it would be First Street, but in most towns, First Street eventually gets renamed to something else, you know, like Main Street, Broad Street, Michigan Avenue. Leonard and I often use our commute time to exercise our minds\u00a0 with brain-teasers like that. We also play games. Would you like to play one?"
+            ],
+            [
+                64,
+                "Oh, come on, it\u2019s fun. Ooh! Another bump. Okay. I\u2019ll say an element, and uh, you say an element whose name starts with the last letter of the one I said, okay? I\u2019ll start. Helium. Now, you could say Mercury. That would give me a Y. Ooh. \u00a0Very clever, that\u2019s a tough one. So I go Ytterbium, which gets you back to M. So you go Molybdenum, and I say Magnesium, you say Manganese, and\u00a0 I say Europium, and, and you\u2019re left with Mendelevium, and \u00a0there are no more M\u2019s because I believe that Meitnerium should still be called Ekairidium, so congratulations, you win. Do you wanna go again?"
+            ],
+            [
+                66,
+                "All right. Hmm, huh, I\u2019m sorry, I\u2019m finding your reckless nonchalance regarding the check-engine light to be very troubling."
+            ],
+            [
+                68,
+                "Well, I have to tell you that while I do have a theoretical understanding of the workings of an internal combustion engine, I\u2019m not sure I\u2019m capable of performing diagnostics."
+            ],
+            [
+                70,
+                "Okay. I\u2019ll give it a shot. (Gets out. Penny drives away.)"
+            ],
+            [
+                73,
+                "Oh, Leonard, there you are, I\u2019m ready to go home."
+            ],
+            [
+                75,
+                "Good, perfect timing."
+            ],
+            [
+                77,
+                "No, you said you couldn\u2019t drive me to work, this is from work."
+            ],
+            [
+                80,
+                "Now, how do you propose I get home?"
+            ],
+            [
+                82,
+                "Penny. But I sense that\u2019s no longer an option."
+            ],
+            [
+                87,
+                "Aaaaaaaaaaaaaaaaaa! Oh God, not Euclid Avenue! Aaaaaaaaaaaaaa!"
+            ],
+            [
+                91,
+                "We had a difference of opinion."
+            ],
+            [
+                93,
+                "Whether or not he was trying to kill me. For the record, I maintain he was. Where are you going?"
+            ],
+            [
+                95,
+                "Oh, but I\u2019m not going home. It\u2019s Wednesday, Wednesday is new comic book day, we have to go to the comic book store. And then we have to stop at Soup Plantation, it\u2019s creamy tomato soup day, and Radio Shack, there\u2019s a sale on triple-a batteries. Plus, we have to go to Pottery Barn and return my Star Wars sheets."
+            ],
+            [
+                97,
+                "You want to go to pottery barn first?"
+            ],
+            [
+                100,
+                "Can you drive me to Pottery Barn? (She closes the door) Maybe if I turn off the night-light, I can keep the sheets."
+            ],
+            [
+                103,
+                "Good morning."
+            ],
+            [
+                106,
+                "She\u2019s in my spot. Don\u2019t look at me like that, everybody knows that my spot."
+            ],
+            [
+                111,
+                "Department of motor vehicles new driver handbook? But I don\u2019t have a problem."
+            ],
+            [
+                115,
+                "Why Penny?"
+            ],
+            [
+                118,
+                "Hold on, I have one condition."
+            ],
+            [
+                120,
+                "We have to stop at Pottery Barn."
+            ],
+            [
+                122,
+                "And Radio Shack."
+            ],
+            [
+                124,
+                "And the comic book store."
+            ],
+            [
+                130,
+                "I just don\u2019t see why I need a driver\u2019s license, Albert Einstein never had a driver\u2019s license."
+            ],
+            [
+                133,
+                "I was otherwise engaged."
+            ],
+            [
+                135,
+                "Examining perturbative amplitudes in n=4 supersymmetric theories leading to a re-examination of the ultraviolet properties of multi-loop n=8 supergravity using modern twistor theory."
+            ],
+            [
+                138,
+                "I\u2019m actually more of a theorist."
+            ],
+            [
+                140,
+                "Oh."
+            ],
+            [
+                142,
+                "Excuse me, but I have some concerns about these questions."
+            ],
+            [
+                144,
+                "Yes?"
+            ],
+            [
+                146,
+                "No."
+            ],
+            [
+                148,
+                "Just, look, see, this first question makes no sense, how many car lengths should you leave in front of you when driving? There\u2019s no possible way to answer that, a car length is not a standardized unit of measure."
+            ],
+            [
+                151,
+                "I don\u2019t need your help, Penny."
+            ],
+            [
+                153,
+                "No, no, wait, no, hang on, look at this next question."
+            ],
+            [
+                155,
+                "How else are they going to learn? Look, question 2, when are roadways most slippery? Now, okay, there are three answers, none of which are correct. The correct answer is, when covered by a film of liquid sufficient to reduce the coefficient of static friction between the tire and the road to essentially zero, but not so deep as to introduce a new source of friction."
+            ],
+            [
+                157,
+                "But I\u2019m not done. I have many additional concerns about these questions."
+            ],
+            [
+                161,
+                "Aced it."
+            ],
+            [
+                167,
+                "Is that why I appear to be in downtown Fallujah, behind the wheel of an up-armored Humvee?"
+            ],
+            [
+                169,
+                "Ooh!"
+            ],
+            [
+                174,
+                "Statistically, red cars are stopped by police far more often than any other colour. I don\u2019t want any hassles with the fuzz."
+            ],
+            [
+                176,
+                "You know the pale blue of Luke Skywalker\u2019s lightsaber, before it was digitally remastered?"
+            ],
+            [
+                179,
+                "I haven\u2019t fastened my seat belt yet."
+            ],
+            [
+                181,
+                "Click. Now, are there air bags?"
+            ],
+            [
+                183,
+                "What if a simulated van rear-ends me?"
+            ],
+            [
+                196,
+                "Thank you."
+            ],
+            [
+                199,
+                "Sorry\u2026 excuse me\u2026 my bad\u2026 student driver\u2026"
+            ],
+            [
+                201,
+                "I don\u2019t know. I was on the Pasadena freeway, I missed my exit, flew off the overpass, and one thing led to another."
+            ],
+            [
+                203,
+                "No. I quit. (Stands up. There is more sound of crashing and panic, then animal noises.)"
+            ],
+            [
+                205,
+                "Remind me to compliment Wolowitz on the software, it\u2019s amazingly detailed."
+            ],
+            [
+                207,
+                "No, I\u2019m not giving up, I never give up."
+            ],
+            [
+                209,
+                "I\u2019m transcending the situation. I\u2019m clearly too evolved for driving."
+            ],
+            [
+                211,
+                "Leonard, have you ever wondered why my little toes and lateral incisors are significantly smaller than the average for someone of my size?"
+            ],
+            [
+                213,
+                "Well, those are indicators that I\u2019m farther along the evolutionary scale than the average human."
+            ],
+            [
+                215,
+                "Well, no, no, I\u2019m not going to go so far as to say that I represent a distinct new stage in humankind, you know, a Homo Novus, if you will, no, that\u2019s for anthropologists to decide. But I am convinced that the reason I cannot master the plebeian task of driving is because I\u2019m not meant to."
+            ],
+            [
+                217,
+                "No, no. Leonard, I\u2019m meant for greater things, like unraveling the mysteries of the universe, not determining when it\u2019s safe to pass a stopped school bus on a country road."
+            ],
+            [
+                219,
+                "Yeah, well, I know that now."
+            ],
+            [
+                221,
+                "Homo Novus doesn\u2019t know."
+            ],
+            [
+                225,
+                "Good morning, gentlemen."
+            ],
+            [
+                241,
+                "You saw nothing! (Sweeps hood around himself and vanishes through cafeteria door.)"
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Uh-huh."
+            ],
+            [
+                4,
+                "I\u2019m not going to work."
+            ],
+            [
+                6,
+                "Sheldon, I was up all night using the new free-electron laser for my X-ray diffraction experiment."
+            ],
+            [
+                8,
+                "No."
+            ],
+            [
+                10,
+                "Didn\u2019t I tell you I\u2019d be working nights, and that you\u2019d have to make other arrangements."
+            ],
+            [
+                12,
+                "And?"
+            ],
+            [
+                14,
+                "Goodnight, Sheldon."
+            ],
+            [
+                16,
+                "Take the bus."
+            ],
+            [
+                18,
+                "You tried to lash yourself to the seat with bungee cords?"
+            ],
+            [
+                20,
+                "Oh, you\u2019re a big boy, you\u2019ll figure it out."
+            ],
+            [
+                74,
+                "I just got here."
+            ],
+            [
+                76,
+                "Sheldon, I told you, I only have access to the free-electron laser at night. I can\u2019t drive you for the next few weeks."
+            ],
+            [
+                78,
+                "Howard, help me out here."
+            ],
+            [
+                81,
+                "How did you get here in the first place?"
+            ],
+            [
+                83,
+                "Look, I need to get to the laser lab, you\u2019re just going to have to find someone else to take you home."
+            ],
+            [
+                105,
+                "Sheldon, sit down."
+            ],
+            [
+                110,
+                "So we made you an appointment, and we want you to keep it."
+            ],
+            [
+                112,
+                "Sheldon, you need to learn how to drive."
+            ],
+            [
+                114,
+                "Penny\u2019s taking you to the DMV, I\u2019m going to bed."
+            ],
+            [
+                116,
+                "Because rock breaks scissors, goodnight."
+            ],
+            [
+                165,
+                "Booting."
+            ],
+            [
+                170,
+                "No."
+            ],
+            [
+                178,
+                "Okay, now, what you want to do first is turn on the ignition and shift into drive."
+            ],
+            [
+                180,
+                "Okay, fasten your seat belt."
+            ],
+            [
+                182,
+                "You don\u2019t need air bags."
+            ],
+            [
+                185,
+                "Okay, now shift into drive, pull out slowly into traffic."
+            ],
+            [
+                189,
+                "Oh."
+            ],
+            [
+                191,
+                "Watch out."
+            ],
+            [
+                193,
+                "Watch, watch out, watch out for pedestrians!"
+            ],
+            [
+                200,
+                "How did you manage to get on the second floor of the Glendale galleria?"
+            ],
+            [
+                202,
+                "Maybe you want to give it a rest and try again tomorrow."
+            ],
+            [
+                204,
+                "Aw, the pet store?"
+            ],
+            [
+                206,
+                "So wait,you\u2019re just gonna give up?"
+            ],
+            [
+                208,
+                "So what is it you\u2019re doing?"
+            ],
+            [
+                210,
+                "What does that mean?"
+            ],
+            [
+                212,
+                "I wonder a lot of things about you, Sheldon, but not\u2026 not that."
+            ],
+            [
+                214,
+                "No kidding."
+            ],
+            [
+                216,
+                "Yes, you are, you\u2019re meant to learn how to drive. Please learn how to drive!"
+            ],
+            [
+                218,
+                "It\u2019s never safe."
+            ],
+            [
+                220,
+                "Fine. Assuming that everything you say is true, how does the biologically superior Homo Novus get to work tomorrow morning?"
+            ],
+            [
+                222,
+                "Well, hang in there, maybe you\u2019ll evolve into something with wings."
+            ],
+            [
+                226,
+                "Hey."
+            ],
+            [
+                228,
+                "No, he lives here now."
+            ],
+            [
+                230,
+                "Well, since he won\u2019t take the bus and he\u2019s too evolved to drive, he decided it would be easier to just sleep in his office and shower in the radiation lab until I\u2019m finished with my experiment."
+            ],
+            [
+                232,
+                "Yep"
+            ]
+        ],
+        "Penny (opening door)": [
+            [
+                25,
+                "Sheldon, what is it?"
+            ]
+        ],
+        "Penny": [
+            [
+                27,
+                "Thanks for the update (begins to close door.)"
+            ],
+            [
+                29,
+                "Yeah, uh, I really don\u2019t think I do."
+            ],
+            [
+                31,
+                "Yeah, honey, you\u2019ll be fine as long as you don\u2019t do that bungee cord thing, okay?"
+            ],
+            [
+                33,
+                "Yes, Sheldon, we are friends."
+            ],
+            [
+                35,
+                "Oh, dear God."
+            ],
+            [
+                41,
+                "You know this is my day off, Sheldon."
+            ],
+            [
+                43,
+                "Mm-hmm."
+            ],
+            [
+                45,
+                "It\u2019s fine, it\u2019s been on for, like, a month."
+            ],
+            [
+                47,
+                "Sheldon, it\u2019s fine."
+            ],
+            [
+                49,
+                "Uh, maybe the light\u2019s broken."
+            ],
+            [
+                51,
+                "What?"
+            ],
+            [
+                53,
+                "Do you have any alcohol?"
+            ],
+            [
+                55,
+                "Too bad."
+            ],
+            [
+                57,
+                "Mm-hmm."
+            ],
+            [
+                59,
+                "Well, good for Leonard."
+            ],
+            [
+                61,
+                "No."
+            ],
+            [
+                63,
+                "No."
+            ],
+            [
+                65,
+                "How about we just have a little quiet time now?"
+            ],
+            [
+                69,
+                "I said, get out."
+            ],
+            [
+                107,
+                "Sheldon, you know\u00a0 that we care about you."
+            ],
+            [
+                109,
+                "You\u2019re hurting the people around you, sweetie."
+            ],
+            [
+                117,
+                "All right, come on Sheldon."
+            ],
+            [
+                119,
+                "What?"
+            ],
+            [
+                121,
+                "Okay."
+            ],
+            [
+                123,
+                "Fine."
+            ],
+            [
+                125,
+                "All right! (They leave.)"
+            ],
+            [
+                132,
+                "Yeah, and I never wanted to kick Albert Einstein in the nuts. You know, I gotta ask, why didn\u2019t you just get a license at 16 like everybody else?"
+            ],
+            [
+                134,
+                "Doing what?"
+            ],
+            [
+                136,
+                "Well, how \u2019bout when you were 17?"
+            ],
+            [
+                150,
+                "Sheldon, it\u2019s C, just put down C."
+            ],
+            [
+                159,
+                "Come on, let\u2019s go."
+            ],
+            [
+                184,
+                "I\u2019ll hit you in the face with a pillow."
+            ],
+            [
+                188,
+                "Oh."
+            ],
+            [
+                194,
+                "Oh God, wait, slow, hit the brakes, hit the brakes!"
+            ]
+        ],
+        "Penny (Pulling over)": [
+            [
+                67,
+                "Get out."
+            ]
+        ],
+        "Howard": [
+            [
+                79,
+                "No, just for the fun of it, I\u2019m gonna take his side."
+            ],
+            [
+                84,
+                "Oh damn, I picked the wrong side."
+            ],
+            [
+                108,
+                "And it\u2019s because we care about you that we\u2019ve decided we have to speak up."
+            ],
+            [
+                113,
+                "This madness has to stop."
+            ],
+            [
+                126,
+                "Ooh, I want to go to the comic book store. (He leaves.)"
+            ],
+            [
+                131,
+                "Yeah, but Albert Einstein didn\u2019t make me wet myself at 40 miles an hour."
+            ],
+            [
+                139,
+                "The application in your hand, give it to her."
+            ],
+            [
+                154,
+                "Sheldon, why are you arguing with the DMV?"
+            ],
+            [
+                164,
+                "Okay, that\u2019s it, let\u2019s boot it up."
+            ],
+            [
+                166,
+                "This is a state-of-the-art simulator. I adapted it from something a friend of mine designed for the army."
+            ],
+            [
+                168,
+                "I haven\u2019t configured it yet. Let\u2019s see\u2026 Bradley tank\u2026 transport truck\u2026\u00a0 Batmobile\u2026"
+            ],
+            [
+                171,
+                "Here we go, red 2006 Ford Taurus on the streets of Pasadena."
+            ],
+            [
+                173,
+                "What?"
+            ],
+            [
+                175,
+                "Fine, what colour do you want?"
+            ],
+            [
+                177,
+                "Black it is."
+            ],
+            [
+                190,
+                "Oh."
+            ],
+            [
+                192,
+                "Oh God!"
+            ],
+            [
+                229,
+                "Really? Why?"
+            ]
+        ],
+        "Raj": [
+            [
+                90,
+                "Why did Howard leave you in the middle of the road anyway?"
+            ],
+            [
+                92,
+                "Over what?"
+            ],
+            [
+                94,
+                "I\u2019m taking you home."
+            ],
+            [
+                96,
+                "I have a better idea."
+            ],
+            [
+                127,
+                "I like comic books."
+            ],
+            [
+                227,
+                "Good morning. Is there some new kind of casual Friday I don\u2019t know about?"
+            ],
+            [
+                231,
+                "But you finished your experiment a week ago."
+            ]
+        ],
+        "All": [
+            [
+                104,
+                "Good morning."
+            ]
+        ],
+        "DMV Lady (to the person ahead of Sheldon in the queue)": [
+            [
+                137,
+                "Take this to the testing area, put your name at the top, sign the bottom, answer the questions, bring it back, next! (Sheldon moves forward) Application?"
+            ]
+        ],
+        "DMV Lady": [
+            [
+                141,
+                "Take this to the testing area, put your name at the top, sign the bottom, answer the questions, bring it back, next!"
+            ],
+            [
+                143,
+                "Look at that sign up there."
+            ],
+            [
+                145,
+                "Does it say I give a damn?"
+            ],
+            [
+                147,
+                "That\u2019s because I don\u2019t."
+            ],
+            [
+                149,
+                "Look at the sign."
+            ],
+            [
+                152,
+                "Listen to that little girl, honey, put C. Next!"
+            ],
+            [
+                156,
+                "Here\u2019s your learner\u2019s permit. Go away."
+            ],
+            [
+                158,
+                "Don\u2019t make me climb over this counter."
+            ],
+            [
+                160,
+                "Next!"
+            ]
+        ],
+        "Sheldon (sucking in breath)": [
+            [
+                172,
+                "Hmmmm?"
+            ]
+        ],
+        "Cleaning Lady 1 (in Spanish, subtitles)": [
+            [
+                235,
+                "Oh my God, again?"
+            ]
+        ],
+        "Cleaning Lady 2": [
+            [
+                236,
+                "It must be rats."
+            ]
+        ],
+        "Cleaning Lady 1": [
+            [
+                237,
+                "Rats don\u2019t make toast and cut off the crust."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. Leonard enters, drops his keys in the bowl by the door, then collapses onto the settee. Sheldon enters from the bedroom area."
+        ],
+        [
+            "Sheldon",
+            "Good morning, Leonard."
+        ],
+        [
+            "Leonard",
+            "Uh-huh."
+        ],
+        [
+            "Sheldon",
+            "Yeah, we\u2019re going to have to stop by Pottery Barn on the way to work, I bought these Star Wars sheets but they turned out to be much too stimulating to be compatible with a good night\u2019s sleep. I don\u2019t like the way Darth Vader stares at me."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not going to work."
+        ],
+        [
+            "Sheldon",
+            "Oh, just because your career\u2019s been stagnant for a few years, that\u2019s no reason to give up."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I was up all night using the new free-electron laser for my X-ray diffraction experiment."
+        ],
+        [
+            "Sheldon",
+            "Did the laser accidentally burn out your retinas?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Then you can drive. Let\u2019s go."
+        ],
+        [
+            "Leonard",
+            "Didn\u2019t I tell you I\u2019d be working nights, and that you\u2019d have to make other arrangements."
+        ],
+        [
+            "Sheldon",
+            "You did."
+        ],
+        [
+            "Leonard",
+            "And?"
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t. Let\u2019s go."
+        ],
+        [
+            "Leonard",
+            "Goodnight, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "But how am I going to get to work?"
+        ],
+        [
+            "Leonard",
+            "Take the bus."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t take the bus any more. They don\u2019t have seatbelts. And they won\u2019t let you lash yourself to the seat with bungee cords."
+        ],
+        [
+            "Leonard",
+            "You tried to lash yourself to the seat with bungee cords?"
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t try, I succeeded. For some reason it alarmed the other passengers and I was asked to de-bus."
+        ],
+        [
+            "Leonard",
+            "Oh, you\u2019re a big boy, you\u2019ll figure it out."
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t talk to me like I\u2019m a child. Now, take me to return my star wars sheets!"
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny, (knock, knock, knock) Penny, (knock, knock, knock) Penny\u2026"
+        ],
+        [
+            "Penny (opening door)",
+            "Sheldon, what is it?"
+        ],
+        [
+            "Sheldon",
+            "Leonard\u2019s asleep."
+        ],
+        [
+            "Penny",
+            "Thanks for the update (begins to close door.)"
+        ],
+        [
+            "Sheldon",
+            "No, wait. You have to drive me to work."
+        ],
+        [
+            "Penny",
+            "Yeah, uh, I really don\u2019t think I do."
+        ],
+        [
+            "Sheldon",
+            "But I don\u2019t drive, and I can\u2019t take the bus."
+        ],
+        [
+            "Penny",
+            "Yeah, honey, you\u2019ll be fine as long as you don\u2019t do that bungee cord thing, okay?"
+        ],
+        [
+            "Sheldon",
+            "Penny. Didn\u2019t you recently state that you and I are friends?"
+        ],
+        [
+            "Penny",
+            "Yes, Sheldon, we are friends."
+        ],
+        [
+            "Sheldon",
+            "Then I hereby invoke what I\u2019m given to understand is an integral part of the implied covenant of friendship. The favour."
+        ],
+        [
+            "Penny",
+            "Oh, dear God."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, I didn\u2019t realize I was interrupting your morning prayers. When you\u2019re done, we\u2019ll go."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Inside Penny\u2019s car."
+        ],
+        [
+            "Sheldon",
+            "Thank you for driving me to work."
+        ],
+        [
+            "Penny",
+            "You know this is my day off, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Oh, good. I\u2019m not keeping you from anything. Your check engine light is on."
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Sheldon",
+            "Typically that\u2019s an indicator. To, you know, check your engine."
+        ],
+        [
+            "Penny",
+            "It\u2019s fine, it\u2019s been on for, like, a month."
+        ],
+        [
+            "Sheldon",
+            "Well, actually, that would be all the more reason to, you know, check your engine."
+        ],
+        [
+            "Penny",
+            "Sheldon, it\u2019s fine."
+        ],
+        [
+            "Sheldon",
+            "If it were fine, the light wouldn\u2019t be on. That\u2019s why the manufacturer installed that light, to let you know it\u2019s not fine."
+        ],
+        [
+            "Penny",
+            "Uh, maybe the light\u2019s broken."
+        ],
+        [
+            "Sheldon",
+            "Is there a \u201ccheck the check engine light light\u201d? (Penny takes a drink of coffee) O-o-o-oh!"
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Studies have shown that performing tasks such as eating, talking on a cell phone or drinking coffee while driving reduces one\u2019s reaction time by the same factor as an ounce of alcohol."
+        ],
+        [
+            "Penny",
+            "Do you have any alcohol?"
+        ],
+        [
+            "Sheldon",
+            "Of course not."
+        ],
+        [
+            "Penny",
+            "Too bad."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re going up Euclid Avenue?"
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Sheldon",
+            "Leonard takes Los Robles Avenue."
+        ],
+        [
+            "Penny",
+            "Well, good for Leonard."
+        ],
+        [
+            "Sheldon",
+            "Euclid Avenue is shorter as the crow flies, but it has speed bumps, which appreciably increase point-to-point drive time, making it the less efficient choice. But you have the conn. Of course, if you\u2019re not going to slow down for the speed bumps, I withdraw my previous objection. Here\u2019s a fun question. Do you know what the most common street name is?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "The answer\u2019s tricky. It\u2019s Second Street. You see, you\u2019d think it would be First Street, but in most towns, First Street eventually gets renamed to something else, you know, like Main Street, Broad Street, Michigan Avenue. Leonard and I often use our commute time to exercise our minds\u00a0 with brain-teasers like that. We also play games. Would you like to play one?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Oh, come on, it\u2019s fun. Ooh! Another bump. Okay. I\u2019ll say an element, and uh, you say an element whose name starts with the last letter of the one I said, okay? I\u2019ll start. Helium. Now, you could say Mercury. That would give me a Y. Ooh. \u00a0Very clever, that\u2019s a tough one. So I go Ytterbium, which gets you back to M. So you go Molybdenum, and I say Magnesium, you say Manganese, and\u00a0 I say Europium, and, and you\u2019re left with Mendelevium, and \u00a0there are no more M\u2019s because I believe that Meitnerium should still be called Ekairidium, so congratulations, you win. Do you wanna go again?"
+        ],
+        [
+            "Penny",
+            "How about we just have a little quiet time now?"
+        ],
+        [
+            "Sheldon",
+            "All right. Hmm, huh, I\u2019m sorry, I\u2019m finding your reckless nonchalance regarding the check-engine light to be very troubling."
+        ],
+        [
+            "Penny (Pulling over)",
+            "Get out."
+        ],
+        [
+            "Sheldon",
+            "Well, I have to tell you that while I do have a theoretical understanding of the workings of an internal combustion engine, I\u2019m not sure I\u2019m capable of performing diagnostics."
+        ],
+        [
+            "Penny",
+            "I said, get out."
+        ],
+        [
+            "Sheldon",
+            "Okay. I\u2019ll give it a shot. (Gets out. Penny drives away.)"
+        ],
+        [
+            "Scene",
+            "The university cafeteria. Sheldon enters. "
+        ],
+        [
+            "Sheldon",
+            "Oh, Leonard, there you are, I\u2019m ready to go home."
+        ],
+        [
+            "Leonard",
+            "I just got here."
+        ],
+        [
+            "Sheldon",
+            "Good, perfect timing."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I told you, I only have access to the free-electron laser at night. I can\u2019t drive you for the next few weeks."
+        ],
+        [
+            "Sheldon",
+            "No, you said you couldn\u2019t drive me to work, this is from work."
+        ],
+        [
+            "Leonard",
+            "Howard, help me out here."
+        ],
+        [
+            "Howard",
+            "No, just for the fun of it, I\u2019m gonna take his side."
+        ],
+        [
+            "Sheldon",
+            "Now, how do you propose I get home?"
+        ],
+        [
+            "Leonard",
+            "How did you get here in the first place?"
+        ],
+        [
+            "Sheldon",
+            "Penny. But I sense that\u2019s no longer an option."
+        ],
+        [
+            "Leonard",
+            "Look, I need to get to the laser lab, you\u2019re just going to have to find someone else to take you home."
+        ],
+        [
+            "Howard",
+            "Oh damn, I picked the wrong side."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s motor scooter. Howard is driving, Sheldon is on the back clutching him for dear life and screaming. "
+        ],
+        [
+            "Sheldon",
+            "Aaaaaaaaaaaaaaaaaa! Oh God, not Euclid Avenue! Aaaaaaaaaaaaaa!"
+        ],
+        [
+            "Scene",
+            "Raj\u2019s car. "
+        ],
+        [
+            "Raj",
+            "Why did Howard leave you in the middle of the road anyway?"
+        ],
+        [
+            "Sheldon",
+            "We had a difference of opinion."
+        ],
+        [
+            "Raj",
+            "Over what?"
+        ],
+        [
+            "Sheldon",
+            "Whether or not he was trying to kill me. For the record, I maintain he was. Where are you going?"
+        ],
+        [
+            "Raj",
+            "I\u2019m taking you home."
+        ],
+        [
+            "Sheldon",
+            "Oh, but I\u2019m not going home. It\u2019s Wednesday, Wednesday is new comic book day, we have to go to the comic book store. And then we have to stop at Soup Plantation, it\u2019s creamy tomato soup day, and Radio Shack, there\u2019s a sale on triple-a batteries. Plus, we have to go to Pottery Barn and return my Star Wars sheets."
+        ],
+        [
+            "Raj",
+            "I have a better idea."
+        ],
+        [
+            "Sheldon",
+            "You want to go to pottery barn first?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment, she opens the door, Sheldon is stood outside with his Star Wars sheets."
+        ],
+        [
+            "Sheldon",
+            "Can you drive me to Pottery Barn? (She closes the door) Maybe if I turn off the night-light, I can keep the sheets."
+        ],
+        [
+            "Scene",
+            "The apartment. Sheldon enters from the bedroom area. Everyone else is present."
+        ],
+        [
+            "Sheldon",
+            "Good morning."
+        ],
+        [
+            "All",
+            "Good morning."
+        ],
+        [
+            "Leonard",
+            "Sheldon, sit down."
+        ],
+        [
+            "Sheldon",
+            "She\u2019s in my spot. Don\u2019t look at me like that, everybody knows that my spot."
+        ],
+        [
+            "Penny",
+            "Sheldon, you know\u00a0 that we care about you."
+        ],
+        [
+            "Howard",
+            "And it\u2019s because we care about you that we\u2019ve decided we have to speak up."
+        ],
+        [
+            "Penny",
+            "You\u2019re hurting the people around you, sweetie."
+        ],
+        [
+            "Leonard",
+            "So we made you an appointment, and we want you to keep it."
+        ],
+        [
+            "Sheldon",
+            "Department of motor vehicles new driver handbook? But I don\u2019t have a problem."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you need to learn how to drive."
+        ],
+        [
+            "Howard",
+            "This madness has to stop."
+        ],
+        [
+            "Leonard",
+            "Penny\u2019s taking you to the DMV, I\u2019m going to bed."
+        ],
+        [
+            "Sheldon",
+            "Why Penny?"
+        ],
+        [
+            "Leonard",
+            "Because rock breaks scissors, goodnight."
+        ],
+        [
+            "Penny",
+            "All right, come on Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hold on, I have one condition."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "We have to stop at Pottery Barn."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "And Radio Shack."
+        ],
+        [
+            "Penny",
+            "Fine."
+        ],
+        [
+            "Sheldon",
+            "And the comic book store."
+        ],
+        [
+            "Penny",
+            "All right! (They leave.)"
+        ],
+        [
+            "Howard",
+            "Ooh, I want to go to the comic book store. (He leaves.)"
+        ],
+        [
+            "Raj",
+            "I like comic books."
+        ],
+        [
+            "Scene",
+            "The DMV."
+        ],
+        [
+            "Sheldon",
+            "I just don\u2019t see why I need a driver\u2019s license, Albert Einstein never had a driver\u2019s license."
+        ],
+        [
+            "Howard",
+            "Yeah, but Albert Einstein didn\u2019t make me wet myself at 40 miles an hour."
+        ],
+        [
+            "Penny",
+            "Yeah, and I never wanted to kick Albert Einstein in the nuts. You know, I gotta ask, why didn\u2019t you just get a license at 16 like everybody else?"
+        ],
+        [
+            "Sheldon",
+            "I was otherwise engaged."
+        ],
+        [
+            "Penny",
+            "Doing what?"
+        ],
+        [
+            "Sheldon",
+            "Examining perturbative amplitudes in n=4 supersymmetric theories leading to a re-examination of the ultraviolet properties of multi-loop n=8 supergravity using modern twistor theory."
+        ],
+        [
+            "Penny",
+            "Well, how \u2019bout when you were 17?"
+        ],
+        [
+            "DMV Lady (to the person ahead of Sheldon in the queue)",
+            "Take this to the testing area, put your name at the top, sign the bottom, answer the questions, bring it back, next! (Sheldon moves forward) Application?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m actually more of a theorist."
+        ],
+        [
+            "Howard",
+            "The application in your hand, give it to her."
+        ],
+        [
+            "Sheldon",
+            "Oh."
+        ],
+        [
+            "DMV Lady",
+            "Take this to the testing area, put your name at the top, sign the bottom, answer the questions, bring it back, next!"
+        ],
+        [
+            "Sheldon",
+            "Excuse me, but I have some concerns about these questions."
+        ],
+        [
+            "DMV Lady",
+            "Look at that sign up there."
+        ],
+        [
+            "Sheldon",
+            "Yes?"
+        ],
+        [
+            "DMV Lady",
+            "Does it say I give a damn?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "DMV Lady",
+            "That\u2019s because I don\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Just, look, see, this first question makes no sense, how many car lengths should you leave in front of you when driving? There\u2019s no possible way to answer that, a car length is not a standardized unit of measure."
+        ],
+        [
+            "DMV Lady",
+            "Look at the sign."
+        ],
+        [
+            "Penny",
+            "Sheldon, it\u2019s C, just put down C."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t need your help, Penny."
+        ],
+        [
+            "DMV Lady",
+            "Listen to that little girl, honey, put C. Next!"
+        ],
+        [
+            "Sheldon",
+            "No, no, wait, no, hang on, look at this next question."
+        ],
+        [
+            "Howard",
+            "Sheldon, why are you arguing with the DMV?"
+        ],
+        [
+            "Sheldon",
+            "How else are they going to learn? Look, question 2, when are roadways most slippery? Now, okay, there are three answers, none of which are correct. The correct answer is, when covered by a film of liquid sufficient to reduce the coefficient of static friction between the tire and the road to essentially zero, but not so deep as to introduce a new source of friction."
+        ],
+        [
+            "DMV Lady",
+            "Here\u2019s your learner\u2019s permit. Go away."
+        ],
+        [
+            "Sheldon",
+            "But I\u2019m not done. I have many additional concerns about these questions."
+        ],
+        [
+            "DMV Lady",
+            "Don\u2019t make me climb over this counter."
+        ],
+        [
+            "Penny",
+            "Come on, let\u2019s go."
+        ],
+        [
+            "DMV Lady",
+            "Next!"
+        ],
+        [
+            "Sheldon",
+            "Aced it."
+        ],
+        [
+            "Scene",
+            "The apartment. Howard is setting up a large kit of high tech equipment."
+        ],
+        [
+            "Howard",
+            "Okay, that\u2019s it, let\u2019s boot it up."
+        ],
+        [
+            "Leonard",
+            "Booting."
+        ],
+        [
+            "Howard",
+            "This is a state-of-the-art simulator. I adapted it from something a friend of mine designed for the army."
+        ],
+        [
+            "Sheldon",
+            "Is that why I appear to be in downtown Fallujah, behind the wheel of an up-armored Humvee?"
+        ],
+        [
+            "Howard",
+            "I haven\u2019t configured it yet. Let\u2019s see\u2026 Bradley tank\u2026 transport truck\u2026\u00a0 Batmobile\u2026"
+        ],
+        [
+            "Sheldon",
+            "Ooh!"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Howard",
+            "Here we go, red 2006 Ford Taurus on the streets of Pasadena."
+        ],
+        [
+            "Sheldon (sucking in breath)",
+            "Hmmmm?"
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Statistically, red cars are stopped by police far more often than any other colour. I don\u2019t want any hassles with the fuzz."
+        ],
+        [
+            "Howard",
+            "Fine, what colour do you want?"
+        ],
+        [
+            "Sheldon",
+            "You know the pale blue of Luke Skywalker\u2019s lightsaber, before it was digitally remastered?"
+        ],
+        [
+            "Howard",
+            "Black it is."
+        ],
+        [
+            "Leonard",
+            "Okay, now, what you want to do first is turn on the ignition and shift into drive."
+        ],
+        [
+            "Sheldon",
+            "I haven\u2019t fastened my seat belt yet."
+        ],
+        [
+            "Leonard",
+            "Okay, fasten your seat belt."
+        ],
+        [
+            "Sheldon",
+            "Click. Now, are there air bags?"
+        ],
+        [
+            "Leonard",
+            "You don\u2019t need air bags."
+        ],
+        [
+            "Sheldon",
+            "What if a simulated van rear-ends me?"
+        ],
+        [
+            "Penny",
+            "I\u2019ll hit you in the face with a pillow."
+        ],
+        [
+            "Leonard",
+            "Okay, now shift into drive, pull out slowly into traffic."
+        ],
+        [
+            "Scene",
+            "(General panic)"
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Leonard",
+            "Oh."
+        ],
+        [
+            "Howard",
+            "Oh."
+        ],
+        [
+            "Leonard",
+            "Watch out."
+        ],
+        [
+            "Howard",
+            "Oh God!"
+        ],
+        [
+            "Leonard",
+            "Watch, watch out, watch out for pedestrians!"
+        ],
+        [
+            "Penny",
+            "Oh God, wait, slow, hit the brakes, hit the brakes!"
+        ],
+        [
+            "Scene",
+            "(Sounds of car crashing. Penny hits Sheldon in face with pillow.)"
+        ],
+        [
+            "Sheldon",
+            "Thank you."
+        ],
+        [
+            "Scene",
+            "The same, only Sheldon and Leonard are present. Sheldon is practicing. There are sounds of squealing tyres and brakes and general panic and mayhem."
+        ],
+        [
+            "Sheldon",
+            "Sorry\u2026 excuse me\u2026 my bad\u2026 student driver\u2026"
+        ],
+        [
+            "Leonard",
+            "How did you manage to get on the second floor of the Glendale galleria?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know. I was on the Pasadena freeway, I missed my exit, flew off the overpass, and one thing led to another."
+        ],
+        [
+            "Leonard",
+            "Maybe you want to give it a rest and try again tomorrow."
+        ],
+        [
+            "Sheldon",
+            "No. I quit. (Stands up. There is more sound of crashing and panic, then animal noises.)"
+        ],
+        [
+            "Leonard",
+            "Aw, the pet store?"
+        ],
+        [
+            "Sheldon",
+            "Remind me to compliment Wolowitz on the software, it\u2019s amazingly detailed."
+        ],
+        [
+            "Leonard",
+            "So wait,you\u2019re just gonna give up?"
+        ],
+        [
+            "Sheldon",
+            "No, I\u2019m not giving up, I never give up."
+        ],
+        [
+            "Leonard",
+            "So what is it you\u2019re doing?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m transcending the situation. I\u2019m clearly too evolved for driving."
+        ],
+        [
+            "Leonard",
+            "What does that mean?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, have you ever wondered why my little toes and lateral incisors are significantly smaller than the average for someone of my size?"
+        ],
+        [
+            "Leonard",
+            "I wonder a lot of things about you, Sheldon, but not\u2026 not that."
+        ],
+        [
+            "Sheldon",
+            "Well, those are indicators that I\u2019m farther along the evolutionary scale than the average human."
+        ],
+        [
+            "Leonard",
+            "No kidding."
+        ],
+        [
+            "Sheldon",
+            "Well, no, no, I\u2019m not going to go so far as to say that I represent a distinct new stage in humankind, you know, a Homo Novus, if you will, no, that\u2019s for anthropologists to decide. But I am convinced that the reason I cannot master the plebeian task of driving is because I\u2019m not meant to."
+        ],
+        [
+            "Leonard",
+            "Yes, you are, you\u2019re meant to learn how to drive. Please learn how to drive!"
+        ],
+        [
+            "Sheldon",
+            "No, no. Leonard, I\u2019m meant for greater things, like unraveling the mysteries of the universe, not determining when it\u2019s safe to pass a stopped school bus on a country road."
+        ],
+        [
+            "Leonard",
+            "It\u2019s never safe."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, I know that now."
+        ],
+        [
+            "Leonard",
+            "Fine. Assuming that everything you say is true, how does the biologically superior Homo Novus get to work tomorrow morning?"
+        ],
+        [
+            "Sheldon",
+            "Homo Novus doesn\u2019t know."
+        ],
+        [
+            "Leonard",
+            "Well, hang in there, maybe you\u2019ll evolve into something with wings."
+        ],
+        [
+            "Scene",
+            "A corridor in the university. Sheldon emerges from his office in a shower cap and bathrobe. The others are turning the corner. "
+        ],
+        [
+            "Sheldon",
+            "Good morning, gentlemen."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Raj",
+            "Good morning. Is there some new kind of casual Friday I don\u2019t know about?"
+        ],
+        [
+            "Leonard",
+            "No, he lives here now."
+        ],
+        [
+            "Howard",
+            "Really? Why?"
+        ],
+        [
+            "Leonard",
+            "Well, since he won\u2019t take the bus and he\u2019s too evolved to drive, he decided it would be easier to just sleep in his office and shower in the radiation lab until I\u2019m finished with my experiment."
+        ],
+        [
+            "Raj",
+            "But you finished your experiment a week ago."
+        ],
+        [
+            "Leonard",
+            "Yep"
+        ],
+        [
+            "Scene",
+            "The cafeteria, late at night. Two cleaning ladies enter and find a plate with toast crusts."
+        ],
+        [
+            "Cleaning Lady 1 (in Spanish, subtitles)",
+            "Oh my God, again?"
+        ],
+        [
+            "Cleaning Lady 2",
+            "It must be rats."
+        ],
+        [
+            "Cleaning Lady 1",
+            "Rats don\u2019t make toast and cut off the crust."
+        ],
+        [
+            "Scene",
+            "(They are startled by a noise. One of them drops the plate, it smashes on the floor. Sheldon is by the drink machine, he is wearing a cloak with a hood)"
+        ],
+        [
+            "Sheldon",
+            "You saw nothing! (Sweeps hood around himself and vanishes through cafeteria door.)"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-2-episode-5-the-euclid-alternative/"
+}

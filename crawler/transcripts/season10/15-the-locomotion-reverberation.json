@@ -1,0 +1,1894 @@
+{
+    "Season": 10,
+    "Episode": 15,
+    "Title": "the locomotion reverberation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The laboratory."
+            ],
+            [
+                19,
+                "Credits sequence."
+            ],
+            [
+                20,
+                "The laboratory."
+            ],
+            [
+                34,
+                "Howard and Bernadette\u2019s kitchen."
+            ],
+            [
+                52,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                65,
+                "some great stuff out here. Oh, this is good. There are dozens of railroad crossings you have to blow the whistle for. But that is the figurative you, not the literal you. I\u2019ll be blowing the whistle. Amy, get up. It\u2019s time to go to work."
+            ],
+            [
+                66,
+                "The laboratory."
+            ],
+            [
+                87,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                104,
+                "The stairwell."
+            ],
+            [
+                120,
+                "Penny\u2019s car. "
+            ],
+            [
+                144,
+                "The apartment."
+            ],
+            [
+                156,
+                "Penny\u2019s car"
+            ],
+            [
+                198,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                222,
+                "The cab of a steam locomotive. "
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "Okay, I\u2019m zeroing out the electro-osmotic flow rate in the micro-fluidic channel."
+            ],
+            [
+                3,
+                "Well, my wife is four-foot-ten and sexually satisfied, so clearly I know my way around tiny things."
+            ],
+            [
+                5,
+                "Those are just the things I say out loud."
+            ],
+            [
+                7,
+                "What\u2019s wrong?"
+            ],
+            [
+                10,
+                "Yeah. It doesn\u2019t need to be smaller. "
+            ],
+            [
+                14,
+                "Sheldon, we don\u2019t need to make this smaller, and your work is done. Go home."
+            ],
+            [
+                22,
+                "I know. That\u2019s why I keep refilling his water when he\u2019s not looking."
+            ],
+            [
+                24,
+                "I don\u2019t care if we\u2019re in a drought, it\u2019s worth it."
+            ],
+            [
+                26,
+                "We can just lock the door, you don\u2019t have to kill him."
+            ],
+            [
+                68,
+                "It\u2019s so peaceful without him here. Can I ask you how much that cost?"
+            ],
+            [
+                73,
+                "Great. We found a cooling solution that allowed us to get the size of the prototype down to the target specs."
+            ],
+            [
+                80,
+                "But we\u2019ve already met the agreed upon specs. Going smaller would require weeks\u2019 worth of new computations. "
+            ],
+            [
+                84,
+                "Okay, but that\u2019s just a theory. It\u2019s not even a complete thought."
+            ],
+            [
+                86,
+                "The kid with the two shirts screwed us again."
+            ],
+            [
+                105,
+                "I can\u2019t believe we have to ask Sheldon to come back and help us."
+            ],
+            [
+                107,
+                "I don\u2019t know, but if he yells It\u2019s alive, we run."
+            ],
+            [
+                109,
+                "How\u2019d you even get that up the stairs?"
+            ],
+            [
+                113,
+                "Open a window. It\u2019s about to get smug in here."
+            ],
+            [
+                117,
+                "He\u2019s worried about looking foolish. That\u2019s a heapin\u2019 helping of irony right there."
+            ],
+            [
+                146,
+                "All right. Hmm. Feel free to jump in. Hmm is all I got."
+            ],
+            [
+                148,
+                "Maybe we can find another theoretical physicist to help us."
+            ],
+            [
+                150,
+                "Hey, I came up with that and hmm. You haven\u2019t pitched anything."
+            ],
+            [
+                152,
+                "You really figured it out?"
+            ],
+            [
+                154,
+                "Oh, you\u2019re a genius."
+            ],
+            [
+                200,
+                "That\u2019s right. We figured it out all by ourselves. Wasn\u2019t even that hard."
+            ],
+            [
+                205,
+                "It\u2019s a manifold."
+            ],
+            [
+                211,
+                "Told ya. Can you fix it for us?"
+            ],
+            [
+                214,
+                "But if you really want to learn the mechanical side, I can teach you anything you want to know."
+            ],
+            [
+                216,
+                "And with all these new skills, you\u2019d be able to fix any model train. You\u2019d be the king of the train store."
+            ],
+            [
+                220,
+                "That\u2019s a turbo."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Nicely done, Howard."
+            ],
+            [
+                4,
+                "Good for you, on the cutting edge of new technology and still making inappropriate comments about the mother of your child."
+            ],
+            [
+                9,
+                "That\u2019s great, but the Air Force approved the specs. We\u2019re good to go."
+            ],
+            [
+                12,
+                "Can we please stop talking about poodles?"
+            ],
+            [
+                16,
+                "Fine, go for a little walk."
+            ],
+            [
+                18,
+                "Just keep walking."
+            ],
+            [
+                21,
+                "At least it\u2019s quiet when he takes bathroom breaks."
+            ],
+            [
+                23,
+                "You\u2019re kidding."
+            ],
+            [
+                25,
+                "You know, I do have a way to get him out of our hair. I\u2019ve been holding onto this for a few years, but maybe now\u2019s the time."
+            ],
+            [
+                27,
+                "You can\u2019t kill him, he\u2019ll just respawn at the last save point."
+            ],
+            [
+                29,
+                "Hey, uh, buddy, I got you a little present."
+            ],
+            [
+                31,
+                "Yeah. Go ahead, open it."
+            ],
+            [
+                33,
+                "Okay. Where were we?"
+            ],
+            [
+                67,
+                "This train thing worked out better than I thought. He\u2019s home studying the engineer\u2019s manual."
+            ],
+            [
+                69,
+                "Four thousand dollars, worth every penny."
+            ],
+            [
+                71,
+                "Colonel Williams. Sir."
+            ],
+            [
+                74,
+                "As a cooling solution, it\u2019s pretty cool."
+            ],
+            [
+                76,
+                "Oh, nothing. Just some math we don\u2019t need."
+            ],
+            [
+                78,
+                "It\u2019s just a theory. Uh, it\u2019s not even worked out."
+            ],
+            [
+                82,
+                "Sir, uh, if I may, uh, we\u2019ve put a lot of thought and effort into this current prototype. It\u2019s a really elegant solution, and most importantly, it works."
+            ],
+            [
+                106,
+                "Oh, boo-hoo. I spent four grand on a gift that only got rid of him for an afternoon. What is that?"
+            ],
+            [
+                111,
+                "Okay, look, Sheldon, the Colonel wants us to make the guidance system smaller, and we can\u2019t do it without you."
+            ],
+            [
+                115,
+                "Sheldon, you can still go on the trip in a few weeks. Just help us out."
+            ],
+            [
+                118,
+                "Come on, you know you\u2019re not leaving physics. Why are you doing this?"
+            ],
+            [
+                145,
+                "Okay. This is everything he had on the board. I\u2019m sure we can figure the rest out."
+            ],
+            [
+                147,
+                "Oh, we can get this. Is there any chance it\u2019s upside-down?"
+            ],
+            [
+                149,
+                "It\u2019s classified. If we tell anyone, we\u2019d get in trouble."
+            ],
+            [
+                151,
+                "Just keep thinking. I got it."
+            ],
+            [
+                153,
+                "No, but when we show this nonsense to Sheldon, it will make him crazy, and he\u2019ll have to fix it."
+            ],
+            [
+                155,
+                "Yeah, I know. That\u2019s not even a math symbol. That\u2019s just Charlie Brown\u2019s hair."
+            ],
+            [
+                199,
+                "Well, Sheldon, turns out we didn\u2019t need you after all."
+            ],
+            [
+                201,
+                "No."
+            ],
+            [
+                203,
+                "Aren\u2019t you gonna look at the board to see how right we are?"
+            ],
+            [
+                207,
+                "Just look at the board."
+            ],
+            [
+                209,
+                "Oh, no, what should we have done differently?"
+            ],
+            [
+                213,
+                "Come on, Sheldon. You can\u2019t turn your back on physics, and besides, you have no idea what you\u2019re doing with this stuff."
+            ],
+            [
+                215,
+                "And instead of standing around watching, you can help us build your smaller guidance system."
+            ],
+            [
+                218,
+                "So, what do you say?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "Gentlemen, we need to stop immediately."
+            ],
+            [
+                8,
+                "I\u2019m looking at the math, and I think we can make the device between eight and ten percent smaller."
+            ],
+            [
+                11,
+                "Shame on you. Where would we be if poodle breeders had that attitude? I\u2019ll tell you. We would have the standard and the miniature poodle, but no toy or teacup. Which by the way, is not an officially recognized breed, but that\u2019s just poodle politics."
+            ],
+            [
+                13,
+                "Fine. Candy bars. Now, do you enjoy a fun size? I know you do."
+            ],
+            [
+                15,
+                "I don\u2019t want to go home."
+            ],
+            [
+                17,
+                "Then what?"
+            ],
+            [
+                28,
+                "Oh, that was my sixth trip to the bathroom. As long as that\u2019s not a urinary tract infection, that\u2019s a personal best."
+            ],
+            [
+                30,
+                "Really?"
+            ],
+            [
+                32,
+                "Congratulations. The bearer of this certificate is entitled to the ultimate train experience at The Nevada Northern Railway. You are at the throttle. You are the engineer. You are running the locomotive. This doesn\u2019t happen very often, but here comes a hug. Oh, dear, I have to tinkle again."
+            ],
+            [
+                54,
+                "You\u2019ll never believe it. Leonard gave me the most incredible gift, a trip to a historic railway, and I get to operate an actual locomotive."
+            ],
+            [
+                56,
+                "No idea. All I know is I\u2019m gonna be working on the railroad all the livelong day."
+            ],
+            [
+                58,
+                "Oh, no. It\u2019s not just me. No. The railway is four hours from the nearest airport, and guess who gets to drive me."
+            ],
+            [
+                60,
+                "You."
+            ],
+            [
+                62,
+                "Oh, oh. And guess where we get to sleep? Our choice of a turn-of-the-century railway bunkhouse or a working caboose. Now, the problem with a caboose is there\u2019s no bathroom, but the problem with the bunkhouse is it\u2019s not a caboose. On the first day, I get to drive a steam engine. Oh, and the second day, a diesel engine. Oh, and if I volunteer to do track maintenance and paperwork, they\u2019ll let me stay as long as I want. So you might want to pack enough clothes for the rest of our lives."
+            ],
+            [
+                64,
+                "Oh, get this. I get to take a test based on a 125-page manual. I get to learn things like hand signals. Ooh. There\u2019s forward, uh, reverse, set the brakes. Are you done yet? You\u2019re missing"
+            ],
+            [
+                108,
+                "Oh, hey. If you knocked, I couldn\u2019t hear you. I\u2019m welding this locomotive engine. And if you didn\u2019t knock, how about some manners?"
+            ],
+            [
+                110,
+                "I said to myself, I think I can, I think I can. And then I couldn\u2019t, so I paid two men who promised not to come rob us later."
+            ],
+            [
+                112,
+                "Interesting. Well, so I was right."
+            ],
+            [
+                114,
+                "Well, I would love to help you, but since I discovered the satisfaction of working with my hands on a train engine, I don\u2019t think I can go back to theory. I\u2019m an engineer now. And, hey, just to be clear, a train engineer. Not that goofy kind you are."
+            ],
+            [
+                116,
+                "Sorry. I need to work on this engine so when I get to the train yard I won\u2019t look foolish."
+            ],
+            [
+                119,
+                "Leonard, in the world of theoretical physics, you never finish. So much is unprovable. But when I was studying that railway guide, it was so tangible and so satisfying that something just clicked. Then it clacked. Then it clicked, then it clacked, click-clack clickety-clack, and here we are. Whoo-whoo."
+            ],
+            [
+                202,
+                "Well, good for you guys. Look, I have a grease smudge on my hand, and I\u2019m okay with it."
+            ],
+            [
+                204,
+                "No, thanks. I\u2019m busy trying to fix this fuel pump."
+            ],
+            [
+                206,
+                "Oh. Well, I guess it\u2019s fixed."
+            ],
+            [
+                208,
+                "That\u2019s wrong."
+            ],
+            [
+                210,
+                "Well, first of all, you can\u2019t use relativistic and non-relativistic vectors in the same equation."
+            ],
+            [
+                212,
+                "Okay, but this is the last time. Nice try, blockheads."
+            ],
+            [
+                217,
+                "Excuse me. I have a girlfriend. I\u2019m already king of the train store."
+            ],
+            [
+                219,
+                "Oh, what choice do I have? You need me. I\u2019m like the crankshaft of this team."
+            ],
+            [
+                221,
+                "Well, whatever it is, it looks heavy. I\u2019m gonna need you two to get it downstairs before Amy comes home."
+            ],
+            [
+                223,
+                "I apologize that it\u2019s so warm in here."
+            ],
+            [
+                225,
+                "I\u2019ve worked up a bit of a sweat."
+            ],
+            [
+                227,
+                "May I borrow your water?"
+            ],
+            [
+                230,
+                "GPS says we\u2019ll be at the railway in three hours."
+            ]
+        ],
+        "Bernadette": [
+            [
+                35,
+                "For Howie\u2019s occupation, should I include that he was an astronaut?"
+            ],
+            [
+                39,
+                "Well, I didn\u2019t. I also skipped a birthing class to see Zootopia so back off."
+            ],
+            [
+                41,
+                "Sorry. Howie\u2019s back at work and there\u2019s just so much going on."
+            ],
+            [
+                43,
+                "Sure. Open up a college fund, shop for life insurance, and in the laundry room, there\u2019s a mountain of dirty laundry. Wash it or burn in, your choice. Ugh, be right back."
+            ],
+            [
+                45,
+                "Oh, thank you."
+            ],
+            [
+                48,
+                "That sounds really nice."
+            ],
+            [
+                95,
+                "We will. Got my dancing shoes, got my breast pump. Let\u2019s party."
+            ],
+            [
+                97,
+                "Call if there\u2019s any problems."
+            ],
+            [
+                100,
+                "Call me. Don\u2019t call Howard."
+            ],
+            [
+                122,
+                "Not yet, but we\u2019re gonna apply to a bunch of others just to keep our options open."
+            ],
+            [
+                129,
+                "Raj, what\u2019s going on?"
+            ],
+            [
+                133,
+                "I\u2019m sure it\u2019s fine, but if you\u2019re worried, there\u2019s extra milk in the freezer."
+            ],
+            [
+                138,
+                "Stuart, don\u2019t you drink my milk."
+            ],
+            [
+                163,
+                "You guys got this? Do you need me to come home?"
+            ],
+            [
+                167,
+                "Yeah. I may have just left my infant daughter with Patrick and SpongeBob."
+            ],
+            [
+                171,
+                "Yeah, we\u2019re all dressed up. Why go home?"
+            ],
+            [
+                173,
+                "What\u2019s going on with you?"
+            ],
+            [
+                175,
+                "I\u2019m not sad. I just wanted to get drunk and not wear sweatpants."
+            ],
+            [
+                180,
+                "You\u2019re upset I had a baby?"
+            ],
+            [
+                184,
+                "You think that stuff is fun? Being a parent is terrifying. I\u2019m constantly worried, I\u2019m always tired, and in a few minutes I\u2019m gonna milk myself in a bookstore parking lot."
+            ],
+            [
+                189,
+                "You may not have a house yet, but your apartment\u2019s great."
+            ],
+            [
+                191,
+                "And Leonard loves you so much, he married you twice. "
+            ],
+            [
+                193,
+                "Careful. The sound of crying can make me lactate."
+            ],
+            [
+                196,
+                "And there they go."
+            ]
+        ],
+        "Amy": [
+            [
+                36,
+                "Well, he mentioned it in his mother\u2019s eulogy, so why not?"
+            ],
+            [
+                42,
+                "Is there anything we can do?"
+            ],
+            [
+                49,
+                "Oh. All this week, the Early Music Society of Pasadena is doing a joint concert with the San Gabriel Renaissance Choir."
+            ],
+            [
+                51,
+                "Good luck. People have been saying that for 600 years."
+            ],
+            [
+                53,
+                "Hey, you\u2019re home early."
+            ],
+            [
+                55,
+                "Wow. He finally used it. What\u2019d you do?"
+            ],
+            [
+                57,
+                "Well, I\u2019m really happy for you."
+            ],
+            [
+                59,
+                "I give up."
+            ],
+            [
+                61,
+                "No. I really give up."
+            ],
+            [
+                63,
+                "Can I pee now?"
+            ],
+            [
+                89,
+                "Well, the bra under here ain\u2019t beige."
+            ],
+            [
+                121,
+                "Hey, did you hear anything back from the Caltech preschool?"
+            ],
+            [
+                124,
+                "Nothing says fun like being scolded."
+            ],
+            [
+                158,
+                "Renaissance Choir\u2019s looking pretty good right now, huh?"
+            ],
+            [
+                168,
+                "Hey, there\u2019s another dance club nearby. I mean, I don\u2019t know how you feel about Latin music, but according to their horas of operaci\u00f3n, they\u2019re open."
+            ],
+            [
+                170,
+                "You sure? They\u2019re open till dos."
+            ],
+            [
+                176,
+                "I\u2019m not sad. I mean, hello."
+            ],
+            [
+                178,
+                "What are you sad about?"
+            ],
+            [
+                182,
+                "What feelings?"
+            ],
+            [
+                186,
+                "Come on. You\u2019ve got so much to feel good about. You\u2019ve got a great job now."
+            ],
+            [
+                188,
+                "You make more than I do."
+            ],
+            [
+                190,
+                "It\u2019s bigger than mine."
+            ],
+            [
+                192,
+                "I\u2019m not even engaged once. I don\u2019t even know if Sheldon thinks about marriage. I\u2019m not getting any younger. Honestly, I kind of thought by now, we might have had some sort of\u2026"
+            ],
+            [
+                194,
+                "I\u2019m sorry. I can\u2019t help it."
+            ],
+            [
+                224,
+                "It is warm in here."
+            ],
+            [
+                226,
+                "Me, too."
+            ],
+            [
+                231,
+                "I can get us there in two."
+            ]
+        ],
+        "Penny": [
+            [
+                37,
+                "I can\u2019t believe you have to fill out a preschool application for an infant."
+            ],
+            [
+                47,
+                "All right, you know what you need? A night away from all of this. You know, where you can just kind of relax and, I\u2019m just gonna turn this off. Much better. Seriously, let\u2019s plan a night, you know, give you a break. We could go dancing."
+            ],
+            [
+                50,
+                "Okay, that\u2019s the one to beat."
+            ],
+            [
+                88,
+                "All right. You guys ready to get crazy?"
+            ],
+            [
+                96,
+                "You know, if you pump at the bar, I promise we\u2019ll get free drinks."
+            ],
+            [
+                98,
+                "No. She\u2019s busy. You call Howard."
+            ],
+            [
+                123,
+                "Okay, stop that. No more preschool talk. Tonight is about having fun."
+            ],
+            [
+                139,
+                "Okay, give. Can you guys handle this or not?"
+            ],
+            [
+                157,
+                "Sorry, guys. This club was so great, how could they turn it into a bookstore? I thought we got rid of all those."
+            ],
+            [
+                166,
+                "Is everything okay?"
+            ],
+            [
+                169,
+                "Maybe we should just call it a night."
+            ],
+            [
+                172,
+                "I\u2019m just not really in the mood anymore."
+            ],
+            [
+                174,
+                "I don\u2019t know. This is all starting to feel like a sad attempt to recapture our youth."
+            ],
+            [
+                177,
+                "Okay, maybe I\u2019m the one who\u2019s sad."
+            ],
+            [
+                179,
+                "Maybe the fact that you went and had a baby. "
+            ],
+            [
+                181,
+                "No, of course not. I just, I didn\u2019t think it would make me have all these feelings."
+            ],
+            [
+                183,
+                "Pressure. I mean, she\u2019s looking at preschools, she has a minivan, she has a 401K. Before she talked about it, I just thought that was a race."
+            ],
+            [
+                185,
+                "I get that, okay? It\u2019s just, Leonard and I have been married for two years, and we\u2019re no further along than when we were dating."
+            ],
+            [
+                187,
+                "Yeah, I guess I am making decent money. "
+            ],
+            [
+                195,
+                "Oh, that\u2019s gonna make me cry."
+            ],
+            [
+                197,
+                "Ew."
+            ]
+        ],
+        "Raj": [
+            [
+                38,
+                "Uh, the one at Caltech has a crazy wait list. I warned you, a lot of people apply when they\u2019re still pregnant."
+            ],
+            [
+                40,
+                "Whoa. Just trying to help."
+            ],
+            [
+                44,
+                "No, no. I will take care of it."
+            ],
+            [
+                46,
+                "While I\u2019m gone, you can think about how mean you were to me."
+            ],
+            [
+                90,
+                "Okay. You ladies have fun tonight."
+            ],
+            [
+                92,
+                "Under the careful supervision of her godfather."
+            ],
+            [
+                94,
+                "Like I said, you ladies have fun."
+            ],
+            [
+                99,
+                "Got it."
+            ],
+            [
+                101,
+                "I would never call Howard."
+            ],
+            [
+                103,
+                "Yeah, great. Um, I\u2019ll put food in her top half, you deal with whatever comes out the bottom."
+            ],
+            [
+                126,
+                "Don\u2019t worry. Everything\u2019s fine."
+            ],
+            [
+                128,
+                "I don\u2019t need your help deciding when we need help!"
+            ],
+            [
+                130,
+                "Yes, so, I was just warming up some milk for Halley, and I thought it smelled a little funky, so I checked the date that you wrote on the bottle, and it says Flerbsday."
+            ],
+            [
+                132,
+                "How is that a T?"
+            ],
+            [
+                134,
+                "Okay, yes, I will err on the side of caution and defrost a fresh batch."
+            ],
+            [
+                136,
+                "Fine, you drink it."
+            ],
+            [
+                140,
+                "Oh, of course we can. Uh, you girls have a good time. She said I was in charge."
+            ],
+            [
+                142,
+                "What else are you gonna do with it? Put it in your coffee?"
+            ],
+            [
+                160,
+                "Nothing to worry about. She\u2019s just been crying for a little while, and I was wondering if you had any tricks to get her to sleep."
+            ],
+            [
+                162,
+                "She was blowing a spit bubble. It was adorable."
+            ],
+            [
+                165,
+                "Oh, okay, false alarm. Little parenting tip, sleeping babies hate flash photography."
+            ]
+        ],
+        "Col Williams": [
+            [
+                70,
+                "Gentlemen."
+            ],
+            [
+                72,
+                "Just wanted to see how the guidance system\u2019s coming along."
+            ],
+            [
+                75,
+                "Don\u2019t do that. What\u2019s this?"
+            ],
+            [
+                77,
+                "This is a different approach. Are you trying to get the guidance system even smaller?"
+            ],
+            [
+                79,
+                "Oh. I want this."
+            ],
+            [
+                81,
+                "So get the kid with the two shirts to do it."
+            ],
+            [
+                83,
+                "Yeah, I want this."
+            ],
+            [
+                85,
+                "You both make excellent points, and thank you for presenting it so articulately. Make this."
+            ]
+        ],
+        "Stuart": [
+            [
+                91,
+                "Don\u2019t worry about Halley. Uncle Stuart\u2019s on the job."
+            ],
+            [
+                93,
+                "My apologies. I didn\u2019t mean to offend you, Don Corleone."
+            ],
+            [
+                102,
+                "Okay, instead of arguing all night, let\u2019s just split up the baby chores."
+            ],
+            [
+                127,
+                "Hang up, we don\u2019t need help."
+            ],
+            [
+                131,
+                "It says Tuesday."
+            ],
+            [
+                135,
+                "You\u2019re wasting perfectly good milk."
+            ],
+            [
+                137,
+                "It\u2019s just milk."
+            ],
+            [
+                141,
+                "Hmm. So we just throw this away?"
+            ],
+            [
+                143,
+                "Well, I don\u2019t take it black."
+            ],
+            [
+                161,
+                "She was sleeping just fine till you took a selfie with her."
+            ],
+            [
+                164,
+                "Wait. She\u2019s settling down."
+            ]
+        ],
+        "Bernadette (phone rings)": [
+            [
+                125,
+                "Oh, it\u2019s Raj. Everything okay?"
+            ]
+        ],
+        "Bernadette (on phone)": [
+            [
+                159,
+                "Hello?"
+            ]
+        ],
+        "Sheldon (voice)": [
+            [
+                228,
+                "The light\u2019s green."
+            ]
+        ],
+        "Amy (now in her car)": [
+            [
+                229,
+                "Sorry."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The laboratory."
+        ],
+        [
+            "Howard",
+            "Okay, I\u2019m zeroing out the electro-osmotic flow rate in the micro-fluidic channel."
+        ],
+        [
+            "Leonard",
+            "Nicely done, Howard."
+        ],
+        [
+            "Howard",
+            "Well, my wife is four-foot-ten and sexually satisfied, so clearly I know my way around tiny things."
+        ],
+        [
+            "Leonard",
+            "Good for you, on the cutting edge of new technology and still making inappropriate comments about the mother of your child."
+        ],
+        [
+            "Howard",
+            "Those are just the things I say out loud."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, we need to stop immediately."
+        ],
+        [
+            "Howard",
+            "What\u2019s wrong?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m looking at the math, and I think we can make the device between eight and ten percent smaller."
+        ],
+        [
+            "Leonard",
+            "That\u2019s great, but the Air Force approved the specs. We\u2019re good to go."
+        ],
+        [
+            "Howard",
+            "Yeah. It doesn\u2019t need to be smaller. "
+        ],
+        [
+            "Sheldon",
+            "Shame on you. Where would we be if poodle breeders had that attitude? I\u2019ll tell you. We would have the standard and the miniature poodle, but no toy or teacup. Which by the way, is not an officially recognized breed, but that\u2019s just poodle politics."
+        ],
+        [
+            "Leonard",
+            "Can we please stop talking about poodles?"
+        ],
+        [
+            "Sheldon",
+            "Fine. Candy bars. Now, do you enjoy a fun size? I know you do."
+        ],
+        [
+            "Howard",
+            "Sheldon, we don\u2019t need to make this smaller, and your work is done. Go home."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t want to go home."
+        ],
+        [
+            "Leonard",
+            "Fine, go for a little walk."
+        ],
+        [
+            "Sheldon",
+            "Then what?"
+        ],
+        [
+            "Leonard",
+            "Just keep walking."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The laboratory."
+        ],
+        [
+            "Leonard",
+            "At least it\u2019s quiet when he takes bathroom breaks."
+        ],
+        [
+            "Howard",
+            "I know. That\u2019s why I keep refilling his water when he\u2019s not looking."
+        ],
+        [
+            "Leonard",
+            "You\u2019re kidding."
+        ],
+        [
+            "Howard",
+            "I don\u2019t care if we\u2019re in a drought, it\u2019s worth it."
+        ],
+        [
+            "Leonard",
+            "You know, I do have a way to get him out of our hair. I\u2019ve been holding onto this for a few years, but maybe now\u2019s the time."
+        ],
+        [
+            "Howard",
+            "We can just lock the door, you don\u2019t have to kill him."
+        ],
+        [
+            "Leonard",
+            "You can\u2019t kill him, he\u2019ll just respawn at the last save point."
+        ],
+        [
+            "Sheldon",
+            "Oh, that was my sixth trip to the bathroom. As long as that\u2019s not a urinary tract infection, that\u2019s a personal best."
+        ],
+        [
+            "Leonard",
+            "Hey, uh, buddy, I got you a little present."
+        ],
+        [
+            "Sheldon",
+            "Really?"
+        ],
+        [
+            "Leonard",
+            "Yeah. Go ahead, open it."
+        ],
+        [
+            "Sheldon",
+            "Congratulations. The bearer of this certificate is entitled to the ultimate train experience at The Nevada Northern Railway. You are at the throttle. You are the engineer. You are running the locomotive. This doesn\u2019t happen very often, but here comes a hug. Oh, dear, I have to tinkle again."
+        ],
+        [
+            "Leonard",
+            "Okay. Where were we?"
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Bernadette",
+            "For Howie\u2019s occupation, should I include that he was an astronaut?"
+        ],
+        [
+            "Amy",
+            "Well, he mentioned it in his mother\u2019s eulogy, so why not?"
+        ],
+        [
+            "Penny",
+            "I can\u2019t believe you have to fill out a preschool application for an infant."
+        ],
+        [
+            "Raj",
+            "Uh, the one at Caltech has a crazy wait list. I warned you, a lot of people apply when they\u2019re still pregnant."
+        ],
+        [
+            "Bernadette",
+            "Well, I didn\u2019t. I also skipped a birthing class to see Zootopia so back off."
+        ],
+        [
+            "Raj",
+            "Whoa. Just trying to help."
+        ],
+        [
+            "Bernadette",
+            "Sorry. Howie\u2019s back at work and there\u2019s just so much going on."
+        ],
+        [
+            "Amy",
+            "Is there anything we can do?"
+        ],
+        [
+            "Bernadette",
+            "Sure. Open up a college fund, shop for life insurance, and in the laundry room, there\u2019s a mountain of dirty laundry. Wash it or burn in, your choice. Ugh, be right back."
+        ],
+        [
+            "Raj",
+            "No, no. I will take care of it."
+        ],
+        [
+            "Bernadette",
+            "Oh, thank you."
+        ],
+        [
+            "Raj",
+            "While I\u2019m gone, you can think about how mean you were to me."
+        ],
+        [
+            "Penny",
+            "All right, you know what you need? A night away from all of this. You know, where you can just kind of relax and, I\u2019m just gonna turn this off. Much better. Seriously, let\u2019s plan a night, you know, give you a break. We could go dancing."
+        ],
+        [
+            "Bernadette",
+            "That sounds really nice."
+        ],
+        [
+            "Amy",
+            "Oh. All this week, the Early Music Society of Pasadena is doing a joint concert with the San Gabriel Renaissance Choir."
+        ],
+        [
+            "Penny",
+            "Okay, that\u2019s the one to beat."
+        ],
+        [
+            "Amy",
+            "Good luck. People have been saying that for 600 years."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "Hey, you\u2019re home early."
+        ],
+        [
+            "Sheldon",
+            "You\u2019ll never believe it. Leonard gave me the most incredible gift, a trip to a historic railway, and I get to operate an actual locomotive."
+        ],
+        [
+            "Amy",
+            "Wow. He finally used it. What\u2019d you do?"
+        ],
+        [
+            "Sheldon",
+            "No idea. All I know is I\u2019m gonna be working on the railroad all the livelong day."
+        ],
+        [
+            "Amy",
+            "Well, I\u2019m really happy for you."
+        ],
+        [
+            "Sheldon",
+            "Oh, no. It\u2019s not just me. No. The railway is four hours from the nearest airport, and guess who gets to drive me."
+        ],
+        [
+            "Amy",
+            "I give up."
+        ],
+        [
+            "Sheldon",
+            "You."
+        ],
+        [
+            "Amy",
+            "No. I really give up."
+        ],
+        [
+            "Sheldon",
+            "Oh, oh. And guess where we get to sleep? Our choice of a turn-of-the-century railway bunkhouse or a working caboose. Now, the problem with a caboose is there\u2019s no bathroom, but the problem with the bunkhouse is it\u2019s not a caboose. On the first day, I get to drive a steam engine. Oh, and the second day, a diesel engine. Oh, and if I volunteer to do track maintenance and paperwork, they\u2019ll let me stay as long as I want. So you might want to pack enough clothes for the rest of our lives."
+        ],
+        [
+            "Amy",
+            "Can I pee now?"
+        ],
+        [
+            "Sheldon",
+            "Oh, get this. I get to take a test based on a 125-page manual. I get to learn things like hand signals. Ooh. There\u2019s forward, uh, reverse, set the brakes. Are you done yet? You\u2019re missing"
+        ],
+        [
+            "Scene",
+            "some great stuff out here. Oh, this is good. There are dozens of railroad crossings you have to blow the whistle for. But that is the figurative you, not the literal you. I\u2019ll be blowing the whistle. Amy, get up. It\u2019s time to go to work."
+        ],
+        [
+            "Scene",
+            "The laboratory."
+        ],
+        [
+            "Leonard",
+            "This train thing worked out better than I thought. He\u2019s home studying the engineer\u2019s manual."
+        ],
+        [
+            "Howard",
+            "It\u2019s so peaceful without him here. Can I ask you how much that cost?"
+        ],
+        [
+            "Leonard",
+            "Four thousand dollars, worth every penny."
+        ],
+        [
+            "Col Williams",
+            "Gentlemen."
+        ],
+        [
+            "Leonard",
+            "Colonel Williams. Sir."
+        ],
+        [
+            "Col Williams",
+            "Just wanted to see how the guidance system\u2019s coming along."
+        ],
+        [
+            "Howard",
+            "Great. We found a cooling solution that allowed us to get the size of the prototype down to the target specs."
+        ],
+        [
+            "Leonard",
+            "As a cooling solution, it\u2019s pretty cool."
+        ],
+        [
+            "Col Williams",
+            "Don\u2019t do that. What\u2019s this?"
+        ],
+        [
+            "Leonard",
+            "Oh, nothing. Just some math we don\u2019t need."
+        ],
+        [
+            "Col Williams",
+            "This is a different approach. Are you trying to get the guidance system even smaller?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s just a theory. Uh, it\u2019s not even worked out."
+        ],
+        [
+            "Col Williams",
+            "Oh. I want this."
+        ],
+        [
+            "Howard",
+            "But we\u2019ve already met the agreed upon specs. Going smaller would require weeks\u2019 worth of new computations. "
+        ],
+        [
+            "Col Williams",
+            "So get the kid with the two shirts to do it."
+        ],
+        [
+            "Leonard",
+            "Sir, uh, if I may, uh, we\u2019ve put a lot of thought and effort into this current prototype. It\u2019s a really elegant solution, and most importantly, it works."
+        ],
+        [
+            "Col Williams",
+            "Yeah, I want this."
+        ],
+        [
+            "Howard",
+            "Okay, but that\u2019s just a theory. It\u2019s not even a complete thought."
+        ],
+        [
+            "Col Williams",
+            "You both make excellent points, and thank you for presenting it so articulately. Make this."
+        ],
+        [
+            "Howard",
+            "The kid with the two shirts screwed us again."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Penny",
+            "All right. You guys ready to get crazy?"
+        ],
+        [
+            "Amy",
+            "Well, the bra under here ain\u2019t beige."
+        ],
+        [
+            "Raj",
+            "Okay. You ladies have fun tonight."
+        ],
+        [
+            "Stuart",
+            "Don\u2019t worry about Halley. Uncle Stuart\u2019s on the job."
+        ],
+        [
+            "Raj",
+            "Under the careful supervision of her godfather."
+        ],
+        [
+            "Stuart",
+            "My apologies. I didn\u2019t mean to offend you, Don Corleone."
+        ],
+        [
+            "Raj",
+            "Like I said, you ladies have fun."
+        ],
+        [
+            "Bernadette",
+            "We will. Got my dancing shoes, got my breast pump. Let\u2019s party."
+        ],
+        [
+            "Penny",
+            "You know, if you pump at the bar, I promise we\u2019ll get free drinks."
+        ],
+        [
+            "Bernadette",
+            "Call if there\u2019s any problems."
+        ],
+        [
+            "Penny",
+            "No. She\u2019s busy. You call Howard."
+        ],
+        [
+            "Raj",
+            "Got it."
+        ],
+        [
+            "Bernadette",
+            "Call me. Don\u2019t call Howard."
+        ],
+        [
+            "Raj",
+            "I would never call Howard."
+        ],
+        [
+            "Stuart",
+            "Okay, instead of arguing all night, let\u2019s just split up the baby chores."
+        ],
+        [
+            "Raj",
+            "Yeah, great. Um, I\u2019ll put food in her top half, you deal with whatever comes out the bottom."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Howard",
+            "I can\u2019t believe we have to ask Sheldon to come back and help us."
+        ],
+        [
+            "Leonard",
+            "Oh, boo-hoo. I spent four grand on a gift that only got rid of him for an afternoon. What is that?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know, but if he yells It\u2019s alive, we run."
+        ],
+        [
+            "Sheldon",
+            "Oh, hey. If you knocked, I couldn\u2019t hear you. I\u2019m welding this locomotive engine. And if you didn\u2019t knock, how about some manners?"
+        ],
+        [
+            "Howard",
+            "How\u2019d you even get that up the stairs?"
+        ],
+        [
+            "Sheldon",
+            "I said to myself, I think I can, I think I can. And then I couldn\u2019t, so I paid two men who promised not to come rob us later."
+        ],
+        [
+            "Leonard",
+            "Okay, look, Sheldon, the Colonel wants us to make the guidance system smaller, and we can\u2019t do it without you."
+        ],
+        [
+            "Sheldon",
+            "Interesting. Well, so I was right."
+        ],
+        [
+            "Howard",
+            "Open a window. It\u2019s about to get smug in here."
+        ],
+        [
+            "Sheldon",
+            "Well, I would love to help you, but since I discovered the satisfaction of working with my hands on a train engine, I don\u2019t think I can go back to theory. I\u2019m an engineer now. And, hey, just to be clear, a train engineer. Not that goofy kind you are."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you can still go on the trip in a few weeks. Just help us out."
+        ],
+        [
+            "Sheldon",
+            "Sorry. I need to work on this engine so when I get to the train yard I won\u2019t look foolish."
+        ],
+        [
+            "Howard",
+            "He\u2019s worried about looking foolish. That\u2019s a heapin\u2019 helping of irony right there."
+        ],
+        [
+            "Leonard",
+            "Come on, you know you\u2019re not leaving physics. Why are you doing this?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, in the world of theoretical physics, you never finish. So much is unprovable. But when I was studying that railway guide, it was so tangible and so satisfying that something just clicked. Then it clacked. Then it clicked, then it clacked, click-clack clickety-clack, and here we are. Whoo-whoo."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car. "
+        ],
+        [
+            "Amy",
+            "Hey, did you hear anything back from the Caltech preschool?"
+        ],
+        [
+            "Bernadette",
+            "Not yet, but we\u2019re gonna apply to a bunch of others just to keep our options open."
+        ],
+        [
+            "Penny",
+            "Okay, stop that. No more preschool talk. Tonight is about having fun."
+        ],
+        [
+            "Amy",
+            "Nothing says fun like being scolded."
+        ],
+        [
+            "Bernadette (phone rings)",
+            "Oh, it\u2019s Raj. Everything okay?"
+        ],
+        [
+            "Raj",
+            "Don\u2019t worry. Everything\u2019s fine."
+        ],
+        [
+            "Stuart",
+            "Hang up, we don\u2019t need help."
+        ],
+        [
+            "Raj",
+            "I don\u2019t need your help deciding when we need help!"
+        ],
+        [
+            "Bernadette",
+            "Raj, what\u2019s going on?"
+        ],
+        [
+            "Raj",
+            "Yes, so, I was just warming up some milk for Halley, and I thought it smelled a little funky, so I checked the date that you wrote on the bottle, and it says Flerbsday."
+        ],
+        [
+            "Stuart",
+            "It says Tuesday."
+        ],
+        [
+            "Raj",
+            "How is that a T?"
+        ],
+        [
+            "Bernadette",
+            "I\u2019m sure it\u2019s fine, but if you\u2019re worried, there\u2019s extra milk in the freezer."
+        ],
+        [
+            "Raj",
+            "Okay, yes, I will err on the side of caution and defrost a fresh batch."
+        ],
+        [
+            "Stuart",
+            "You\u2019re wasting perfectly good milk."
+        ],
+        [
+            "Raj",
+            "Fine, you drink it."
+        ],
+        [
+            "Stuart",
+            "It\u2019s just milk."
+        ],
+        [
+            "Bernadette",
+            "Stuart, don\u2019t you drink my milk."
+        ],
+        [
+            "Penny",
+            "Okay, give. Can you guys handle this or not?"
+        ],
+        [
+            "Raj",
+            "Oh, of course we can. Uh, you girls have a good time. She said I was in charge."
+        ],
+        [
+            "Stuart",
+            "Hmm. So we just throw this away?"
+        ],
+        [
+            "Raj",
+            "What else are you gonna do with it? Put it in your coffee?"
+        ],
+        [
+            "Stuart",
+            "Well, I don\u2019t take it black."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Okay. This is everything he had on the board. I\u2019m sure we can figure the rest out."
+        ],
+        [
+            "Howard",
+            "All right. Hmm. Feel free to jump in. Hmm is all I got."
+        ],
+        [
+            "Leonard",
+            "Oh, we can get this. Is there any chance it\u2019s upside-down?"
+        ],
+        [
+            "Howard",
+            "Maybe we can find another theoretical physicist to help us."
+        ],
+        [
+            "Leonard",
+            "It\u2019s classified. If we tell anyone, we\u2019d get in trouble."
+        ],
+        [
+            "Howard",
+            "Hey, I came up with that and hmm. You haven\u2019t pitched anything."
+        ],
+        [
+            "Leonard",
+            "Just keep thinking. I got it."
+        ],
+        [
+            "Howard",
+            "You really figured it out?"
+        ],
+        [
+            "Leonard",
+            "No, but when we show this nonsense to Sheldon, it will make him crazy, and he\u2019ll have to fix it."
+        ],
+        [
+            "Howard",
+            "Oh, you\u2019re a genius."
+        ],
+        [
+            "Leonard",
+            "Yeah, I know. That\u2019s not even a math symbol. That\u2019s just Charlie Brown\u2019s hair."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car"
+        ],
+        [
+            "Penny",
+            "Sorry, guys. This club was so great, how could they turn it into a bookstore? I thought we got rid of all those."
+        ],
+        [
+            "Amy",
+            "Renaissance Choir\u2019s looking pretty good right now, huh?"
+        ],
+        [
+            "Bernadette (on phone)",
+            "Hello?"
+        ],
+        [
+            "Raj",
+            "Nothing to worry about. She\u2019s just been crying for a little while, and I was wondering if you had any tricks to get her to sleep."
+        ],
+        [
+            "Stuart",
+            "She was sleeping just fine till you took a selfie with her."
+        ],
+        [
+            "Raj",
+            "She was blowing a spit bubble. It was adorable."
+        ],
+        [
+            "Bernadette",
+            "You guys got this? Do you need me to come home?"
+        ],
+        [
+            "Stuart",
+            "Wait. She\u2019s settling down."
+        ],
+        [
+            "Raj",
+            "Oh, okay, false alarm. Little parenting tip, sleeping babies hate flash photography."
+        ],
+        [
+            "Penny",
+            "Is everything okay?"
+        ],
+        [
+            "Bernadette",
+            "Yeah. I may have just left my infant daughter with Patrick and SpongeBob."
+        ],
+        [
+            "Amy",
+            "Hey, there\u2019s another dance club nearby. I mean, I don\u2019t know how you feel about Latin music, but according to their horas of operaci\u00f3n, they\u2019re open."
+        ],
+        [
+            "Penny",
+            "Maybe we should just call it a night."
+        ],
+        [
+            "Amy",
+            "You sure? They\u2019re open till dos."
+        ],
+        [
+            "Bernadette",
+            "Yeah, we\u2019re all dressed up. Why go home?"
+        ],
+        [
+            "Penny",
+            "I\u2019m just not really in the mood anymore."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s going on with you?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know. This is all starting to feel like a sad attempt to recapture our youth."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m not sad. I just wanted to get drunk and not wear sweatpants."
+        ],
+        [
+            "Amy",
+            "I\u2019m not sad. I mean, hello."
+        ],
+        [
+            "Penny",
+            "Okay, maybe I\u2019m the one who\u2019s sad."
+        ],
+        [
+            "Amy",
+            "What are you sad about?"
+        ],
+        [
+            "Penny",
+            "Maybe the fact that you went and had a baby. "
+        ],
+        [
+            "Bernadette",
+            "You\u2019re upset I had a baby?"
+        ],
+        [
+            "Penny",
+            "No, of course not. I just, I didn\u2019t think it would make me have all these feelings."
+        ],
+        [
+            "Amy",
+            "What feelings?"
+        ],
+        [
+            "Penny",
+            "Pressure. I mean, she\u2019s looking at preschools, she has a minivan, she has a 401K. Before she talked about it, I just thought that was a race."
+        ],
+        [
+            "Bernadette",
+            "You think that stuff is fun? Being a parent is terrifying. I\u2019m constantly worried, I\u2019m always tired, and in a few minutes I\u2019m gonna milk myself in a bookstore parking lot."
+        ],
+        [
+            "Penny",
+            "I get that, okay? It\u2019s just, Leonard and I have been married for two years, and we\u2019re no further along than when we were dating."
+        ],
+        [
+            "Amy",
+            "Come on. You\u2019ve got so much to feel good about. You\u2019ve got a great job now."
+        ],
+        [
+            "Penny",
+            "Yeah, I guess I am making decent money. "
+        ],
+        [
+            "Amy",
+            "You make more than I do."
+        ],
+        [
+            "Bernadette",
+            "You may not have a house yet, but your apartment\u2019s great."
+        ],
+        [
+            "Amy",
+            "It\u2019s bigger than mine."
+        ],
+        [
+            "Bernadette",
+            "And Leonard loves you so much, he married you twice. "
+        ],
+        [
+            "Amy",
+            "I\u2019m not even engaged once. I don\u2019t even know if Sheldon thinks about marriage. I\u2019m not getting any younger. Honestly, I kind of thought by now, we might have had some sort of\u2026"
+        ],
+        [
+            "Bernadette",
+            "Careful. The sound of crying can make me lactate."
+        ],
+        [
+            "Amy",
+            "I\u2019m sorry. I can\u2019t help it."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s gonna make me cry."
+        ],
+        [
+            "Bernadette",
+            "And there they go."
+        ],
+        [
+            "Penny",
+            "Ew."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Leonard",
+            "Well, Sheldon, turns out we didn\u2019t need you after all."
+        ],
+        [
+            "Howard",
+            "That\u2019s right. We figured it out all by ourselves. Wasn\u2019t even that hard."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Well, good for you guys. Look, I have a grease smudge on my hand, and I\u2019m okay with it."
+        ],
+        [
+            "Leonard",
+            "Aren\u2019t you gonna look at the board to see how right we are?"
+        ],
+        [
+            "Sheldon",
+            "No, thanks. I\u2019m busy trying to fix this fuel pump."
+        ],
+        [
+            "Howard",
+            "It\u2019s a manifold."
+        ],
+        [
+            "Sheldon",
+            "Oh. Well, I guess it\u2019s fixed."
+        ],
+        [
+            "Leonard",
+            "Just look at the board."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s wrong."
+        ],
+        [
+            "Leonard",
+            "Oh, no, what should we have done differently?"
+        ],
+        [
+            "Sheldon",
+            "Well, first of all, you can\u2019t use relativistic and non-relativistic vectors in the same equation."
+        ],
+        [
+            "Howard",
+            "Told ya. Can you fix it for us?"
+        ],
+        [
+            "Sheldon",
+            "Okay, but this is the last time. Nice try, blockheads."
+        ],
+        [
+            "Leonard",
+            "Come on, Sheldon. You can\u2019t turn your back on physics, and besides, you have no idea what you\u2019re doing with this stuff."
+        ],
+        [
+            "Howard",
+            "But if you really want to learn the mechanical side, I can teach you anything you want to know."
+        ],
+        [
+            "Leonard",
+            "And instead of standing around watching, you can help us build your smaller guidance system."
+        ],
+        [
+            "Howard",
+            "And with all these new skills, you\u2019d be able to fix any model train. You\u2019d be the king of the train store."
+        ],
+        [
+            "Sheldon",
+            "Excuse me. I have a girlfriend. I\u2019m already king of the train store."
+        ],
+        [
+            "Leonard",
+            "So, what do you say?"
+        ],
+        [
+            "Sheldon",
+            "Oh, what choice do I have? You need me. I\u2019m like the crankshaft of this team."
+        ],
+        [
+            "Howard",
+            "That\u2019s a turbo."
+        ],
+        [
+            "Sheldon",
+            "Well, whatever it is, it looks heavy. I\u2019m gonna need you two to get it downstairs before Amy comes home."
+        ],
+        [
+            "Scene",
+            "The cab of a steam locomotive. "
+        ],
+        [
+            "Sheldon",
+            "I apologize that it\u2019s so warm in here."
+        ],
+        [
+            "Amy",
+            "It is warm in here."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve worked up a bit of a sweat."
+        ],
+        [
+            "Amy",
+            "Me, too."
+        ],
+        [
+            "Sheldon",
+            "May I borrow your water?"
+        ],
+        [
+            "Sheldon (voice)",
+            "The light\u2019s green."
+        ],
+        [
+            "Amy (now in her car)",
+            "Sorry."
+        ],
+        [
+            "Sheldon",
+            "GPS says we\u2019ll be at the railway in three hours."
+        ],
+        [
+            "Amy",
+            "I can get us there in two."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-15-the-locomotion-reverberation/"
+}

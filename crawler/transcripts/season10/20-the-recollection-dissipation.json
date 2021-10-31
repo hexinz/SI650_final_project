@@ -1,0 +1,2116 @@
+{
+    "Season": 10,
+    "Episode": 20,
+    "Title": "the recollection dissipation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                23,
+                "The guys laboratory."
+            ],
+            [
+                33,
+                "Amy\u2019s laboratory"
+            ],
+            [
+                37,
+                "The guys laboratory"
+            ],
+            [
+                43,
+                "\u2013"
+            ],
+            [
+                48,
+                "Amy\u2019s laboratory. "
+            ],
+            [
+                52,
+                "The guys laboratory. "
+            ],
+            [
+                55,
+                "Howard and Bernadette\u2019s kitchen. "
+            ],
+            [
+                79,
+                "The laundry room. "
+            ],
+            [
+                83,
+                "God bless you."
+            ],
+            [
+                95,
+                "Howard and Bernadette\u2019s kitchen. "
+            ],
+            [
+                113,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                122,
+                "The apartment. "
+            ],
+            [
+                134,
+                "The apartment. "
+            ],
+            [
+                149,
+                "Howard and Bernadette\u2019s kitchen. "
+            ],
+            [
+                167,
+                "The apartment. "
+            ],
+            [
+                191,
+                "Howard and Bernadette\u2019s kitchen. "
+            ],
+            [
+                217,
+                "A cowboy bar. "
+            ],
+            [
+                236,
+                "Flashback"
+            ],
+            [
+                243,
+                "End of flashback"
+            ],
+            [
+                247,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                259,
+                "* (I have been unable to find a proper transcription of the Mandarin lyrics. If anyone who speaks Mandarin is able to send me a full transcription, I will include the lyrics here.)"
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Hey, Leonard, if you\u2019re not busy tomorrow, I have to do a little reception after work."
+            ],
+            [
+                3,
+                "Oh, are you sure? We\u2019re celebrating our new ADD drug, and it\u2019ll probably be over in, like, six minutes."
+            ],
+            [
+                10,
+                "Hey, Raj, do you want to go with me tomorrow?"
+            ],
+            [
+                16,
+                "Uh-oh. Someone\u2019s got two dates to the nerd prom."
+            ],
+            [
+                80,
+                "Hey, since when do you do laundry on a Thursday?"
+            ],
+            [
+                82,
+                "You know, there was a time I would say what\u2019s a soup sack? But I\u2019m glad we\u2019re past that. (Sheldon sneezes) You know, there was a time I would say God bless you, and then you would say if you must invoke an imaginary deity, how about Thor? And I would say, how do you know I didn\u2019t mean Thor? And then you would say Touch\u00e9, and that there ends the tale of why I no longer say"
+            ],
+            [
+                85,
+                "Oh, yeah. So, Leonard tells me you\u2019ve had a busy day."
+            ],
+            [
+                87,
+                "Are you getting sick?"
+            ],
+            [
+                89,
+                "Well, you\u2019re pretty delicate. Maybe you shouldn\u2019t be pushing yourself so hard."
+            ],
+            [
+                91,
+                "All right. Well, we\u2019ll just pretend that you didn\u2019t catch a cold watching Frozen."
+            ],
+            [
+                93,
+                "You also got a nosebleed watching Up."
+            ],
+            [
+                127,
+                "It\u2019s nine o\u2019clock. "
+            ],
+            [
+                136,
+                "I don\u2019t know, check your body for tattoos?"
+            ],
+            [
+                142,
+                "Okay, it\u2019s just a notebook, what\u2019s the big deal?"
+            ],
+            [
+                146,
+                "Look, it\u2019s got to be around here somewhere."
+            ],
+            [
+                168,
+                "The notebook isn\u2019t in the bathroom."
+            ],
+            [
+                170,
+                "Well, people who are abducted by aliens lose time. I mean, maybe it happens to the aliens, too."
+            ],
+            [
+                182,
+                "Oh, that, that\u2019s so cool. How do you, how do you turn that thing off?"
+            ],
+            [
+                184,
+                "I don\u2019t even run there, I drive."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Oh, I would, but we need to make a push on the air force project."
+            ],
+            [
+                5,
+                "Yeah, why?"
+            ],
+            [
+                7,
+                "We\u2019ve had this planned for a week."
+            ],
+            [
+                18,
+                "I\u2019m sorry, what is this plan you have?"
+            ],
+            [
+                20,
+                "When does that start?"
+            ],
+            [
+                27,
+                "It\u2019s getting harder to pretend."
+            ],
+            [
+                39,
+                "It can\u2019t be four revolutions, it\u2019s got to be seven."
+            ],
+            [
+                41,
+                "Oh, my God, it\u2019s seven."
+            ],
+            [
+                44,
+                "Seven."
+            ],
+            [
+                53,
+                "I got to admit, we didn\u2019t think you\u2019d be able to do two things at once."
+            ],
+            [
+                125,
+                "I don\u2019t know, we came home from work and we found you."
+            ],
+            [
+                131,
+                "You did seem a little loopy when you showed up at the lab."
+            ],
+            [
+                138,
+                "She\u2019s kidding."
+            ],
+            [
+                144,
+                "How could you lose that?"
+            ],
+            [
+                171,
+                "Well, it\u2019s not across the hall."
+            ],
+            [
+                174,
+                "But, boy, it is funny to think about."
+            ],
+            [
+                183,
+                "Relax. I know when you go for a run, you stop for a donut."
+            ],
+            [
+                225,
+                "Ask him."
+            ],
+            [
+                232,
+                "You understood the math?"
+            ],
+            [
+                234,
+                "That\u2019s just great."
+            ]
+        ],
+        "Amy": [
+            [
+                4,
+                "Did you say you guys are working on the guidance system tomorrow?"
+            ],
+            [
+                6,
+                "Well, Sheldon said that he was gonna work with me on our quantum perception project."
+            ],
+            [
+                8,
+                "Well, he reconfirmed with me this morning."
+            ],
+            [
+                13,
+                "Why did you tell Leonard you\u2019re working on the gyroscope tomorrow?"
+            ],
+            [
+                15,
+                "But you said you were working with me."
+            ],
+            [
+                35,
+                "Sheldon, this is silly. You can\u2019t expect us to do quality work with you popping in and out like this."
+            ],
+            [
+                50,
+                "Incredible. Sheldon, I didn\u2019t expect that you could work on both projects, but I, I was wrong."
+            ],
+            [
+                114,
+                "Sheldon, you\u2019re sick, go back to bed."
+            ],
+            [
+                116,
+                "It\u2019s okay, now I don\u2019t need butter."
+            ],
+            [
+                118,
+                "You need sleep."
+            ],
+            [
+                120,
+                "Well, I don\u2019t want your germs around me."
+            ],
+            [
+                123,
+                "Sheldon, are you okay?"
+            ],
+            [
+                145,
+                "It\u2019s okay, I\u2019m sure we\u2019ll find it."
+            ],
+            [
+                147,
+                "Maybe it\u2019s wherever your pants are."
+            ],
+            [
+                169,
+                "I can\u2019t find it, either. How can he not remember a day?"
+            ],
+            [
+                175,
+                "You really can\u2019t remember anything?"
+            ],
+            [
+                180,
+                "Phones can do that?"
+            ],
+            [
+                249,
+                "You\u2019re welcome. How is it?"
+            ],
+            [
+                251,
+                "Do you need anything else?"
+            ],
+            [
+                253,
+                "Fine. Soft kitty, warm kitty, little ball of fur. Happy kitty, sleepy kitty, purr, purr, purr."
+            ],
+            [
+                255,
+                "\u00a0Weiches K\u00e4tzchen, warmes K\u00e4tzchen, das nie und nimmer murrt. Liebes K\u00e4tzchen, m\u00fcdes K\u00e4tzchen, schnurrt, schnurrt, schnurrt."
+            ],
+            [
+                257,
+                "Sings in Mandarin. *"
+            ]
+        ],
+        "Raj": [
+            [
+                9,
+                "Guys, before this gets ugly, remember, the winner gets Sheldon."
+            ],
+            [
+                11,
+                "Are you asking because you want me there or out of pity? Actually, never mind, don\u2019t answer. I\u2019d love to."
+            ],
+            [
+                22,
+                "Genius. I was gonna say, why does anyone think Sheldon\u2019s a genius? But I didn\u2019t."
+            ],
+            [
+                129,
+                "Wait, you don\u2019t remember?"
+            ],
+            [
+                133,
+                "I don\u2019t know where your pants are, but we did find your underwear in a pot on the stove."
+            ],
+            [
+                140,
+                "It\u2019s right here."
+            ],
+            [
+                148,
+                "Nope, pants in the microwave, no notebook."
+            ],
+            [
+                173,
+                "You\u2019re not going to prison."
+            ],
+            [
+                177,
+                "Wait a minute. Hey, let me see your phone."
+            ],
+            [
+                179,
+                "Well, it\u2019s, it\u2019s possible it was tracking everywhere you went."
+            ],
+            [
+                181,
+                "Yeah, it depends on the privacy settings."
+            ],
+            [
+                185,
+                "Hang on, I can see every place you went."
+            ],
+            [
+                187,
+                "Uh, you were in the building, you were at the university, then you were somewhere on Colorado Boulevard."
+            ],
+            [
+                189,
+                "Wait, hang on. Did you go to a cowboy bar?"
+            ],
+            [
+                218,
+                "Does this place look familiar?"
+            ],
+            [
+                227,
+                "These here parts?"
+            ],
+            [
+                245,
+                "Bye."
+            ]
+        ],
+        "Sheldon": [
+            [
+                12,
+                "Hello."
+            ],
+            [
+                14,
+                "Because I am."
+            ],
+            [
+                17,
+                "I have a plan to work on both projects simultaneously. And for your information, the summer conference on algebraic topology at Caltech is nerd prom."
+            ],
+            [
+                19,
+                "Well, I\u2019m not needed at both places at the same time. And I can also free up extra hours with simple tricks, such as using a minimal amount of words to convey my point."
+            ],
+            [
+                21,
+                "Soon. See, I could\u2019ve said in the near future, but I didn\u2019t say in the near future, because in the near future is three more words than soon. In, one, the, two, near, three, future, four. See, in the near future is four, soon is just one, four is more than one, saving time already."
+            ],
+            [
+                24,
+                "Gentlemen, I\u2019ve got Amy up and running. Shall we get to work?"
+            ],
+            [
+                26,
+                "These are hydration backpacks. For efficiency, whenever I\u2019m thirsty I have access to water. When I\u2019m hungry, I have lentil soup."
+            ],
+            [
+                29,
+                "Run down the pros and cons of each for me."
+            ],
+            [
+                31,
+                "Oh, sorry, uh, carrot chunk."
+            ],
+            [
+                34,
+                "Ah, I\u2019m back, you got me for eight minutes."
+            ],
+            [
+                36,
+                "The coefficient isn\u2019t lambda, it\u2019s lambda sub one. And over here, you should consider the possibility that the brain itself is in two different quantum states. And lastly, do you have any little soup crackers?"
+            ],
+            [
+                45,
+                "It\u2019s five and a half."
+            ],
+            [
+                47,
+                "BRB. That\u2019s short for be right back. I\u2019m saving so much time."
+            ],
+            [
+                49,
+                "The two signals meet up in the corpus callosum and T equals zero. And I know a boy who just earned a slurp of soup."
+            ],
+            [
+                51,
+                "You know, I felt the same way about the spork. Uh, solids and liquids handled by one utensil? That\u2019ll never work. Spoiler, works."
+            ],
+            [
+                54,
+                "Yeah, I felt the same way about the platypus. You know, bird and mammal in the same creature? No way. And spoiler, way."
+            ],
+            [
+                81,
+                "Oh, I had an accident at work, I slipped and fell on my soup sack."
+            ],
+            [
+                84,
+                "Well, we have had some fun, haven\u2019t we?"
+            ],
+            [
+                86,
+                "Hmm? Oh, I did. It hasn\u2019t stopped. I figured out a solution for our navigation system while I was pre-soaking lentils out of my pants."
+            ],
+            [
+                88,
+                "Of course not. I\u2019m too busy to be sick."
+            ],
+            [
+                90,
+                "I\u2019m fine."
+            ],
+            [
+                92,
+                "That didn\u2019t happen."
+            ],
+            [
+                94,
+                "Just do your laundry."
+            ],
+            [
+                115,
+                "I am fine. Here, eat your toast. (Sneezes) Sorry."
+            ],
+            [
+                117,
+                "Well, perhaps I am a little under the weather. It\u2019s nothing a little cold medicine and tea can\u2019t fix."
+            ],
+            [
+                119,
+                "What I need is to get to work."
+            ],
+            [
+                121,
+                "What? You hold my hand, you kiss my mouth, but you draw the line at a hundred and two fever? What happened to our love?"
+            ],
+            [
+                124,
+                "What\u2019s going on? How\u2019d I get here?"
+            ],
+            [
+                126,
+                "Home from work? What time is it?"
+            ],
+            [
+                128,
+                "Nine o\u2019clock? What happened to eight and seven and all the other o\u2019clocks?"
+            ],
+            [
+                130,
+                "Well, I remember waking up in the morning, Amy rubbing Vicks on my chest. And her hands were like two frozen chunks of tundra. I took some cold medicine to\u2026 I took cold medicine."
+            ],
+            [
+                132,
+                "At, at the lab? Why am I naked from the waist down?"
+            ],
+            [
+                135,
+                "My pants are missing, I don\u2019t remember anything. Penny, this is your youth. What do I do?"
+            ],
+            [
+                137,
+                "Leonard, would you be a lamb?"
+            ],
+            [
+                139,
+                "Wait, wait. Where\u2019s my bag? My phone and my wallet are in my bag."
+            ],
+            [
+                141,
+                "Where\u2019s my notebook? My notebook\u2019s gone. Oh, no. "
+            ],
+            [
+                143,
+                "What\u2019s the big deal? It\u2019s full of classified information about the air force project."
+            ],
+            [
+                172,
+                "That\u2019s it. I\u2019m in breach of my security clearance. I\u2019m going to prison. And you know what happens to people like me in prison. I\u2019ll be forced to be some large man\u2019s tutor."
+            ],
+            [
+                176,
+                "I\u2019m trying."
+            ],
+            [
+                178,
+                "Why?"
+            ],
+            [
+                186,
+                "What does it say?"
+            ],
+            [
+                188,
+                "Where?"
+            ],
+            [
+                190,
+                "I, no, that is preposterous. Maybe."
+            ],
+            [
+                219,
+                "It\u2019s hard to say."
+            ],
+            [
+                222,
+                "It\u2019s getting clearer."
+            ],
+            [
+                224,
+                "Uh, no, thank you. We now know why MasterCard sent me a fraud alert."
+            ],
+            [
+                226,
+                "Um, yes. Howdy, partner. Do you happen to recollect if I left a notebook in these here parts?"
+            ],
+            [
+                228,
+                "It\u2019s called fitting in. By the way, good luck."
+            ],
+            [
+                230,
+                "Oh, thank goodness."
+            ],
+            [
+                237,
+                "I swear."
+            ],
+            [
+                239,
+                "Not to tell anyone."
+            ],
+            [
+                241,
+                "The top secret military information I\u2019m about to tell you."
+            ],
+            [
+                244,
+                "We really need to skedaddle. Thank you."
+            ],
+            [
+                248,
+                "Thank you for making me tea."
+            ],
+            [
+                250,
+                "Yummy. And warm on my back."
+            ],
+            [
+                252,
+                "You know exactly what I need."
+            ],
+            [
+                254,
+                "That\u2019s nice. Now in German."
+            ],
+            [
+                256,
+                "Great. Now Mandarin."
+            ],
+            [
+                258,
+                "Now Navajo."
+            ]
+        ],
+        "Howard": [
+            [
+                25,
+                "Uh, before we do, what are you wearing, oh, friend who we pretend is normal?"
+            ],
+            [
+                28,
+                "Anyway, Sheldon, we\u2019re at a decision point to run the xenon stream through the cryo-cooler or through the vacuum filter."
+            ],
+            [
+                30,
+                "Well, if we run the xenon stream through the cryo-cooler, it\u2019ll be cooled immediately before it reacts with the conduction."
+            ],
+            [
+                32,
+                "You can just feel the time being saved."
+            ],
+            [
+                38,
+                "The rate of spinning for the central axis centrifuge has to be four revolutions per second."
+            ],
+            [
+                40,
+                "Seven? Look at the board, it\u2019s four."
+            ],
+            [
+                42,
+                "Four."
+            ],
+            [
+                46,
+                "Son of a bitch, it\u2019s five and a half."
+            ],
+            [
+                98,
+                "Hey, what\u2019s for dinner?"
+            ],
+            [
+                100,
+                "Oh, cool."
+            ],
+            [
+                102,
+                "Oh, cool. Hey, I was thinking maybe we take Halley to the zoo this weekend, get in a little family time before you go back to work."
+            ],
+            [
+                104,
+                "Speaking of which, for day care, it\u2019ll be easy for me to drop her off, unless you want to do it."
+            ],
+            [
+                107,
+                "You okay?"
+            ],
+            [
+                109,
+                "Well, I don\u2019t know, you seem a little upset."
+            ],
+            [
+                111,
+                "You sure?"
+            ],
+            [
+                150,
+                "Hey."
+            ],
+            [
+                152,
+                "Look, something\u2019s going on with Bernadette. She say anything to you?"
+            ],
+            [
+                154,
+                "Come on, be honest. Did you tell her I tried her breast pump?"
+            ],
+            [
+                156,
+                "Well, I know she\u2019s mad at me about something."
+            ],
+            [
+                158,
+                "Oh, gosh, how much time do you have?"
+            ],
+            [
+                160,
+                "Hmm, let\u2019s see. Mm. Okay, here we go, six years ago, I got a call that Bernie\u2019s great-aunt, Trixie, died. "
+            ],
+            [
+                162,
+                "And I forgot to give her the message."
+            ],
+            [
+                164,
+                "The terrible part is, ever since then, I\u2019ve been sending Bernie Christmas cards from Trixie."
+            ],
+            [
+                166,
+                "Let me finish, and one card had five dollars in it I took from Bernie\u2019s purse."
+            ],
+            [
+                192,
+                "Hey, how\u2019s it going?"
+            ],
+            [
+                194,
+                "Good. Love you."
+            ],
+            [
+                196,
+                "Love you more. "
+            ],
+            [
+                198,
+                "Sure, sorry. "
+            ],
+            [
+                200,
+                "No, no, nothing. Okay, well, maybe I\u2019m just feeling like something\u2019s bothering you."
+            ],
+            [
+                202,
+                "Prove it, make love to me right now on the kitchen floor."
+            ],
+            [
+                204,
+                "Aha, you are upset. I don\u2019t know a lot about women, but I know I upset them."
+            ],
+            [
+                206,
+                "It doesn\u2019t?"
+            ],
+            [
+                208,
+                "Oh. Okay, well, I get that. It was hard for me when I went back."
+            ],
+            [
+                210,
+                "Of course. I missed you and the baby and being able to watch Ellen every day."
+            ],
+            [
+                212,
+                "Look, I don\u2019t know what the best decision is, either. But whatever we choose, if we\u2019re not happy, we can undo it."
+            ],
+            [
+                214,
+                "And the best part is Halley won\u2019t remember a thing. Babies are cute, but they\u2019re dumb. I mean, I go like this, she thinks I\u2019m gone, then magically I\u2019m back. I mean honestly, why are we saving for college?"
+            ],
+            [
+                216,
+                "Well, she gets it from me. Speaking of which, I have some news about your Aunt Trixie."
+            ]
+        ],
+        "Stuart": [
+            [
+                56,
+                "Hey."
+            ],
+            [
+                58,
+                "Oh, thanks again for letting me use your laptop last night."
+            ],
+            [
+                60,
+                "Was just doing my taxes."
+            ],
+            [
+                62,
+                "Actually, if I could, if I could just check one more\u2026"
+            ],
+            [
+                64,
+                "You\u2019re a good woman. What you working on?"
+            ],
+            [
+                66,
+                "Oh, that\u2019s right, maternity leave\u2019s almost over. Ah, you excited?"
+            ],
+            [
+                68,
+                "That\u2019s great, good for you."
+            ],
+            [
+                70,
+                "Ah, of course she is."
+            ],
+            [
+                72,
+                "It is. I went to check it out, and they are very cautious about letting strange men with no kids peek in the windows."
+            ],
+            [
+                74,
+                "Uh, other than burp you or give you a bottle, I don\u2019t know what to do right now."
+            ],
+            [
+                76,
+                "Well, don\u2019t you think it\u2019d be healthier if you told him what\u2019s going on with you?"
+            ],
+            [
+                78,
+                "Your secret is safe with me."
+            ],
+            [
+                97,
+                "Yeah, well, I felt bad about upsetting you this morning. And to be honest, I\u2019m not the biggest fan of your meatloaf."
+            ],
+            [
+                106,
+                "I can\u2019t do it. They have a picture of me on file now."
+            ],
+            [
+                112,
+                "Why don\u2019t you think she\u2019s fine? She sounds fine, she looks fine. If I saw her on the street I\u2019d say, damn, that girl\u2019s fine."
+            ],
+            [
+                151,
+                "Ah, hello."
+            ],
+            [
+                153,
+                "Well, nope, not a word."
+            ],
+            [
+                155,
+                "No, but I did mention it to my therapist."
+            ],
+            [
+                157,
+                "Well, what have you done that would upset her?"
+            ],
+            [
+                159,
+                "Well, why don\u2019t you just start with the worst thing?"
+            ],
+            [
+                161,
+                "And?"
+            ],
+            [
+                163,
+                "That\u2019s terrible."
+            ],
+            [
+                165,
+                "Oh Howard."
+            ]
+        ],
+        "Bernadette": [
+            [
+                57,
+                "Hey."
+            ],
+            [
+                59,
+                "No problem."
+            ],
+            [
+                61,
+                "Okay."
+            ],
+            [
+                63,
+                "Already cleared the browser history."
+            ],
+            [
+                65,
+                "Trying to catch up on office e-mails before I go back."
+            ],
+            [
+                67,
+                "Yeah, I mean, I\u2019ll miss Halley, but it\u2019ll be nice to get out of the house, be intellectually stimulated. Go out to lunch instead of, you know, be lunch."
+            ],
+            [
+                69,
+                "Yeah, I mean, with you and my parents, she\u2019s gonna be fine."
+            ],
+            [
+                71,
+                "And that day care is great."
+            ],
+            [
+                73,
+                "Plus, I, I think I\u2019m setting a good example for Halley, to show her that women can be mothers and still have satisfying careers. Sure, she won\u2019t know where I went or if I\u2019m ever coming back. That\u2019ll just make the ten minutes between when I get home and her bedtime even more special."
+            ],
+            [
+                75,
+                "It\u2019s okay, I\u2019m just being emotional about this. Can you not tell Howard?"
+            ],
+            [
+                77,
+                "Don\u2019t you think it\u2019d be healthier if you had your own apartment, grown man?"
+            ],
+            [
+                96,
+                "Stuart, you didn\u2019t have to make dinner."
+            ],
+            [
+                99,
+                "Meatloaf."
+            ],
+            [
+                101,
+                "Stuart made it."
+            ],
+            [
+                103,
+                "Sounds great."
+            ],
+            [
+                105,
+                "Hmm, guess it should be me."
+            ],
+            [
+                108,
+                "Of course, why?"
+            ],
+            [
+                110,
+                "No, I\u2019m fine."
+            ],
+            [
+                193,
+                "Fine."
+            ],
+            [
+                195,
+                "Love you, too."
+            ],
+            [
+                197,
+                "Okay, you won. Can I finish what I\u2019m doing?"
+            ],
+            [
+                199,
+                "Something on your mind?"
+            ],
+            [
+                201,
+                "Nope, all good."
+            ],
+            [
+                203,
+                "No, what is wrong with you?"
+            ],
+            [
+                205,
+                "Howard, I\u2019m sorry if I\u2019m being weird, but it has nothing to do with you."
+            ],
+            [
+                207,
+                "No. I didn\u2019t want to tell you, but I\u2019m having a really tough time about going back to work."
+            ],
+            [
+                209,
+                "It was?"
+            ],
+            [
+                211,
+                "I just don\u2019t know what the right thing to do is. If I go back to work, I\u2019m abandoning Halley. If I don\u2019t go, I\u2019m giving up everything I worked for. It\u2019s like there\u2019s no right choice."
+            ],
+            [
+                213,
+                "I guess."
+            ],
+            [
+                215,
+                "I\u2019m not crazy about you calling our baby dumb."
+            ]
+        ],
+        "Barman": [
+            [
+                220,
+                "Hey, Sheldon\u2019s back."
+            ],
+            [
+                223,
+                "You gonna buy another round for the house?"
+            ],
+            [
+                229,
+                "Here you go."
+            ],
+            [
+                231,
+                "One top secret quantum guidance system."
+            ],
+            [
+                233,
+                "No, but Sheldon told me all about it. He told everybody."
+            ],
+            [
+                235,
+                "Oh, don\u2019t worry, he made us pinky swear we\u2019d keep it a secret."
+            ],
+            [
+                246,
+                "See you. Should probably erase this."
+            ]
+        ],
+        "Bar patrons": [
+            [
+                221,
+                "Sheldon!"
+            ]
+        ],
+        "Everyone: I swear": [
+            [
+                238,
+                " "
+            ]
+        ],
+        "Everyone": [
+            [
+                240,
+                "Not to tell anyone."
+            ],
+            [
+                242,
+                "The top secret military information I\u2019m about to tell you."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Hey, Leonard, if you\u2019re not busy tomorrow, I have to do a little reception after work."
+        ],
+        [
+            "Leonard",
+            "Oh, I would, but we need to make a push on the air force project."
+        ],
+        [
+            "Penny",
+            "Oh, are you sure? We\u2019re celebrating our new ADD drug, and it\u2019ll probably be over in, like, six minutes."
+        ],
+        [
+            "Amy",
+            "Did you say you guys are working on the guidance system tomorrow?"
+        ],
+        [
+            "Leonard",
+            "Yeah, why?"
+        ],
+        [
+            "Amy",
+            "Well, Sheldon said that he was gonna work with me on our quantum perception project."
+        ],
+        [
+            "Leonard",
+            "We\u2019ve had this planned for a week."
+        ],
+        [
+            "Amy",
+            "Well, he reconfirmed with me this morning."
+        ],
+        [
+            "Raj",
+            "Guys, before this gets ugly, remember, the winner gets Sheldon."
+        ],
+        [
+            "Penny",
+            "Hey, Raj, do you want to go with me tomorrow?"
+        ],
+        [
+            "Raj",
+            "Are you asking because you want me there or out of pity? Actually, never mind, don\u2019t answer. I\u2019d love to."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Amy",
+            "Why did you tell Leonard you\u2019re working on the gyroscope tomorrow?"
+        ],
+        [
+            "Sheldon",
+            "Because I am."
+        ],
+        [
+            "Amy",
+            "But you said you were working with me."
+        ],
+        [
+            "Penny",
+            "Uh-oh. Someone\u2019s got two dates to the nerd prom."
+        ],
+        [
+            "Sheldon",
+            "I have a plan to work on both projects simultaneously. And for your information, the summer conference on algebraic topology at Caltech is nerd prom."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, what is this plan you have?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m not needed at both places at the same time. And I can also free up extra hours with simple tricks, such as using a minimal amount of words to convey my point."
+        ],
+        [
+            "Leonard",
+            "When does that start?"
+        ],
+        [
+            "Sheldon",
+            "Soon. See, I could\u2019ve said in the near future, but I didn\u2019t say in the near future, because in the near future is three more words than soon. In, one, the, two, near, three, future, four. See, in the near future is four, soon is just one, four is more than one, saving time already."
+        ],
+        [
+            "Raj",
+            "Genius. I was gonna say, why does anyone think Sheldon\u2019s a genius? But I didn\u2019t."
+        ],
+        [
+            "Scene",
+            "The guys laboratory."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, I\u2019ve got Amy up and running. Shall we get to work?"
+        ],
+        [
+            "Howard",
+            "Uh, before we do, what are you wearing, oh, friend who we pretend is normal?"
+        ],
+        [
+            "Sheldon",
+            "These are hydration backpacks. For efficiency, whenever I\u2019m thirsty I have access to water. When I\u2019m hungry, I have lentil soup."
+        ],
+        [
+            "Leonard",
+            "It\u2019s getting harder to pretend."
+        ],
+        [
+            "Howard",
+            "Anyway, Sheldon, we\u2019re at a decision point to run the xenon stream through the cryo-cooler or through the vacuum filter."
+        ],
+        [
+            "Sheldon",
+            "Run down the pros and cons of each for me."
+        ],
+        [
+            "Howard",
+            "Well, if we run the xenon stream through the cryo-cooler, it\u2019ll be cooled immediately before it reacts with the conduction."
+        ],
+        [
+            "Sheldon",
+            "Oh, sorry, uh, carrot chunk."
+        ],
+        [
+            "Howard",
+            "You can just feel the time being saved."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s laboratory"
+        ],
+        [
+            "Sheldon",
+            "Ah, I\u2019m back, you got me for eight minutes."
+        ],
+        [
+            "Amy",
+            "Sheldon, this is silly. You can\u2019t expect us to do quality work with you popping in and out like this."
+        ],
+        [
+            "Sheldon",
+            "The coefficient isn\u2019t lambda, it\u2019s lambda sub one. And over here, you should consider the possibility that the brain itself is in two different quantum states. And lastly, do you have any little soup crackers?"
+        ],
+        [
+            "Scene",
+            "The guys laboratory"
+        ],
+        [
+            "Howard",
+            "The rate of spinning for the central axis centrifuge has to be four revolutions per second."
+        ],
+        [
+            "Leonard",
+            "It can\u2019t be four revolutions, it\u2019s got to be seven."
+        ],
+        [
+            "Howard",
+            "Seven? Look at the board, it\u2019s four."
+        ],
+        [
+            "Leonard",
+            "Oh, my God, it\u2019s seven."
+        ],
+        [
+            "Howard",
+            "Four."
+        ],
+        [
+            "Scene",
+            "\u2013"
+        ],
+        [
+            "Leonard",
+            "Seven."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s five and a half."
+        ],
+        [
+            "Howard",
+            "Son of a bitch, it\u2019s five and a half."
+        ],
+        [
+            "Sheldon",
+            "BRB. That\u2019s short for be right back. I\u2019m saving so much time."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s laboratory. "
+        ],
+        [
+            "Sheldon",
+            "The two signals meet up in the corpus callosum and T equals zero. And I know a boy who just earned a slurp of soup."
+        ],
+        [
+            "Amy",
+            "Incredible. Sheldon, I didn\u2019t expect that you could work on both projects, but I, I was wrong."
+        ],
+        [
+            "Sheldon",
+            "You know, I felt the same way about the spork. Uh, solids and liquids handled by one utensil? That\u2019ll never work. Spoiler, works."
+        ],
+        [
+            "Scene",
+            "The guys laboratory. "
+        ],
+        [
+            "Leonard",
+            "I got to admit, we didn\u2019t think you\u2019d be able to do two things at once."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I felt the same way about the platypus. You know, bird and mammal in the same creature? No way. And spoiler, way."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen. "
+        ],
+        [
+            "Stuart",
+            "Hey."
+        ],
+        [
+            "Bernadette",
+            "Hey."
+        ],
+        [
+            "Stuart",
+            "Oh, thanks again for letting me use your laptop last night."
+        ],
+        [
+            "Bernadette",
+            "No problem."
+        ],
+        [
+            "Stuart",
+            "Was just doing my taxes."
+        ],
+        [
+            "Bernadette",
+            "Okay."
+        ],
+        [
+            "Stuart",
+            "Actually, if I could, if I could just check one more\u2026"
+        ],
+        [
+            "Bernadette",
+            "Already cleared the browser history."
+        ],
+        [
+            "Stuart",
+            "You\u2019re a good woman. What you working on?"
+        ],
+        [
+            "Bernadette",
+            "Trying to catch up on office e-mails before I go back."
+        ],
+        [
+            "Stuart",
+            "Oh, that\u2019s right, maternity leave\u2019s almost over. Ah, you excited?"
+        ],
+        [
+            "Bernadette",
+            "Yeah, I mean, I\u2019ll miss Halley, but it\u2019ll be nice to get out of the house, be intellectually stimulated. Go out to lunch instead of, you know, be lunch."
+        ],
+        [
+            "Stuart",
+            "That\u2019s great, good for you."
+        ],
+        [
+            "Bernadette",
+            "Yeah, I mean, with you and my parents, she\u2019s gonna be fine."
+        ],
+        [
+            "Stuart",
+            "Ah, of course she is."
+        ],
+        [
+            "Bernadette",
+            "And that day care is great."
+        ],
+        [
+            "Stuart",
+            "It is. I went to check it out, and they are very cautious about letting strange men with no kids peek in the windows."
+        ],
+        [
+            "Bernadette",
+            "Plus, I, I think I\u2019m setting a good example for Halley, to show her that women can be mothers and still have satisfying careers. Sure, she won\u2019t know where I went or if I\u2019m ever coming back. That\u2019ll just make the ten minutes between when I get home and her bedtime even more special."
+        ],
+        [
+            "Stuart",
+            "Uh, other than burp you or give you a bottle, I don\u2019t know what to do right now."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s okay, I\u2019m just being emotional about this. Can you not tell Howard?"
+        ],
+        [
+            "Stuart",
+            "Well, don\u2019t you think it\u2019d be healthier if you told him what\u2019s going on with you?"
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t you think it\u2019d be healthier if you had your own apartment, grown man?"
+        ],
+        [
+            "Stuart",
+            "Your secret is safe with me."
+        ],
+        [
+            "Scene",
+            "The laundry room. "
+        ],
+        [
+            "Penny",
+            "Hey, since when do you do laundry on a Thursday?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I had an accident at work, I slipped and fell on my soup sack."
+        ],
+        [
+            "Penny",
+            "You know, there was a time I would say what\u2019s a soup sack? But I\u2019m glad we\u2019re past that. (Sheldon sneezes) You know, there was a time I would say God bless you, and then you would say if you must invoke an imaginary deity, how about Thor? And I would say, how do you know I didn\u2019t mean Thor? And then you would say Touch\u00e9, and that there ends the tale of why I no longer say"
+        ],
+        [
+            "Scene",
+            "God bless you."
+        ],
+        [
+            "Sheldon",
+            "Well, we have had some fun, haven\u2019t we?"
+        ],
+        [
+            "Penny",
+            "Oh, yeah. So, Leonard tells me you\u2019ve had a busy day."
+        ],
+        [
+            "Sheldon",
+            "Hmm? Oh, I did. It hasn\u2019t stopped. I figured out a solution for our navigation system while I was pre-soaking lentils out of my pants."
+        ],
+        [
+            "Penny",
+            "Are you getting sick?"
+        ],
+        [
+            "Sheldon",
+            "Of course not. I\u2019m too busy to be sick."
+        ],
+        [
+            "Penny",
+            "Well, you\u2019re pretty delicate. Maybe you shouldn\u2019t be pushing yourself so hard."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m fine."
+        ],
+        [
+            "Penny",
+            "All right. Well, we\u2019ll just pretend that you didn\u2019t catch a cold watching Frozen."
+        ],
+        [
+            "Sheldon",
+            "That didn\u2019t happen."
+        ],
+        [
+            "Penny",
+            "You also got a nosebleed watching Up."
+        ],
+        [
+            "Sheldon",
+            "Just do your laundry."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen. "
+        ],
+        [
+            "Bernadette",
+            "Stuart, you didn\u2019t have to make dinner."
+        ],
+        [
+            "Stuart",
+            "Yeah, well, I felt bad about upsetting you this morning. And to be honest, I\u2019m not the biggest fan of your meatloaf."
+        ],
+        [
+            "Howard",
+            "Hey, what\u2019s for dinner?"
+        ],
+        [
+            "Bernadette",
+            "Meatloaf."
+        ],
+        [
+            "Howard",
+            "Oh, cool."
+        ],
+        [
+            "Bernadette",
+            "Stuart made it."
+        ],
+        [
+            "Howard",
+            "Oh, cool. Hey, I was thinking maybe we take Halley to the zoo this weekend, get in a little family time before you go back to work."
+        ],
+        [
+            "Bernadette",
+            "Sounds great."
+        ],
+        [
+            "Howard",
+            "Speaking of which, for day care, it\u2019ll be easy for me to drop her off, unless you want to do it."
+        ],
+        [
+            "Bernadette",
+            "Hmm, guess it should be me."
+        ],
+        [
+            "Stuart",
+            "I can\u2019t do it. They have a picture of me on file now."
+        ],
+        [
+            "Howard",
+            "You okay?"
+        ],
+        [
+            "Bernadette",
+            "Of course, why?"
+        ],
+        [
+            "Howard",
+            "Well, I don\u2019t know, you seem a little upset."
+        ],
+        [
+            "Bernadette",
+            "No, I\u2019m fine."
+        ],
+        [
+            "Howard",
+            "You sure?"
+        ],
+        [
+            "Stuart",
+            "Why don\u2019t you think she\u2019s fine? She sounds fine, she looks fine. If I saw her on the street I\u2019d say, damn, that girl\u2019s fine."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "Sheldon, you\u2019re sick, go back to bed."
+        ],
+        [
+            "Sheldon",
+            "I am fine. Here, eat your toast. (Sneezes) Sorry."
+        ],
+        [
+            "Amy",
+            "It\u2019s okay, now I don\u2019t need butter."
+        ],
+        [
+            "Sheldon",
+            "Well, perhaps I am a little under the weather. It\u2019s nothing a little cold medicine and tea can\u2019t fix."
+        ],
+        [
+            "Amy",
+            "You need sleep."
+        ],
+        [
+            "Sheldon",
+            "What I need is to get to work."
+        ],
+        [
+            "Amy",
+            "Well, I don\u2019t want your germs around me."
+        ],
+        [
+            "Sheldon",
+            "What? You hold my hand, you kiss my mouth, but you draw the line at a hundred and two fever? What happened to our love?"
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Amy",
+            "Sheldon, are you okay?"
+        ],
+        [
+            "Sheldon",
+            "What\u2019s going on? How\u2019d I get here?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know, we came home from work and we found you."
+        ],
+        [
+            "Sheldon",
+            "Home from work? What time is it?"
+        ],
+        [
+            "Penny",
+            "It\u2019s nine o\u2019clock. "
+        ],
+        [
+            "Sheldon",
+            "Nine o\u2019clock? What happened to eight and seven and all the other o\u2019clocks?"
+        ],
+        [
+            "Raj",
+            "Wait, you don\u2019t remember?"
+        ],
+        [
+            "Sheldon",
+            "Well, I remember waking up in the morning, Amy rubbing Vicks on my chest. And her hands were like two frozen chunks of tundra. I took some cold medicine to\u2026 I took cold medicine."
+        ],
+        [
+            "Leonard",
+            "You did seem a little loopy when you showed up at the lab."
+        ],
+        [
+            "Sheldon",
+            "At, at the lab? Why am I naked from the waist down?"
+        ],
+        [
+            "Raj",
+            "I don\u2019t know where your pants are, but we did find your underwear in a pot on the stove."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "My pants are missing, I don\u2019t remember anything. Penny, this is your youth. What do I do?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know, check your body for tattoos?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, would you be a lamb?"
+        ],
+        [
+            "Leonard",
+            "She\u2019s kidding."
+        ],
+        [
+            "Sheldon",
+            "Wait, wait. Where\u2019s my bag? My phone and my wallet are in my bag."
+        ],
+        [
+            "Raj",
+            "It\u2019s right here."
+        ],
+        [
+            "Sheldon",
+            "Where\u2019s my notebook? My notebook\u2019s gone. Oh, no. "
+        ],
+        [
+            "Penny",
+            "Okay, it\u2019s just a notebook, what\u2019s the big deal?"
+        ],
+        [
+            "Sheldon",
+            "What\u2019s the big deal? It\u2019s full of classified information about the air force project."
+        ],
+        [
+            "Leonard",
+            "How could you lose that?"
+        ],
+        [
+            "Amy",
+            "It\u2019s okay, I\u2019m sure we\u2019ll find it."
+        ],
+        [
+            "Penny",
+            "Look, it\u2019s got to be around here somewhere."
+        ],
+        [
+            "Amy",
+            "Maybe it\u2019s wherever your pants are."
+        ],
+        [
+            "Raj",
+            "Nope, pants in the microwave, no notebook."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen. "
+        ],
+        [
+            "Howard",
+            "Hey."
+        ],
+        [
+            "Stuart",
+            "Ah, hello."
+        ],
+        [
+            "Howard",
+            "Look, something\u2019s going on with Bernadette. She say anything to you?"
+        ],
+        [
+            "Stuart",
+            "Well, nope, not a word."
+        ],
+        [
+            "Howard",
+            "Come on, be honest. Did you tell her I tried her breast pump?"
+        ],
+        [
+            "Stuart",
+            "No, but I did mention it to my therapist."
+        ],
+        [
+            "Howard",
+            "Well, I know she\u2019s mad at me about something."
+        ],
+        [
+            "Stuart",
+            "Well, what have you done that would upset her?"
+        ],
+        [
+            "Howard",
+            "Oh, gosh, how much time do you have?"
+        ],
+        [
+            "Stuart",
+            "Well, why don\u2019t you just start with the worst thing?"
+        ],
+        [
+            "Howard",
+            "Hmm, let\u2019s see. Mm. Okay, here we go, six years ago, I got a call that Bernie\u2019s great-aunt, Trixie, died. "
+        ],
+        [
+            "Stuart",
+            "And?"
+        ],
+        [
+            "Howard",
+            "And I forgot to give her the message."
+        ],
+        [
+            "Stuart",
+            "That\u2019s terrible."
+        ],
+        [
+            "Howard",
+            "The terrible part is, ever since then, I\u2019ve been sending Bernie Christmas cards from Trixie."
+        ],
+        [
+            "Stuart",
+            "Oh Howard."
+        ],
+        [
+            "Howard",
+            "Let me finish, and one card had five dollars in it I took from Bernie\u2019s purse."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "The notebook isn\u2019t in the bathroom."
+        ],
+        [
+            "Amy",
+            "I can\u2019t find it, either. How can he not remember a day?"
+        ],
+        [
+            "Penny",
+            "Well, people who are abducted by aliens lose time. I mean, maybe it happens to the aliens, too."
+        ],
+        [
+            "Leonard",
+            "Well, it\u2019s not across the hall."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s it. I\u2019m in breach of my security clearance. I\u2019m going to prison. And you know what happens to people like me in prison. I\u2019ll be forced to be some large man\u2019s tutor."
+        ],
+        [
+            "Raj",
+            "You\u2019re not going to prison."
+        ],
+        [
+            "Leonard",
+            "But, boy, it is funny to think about."
+        ],
+        [
+            "Amy",
+            "You really can\u2019t remember anything?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m trying."
+        ],
+        [
+            "Raj",
+            "Wait a minute. Hey, let me see your phone."
+        ],
+        [
+            "Sheldon",
+            "Why?"
+        ],
+        [
+            "Raj",
+            "Well, it\u2019s, it\u2019s possible it was tracking everywhere you went."
+        ],
+        [
+            "Amy",
+            "Phones can do that?"
+        ],
+        [
+            "Raj",
+            "Yeah, it depends on the privacy settings."
+        ],
+        [
+            "Penny",
+            "Oh, that, that\u2019s so cool. How do you, how do you turn that thing off?"
+        ],
+        [
+            "Leonard",
+            "Relax. I know when you go for a run, you stop for a donut."
+        ],
+        [
+            "Penny",
+            "I don\u2019t even run there, I drive."
+        ],
+        [
+            "Raj",
+            "Hang on, I can see every place you went."
+        ],
+        [
+            "Sheldon",
+            "What does it say?"
+        ],
+        [
+            "Raj",
+            "Uh, you were in the building, you were at the university, then you were somewhere on Colorado Boulevard."
+        ],
+        [
+            "Sheldon",
+            "Where?"
+        ],
+        [
+            "Raj",
+            "Wait, hang on. Did you go to a cowboy bar?"
+        ],
+        [
+            "Sheldon",
+            "I, no, that is preposterous. Maybe."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen. "
+        ],
+        [
+            "Howard",
+            "Hey, how\u2019s it going?"
+        ],
+        [
+            "Bernadette",
+            "Fine."
+        ],
+        [
+            "Howard",
+            "Good. Love you."
+        ],
+        [
+            "Bernadette",
+            "Love you, too."
+        ],
+        [
+            "Howard",
+            "Love you more. "
+        ],
+        [
+            "Bernadette",
+            "Okay, you won. Can I finish what I\u2019m doing?"
+        ],
+        [
+            "Howard",
+            "Sure, sorry. "
+        ],
+        [
+            "Bernadette",
+            "Something on your mind?"
+        ],
+        [
+            "Howard",
+            "No, no, nothing. Okay, well, maybe I\u2019m just feeling like something\u2019s bothering you."
+        ],
+        [
+            "Bernadette",
+            "Nope, all good."
+        ],
+        [
+            "Howard",
+            "Prove it, make love to me right now on the kitchen floor."
+        ],
+        [
+            "Bernadette",
+            "No, what is wrong with you?"
+        ],
+        [
+            "Howard",
+            "Aha, you are upset. I don\u2019t know a lot about women, but I know I upset them."
+        ],
+        [
+            "Bernadette",
+            "Howard, I\u2019m sorry if I\u2019m being weird, but it has nothing to do with you."
+        ],
+        [
+            "Howard",
+            "It doesn\u2019t?"
+        ],
+        [
+            "Bernadette",
+            "No. I didn\u2019t want to tell you, but I\u2019m having a really tough time about going back to work."
+        ],
+        [
+            "Howard",
+            "Oh. Okay, well, I get that. It was hard for me when I went back."
+        ],
+        [
+            "Bernadette",
+            "It was?"
+        ],
+        [
+            "Howard",
+            "Of course. I missed you and the baby and being able to watch Ellen every day."
+        ],
+        [
+            "Bernadette",
+            "I just don\u2019t know what the right thing to do is. If I go back to work, I\u2019m abandoning Halley. If I don\u2019t go, I\u2019m giving up everything I worked for. It\u2019s like there\u2019s no right choice."
+        ],
+        [
+            "Howard",
+            "Look, I don\u2019t know what the best decision is, either. But whatever we choose, if we\u2019re not happy, we can undo it."
+        ],
+        [
+            "Bernadette",
+            "I guess."
+        ],
+        [
+            "Howard",
+            "And the best part is Halley won\u2019t remember a thing. Babies are cute, but they\u2019re dumb. I mean, I go like this, she thinks I\u2019m gone, then magically I\u2019m back. I mean honestly, why are we saving for college?"
+        ],
+        [
+            "Bernadette",
+            "I\u2019m not crazy about you calling our baby dumb."
+        ],
+        [
+            "Howard",
+            "Well, she gets it from me. Speaking of which, I have some news about your Aunt Trixie."
+        ],
+        [
+            "Scene",
+            "A cowboy bar. "
+        ],
+        [
+            "Raj",
+            "Does this place look familiar?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s hard to say."
+        ],
+        [
+            "Barman",
+            "Hey, Sheldon\u2019s back."
+        ],
+        [
+            "Bar patrons",
+            "Sheldon!"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s getting clearer."
+        ],
+        [
+            "Barman",
+            "You gonna buy another round for the house?"
+        ],
+        [
+            "Sheldon",
+            "Uh, no, thank you. We now know why MasterCard sent me a fraud alert."
+        ],
+        [
+            "Leonard",
+            "Ask him."
+        ],
+        [
+            "Sheldon",
+            "Um, yes. Howdy, partner. Do you happen to recollect if I left a notebook in these here parts?"
+        ],
+        [
+            "Raj",
+            "These here parts?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s called fitting in. By the way, good luck."
+        ],
+        [
+            "Barman",
+            "Here you go."
+        ],
+        [
+            "Sheldon",
+            "Oh, thank goodness."
+        ],
+        [
+            "Barman",
+            "One top secret quantum guidance system."
+        ],
+        [
+            "Leonard",
+            "You understood the math?"
+        ],
+        [
+            "Barman",
+            "No, but Sheldon told me all about it. He told everybody."
+        ],
+        [
+            "Leonard",
+            "That\u2019s just great."
+        ],
+        [
+            "Barman",
+            "Oh, don\u2019t worry, he made us pinky swear we\u2019d keep it a secret."
+        ],
+        [
+            "Scene",
+            "Flashback"
+        ],
+        [
+            "Sheldon",
+            "I swear."
+        ],
+        [
+            "Everyone: I swear",
+            " "
+        ],
+        [
+            "Sheldon",
+            "Not to tell anyone."
+        ],
+        [
+            "Everyone",
+            "Not to tell anyone."
+        ],
+        [
+            "Sheldon",
+            "The top secret military information I\u2019m about to tell you."
+        ],
+        [
+            "Everyone",
+            "The top secret military information I\u2019m about to tell you."
+        ],
+        [
+            "Scene",
+            "End of flashback"
+        ],
+        [
+            "Sheldon",
+            "We really need to skedaddle. Thank you."
+        ],
+        [
+            "Raj",
+            "Bye."
+        ],
+        [
+            "Barman",
+            "See you. Should probably erase this."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Sheldon",
+            "Thank you for making me tea."
+        ],
+        [
+            "Amy",
+            "You\u2019re welcome. How is it?"
+        ],
+        [
+            "Sheldon",
+            "Yummy. And warm on my back."
+        ],
+        [
+            "Amy",
+            "Do you need anything else?"
+        ],
+        [
+            "Sheldon",
+            "You know exactly what I need."
+        ],
+        [
+            "Amy",
+            "Fine. Soft kitty, warm kitty, little ball of fur. Happy kitty, sleepy kitty, purr, purr, purr."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s nice. Now in German."
+        ],
+        [
+            "Amy",
+            "\u00a0Weiches K\u00e4tzchen, warmes K\u00e4tzchen, das nie und nimmer murrt. Liebes K\u00e4tzchen, m\u00fcdes K\u00e4tzchen, schnurrt, schnurrt, schnurrt."
+        ],
+        [
+            "Sheldon",
+            "Great. Now Mandarin."
+        ],
+        [
+            "Amy",
+            "Sings in Mandarin. *"
+        ],
+        [
+            "Sheldon",
+            "Now Navajo."
+        ],
+        [
+            "Scene",
+            "* (I have been unable to find a proper transcription of the Mandarin lyrics. If anyone who speaks Mandarin is able to send me a full transcription, I will include the lyrics here.)"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-20-the-recollection-dissipation/"
+}

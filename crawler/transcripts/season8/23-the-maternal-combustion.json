@@ -1,0 +1,1726 @@
+{
+    "Season": 8,
+    "Episode": 23,
+    "Title": "the maternal combustion",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                17,
+                "Credits sequence."
+            ],
+            [
+                18,
+                "The apartment."
+            ],
+            [
+                30,
+                "The stairwell."
+            ],
+            [
+                62,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                67,
+                "The apartment. "
+            ],
+            [
+                88,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                99,
+                "The apartment. "
+            ],
+            [
+                149,
+                "Howard and Bernadette\u2019s house. "
+            ],
+            [
+                160,
+                "A coffee shop."
+            ],
+            [
+                171,
+                "The apartment. "
+            ],
+            [
+                186,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                192,
+                "The apartment."
+            ],
+            [
+                208,
+                "Howard and Bernadette\u2019s house. "
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Leonard, what time does your mom\u2019s plane get in?"
+            ],
+            [
+                3,
+                "Don\u2019t you want to know for sure?"
+            ],
+            [
+                7,
+                "Aw, it\u2019s so nice. She\u2019s gonna love it."
+            ],
+            [
+                11,
+                "You know, your mom\u2019s never been too thrilled with our relationship. Maybe I should get her something so she warms up to me."
+            ],
+            [
+                13,
+                "Really? It didn\u2019t work for you."
+            ],
+            [
+                105,
+                "Hey, sorry, got caught up at work. Hi, Beverly."
+            ],
+            [
+                107,
+                "Sorry, I forgot."
+            ],
+            [
+                109,
+                "Oh, yes. Hi, Mary."
+            ],
+            [
+                111,
+                "Ah, yeah, now that\u2019s what I\u2019m talking about."
+            ],
+            [
+                113,
+                "Oh, yeah, let me show you the ring."
+            ],
+            [
+                121,
+                "Really doesn\u2019t matter to me how much he spent on the ring. I think."
+            ],
+            [
+                129,
+                "We\u2019re not in a rush. We\u2019ll set a date when the time is right."
+            ],
+            [
+                136,
+                "Hey, look at that. You both believe in Jewish bearded guys."
+            ],
+            [
+                138,
+                "Mm-hmm."
+            ],
+            [
+                146,
+                "Why don\u2019t we all stop hitting ourselves and talk about something safe, you know, like shoes or how cute little Chinese babies are."
+            ],
+            [
+                174,
+                "Yeah, and you certainly don\u2019t have to earn my love."
+            ],
+            [
+                176,
+                "Of course, you already knew that when you bought me this princess-cut drill bit."
+            ],
+            [
+                178,
+                "I know, I know. Zzzzzzzz."
+            ],
+            [
+                180,
+                "Well, come on now, she did kind of start it."
+            ],
+            [
+                183,
+                "Yeah, me, too."
+            ],
+            [
+                204,
+                "It\u2019s okay, go ahead."
+            ],
+            [
+                207,
+                "Oh, my God."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "I don\u2019t know, some time tomorrow morning."
+            ],
+            [
+                4,
+                "No need to. As soon as she flies into California airspace, I\u2019ll feel a disturbance in the Force."
+            ],
+            [
+                12,
+                "If you could run out and get a PhD, that might make her like you."
+            ],
+            [
+                15,
+                "Uh, I don\u2019t know. They\u2019re pretty different."
+            ],
+            [
+                32,
+                "No, we\u2019re kind of taking it slow."
+            ],
+            [
+                34,
+                "What does that mean?"
+            ],
+            [
+                36,
+                "Yes, Mother."
+            ],
+            [
+                38,
+                "I change my answer. It, it\u2019s amazing. It\u2019s hot. We can barely keep our hands off each other."
+            ],
+            [
+                40,
+                "See, this right here, what you\u2019re doing, can you please not do that around Sheldon\u2019s mom?"
+            ],
+            [
+                42,
+                "Of course not. She\u2019s, she\u2019s just a very sweet and God-fearing lady, and you have to be respectful of her beliefs."
+            ],
+            [
+                44,
+                "Thank you."
+            ],
+            [
+                46,
+                "East Texas."
+            ],
+            [
+                48,
+                "Hey, look who\u2019s here."
+            ],
+            [
+                52,
+                "We just spent two hours in traffic. Did you think to mention to me that you liked our paper?"
+            ],
+            [
+                54,
+                "That\u2019s so sweet, you think I have self-esteem."
+            ],
+            [
+                61,
+                "Subtle, mom, real subtle."
+            ],
+            [
+                73,
+                "You mean, my hypothesis. I hypothesized it all by myself."
+            ],
+            [
+                86,
+                "You still are. Uh, Mom, hey, tell Mary the story about how I made a Van der Graaf generator out of our vacuum cleaner."
+            ],
+            [
+                112,
+                "So, Mom, you haven\u2019t seen Penny since we got engaged."
+            ],
+            [
+                116,
+                "We did not. That\u2019s not true. Can I speak to you alone for a second?"
+            ],
+            [
+                118,
+                "It came from Tiffany\u2019s."
+            ],
+            [
+                120,
+                "Keep walking."
+            ],
+            [
+                123,
+                "Yes, and we\u2019ll get back to that. But, uh, even with your mother here, you are deliberately hogging all the attention from my mom. You\u2019re like one of those elephant seal pups that steals the milk from two mothers."
+            ],
+            [
+                125,
+                "Yes, you are a super weaner."
+            ],
+            [
+                127,
+                "Yeah, you\u2019re right. That is the term I\u2019m looking for. You are a dirty double mother suckler."
+            ],
+            [
+                148,
+                "Oh, don\u2019t flatter yourself. She likes everybody better than she likes me."
+            ],
+            [
+                172,
+                "Not once did my mother ever give me any love or affection for just being myself, I always had to earn it."
+            ],
+            [
+                175,
+                "Thank you."
+            ],
+            [
+                177,
+                "That\u2019s not what it is."
+            ],
+            [
+                182,
+                "Oh, me."
+            ],
+            [
+                185,
+                "I don\u2019t really feel I deserve it."
+            ],
+            [
+                196,
+                "Okay, Mom, let\u2019s get you back to your hotel before anyone says anything else."
+            ],
+            [
+                198,
+                "Oh, really? That\u2019s too bad."
+            ],
+            [
+                202,
+                "Wow. When does that start?"
+            ],
+            [
+                206,
+                "Oh, my mother."
+            ]
+        ],
+        "Amy": [
+            [
+                5,
+                "It\u2019s so nice both of your moms are coming in to see you guys get an award."
+            ],
+            [
+                8,
+                "Sure, his mom gets roses. When I want them, they\u2019re a bouquet of severed plant genitals."
+            ],
+            [
+                10,
+                "He\u2019s right. Roses die, but a moist rotting log will pump out mushrooms for two or three magical years."
+            ],
+            [
+                14,
+                "Do you think the moms will get along?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "Well, my mother\u2019s been there for every honour I\u2019ve won since I beat out my twin sister for the did it on the potty trophy. How does this look?"
+            ],
+            [
+                9,
+                "You act like I didn\u2019t get you that mushroom log on Valentine\u2019s Day."
+            ],
+            [
+                16,
+                "Maybe they\u2019ll be best friends. One of them is brilliant, one is sweet and simple. Sound familiar?"
+            ],
+            [
+                20,
+                "Oh, thank you, Mother."
+            ],
+            [
+                22,
+                "Oh, it\u2019s quite straightforward, actually. It describes a new model of the universe that conceptualizes it as the surface of an n-dimensional superfluid."
+            ],
+            [
+                24,
+                "What did they feed the lions, Mother?"
+            ],
+            [
+                26,
+                "Listen, Leonard\u2019s mom is a renowned psychiatrist and woman of science. Can you please keep the Bible babble to yourself while she\u2019s here?"
+            ],
+            [
+                28,
+                "Of course not. I love you. I\u2019m just embarrassed by the things you believe, do and say."
+            ],
+            [
+                49,
+                "Oh, Doctor Hofstadter, it\u2019s so good to see you again."
+            ],
+            [
+                51,
+                "Oh, thank you."
+            ],
+            [
+                55,
+                "Doctor Hofstadter, I want you to meet my mother, Mary."
+            ],
+            [
+                72,
+                "Beverly, would you like to see the math I worked out to support our hypothesis?"
+            ],
+            [
+                75,
+                "Ooh, good question. Everyone loves stories about Sheldon Cooper, boy genius."
+            ],
+            [
+                77,
+                "Ooh, this is a good one."
+            ],
+            [
+                79,
+                "Tell her about the uranium. Tell her about the uranium."
+            ],
+            [
+                81,
+                "But I wasn\u2019t. \u2018Cause I didn\u2019t have any friends."
+            ],
+            [
+                85,
+                "I was a handful."
+            ],
+            [
+                100,
+                "Oh, and here\u2019s a picture of me receiving my bachelor of science degree."
+            ],
+            [
+                102,
+                "Well, I had just begun puberty. It was figuratively and literally one of the hairiest moments of my life."
+            ],
+            [
+                104,
+                "Oh, true. But all the clenching in the world will not keep testicles in your abdomen."
+            ],
+            [
+                108,
+                "You remember my mother."
+            ],
+            [
+                115,
+                "Oh, no, not at all. No, we, uh, found a place online that, uh, repurposes diamond drill bits."
+            ],
+            [
+                117,
+                "Oh, sure."
+            ],
+            [
+                119,
+                "You mean the box, right?"
+            ],
+            [
+                122,
+                "Did I misspeak about the ring?"
+            ],
+            [
+                124,
+                "Do you mean what marine biologists refer to as super weaning?"
+            ],
+            [
+                126,
+                "Well, now I have to correct you. As a bit of an elephant seal buff, the more accurate comparison would be when two mother seals actively seek to nourish the same pup. So I believe the term you\u2019re looking for is a double mother suckler."
+            ],
+            [
+                128,
+                "Okay, well, now that we have the terminology straightened out. How dare you."
+            ],
+            [
+                147,
+                "It is not my fault that your mother likes me better than she likes you."
+            ],
+            [
+                162,
+                "Oh, it\u2019s all right. She\u2019ll forgive you. She has to or she goes to hell."
+            ],
+            [
+                164,
+                "Well, you doled out affection as a reward for achievement, a proven way to raise a child. Or train a rat."
+            ],
+            [
+                166,
+                "I\u2019d feign modesty at this point, but who would believe me? Still, you need to consider how successful Leonard\u2019s brother and sister are."
+            ],
+            [
+                168,
+                "While my brother and sister are mouth-breathing idiots."
+            ],
+            [
+                170,
+                "Perhaps. But my mom made me spaghetti with chopped-up hot dogs whenever I wanted, so who cares?"
+            ],
+            [
+                200,
+                "I taught her that."
+            ]
+        ],
+        "Mrs Cooper": [
+            [
+                19,
+                "Shelly, I\u2019m so proud of you and Leonard for getting this award."
+            ],
+            [
+                21,
+                "I tried to read your paper, but it was very hard for me to understand."
+            ],
+            [
+                23,
+                "Interesting. You can believe that, but God filling an ark with animals two-by-two is nonsense."
+            ],
+            [
+                25,
+                "The floating bodies of drowned sinners, of course."
+            ],
+            [
+                27,
+                "Are you ashamed of me?"
+            ],
+            [
+                29,
+                "Well, I love you, too. My little bowl of lion chow."
+            ],
+            [
+                57,
+                "Nice to meet you, too. How was your flight?"
+            ],
+            [
+                59,
+                "Lovely. Almost as if someone, not saying who, was watching over the plane."
+            ],
+            [
+                68,
+                "You must be very proud of your son."
+            ],
+            [
+                70,
+                "He did?"
+            ],
+            [
+                76,
+                "Well, I would have to say when he was 13 and tried to build a nuclear reactor in the tool shed."
+            ],
+            [
+                78,
+                "Now, the first thing you have to know about Shelly is ever since he was a little boy, he was always concerned with the well-being of others. And he didn\u2019t think that it was fair for people to pay for electricity, so he was gonna power the entire town for free."
+            ],
+            [
+                80,
+                "Oh, well. Oh, this is adorable. When he arranged to get some yellowcake from Chad, I thought he was talking about Twinkies from one of his friends."
+            ],
+            [
+                82,
+                "No. It turns out that this little scallywag was trying to use my Visa card to buy uranium from an African warlord in the country of Chad."
+            ],
+            [
+                84,
+                "Oh, he was a handful."
+            ],
+            [
+                103,
+                "Shelly does not like change."
+            ],
+            [
+                110,
+                "Good to see you again, dear."
+            ],
+            [
+                130,
+                "It doesn\u2019t matter, sweetie. The moment a man lays with a woman, they are married in the eyes of the Lord."
+            ],
+            [
+                132,
+                "Uch? The bible is uch to you?"
+            ],
+            [
+                134,
+                "You want to talk about superstitions? Sheldon sent me the books you wrote, all that nonsense about superegos and ids. What bull dropped that on the barn floor?"
+            ],
+            [
+                137,
+                "Stay out of this."
+            ],
+            [
+                139,
+                "At least the bearded man that I believe in preaches love and compassion. All yours talks about is why you hold in your poop and want to crawl back inside your mama."
+            ],
+            [
+                141,
+                "I know the answer. You\u2019re not gonna like it."
+            ],
+            [
+                143,
+                "When I was pregnant with Shelly, I was driving to church, and I was praying to the Lord to give me a son smarter than his dumb-ass daddy. And I looked over and I saw a Jesus bobblehead in the Subaru next to me nodding yes. What is that supposed to mean?"
+            ],
+            [
+                145,
+                "Well, do it some more. Maybe you can knock some sense into yourself."
+            ],
+            [
+                173,
+                "Oh, Leonard, I\u2019m sure she loves you very much. In her own cold godless way."
+            ],
+            [
+                179,
+                "When your mom gets back, I\u2019m gonna need to apologize for the way I spoke to her."
+            ],
+            [
+                181,
+                "Doesn\u2019t matter, a good Christian would\u2019ve turned the other cheek. On the other hand, a good Texan would\u2019ve shot her, so, I just kind of split the difference. Hey, who\u2019s in the mood for spaghetti and hot dogs?"
+            ],
+            [
+                184,
+                "Coming up."
+            ],
+            [
+                193,
+                "I\u2019m so glad that you and I were able to bury the hatchet."
+            ],
+            [
+                195,
+                "And I will pray for you."
+            ]
+        ],
+        "Dr Hofstadter": [
+            [
+                31,
+                "So, have you and Penny set a wedding date?"
+            ],
+            [
+                33,
+                "I see."
+            ],
+            [
+                35,
+                "You\u2019ve been on and off with this woman for seven years and engaged for one year. One has to wonder if there\u2019s a problem. Are you having satisfactory intercourse?"
+            ],
+            [
+                37,
+                "Only satisfactory. I see."
+            ],
+            [
+                39,
+                "Seems odd to try and impress your mother with your sexual prowess. But then, you always did have that unresolved Oedipal complex."
+            ],
+            [
+                41,
+                "Why? Are you attracted to her, too?"
+            ],
+            [
+                43,
+                "Leonard, I\u2019m an adult. I know how to conduct myself around people from different walks of life."
+            ],
+            [
+                45,
+                "Where is she from again?"
+            ],
+            [
+                47,
+                "Ugh."
+            ],
+            [
+                50,
+                "Likewise. I read your paper, it was very impressive."
+            ],
+            [
+                53,
+                "Of course I did, but it\u2019s a mother\u2019s job to make sure her child\u2019s self-esteem is not dependent on anyone\u2019s approval."
+            ],
+            [
+                58,
+                "Very pleasant. And yours?"
+            ],
+            [
+                60,
+                "You\u2019re kidding, right?"
+            ],
+            [
+                69,
+                "Oh, yes. He recently argued a case before the Supreme Court."
+            ],
+            [
+                71,
+                "Oh, you mean this son. Uh, sure, he\u2019s terrific."
+            ],
+            [
+                74,
+                "Calm down, dear. Mary, I\u2019m curious. When did you first realize that your son had such a remarkable mind?"
+            ],
+            [
+                83,
+                "Sounds like Sheldon was a handful."
+            ],
+            [
+                87,
+                "All right. He broke the vacuum cleaner."
+            ],
+            [
+                101,
+                "You don\u2019t look very happy."
+            ],
+            [
+                106,
+                "Hello. Oh, okay."
+            ],
+            [
+                114,
+                "Oh, lovely. Must have been very expensive."
+            ],
+            [
+                131,
+                "Uch."
+            ],
+            [
+                133,
+                "No, I\u2019m sorry. That was inappropriate. As a psychiatrist, I know how important people\u2019s superstitions can be to them."
+            ],
+            [
+                135,
+                "His name is Sigmund Freud."
+            ],
+            [
+                140,
+                "It\u2019s fascinating. How can someone as enlightened as Sheldon come from someone like you?"
+            ],
+            [
+                142,
+                "Try me."
+            ],
+            [
+                161,
+                "I\u2019m terribly sorry that I upset your mother."
+            ],
+            [
+                163,
+                "I can\u2019t help but notice how her unconditional love for you is diametrically opposed to my own parenting strategies."
+            ],
+            [
+                165,
+                "But look how well you turned out."
+            ],
+            [
+                167,
+                "I suppose."
+            ],
+            [
+                169,
+                "Do you suppose you would\u2019ve flourished more in a reward-based environment?"
+            ],
+            [
+                194,
+                "Me, too. And I respect your right to your beliefs."
+            ],
+            [
+                197,
+                "One moment. There\u2019s something I need to say to you."
+            ],
+            [
+                199,
+                "Leonard, I always made you earn my affection, but today I realize that there\u2019s more than one way to raise a child."
+            ],
+            [
+                201,
+                "Therefore, I would like to initiate a new protocol wherein I shower you with unconditional love."
+            ],
+            [
+                203,
+                "So needy. Come to Mommy."
+            ],
+            [
+                205,
+                "Oh, my son."
+            ]
+        ],
+        "Dr Hofstadter: ": [
+            [
+                56,
+                "So nice to meet you."
+            ],
+            [
+                144,
+                "It means, I can\u2019t believe we\u2019re having this conversation."
+            ]
+        ],
+        "Bernadette": [
+            [
+                63,
+                "Stuart."
+            ],
+            [
+                65,
+                "We talked about this. I don\u2019t mind you still living here, but we got to have some rules. And rule number one is pants."
+            ],
+            [
+                92,
+                "Guys. In the time you\u2019ve been sitting here playing video games, I got the car washed, picked up cleaning supplies and went to the bank."
+            ],
+            [
+                95,
+                "Okay, I don\u2019t know when I became the mother to three lazy teenagers, but it stops today. You guys are cleaning the kitchen, top to bottom."
+            ],
+            [
+                97,
+                "Yes or no, do you have clothes in my laundry right now?"
+            ],
+            [
+                190,
+                "Look at that. You cleaned it up all by yourself."
+            ]
+        ],
+        "Stuart": [
+            [
+                64,
+                "Morning."
+            ],
+            [
+                91,
+                "Clearly, you\u2019ve never seen me try to talk to a woman."
+            ],
+            [
+                93,
+                "I put on pants."
+            ],
+            [
+                151,
+                "Well, it\u2019s carrots, so gonna say very."
+            ],
+            [
+                153,
+                "Bernadette\u2019s not wrong. She does work hard around here."
+            ],
+            [
+                156,
+                "I saw her pull you home in a wagon."
+            ],
+            [
+                189,
+                "Yeah."
+            ]
+        ],
+        "Howard": [
+            [
+                66,
+                "Hey."
+            ],
+            [
+                89,
+                "I mean, for a while, everything was vampires. Now it\u2019s all zombies. I wonder what the next monster fad will be."
+            ],
+            [
+                94,
+                "Kiss-ass."
+            ],
+            [
+                152,
+                "Sorry we have to do this."
+            ],
+            [
+                155,
+                "She doesn\u2019t baby me."
+            ],
+            [
+                157,
+                "For your information, I twisted my ankle chasing the ice cream truck."
+            ],
+            [
+                159,
+                "You\u2019re right. It\u2019s time for me to act like an adult in this marriage. Starting with my husbandly duty of taking out the trash. Bernie, I made a mess."
+            ],
+            [
+                187,
+                "That was a big sticky mess, but I think I got it."
+            ],
+            [
+                191,
+                "Yes, I cleaned it up all by myself. Honestly, I don\u2019t know why you complain so\u2026 okay, maybe I missed one spot. Just leave."
+            ]
+        ],
+        "Raj": [
+            [
+                90,
+                "We haven\u2019t had a good invisible man in a while."
+            ],
+            [
+                96,
+                "Hey, I don\u2019t even live here."
+            ],
+            [
+                98,
+                "I do. And some of it\u2019s wool, so dry flat if possible."
+            ],
+            [
+                150,
+                "How old is this Jell-O?"
+            ],
+            [
+                154,
+                "Yeah, maybe it\u2019s a good thing if she stops babying you so much."
+            ],
+            [
+                158,
+                "Face it, dude, Bernadette treats you the same way your mother used to, and that was not a healthy relationship."
+            ],
+            [
+                188,
+                "Looks good."
+            ]
+        ],
+        "Stuart (singing)": [
+            [
+                209,
+                "It\u2019s a hard-knock life."
+            ]
+        ],
+        "Together (singing)": [
+            [
+                210,
+                "It\u2019s the hard-knock life for us, it\u2019s the hard-knock life for us. \u2018Stead of treated, we get tricked, \u2018stead of kisses, we get kicked, it\u2019s the hard-knock life. Got no folks to speak of so it\u2019s the hard-knock row we hoe, cotton blankets \u2018stead of wool, empty bellies \u2018stead of full, it\u2019s a hard-knock life."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Leonard, what time does your mom\u2019s plane get in?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know, some time tomorrow morning."
+        ],
+        [
+            "Penny",
+            "Don\u2019t you want to know for sure?"
+        ],
+        [
+            "Leonard",
+            "No need to. As soon as she flies into California airspace, I\u2019ll feel a disturbance in the Force."
+        ],
+        [
+            "Amy",
+            "It\u2019s so nice both of your moms are coming in to see you guys get an award."
+        ],
+        [
+            "Sheldon",
+            "Well, my mother\u2019s been there for every honour I\u2019ve won since I beat out my twin sister for the did it on the potty trophy. How does this look?"
+        ],
+        [
+            "Penny",
+            "Aw, it\u2019s so nice. She\u2019s gonna love it."
+        ],
+        [
+            "Amy",
+            "Sure, his mom gets roses. When I want them, they\u2019re a bouquet of severed plant genitals."
+        ],
+        [
+            "Sheldon",
+            "You act like I didn\u2019t get you that mushroom log on Valentine\u2019s Day."
+        ],
+        [
+            "Amy",
+            "He\u2019s right. Roses die, but a moist rotting log will pump out mushrooms for two or three magical years."
+        ],
+        [
+            "Penny",
+            "You know, your mom\u2019s never been too thrilled with our relationship. Maybe I should get her something so she warms up to me."
+        ],
+        [
+            "Leonard",
+            "If you could run out and get a PhD, that might make her like you."
+        ],
+        [
+            "Penny",
+            "Really? It didn\u2019t work for you."
+        ],
+        [
+            "Amy",
+            "Do you think the moms will get along?"
+        ],
+        [
+            "Leonard",
+            "Uh, I don\u2019t know. They\u2019re pretty different."
+        ],
+        [
+            "Sheldon",
+            "Maybe they\u2019ll be best friends. One of them is brilliant, one is sweet and simple. Sound familiar?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Mrs Cooper",
+            "Shelly, I\u2019m so proud of you and Leonard for getting this award."
+        ],
+        [
+            "Sheldon",
+            "Oh, thank you, Mother."
+        ],
+        [
+            "Mrs Cooper",
+            "I tried to read your paper, but it was very hard for me to understand."
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s quite straightforward, actually. It describes a new model of the universe that conceptualizes it as the surface of an n-dimensional superfluid."
+        ],
+        [
+            "Mrs Cooper",
+            "Interesting. You can believe that, but God filling an ark with animals two-by-two is nonsense."
+        ],
+        [
+            "Sheldon",
+            "What did they feed the lions, Mother?"
+        ],
+        [
+            "Mrs Cooper",
+            "The floating bodies of drowned sinners, of course."
+        ],
+        [
+            "Sheldon",
+            "Listen, Leonard\u2019s mom is a renowned psychiatrist and woman of science. Can you please keep the Bible babble to yourself while she\u2019s here?"
+        ],
+        [
+            "Mrs Cooper",
+            "Are you ashamed of me?"
+        ],
+        [
+            "Sheldon",
+            "Of course not. I love you. I\u2019m just embarrassed by the things you believe, do and say."
+        ],
+        [
+            "Mrs Cooper",
+            "Well, I love you, too. My little bowl of lion chow."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Dr Hofstadter",
+            "So, have you and Penny set a wedding date?"
+        ],
+        [
+            "Leonard",
+            "No, we\u2019re kind of taking it slow."
+        ],
+        [
+            "Dr Hofstadter",
+            "I see."
+        ],
+        [
+            "Leonard",
+            "What does that mean?"
+        ],
+        [
+            "Dr Hofstadter",
+            "You\u2019ve been on and off with this woman for seven years and engaged for one year. One has to wonder if there\u2019s a problem. Are you having satisfactory intercourse?"
+        ],
+        [
+            "Leonard",
+            "Yes, Mother."
+        ],
+        [
+            "Dr Hofstadter",
+            "Only satisfactory. I see."
+        ],
+        [
+            "Leonard",
+            "I change my answer. It, it\u2019s amazing. It\u2019s hot. We can barely keep our hands off each other."
+        ],
+        [
+            "Dr Hofstadter",
+            "Seems odd to try and impress your mother with your sexual prowess. But then, you always did have that unresolved Oedipal complex."
+        ],
+        [
+            "Leonard",
+            "See, this right here, what you\u2019re doing, can you please not do that around Sheldon\u2019s mom?"
+        ],
+        [
+            "Dr Hofstadter",
+            "Why? Are you attracted to her, too?"
+        ],
+        [
+            "Leonard",
+            "Of course not. She\u2019s, she\u2019s just a very sweet and God-fearing lady, and you have to be respectful of her beliefs."
+        ],
+        [
+            "Dr Hofstadter",
+            "Leonard, I\u2019m an adult. I know how to conduct myself around people from different walks of life."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Dr Hofstadter",
+            "Where is she from again?"
+        ],
+        [
+            "Leonard",
+            "East Texas."
+        ],
+        [
+            "Dr Hofstadter",
+            "Ugh."
+        ],
+        [
+            "Leonard",
+            "Hey, look who\u2019s here."
+        ],
+        [
+            "Sheldon",
+            "Oh, Doctor Hofstadter, it\u2019s so good to see you again."
+        ],
+        [
+            "Dr Hofstadter",
+            "Likewise. I read your paper, it was very impressive."
+        ],
+        [
+            "Sheldon",
+            "Oh, thank you."
+        ],
+        [
+            "Leonard",
+            "We just spent two hours in traffic. Did you think to mention to me that you liked our paper?"
+        ],
+        [
+            "Dr Hofstadter",
+            "Of course I did, but it\u2019s a mother\u2019s job to make sure her child\u2019s self-esteem is not dependent on anyone\u2019s approval."
+        ],
+        [
+            "Leonard",
+            "That\u2019s so sweet, you think I have self-esteem."
+        ],
+        [
+            "Sheldon",
+            "Doctor Hofstadter, I want you to meet my mother, Mary."
+        ],
+        [
+            "Dr Hofstadter: ",
+            "So nice to meet you."
+        ],
+        [
+            "Mrs Cooper",
+            "Nice to meet you, too. How was your flight?"
+        ],
+        [
+            "Dr Hofstadter",
+            "Very pleasant. And yours?"
+        ],
+        [
+            "Mrs Cooper",
+            "Lovely. Almost as if someone, not saying who, was watching over the plane."
+        ],
+        [
+            "Dr Hofstadter",
+            "You\u2019re kidding, right?"
+        ],
+        [
+            "Leonard",
+            "Subtle, mom, real subtle."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Bernadette",
+            "Stuart."
+        ],
+        [
+            "Stuart",
+            "Morning."
+        ],
+        [
+            "Bernadette",
+            "We talked about this. I don\u2019t mind you still living here, but we got to have some rules. And rule number one is pants."
+        ],
+        [
+            "Howard",
+            "Hey."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Mrs Cooper",
+            "You must be very proud of your son."
+        ],
+        [
+            "Dr Hofstadter",
+            "Oh, yes. He recently argued a case before the Supreme Court."
+        ],
+        [
+            "Mrs Cooper",
+            "He did?"
+        ],
+        [
+            "Dr Hofstadter",
+            "Oh, you mean this son. Uh, sure, he\u2019s terrific."
+        ],
+        [
+            "Sheldon",
+            "Beverly, would you like to see the math I worked out to support our hypothesis?"
+        ],
+        [
+            "Leonard",
+            "You mean, my hypothesis. I hypothesized it all by myself."
+        ],
+        [
+            "Dr Hofstadter",
+            "Calm down, dear. Mary, I\u2019m curious. When did you first realize that your son had such a remarkable mind?"
+        ],
+        [
+            "Sheldon",
+            "Ooh, good question. Everyone loves stories about Sheldon Cooper, boy genius."
+        ],
+        [
+            "Mrs Cooper",
+            "Well, I would have to say when he was 13 and tried to build a nuclear reactor in the tool shed."
+        ],
+        [
+            "Sheldon",
+            "Ooh, this is a good one."
+        ],
+        [
+            "Mrs Cooper",
+            "Now, the first thing you have to know about Shelly is ever since he was a little boy, he was always concerned with the well-being of others. And he didn\u2019t think that it was fair for people to pay for electricity, so he was gonna power the entire town for free."
+        ],
+        [
+            "Sheldon",
+            "Tell her about the uranium. Tell her about the uranium."
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, well. Oh, this is adorable. When he arranged to get some yellowcake from Chad, I thought he was talking about Twinkies from one of his friends."
+        ],
+        [
+            "Sheldon",
+            "But I wasn\u2019t. \u2018Cause I didn\u2019t have any friends."
+        ],
+        [
+            "Mrs Cooper",
+            "No. It turns out that this little scallywag was trying to use my Visa card to buy uranium from an African warlord in the country of Chad."
+        ],
+        [
+            "Dr Hofstadter",
+            "Sounds like Sheldon was a handful."
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, he was a handful."
+        ],
+        [
+            "Sheldon",
+            "I was a handful."
+        ],
+        [
+            "Leonard",
+            "You still are. Uh, Mom, hey, tell Mary the story about how I made a Van der Graaf generator out of our vacuum cleaner."
+        ],
+        [
+            "Dr Hofstadter",
+            "All right. He broke the vacuum cleaner."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Howard",
+            "I mean, for a while, everything was vampires. Now it\u2019s all zombies. I wonder what the next monster fad will be."
+        ],
+        [
+            "Raj",
+            "We haven\u2019t had a good invisible man in a while."
+        ],
+        [
+            "Stuart",
+            "Clearly, you\u2019ve never seen me try to talk to a woman."
+        ],
+        [
+            "Bernadette",
+            "Guys. In the time you\u2019ve been sitting here playing video games, I got the car washed, picked up cleaning supplies and went to the bank."
+        ],
+        [
+            "Stuart",
+            "I put on pants."
+        ],
+        [
+            "Howard",
+            "Kiss-ass."
+        ],
+        [
+            "Bernadette",
+            "Okay, I don\u2019t know when I became the mother to three lazy teenagers, but it stops today. You guys are cleaning the kitchen, top to bottom."
+        ],
+        [
+            "Raj",
+            "Hey, I don\u2019t even live here."
+        ],
+        [
+            "Bernadette",
+            "Yes or no, do you have clothes in my laundry right now?"
+        ],
+        [
+            "Raj",
+            "I do. And some of it\u2019s wool, so dry flat if possible."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "Oh, and here\u2019s a picture of me receiving my bachelor of science degree."
+        ],
+        [
+            "Dr Hofstadter",
+            "You don\u2019t look very happy."
+        ],
+        [
+            "Sheldon",
+            "Well, I had just begun puberty. It was figuratively and literally one of the hairiest moments of my life."
+        ],
+        [
+            "Mrs Cooper",
+            "Shelly does not like change."
+        ],
+        [
+            "Sheldon",
+            "Oh, true. But all the clenching in the world will not keep testicles in your abdomen."
+        ],
+        [
+            "Penny",
+            "Hey, sorry, got caught up at work. Hi, Beverly."
+        ],
+        [
+            "Dr Hofstadter",
+            "Hello. Oh, okay."
+        ],
+        [
+            "Penny",
+            "Sorry, I forgot."
+        ],
+        [
+            "Sheldon",
+            "You remember my mother."
+        ],
+        [
+            "Penny",
+            "Oh, yes. Hi, Mary."
+        ],
+        [
+            "Mrs Cooper",
+            "Good to see you again, dear."
+        ],
+        [
+            "Penny",
+            "Ah, yeah, now that\u2019s what I\u2019m talking about."
+        ],
+        [
+            "Leonard",
+            "So, Mom, you haven\u2019t seen Penny since we got engaged."
+        ],
+        [
+            "Penny",
+            "Oh, yeah, let me show you the ring."
+        ],
+        [
+            "Dr Hofstadter",
+            "Oh, lovely. Must have been very expensive."
+        ],
+        [
+            "Sheldon",
+            "Oh, no, not at all. No, we, uh, found a place online that, uh, repurposes diamond drill bits."
+        ],
+        [
+            "Leonard",
+            "We did not. That\u2019s not true. Can I speak to you alone for a second?"
+        ],
+        [
+            "Sheldon",
+            "Oh, sure."
+        ],
+        [
+            "Leonard",
+            "It came from Tiffany\u2019s."
+        ],
+        [
+            "Sheldon",
+            "You mean the box, right?"
+        ],
+        [
+            "Leonard",
+            "Keep walking."
+        ],
+        [
+            "Penny",
+            "Really doesn\u2019t matter to me how much he spent on the ring. I think."
+        ],
+        [
+            "Sheldon",
+            "Did I misspeak about the ring?"
+        ],
+        [
+            "Leonard",
+            "Yes, and we\u2019ll get back to that. But, uh, even with your mother here, you are deliberately hogging all the attention from my mom. You\u2019re like one of those elephant seal pups that steals the milk from two mothers."
+        ],
+        [
+            "Sheldon",
+            "Do you mean what marine biologists refer to as super weaning?"
+        ],
+        [
+            "Leonard",
+            "Yes, you are a super weaner."
+        ],
+        [
+            "Sheldon",
+            "Well, now I have to correct you. As a bit of an elephant seal buff, the more accurate comparison would be when two mother seals actively seek to nourish the same pup. So I believe the term you\u2019re looking for is a double mother suckler."
+        ],
+        [
+            "Leonard",
+            "Yeah, you\u2019re right. That is the term I\u2019m looking for. You are a dirty double mother suckler."
+        ],
+        [
+            "Sheldon",
+            "Okay, well, now that we have the terminology straightened out. How dare you."
+        ],
+        [
+            "Penny",
+            "We\u2019re not in a rush. We\u2019ll set a date when the time is right."
+        ],
+        [
+            "Mrs Cooper",
+            "It doesn\u2019t matter, sweetie. The moment a man lays with a woman, they are married in the eyes of the Lord."
+        ],
+        [
+            "Dr Hofstadter",
+            "Uch."
+        ],
+        [
+            "Mrs Cooper",
+            "Uch? The bible is uch to you?"
+        ],
+        [
+            "Dr Hofstadter",
+            "No, I\u2019m sorry. That was inappropriate. As a psychiatrist, I know how important people\u2019s superstitions can be to them."
+        ],
+        [
+            "Mrs Cooper",
+            "You want to talk about superstitions? Sheldon sent me the books you wrote, all that nonsense about superegos and ids. What bull dropped that on the barn floor?"
+        ],
+        [
+            "Dr Hofstadter",
+            "His name is Sigmund Freud."
+        ],
+        [
+            "Penny",
+            "Hey, look at that. You both believe in Jewish bearded guys."
+        ],
+        [
+            "Mrs Cooper",
+            "Stay out of this."
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Mrs Cooper",
+            "At least the bearded man that I believe in preaches love and compassion. All yours talks about is why you hold in your poop and want to crawl back inside your mama."
+        ],
+        [
+            "Dr Hofstadter",
+            "It\u2019s fascinating. How can someone as enlightened as Sheldon come from someone like you?"
+        ],
+        [
+            "Mrs Cooper",
+            "I know the answer. You\u2019re not gonna like it."
+        ],
+        [
+            "Dr Hofstadter",
+            "Try me."
+        ],
+        [
+            "Mrs Cooper",
+            "When I was pregnant with Shelly, I was driving to church, and I was praying to the Lord to give me a son smarter than his dumb-ass daddy. And I looked over and I saw a Jesus bobblehead in the Subaru next to me nodding yes. What is that supposed to mean?"
+        ],
+        [
+            "Dr Hofstadter: ",
+            "It means, I can\u2019t believe we\u2019re having this conversation."
+        ],
+        [
+            "Mrs Cooper",
+            "Well, do it some more. Maybe you can knock some sense into yourself."
+        ],
+        [
+            "Penny",
+            "Why don\u2019t we all stop hitting ourselves and talk about something safe, you know, like shoes or how cute little Chinese babies are."
+        ],
+        [
+            "Sheldon",
+            "It is not my fault that your mother likes me better than she likes you."
+        ],
+        [
+            "Leonard",
+            "Oh, don\u2019t flatter yourself. She likes everybody better than she likes me."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house. "
+        ],
+        [
+            "Raj",
+            "How old is this Jell-O?"
+        ],
+        [
+            "Stuart",
+            "Well, it\u2019s carrots, so gonna say very."
+        ],
+        [
+            "Howard",
+            "Sorry we have to do this."
+        ],
+        [
+            "Stuart",
+            "Bernadette\u2019s not wrong. She does work hard around here."
+        ],
+        [
+            "Raj",
+            "Yeah, maybe it\u2019s a good thing if she stops babying you so much."
+        ],
+        [
+            "Howard",
+            "She doesn\u2019t baby me."
+        ],
+        [
+            "Stuart",
+            "I saw her pull you home in a wagon."
+        ],
+        [
+            "Howard",
+            "For your information, I twisted my ankle chasing the ice cream truck."
+        ],
+        [
+            "Raj",
+            "Face it, dude, Bernadette treats you the same way your mother used to, and that was not a healthy relationship."
+        ],
+        [
+            "Howard",
+            "You\u2019re right. It\u2019s time for me to act like an adult in this marriage. Starting with my husbandly duty of taking out the trash. Bernie, I made a mess."
+        ],
+        [
+            "Scene",
+            "A coffee shop."
+        ],
+        [
+            "Dr Hofstadter",
+            "I\u2019m terribly sorry that I upset your mother."
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s all right. She\u2019ll forgive you. She has to or she goes to hell."
+        ],
+        [
+            "Dr Hofstadter",
+            "I can\u2019t help but notice how her unconditional love for you is diametrically opposed to my own parenting strategies."
+        ],
+        [
+            "Sheldon",
+            "Well, you doled out affection as a reward for achievement, a proven way to raise a child. Or train a rat."
+        ],
+        [
+            "Dr Hofstadter",
+            "But look how well you turned out."
+        ],
+        [
+            "Sheldon",
+            "I\u2019d feign modesty at this point, but who would believe me? Still, you need to consider how successful Leonard\u2019s brother and sister are."
+        ],
+        [
+            "Dr Hofstadter",
+            "I suppose."
+        ],
+        [
+            "Sheldon",
+            "While my brother and sister are mouth-breathing idiots."
+        ],
+        [
+            "Dr Hofstadter",
+            "Do you suppose you would\u2019ve flourished more in a reward-based environment?"
+        ],
+        [
+            "Sheldon",
+            "Perhaps. But my mom made me spaghetti with chopped-up hot dogs whenever I wanted, so who cares?"
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Not once did my mother ever give me any love or affection for just being myself, I always had to earn it."
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, Leonard, I\u2019m sure she loves you very much. In her own cold godless way."
+        ],
+        [
+            "Penny",
+            "Yeah, and you certainly don\u2019t have to earn my love."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "Of course, you already knew that when you bought me this princess-cut drill bit."
+        ],
+        [
+            "Leonard",
+            "That\u2019s not what it is."
+        ],
+        [
+            "Penny",
+            "I know, I know. Zzzzzzzz."
+        ],
+        [
+            "Mrs Cooper",
+            "When your mom gets back, I\u2019m gonna need to apologize for the way I spoke to her."
+        ],
+        [
+            "Penny",
+            "Well, come on now, she did kind of start it."
+        ],
+        [
+            "Mrs Cooper",
+            "Doesn\u2019t matter, a good Christian would\u2019ve turned the other cheek. On the other hand, a good Texan would\u2019ve shot her, so, I just kind of split the difference. Hey, who\u2019s in the mood for spaghetti and hot dogs?"
+        ],
+        [
+            "Leonard",
+            "Oh, me."
+        ],
+        [
+            "Penny",
+            "Yeah, me, too."
+        ],
+        [
+            "Mrs Cooper",
+            "Coming up."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t really feel I deserve it."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Howard",
+            "That was a big sticky mess, but I think I got it."
+        ],
+        [
+            "Raj",
+            "Looks good."
+        ],
+        [
+            "Stuart",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "Look at that. You cleaned it up all by yourself."
+        ],
+        [
+            "Howard",
+            "Yes, I cleaned it up all by myself. Honestly, I don\u2019t know why you complain so\u2026 okay, maybe I missed one spot. Just leave."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Mrs Cooper",
+            "I\u2019m so glad that you and I were able to bury the hatchet."
+        ],
+        [
+            "Dr Hofstadter",
+            "Me, too. And I respect your right to your beliefs."
+        ],
+        [
+            "Mrs Cooper",
+            "And I will pray for you."
+        ],
+        [
+            "Leonard",
+            "Okay, Mom, let\u2019s get you back to your hotel before anyone says anything else."
+        ],
+        [
+            "Dr Hofstadter",
+            "One moment. There\u2019s something I need to say to you."
+        ],
+        [
+            "Leonard",
+            "Oh, really? That\u2019s too bad."
+        ],
+        [
+            "Dr Hofstadter",
+            "Leonard, I always made you earn my affection, but today I realize that there\u2019s more than one way to raise a child."
+        ],
+        [
+            "Sheldon",
+            "I taught her that."
+        ],
+        [
+            "Dr Hofstadter",
+            "Therefore, I would like to initiate a new protocol wherein I shower you with unconditional love."
+        ],
+        [
+            "Leonard",
+            "Wow. When does that start?"
+        ],
+        [
+            "Dr Hofstadter",
+            "So needy. Come to Mommy."
+        ],
+        [
+            "Penny",
+            "It\u2019s okay, go ahead."
+        ],
+        [
+            "Dr Hofstadter",
+            "Oh, my son."
+        ],
+        [
+            "Leonard",
+            "Oh, my mother."
+        ],
+        [
+            "Penny",
+            "Oh, my God."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house. "
+        ],
+        [
+            "Stuart (singing)",
+            "It\u2019s a hard-knock life."
+        ],
+        [
+            "Together (singing)",
+            "It\u2019s the hard-knock life for us, it\u2019s the hard-knock life for us. \u2018Stead of treated, we get tricked, \u2018stead of kisses, we get kicked, it\u2019s the hard-knock life. Got no folks to speak of so it\u2019s the hard-knock row we hoe, cotton blankets \u2018stead of wool, empty bellies \u2018stead of full, it\u2019s a hard-knock life."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-23-the-maternal-combustion/"
+}
