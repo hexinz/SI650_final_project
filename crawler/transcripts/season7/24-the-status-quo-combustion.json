@@ -1,0 +1,2202 @@
+{
+    "Season": 7,
+    "Episode": 24,
+    "Title": "the status quo combustion",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The Apartment."
+            ],
+            [
+                11,
+                "General cheering and congratulations."
+            ],
+            [
+                13,
+                "General cheering and congratulations."
+            ],
+            [
+                17,
+                "Credits sequence."
+            ],
+            [
+                18,
+                "The cafeteria."
+            ],
+            [
+                34,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                46,
+                "The apartment."
+            ],
+            [
+                62,
+                "Penny\u2019s apartment."
+            ],
+            [
+                80,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                83,
+                "The apartment. "
+            ],
+            [
+                114,
+                "Amy\u2019s apartment. "
+            ],
+            [
+                132,
+                "The apartment. "
+            ],
+            [
+                157,
+                "The comic book store."
+            ],
+            [
+                178,
+                "The apartment. "
+            ],
+            [
+                194,
+                "The comic book store."
+            ],
+            [
+                207,
+                "The train station."
+            ],
+            [
+                249,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                263,
+                "The apartment."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "How\u2019s your mom holding up?"
+            ],
+            [
+                10,
+                "Okay. Well, now that everyone\u2019s here, Penny and I have some big news. We\u2019re engaged."
+            ],
+            [
+                14,
+                "Hey, hey, what the hell?"
+            ],
+            [
+                22,
+                "Hey, buddy."
+            ],
+            [
+                24,
+                "You okay?"
+            ],
+            [
+                28,
+                "That\u2019s a rude thing to say, out loud."
+            ],
+            [
+                31,
+                "Whatever you do, just don\u2019t make any rash decisions."
+            ],
+            [
+                48,
+                "Hi, Mom. I have some exciting news."
+            ],
+            [
+                50,
+                "Before I tell you, will you promise to try and be happy for me and keep any concerns you have to yourself?"
+            ],
+            [
+                52,
+                "I hate that you talk to him more than you talk to me."
+            ],
+            [
+                54,
+                "You know what? It\u2019s probably fine."
+            ],
+            [
+                56,
+                "I\u2019m your son. What about the fact that she\u2019s good enough for me?"
+            ],
+            [
+                58,
+                "Thanks, Mom."
+            ],
+            [
+                60,
+                "Yes, it would."
+            ],
+            [
+                84,
+                "What you working on?"
+            ],
+            [
+                86,
+                "Oh. How\u2019s it going?"
+            ],
+            [
+                88,
+                "It\u2019s nice that you called them esteemed."
+            ],
+            [
+                90,
+                "So, listen, there was something I was hoping to float past you."
+            ],
+            [
+                92,
+                "Now that Penny and I are engaged, I thought we might want to talk about our living arrangements."
+            ],
+            [
+                94,
+                "I\u2019m not."
+            ],
+            [
+                96,
+                "Actually, this is about where she and I are going to live."
+            ],
+            [
+                98,
+                "Well, well, we might want to live together."
+            ],
+            [
+                100,
+                "That\u2019s very sweet. But we were thinking more of us maybe living together with\u2026 not you."
+            ],
+            [
+                102,
+                "Look, I, I know this is, this is change, and that sounds scary."
+            ],
+            [
+                104,
+                "I don\u2019t know. We just started to think about this. Maybe I\u2019ll move in with Penny, or maybe she and I\u2019ll take this place, and you can move across the hall."
+            ],
+            [
+                106,
+                "No, I did not."
+            ],
+            [
+                108,
+                "No."
+            ],
+            [
+                110,
+                "Because I love Penny, and want to give her the life she deserves."
+            ],
+            [
+                112,
+                "Well, yeah."
+            ],
+            [
+                134,
+                "Well, you cook for me all the time and, ugh."
+            ],
+            [
+                136,
+                "It\u2019s hard to talk with so much heavy chewing to do."
+            ],
+            [
+                138,
+                "I know you\u2019ll try. So, should we talk about setting a date?"
+            ],
+            [
+                140,
+                "Okay. And when would that be?"
+            ],
+            [
+                143,
+                "No, I thought he was with you."
+            ],
+            [
+                145,
+                "What happened?"
+            ],
+            [
+                147,
+                "Oh."
+            ],
+            [
+                149,
+                "Well, he\u2019s been having a couple of tough days. I\u2019m sure he\u2019s fine. He probably just needs a little alone time to decompress."
+            ],
+            [
+                153,
+                "Anyway, as I was saying, Sheldon probably just needs a little alone time. \u2018Cause that\u2019s important. Not just for him, but for most anybody, really."
+            ],
+            [
+                179,
+                "I haven\u2019t heard from Sheldon in a while. You think he\u2019s okay?"
+            ],
+            [
+                181,
+                "I\u2019m gonna see where he is."
+            ],
+            [
+                183,
+                "Oh, I know his password, so I can track his phone."
+            ],
+            [
+                185,
+                "Not always, but ever since he wandered off at the swap meet chasing a balloon, I get worried."
+            ],
+            [
+                187,
+                "That\u2019s weird."
+            ],
+            [
+                189,
+                "He\u2019s at the train station."
+            ],
+            [
+                191,
+                "It\u2019s dark out and he\u2019s alone, I don\u2019t like it. Let\u2019s go get him."
+            ],
+            [
+                193,
+                "It\u2019s not just that. My mother would kill me if I let something happen to him."
+            ],
+            [
+                208,
+                "Sheldon."
+            ],
+            [
+                210,
+                "Yeah."
+            ],
+            [
+                214,
+                "Seriously? You don\u2019t even have a change of clothes or a toothbrush."
+            ],
+            [
+                216,
+                "Okay, I know you\u2019re upset and there\u2019s a lot of stuff going on, but it\u2019s nothing we can\u2019t work out. Come on, let\u2019s get you home."
+            ],
+            [
+                220,
+                "So a few things don\u2019t go your way and your best decision is to ride the rails like a hobo?"
+            ],
+            [
+                222,
+                "Come on, come home with us and tomorrow I\u2019ll, I\u2019ll take you to Legoland."
+            ],
+            [
+                224,
+                "Then what can I do?"
+            ],
+            [
+                226,
+                "Oh, come on, you know you\u2019re overreacting."
+            ],
+            [
+                228,
+                "What? Why?"
+            ],
+            [
+                230,
+                "You know he can\u2019t take a trip like this by himself."
+            ],
+            [
+                232,
+                "No, he looks like a grown man. You\u2019ve seen Freaky Friday, sometimes little kids end up in big person bodies."
+            ],
+            [
+                234,
+                "I know, but\u2026"
+            ],
+            [
+                238,
+                "Sheldon, if you really need to do this, I\u2019m not gonna stand in your way."
+            ],
+            [
+                240,
+                "Okay. Good luck."
+            ],
+            [
+                243,
+                "Bye, buddy. Sheldon?"
+            ],
+            [
+                245,
+                "I\u2019m gonna miss you."
+            ],
+            [
+                247,
+                "He just made that easier."
+            ],
+            [
+                265,
+                "He\u2019s okay?"
+            ],
+            [
+                268,
+                "Me, too. And he was able to take a sabbatical from\u2026"
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "She\u2019s doing okay, but we just lost another nurse."
+            ],
+            [
+                4,
+                "Two, and I know what you\u2019re thinking, she\u2019s eating them."
+            ],
+            [
+                7,
+                "A bowl full of M&M\u2019s with a few Ambien tossed in."
+            ],
+            [
+                20,
+                "Because you had sex the other night?"
+            ],
+            [
+                26,
+                "Why?"
+            ],
+            [
+                30,
+                "You know, if you\u2019re really serious about that, I hear there are some exciting opportunities in home care for the old and fat."
+            ],
+            [
+                35,
+                "Oh, come on, give her a chance."
+            ],
+            [
+                38,
+                "Yeah, maybe it\u2019s time we just release Ma back into the sea."
+            ],
+            [
+                40,
+                "Well, then, we may need to get used to the idea that we\u2019re gonna be living here the next few months."
+            ],
+            [
+                42,
+                "Well, what if we use our vacation time?"
+            ],
+            [
+                44,
+                "I don\u2019t know what else we can do."
+            ],
+            [
+                196,
+                "Don\u2019t take this the wrong way, but did you do this for the insurance money?"
+            ],
+            [
+                203,
+                "Hang on. I know a place you can stay and earn some money at the same time."
+            ],
+            [
+                205,
+                "I just have to warn you, it\u2019ll involve humiliation, degradation and verbal abuse."
+            ],
+            [
+                251,
+                "You sure?"
+            ],
+            [
+                257,
+                "You call her Debbie?"
+            ],
+            [
+                259,
+                "Was that a little weird?"
+            ],
+            [
+                261,
+                "Okay, let\u2019s go."
+            ]
+        ],
+        "Amy": [
+            [
+                3,
+                "How many is that now?"
+            ],
+            [
+                64,
+                "Atomic magnets?"
+            ],
+            [
+                71,
+                "So, what are the living arrangements gonna be?"
+            ],
+            [
+                73,
+                "Well, with you not working, that makes financial sense."
+            ],
+            [
+                116,
+                "They just don\u2019t appreciate you."
+            ],
+            [
+                118,
+                "Here, I made you some Strawberry Quik."
+            ],
+            [
+                120,
+                "You know, this might work out for the best. I mean, you\u2019re always complaining about what a terrible roommate Leonard is. Like how he turns up the thermostat when you\u2019re not there."
+            ],
+            [
+                122,
+                "You hate the sound of all those keys on his key chain."
+            ],
+            [
+                124,
+                "See? Maybe you\u2019ll love living alone."
+            ],
+            [
+                126,
+                "And if it turns out you don\u2019t, you and I could live together."
+            ],
+            [
+                128,
+                "Sheldon, it was just a thought."
+            ],
+            [
+                130,
+                "It tastes the same."
+            ],
+            [
+                142,
+                "Hi, is Sheldon here?"
+            ],
+            [
+                144,
+                "He was, but he stormed off and now he isn\u2019t answering his phone."
+            ],
+            [
+                146,
+                "He was really angry that you suggested he move out."
+            ],
+            [
+                148,
+                "I also mentioned that he and I could live together but he was too mad at you to realize what a great idea that is."
+            ],
+            [
+                150,
+                "You\u2019re probably right. So, what are you guys doing?"
+            ],
+            [
+                152,
+                "That\u2019s nice."
+            ],
+            [
+                154,
+                "Don\u2019t I know it. What is that, polenta?"
+            ],
+            [
+                156,
+                "Right."
+            ],
+            [
+                266,
+                "Actually sounds like he\u2019s doing pretty well."
+            ],
+            [
+                269,
+                "How could you let him go?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                5,
+                "She\u2019s just so impossible, they keep quitting."
+            ],
+            [
+                15,
+                "You guys propose all the time. This never happens."
+            ],
+            [
+                37,
+                "I know you\u2019ve only been here a day and a half, but you\u2019re like part of the family. I don\u2019t think the service is gonna send any more people."
+            ],
+            [
+                39,
+                "That\u2019s not helpful."
+            ],
+            [
+                41,
+                "But we have jobs. We can\u2019t baby-sit her 24 hours a day."
+            ],
+            [
+                43,
+                "I wanted to go to Hawaii, not hell."
+            ],
+            [
+                45,
+                "Howie, I love you, and as your wife, your mother is every bit as much my problem as she is yours, so, I want a divorce."
+            ],
+            [
+                66,
+                "Sorry I\u2019m late. The leaf blower broke, so I had to hand-dry my mother-in-law."
+            ],
+            [
+                68,
+                "Thanks. Little warning before you jump into this marriage business. You\u2019re not just marrying him, you\u2019re marrying his family."
+            ],
+            [
+                70,
+                "It doesn\u2019t matter if she\u2019s okay with you. The question is, can she go to the bathroom by herself? Hit me again."
+            ],
+            [
+                74,
+                "You\u2019re not working. How would you like a job in home health care?"
+            ],
+            [
+                76,
+                "Please. I\u2019m desperate."
+            ],
+            [
+                78,
+                "I\u2019ll pay you anything you want."
+            ],
+            [
+                82,
+                "I could\u2019ve ridden a bull longer than that."
+            ],
+            [
+                253,
+                "So, she\u2019s not too much for you?"
+            ],
+            [
+                260,
+                "Yeah. I don\u2019t know why, but something about it feels unnatural."
+            ],
+            [
+                262,
+                "Yep."
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "So, who\u2019s watching her now?"
+            ],
+            [
+                23,
+                "Hello."
+            ],
+            [
+                25,
+                "I just got called into President Siebert\u2019s office. The university won\u2019t let me switch my field of study to inflationary cosmology. They\u2019re forcing me to continue with string theory."
+            ],
+            [
+                27,
+                "He said it\u2019s why they hired me, it\u2019s, it\u2019s what my grant was designated for, and that everybody has to do things they don\u2019t want to do. He then gave an example of something he had to do, even though he didn\u2019t want to, which was look at my stupid face."
+            ],
+            [
+                29,
+                "It\u2019s an outrage. Honestly, I\u2019m tempted to leave the university."
+            ],
+            [
+                32,
+                "I don\u2019t know. I am really aggravated."
+            ],
+            [
+                85,
+                "I\u2019m writing an appeal to the Faculty Senate, so that I can move on from string theory."
+            ],
+            [
+                87,
+                "You tell me. Dear Esteemed Colleagues, as you may know, I have requested to change my field of study. My decision to do so is, I believe, in the best interest of science. At your convenience, I\u2019d be happy to explain it to you in words you\u2019ll understand."
+            ],
+            [
+                89,
+                "You\u2019re right. I\u2019ll take that out."
+            ],
+            [
+                91,
+                "Mm."
+            ],
+            [
+                93,
+                "Of course. She\u2019s spent many nights here, and you\u2019re worried about preserving the myth of her virginity before the wedding."
+            ],
+            [
+                95,
+                "Good, because not only has that ship sailed, if it hit an iceberg, countless men would perish."
+            ],
+            [
+                97,
+                "What do you mean?"
+            ],
+            [
+                99,
+                "Oh, yeah, well, I\u2019ve already given this some thought, and I\u2019m willing to let Penny live with us one day a week for a trial period. Now, obviously, not when she\u2019s made cranky by the shedding of her uterine lining."
+            ],
+            [
+                101,
+                "I don\u2019t understand. How could we all live together if I\u2019m not there?"
+            ],
+            [
+                103,
+                "Where are you going to go?"
+            ],
+            [
+                105,
+                "Move across the hall? Did you take a marijuana?"
+            ],
+            [
+                107,
+                "Did you get hit on the head with a coconut?"
+            ],
+            [
+                109,
+                "Well, then, I\u2019m all out of guesses. What? Me move across the hall. Why would you even suggest such a thing?"
+            ],
+            [
+                111,
+                "I see. You\u2019re putting your future bride\u2019s happiness above mine."
+            ],
+            [
+                113,
+                "Wow."
+            ],
+            [
+                115,
+                "How dare the university force me to go back to string theory?"
+            ],
+            [
+                117,
+                "Yeah, and on top of that, Leonard has the audacity to suggest that now that he and Penny are engaged, he may not want to live with me any more."
+            ],
+            [
+                119,
+                "I have real problems here, Amy. I can\u2019t be mollified with a beverage designed for children. Mmm, yummy."
+            ],
+            [
+                121,
+                "Ugh, it\u2019s like walking into the Amazon. And not the good Amazon with one-day shipping. The awful one with birds and snakes."
+            ],
+            [
+                123,
+                "Four keys! Who does he think he is, a warden?"
+            ],
+            [
+                125,
+                "I don\u2019t know. Perhaps."
+            ],
+            [
+                127,
+                "You and\u2026 oh, sure, and while we\u2019re at it, why don\u2019t we get engaged, too? Why don\u2019t we get a little house, start a family? Enjoy our sunset years together? Do you hear yourself, woman?"
+            ],
+            [
+                129,
+                "No. Here\u2019s a thought. You\u2019re not moving in, Leonard\u2019s not moving out, everything stays exactly the way it is. And by the way, I saw you make this Strawberry Quik with syrup, you\u2019re supposed to use the powder."
+            ],
+            [
+                131,
+                "No. The syrup tastes better and I don\u2019t like it."
+            ],
+            [
+                158,
+                "No."
+            ],
+            [
+                160,
+                "What happened?"
+            ],
+            [
+                162,
+                "And you couldn\u2019t put it out?"
+            ],
+            [
+                164,
+                "So when will you reopen?"
+            ],
+            [
+                166,
+                "So, tomorrow?"
+            ],
+            [
+                168,
+                "Your life? The university is making me do string theory and my girlfriend loves me so much she wants to live with me. And now, the place I need to go when I\u2019m sad is damp and smells funny."
+            ],
+            [
+                170,
+                "No. I do not accept this. Everything is changing and I hate it. It stops now. I\u2019m helping you get back on your feet. I would like to purchase this comic book, please."
+            ],
+            [
+                172,
+                "Really? It\u2019s soaking wet."
+            ],
+            [
+                174,
+                "Can you break a twenty?"
+            ],
+            [
+                176,
+                "You know what? I don\u2019t always recognize sarcasm, but I do right now, and I don\u2019t appreciate it. I\u2019m sorry for your loss. But you\u2019re not the only one whose day has been a disaster."
+            ],
+            [
+                209,
+                "You tracked my phone?"
+            ],
+            [
+                211,
+                "Boy, you chase one balloon for three miles."
+            ],
+            [
+                213,
+                "Don\u2019t be melodramatic. I\u2019m just getting on a train and leaving forever."
+            ],
+            [
+                215,
+                "My plan is to stop at malls and buy what I need. It\u2019s called living off the land."
+            ],
+            [
+                217,
+                "No. I\u2019ve reached my breaking point. I need to leave. Now."
+            ],
+            [
+                219,
+                "It doesn\u2019t matter."
+            ],
+            [
+                221,
+                "I suppose it is. Except I have a credit card. And I refuse to carry my laptop at the end of a stick. And I\u2019d sooner die than eat beans out of a can."
+            ],
+            [
+                223,
+                "Legoland is not the solution to everything. And it\u2019s too much of a scene since that movie came out."
+            ],
+            [
+                225,
+                "Leonard, I am overwhelmed. Everything is changing and it\u2019s simply too much. I need to get away and think."
+            ],
+            [
+                236,
+                "Good Lord. Padawan\u2019s the student, not the teacher."
+            ],
+            [
+                239,
+                "I do."
+            ],
+            [
+                242,
+                "I will."
+            ],
+            [
+                244,
+                "Yes?"
+            ],
+            [
+                246,
+                "Of course you are."
+            ]
+        ],
+        "Raj": [
+            [
+                8,
+                "What up, guys?"
+            ],
+            [
+                12,
+                "And I thought me having sex with Emily was gonna be the big news."
+            ],
+            [
+                19,
+                "Boy, I\u2019m so hungry today. I wonder why?"
+            ],
+            [
+                21,
+                "You know what? That may be it. By the way, it isn\u2019t like riding a bike. Like, I fell off a few times."
+            ],
+            [
+                33,
+                "When I\u2019m feeling low, I have sex with a girl. But that\u2019s just me."
+            ],
+            [
+                195,
+                "Dude, I\u2019m so sorry."
+            ],
+            [
+                198,
+                "We\u2019re here for you, man. Whatever you need, okay?"
+            ],
+            [
+                200,
+                "Sure, of course. Oh, actually, Emily was gonna spend the night."
+            ],
+            [
+                202,
+                "Well, I can\u2019t take all the credit. She let me do it to her, but, uh, but I can always call her and cancel."
+            ]
+        ],
+        "All": [
+            [
+                9,
+                "Hello, hey!"
+            ]
+        ],
+        "Penny": [
+            [
+                16,
+                "You\u2019re right! Yay!"
+            ],
+            [
+                65,
+                "Shut up."
+            ],
+            [
+                67,
+                "You want some wine?"
+            ],
+            [
+                69,
+                "I think Leonard\u2019s mom\u2019s okay with me."
+            ],
+            [
+                72,
+                "Well, haven\u2019t really talked about it yet, but I figure at some point, I\u2019ll move in with him, or he\u2019ll move in with me."
+            ],
+            [
+                75,
+                "Not a chance."
+            ],
+            [
+                77,
+                "No."
+            ],
+            [
+                79,
+                "Okay, then, yeah."
+            ],
+            [
+                81,
+                "No, keep your money."
+            ],
+            [
+                133,
+                "This is so sweet. You never cook for me."
+            ],
+            [
+                135,
+                "If you don\u2019t like my cooking, why haven\u2019t you ever said anything?"
+            ],
+            [
+                137,
+                "Sorry. I\u2019ll get better."
+            ],
+            [
+                139,
+                "Well, I\u2019d like to pick one that works with my brother\u2019s schedule."
+            ],
+            [
+                141,
+                "Uh, 12 to 18 months from now, depending on good behaviour."
+            ],
+            [
+                151,
+                "Well, Leonard cooked for me and now we\u2019re just having a nice dinner, you know, as a newly engaged couple."
+            ],
+            [
+                155,
+                "Amy, get out."
+            ],
+            [
+                180,
+                "Oh, I\u2019m sure he\u2019s fine."
+            ],
+            [
+                182,
+                "How?"
+            ],
+            [
+                184,
+                "You do that?"
+            ],
+            [
+                186,
+                "He can take care of himself. Look, we went over stranger danger and gave him that whistle."
+            ],
+            [
+                188,
+                "What?"
+            ],
+            [
+                190,
+                "So? He loves trains."
+            ],
+            [
+                192,
+                "It\u2019s sweet how you look out for him. You\u2019re a good guy."
+            ],
+            [
+                212,
+                "We were worried about you."
+            ],
+            [
+                218,
+                "And go where?"
+            ],
+            [
+                227,
+                "Leonard, hang on. Just come here. Maybe we need to let him go."
+            ],
+            [
+                229,
+                "It might be good for him."
+            ],
+            [
+                231,
+                "He\u2019s a grown man."
+            ],
+            [
+                233,
+                "Leonard, we can\u2019t protect him forever."
+            ],
+            [
+                235,
+                "He\u2019ll be okay. You taught him well, Padawan."
+            ],
+            [
+                237,
+                "Seriously, let him go."
+            ],
+            [
+                241,
+                "Be safe and call us."
+            ],
+            [
+                248,
+                "Mm."
+            ],
+            [
+                267,
+                "I really think this is gonna be for the best."
+            ]
+        ],
+        "Nurse": [
+            [
+                36,
+                "No. Life, it is too short."
+            ]
+        ],
+        "Mrs Hofstadter (on webcam)": [
+            [
+                47,
+                "Hello, Leonard."
+            ]
+        ],
+        "Mrs Hofstadter": [
+            [
+                49,
+                "I\u2019m listening."
+            ],
+            [
+                51,
+                "No. Let me save you all of your hemming and hawing. Sheldon already told me that you and Penny are engaged."
+            ],
+            [
+                53,
+                "Would you like for you and me to talk more?"
+            ],
+            [
+                55,
+                "In any event, while I\u2019ve had my misgivings about Penny, Sheldon spoke very fondly of her, and if she is good enough for him, then she\u2019s good enough for me."
+            ],
+            [
+                57,
+                "Sure."
+            ],
+            [
+                59,
+                "Leonard, would it make you feel better to hear that your mother approved of your life choices?"
+            ],
+            [
+                61,
+                "Yeah. Well, you should work on that."
+            ]
+        ],
+        "Penny (on phone)": [
+            [
+                63,
+                "No, Mom, it\u2019s the same guy I\u2019ve been going out with for the past two years. Yeah, the scientist. Well, it\u2019s complicated. I mean, he works with lasers and atomic magnets. No, I did not see it coming. No, we did not set a date. No, I am not pregnant. Yeah, this is a first for our family. All right, tell Dad I love him. I gotta go. All right, bye."
+            ]
+        ],
+        "Stuart": [
+            [
+                159,
+                "Hey, Sheldon."
+            ],
+            [
+                161,
+                "I was cooking in the back room last night and the hot plate caught on fire."
+            ],
+            [
+                163,
+                "I was across the street at the do-it-yourself car wash, taking a shower."
+            ],
+            [
+                165,
+                "Um, I don\u2019t know. I\u2019m waiting to hear back from the insurance company."
+            ],
+            [
+                167,
+                "I don\u2019t mean to be rude, Sheldon, but, uh, my life is kind of falling apart right now."
+            ],
+            [
+                169,
+                "Well, sorry I let you down."
+            ],
+            [
+                171,
+                "That\u2019ll be $2.99."
+            ],
+            [
+                173,
+                "Fine, a dollar."
+            ],
+            [
+                175,
+                "No, I only have hundreds."
+            ],
+            [
+                177,
+                "(Light falls on ground just where he was standing a moment before) That could have killed me. I can\u2019t catch a break."
+            ],
+            [
+                197,
+                "No. God, you sound like the police, the firemen, my parents, my therapist and the insurance company."
+            ],
+            [
+                199,
+                "Uh, actually, I was wondering if I could crash at your place for a few nights."
+            ],
+            [
+                201,
+                "You slept with her? Nice."
+            ],
+            [
+                204,
+                "Great."
+            ],
+            [
+                206,
+                "So what\u2019s the catch?"
+            ],
+            [
+                250,
+                "Hey. What are you guys still doing here? I got this, go. Go home."
+            ],
+            [
+                252,
+                "Yeah, she\u2019s fed, she took her pills, she\u2019s all tucked in and watching TV."
+            ],
+            [
+                254,
+                "Are you kidding? I love her, she\u2019s great."
+            ],
+            [
+                256,
+                "Coming, Debbie."
+            ],
+            [
+                258,
+                "She insisted. So, hey, guys, thank you so much. This job is a dream come true."
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                255,
+                "Stewie, you gonna watch Wheel of Fortune with me?"
+            ]
+        ],
+        "Amy (on phone)": [
+            [
+                264,
+                "Okay, Sheldon, thanks for checking in. Talk to you tomorrow? Oh, okay, bye."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The Apartment."
+        ],
+        [
+            "Leonard",
+            "How\u2019s your mom holding up?"
+        ],
+        [
+            "Howard",
+            "She\u2019s doing okay, but we just lost another nurse."
+        ],
+        [
+            "Amy",
+            "How many is that now?"
+        ],
+        [
+            "Howard",
+            "Two, and I know what you\u2019re thinking, she\u2019s eating them."
+        ],
+        [
+            "Bernadette",
+            "She\u2019s just so impossible, they keep quitting."
+        ],
+        [
+            "Sheldon",
+            "So, who\u2019s watching her now?"
+        ],
+        [
+            "Howard",
+            "A bowl full of M&M\u2019s with a few Ambien tossed in."
+        ],
+        [
+            "Raj",
+            "What up, guys?"
+        ],
+        [
+            "All",
+            "Hello, hey!"
+        ],
+        [
+            "Leonard",
+            "Okay. Well, now that everyone\u2019s here, Penny and I have some big news. We\u2019re engaged."
+        ],
+        [
+            "Scene",
+            "General cheering and congratulations."
+        ],
+        [
+            "Raj",
+            "And I thought me having sex with Emily was gonna be the big news."
+        ],
+        [
+            "Scene",
+            "General cheering and congratulations."
+        ],
+        [
+            "Leonard",
+            "Hey, hey, what the hell?"
+        ],
+        [
+            "Bernadette",
+            "You guys propose all the time. This never happens."
+        ],
+        [
+            "Penny",
+            "You\u2019re right! Yay!"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Raj",
+            "Boy, I\u2019m so hungry today. I wonder why?"
+        ],
+        [
+            "Howard",
+            "Because you had sex the other night?"
+        ],
+        [
+            "Raj",
+            "You know what? That may be it. By the way, it isn\u2019t like riding a bike. Like, I fell off a few times."
+        ],
+        [
+            "Leonard",
+            "Hey, buddy."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "You okay?"
+        ],
+        [
+            "Sheldon",
+            "I just got called into President Siebert\u2019s office. The university won\u2019t let me switch my field of study to inflationary cosmology. They\u2019re forcing me to continue with string theory."
+        ],
+        [
+            "Howard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "He said it\u2019s why they hired me, it\u2019s, it\u2019s what my grant was designated for, and that everybody has to do things they don\u2019t want to do. He then gave an example of something he had to do, even though he didn\u2019t want to, which was look at my stupid face."
+        ],
+        [
+            "Leonard",
+            "That\u2019s a rude thing to say, out loud."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s an outrage. Honestly, I\u2019m tempted to leave the university."
+        ],
+        [
+            "Howard",
+            "You know, if you\u2019re really serious about that, I hear there are some exciting opportunities in home care for the old and fat."
+        ],
+        [
+            "Leonard",
+            "Whatever you do, just don\u2019t make any rash decisions."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know. I am really aggravated."
+        ],
+        [
+            "Raj",
+            "When I\u2019m feeling low, I have sex with a girl. But that\u2019s just me."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Howard",
+            "Oh, come on, give her a chance."
+        ],
+        [
+            "Nurse",
+            "No. Life, it is too short."
+        ],
+        [
+            "Bernadette",
+            "I know you\u2019ve only been here a day and a half, but you\u2019re like part of the family. I don\u2019t think the service is gonna send any more people."
+        ],
+        [
+            "Howard",
+            "Yeah, maybe it\u2019s time we just release Ma back into the sea."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s not helpful."
+        ],
+        [
+            "Howard",
+            "Well, then, we may need to get used to the idea that we\u2019re gonna be living here the next few months."
+        ],
+        [
+            "Bernadette",
+            "But we have jobs. We can\u2019t baby-sit her 24 hours a day."
+        ],
+        [
+            "Howard",
+            "Well, what if we use our vacation time?"
+        ],
+        [
+            "Bernadette",
+            "I wanted to go to Hawaii, not hell."
+        ],
+        [
+            "Howard",
+            "I don\u2019t know what else we can do."
+        ],
+        [
+            "Bernadette",
+            "Howie, I love you, and as your wife, your mother is every bit as much my problem as she is yours, so, I want a divorce."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Mrs Hofstadter (on webcam)",
+            "Hello, Leonard."
+        ],
+        [
+            "Leonard",
+            "Hi, Mom. I have some exciting news."
+        ],
+        [
+            "Mrs Hofstadter",
+            "I\u2019m listening."
+        ],
+        [
+            "Leonard",
+            "Before I tell you, will you promise to try and be happy for me and keep any concerns you have to yourself?"
+        ],
+        [
+            "Mrs Hofstadter",
+            "No. Let me save you all of your hemming and hawing. Sheldon already told me that you and Penny are engaged."
+        ],
+        [
+            "Leonard",
+            "I hate that you talk to him more than you talk to me."
+        ],
+        [
+            "Mrs Hofstadter",
+            "Would you like for you and me to talk more?"
+        ],
+        [
+            "Leonard",
+            "You know what? It\u2019s probably fine."
+        ],
+        [
+            "Mrs Hofstadter",
+            "In any event, while I\u2019ve had my misgivings about Penny, Sheldon spoke very fondly of her, and if she is good enough for him, then she\u2019s good enough for me."
+        ],
+        [
+            "Leonard",
+            "I\u2019m your son. What about the fact that she\u2019s good enough for me?"
+        ],
+        [
+            "Mrs Hofstadter",
+            "Sure."
+        ],
+        [
+            "Leonard",
+            "Thanks, Mom."
+        ],
+        [
+            "Mrs Hofstadter",
+            "Leonard, would it make you feel better to hear that your mother approved of your life choices?"
+        ],
+        [
+            "Leonard",
+            "Yes, it would."
+        ],
+        [
+            "Mrs Hofstadter",
+            "Yeah. Well, you should work on that."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny (on phone)",
+            "No, Mom, it\u2019s the same guy I\u2019ve been going out with for the past two years. Yeah, the scientist. Well, it\u2019s complicated. I mean, he works with lasers and atomic magnets. No, I did not see it coming. No, we did not set a date. No, I am not pregnant. Yeah, this is a first for our family. All right, tell Dad I love him. I gotta go. All right, bye."
+        ],
+        [
+            "Amy",
+            "Atomic magnets?"
+        ],
+        [
+            "Penny",
+            "Shut up."
+        ],
+        [
+            "Bernadette",
+            "Sorry I\u2019m late. The leaf blower broke, so I had to hand-dry my mother-in-law."
+        ],
+        [
+            "Penny",
+            "You want some wine?"
+        ],
+        [
+            "Bernadette",
+            "Thanks. Little warning before you jump into this marriage business. You\u2019re not just marrying him, you\u2019re marrying his family."
+        ],
+        [
+            "Penny",
+            "I think Leonard\u2019s mom\u2019s okay with me."
+        ],
+        [
+            "Bernadette",
+            "It doesn\u2019t matter if she\u2019s okay with you. The question is, can she go to the bathroom by herself? Hit me again."
+        ],
+        [
+            "Amy",
+            "So, what are the living arrangements gonna be?"
+        ],
+        [
+            "Penny",
+            "Well, haven\u2019t really talked about it yet, but I figure at some point, I\u2019ll move in with him, or he\u2019ll move in with me."
+        ],
+        [
+            "Amy",
+            "Well, with you not working, that makes financial sense."
+        ],
+        [
+            "Bernadette",
+            "You\u2019re not working. How would you like a job in home health care?"
+        ],
+        [
+            "Penny",
+            "Not a chance."
+        ],
+        [
+            "Bernadette",
+            "Please. I\u2019m desperate."
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll pay you anything you want."
+        ],
+        [
+            "Penny",
+            "Okay, then, yeah."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Penny",
+            "No, keep your money."
+        ],
+        [
+            "Bernadette",
+            "I could\u2019ve ridden a bull longer than that."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "What you working on?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m writing an appeal to the Faculty Senate, so that I can move on from string theory."
+        ],
+        [
+            "Leonard",
+            "Oh. How\u2019s it going?"
+        ],
+        [
+            "Sheldon",
+            "You tell me. Dear Esteemed Colleagues, as you may know, I have requested to change my field of study. My decision to do so is, I believe, in the best interest of science. At your convenience, I\u2019d be happy to explain it to you in words you\u2019ll understand."
+        ],
+        [
+            "Leonard",
+            "It\u2019s nice that you called them esteemed."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right. I\u2019ll take that out."
+        ],
+        [
+            "Leonard",
+            "So, listen, there was something I was hoping to float past you."
+        ],
+        [
+            "Sheldon",
+            "Mm."
+        ],
+        [
+            "Leonard",
+            "Now that Penny and I are engaged, I thought we might want to talk about our living arrangements."
+        ],
+        [
+            "Sheldon",
+            "Of course. She\u2019s spent many nights here, and you\u2019re worried about preserving the myth of her virginity before the wedding."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not."
+        ],
+        [
+            "Sheldon",
+            "Good, because not only has that ship sailed, if it hit an iceberg, countless men would perish."
+        ],
+        [
+            "Leonard",
+            "Actually, this is about where she and I are going to live."
+        ],
+        [
+            "Sheldon",
+            "What do you mean?"
+        ],
+        [
+            "Leonard",
+            "Well, well, we might want to live together."
+        ],
+        [
+            "Sheldon",
+            "Oh, yeah, well, I\u2019ve already given this some thought, and I\u2019m willing to let Penny live with us one day a week for a trial period. Now, obviously, not when she\u2019s made cranky by the shedding of her uterine lining."
+        ],
+        [
+            "Leonard",
+            "That\u2019s very sweet. But we were thinking more of us maybe living together with\u2026 not you."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t understand. How could we all live together if I\u2019m not there?"
+        ],
+        [
+            "Leonard",
+            "Look, I, I know this is, this is change, and that sounds scary."
+        ],
+        [
+            "Sheldon",
+            "Where are you going to go?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. We just started to think about this. Maybe I\u2019ll move in with Penny, or maybe she and I\u2019ll take this place, and you can move across the hall."
+        ],
+        [
+            "Sheldon",
+            "Move across the hall? Did you take a marijuana?"
+        ],
+        [
+            "Leonard",
+            "No, I did not."
+        ],
+        [
+            "Sheldon",
+            "Did you get hit on the head with a coconut?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Well, then, I\u2019m all out of guesses. What? Me move across the hall. Why would you even suggest such a thing?"
+        ],
+        [
+            "Leonard",
+            "Because I love Penny, and want to give her the life she deserves."
+        ],
+        [
+            "Sheldon",
+            "I see. You\u2019re putting your future bride\u2019s happiness above mine."
+        ],
+        [
+            "Leonard",
+            "Well, yeah."
+        ],
+        [
+            "Sheldon",
+            "Wow."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. "
+        ],
+        [
+            "Sheldon",
+            "How dare the university force me to go back to string theory?"
+        ],
+        [
+            "Amy",
+            "They just don\u2019t appreciate you."
+        ],
+        [
+            "Sheldon",
+            "Yeah, and on top of that, Leonard has the audacity to suggest that now that he and Penny are engaged, he may not want to live with me any more."
+        ],
+        [
+            "Amy",
+            "Here, I made you some Strawberry Quik."
+        ],
+        [
+            "Sheldon",
+            "I have real problems here, Amy. I can\u2019t be mollified with a beverage designed for children. Mmm, yummy."
+        ],
+        [
+            "Amy",
+            "You know, this might work out for the best. I mean, you\u2019re always complaining about what a terrible roommate Leonard is. Like how he turns up the thermostat when you\u2019re not there."
+        ],
+        [
+            "Sheldon",
+            "Ugh, it\u2019s like walking into the Amazon. And not the good Amazon with one-day shipping. The awful one with birds and snakes."
+        ],
+        [
+            "Amy",
+            "You hate the sound of all those keys on his key chain."
+        ],
+        [
+            "Sheldon",
+            "Four keys! Who does he think he is, a warden?"
+        ],
+        [
+            "Amy",
+            "See? Maybe you\u2019ll love living alone."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know. Perhaps."
+        ],
+        [
+            "Amy",
+            "And if it turns out you don\u2019t, you and I could live together."
+        ],
+        [
+            "Sheldon",
+            "You and\u2026 oh, sure, and while we\u2019re at it, why don\u2019t we get engaged, too? Why don\u2019t we get a little house, start a family? Enjoy our sunset years together? Do you hear yourself, woman?"
+        ],
+        [
+            "Amy",
+            "Sheldon, it was just a thought."
+        ],
+        [
+            "Sheldon",
+            "No. Here\u2019s a thought. You\u2019re not moving in, Leonard\u2019s not moving out, everything stays exactly the way it is. And by the way, I saw you make this Strawberry Quik with syrup, you\u2019re supposed to use the powder."
+        ],
+        [
+            "Amy",
+            "It tastes the same."
+        ],
+        [
+            "Sheldon",
+            "No. The syrup tastes better and I don\u2019t like it."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "This is so sweet. You never cook for me."
+        ],
+        [
+            "Leonard",
+            "Well, you cook for me all the time and, ugh."
+        ],
+        [
+            "Penny",
+            "If you don\u2019t like my cooking, why haven\u2019t you ever said anything?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s hard to talk with so much heavy chewing to do."
+        ],
+        [
+            "Penny",
+            "Sorry. I\u2019ll get better."
+        ],
+        [
+            "Leonard",
+            "I know you\u2019ll try. So, should we talk about setting a date?"
+        ],
+        [
+            "Penny",
+            "Well, I\u2019d like to pick one that works with my brother\u2019s schedule."
+        ],
+        [
+            "Leonard",
+            "Okay. And when would that be?"
+        ],
+        [
+            "Penny",
+            "Uh, 12 to 18 months from now, depending on good behaviour."
+        ],
+        [
+            "Amy",
+            "Hi, is Sheldon here?"
+        ],
+        [
+            "Leonard",
+            "No, I thought he was with you."
+        ],
+        [
+            "Amy",
+            "He was, but he stormed off and now he isn\u2019t answering his phone."
+        ],
+        [
+            "Leonard",
+            "What happened?"
+        ],
+        [
+            "Amy",
+            "He was really angry that you suggested he move out."
+        ],
+        [
+            "Leonard",
+            "Oh."
+        ],
+        [
+            "Amy",
+            "I also mentioned that he and I could live together but he was too mad at you to realize what a great idea that is."
+        ],
+        [
+            "Leonard",
+            "Well, he\u2019s been having a couple of tough days. I\u2019m sure he\u2019s fine. He probably just needs a little alone time to decompress."
+        ],
+        [
+            "Amy",
+            "You\u2019re probably right. So, what are you guys doing?"
+        ],
+        [
+            "Penny",
+            "Well, Leonard cooked for me and now we\u2019re just having a nice dinner, you know, as a newly engaged couple."
+        ],
+        [
+            "Amy",
+            "That\u2019s nice."
+        ],
+        [
+            "Leonard",
+            "Anyway, as I was saying, Sheldon probably just needs a little alone time. \u2018Cause that\u2019s important. Not just for him, but for most anybody, really."
+        ],
+        [
+            "Amy",
+            "Don\u2019t I know it. What is that, polenta?"
+        ],
+        [
+            "Penny",
+            "Amy, get out."
+        ],
+        [
+            "Amy",
+            "Right."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Stuart",
+            "Hey, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "What happened?"
+        ],
+        [
+            "Stuart",
+            "I was cooking in the back room last night and the hot plate caught on fire."
+        ],
+        [
+            "Sheldon",
+            "And you couldn\u2019t put it out?"
+        ],
+        [
+            "Stuart",
+            "I was across the street at the do-it-yourself car wash, taking a shower."
+        ],
+        [
+            "Sheldon",
+            "So when will you reopen?"
+        ],
+        [
+            "Stuart",
+            "Um, I don\u2019t know. I\u2019m waiting to hear back from the insurance company."
+        ],
+        [
+            "Sheldon",
+            "So, tomorrow?"
+        ],
+        [
+            "Stuart",
+            "I don\u2019t mean to be rude, Sheldon, but, uh, my life is kind of falling apart right now."
+        ],
+        [
+            "Sheldon",
+            "Your life? The university is making me do string theory and my girlfriend loves me so much she wants to live with me. And now, the place I need to go when I\u2019m sad is damp and smells funny."
+        ],
+        [
+            "Stuart",
+            "Well, sorry I let you down."
+        ],
+        [
+            "Sheldon",
+            "No. I do not accept this. Everything is changing and I hate it. It stops now. I\u2019m helping you get back on your feet. I would like to purchase this comic book, please."
+        ],
+        [
+            "Stuart",
+            "That\u2019ll be $2.99."
+        ],
+        [
+            "Sheldon",
+            "Really? It\u2019s soaking wet."
+        ],
+        [
+            "Stuart",
+            "Fine, a dollar."
+        ],
+        [
+            "Sheldon",
+            "Can you break a twenty?"
+        ],
+        [
+            "Stuart",
+            "No, I only have hundreds."
+        ],
+        [
+            "Sheldon",
+            "You know what? I don\u2019t always recognize sarcasm, but I do right now, and I don\u2019t appreciate it. I\u2019m sorry for your loss. But you\u2019re not the only one whose day has been a disaster."
+        ],
+        [
+            "Stuart",
+            "(Light falls on ground just where he was standing a moment before) That could have killed me. I can\u2019t catch a break."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "I haven\u2019t heard from Sheldon in a while. You think he\u2019s okay?"
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019m sure he\u2019s fine."
+        ],
+        [
+            "Leonard",
+            "I\u2019m gonna see where he is."
+        ],
+        [
+            "Penny",
+            "How?"
+        ],
+        [
+            "Leonard",
+            "Oh, I know his password, so I can track his phone."
+        ],
+        [
+            "Penny",
+            "You do that?"
+        ],
+        [
+            "Leonard",
+            "Not always, but ever since he wandered off at the swap meet chasing a balloon, I get worried."
+        ],
+        [
+            "Penny",
+            "He can take care of himself. Look, we went over stranger danger and gave him that whistle."
+        ],
+        [
+            "Leonard",
+            "That\u2019s weird."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "He\u2019s at the train station."
+        ],
+        [
+            "Penny",
+            "So? He loves trains."
+        ],
+        [
+            "Leonard",
+            "It\u2019s dark out and he\u2019s alone, I don\u2019t like it. Let\u2019s go get him."
+        ],
+        [
+            "Penny",
+            "It\u2019s sweet how you look out for him. You\u2019re a good guy."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not just that. My mother would kill me if I let something happen to him."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Raj",
+            "Dude, I\u2019m so sorry."
+        ],
+        [
+            "Howard",
+            "Don\u2019t take this the wrong way, but did you do this for the insurance money?"
+        ],
+        [
+            "Stuart",
+            "No. God, you sound like the police, the firemen, my parents, my therapist and the insurance company."
+        ],
+        [
+            "Raj",
+            "We\u2019re here for you, man. Whatever you need, okay?"
+        ],
+        [
+            "Stuart",
+            "Uh, actually, I was wondering if I could crash at your place for a few nights."
+        ],
+        [
+            "Raj",
+            "Sure, of course. Oh, actually, Emily was gonna spend the night."
+        ],
+        [
+            "Stuart",
+            "You slept with her? Nice."
+        ],
+        [
+            "Raj",
+            "Well, I can\u2019t take all the credit. She let me do it to her, but, uh, but I can always call her and cancel."
+        ],
+        [
+            "Howard",
+            "Hang on. I know a place you can stay and earn some money at the same time."
+        ],
+        [
+            "Stuart",
+            "Great."
+        ],
+        [
+            "Howard",
+            "I just have to warn you, it\u2019ll involve humiliation, degradation and verbal abuse."
+        ],
+        [
+            "Stuart",
+            "So what\u2019s the catch?"
+        ],
+        [
+            "Scene",
+            "The train station."
+        ],
+        [
+            "Leonard",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "You tracked my phone?"
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "Boy, you chase one balloon for three miles."
+        ],
+        [
+            "Penny",
+            "We were worried about you."
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t be melodramatic. I\u2019m just getting on a train and leaving forever."
+        ],
+        [
+            "Leonard",
+            "Seriously? You don\u2019t even have a change of clothes or a toothbrush."
+        ],
+        [
+            "Sheldon",
+            "My plan is to stop at malls and buy what I need. It\u2019s called living off the land."
+        ],
+        [
+            "Leonard",
+            "Okay, I know you\u2019re upset and there\u2019s a lot of stuff going on, but it\u2019s nothing we can\u2019t work out. Come on, let\u2019s get you home."
+        ],
+        [
+            "Sheldon",
+            "No. I\u2019ve reached my breaking point. I need to leave. Now."
+        ],
+        [
+            "Penny",
+            "And go where?"
+        ],
+        [
+            "Sheldon",
+            "It doesn\u2019t matter."
+        ],
+        [
+            "Leonard",
+            "So a few things don\u2019t go your way and your best decision is to ride the rails like a hobo?"
+        ],
+        [
+            "Sheldon",
+            "I suppose it is. Except I have a credit card. And I refuse to carry my laptop at the end of a stick. And I\u2019d sooner die than eat beans out of a can."
+        ],
+        [
+            "Leonard",
+            "Come on, come home with us and tomorrow I\u2019ll, I\u2019ll take you to Legoland."
+        ],
+        [
+            "Sheldon",
+            "Legoland is not the solution to everything. And it\u2019s too much of a scene since that movie came out."
+        ],
+        [
+            "Leonard",
+            "Then what can I do?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, I am overwhelmed. Everything is changing and it\u2019s simply too much. I need to get away and think."
+        ],
+        [
+            "Leonard",
+            "Oh, come on, you know you\u2019re overreacting."
+        ],
+        [
+            "Penny",
+            "Leonard, hang on. Just come here. Maybe we need to let him go."
+        ],
+        [
+            "Leonard",
+            "What? Why?"
+        ],
+        [
+            "Penny",
+            "It might be good for him."
+        ],
+        [
+            "Leonard",
+            "You know he can\u2019t take a trip like this by himself."
+        ],
+        [
+            "Penny",
+            "He\u2019s a grown man."
+        ],
+        [
+            "Leonard",
+            "No, he looks like a grown man. You\u2019ve seen Freaky Friday, sometimes little kids end up in big person bodies."
+        ],
+        [
+            "Penny",
+            "Leonard, we can\u2019t protect him forever."
+        ],
+        [
+            "Leonard",
+            "I know, but\u2026"
+        ],
+        [
+            "Penny",
+            "He\u2019ll be okay. You taught him well, Padawan."
+        ],
+        [
+            "Sheldon",
+            "Good Lord. Padawan\u2019s the student, not the teacher."
+        ],
+        [
+            "Penny",
+            "Seriously, let him go."
+        ],
+        [
+            "Leonard",
+            "Sheldon, if you really need to do this, I\u2019m not gonna stand in your way."
+        ],
+        [
+            "Sheldon",
+            "I do."
+        ],
+        [
+            "Leonard",
+            "Okay. Good luck."
+        ],
+        [
+            "Penny",
+            "Be safe and call us."
+        ],
+        [
+            "Sheldon",
+            "I will."
+        ],
+        [
+            "Leonard",
+            "Bye, buddy. Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Yes?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m gonna miss you."
+        ],
+        [
+            "Sheldon",
+            "Of course you are."
+        ],
+        [
+            "Leonard",
+            "He just made that easier."
+        ],
+        [
+            "Penny",
+            "Mm."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Stuart",
+            "Hey. What are you guys still doing here? I got this, go. Go home."
+        ],
+        [
+            "Howard",
+            "You sure?"
+        ],
+        [
+            "Stuart",
+            "Yeah, she\u2019s fed, she took her pills, she\u2019s all tucked in and watching TV."
+        ],
+        [
+            "Bernadette",
+            "So, she\u2019s not too much for you?"
+        ],
+        [
+            "Stuart",
+            "Are you kidding? I love her, she\u2019s great."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Stewie, you gonna watch Wheel of Fortune with me?"
+        ],
+        [
+            "Stuart",
+            "Coming, Debbie."
+        ],
+        [
+            "Howard",
+            "You call her Debbie?"
+        ],
+        [
+            "Stuart",
+            "She insisted. So, hey, guys, thank you so much. This job is a dream come true."
+        ],
+        [
+            "Howard",
+            "Was that a little weird?"
+        ],
+        [
+            "Bernadette",
+            "Yeah. I don\u2019t know why, but something about it feels unnatural."
+        ],
+        [
+            "Howard",
+            "Okay, let\u2019s go."
+        ],
+        [
+            "Bernadette",
+            "Yep."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy (on phone)",
+            "Okay, Sheldon, thanks for checking in. Talk to you tomorrow? Oh, okay, bye."
+        ],
+        [
+            "Leonard",
+            "He\u2019s okay?"
+        ],
+        [
+            "Amy",
+            "Actually sounds like he\u2019s doing pretty well."
+        ],
+        [
+            "Penny",
+            "I really think this is gonna be for the best."
+        ],
+        [
+            "Leonard",
+            "Me, too. And he was able to take a sabbatical from\u2026"
+        ],
+        [
+            "Amy",
+            "How could you let him go?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-24-the-status-quo-combustion/"
+}

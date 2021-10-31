@@ -1,0 +1,1528 @@
+{
+    "Season": 5,
+    "Episode": 18,
+    "Title": "the werewolf transformation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "A barber\u2019s shop."
+            ],
+            [
+                24,
+                "Credits sequence."
+            ],
+            [
+                25,
+                "The apartment."
+            ],
+            [
+                46,
+                "to astronaut training to Sheldon can\u2019t get a haircut?"
+            ],
+            [
+                48,
+                "Amy\u2019s apartment. Amy is playing her harp."
+            ],
+            [
+                56,
+                "Bernadette\u2019s bedroom."
+            ],
+            [
+                70,
+                "A hospital ward."
+            ],
+            [
+                78,
+                "The apartment."
+            ],
+            [
+                108,
+                "Bernadette\u2019s bedroom."
+            ],
+            [
+                126,
+                "Leonard\u2019s bedroom. Leonard wakes to the sound of bongos."
+            ],
+            [
+                149,
+                "Howard\u2019s hotel room. There is a knock on the door."
+            ],
+            [
+                157,
+                "Amy\u2019s apartment."
+            ],
+            [
+                174,
+                "Penny\u2019s apartment. Penny is cutting Sheldon\u2019s hair."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "I\u2019m just gonna run to the store and get a few things. I\u2019ll pick you up when you\u2019re done."
+            ],
+            [
+                9,
+                "Excuse us for a second. Sheldon, it\u2019s okay, he can do it. He\u2019s a barber."
+            ],
+            [
+                11,
+                "What are you talking about?"
+            ],
+            [
+                13,
+                "There\u2019s no such thing as haircut records."
+            ],
+            [
+                15,
+                "Have you ever seen them?"
+            ],
+            [
+                19,
+                "Sheldon, you\u2019re a grown man, he\u2019s a professional, and your haircut is number three on that poster from 1946. Just sit down and let him do it."
+            ],
+            [
+                23,
+                "When you tell this story later, the word we usually use is quirky."
+            ],
+            [
+                27,
+                "Sure. What are you doing?"
+            ],
+            [
+                29,
+                "Sheldon, you are one day late for your haircut."
+            ],
+            [
+                38,
+                "So, what kind of things are they\u2026 (to Sheldon) will you stop that?"
+            ],
+            [
+                42,
+                "Sheldon, be nice."
+            ],
+            [
+                80,
+                "Hmm."
+            ],
+            [
+                82,
+                "You know, I think this is a good stopping point. Uh, it\u2019s your first real game. I threw a lot of information at you."
+            ],
+            [
+                84,
+                "Like I said, complicated game."
+            ],
+            [
+                86,
+                "Did you have fun? Because if you had fun, then you are, you are a winner. Now that\u2019s, that-that\u2019s what chess is all about."
+            ],
+            [
+                88,
+                "Hey."
+            ],
+            [
+                92,
+                "I don\u2019t know. Between you playing chess like Bobby Fischer and Sheldon being okay with you in his spot, I\u2019m guessing someone went back in time, stepped on a bug, and changed the course of human events."
+            ],
+            [
+                97,
+                "Oh, uh, he\u2019s crazy."
+            ],
+            [
+                99,
+                "Good. I\u2019m taking that disgusting chart off the fridge."
+            ],
+            [
+                102,
+                "I think this could be good for you. Maybe it\u2019s time for you to shake things up a bit."
+            ],
+            [
+                104,
+                "Great. What are you going to do first?"
+            ],
+            [
+                106,
+                "I got to tell you, I\u2019m a little worried about him."
+            ],
+            [
+                129,
+                "Sheldon, it\u2019s three o\u2019clock in the morning."
+            ],
+            [
+                131,
+                "I was sleeping."
+            ],
+            [
+                133,
+                "No, he doesn\u2019t."
+            ],
+            [
+                135,
+                "Stop! Stop it! Stop! Stop! Stop it!"
+            ],
+            [
+                137,
+                "Oh, hi, Penny, guess what? Sheldon got bongos."
+            ],
+            [
+                140,
+                "Richard Feynman was a famous physicist."
+            ],
+            [
+                143,
+                "Sheldon, go to bed. You have work in the morning."
+            ],
+            [
+                145,
+                "W-w-wuh, no, no, hang on,uh, uh, roommate agreement. No hootenannies, sing-a-longs, or barbershop quartets after ten p.m."
+            ],
+            [
+                159,
+                "Poor guy. He must have been exhausted. Sheldon like to sleep while Leonard play the bongo!"
+            ],
+            [
+                161,
+                "No, it was called for."
+            ],
+            [
+                166,
+                "I\u2019m sorry, duh, what?"
+            ],
+            [
+                172,
+                "What\u2019s this about Sheldon seeing you naked?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Okay. I like it a little better when you stay, but all right."
+            ],
+            [
+                4,
+                "Hello. I\u2019m here for my haircut with Mr. D\u2019Onofrio."
+            ],
+            [
+                6,
+                "Oh, dear, Mr. D\u2019Onofrio\u2019s in the hospital. Why do these things always happen to me?"
+            ],
+            [
+                8,
+                "You\u2019re not Mr. D\u2019Onofrio. I get my hair cut by Mr. D\u2019Onofrio. You believe this guy?"
+            ],
+            [
+                10,
+                "He\u2019s not a barber, he\u2019s the nephew. He\u2019s an example of the kind of nepotism that runs rampant in the barbering industry. Besides, Mr. D\u2019Onofrio knows exactly how I like my hair done because he has all my haircut records from my barber in Texas."
+            ],
+            [
+                12,
+                "When I first moved here I was nervous about finding a new barber, so my mother had all my haircut records sent here to Mr. D\u2019Onofrio."
+            ],
+            [
+                14,
+                "Yes, there are."
+            ],
+            [
+                16,
+                "No, but my mother assured me they were sent here, and I\u2019ll bet you dollars to doughnuts that this one doesn\u2019t have them. Uh, excuse me. Do you have access to my haircut records?"
+            ],
+            [
+                18,
+                "To paraphrase T.S. Eliot, this is the way the world ends, not with a bang but with a nephew."
+            ],
+            [
+                20,
+                "Fine, but if I come out of this looking like a dork, it\u2019s on you. (Sits)"
+            ],
+            [
+                22,
+                "Nope. (Runs out)"
+            ],
+            [
+                26,
+                "Can you pass the Parmesan cheese?"
+            ],
+            [
+                28,
+                "I\u2019m trying to get the hair out of my eyes."
+            ],
+            [
+                30,
+                "Thank you for captioning my nightmare."
+            ],
+            [
+                39,
+                "I can\u2019t help it, I feel like a teen heartthrob."
+            ],
+            [
+                41,
+                "Penny, I know you mean well, offering the skills of the hill folk, but, um, here in town we don\u2019t churn our own butter, we don\u2019t, uh, make dresses out of gunny sacks, and, uh, we sure as shootin\u2019 don\u2019t get our hair cut by bottle-blonde\u2026"
+            ],
+            [
+                43,
+                "I\u2019m sorry, it\u2019s the bad boy attitude that comes with this hair."
+            ],
+            [
+                50,
+                "I\u2019m sorry. I\u2019m looking for a barber and I\u2019m running out of time. My hair is growing at the rate of 4.6 yoctometers per femtosecond. I mean, if you\u2019re quiet, you can hear it."
+            ],
+            [
+                52,
+                "I tried once. They do men\u2019s and women\u2019s hair in the same room at the same time. It\u2019s like Sodom and Gomorrah with mousse."
+            ],
+            [
+                54,
+                "Why don\u2019t I let my hair grow out? Um, why don\u2019t I start wearing Birkenstocks and, uh, uh, seeking validation of my opinions by asking can you dig it?"
+            ],
+            [
+                71,
+                "Mr. D\u2019Onofrio? It\u2019s Sheldon. They didn\u2019t have anything barber-themed in the gift shop, so I got you this. I don\u2019t know if you can read his little T-shirt. It says, um, get well bear-y soon. Trust me, if you were even a little conscious right now, you\u2019d be laughing. Anyway, there\u2019s new studies that show, people in comas are aware of everything going on around them. With that in mind, if you can hear me, move away from the light and toward the sound of these scissors."
+            ],
+            [
+                73,
+                "Yes. Do you have something I could use as a cape?"
+            ],
+            [
+                75,
+                "Oh, no, no, I\u2019m just here to get my hair cut."
+            ],
+            [
+                77,
+                "I got to run. But not with scissors, that would be unsafe."
+            ],
+            [
+                87,
+                "Hello."
+            ],
+            [
+                90,
+                "Eh, why? My spot, your spot, what difference does it make?"
+            ],
+            [
+                94,
+                "No, I\u2019m not all right. It\u2019s been six days since I was supposed to get a haircut and nothing horrible has happened."
+            ],
+            [
+                96,
+                "Leonard, explain it to her."
+            ],
+            [
+                98,
+                "I have spent my whole life trying to bring order to the universe by carefully planning every moment of every day. But all my efforts, our dinner schedule, my pyjama rotation, my bowel movement spreadsheet, it\u2019s clear now, I\u2019ve been wasting my time."
+            ],
+            [
+                101,
+                "Oh, please, everyone knows what\u2019s going to happen. But I see your point."
+            ],
+            [
+                103,
+                "You\u2019re right. I should embrace the chaos."
+            ],
+            [
+                105,
+                "I don\u2019t know. I could do anything. All bets are off. The world is my oyster. I got it. I\u2019m going to put on my Tuesday pyjamas tonight."
+            ],
+            [
+                128,
+                "Hello, Leonard, do you like my bongos? Bet you didn\u2019t know that I had bongos."
+            ],
+            [
+                130,
+                "Three in the morning is a good time for bongos."
+            ],
+            [
+                132,
+                "Leonard sleeps while I play bongos."
+            ],
+            [
+                134,
+                "Leonard no sleep while I play bongos. Bongo solo."
+            ],
+            [
+                139,
+                "Richard Feynman played the bongos. I thought I\u2019d give that a try."
+            ],
+            [
+                142,
+                "Penny meant if he were a purple leprechaun. Penny forgot to use the subjunctive."
+            ],
+            [
+                144,
+                "Maybe, maybe not. Maybe tomorrow I start a bongo band and tour the world."
+            ],
+            [
+                146,
+                "Roommate agreement? Are you kidding? We are living in a world of chaos. Roommate agreement."
+            ],
+            [
+                148,
+                "Wherever the music takes me, kitten. I play bongos walking down the stairs. (Sound of falling) Oh! Oh! Never play bongos walking down the stairs."
+            ],
+            [
+                162,
+                "What\u2019s going on?"
+            ],
+            [
+                164,
+                "Penny, you\u2019re not trained. You\u2019re not licensed. Most importantly, you don\u2019t have access to my haircut records."
+            ],
+            [
+                168,
+                "Amy, what do you think?"
+            ],
+            [
+                170,
+                "Fine, let\u2019s go. Thank you for letting me sleep on your couch."
+            ],
+            [
+                173,
+                "Oh, relax. It was just her bottom and her breasts."
+            ],
+            [
+                176,
+                "At the end of the haircut, Mr. D\u2019Onofrio would tell me a dirty joke."
+            ],
+            [
+                178,
+                "That\u2019s okay, I never understood them anyway."
+            ],
+            [
+                180,
+                "Hmm, well, it\u2019s a little Hollywood. But I think I can pull it off. Well done, Penny."
+            ],
+            [
+                182,
+                "Fun time. Hah. Sorry, sometimes the clippers tickle me."
+            ]
+        ],
+        "Barber": [
+            [
+                3,
+                "Hey, Sheldon."
+            ],
+            [
+                5,
+                "I\u2019m sorry, Uncle Tony\u2019s in the hospital. He\u2019s pretty sick."
+            ],
+            [
+                7,
+                "I can cut it for you."
+            ],
+            [
+                17,
+                "Your what?"
+            ],
+            [
+                21,
+                "So my kid said the funniest thing today."
+            ]
+        ],
+        "Howard": [
+            [
+                31,
+                "Lookie here, I got my travel orders."
+            ],
+            [
+                33,
+                "Yeah, but it\u2019s from NASA, so it\u2019s oh eight hundred."
+            ],
+            [
+                35,
+                "You read it as oh eight hundred."
+            ],
+            [
+                37,
+                "You know what does have an oh in front of it? Oh, my God, I\u2019m an astronaut, and you\u2019re dying of jealousy."
+            ],
+            [
+                45,
+                "Quick question here, have we actually changed the conversation from I\u2019m going"
+            ],
+            [
+                59,
+                "I miss you."
+            ],
+            [
+                61,
+                "Oh, wow, where do I even start? I got to experience zero gravity."
+            ],
+            [
+                63,
+                "It\u2019s pretty neat. You get in this plane that goes almost straight up for, like, 20 seconds, and then straight back down like it\u2019s going to crash, and they do it over and over again, you know, no matter how many times you throw up."
+            ],
+            [
+                65,
+                "Yeah, and the craziest part is, because there\u2019s no gravity, the throw-up kind of floats there, in a little ball, and if your mouth is open because you\u2019re screaming, sometimes it just floats right back in. Boy, does everyone laugh at you when that happens."
+            ],
+            [
+                67,
+                "No. Yeah, I would have laughed, too, but I didn\u2019t want the vomit to come back out. Anyway, oh, could you do me a favour and overnight me some more underwear?"
+            ],
+            [
+                69,
+                "I got a look at the centrifuge they\u2019re going to spin me around in tomorrow, and I have a hunch I packed a little light."
+            ],
+            [
+                111,
+                "We did overnight survival training in the wilderness. Big fun. Big, big fun. I was gonna freshen up for you but I blacked out a little on the way to the bathroom."
+            ],
+            [
+                113,
+                "Uh-huh. Except you don\u2019t have food or water, and they don\u2019t have a sunset Sabbath service like they do at Camp Hess-Kramer."
+            ],
+            [
+                115,
+                "No. I slept in a hole I dug in the ground with my bare hands. And at some point during the night, an armadillo crawled in and spooned me."
+            ],
+            [
+                117,
+                "But I did it. I survived. I wasn\u2019t sure I was going to when the sandstorm hit. I just pulled my turtleneck up over my head and waited for death. But somehow as I sat there, wrapped in a cocoon of my own neck-sweat, I found that primal part of the human spirit that just wants to keep on living, no matter what the cost."
+            ],
+            [
+                119,
+                "I ate a butterfly. It was so small and beautiful, but I was so hungry."
+            ],
+            [
+                121,
+                "No, I don\u2019t think it\u2019s possible. I\u2019m severely dehydrated. My pee is like toothpaste."
+            ],
+            [
+                123,
+                "Thanks, honey, but I can\u2019t quit. If I do, I\u2019ll just be a guy who had a chance to be an astronaut and gave it up."
+            ],
+            [
+                125,
+                "No. Wait. Send more underwear."
+            ],
+            [
+                151,
+                "What are you doing here?"
+            ],
+            [
+                153,
+                "Oh, I love you so much."
+            ],
+            [
+                156,
+                "Don\u2019t worry, once she falls asleep, I\u2019ll spoon you like an armadillo."
+            ]
+        ],
+        "Raj": [
+            [
+                32,
+                "Payload Specialist Howard Wolowitz is requested to report to the NASA Johnson Space Center, Houston, Texas, for astronaut training Monday eight a.m."
+            ],
+            [
+                34,
+                "But it says eight a.m."
+            ],
+            [
+                36,
+                "It doesn\u2019t have an oh in front of it."
+            ],
+            [
+                44,
+                "You could go to my guy. He\u2019s at Juan-Juan in Beverly Hills. They bring you a cup of tea, they\u2019ll massage your scalp. It\u2019s about two hundred dollars, but sometimes you look in the next chair and you see a superstar like Tony Danza."
+            ],
+            [
+                47,
+                "Now who\u2019s dying of jealousy? Oh, it\u2019s you."
+            ]
+        ],
+        "Penny": [
+            [
+                40,
+                "You know, Sheldon, I used to cut my brother\u2019s hair. I could do it for you."
+            ],
+            [
+                79,
+                "So, if I move my horsey here, isn\u2019t that checkmate and I win?"
+            ],
+            [
+                81,
+                "Well, is it or isn\u2019t it?"
+            ],
+            [
+                83,
+                "Well, no, I mean, your king is trapped. He can\u2019t go here because of my lighthouse, and he can\u2019t go here because of my pointy-head guy."
+            ],
+            [
+                85,
+                "So did I win or not?"
+            ],
+            [
+                89,
+                "Oh, hey. Sorry, Sheldon, I\u2019ll move."
+            ],
+            [
+                91,
+                "Okay, what just happened?"
+            ],
+            [
+                93,
+                "Uh, sweetie, are you all right?"
+            ],
+            [
+                95,
+                "Okay, I\u2019m sorry, I don\u2019t understand."
+            ],
+            [
+                100,
+                "You know, Sh-Sheldon, sometimes it\u2019s nice not knowing what\u2019s coming. I mean, look at me and Leonard. We went out, we broke up, now we\u2019re trying again. We don\u2019t know what\u2019s gonna happen."
+            ],
+            [
+                107,
+                "If I were you, I\u2019d be worried that a girl who\u2019s never played chess in her life just kicked your ass."
+            ],
+            [
+                138,
+                "Why did you get bongos?"
+            ],
+            [
+                141,
+                "Oh, Leonard, it\u2019s three o\u2019clock in the morning. I don\u2019t care if Richard Feynman was a purple leprechaun who lived in my butt."
+            ],
+            [
+                147,
+                "Where are you going?"
+            ],
+            [
+                163,
+                "All right, Sheldon, this craziness has gone on long enough. Please come home so I can cut your hair."
+            ],
+            [
+                165,
+                "All right, honey, look, we\u2019ve known each other for a long time now, right? I\u2019ve taken you to Disneyland, I kicked a bully in the nuts for you, I sing you Soft Kitty when you\u2019re sick, you\u2019ve even saw me naked once."
+            ],
+            [
+                167,
+                "It was a long story. Anyway, Sheldon, I promise I know what I\u2019m doing. Please let me cut your hair."
+            ],
+            [
+                175,
+                "Almost done."
+            ],
+            [
+                177,
+                "Well, sorry, I don\u2019t know any dirty jokes."
+            ],
+            [
+                179,
+                "Okay, what do you think?"
+            ],
+            [
+                181,
+                "Ha, told you. Okay, I\u2019m just gonna clean up your neck a little and then you are good to go."
+            ],
+            [
+                183,
+                "Okay. (Sheldon laughs and jerks, Penny accidentally shaves a strip up the back of his head) Okay, yep, we\u2019re all done now. It\u2019s just, it\u2019s good. Let me just take that away from you. Okay."
+            ],
+            [
+                185,
+                "You are welcome. Yeah, I\u2019m gonna have to move."
+            ]
+        ],
+        "Amy": [
+            [
+                49,
+                "I\u2019m a cowboy, on a steel horse I ride. I\u2019m wanted\u2026 I\u2019m wanted\u2026 wanted, dead or alive. Sheldon, you\u2019re ruining girlfriend-boyfriend sing-along night."
+            ],
+            [
+                51,
+                "What about Supercuts?"
+            ],
+            [
+                53,
+                "Well, this isn\u2019t a crisis. Why don\u2019t you just let your hair grow out a little?"
+            ],
+            [
+                55,
+                "Well, I don\u2019t know. I think you might look sexy with long hair. The kind that flows down to your shoulders and blows back while riding on a horse, bareback and bare-chested. I\u2019m gonna go brush my teeth, it might take a while."
+            ],
+            [
+                158,
+                "He showed up in the middle of the night with his bongos. I foolishly thought it was some sort of musical booty call."
+            ],
+            [
+                160,
+                "That was kind of uncalled for."
+            ],
+            [
+                169,
+                "There\u2019s not a hair on my body I wouldn\u2019t let this woman trim."
+            ],
+            [
+                171,
+                "There\u2019s only so many times a woman can say how about the bed?"
+            ]
+        ],
+        "Howard (on Skype)": [
+            [
+                57,
+                "Hi."
+            ],
+            [
+                109,
+                "Hi."
+            ]
+        ],
+        "Bernadette": [
+            [
+                58,
+                "Hi, sweetie."
+            ],
+            [
+                60,
+                "I miss you, too. So tell me all about your first day."
+            ],
+            [
+                62,
+                "Cool. How do they do that?"
+            ],
+            [
+                64,
+                "You threw up?"
+            ],
+            [
+                66,
+                "That sounds mean."
+            ],
+            [
+                68,
+                "Sure, why?"
+            ],
+            [
+                110,
+                "Howie, what happened to you?"
+            ],
+            [
+                112,
+                "Survival training? Is that like camping?"
+            ],
+            [
+                114,
+                "Do you sleep in tents?"
+            ],
+            [
+                116,
+                "Poor baby."
+            ],
+            [
+                118,
+                "You\u2019re so brave. I\u2019m proud of you."
+            ],
+            [
+                120,
+                "Are you crying?"
+            ],
+            [
+                122,
+                "Howie, if you\u2019re not able to do this, come home. It won\u2019t change how I feel about you."
+            ],
+            [
+                124,
+                "Well, is there anything I could do to help?"
+            ],
+            [
+                150,
+                "Surprise."
+            ],
+            [
+                152,
+                "I\u2019m here to help you get through this. You can\u2019t do it on your own, you need someone to take care of you."
+            ],
+            [
+                154,
+                "Oh, I love you."
+            ]
+        ],
+        "Nurse": [
+            [
+                72,
+                "Can I help you?"
+            ],
+            [
+                74,
+                "Oh, dear, did we spit out our pills, slip out of the ninth floor, and go on a little adventure?"
+            ],
+            [
+                76,
+                "I-I see. J-Jus-Just wait here one moment. Security!"
+            ]
+        ],
+        "Leonard (going to living room)": [
+            [
+                127,
+                "Don\u2019t let this be Sheldon playing bongos. Please don\u2019t let this be Sheldon playing bongos."
+            ]
+        ],
+        "Penny (entering)": [
+            [
+                136,
+                "What the hell?!"
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                155,
+                "Howard, your bath is getting cold!"
+            ]
+        ],
+        "Sgeldon": [
+            [
+                184,
+                "Thank you very much."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "A barber\u2019s shop."
+        ],
+        [
+            "Leonard",
+            "I\u2019m just gonna run to the store and get a few things. I\u2019ll pick you up when you\u2019re done."
+        ],
+        [
+            "Sheldon",
+            "Okay. I like it a little better when you stay, but all right."
+        ],
+        [
+            "Barber",
+            "Hey, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hello. I\u2019m here for my haircut with Mr. D\u2019Onofrio."
+        ],
+        [
+            "Barber",
+            "I\u2019m sorry, Uncle Tony\u2019s in the hospital. He\u2019s pretty sick."
+        ],
+        [
+            "Sheldon",
+            "Oh, dear, Mr. D\u2019Onofrio\u2019s in the hospital. Why do these things always happen to me?"
+        ],
+        [
+            "Barber",
+            "I can cut it for you."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re not Mr. D\u2019Onofrio. I get my hair cut by Mr. D\u2019Onofrio. You believe this guy?"
+        ],
+        [
+            "Leonard",
+            "Excuse us for a second. Sheldon, it\u2019s okay, he can do it. He\u2019s a barber."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s not a barber, he\u2019s the nephew. He\u2019s an example of the kind of nepotism that runs rampant in the barbering industry. Besides, Mr. D\u2019Onofrio knows exactly how I like my hair done because he has all my haircut records from my barber in Texas."
+        ],
+        [
+            "Leonard",
+            "What are you talking about?"
+        ],
+        [
+            "Sheldon",
+            "When I first moved here I was nervous about finding a new barber, so my mother had all my haircut records sent here to Mr. D\u2019Onofrio."
+        ],
+        [
+            "Leonard",
+            "There\u2019s no such thing as haircut records."
+        ],
+        [
+            "Sheldon",
+            "Yes, there are."
+        ],
+        [
+            "Leonard",
+            "Have you ever seen them?"
+        ],
+        [
+            "Sheldon",
+            "No, but my mother assured me they were sent here, and I\u2019ll bet you dollars to doughnuts that this one doesn\u2019t have them. Uh, excuse me. Do you have access to my haircut records?"
+        ],
+        [
+            "Barber",
+            "Your what?"
+        ],
+        [
+            "Sheldon",
+            "To paraphrase T.S. Eliot, this is the way the world ends, not with a bang but with a nephew."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you\u2019re a grown man, he\u2019s a professional, and your haircut is number three on that poster from 1946. Just sit down and let him do it."
+        ],
+        [
+            "Sheldon",
+            "Fine, but if I come out of this looking like a dork, it\u2019s on you. (Sits)"
+        ],
+        [
+            "Barber",
+            "So my kid said the funniest thing today."
+        ],
+        [
+            "Sheldon",
+            "Nope. (Runs out)"
+        ],
+        [
+            "Leonard",
+            "When you tell this story later, the word we usually use is quirky."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Can you pass the Parmesan cheese?"
+        ],
+        [
+            "Leonard",
+            "Sure. What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m trying to get the hair out of my eyes."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you are one day late for your haircut."
+        ],
+        [
+            "Sheldon",
+            "Thank you for captioning my nightmare."
+        ],
+        [
+            "Howard",
+            "Lookie here, I got my travel orders."
+        ],
+        [
+            "Raj",
+            "Payload Specialist Howard Wolowitz is requested to report to the NASA Johnson Space Center, Houston, Texas, for astronaut training Monday eight a.m."
+        ],
+        [
+            "Howard",
+            "Yeah, but it\u2019s from NASA, so it\u2019s oh eight hundred."
+        ],
+        [
+            "Raj",
+            "But it says eight a.m."
+        ],
+        [
+            "Howard",
+            "You read it as oh eight hundred."
+        ],
+        [
+            "Raj",
+            "It doesn\u2019t have an oh in front of it."
+        ],
+        [
+            "Howard",
+            "You know what does have an oh in front of it? Oh, my God, I\u2019m an astronaut, and you\u2019re dying of jealousy."
+        ],
+        [
+            "Leonard",
+            "So, what kind of things are they\u2026 (to Sheldon) will you stop that?"
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t help it, I feel like a teen heartthrob."
+        ],
+        [
+            "Penny",
+            "You know, Sheldon, I used to cut my brother\u2019s hair. I could do it for you."
+        ],
+        [
+            "Sheldon",
+            "Penny, I know you mean well, offering the skills of the hill folk, but, um, here in town we don\u2019t churn our own butter, we don\u2019t, uh, make dresses out of gunny sacks, and, uh, we sure as shootin\u2019 don\u2019t get our hair cut by bottle-blonde\u2026"
+        ],
+        [
+            "Leonard",
+            "Sheldon, be nice."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, it\u2019s the bad boy attitude that comes with this hair."
+        ],
+        [
+            "Raj",
+            "You could go to my guy. He\u2019s at Juan-Juan in Beverly Hills. They bring you a cup of tea, they\u2019ll massage your scalp. It\u2019s about two hundred dollars, but sometimes you look in the next chair and you see a superstar like Tony Danza."
+        ],
+        [
+            "Howard",
+            "Quick question here, have we actually changed the conversation from I\u2019m going"
+        ],
+        [
+            "Scene",
+            "to astronaut training to Sheldon can\u2019t get a haircut?"
+        ],
+        [
+            "Raj",
+            "Now who\u2019s dying of jealousy? Oh, it\u2019s you."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. Amy is playing her harp."
+        ],
+        [
+            "Amy",
+            "I\u2019m a cowboy, on a steel horse I ride. I\u2019m wanted\u2026 I\u2019m wanted\u2026 wanted, dead or alive. Sheldon, you\u2019re ruining girlfriend-boyfriend sing-along night."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. I\u2019m looking for a barber and I\u2019m running out of time. My hair is growing at the rate of 4.6 yoctometers per femtosecond. I mean, if you\u2019re quiet, you can hear it."
+        ],
+        [
+            "Amy",
+            "What about Supercuts?"
+        ],
+        [
+            "Sheldon",
+            "I tried once. They do men\u2019s and women\u2019s hair in the same room at the same time. It\u2019s like Sodom and Gomorrah with mousse."
+        ],
+        [
+            "Amy",
+            "Well, this isn\u2019t a crisis. Why don\u2019t you just let your hair grow out a little?"
+        ],
+        [
+            "Sheldon",
+            "Why don\u2019t I let my hair grow out? Um, why don\u2019t I start wearing Birkenstocks and, uh, uh, seeking validation of my opinions by asking can you dig it?"
+        ],
+        [
+            "Amy",
+            "Well, I don\u2019t know. I think you might look sexy with long hair. The kind that flows down to your shoulders and blows back while riding on a horse, bareback and bare-chested. I\u2019m gonna go brush my teeth, it might take a while."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s bedroom."
+        ],
+        [
+            "Howard (on Skype)",
+            "Hi."
+        ],
+        [
+            "Bernadette",
+            "Hi, sweetie."
+        ],
+        [
+            "Howard",
+            "I miss you."
+        ],
+        [
+            "Bernadette",
+            "I miss you, too. So tell me all about your first day."
+        ],
+        [
+            "Howard",
+            "Oh, wow, where do I even start? I got to experience zero gravity."
+        ],
+        [
+            "Bernadette",
+            "Cool. How do they do that?"
+        ],
+        [
+            "Howard",
+            "It\u2019s pretty neat. You get in this plane that goes almost straight up for, like, 20 seconds, and then straight back down like it\u2019s going to crash, and they do it over and over again, you know, no matter how many times you throw up."
+        ],
+        [
+            "Bernadette",
+            "You threw up?"
+        ],
+        [
+            "Howard",
+            "Yeah, and the craziest part is, because there\u2019s no gravity, the throw-up kind of floats there, in a little ball, and if your mouth is open because you\u2019re screaming, sometimes it just floats right back in. Boy, does everyone laugh at you when that happens."
+        ],
+        [
+            "Bernadette",
+            "That sounds mean."
+        ],
+        [
+            "Howard",
+            "No. Yeah, I would have laughed, too, but I didn\u2019t want the vomit to come back out. Anyway, oh, could you do me a favour and overnight me some more underwear?"
+        ],
+        [
+            "Bernadette",
+            "Sure, why?"
+        ],
+        [
+            "Howard",
+            "I got a look at the centrifuge they\u2019re going to spin me around in tomorrow, and I have a hunch I packed a little light."
+        ],
+        [
+            "Scene",
+            "A hospital ward."
+        ],
+        [
+            "Sheldon",
+            "Mr. D\u2019Onofrio? It\u2019s Sheldon. They didn\u2019t have anything barber-themed in the gift shop, so I got you this. I don\u2019t know if you can read his little T-shirt. It says, um, get well bear-y soon. Trust me, if you were even a little conscious right now, you\u2019d be laughing. Anyway, there\u2019s new studies that show, people in comas are aware of everything going on around them. With that in mind, if you can hear me, move away from the light and toward the sound of these scissors."
+        ],
+        [
+            "Nurse",
+            "Can I help you?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Do you have something I could use as a cape?"
+        ],
+        [
+            "Nurse",
+            "Oh, dear, did we spit out our pills, slip out of the ninth floor, and go on a little adventure?"
+        ],
+        [
+            "Sheldon",
+            "Oh, no, no, I\u2019m just here to get my hair cut."
+        ],
+        [
+            "Nurse",
+            "I-I see. J-Jus-Just wait here one moment. Security!"
+        ],
+        [
+            "Sheldon",
+            "I got to run. But not with scissors, that would be unsafe."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "So, if I move my horsey here, isn\u2019t that checkmate and I win?"
+        ],
+        [
+            "Leonard",
+            "Hmm."
+        ],
+        [
+            "Penny",
+            "Well, is it or isn\u2019t it?"
+        ],
+        [
+            "Leonard",
+            "You know, I think this is a good stopping point. Uh, it\u2019s your first real game. I threw a lot of information at you."
+        ],
+        [
+            "Penny",
+            "Well, no, I mean, your king is trapped. He can\u2019t go here because of my lighthouse, and he can\u2019t go here because of my pointy-head guy."
+        ],
+        [
+            "Leonard",
+            "Like I said, complicated game."
+        ],
+        [
+            "Penny",
+            "So did I win or not?"
+        ],
+        [
+            "Leonard",
+            "Did you have fun? Because if you had fun, then you are, you are a winner. Now that\u2019s, that-that\u2019s what chess is all about."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "Oh, hey. Sorry, Sheldon, I\u2019ll move."
+        ],
+        [
+            "Sheldon",
+            "Eh, why? My spot, your spot, what difference does it make?"
+        ],
+        [
+            "Penny",
+            "Okay, what just happened?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. Between you playing chess like Bobby Fischer and Sheldon being okay with you in his spot, I\u2019m guessing someone went back in time, stepped on a bug, and changed the course of human events."
+        ],
+        [
+            "Penny",
+            "Uh, sweetie, are you all right?"
+        ],
+        [
+            "Sheldon",
+            "No, I\u2019m not all right. It\u2019s been six days since I was supposed to get a haircut and nothing horrible has happened."
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019m sorry, I don\u2019t understand."
+        ],
+        [
+            "Sheldon",
+            "Leonard, explain it to her."
+        ],
+        [
+            "Leonard",
+            "Oh, uh, he\u2019s crazy."
+        ],
+        [
+            "Sheldon",
+            "I have spent my whole life trying to bring order to the universe by carefully planning every moment of every day. But all my efforts, our dinner schedule, my pyjama rotation, my bowel movement spreadsheet, it\u2019s clear now, I\u2019ve been wasting my time."
+        ],
+        [
+            "Leonard",
+            "Good. I\u2019m taking that disgusting chart off the fridge."
+        ],
+        [
+            "Penny",
+            "You know, Sh-Sheldon, sometimes it\u2019s nice not knowing what\u2019s coming. I mean, look at me and Leonard. We went out, we broke up, now we\u2019re trying again. We don\u2019t know what\u2019s gonna happen."
+        ],
+        [
+            "Sheldon",
+            "Oh, please, everyone knows what\u2019s going to happen. But I see your point."
+        ],
+        [
+            "Leonard",
+            "I think this could be good for you. Maybe it\u2019s time for you to shake things up a bit."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right. I should embrace the chaos."
+        ],
+        [
+            "Leonard",
+            "Great. What are you going to do first?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know. I could do anything. All bets are off. The world is my oyster. I got it. I\u2019m going to put on my Tuesday pyjamas tonight."
+        ],
+        [
+            "Leonard",
+            "I got to tell you, I\u2019m a little worried about him."
+        ],
+        [
+            "Penny",
+            "If I were you, I\u2019d be worried that a girl who\u2019s never played chess in her life just kicked your ass."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s bedroom."
+        ],
+        [
+            "Howard (on Skype)",
+            "Hi."
+        ],
+        [
+            "Bernadette",
+            "Howie, what happened to you?"
+        ],
+        [
+            "Howard",
+            "We did overnight survival training in the wilderness. Big fun. Big, big fun. I was gonna freshen up for you but I blacked out a little on the way to the bathroom."
+        ],
+        [
+            "Bernadette",
+            "Survival training? Is that like camping?"
+        ],
+        [
+            "Howard",
+            "Uh-huh. Except you don\u2019t have food or water, and they don\u2019t have a sunset Sabbath service like they do at Camp Hess-Kramer."
+        ],
+        [
+            "Bernadette",
+            "Do you sleep in tents?"
+        ],
+        [
+            "Howard",
+            "No. I slept in a hole I dug in the ground with my bare hands. And at some point during the night, an armadillo crawled in and spooned me."
+        ],
+        [
+            "Bernadette",
+            "Poor baby."
+        ],
+        [
+            "Howard",
+            "But I did it. I survived. I wasn\u2019t sure I was going to when the sandstorm hit. I just pulled my turtleneck up over my head and waited for death. But somehow as I sat there, wrapped in a cocoon of my own neck-sweat, I found that primal part of the human spirit that just wants to keep on living, no matter what the cost."
+        ],
+        [
+            "Bernadette",
+            "You\u2019re so brave. I\u2019m proud of you."
+        ],
+        [
+            "Howard",
+            "I ate a butterfly. It was so small and beautiful, but I was so hungry."
+        ],
+        [
+            "Bernadette",
+            "Are you crying?"
+        ],
+        [
+            "Howard",
+            "No, I don\u2019t think it\u2019s possible. I\u2019m severely dehydrated. My pee is like toothpaste."
+        ],
+        [
+            "Bernadette",
+            "Howie, if you\u2019re not able to do this, come home. It won\u2019t change how I feel about you."
+        ],
+        [
+            "Howard",
+            "Thanks, honey, but I can\u2019t quit. If I do, I\u2019ll just be a guy who had a chance to be an astronaut and gave it up."
+        ],
+        [
+            "Bernadette",
+            "Well, is there anything I could do to help?"
+        ],
+        [
+            "Howard",
+            "No. Wait. Send more underwear."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom. Leonard wakes to the sound of bongos."
+        ],
+        [
+            "Leonard (going to living room)",
+            "Don\u2019t let this be Sheldon playing bongos. Please don\u2019t let this be Sheldon playing bongos."
+        ],
+        [
+            "Sheldon",
+            "Hello, Leonard, do you like my bongos? Bet you didn\u2019t know that I had bongos."
+        ],
+        [
+            "Leonard",
+            "Sheldon, it\u2019s three o\u2019clock in the morning."
+        ],
+        [
+            "Sheldon",
+            "Three in the morning is a good time for bongos."
+        ],
+        [
+            "Leonard",
+            "I was sleeping."
+        ],
+        [
+            "Sheldon",
+            "Leonard sleeps while I play bongos."
+        ],
+        [
+            "Leonard",
+            "No, he doesn\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Leonard no sleep while I play bongos. Bongo solo."
+        ],
+        [
+            "Leonard",
+            "Stop! Stop it! Stop! Stop! Stop it!"
+        ],
+        [
+            "Penny (entering)",
+            "What the hell?!"
+        ],
+        [
+            "Leonard",
+            "Oh, hi, Penny, guess what? Sheldon got bongos."
+        ],
+        [
+            "Penny",
+            "Why did you get bongos?"
+        ],
+        [
+            "Sheldon",
+            "Richard Feynman played the bongos. I thought I\u2019d give that a try."
+        ],
+        [
+            "Leonard",
+            "Richard Feynman was a famous physicist."
+        ],
+        [
+            "Penny",
+            "Oh, Leonard, it\u2019s three o\u2019clock in the morning. I don\u2019t care if Richard Feynman was a purple leprechaun who lived in my butt."
+        ],
+        [
+            "Sheldon",
+            "Penny meant if he were a purple leprechaun. Penny forgot to use the subjunctive."
+        ],
+        [
+            "Leonard",
+            "Sheldon, go to bed. You have work in the morning."
+        ],
+        [
+            "Sheldon",
+            "Maybe, maybe not. Maybe tomorrow I start a bongo band and tour the world."
+        ],
+        [
+            "Leonard",
+            "W-w-wuh, no, no, hang on,uh, uh, roommate agreement. No hootenannies, sing-a-longs, or barbershop quartets after ten p.m."
+        ],
+        [
+            "Sheldon",
+            "Roommate agreement? Are you kidding? We are living in a world of chaos. Roommate agreement."
+        ],
+        [
+            "Penny",
+            "Where are you going?"
+        ],
+        [
+            "Sheldon",
+            "Wherever the music takes me, kitten. I play bongos walking down the stairs. (Sound of falling) Oh! Oh! Never play bongos walking down the stairs."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s hotel room. There is a knock on the door."
+        ],
+        [
+            "Bernadette",
+            "Surprise."
+        ],
+        [
+            "Howard",
+            "What are you doing here?"
+        ],
+        [
+            "Bernadette",
+            "I\u2019m here to help you get through this. You can\u2019t do it on your own, you need someone to take care of you."
+        ],
+        [
+            "Howard",
+            "Oh, I love you so much."
+        ],
+        [
+            "Bernadette",
+            "Oh, I love you."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Howard, your bath is getting cold!"
+        ],
+        [
+            "Howard",
+            "Don\u2019t worry, once she falls asleep, I\u2019ll spoon you like an armadillo."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "He showed up in the middle of the night with his bongos. I foolishly thought it was some sort of musical booty call."
+        ],
+        [
+            "Leonard",
+            "Poor guy. He must have been exhausted. Sheldon like to sleep while Leonard play the bongo!"
+        ],
+        [
+            "Amy",
+            "That was kind of uncalled for."
+        ],
+        [
+            "Leonard",
+            "No, it was called for."
+        ],
+        [
+            "Sheldon",
+            "What\u2019s going on?"
+        ],
+        [
+            "Penny",
+            "All right, Sheldon, this craziness has gone on long enough. Please come home so I can cut your hair."
+        ],
+        [
+            "Sheldon",
+            "Penny, you\u2019re not trained. You\u2019re not licensed. Most importantly, you don\u2019t have access to my haircut records."
+        ],
+        [
+            "Penny",
+            "All right, honey, look, we\u2019ve known each other for a long time now, right? I\u2019ve taken you to Disneyland, I kicked a bully in the nuts for you, I sing you Soft Kitty when you\u2019re sick, you\u2019ve even saw me naked once."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, duh, what?"
+        ],
+        [
+            "Penny",
+            "It was a long story. Anyway, Sheldon, I promise I know what I\u2019m doing. Please let me cut your hair."
+        ],
+        [
+            "Sheldon",
+            "Amy, what do you think?"
+        ],
+        [
+            "Amy",
+            "There\u2019s not a hair on my body I wouldn\u2019t let this woman trim."
+        ],
+        [
+            "Sheldon",
+            "Fine, let\u2019s go. Thank you for letting me sleep on your couch."
+        ],
+        [
+            "Amy",
+            "There\u2019s only so many times a woman can say how about the bed?"
+        ],
+        [
+            "Leonard",
+            "What\u2019s this about Sheldon seeing you naked?"
+        ],
+        [
+            "Sheldon",
+            "Oh, relax. It was just her bottom and her breasts."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. Penny is cutting Sheldon\u2019s hair."
+        ],
+        [
+            "Penny",
+            "Almost done."
+        ],
+        [
+            "Sheldon",
+            "At the end of the haircut, Mr. D\u2019Onofrio would tell me a dirty joke."
+        ],
+        [
+            "Penny",
+            "Well, sorry, I don\u2019t know any dirty jokes."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s okay, I never understood them anyway."
+        ],
+        [
+            "Penny",
+            "Okay, what do you think?"
+        ],
+        [
+            "Sheldon",
+            "Hmm, well, it\u2019s a little Hollywood. But I think I can pull it off. Well done, Penny."
+        ],
+        [
+            "Penny",
+            "Ha, told you. Okay, I\u2019m just gonna clean up your neck a little and then you are good to go."
+        ],
+        [
+            "Sheldon",
+            "Fun time. Hah. Sorry, sometimes the clippers tickle me."
+        ],
+        [
+            "Penny",
+            "Okay. (Sheldon laughs and jerks, Penny accidentally shaves a strip up the back of his head) Okay, yep, we\u2019re all done now. It\u2019s just, it\u2019s good. Let me just take that away from you. Okay."
+        ],
+        [
+            "Sgeldon",
+            "Thank you very much."
+        ],
+        [
+            "Penny",
+            "You are welcome. Yeah, I\u2019m gonna have to move."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-18-the-werewolf-transformation/"
+}

@@ -1,0 +1,2022 @@
+{
+    "Season": 9,
+    "Episode": 15,
+    "Title": "the valentino submergence",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The cafeteria."
+            ],
+            [
+                20,
+                "Credits sequence."
+            ],
+            [
+                21,
+                "Penny\u2019s apartment."
+            ],
+            [
+                30,
+                "Emily\u2019s apartment."
+            ],
+            [
+                35,
+                "Raj\u2019s apartment."
+            ],
+            [
+                40,
+                "Emily\u2019s apartment. "
+            ],
+            [
+                42,
+                "Penny\u2019s apartment."
+            ],
+            [
+                45,
+                "The apartment."
+            ],
+            [
+                55,
+                "Howard and Bernadette\u2019s house. "
+            ],
+            [
+                67,
+                "A restaurant. "
+            ],
+            [
+                84,
+                "The apartment."
+            ],
+            [
+                99,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                109,
+                "The restaurant."
+            ],
+            [
+                131,
+                "The apartment."
+            ],
+            [
+                145,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                158,
+                "Leonard\u2019s car."
+            ],
+            [
+                176,
+                "The apartment."
+            ],
+            [
+                198,
+                "Leonard\u2019s car."
+            ],
+            [
+                211,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                222,
+                "The apartment."
+            ],
+            [
+                239,
+                "The apartment."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Gentlemen."
+            ],
+            [
+                5,
+                "If any of you are looking for something to do on Valentine\u2019s Day, Amy and I\u2019ll be streaming our first-ever live episode of Fun With Flags. You\u2019re welcome to join us as we celebrate the timeless love affair between wind and flapping fabric."
+            ],
+            [
+                8,
+                "Not a clue. Raj?"
+            ],
+            [
+                19,
+                "You know, uh, once I ordered an Uber by accident. I just got in and went somewhere."
+            ],
+            [
+                47,
+                "I\u2019m nervous. I hope people will be around to watch even though it\u2019s Valentine\u2019s Day."
+            ],
+            [
+                49,
+                "Oh, and speaking of Valentine\u2019s Day, I haven\u2019t forgotten about you tonight."
+            ],
+            [
+                51,
+                "Well, you\u2019ve become such an integral part of my life as well as this show, I felt it only right to include your name in the title."
+            ],
+            [
+                53,
+                "So from now on, this program will be officially known as Dr. Sheldon Cooper and Dr. Amy Farrah Fowler present Dr. Sheldon\u2019 Cooper\u2019s Fun With Flags."
+            ],
+            [
+                86,
+                "Uh, hello and welcome to a special live edition of Dr. Sheldon Cooper\u2026"
+            ],
+            [
+                90,
+                "It\u2019s also my gift to you. That was clear, right? \u2018Cause you\u2019re not getting anything else."
+            ],
+            [
+                92,
+                "Allow us to answer a few quick ones that we get all the time. Uh, uh, yes, I really am a doctor. Uh, yes, she really is my girlfriend."
+            ],
+            [
+                98,
+                "You know what, that\u2019s not a flag question. Next caller."
+            ],
+            [
+                134,
+                "Yeah, you know what\u2019s not normal? Blubbering about emotions during a flag show. Unless that emotion is excitement over New Zealand changing their flag. Yeah, good luck, you crazy Kiwis, we\u2019re rooting for you."
+            ],
+            [
+                137,
+                "I suppose that could be a legitimate concern in a relationship. Uh, perhaps even a, a red flag. And speaking of red flags, check out this sexy number from the former Soviet Union. Hubba, hubba."
+            ],
+            [
+                142,
+                "Please, all comments and questions should be flag-related."
+            ],
+            [
+                144,
+                "I don\u2019t see why not."
+            ],
+            [
+                178,
+                "Speaking of ending relationships, when British Honduras became Belize, they designed a new flag with a tree on it, and I would like to hang myself from that tree."
+            ],
+            [
+                181,
+                "And actually, it was three different men."
+            ],
+            [
+                191,
+                "Well, you know, here is something that might cheer you up. The flag of the Isle of Man is nothing but three legs sharing a weird pair of underpants, so you think you got problems."
+            ],
+            [
+                225,
+                "All right. Nothing about this is fun. No one wants to talk about flags, and I haven\u2019t spoken in over ten minutes, so, enjoy your new show, Internet. Dr. Amy Farrah Flower present with."
+            ],
+            [
+                228,
+                "Fine. If you insist on making me a part of this, yes, I knowledge how painful they can be. However, pain has an evolutionary purpose. It provides information from the environment that, uh, behaviour isn\u2019t good for us."
+            ],
+            [
+                231,
+                "Raj, now, I\u2019m sorry you\u2019re suffering. When Amy and I were broken up, I also suffered. And this may sound surprising, but I\u2019m grateful for having gone through it."
+            ],
+            [
+                233,
+                "Yes. I believe our relationship now is stronger than ever."
+            ],
+            [
+                235,
+                "When, when we were apart, I learned how important you are to me. And I realize that when two people are in love, sometimes they\u2026"
+            ],
+            [
+                238,
+                "I stand corrected. Fun."
+            ],
+            [
+                240,
+                "Congratulations on a successful live show."
+            ],
+            [
+                244,
+                "Did you know the singular of confetti is confetto?"
+            ],
+            [
+                246,
+                "I\u2019m glad you asked. Amy, you have a confetto in your nose. No, no, no, no. Other side. There you go."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Hey."
+            ],
+            [
+                6,
+                "Penny and I have dinner reservations that night, but any other time, no."
+            ],
+            [
+                10,
+                "You don\u2019t sound very excited about it."
+            ],
+            [
+                15,
+                "Yeah, just get it over with."
+            ],
+            [
+                18,
+                "Not really."
+            ],
+            [
+                25,
+                "I stopped counting at four."
+            ],
+            [
+                28,
+                "She meant Emily."
+            ],
+            [
+                44,
+                "Well, you were right, tears."
+            ],
+            [
+                68,
+                "Excuse me. Uh, bad news. The ma\u00eetre d\u2019 said it\u2019s gonna be at least an hour."
+            ],
+            [
+                70,
+                "I know."
+            ],
+            [
+                72,
+                "Thanks, sorry to bother you. But I said it like a badass."
+            ],
+            [
+                74,
+                "Really? I\u2019ve never done that before. Does it work?"
+            ],
+            [
+                76,
+                "A lot of attitude from the woman who thought MC squared was a rapper."
+            ],
+            [
+                78,
+                "I\u2019m sorry. You\u2019re pretty, I\u2019m stupid. Hello. Uh, just checking again for Hofstadter. Still gonna be an hour?"
+            ],
+            [
+                80,
+                "Okay. Thanks. Hey. I think you may have dropped this?"
+            ],
+            [
+                83,
+                "Oh, I took care of it."
+            ],
+            [
+                111,
+                "What are you gonna say?"
+            ],
+            [
+                113,
+                "I don\u2019t know if I\u2019m comfortable with that."
+            ],
+            [
+                115,
+                "See if you can get a table by the window."
+            ],
+            [
+                129,
+                "What? Why?"
+            ],
+            [
+                159,
+                "It\u2019s not what we planned, but this isn\u2019t so bad, right?"
+            ],
+            [
+                161,
+                "Well, glad you\u2019re feeling better."
+            ],
+            [
+                163,
+                "Is that a big deal?"
+            ],
+            [
+                165,
+                "Sixth grade, but I wore a sport coat and carried a briefcase, so\u2026"
+            ],
+            [
+                167,
+                "Mm, you watched The Bachelor a lot."
+            ],
+            [
+                169,
+                "No, they\u2019re not."
+            ],
+            [
+                171,
+                "Ha, ha. You married an old man. Tell you what. Let\u2019s do something fun tonight."
+            ],
+            [
+                173,
+                "Well, maybe not, but some day we actually will be old, and we\u2019ll look back on this night and remember what a good time we had."
+            ],
+            [
+                175,
+                "I know. Food fight. I\u2019ll keep thinking."
+            ],
+            [
+                199,
+                "Let\u2019s see. What\u2019s young and fun? Uh, we could go dancing."
+            ],
+            [
+                200,
+                "Are you actually gonna dance?"
+            ],
+            [
+                201,
+                "Of course."
+            ],
+            [
+                203,
+                "No, I don\u2019t need any fish nibbling my business."
+            ],
+            [
+                205,
+                "That sounds fun. When\u2019s it start?"
+            ],
+            [
+                207,
+                "Midnight. Really? You know what? Let\u2019s do it."
+            ],
+            [
+                209,
+                "Oh, thank God."
+            ],
+            [
+                237,
+                "We are young and fun."
+            ],
+            [
+                243,
+                "It can be. Confetti fight. Maybe you should take a break. I got this."
+            ]
+        ],
+        "Raj": [
+            [
+                3,
+                "Hey."
+            ],
+            [
+                9,
+                "Spending Valentine\u2019s Day with Emily."
+            ],
+            [
+                11,
+                "Oh, I am, I am. I, I guess I\u2019m still wondering if Emily and I are right for each other."
+            ],
+            [
+                13,
+                "You mean the strong, sexy angel I can\u2019t stop thinking about? Who can say?"
+            ],
+            [
+                16,
+                "Well, you say it like it\u2019s easy. Have any one of you ever broken up with anyone?"
+            ],
+            [
+                23,
+                "Yeah, I think so. Do you have any advice?"
+            ],
+            [
+                27,
+                "Oh, I\u2019m gonna do a pre-cry before I go in there. Really dry myself out."
+            ],
+            [
+                32,
+                "Yeah."
+            ],
+            [
+                34,
+                "You\u2019re right, let\u2019s talk again in a few days."
+            ],
+            [
+                38,
+                "But I just broke up with my girlfriend."
+            ],
+            [
+                41,
+                "Please take me back. Our love was meant to be."
+            ],
+            [
+                43,
+                "I\u2019m gonna all alone on Valentine\u2019s Day."
+            ],
+            [
+                96,
+                "Yes. Whenever things are going well, I always find a way to ruin it. You two look happy, how do you do it?"
+            ],
+            [
+                136,
+                "No, Sheldon\u2019s right. Emily did say I always talk about my feelings too much."
+            ],
+            [
+                140,
+                "Kripke? Is that you?"
+            ],
+            [
+                179,
+                "But, Amy, when you and Sheldon split up, didn\u2019t you start dating someone right away?"
+            ],
+            [
+                190,
+                "Before Emily, I was alone for so long. I just, I don\u2019t know if I can do that again."
+            ],
+            [
+                193,
+                "Rich parents, don\u2019t forget, rich parents."
+            ],
+            [
+                226,
+                "I\u2019m sorry for bothering you. I\u2019ll hang up now."
+            ]
+        ],
+        "Howard": [
+            [
+                4,
+                "Hello."
+            ],
+            [
+                7,
+                "Sorry, Bernie and I are breaking in the new hot tub, if you know what I mean."
+            ],
+            [
+                12,
+                "Does this have to do with that girl you had coffee with?"
+            ],
+            [
+                14,
+                "You\u2019ve been talking about breaking up with Emily forever. Why don\u2019t you just do it already?"
+            ],
+            [
+                17,
+                "No."
+            ],
+            [
+                56,
+                "I\u2019m gonna check the temp on the tub."
+            ],
+            [
+                58,
+                "Sorry, but too hot is the only temperature I come in."
+            ],
+            [
+                60,
+                "You\u2019re welcome. Um, question, this is my first hot tub, is it supposed to come with a rat flopping around in it?"
+            ],
+            [
+                62,
+                "How?"
+            ],
+            [
+                64,
+                "Uh, you turn off the jets, I\u2019ll get a strainer from the kitchen."
+            ],
+            [
+                66,
+                "Good, I don\u2019t know where we keep the strainer."
+            ],
+            [
+                100,
+                "I hope you don\u2019t think I\u2019m just saying this because it\u2019s Valentine\u2019s Day, but, I love you so much."
+            ],
+            [
+                102,
+                "Well, should we put it back in there a few minutes?"
+            ],
+            [
+                104,
+                "Well, how do we do that?"
+            ],
+            [
+                106,
+                "Um, taking care of injured rabbit. Okay. Make sure it\u2019s comfortable and warm. Well, it was just in a hot tub. I\u2019m gonna say check."
+            ],
+            [
+                108,
+                "To make sure it\u2019s not dehydrated, feed him an electrolyte solution. If it\u2019s not responding, use a warm cloth to wash its face and genitals. Yeah."
+            ],
+            [
+                147,
+                "You\u2019re gonna have to wait one hour until you can go swimming again."
+            ],
+            [
+                149,
+                "He is. Should we name him?"
+            ],
+            [
+                151,
+                "Nice. A classic rabbit name. Peter Rabbit, Roger Rabbit. Valentino Wolowitz Rabbit. Oh, look at all that chest hair and overbite. Of course you\u2019re a Wolowitz. Son of a bitch, he bit me."
+            ],
+            [
+                153,
+                "No, I\u2019m not okay. Wild rabbits can have rabies."
+            ],
+            [
+                155,
+                "Poor judgement, obviously."
+            ],
+            [
+                157,
+                "How can it be fine? I just got attacked by a clearly anti-Semitic wild animal."
+            ],
+            [
+                212,
+                "It says, rabies in rabbits is highly unlikely."
+            ],
+            [
+                214,
+                "It\u2019s not terrific. Lots of highly unlikely things happen. You saw what\u2019s under this robe, and you still married me."
+            ],
+            [
+                216,
+                "Good. Thank you. Oh, okay, there is a test. All they have to do is cut off his head and check his brain."
+            ],
+            [
+                218,
+                "He\u2019s not showing any symptoms. I guess I\u2019ll just go to the emergency room to be safe."
+            ],
+            [
+                220,
+                "No, when I sat on the mute button and thought I\u2019d gone deaf, that was my hypochondria."
+            ]
+        ],
+        "Penny": [
+            [
+                22,
+                "So, you really gonna break up with her?"
+            ],
+            [
+                24,
+                "Well, I have broken up with my fair share of guys. I mean, how many times did I break up with Leonard?"
+            ],
+            [
+                26,
+                "All right, my advice to you is do it at her place so you can leave when you need to, uh, tell the truth, make it quick and be prepared for tears."
+            ],
+            [
+                29,
+                "No, I, I really didn\u2019t."
+            ],
+            [
+                69,
+                "An hour? What? That\u2019s crazy. We have a reservation."
+            ],
+            [
+                71,
+                "So what did you say?"
+            ],
+            [
+                73,
+                "All right, well, can\u2019t you, like, slip him some money or something?"
+            ],
+            [
+                75,
+                "Do people like money? Is that what you\u2019re asking?"
+            ],
+            [
+                77,
+                "Now, is that a smart thing to say on a holiday that\u2019s basically national sex night?"
+            ],
+            [
+                110,
+                "This is ridiculous. You know, I\u2019m gonna go talk to the ma\u00eetre d\u2019."
+            ],
+            [
+                112,
+                "I don\u2019t know. I\u2019m, I\u2019m gonna flirt with him."
+            ],
+            [
+                114,
+                "I\u2019m still sleeping with you tonight."
+            ],
+            [
+                116,
+                "Hi there. What\u2019s your name?"
+            ],
+            [
+                118,
+                "Oh, boy, it is crazy in here tonight, huh, Glen?"
+            ],
+            [
+                120,
+                "Yes. Oh, bet your girlfriend is super bummed you had to work tonight. Anyway, look, we have been waiting a while, and I just\u2026"
+            ],
+            [
+                122,
+                "You don\u2019t have to call me ma\u2019am."
+            ],
+            [
+                124,
+                "I mean, we\u2019re basically the same age."
+            ],
+            [
+                126,
+                "How old are you?"
+            ],
+            [
+                128,
+                "Just shut up, Glen. Come on, let\u2019s get out of here."
+            ],
+            [
+                130,
+                "Because I\u2019m young. Let\u2019s go."
+            ],
+            [
+                160,
+                "It is freaking amazing."
+            ],
+            [
+                162,
+                "I was just hungry and cranky, and I\u2019ve never been called ma\u2019am before."
+            ],
+            [
+                164,
+                "Kind of. When was the first time someone called you sir?"
+            ],
+            [
+                166,
+                "Can you believe when I met you I was 22? I mean, it\u2019s crazy. Where did all that time go?"
+            ],
+            [
+                168,
+                "Yeah, go ahead and make jokes, but your thirties are almost over."
+            ],
+            [
+                170,
+                "You\u2019re closer to 40 than you are 30."
+            ],
+            [
+                172,
+                "Won\u2019t make us any younger."
+            ],
+            [
+                174,
+                "Okay, like what?"
+            ],
+            [
+                202,
+                "Yeah. No one wants to see that. Hey, how about skinny dipping at the beach?"
+            ],
+            [
+                204,
+                "Oh, there\u2019s a screening of Moulin Rouge, I heard the crowd sings along and stuff."
+            ],
+            [
+                206,
+                "Midnight."
+            ],
+            [
+                208,
+                "Okay, great. Oh, wait. Uh, it\u2019s sold out."
+            ],
+            [
+                210,
+                "Yes."
+            ],
+            [
+                242,
+                "Cleaning up is not young and fun."
+            ]
+        ],
+        "Emily": [
+            [
+                31,
+                "You\u2019re seriously breaking up with me?"
+            ],
+            [
+                33,
+                "And you thought right before Valentine\u2019s Day was a good time to do it?"
+            ]
+        ],
+        "Raj (on phone)": [
+            [
+                36,
+                "Hey, Claire. Hi. It\u2019s, it\u2019s Rajesh. I was, I was wondering if you\u2019re free for Valentine\u2019s Day?"
+            ]
+        ],
+        "Claire": [
+            [
+                37,
+                "Sorry, I just got back with my boyfriend."
+            ],
+            [
+                39,
+                "Right before Valentine\u2019s Day? What an ass."
+            ]
+        ],
+        "Amy": [
+            [
+                46,
+                "Okay, and we are live in 22 minutes."
+            ],
+            [
+                48,
+                "People who are fans of an Internet show about flags? Trust me, they\u2019re around."
+            ],
+            [
+                50,
+                "What do you mean?"
+            ],
+            [
+                52,
+                "Oh. That is so sweet."
+            ],
+            [
+                54,
+                "Catchy."
+            ],
+            [
+                85,
+                "Okay, we are live in five, four, three, oh, wait, oh shoot, I already pushed the button. Never mind, we\u2019re live."
+            ],
+            [
+                87,
+                "And Dr. Amy Farrah Fowler present\u2026"
+            ],
+            [
+                89,
+                "Consider tonight\u2019s episode a Valentine\u2019s Day gift for you, our viewers."
+            ],
+            [
+                91,
+                "Since we\u2019re live, you\u2019ll finally be able to reach out to us with your flag thoughts and flag questions."
+            ],
+            [
+                93,
+                "No, I just blink a lot, it\u2019s not Morse code for rescue me. Oh, uh, ok, uh, here\u2019s our first call. Hello, and welcome to Fun With Flags. What\u2019s your question?"
+            ],
+            [
+                95,
+                "Rajesh?"
+            ],
+            [
+                97,
+                "I, I think it starts with good communication."
+            ],
+            [
+                132,
+                "Rajesh, it\u2019s perfectly normal to have doubts after breaking up with someone."
+            ],
+            [
+                135,
+                "Your friend is hurting."
+            ],
+            [
+                138,
+                "Oh. Uh, we-we have another caller. Hi. You\u2019re on Fun with Flags."
+            ],
+            [
+                177,
+                "Look, I know you both feel bad about being alone, but sometimes the best thing you can do is take a little time for yourself, especially when you just got out of a relationship."
+            ],
+            [
+                180,
+                "Well, I, I wouldn\u2019t say right away."
+            ],
+            [
+                183,
+                "Oh, looks like we just lost Kripke."
+            ],
+            [
+                185,
+                "Now?"
+            ],
+            [
+                187,
+                "Now?"
+            ],
+            [
+                189,
+                "Now? Oh, looks like we just lost Kripke."
+            ],
+            [
+                192,
+                "I have an idea. Maybe someone in our audience would be interested in meeting Rajesh. Ladies, I can attest that he is a kind, handsome, intelligent\u2026"
+            ],
+            [
+                194,
+                "\u2026spoiled astrophysicist who not only\u2026 oh. Well, that was quick. Hi. You\u2019re on Fun with Flags."
+            ],
+            [
+                196,
+                "Hello, Kripke."
+            ],
+            [
+                224,
+                "It really can."
+            ],
+            [
+                227,
+                "No, hold on, Rajesh. You know, you\u2019re not being very sympathetic. You know first hand that breakups are hard."
+            ],
+            [
+                230,
+                "I\u2019m just gonna push all the buttons."
+            ],
+            [
+                232,
+                "Really?"
+            ],
+            [
+                234,
+                "So do I."
+            ],
+            [
+                241,
+                "And a lovely Valentine\u2019s Day."
+            ],
+            [
+                245,
+                "Interesting, and when would you use the singular?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                57,
+                "Don\u2019t make it too hot."
+            ],
+            [
+                59,
+                "Look at that, you shaved it all."
+            ],
+            [
+                61,
+                "Ew, really? Get it out."
+            ],
+            [
+                63,
+                "Uh, wish we had a skimmer."
+            ],
+            [
+                65,
+                "I don\u2019t know how to turn off the jets."
+            ],
+            [
+                101,
+                "I\u2019m gonna put this down your robe. It\u2019s not moving, but I think it\u2019s still alive."
+            ],
+            [
+                103,
+                "No. No, and it\u2019s not a rat, it\u2019s a rabbit. We need to save it."
+            ],
+            [
+                105,
+                "Um, I don\u2019t know, look it up on your phone. I\u2019m gonna wrap it in a towel."
+            ],
+            [
+                107,
+                "Anything else?"
+            ],
+            [
+                146,
+                "He\u2019s eating. That\u2019s a good sign."
+            ],
+            [
+                148,
+                "He\u2019s pretty cute."
+            ],
+            [
+                150,
+                "It is Valentine\u2019s Day. How about Valentino?"
+            ],
+            [
+                152,
+                "Are you okay?"
+            ],
+            [
+                154,
+                "Oh. Well, why did you put your finger near its mouth?"
+            ],
+            [
+                156,
+                "He\u2019s so little. I\u2019m sure it\u2019s fine."
+            ],
+            [
+                213,
+                "Oh, terrific."
+            ],
+            [
+                215,
+                "If you\u2019re really worried, we\u2019ll take him to the vet and have him tested."
+            ],
+            [
+                217,
+                "Oh, cut off his head? That\u2019s where his little nose is."
+            ],
+            [
+                219,
+                "Howie, this is just your hypochondria."
+            ],
+            [
+                221,
+                "We\u2019ll find another time to tell him I\u2019m pregnant."
+            ]
+        ],
+        "Maitre d\u2019": [
+            [
+                79,
+                "I\u2019m afraid so."
+            ],
+            [
+                81,
+                "Oh. Did anybody lose a 20?"
+            ],
+            [
+                117,
+                "Glen."
+            ],
+            [
+                119,
+                "Well, you know, Valentine\u2019s Day."
+            ],
+            [
+                121,
+                "With all due respect, ma\u2019am, there\u2019s nothing I can do."
+            ],
+            [
+                123,
+                "Okay."
+            ],
+            [
+                125,
+                "Okay."
+            ],
+            [
+                127,
+                "I\u2019m 21. How old are you?"
+            ]
+        ],
+        "Man": [
+            [
+                82,
+                "I did."
+            ]
+        ],
+        "Together": [
+            [
+                88,
+                "Dr. Sheldon Cooper\u2019s Fun With Flags."
+            ]
+        ],
+        "Raj (voice)": [
+            [
+                94,
+                "What is wrong with me? Why am I so self-destructive?"
+            ],
+            [
+                133,
+                "You really think so?"
+            ],
+            [
+                223,
+                "I mean, this is the first time I\u2019ve ever broken up with someone. I just, I didn\u2019t realize it was gonna hurt this much."
+            ]
+        ],
+        "Barry (voice)": [
+            [
+                139,
+                "Hewwo. I want to talk about how wonewy I am, too."
+            ]
+        ],
+        "Barry": [
+            [
+                141,
+                "Yeah, I\u2019m just sitting here all by myself wondering if I\u2019w ever find someone to share my wife with. Pwefewabwy Asian, 18-24, no fatties."
+            ],
+            [
+                143,
+                "Aw wight. Is my pole fwag-wewated?"
+            ],
+            [
+                182,
+                "Thwee diffewent men? Damn, girl, way to give the milk away?"
+            ],
+            [
+                184,
+                "No, actuawwy, I\u2019m stiw here."
+            ],
+            [
+                186,
+                "Yup."
+            ],
+            [
+                188,
+                "Yup."
+            ],
+            [
+                195,
+                "Hey, I think I got cut off."
+            ],
+            [
+                197,
+                "I have a fwag question. How many men did you have sex with?"
+            ],
+            [
+                229,
+                "Wike when I feww in wove with that stwipper and bought her a Pwius."
+            ]
+        ],
+        "Leonard and Penny": [
+            [
+                236,
+                "Happy Valentine\u2019s Day!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Raj",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "Hello."
+        ],
+        [
+            "Sheldon",
+            "If any of you are looking for something to do on Valentine\u2019s Day, Amy and I\u2019ll be streaming our first-ever live episode of Fun With Flags. You\u2019re welcome to join us as we celebrate the timeless love affair between wind and flapping fabric."
+        ],
+        [
+            "Leonard",
+            "Penny and I have dinner reservations that night, but any other time, no."
+        ],
+        [
+            "Howard",
+            "Sorry, Bernie and I are breaking in the new hot tub, if you know what I mean."
+        ],
+        [
+            "Sheldon",
+            "Not a clue. Raj?"
+        ],
+        [
+            "Raj",
+            "Spending Valentine\u2019s Day with Emily."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t sound very excited about it."
+        ],
+        [
+            "Raj",
+            "Oh, I am, I am. I, I guess I\u2019m still wondering if Emily and I are right for each other."
+        ],
+        [
+            "Howard",
+            "Does this have to do with that girl you had coffee with?"
+        ],
+        [
+            "Raj",
+            "You mean the strong, sexy angel I can\u2019t stop thinking about? Who can say?"
+        ],
+        [
+            "Howard",
+            "You\u2019ve been talking about breaking up with Emily forever. Why don\u2019t you just do it already?"
+        ],
+        [
+            "Leonard",
+            "Yeah, just get it over with."
+        ],
+        [
+            "Raj",
+            "Well, you say it like it\u2019s easy. Have any one of you ever broken up with anyone?"
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Leonard",
+            "Not really."
+        ],
+        [
+            "Sheldon",
+            "You know, uh, once I ordered an Uber by accident. I just got in and went somewhere."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "So, you really gonna break up with her?"
+        ],
+        [
+            "Raj",
+            "Yeah, I think so. Do you have any advice?"
+        ],
+        [
+            "Penny",
+            "Well, I have broken up with my fair share of guys. I mean, how many times did I break up with Leonard?"
+        ],
+        [
+            "Leonard",
+            "I stopped counting at four."
+        ],
+        [
+            "Penny",
+            "All right, my advice to you is do it at her place so you can leave when you need to, uh, tell the truth, make it quick and be prepared for tears."
+        ],
+        [
+            "Raj",
+            "Oh, I\u2019m gonna do a pre-cry before I go in there. Really dry myself out."
+        ],
+        [
+            "Leonard",
+            "She meant Emily."
+        ],
+        [
+            "Penny",
+            "No, I, I really didn\u2019t."
+        ],
+        [
+            "Scene",
+            "Emily\u2019s apartment."
+        ],
+        [
+            "Emily",
+            "You\u2019re seriously breaking up with me?"
+        ],
+        [
+            "Raj",
+            "Yeah."
+        ],
+        [
+            "Emily",
+            "And you thought right before Valentine\u2019s Day was a good time to do it?"
+        ],
+        [
+            "Raj",
+            "You\u2019re right, let\u2019s talk again in a few days."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Raj (on phone)",
+            "Hey, Claire. Hi. It\u2019s, it\u2019s Rajesh. I was, I was wondering if you\u2019re free for Valentine\u2019s Day?"
+        ],
+        [
+            "Claire",
+            "Sorry, I just got back with my boyfriend."
+        ],
+        [
+            "Raj",
+            "But I just broke up with my girlfriend."
+        ],
+        [
+            "Claire",
+            "Right before Valentine\u2019s Day? What an ass."
+        ],
+        [
+            "Scene",
+            "Emily\u2019s apartment. "
+        ],
+        [
+            "Raj",
+            "Please take me back. Our love was meant to be."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "I\u2019m gonna all alone on Valentine\u2019s Day."
+        ],
+        [
+            "Leonard",
+            "Well, you were right, tears."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Okay, and we are live in 22 minutes."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m nervous. I hope people will be around to watch even though it\u2019s Valentine\u2019s Day."
+        ],
+        [
+            "Amy",
+            "People who are fans of an Internet show about flags? Trust me, they\u2019re around."
+        ],
+        [
+            "Sheldon",
+            "Oh, and speaking of Valentine\u2019s Day, I haven\u2019t forgotten about you tonight."
+        ],
+        [
+            "Amy",
+            "What do you mean?"
+        ],
+        [
+            "Sheldon",
+            "Well, you\u2019ve become such an integral part of my life as well as this show, I felt it only right to include your name in the title."
+        ],
+        [
+            "Amy",
+            "Oh. That is so sweet."
+        ],
+        [
+            "Sheldon",
+            "So from now on, this program will be officially known as Dr. Sheldon Cooper and Dr. Amy Farrah Fowler present Dr. Sheldon\u2019 Cooper\u2019s Fun With Flags."
+        ],
+        [
+            "Amy",
+            "Catchy."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house. "
+        ],
+        [
+            "Howard",
+            "I\u2019m gonna check the temp on the tub."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t make it too hot."
+        ],
+        [
+            "Howard",
+            "Sorry, but too hot is the only temperature I come in."
+        ],
+        [
+            "Bernadette",
+            "Look at that, you shaved it all."
+        ],
+        [
+            "Howard",
+            "You\u2019re welcome. Um, question, this is my first hot tub, is it supposed to come with a rat flopping around in it?"
+        ],
+        [
+            "Bernadette",
+            "Ew, really? Get it out."
+        ],
+        [
+            "Howard",
+            "How?"
+        ],
+        [
+            "Bernadette",
+            "Uh, wish we had a skimmer."
+        ],
+        [
+            "Howard",
+            "Uh, you turn off the jets, I\u2019ll get a strainer from the kitchen."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know how to turn off the jets."
+        ],
+        [
+            "Howard",
+            "Good, I don\u2019t know where we keep the strainer."
+        ],
+        [
+            "Scene",
+            "A restaurant. "
+        ],
+        [
+            "Leonard",
+            "Excuse me. Uh, bad news. The ma\u00eetre d\u2019 said it\u2019s gonna be at least an hour."
+        ],
+        [
+            "Penny",
+            "An hour? What? That\u2019s crazy. We have a reservation."
+        ],
+        [
+            "Leonard",
+            "I know."
+        ],
+        [
+            "Penny",
+            "So what did you say?"
+        ],
+        [
+            "Leonard",
+            "Thanks, sorry to bother you. But I said it like a badass."
+        ],
+        [
+            "Penny",
+            "All right, well, can\u2019t you, like, slip him some money or something?"
+        ],
+        [
+            "Leonard",
+            "Really? I\u2019ve never done that before. Does it work?"
+        ],
+        [
+            "Penny",
+            "Do people like money? Is that what you\u2019re asking?"
+        ],
+        [
+            "Leonard",
+            "A lot of attitude from the woman who thought MC squared was a rapper."
+        ],
+        [
+            "Penny",
+            "Now, is that a smart thing to say on a holiday that\u2019s basically national sex night?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry. You\u2019re pretty, I\u2019m stupid. Hello. Uh, just checking again for Hofstadter. Still gonna be an hour?"
+        ],
+        [
+            "Maitre d\u2019",
+            "I\u2019m afraid so."
+        ],
+        [
+            "Leonard",
+            "Okay. Thanks. Hey. I think you may have dropped this?"
+        ],
+        [
+            "Maitre d\u2019",
+            "Oh. Did anybody lose a 20?"
+        ],
+        [
+            "Man",
+            "I did."
+        ],
+        [
+            "Leonard",
+            "Oh, I took care of it."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Okay, we are live in five, four, three, oh, wait, oh shoot, I already pushed the button. Never mind, we\u2019re live."
+        ],
+        [
+            "Sheldon",
+            "Uh, hello and welcome to a special live edition of Dr. Sheldon Cooper\u2026"
+        ],
+        [
+            "Amy",
+            "And Dr. Amy Farrah Fowler present\u2026"
+        ],
+        [
+            "Together",
+            "Dr. Sheldon Cooper\u2019s Fun With Flags."
+        ],
+        [
+            "Amy",
+            "Consider tonight\u2019s episode a Valentine\u2019s Day gift for you, our viewers."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s also my gift to you. That was clear, right? \u2018Cause you\u2019re not getting anything else."
+        ],
+        [
+            "Amy",
+            "Since we\u2019re live, you\u2019ll finally be able to reach out to us with your flag thoughts and flag questions."
+        ],
+        [
+            "Sheldon",
+            "Allow us to answer a few quick ones that we get all the time. Uh, uh, yes, I really am a doctor. Uh, yes, she really is my girlfriend."
+        ],
+        [
+            "Amy",
+            "No, I just blink a lot, it\u2019s not Morse code for rescue me. Oh, uh, ok, uh, here\u2019s our first call. Hello, and welcome to Fun With Flags. What\u2019s your question?"
+        ],
+        [
+            "Raj (voice)",
+            "What is wrong with me? Why am I so self-destructive?"
+        ],
+        [
+            "Amy",
+            "Rajesh?"
+        ],
+        [
+            "Raj",
+            "Yes. Whenever things are going well, I always find a way to ruin it. You two look happy, how do you do it?"
+        ],
+        [
+            "Amy",
+            "I, I think it starts with good communication."
+        ],
+        [
+            "Sheldon",
+            "You know what, that\u2019s not a flag question. Next caller."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Howard",
+            "I hope you don\u2019t think I\u2019m just saying this because it\u2019s Valentine\u2019s Day, but, I love you so much."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m gonna put this down your robe. It\u2019s not moving, but I think it\u2019s still alive."
+        ],
+        [
+            "Howard",
+            "Well, should we put it back in there a few minutes?"
+        ],
+        [
+            "Bernadette",
+            "No. No, and it\u2019s not a rat, it\u2019s a rabbit. We need to save it."
+        ],
+        [
+            "Howard",
+            "Well, how do we do that?"
+        ],
+        [
+            "Bernadette",
+            "Um, I don\u2019t know, look it up on your phone. I\u2019m gonna wrap it in a towel."
+        ],
+        [
+            "Howard",
+            "Um, taking care of injured rabbit. Okay. Make sure it\u2019s comfortable and warm. Well, it was just in a hot tub. I\u2019m gonna say check."
+        ],
+        [
+            "Bernadette",
+            "Anything else?"
+        ],
+        [
+            "Howard",
+            "To make sure it\u2019s not dehydrated, feed him an electrolyte solution. If it\u2019s not responding, use a warm cloth to wash its face and genitals. Yeah."
+        ],
+        [
+            "Scene",
+            "The restaurant."
+        ],
+        [
+            "Penny",
+            "This is ridiculous. You know, I\u2019m gonna go talk to the ma\u00eetre d\u2019."
+        ],
+        [
+            "Leonard",
+            "What are you gonna say?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know. I\u2019m, I\u2019m gonna flirt with him."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know if I\u2019m comfortable with that."
+        ],
+        [
+            "Penny",
+            "I\u2019m still sleeping with you tonight."
+        ],
+        [
+            "Leonard",
+            "See if you can get a table by the window."
+        ],
+        [
+            "Penny",
+            "Hi there. What\u2019s your name?"
+        ],
+        [
+            "Maitre d\u2019",
+            "Glen."
+        ],
+        [
+            "Penny",
+            "Oh, boy, it is crazy in here tonight, huh, Glen?"
+        ],
+        [
+            "Maitre d\u2019",
+            "Well, you know, Valentine\u2019s Day."
+        ],
+        [
+            "Penny",
+            "Yes. Oh, bet your girlfriend is super bummed you had to work tonight. Anyway, look, we have been waiting a while, and I just\u2026"
+        ],
+        [
+            "Maitre d\u2019",
+            "With all due respect, ma\u2019am, there\u2019s nothing I can do."
+        ],
+        [
+            "Penny",
+            "You don\u2019t have to call me ma\u2019am."
+        ],
+        [
+            "Maitre d\u2019",
+            "Okay."
+        ],
+        [
+            "Penny",
+            "I mean, we\u2019re basically the same age."
+        ],
+        [
+            "Maitre d\u2019",
+            "Okay."
+        ],
+        [
+            "Penny",
+            "How old are you?"
+        ],
+        [
+            "Maitre d\u2019",
+            "I\u2019m 21. How old are you?"
+        ],
+        [
+            "Penny",
+            "Just shut up, Glen. Come on, let\u2019s get out of here."
+        ],
+        [
+            "Leonard",
+            "What? Why?"
+        ],
+        [
+            "Penny",
+            "Because I\u2019m young. Let\u2019s go."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Rajesh, it\u2019s perfectly normal to have doubts after breaking up with someone."
+        ],
+        [
+            "Raj (voice)",
+            "You really think so?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, you know what\u2019s not normal? Blubbering about emotions during a flag show. Unless that emotion is excitement over New Zealand changing their flag. Yeah, good luck, you crazy Kiwis, we\u2019re rooting for you."
+        ],
+        [
+            "Amy",
+            "Your friend is hurting."
+        ],
+        [
+            "Raj",
+            "No, Sheldon\u2019s right. Emily did say I always talk about my feelings too much."
+        ],
+        [
+            "Sheldon",
+            "I suppose that could be a legitimate concern in a relationship. Uh, perhaps even a, a red flag. And speaking of red flags, check out this sexy number from the former Soviet Union. Hubba, hubba."
+        ],
+        [
+            "Amy",
+            "Oh. Uh, we-we have another caller. Hi. You\u2019re on Fun with Flags."
+        ],
+        [
+            "Barry (voice)",
+            "Hewwo. I want to talk about how wonewy I am, too."
+        ],
+        [
+            "Raj",
+            "Kripke? Is that you?"
+        ],
+        [
+            "Barry",
+            "Yeah, I\u2019m just sitting here all by myself wondering if I\u2019w ever find someone to share my wife with. Pwefewabwy Asian, 18-24, no fatties."
+        ],
+        [
+            "Sheldon",
+            "Please, all comments and questions should be flag-related."
+        ],
+        [
+            "Barry",
+            "Aw wight. Is my pole fwag-wewated?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t see why not."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s eating. That\u2019s a good sign."
+        ],
+        [
+            "Howard",
+            "You\u2019re gonna have to wait one hour until you can go swimming again."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s pretty cute."
+        ],
+        [
+            "Howard",
+            "He is. Should we name him?"
+        ],
+        [
+            "Bernadette",
+            "It is Valentine\u2019s Day. How about Valentino?"
+        ],
+        [
+            "Howard",
+            "Nice. A classic rabbit name. Peter Rabbit, Roger Rabbit. Valentino Wolowitz Rabbit. Oh, look at all that chest hair and overbite. Of course you\u2019re a Wolowitz. Son of a bitch, he bit me."
+        ],
+        [
+            "Bernadette",
+            "Are you okay?"
+        ],
+        [
+            "Howard",
+            "No, I\u2019m not okay. Wild rabbits can have rabies."
+        ],
+        [
+            "Bernadette",
+            "Oh. Well, why did you put your finger near its mouth?"
+        ],
+        [
+            "Howard",
+            "Poor judgement, obviously."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s so little. I\u2019m sure it\u2019s fine."
+        ],
+        [
+            "Howard",
+            "How can it be fine? I just got attacked by a clearly anti-Semitic wild animal."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not what we planned, but this isn\u2019t so bad, right?"
+        ],
+        [
+            "Penny",
+            "It is freaking amazing."
+        ],
+        [
+            "Leonard",
+            "Well, glad you\u2019re feeling better."
+        ],
+        [
+            "Penny",
+            "I was just hungry and cranky, and I\u2019ve never been called ma\u2019am before."
+        ],
+        [
+            "Leonard",
+            "Is that a big deal?"
+        ],
+        [
+            "Penny",
+            "Kind of. When was the first time someone called you sir?"
+        ],
+        [
+            "Leonard",
+            "Sixth grade, but I wore a sport coat and carried a briefcase, so\u2026"
+        ],
+        [
+            "Penny",
+            "Can you believe when I met you I was 22? I mean, it\u2019s crazy. Where did all that time go?"
+        ],
+        [
+            "Leonard",
+            "Mm, you watched The Bachelor a lot."
+        ],
+        [
+            "Penny",
+            "Yeah, go ahead and make jokes, but your thirties are almost over."
+        ],
+        [
+            "Leonard",
+            "No, they\u2019re not."
+        ],
+        [
+            "Penny",
+            "You\u2019re closer to 40 than you are 30."
+        ],
+        [
+            "Leonard",
+            "Ha, ha. You married an old man. Tell you what. Let\u2019s do something fun tonight."
+        ],
+        [
+            "Penny",
+            "Won\u2019t make us any younger."
+        ],
+        [
+            "Leonard",
+            "Well, maybe not, but some day we actually will be old, and we\u2019ll look back on this night and remember what a good time we had."
+        ],
+        [
+            "Penny",
+            "Okay, like what?"
+        ],
+        [
+            "Leonard",
+            "I know. Food fight. I\u2019ll keep thinking."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Look, I know you both feel bad about being alone, but sometimes the best thing you can do is take a little time for yourself, especially when you just got out of a relationship."
+        ],
+        [
+            "Sheldon",
+            "Speaking of ending relationships, when British Honduras became Belize, they designed a new flag with a tree on it, and I would like to hang myself from that tree."
+        ],
+        [
+            "Raj",
+            "But, Amy, when you and Sheldon split up, didn\u2019t you start dating someone right away?"
+        ],
+        [
+            "Amy",
+            "Well, I, I wouldn\u2019t say right away."
+        ],
+        [
+            "Sheldon",
+            "And actually, it was three different men."
+        ],
+        [
+            "Barry",
+            "Thwee diffewent men? Damn, girl, way to give the milk away?"
+        ],
+        [
+            "Amy",
+            "Oh, looks like we just lost Kripke."
+        ],
+        [
+            "Barry",
+            "No, actuawwy, I\u2019m stiw here."
+        ],
+        [
+            "Amy",
+            "Now?"
+        ],
+        [
+            "Barry",
+            "Yup."
+        ],
+        [
+            "Amy",
+            "Now?"
+        ],
+        [
+            "Barry",
+            "Yup."
+        ],
+        [
+            "Amy",
+            "Now? Oh, looks like we just lost Kripke."
+        ],
+        [
+            "Raj",
+            "Before Emily, I was alone for so long. I just, I don\u2019t know if I can do that again."
+        ],
+        [
+            "Sheldon",
+            "Well, you know, here is something that might cheer you up. The flag of the Isle of Man is nothing but three legs sharing a weird pair of underpants, so you think you got problems."
+        ],
+        [
+            "Amy",
+            "I have an idea. Maybe someone in our audience would be interested in meeting Rajesh. Ladies, I can attest that he is a kind, handsome, intelligent\u2026"
+        ],
+        [
+            "Raj",
+            "Rich parents, don\u2019t forget, rich parents."
+        ],
+        [
+            "Amy",
+            "\u2026spoiled astrophysicist who not only\u2026 oh. Well, that was quick. Hi. You\u2019re on Fun with Flags."
+        ],
+        [
+            "Barry",
+            "Hey, I think I got cut off."
+        ],
+        [
+            "Amy",
+            "Hello, Kripke."
+        ],
+        [
+            "Barry",
+            "I have a fwag question. How many men did you have sex with?"
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Leonard",
+            "Let\u2019s see. What\u2019s young and fun? Uh, we could go dancing."
+        ],
+        [
+            "Leonard",
+            "Are you actually gonna dance?"
+        ],
+        [
+            "Leonard",
+            "Of course."
+        ],
+        [
+            "Penny",
+            "Yeah. No one wants to see that. Hey, how about skinny dipping at the beach?"
+        ],
+        [
+            "Leonard",
+            "No, I don\u2019t need any fish nibbling my business."
+        ],
+        [
+            "Penny",
+            "Oh, there\u2019s a screening of Moulin Rouge, I heard the crowd sings along and stuff."
+        ],
+        [
+            "Leonard",
+            "That sounds fun. When\u2019s it start?"
+        ],
+        [
+            "Penny",
+            "Midnight."
+        ],
+        [
+            "Leonard",
+            "Midnight. Really? You know what? Let\u2019s do it."
+        ],
+        [
+            "Penny",
+            "Okay, great. Oh, wait. Uh, it\u2019s sold out."
+        ],
+        [
+            "Leonard",
+            "Oh, thank God."
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Howard",
+            "It says, rabies in rabbits is highly unlikely."
+        ],
+        [
+            "Bernadette",
+            "Oh, terrific."
+        ],
+        [
+            "Howard",
+            "It\u2019s not terrific. Lots of highly unlikely things happen. You saw what\u2019s under this robe, and you still married me."
+        ],
+        [
+            "Bernadette",
+            "If you\u2019re really worried, we\u2019ll take him to the vet and have him tested."
+        ],
+        [
+            "Howard",
+            "Good. Thank you. Oh, okay, there is a test. All they have to do is cut off his head and check his brain."
+        ],
+        [
+            "Bernadette",
+            "Oh, cut off his head? That\u2019s where his little nose is."
+        ],
+        [
+            "Howard",
+            "He\u2019s not showing any symptoms. I guess I\u2019ll just go to the emergency room to be safe."
+        ],
+        [
+            "Bernadette",
+            "Howie, this is just your hypochondria."
+        ],
+        [
+            "Howard",
+            "No, when I sat on the mute button and thought I\u2019d gone deaf, that was my hypochondria."
+        ],
+        [
+            "Bernadette",
+            "We\u2019ll find another time to tell him I\u2019m pregnant."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj (voice)",
+            "I mean, this is the first time I\u2019ve ever broken up with someone. I just, I didn\u2019t realize it was gonna hurt this much."
+        ],
+        [
+            "Amy",
+            "It really can."
+        ],
+        [
+            "Sheldon",
+            "All right. Nothing about this is fun. No one wants to talk about flags, and I haven\u2019t spoken in over ten minutes, so, enjoy your new show, Internet. Dr. Amy Farrah Flower present with."
+        ],
+        [
+            "Raj",
+            "I\u2019m sorry for bothering you. I\u2019ll hang up now."
+        ],
+        [
+            "Amy",
+            "No, hold on, Rajesh. You know, you\u2019re not being very sympathetic. You know first hand that breakups are hard."
+        ],
+        [
+            "Sheldon",
+            "Fine. If you insist on making me a part of this, yes, I knowledge how painful they can be. However, pain has an evolutionary purpose. It provides information from the environment that, uh, behaviour isn\u2019t good for us."
+        ],
+        [
+            "Barry",
+            "Wike when I feww in wove with that stwipper and bought her a Pwius."
+        ],
+        [
+            "Amy",
+            "I\u2019m just gonna push all the buttons."
+        ],
+        [
+            "Sheldon",
+            "Raj, now, I\u2019m sorry you\u2019re suffering. When Amy and I were broken up, I also suffered. And this may sound surprising, but I\u2019m grateful for having gone through it."
+        ],
+        [
+            "Amy",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "Yes. I believe our relationship now is stronger than ever."
+        ],
+        [
+            "Amy",
+            "So do I."
+        ],
+        [
+            "Sheldon",
+            "When, when we were apart, I learned how important you are to me. And I realize that when two people are in love, sometimes they\u2026"
+        ],
+        [
+            "Leonard and Penny",
+            "Happy Valentine\u2019s Day!"
+        ],
+        [
+            "Leonard",
+            "We are young and fun."
+        ],
+        [
+            "Sheldon",
+            "I stand corrected. Fun."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Congratulations on a successful live show."
+        ],
+        [
+            "Amy",
+            "And a lovely Valentine\u2019s Day."
+        ],
+        [
+            "Penny",
+            "Cleaning up is not young and fun."
+        ],
+        [
+            "Leonard",
+            "It can be. Confetti fight. Maybe you should take a break. I got this."
+        ],
+        [
+            "Sheldon",
+            "Did you know the singular of confetti is confetto?"
+        ],
+        [
+            "Amy",
+            "Interesting, and when would you use the singular?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m glad you asked. Amy, you have a confetto in your nose. No, no, no, no. Other side. There you go."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-15-the-valentino-submergence/"
+}

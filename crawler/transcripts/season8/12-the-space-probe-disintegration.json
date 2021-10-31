@@ -1,0 +1,1852 @@
+{
+    "Season": 8,
+    "Episode": 12,
+    "Title": "the space probe disintegration",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                48,
+                "Credits sequence."
+            ],
+            [
+                49,
+                "Howard and Bernadette\u2019s apartment. "
+            ],
+            [
+                62,
+                "The apartment."
+            ],
+            [
+                78,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                97,
+                "A clothes shop."
+            ],
+            [
+                111,
+                "The same, later."
+            ],
+            [
+                127,
+                "Raj\u2019s car."
+            ],
+            [
+                150,
+                "The store changing rooms."
+            ],
+            [
+                163,
+                "The store."
+            ],
+            [
+                198,
+                "The temple car park."
+            ],
+            [
+                215,
+                "The craft museum. "
+            ],
+            [
+                223,
+                "Penny\u2019s bedroom."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "What colour would you like to be?"
+            ],
+            [
+                3,
+                "That\u2019s not true. Any colour\u2019s fine with me. Yeah, I could be a-a combination of blue and yellow."
+            ],
+            [
+                5,
+                "Well, then it\u2019s settled."
+            ],
+            [
+                7,
+                "Oh, good news, we ordered lunch, so we can all stay here and play Lord of the Rings Risk."
+            ],
+            [
+                9,
+                "Oh, no, we\u2019ll still be playing it tonight, this game can easily take eight hours."
+            ],
+            [
+                17,
+                "Yeah, well, you may change your mind when you hear that this is the new expanded edition which contains a more complete map of Middle Earth, now including the Haradwaith Territories."
+            ],
+            [
+                21,
+                "You want to be green?"
+            ],
+            [
+                29,
+                "Fine. Now that we\u2019re not playing, you can be green."
+            ],
+            [
+                31,
+                "And since you\u2019re green this time, I can be it next time."
+            ],
+            [
+                43,
+                "You know what you could make us do? Ice-skating. The cold air will trigger Leonard\u2019s asthma and it plays right into my well-known fear of getting flattened by a Zamboni."
+            ],
+            [
+                45,
+                "Well, I\u2019m sorry, Leonard, I\u2019m a problem-solver, it\u2019s what I do."
+            ],
+            [
+                64,
+                "Before you say yes, it\u2019s not the movie about the big dog."
+            ],
+            [
+                68,
+                "You should point out the hypocrisy of that."
+            ],
+            [
+                70,
+                "Oh, that wasn\u2019t clear. Try it again, but this time drive it home with how do you like them apples, Missy?"
+            ],
+            [
+                72,
+                "You\u2019re making it too complicated. Why not stick to the basics? Go shopping for clothes while Leonard and I sit in those uncomfortable chairs and hold your purses, hmm? I know I\u2019d hate that. Leonard?"
+            ],
+            [
+                74,
+                "Well, then, it\u2019s settled?"
+            ],
+            [
+                77,
+                "Well, once again, it\u2019s what I do."
+            ],
+            [
+                99,
+                "That\u2019s easy for you to say. Your chair\u2019s not facing the lingerie section. Boy, that\u2019s a lot of panties."
+            ],
+            [
+                101,
+                "I don\u2019t understand why women insist on making a big production out of buying clothes."
+            ],
+            [
+                103,
+                "They have a man there who understands my personal style."
+            ],
+            [
+                106,
+                "Oh. Well, that\u2019s all right. There were plenty of ways to pass the time before smart phones were invented."
+            ],
+            [
+                108,
+                "I\u2019ll look them up. Son of a biscuit."
+            ],
+            [
+                110,
+                "No, it\u2019s not fine. What kind of store in the 21st century doesn\u2019t at least have Wi-Fi? I\u2019m going to call their corporate office. Son of a biscuit."
+            ],
+            [
+                112,
+                "Let\u2019s see, my armies are going to attack the Shire from Buckland. And I roll a five and a three."
+            ],
+            [
+                114,
+                "Boy, double-sixes again. You know, if I hadn\u2019t seen it with my own eyes, I wouldn\u2019t believe it. I wonder how long we\u2019re gonna be stuck here."
+            ],
+            [
+                116,
+                "Oh, that\u2019s true. I suppose it\u2019s only fair we make compromises."
+            ],
+            [
+                118,
+                "I don\u2019t know why you\u2019re so surprised. If there\u2019s one thing I know about after living with you for so many years, it\u2019s how to compromise."
+            ],
+            [
+                120,
+                "All the time."
+            ],
+            [
+                122,
+                "Oh, yes. I, just yesterday, you had a, a big piece of lettuce stuck in your teeth at lunch. Did I say anything? No. I compromised and kept my mouth shut. Like you should\u2019ve, because everyone was laughing at you."
+            ],
+            [
+                124,
+                "Oh, I learned how. Amy taught me."
+            ],
+            [
+                126,
+                "Uh, well, it\u2019s scary. And sometimes I get the pedals mixed up. But, more importantly, driving me to work is one of the things that gives your life purpose. I can\u2019t take that away from you, so what do I do? Oh, come on, I\u2019m practically feeding you the answer. I compromise."
+            ],
+            [
+                164,
+                "Oh, here\u2019s another one. I wish that the apple pancake mix was on the top shelf because it starts with an A, but I don\u2019t put it there because I don\u2019t want you breaking one of your little legs when you\u2019re supposed to be making my breakfast."
+            ],
+            [
+                166,
+                "I wasn\u2019t done, but go ahead. He said, compromising."
+            ],
+            [
+                168,
+                "Well, you\u2019re a physicist, not a circus clown."
+            ],
+            [
+                170,
+                "Is that true?"
+            ],
+            [
+                172,
+                "Well, given my history on the subject, t seems a little reckless to bring it up now."
+            ],
+            [
+                174,
+                "You know what? You think you\u2019re so tolerant, but the truth is you\u2019re mean to me a lot. Yeah, you think that I don\u2019t notice all those sarcastic comments and those eye rolls, but I do. Hmm? I have excellent peripheral vision. On a good day, I can see my ears."
+            ],
+            [
+                176,
+                "Well, I\u2019m sorry, too. And if you want to live with Penny, then I think you should."
+            ],
+            [
+                178,
+                "Yes. Yeah, just put on your squeaky shoes and eee-eee-eee your way out of my life."
+            ],
+            [
+                180,
+                "I\u2019m not upset. I\u2019m just imagining a world without my best friend in it."
+            ],
+            [
+                182,
+                "It\u2019s okay."
+            ],
+            [
+                184,
+                "I understand. Either way, I want you to know that I\u2019m aware of how difficult I can be. So I just want to say thank you for putting up with me."
+            ],
+            [
+                189,
+                "That\u2019s exactly what I told him."
+            ],
+            [
+                191,
+                "Well, what if you did it gradually?"
+            ],
+            [
+                193,
+                "How about one night and I let you whistle?"
+            ],
+            [
+                195,
+                "When I\u2019m not home."
+            ],
+            [
+                197,
+                "There we go, compromising again. We really are the best."
+            ],
+            [
+                219,
+                "It\u2019s not a basket. It\u2019s a soldier\u2019s helmet from 16th century China."
+            ],
+            [
+                222,
+                "I saw that."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Well, I\u2019d like to be green, but you know you always take it."
+            ],
+            [
+                4,
+                "Blue and yellow make green."
+            ],
+            [
+                11,
+                "No."
+            ],
+            [
+                13,
+                "Yes."
+            ],
+            [
+                15,
+                "No."
+            ],
+            [
+                19,
+                "No, no, no, come on, don\u2019t leave. Just try it."
+            ],
+            [
+                22,
+                "You know, they really have tried to like a lot of the same stuff we\u2019re into."
+            ],
+            [
+                26,
+                "You got it, you girls are in charge."
+            ],
+            [
+                30,
+                "Thank you."
+            ],
+            [
+                37,
+                "Hang on, why do we have to hate it?"
+            ],
+            [
+                39,
+                "I did not force you to go to that."
+            ],
+            [
+                41,
+                "I wasn\u2019t gonna get beat up."
+            ],
+            [
+                44,
+                "Now you\u2019re helping them find ways to make us miserable?"
+            ],
+            [
+                67,
+                "Ah, interesting, we\u2019re being accused of making you do things you don\u2019t like, and here you are, doing the same thing to poor Amy."
+            ],
+            [
+                69,
+                "That\u2019s what I was doing."
+            ],
+            [
+                73,
+                "Well, yeah."
+            ],
+            [
+                98,
+                "This isn\u2019t so bad."
+            ],
+            [
+                105,
+                "Uh, I\u2019ve got some bad news. There\u2019s no cell service in here."
+            ],
+            [
+                107,
+                "That\u2019s true."
+            ],
+            [
+                109,
+                "Sheldon, it\u2019s fine."
+            ],
+            [
+                113,
+                "Okay. And to defend, I roll two sixes. I win."
+            ],
+            [
+                115,
+                "I don\u2019t know, but the girls do a lot for us. It\u2019s the least we can do."
+            ],
+            [
+                117,
+                "Look at you, being all mature."
+            ],
+            [
+                119,
+                "I, I\u2019m sorry? You make compromises for me?"
+            ],
+            [
+                121,
+                "On Earth? In our lives? That, that, that we\u2019re living?"
+            ],
+            [
+                123,
+                "That is not a compromise. A compromise is me driving you everywhere because you refuse to learn how."
+            ],
+            [
+                125,
+                "What? Then. then why don\u2019t you do it?"
+            ],
+            [
+                165,
+                "Is it my turn to talk about the compromises I make?"
+            ],
+            [
+                167,
+                "Because of you, I\u2019m not allowed to adjust the temperature in my own home. I\u2019m not allowed to whistle. I don\u2019t wear shoes that might squeak."
+            ],
+            [
+                169,
+                "Sheldon, do you realize I don\u2019t live with the woman I love because of you? No other reason. Just you."
+            ],
+            [
+                171,
+                "Yes, it\u2019s true. The last time I brought it up, you had an emotional breakdown and got on a train and ran away."
+            ],
+            [
+                173,
+                "You have no idea how much you inconvenience the lives of everyone around you. It\u2019s exhausting."
+            ],
+            [
+                175,
+                "Sheldon, I, I\u2019m sorry if I hurt your feelings. I\u2019ve been holding a lot of this in for a while."
+            ],
+            [
+                177,
+                "Do you mean that?"
+            ],
+            [
+                179,
+                "Come on, don\u2019t get upset."
+            ],
+            [
+                181,
+                "Sheldon."
+            ],
+            [
+                183,
+                "I\u2019m not leaving your world. I\u2019m just talking about living across the hall."
+            ],
+            [
+                185,
+                "Buddy."
+            ],
+            [
+                187,
+                "Everything\u2019s fine. We just started talking about living arrangements."
+            ],
+            [
+                192,
+                "All right. How about we start with two nights a week I live with Penny?"
+            ],
+            [
+                194,
+                "Okay."
+            ],
+            [
+                196,
+                "You got it."
+            ],
+            [
+                216,
+                "I thought this was gonna be boring, but it\u2019s actually kind of fun."
+            ],
+            [
+                221,
+                "Yeah, it looks great."
+            ],
+            [
+                224,
+                "Well, roomie, it\u2019s only one night a week, but it\u2019s a start."
+            ],
+            [
+                226,
+                "Yeah, I\u2019m proud of him, too."
+            ]
+        ],
+        "Penny": [
+            [
+                6,
+                "Hi. Ready to go?"
+            ],
+            [
+                10,
+                "Sweetie, you really thought I\u2019d want to do this?"
+            ],
+            [
+                12,
+                "Well, did you tell him that?"
+            ],
+            [
+                14,
+                "Did you say it out loud with words?"
+            ],
+            [
+                16,
+                "I don\u2019t want to spend the whole day playing a board game."
+            ],
+            [
+                20,
+                "No. We\u2019re always doing what you guys want. Just once, it\u2019d be nice if you did something we wanted."
+            ],
+            [
+                23,
+                "Yeah, we do game nights and video game nights and we watch movies with director\u2019s commentary."
+            ],
+            [
+                25,
+                "Yeah, today Amy and I are deciding what we\u2019re all gonna do."
+            ],
+            [
+                27,
+                "Thank you."
+            ],
+            [
+                32,
+                "All right, let\u2019s see. What\u2019s something fun the guys would never take us to do? Oh, I know, we could go horseback riding."
+            ],
+            [
+                34,
+                "All right, well, what do you want to do?"
+            ],
+            [
+                36,
+                "Well, that\u2019s Wilshire\u2019s problem. Come on, you know, there, there\u2019s got to be something fun we could do that the guys will hate."
+            ],
+            [
+                38,
+                "Three words, Doctor Who convention."
+            ],
+            [
+                40,
+                "You walked out of the house in a fez and bow tie. I went so you didn\u2019t get beat up."
+            ],
+            [
+                42,
+                "You were, but somehow I held myself back."
+            ],
+            [
+                47,
+                "Is there any part of your body that\u2019s normal?"
+            ],
+            [
+                65,
+                "How come we can\u2019t think of something we both want to do?"
+            ],
+            [
+                71,
+                "All right, keep thinking."
+            ],
+            [
+                76,
+                "It does, somehow he managed to take all the fun out of it."
+            ],
+            [
+                102,
+                "No, you\u2019re right, we should do what you do. Have our mom send us pants from the Walmart in Houston."
+            ],
+            [
+                104,
+                "Bye."
+            ],
+            [
+                152,
+                "Uh, not really a great outfit for work, unless something opens up in the hookers and whores division. Hey, can I ask you something?"
+            ],
+            [
+                154,
+                "Do I really force you to do things you don\u2019t want to?"
+            ],
+            [
+                156,
+                "How is it okay?"
+            ],
+            [
+                158,
+                "Well, you know, that was a long time ago. You\u2019re a different woman now. You\u2019re smart, you\u2019ve got great friends, you\u2019ve got a boyfriend, you\u2019re pretty, you have zero fashion sense, but, anyway, tonight we\u2019re gonna do whatever you want."
+            ],
+            [
+                160,
+                "Absolutely. You name it, we\u2019re doing it."
+            ],
+            [
+                162,
+                "Well, you named it."
+            ],
+            [
+                186,
+                "How are you guys getting along? What? Why are there tears?"
+            ],
+            [
+                190,
+                "Sheldon, we know this is a sensitive subject, and Leonard\u2019s not gonna move out until you\u2019re ready."
+            ],
+            [
+                217,
+                "Don\u2019t tell Amy that. We\u2019ll be here every Sunday."
+            ],
+            [
+                225,
+                "I know. I\u2019m really proud of Sheldon."
+            ]
+        ],
+        "Amy": [
+            [
+                8,
+                "Sheldon, we said that we would play games with you tonight."
+            ],
+            [
+                18,
+                "I will literally race you to the car."
+            ],
+            [
+                24,
+                "Oh, my favourite, George Lucas can talk all the way through Star Wars, I say one word and I\u2019m banished to the kitchen."
+            ],
+            [
+                28,
+                "Sheldon?"
+            ],
+            [
+                33,
+                "I actually can\u2019t. My hips don\u2019t open wider than 22 degrees. I rode a very thin pony once. On the first bump, just popped right off."
+            ],
+            [
+                35,
+                "There\u2019s a craft and folk art museum on Wilshire."
+            ],
+            [
+                46,
+                "I actually can\u2019t go ice-skating. I have unnaturally brittle ankles."
+            ],
+            [
+                63,
+                "Ooh, the philharmonic is playing Beethoven downtown."
+            ],
+            [
+                66,
+                "Because you always pick what we do and I just go along with it."
+            ],
+            [
+                75,
+                "What do you say? Sounds kind of perfect."
+            ],
+            [
+                100,
+                "You guys comfy? This might take a while."
+            ],
+            [
+                151,
+                "How\u2019s it going in there?"
+            ],
+            [
+                153,
+                "Sure."
+            ],
+            [
+                155,
+                "Yeah, but it\u2019s okay."
+            ],
+            [
+                157,
+                "I promised myself, if I ever got friends, I\u2019d do whatever they said. Really, I\u2019m lucky you found me before a cult did."
+            ],
+            [
+                159,
+                "Really?"
+            ],
+            [
+                161,
+                "Basket weaving at the craft museum."
+            ],
+            [
+                188,
+                "Are you crazy? You know he\u2019s a flight risk."
+            ],
+            [
+                218,
+                "Sheldon, that really is an excellent basket."
+            ],
+            [
+                220,
+                "Very nice."
+            ]
+        ],
+        "Raj": [
+            [
+                50,
+                "Oh, my God, oh, my God, oh, my God."
+            ],
+            [
+                52,
+                "I can\u2019t take it, dude."
+            ],
+            [
+                54,
+                "No, I\u2019m not okay. I feel like I\u2019m gonna jump out of my skin."
+            ],
+            [
+                56,
+                "I\u2019m worried about the New Horizons space probe."
+            ],
+            [
+                59,
+                "We hope. The signal has to travel over three billion miles. So it\u2019s gonna be hours before we know if it even survived."
+            ],
+            [
+                61,
+                "Space ice is no joke. I can\u2019t even watch Frozen anymore."
+            ],
+            [
+                79,
+                "Oh, another two hours to go. The wait is killing me."
+            ],
+            [
+                81,
+                "Before you finish, is this a story about patience and waiting or just another reminder that you went to space?"
+            ],
+            [
+                83,
+                "Ugh, I feel like I\u2019m gonna have a heart attack."
+            ],
+            [
+                86,
+                "I can\u2019t stop thinking about it."
+            ],
+            [
+                88,
+                "I know."
+            ],
+            [
+                90,
+                "Okay. If I make this shot in the trash can, the probe will have arrived in perfect working order."
+            ],
+            [
+                92,
+                "Yes."
+            ],
+            [
+                94,
+                "I didn\u2019t crash it, okay? My playlist was too up-tempo, I got light-headed and I fell off. Okay. It all comes down to this."
+            ],
+            [
+                96,
+                "What kind of scientist are you? Everyone knows you got to make two out of three."
+            ],
+            [
+                128,
+                "Hey, uh, thanks for keeping me company."
+            ],
+            [
+                130,
+                "If it\u2019s okay with you, I\u2019d like to go to temple."
+            ],
+            [
+                132,
+                "I meant a Hindu temple."
+            ],
+            [
+                134,
+                "Dude, that movie\u2019s an imperialist fantasy that makes the followers of a beautiful and peaceful religion look like a bunch of bloodthirsty barbarians."
+            ],
+            [
+                136,
+                "Yeah, it\u2019s pretty great."
+            ],
+            [
+                138,
+                "Why?"
+            ],
+            [
+                140,
+                "Religion is a very personal thing. I do go to temple, I just, I don\u2019t talk about it."
+            ],
+            [
+                142,
+                "So?"
+            ],
+            [
+                144,
+                "That is so offensive. Does everything you know about Hinduism come from Indiana Jones?"
+            ],
+            [
+                146,
+                "Well, lots of scientists believe in God. Okay? Newton, uh, Faraday, uh, Pascal, all were believers. Even Einstein was famous for attacking quantum theory on the grounds that God does not play dice with the universe."
+            ],
+            [
+                148,
+                "Actually there\u2019s no proof of that."
+            ],
+            [
+                200,
+                "You see behind the fountain, that tower that looks like a pyramid? It\u2019s called a Sikhara. It symbolizes the, the connection between the human and the divine."
+            ],
+            [
+                202,
+                "All right. Shall we?"
+            ],
+            [
+                204,
+                "Like what?"
+            ],
+            [
+                206,
+                "Really? So every other place you\u2019ve been, you thought this was fine?"
+            ],
+            [
+                208,
+                "Sorry. You\u2019re right. I\u2019m so stressed. But you know what, whenever I walk into that temple I realize that whatever happens, it\u2019s okay. We\u2019re all part of an immense pattern, and though we can\u2019t understand it, we can be happy to know that it\u2019s, it\u2019s working its will through us."
+            ],
+            [
+                210,
+                "Whether you call it God or the universe or the self, we\u2019re all interconnected, and that\u2019s just a beautiful\u2026 Son of a bitch, that guy just dinged my car. S, seriously? You were just gonna drive away? Like my life isn\u2019t hard enough right now. A space probe might be destroyed, my parents are going through an awful divorce, the guy who cuts my dog\u2019s hair just gave her bangs."
+            ],
+            [
+                212,
+                "You saw her. She looks like Jim Carrey from Dumb and Dumber."
+            ],
+            [
+                214,
+                "Oh, good. Namaste, Grandpa."
+            ]
+        ],
+        "Howard": [
+            [
+                51,
+                "Will you please relax?"
+            ],
+            [
+                58,
+                "Nine years ago he was part of a team that launched a spacecraft to collect data about Pluto, and it\u2019s finally close enough, so this morning it turned itself on."
+            ],
+            [
+                60,
+                "Now we get to see him flip out because he\u2019s worried it was demolished by space ice."
+            ],
+            [
+                80,
+                "I know. I get it. When I was in the Soyuz capsule returning from the space station, plummeting toward Earth at 17,000 miles per hour\u2026"
+            ],
+            [
+                82,
+                "A story can do two things."
+            ],
+            [
+                84,
+                "You work in pharmaceuticals, don\u2019t you have anything you can give him?"
+            ],
+            [
+                89,
+                "Maybe you need to do something more productive."
+            ],
+            [
+                91,
+                "So, in addition to being crazy, you\u2019re resting the fate of the mission on your athletic prowess."
+            ],
+            [
+                93,
+                "The man who crashed his stationary bike."
+            ],
+            [
+                95,
+                "You happy? Now you can relax."
+            ],
+            [
+                129,
+                "I\u2019m happy to. I think getting out of the apartment will do you good. So, where we headed?"
+            ],
+            [
+                131,
+                "Buddy, trust me, you don\u2019t want to convert to Judaism. I mean, I know I make it look cool, but it\u2019s not all briskets and dreidels."
+            ],
+            [
+                133,
+                "Oh. Okay. It\u2019s not like Indiana Jones and the Temple of Doom, right? Some bald guy with horns isn\u2019t gonna rip my heart out."
+            ],
+            [
+                135,
+                "You love that movie."
+            ],
+            [
+                137,
+                "I\u2019m surprised to see you suddenly get religious."
+            ],
+            [
+                139,
+                "Well, because I\u2019ve known you for ten years and you\u2019ve never gone to temple, you never talked about believing in God, and last Diwali I watched you eat two pounds of sacred cow at a Brazilian steak house."
+            ],
+            [
+                141,
+                "Yeah, but you\u2019re a scientist."
+            ],
+            [
+                143,
+                "So, as a scientist, you believe the way to understand the universe is through facts and evidence, and now you\u2019re counting on some blue chick with a hundred arms to help you?"
+            ],
+            [
+                145,
+                "No. There\u2019s also Apu from The Simpsons."
+            ],
+            [
+                147,
+                "Well, of course he believed in God. he slept with Marilyn Monroe."
+            ],
+            [
+                149,
+                "You believe in your religion, I\u2019ll believe in mine."
+            ],
+            [
+                199,
+                "Here we go, my first Hindu temple."
+            ],
+            [
+                201,
+                "Huh. I always thought it was mini golf."
+            ],
+            [
+                203,
+                "Yeah. Just, uh, is there anything I should know before I go in?"
+            ],
+            [
+                205,
+                "Like am I dressed okay?"
+            ],
+            [
+                207,
+                "I know you\u2019re under a lot of pressure, so I\u2019m gonna let that pass."
+            ],
+            [
+                209,
+                "That\u2019s nice."
+            ],
+            [
+                211,
+                "Raj."
+            ],
+            [
+                213,
+                "Raj, you just got a text. The probe turned on. It\u2019s fine."
+            ]
+        ],
+        "Bernadette": [
+            [
+                53,
+                "You okay?"
+            ],
+            [
+                55,
+                "I told you not to wax down there. It\u2019s itchy when it grows back."
+            ],
+            [
+                57,
+                "What\u2019s he talking about?"
+            ],
+            [
+                85,
+                "All I have is our new urine flow drug. Won\u2019t help with his anxiety, but it\u2019s so strong, when he pees he\u2019ll fly around the room like he\u2019s got a jet pack."
+            ],
+            [
+                87,
+                "You know, worrying won\u2019t have any effect on what happens."
+            ]
+        ],
+        "Sheldon (in Penny\u2019s living room)": [
+            [
+                227,
+                "Can you keep it down? Some of us are trying to sleep out here."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "What colour would you like to be?"
+        ],
+        [
+            "Leonard",
+            "Well, I\u2019d like to be green, but you know you always take it."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not true. Any colour\u2019s fine with me. Yeah, I could be a-a combination of blue and yellow."
+        ],
+        [
+            "Leonard",
+            "Blue and yellow make green."
+        ],
+        [
+            "Sheldon",
+            "Well, then it\u2019s settled."
+        ],
+        [
+            "Penny",
+            "Hi. Ready to go?"
+        ],
+        [
+            "Sheldon",
+            "Oh, good news, we ordered lunch, so we can all stay here and play Lord of the Rings Risk."
+        ],
+        [
+            "Amy",
+            "Sheldon, we said that we would play games with you tonight."
+        ],
+        [
+            "Sheldon",
+            "Oh, no, we\u2019ll still be playing it tonight, this game can easily take eight hours."
+        ],
+        [
+            "Penny",
+            "Sweetie, you really thought I\u2019d want to do this?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Penny",
+            "Well, did you tell him that?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "Did you say it out loud with words?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Penny",
+            "I don\u2019t want to spend the whole day playing a board game."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, you may change your mind when you hear that this is the new expanded edition which contains a more complete map of Middle Earth, now including the Haradwaith Territories."
+        ],
+        [
+            "Amy",
+            "I will literally race you to the car."
+        ],
+        [
+            "Leonard",
+            "No, no, no, come on, don\u2019t leave. Just try it."
+        ],
+        [
+            "Penny",
+            "No. We\u2019re always doing what you guys want. Just once, it\u2019d be nice if you did something we wanted."
+        ],
+        [
+            "Sheldon",
+            "You want to be green?"
+        ],
+        [
+            "Leonard",
+            "You know, they really have tried to like a lot of the same stuff we\u2019re into."
+        ],
+        [
+            "Penny",
+            "Yeah, we do game nights and video game nights and we watch movies with director\u2019s commentary."
+        ],
+        [
+            "Amy",
+            "Oh, my favourite, George Lucas can talk all the way through Star Wars, I say one word and I\u2019m banished to the kitchen."
+        ],
+        [
+            "Penny",
+            "Yeah, today Amy and I are deciding what we\u2019re all gonna do."
+        ],
+        [
+            "Leonard",
+            "You got it, you girls are in charge."
+        ],
+        [
+            "Penny",
+            "Thank you."
+        ],
+        [
+            "Amy",
+            "Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Fine. Now that we\u2019re not playing, you can be green."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "And since you\u2019re green this time, I can be it next time."
+        ],
+        [
+            "Penny",
+            "All right, let\u2019s see. What\u2019s something fun the guys would never take us to do? Oh, I know, we could go horseback riding."
+        ],
+        [
+            "Amy",
+            "I actually can\u2019t. My hips don\u2019t open wider than 22 degrees. I rode a very thin pony once. On the first bump, just popped right off."
+        ],
+        [
+            "Penny",
+            "All right, well, what do you want to do?"
+        ],
+        [
+            "Amy",
+            "There\u2019s a craft and folk art museum on Wilshire."
+        ],
+        [
+            "Penny",
+            "Well, that\u2019s Wilshire\u2019s problem. Come on, you know, there, there\u2019s got to be something fun we could do that the guys will hate."
+        ],
+        [
+            "Leonard",
+            "Hang on, why do we have to hate it?"
+        ],
+        [
+            "Penny",
+            "Three words, Doctor Who convention."
+        ],
+        [
+            "Leonard",
+            "I did not force you to go to that."
+        ],
+        [
+            "Penny",
+            "You walked out of the house in a fez and bow tie. I went so you didn\u2019t get beat up."
+        ],
+        [
+            "Leonard",
+            "I wasn\u2019t gonna get beat up."
+        ],
+        [
+            "Penny",
+            "You were, but somehow I held myself back."
+        ],
+        [
+            "Sheldon",
+            "You know what you could make us do? Ice-skating. The cold air will trigger Leonard\u2019s asthma and it plays right into my well-known fear of getting flattened by a Zamboni."
+        ],
+        [
+            "Leonard",
+            "Now you\u2019re helping them find ways to make us miserable?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m sorry, Leonard, I\u2019m a problem-solver, it\u2019s what I do."
+        ],
+        [
+            "Amy",
+            "I actually can\u2019t go ice-skating. I have unnaturally brittle ankles."
+        ],
+        [
+            "Penny",
+            "Is there any part of your body that\u2019s normal?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment. "
+        ],
+        [
+            "Raj",
+            "Oh, my God, oh, my God, oh, my God."
+        ],
+        [
+            "Howard",
+            "Will you please relax?"
+        ],
+        [
+            "Raj",
+            "I can\u2019t take it, dude."
+        ],
+        [
+            "Bernadette",
+            "You okay?"
+        ],
+        [
+            "Raj",
+            "No, I\u2019m not okay. I feel like I\u2019m gonna jump out of my skin."
+        ],
+        [
+            "Bernadette",
+            "I told you not to wax down there. It\u2019s itchy when it grows back."
+        ],
+        [
+            "Raj",
+            "I\u2019m worried about the New Horizons space probe."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s he talking about?"
+        ],
+        [
+            "Howard",
+            "Nine years ago he was part of a team that launched a spacecraft to collect data about Pluto, and it\u2019s finally close enough, so this morning it turned itself on."
+        ],
+        [
+            "Raj",
+            "We hope. The signal has to travel over three billion miles. So it\u2019s gonna be hours before we know if it even survived."
+        ],
+        [
+            "Howard",
+            "Now we get to see him flip out because he\u2019s worried it was demolished by space ice."
+        ],
+        [
+            "Raj",
+            "Space ice is no joke. I can\u2019t even watch Frozen anymore."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Ooh, the philharmonic is playing Beethoven downtown."
+        ],
+        [
+            "Sheldon",
+            "Before you say yes, it\u2019s not the movie about the big dog."
+        ],
+        [
+            "Penny",
+            "How come we can\u2019t think of something we both want to do?"
+        ],
+        [
+            "Amy",
+            "Because you always pick what we do and I just go along with it."
+        ],
+        [
+            "Leonard",
+            "Ah, interesting, we\u2019re being accused of making you do things you don\u2019t like, and here you are, doing the same thing to poor Amy."
+        ],
+        [
+            "Sheldon",
+            "You should point out the hypocrisy of that."
+        ],
+        [
+            "Leonard",
+            "That\u2019s what I was doing."
+        ],
+        [
+            "Sheldon",
+            "Oh, that wasn\u2019t clear. Try it again, but this time drive it home with how do you like them apples, Missy?"
+        ],
+        [
+            "Penny",
+            "All right, keep thinking."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re making it too complicated. Why not stick to the basics? Go shopping for clothes while Leonard and I sit in those uncomfortable chairs and hold your purses, hmm? I know I\u2019d hate that. Leonard?"
+        ],
+        [
+            "Leonard",
+            "Well, yeah."
+        ],
+        [
+            "Sheldon",
+            "Well, then, it\u2019s settled?"
+        ],
+        [
+            "Amy",
+            "What do you say? Sounds kind of perfect."
+        ],
+        [
+            "Penny",
+            "It does, somehow he managed to take all the fun out of it."
+        ],
+        [
+            "Sheldon",
+            "Well, once again, it\u2019s what I do."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "Oh, another two hours to go. The wait is killing me."
+        ],
+        [
+            "Howard",
+            "I know. I get it. When I was in the Soyuz capsule returning from the space station, plummeting toward Earth at 17,000 miles per hour\u2026"
+        ],
+        [
+            "Raj",
+            "Before you finish, is this a story about patience and waiting or just another reminder that you went to space?"
+        ],
+        [
+            "Howard",
+            "A story can do two things."
+        ],
+        [
+            "Raj",
+            "Ugh, I feel like I\u2019m gonna have a heart attack."
+        ],
+        [
+            "Howard",
+            "You work in pharmaceuticals, don\u2019t you have anything you can give him?"
+        ],
+        [
+            "Bernadette",
+            "All I have is our new urine flow drug. Won\u2019t help with his anxiety, but it\u2019s so strong, when he pees he\u2019ll fly around the room like he\u2019s got a jet pack."
+        ],
+        [
+            "Raj",
+            "I can\u2019t stop thinking about it."
+        ],
+        [
+            "Bernadette",
+            "You know, worrying won\u2019t have any effect on what happens."
+        ],
+        [
+            "Raj",
+            "I know."
+        ],
+        [
+            "Howard",
+            "Maybe you need to do something more productive."
+        ],
+        [
+            "Raj",
+            "Okay. If I make this shot in the trash can, the probe will have arrived in perfect working order."
+        ],
+        [
+            "Howard",
+            "So, in addition to being crazy, you\u2019re resting the fate of the mission on your athletic prowess."
+        ],
+        [
+            "Raj",
+            "Yes."
+        ],
+        [
+            "Howard",
+            "The man who crashed his stationary bike."
+        ],
+        [
+            "Raj",
+            "I didn\u2019t crash it, okay? My playlist was too up-tempo, I got light-headed and I fell off. Okay. It all comes down to this."
+        ],
+        [
+            "Howard",
+            "You happy? Now you can relax."
+        ],
+        [
+            "Raj",
+            "What kind of scientist are you? Everyone knows you got to make two out of three."
+        ],
+        [
+            "Scene",
+            "A clothes shop."
+        ],
+        [
+            "Leonard",
+            "This isn\u2019t so bad."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s easy for you to say. Your chair\u2019s not facing the lingerie section. Boy, that\u2019s a lot of panties."
+        ],
+        [
+            "Amy",
+            "You guys comfy? This might take a while."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t understand why women insist on making a big production out of buying clothes."
+        ],
+        [
+            "Penny",
+            "No, you\u2019re right, we should do what you do. Have our mom send us pants from the Walmart in Houston."
+        ],
+        [
+            "Sheldon",
+            "They have a man there who understands my personal style."
+        ],
+        [
+            "Penny",
+            "Bye."
+        ],
+        [
+            "Leonard",
+            "Uh, I\u2019ve got some bad news. There\u2019s no cell service in here."
+        ],
+        [
+            "Sheldon",
+            "Oh. Well, that\u2019s all right. There were plenty of ways to pass the time before smart phones were invented."
+        ],
+        [
+            "Leonard",
+            "That\u2019s true."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll look them up. Son of a biscuit."
+        ],
+        [
+            "Leonard",
+            "Sheldon, it\u2019s fine."
+        ],
+        [
+            "Sheldon",
+            "No, it\u2019s not fine. What kind of store in the 21st century doesn\u2019t at least have Wi-Fi? I\u2019m going to call their corporate office. Son of a biscuit."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Sheldon",
+            "Let\u2019s see, my armies are going to attack the Shire from Buckland. And I roll a five and a three."
+        ],
+        [
+            "Leonard",
+            "Okay. And to defend, I roll two sixes. I win."
+        ],
+        [
+            "Sheldon",
+            "Boy, double-sixes again. You know, if I hadn\u2019t seen it with my own eyes, I wouldn\u2019t believe it. I wonder how long we\u2019re gonna be stuck here."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know, but the girls do a lot for us. It\u2019s the least we can do."
+        ],
+        [
+            "Sheldon",
+            "Oh, that\u2019s true. I suppose it\u2019s only fair we make compromises."
+        ],
+        [
+            "Leonard",
+            "Look at you, being all mature."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know why you\u2019re so surprised. If there\u2019s one thing I know about after living with you for so many years, it\u2019s how to compromise."
+        ],
+        [
+            "Leonard",
+            "I, I\u2019m sorry? You make compromises for me?"
+        ],
+        [
+            "Sheldon",
+            "All the time."
+        ],
+        [
+            "Leonard",
+            "On Earth? In our lives? That, that, that we\u2019re living?"
+        ],
+        [
+            "Sheldon",
+            "Oh, yes. I, just yesterday, you had a, a big piece of lettuce stuck in your teeth at lunch. Did I say anything? No. I compromised and kept my mouth shut. Like you should\u2019ve, because everyone was laughing at you."
+        ],
+        [
+            "Leonard",
+            "That is not a compromise. A compromise is me driving you everywhere because you refuse to learn how."
+        ],
+        [
+            "Sheldon",
+            "Oh, I learned how. Amy taught me."
+        ],
+        [
+            "Leonard",
+            "What? Then. then why don\u2019t you do it?"
+        ],
+        [
+            "Sheldon",
+            "Uh, well, it\u2019s scary. And sometimes I get the pedals mixed up. But, more importantly, driving me to work is one of the things that gives your life purpose. I can\u2019t take that away from you, so what do I do? Oh, come on, I\u2019m practically feeding you the answer. I compromise."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s car."
+        ],
+        [
+            "Raj",
+            "Hey, uh, thanks for keeping me company."
+        ],
+        [
+            "Howard",
+            "I\u2019m happy to. I think getting out of the apartment will do you good. So, where we headed?"
+        ],
+        [
+            "Raj",
+            "If it\u2019s okay with you, I\u2019d like to go to temple."
+        ],
+        [
+            "Howard",
+            "Buddy, trust me, you don\u2019t want to convert to Judaism. I mean, I know I make it look cool, but it\u2019s not all briskets and dreidels."
+        ],
+        [
+            "Raj",
+            "I meant a Hindu temple."
+        ],
+        [
+            "Howard",
+            "Oh. Okay. It\u2019s not like Indiana Jones and the Temple of Doom, right? Some bald guy with horns isn\u2019t gonna rip my heart out."
+        ],
+        [
+            "Raj",
+            "Dude, that movie\u2019s an imperialist fantasy that makes the followers of a beautiful and peaceful religion look like a bunch of bloodthirsty barbarians."
+        ],
+        [
+            "Howard",
+            "You love that movie."
+        ],
+        [
+            "Raj",
+            "Yeah, it\u2019s pretty great."
+        ],
+        [
+            "Howard",
+            "I\u2019m surprised to see you suddenly get religious."
+        ],
+        [
+            "Raj",
+            "Why?"
+        ],
+        [
+            "Howard",
+            "Well, because I\u2019ve known you for ten years and you\u2019ve never gone to temple, you never talked about believing in God, and last Diwali I watched you eat two pounds of sacred cow at a Brazilian steak house."
+        ],
+        [
+            "Raj",
+            "Religion is a very personal thing. I do go to temple, I just, I don\u2019t talk about it."
+        ],
+        [
+            "Howard",
+            "Yeah, but you\u2019re a scientist."
+        ],
+        [
+            "Raj",
+            "So?"
+        ],
+        [
+            "Howard",
+            "So, as a scientist, you believe the way to understand the universe is through facts and evidence, and now you\u2019re counting on some blue chick with a hundred arms to help you?"
+        ],
+        [
+            "Raj",
+            "That is so offensive. Does everything you know about Hinduism come from Indiana Jones?"
+        ],
+        [
+            "Howard",
+            "No. There\u2019s also Apu from The Simpsons."
+        ],
+        [
+            "Raj",
+            "Well, lots of scientists believe in God. Okay? Newton, uh, Faraday, uh, Pascal, all were believers. Even Einstein was famous for attacking quantum theory on the grounds that God does not play dice with the universe."
+        ],
+        [
+            "Howard",
+            "Well, of course he believed in God. he slept with Marilyn Monroe."
+        ],
+        [
+            "Raj",
+            "Actually there\u2019s no proof of that."
+        ],
+        [
+            "Howard",
+            "You believe in your religion, I\u2019ll believe in mine."
+        ],
+        [
+            "Scene",
+            "The store changing rooms."
+        ],
+        [
+            "Amy",
+            "How\u2019s it going in there?"
+        ],
+        [
+            "Penny",
+            "Uh, not really a great outfit for work, unless something opens up in the hookers and whores division. Hey, can I ask you something?"
+        ],
+        [
+            "Amy",
+            "Sure."
+        ],
+        [
+            "Penny",
+            "Do I really force you to do things you don\u2019t want to?"
+        ],
+        [
+            "Amy",
+            "Yeah, but it\u2019s okay."
+        ],
+        [
+            "Penny",
+            "How is it okay?"
+        ],
+        [
+            "Amy",
+            "I promised myself, if I ever got friends, I\u2019d do whatever they said. Really, I\u2019m lucky you found me before a cult did."
+        ],
+        [
+            "Penny",
+            "Well, you know, that was a long time ago. You\u2019re a different woman now. You\u2019re smart, you\u2019ve got great friends, you\u2019ve got a boyfriend, you\u2019re pretty, you have zero fashion sense, but, anyway, tonight we\u2019re gonna do whatever you want."
+        ],
+        [
+            "Amy",
+            "Really?"
+        ],
+        [
+            "Penny",
+            "Absolutely. You name it, we\u2019re doing it."
+        ],
+        [
+            "Amy",
+            "Basket weaving at the craft museum."
+        ],
+        [
+            "Penny",
+            "Well, you named it."
+        ],
+        [
+            "Scene",
+            "The store."
+        ],
+        [
+            "Sheldon",
+            "Oh, here\u2019s another one. I wish that the apple pancake mix was on the top shelf because it starts with an A, but I don\u2019t put it there because I don\u2019t want you breaking one of your little legs when you\u2019re supposed to be making my breakfast."
+        ],
+        [
+            "Leonard",
+            "Is it my turn to talk about the compromises I make?"
+        ],
+        [
+            "Sheldon",
+            "I wasn\u2019t done, but go ahead. He said, compromising."
+        ],
+        [
+            "Leonard",
+            "Because of you, I\u2019m not allowed to adjust the temperature in my own home. I\u2019m not allowed to whistle. I don\u2019t wear shoes that might squeak."
+        ],
+        [
+            "Sheldon",
+            "Well, you\u2019re a physicist, not a circus clown."
+        ],
+        [
+            "Leonard",
+            "Sheldon, do you realize I don\u2019t live with the woman I love because of you? No other reason. Just you."
+        ],
+        [
+            "Sheldon",
+            "Is that true?"
+        ],
+        [
+            "Leonard",
+            "Yes, it\u2019s true. The last time I brought it up, you had an emotional breakdown and got on a train and ran away."
+        ],
+        [
+            "Sheldon",
+            "Well, given my history on the subject, t seems a little reckless to bring it up now."
+        ],
+        [
+            "Leonard",
+            "You have no idea how much you inconvenience the lives of everyone around you. It\u2019s exhausting."
+        ],
+        [
+            "Sheldon",
+            "You know what? You think you\u2019re so tolerant, but the truth is you\u2019re mean to me a lot. Yeah, you think that I don\u2019t notice all those sarcastic comments and those eye rolls, but I do. Hmm? I have excellent peripheral vision. On a good day, I can see my ears."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I, I\u2019m sorry if I hurt your feelings. I\u2019ve been holding a lot of this in for a while."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m sorry, too. And if you want to live with Penny, then I think you should."
+        ],
+        [
+            "Leonard",
+            "Do you mean that?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Yeah, just put on your squeaky shoes and eee-eee-eee your way out of my life."
+        ],
+        [
+            "Leonard",
+            "Come on, don\u2019t get upset."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not upset. I\u2019m just imagining a world without my best friend in it."
+        ],
+        [
+            "Leonard",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s okay."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not leaving your world. I\u2019m just talking about living across the hall."
+        ],
+        [
+            "Sheldon",
+            "I understand. Either way, I want you to know that I\u2019m aware of how difficult I can be. So I just want to say thank you for putting up with me."
+        ],
+        [
+            "Leonard",
+            "Buddy."
+        ],
+        [
+            "Penny",
+            "How are you guys getting along? What? Why are there tears?"
+        ],
+        [
+            "Leonard",
+            "Everything\u2019s fine. We just started talking about living arrangements."
+        ],
+        [
+            "Amy",
+            "Are you crazy? You know he\u2019s a flight risk."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s exactly what I told him."
+        ],
+        [
+            "Penny",
+            "Sheldon, we know this is a sensitive subject, and Leonard\u2019s not gonna move out until you\u2019re ready."
+        ],
+        [
+            "Sheldon",
+            "Well, what if you did it gradually?"
+        ],
+        [
+            "Leonard",
+            "All right. How about we start with two nights a week I live with Penny?"
+        ],
+        [
+            "Sheldon",
+            "How about one night and I let you whistle?"
+        ],
+        [
+            "Leonard",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "When I\u2019m not home."
+        ],
+        [
+            "Leonard",
+            "You got it."
+        ],
+        [
+            "Sheldon",
+            "There we go, compromising again. We really are the best."
+        ],
+        [
+            "Scene",
+            "The temple car park."
+        ],
+        [
+            "Howard",
+            "Here we go, my first Hindu temple."
+        ],
+        [
+            "Raj",
+            "You see behind the fountain, that tower that looks like a pyramid? It\u2019s called a Sikhara. It symbolizes the, the connection between the human and the divine."
+        ],
+        [
+            "Howard",
+            "Huh. I always thought it was mini golf."
+        ],
+        [
+            "Raj",
+            "All right. Shall we?"
+        ],
+        [
+            "Howard",
+            "Yeah. Just, uh, is there anything I should know before I go in?"
+        ],
+        [
+            "Raj",
+            "Like what?"
+        ],
+        [
+            "Howard",
+            "Like am I dressed okay?"
+        ],
+        [
+            "Raj",
+            "Really? So every other place you\u2019ve been, you thought this was fine?"
+        ],
+        [
+            "Howard",
+            "I know you\u2019re under a lot of pressure, so I\u2019m gonna let that pass."
+        ],
+        [
+            "Raj",
+            "Sorry. You\u2019re right. I\u2019m so stressed. But you know what, whenever I walk into that temple I realize that whatever happens, it\u2019s okay. We\u2019re all part of an immense pattern, and though we can\u2019t understand it, we can be happy to know that it\u2019s, it\u2019s working its will through us."
+        ],
+        [
+            "Howard",
+            "That\u2019s nice."
+        ],
+        [
+            "Raj",
+            "Whether you call it God or the universe or the self, we\u2019re all interconnected, and that\u2019s just a beautiful\u2026 Son of a bitch, that guy just dinged my car. S, seriously? You were just gonna drive away? Like my life isn\u2019t hard enough right now. A space probe might be destroyed, my parents are going through an awful divorce, the guy who cuts my dog\u2019s hair just gave her bangs."
+        ],
+        [
+            "Howard",
+            "Raj."
+        ],
+        [
+            "Raj",
+            "You saw her. She looks like Jim Carrey from Dumb and Dumber."
+        ],
+        [
+            "Howard",
+            "Raj, you just got a text. The probe turned on. It\u2019s fine."
+        ],
+        [
+            "Raj",
+            "Oh, good. Namaste, Grandpa."
+        ],
+        [
+            "Scene",
+            "The craft museum. "
+        ],
+        [
+            "Leonard",
+            "I thought this was gonna be boring, but it\u2019s actually kind of fun."
+        ],
+        [
+            "Penny",
+            "Don\u2019t tell Amy that. We\u2019ll be here every Sunday."
+        ],
+        [
+            "Amy",
+            "Sheldon, that really is an excellent basket."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not a basket. It\u2019s a soldier\u2019s helmet from 16th century China."
+        ],
+        [
+            "Amy",
+            "Very nice."
+        ],
+        [
+            "Leonard",
+            "Yeah, it looks great."
+        ],
+        [
+            "Sheldon",
+            "I saw that."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s bedroom."
+        ],
+        [
+            "Leonard",
+            "Well, roomie, it\u2019s only one night a week, but it\u2019s a start."
+        ],
+        [
+            "Penny",
+            "I know. I\u2019m really proud of Sheldon."
+        ],
+        [
+            "Leonard",
+            "Yeah, I\u2019m proud of him, too."
+        ],
+        [
+            "Sheldon (in Penny\u2019s living room)",
+            "Can you keep it down? Some of us are trying to sleep out here."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-12-the-space-probe-disintegration/"
+}

@@ -1,0 +1,2026 @@
+{
+    "Season": 3,
+    "Episode": 3,
+    "Title": "the gothowitz deviation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment kitchen. Penny is cooking breakfast while singing and dancing along to \u201cMan I Feel Like A Woman\u201d by Shenia Twain. Sheldon enters."
+            ],
+            [
+                19,
+                "of a second normal size human being wouldn\u2019t cause a structural failure, much less a homunculus such as yourself."
+            ],
+            [
+                36,
+                "Credits sequence."
+            ],
+            [
+                37,
+                "The apartment."
+            ],
+            [
+                76,
+                "The goth club."
+            ],
+            [
+                102,
+                "The apartment. "
+            ],
+            [
+                125,
+                "The goth club."
+            ],
+            [
+                154,
+                "A tattoo parlour. Bethany is getting a tattoo."
+            ],
+            [
+                158,
+                "The apartment."
+            ],
+            [
+                172,
+                "Sheldon You wouldn\u2019t prefer a throaty chuckle?"
+            ],
+            [
+                182,
+                "The tattoo parlour. Howard is laying down, preparing to have a tattoo on his lower back."
+            ],
+            [
+                216,
+                "The apartment."
+            ],
+            [
+                230,
+                "Raj\u2019s car."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Morning, Sheldon. Come dance with me."
+            ],
+            [
+                3,
+                "Why not?"
+            ],
+            [
+                5,
+                "Are you fun in any of them?"
+            ],
+            [
+                7,
+                "All right, want some French toast?"
+            ],
+            [
+                9,
+                "Tell you what, next French Toast Day, I will make you oatmeal."
+            ],
+            [
+                20,
+                "A homunculus?"
+            ],
+            [
+                22,
+                "Oh, you\u2019re my little homunculus."
+            ],
+            [
+                24,
+                "Sorry. Okay, who wants syrup and who wants cinnamon sugar?"
+            ],
+            [
+                26,
+                "Yes, well, I want a boyfriend whose roommate isn\u2019t a giant pain in the ass."
+            ],
+            [
+                28,
+                "You know what, I give up. He\u2019s impossible."
+            ],
+            [
+                39,
+                "Okay, so Kim the night manager went on maternity leave, and her husband\u2019s name is Sandy, right? So get this, her replacement is a woman named Sandy whose husband\u2019s name is Kim."
+            ],
+            [
+                41,
+                "I know. What are the odds?"
+            ],
+            [
+                45,
+                "Ooh, Sheldon, it\u2019s as if you don\u2019t think I\u2019ll punch you."
+            ],
+            [
+                47,
+                "Fine, whatever. Are you finished?"
+            ],
+            [
+                49,
+                "Um, yeah, sure, thanks."
+            ],
+            [
+                56,
+                "Oh, man, did the Kiss Army repeal don\u2019t ask, don\u2019t tell?"
+            ],
+            [
+                58,
+                "Oh, wow, you\u2019re actually going out like that?"
+            ],
+            [
+                68,
+                "Uh, yeah, I think we\u2019ll pass."
+            ],
+            [
+                73,
+                "They\u2019re gonna get beaten up at Walgreens. Oh, sorry, Sheldon, I almost sat in your spot."
+            ],
+            [
+                75,
+                "Thank you."
+            ],
+            [
+                103,
+                "What\u2019s this cartoon called again?"
+            ],
+            [
+                106,
+                "Anime. You know, I knew a girl in high school named Anna May. Anna May Fletcher. She was born with one nostril. Then she had this bad nose job and basically wound up with three."
+            ],
+            [
+                108,
+                "Oh, am I talking too much? I\u2019m sorry. Zip."
+            ],
+            [
+                110,
+                "Yes please. (Her phone rings) Oh. Hey, Kim. Yeah, I\u2026 (sees Sheldon looking disapprovingly) You know what, hold on, let me take this in the hall. (Sheldon silently offers her another chocolate. She takes it.) You\u2019ll never guess who they got to replace you at work\u2026"
+            ],
+            [
+                181,
+                "Thank you."
+            ],
+            [
+                218,
+                "Of course."
+            ],
+            [
+                221,
+                "Mmm, these are so good"
+            ],
+            [
+                223,
+                "What?"
+            ],
+            [
+                225,
+                "well, my new bed got delivered, if you come over and put it together, you can stay at my place."
+            ],
+            [
+                227,
+                "Yeah, but if we stay there, we won\u2019t have to be quiet."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "No."
+            ],
+            [
+                4,
+                "Penny, while I subscribe to the many worlds theory which posits the existence of an infinite number of Sheldons in an infinite number of universes, I assure you that in none of them am I dancing."
+            ],
+            [
+                6,
+                "The math would suggest that in a few I\u2019m a clown made of candy. But I don\u2019t dance."
+            ],
+            [
+                8,
+                "It\u2019s Oatmeal Day."
+            ],
+            [
+                10,
+                "Dear Lord, are you still going to be here on French Toast Day?"
+            ],
+            [
+                12,
+                "Look, Leonard, Penny made French toast."
+            ],
+            [
+                14,
+                "It\u2019s an iCal download, she can put it right in her phone. And I thought we agreed that you\u2019d have your conjugal visits in her apartment."
+            ],
+            [
+                16,
+                "I see. Did her abysmal housekeeping skills finally trump her perkiness?"
+            ],
+            [
+                18,
+                "That doesn\u2019t seem likely. Her bed\u2019s of sturdy construction. Even the addition"
+            ],
+            [
+                25,
+                "I want oatmeal."
+            ],
+            [
+                27,
+                "I\u2019m sure that will happen soon enough. But in the meantime, I still want oatmeal."
+            ],
+            [
+                29,
+                "I can\u2019t be impossible. I exist. I believe what you meant to say is, \u201cI give up, he\u2019s improbable.\u201d"
+            ],
+            [
+                31,
+                "What am I supposed to do, eat French toast on a Monday? Now, that would be impossible."
+            ],
+            [
+                33,
+                "You can catch even more flies with manure. What\u2019s your point?"
+            ],
+            [
+                35,
+                "Boy, that does smell good. Too bad it\u2019s Monday."
+            ],
+            [
+                42,
+                "Easily calculable, we begin by identifying the set of married couples with unisex names. We then eliminate those unqualified for restaurant work, the aged, the imprisoned and the limbless, for example. Next we look at\u2026"
+            ],
+            [
+                44,
+                "I\u2019m sorry. Ooh, Penny, it\u2019s as if the Cheesecake Factory is run by witches."
+            ],
+            [
+                48,
+                "Well, thank you. How thoughtful. Would you like a chocolate"
+            ],
+            [
+                51,
+                "You said be nice to Penny. I believe offering chocolate to someone falls within the definition of nice."
+            ],
+            [
+                53,
+                "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy."
+            ],
+            [
+                62,
+                "You know, I\u2019ve always wanted to go to a goth nighclub."
+            ],
+            [
+                64,
+                "Bazinga! None of you ever see my practical jokes coming, do you?"
+            ],
+            [
+                74,
+                "Did you? I didn\u2019t notice. Have a chocolate."
+            ],
+            [
+                105,
+                "And it\u2019s not a cartoon, it\u2019s anime."
+            ],
+            [
+                107,
+                "You\u2019re here a lot now."
+            ],
+            [
+                109,
+                "Thank you. Chocolate?"
+            ],
+            [
+                112,
+                "Really?"
+            ],
+            [
+                114,
+                "Very good. Chocolate?"
+            ],
+            [
+                116,
+                "Actually, it turns out I can."
+            ],
+            [
+                118,
+                "There\u2019s just no pleasing you, is there, Leonard? You weren\u2019t happy with my previous approach to dealing with her, so I decided to employ operant conditioning techniques, building on the work of Thorndike and B.F. Skinner. By this time next week, I believe I can have her jumping out of a pool, balancing a beach ball on her nose."
+            ],
+            [
+                120,
+                "I\u2019m not suggesting we really make her jump out of a pool. I thought the \u201cbazinga\u201d was implied. I\u2019m just tweaking her personality, sanding off the rough edges if you will."
+            ],
+            [
+                122,
+                "Are you saying that I\u2019m forbidden from applying a harmless, scientifically valid protocol that will make our lives better?"
+            ],
+            [
+                162,
+                "Obviously, waitressing at the Cheesecake Factory is a complex socioeconomic activity, that requires a great deal of analysis and planning. Bazinga! You know, using positive reinforcement techniques, I could train that behaviour out of her in a week."
+            ],
+            [
+                164,
+                "If you let me use negative reinforcement, I can get it done before we go to bed."
+            ],
+            [
+                166,
+                "No, of course not. We\u2019re talking very mild electric shocks. No tissue damage whatsoever."
+            ],
+            [
+                168,
+                "Oh, come on, you can\u2019t tell me that you\u2019re not intrigued about the possibility of building a better girlfriend."
+            ],
+            [
+                170,
+                "You mean, like that high-pitched, irritating laugh?"
+            ],
+            [
+                174,
+                "No, that would be incongruous, I was going to lower the whole voice to a more pleasing register."
+            ],
+            [
+                176,
+                "Come again?"
+            ],
+            [
+                180,
+                "Have a chocolate."
+            ],
+            [
+                217,
+                "Well, I\u2019m going to make some warm milk and then turn in. I trust if you two are planning in engaging in amorous activites, you\u2019ll keep the decibel level to a minimum."
+            ],
+            [
+                219,
+                "Thank you. (Throws a chocolate. Penny catches it in her mouth)"
+            ],
+            [
+                229,
+                "Interesting. Sex works even better than chocolate to modify behaviour. I wonder if anyone else has stumbled on to that."
+            ]
+        ],
+        "Leonard": [
+            [
+                11,
+                "Morning."
+            ],
+            [
+                13,
+                "Sorry. I haven\u2019t given her your schedule yet."
+            ],
+            [
+                15,
+                "We did, but there were extenuating circumstances."
+            ],
+            [
+                17,
+                "No, her bed kind of\u2026 broke."
+            ],
+            [
+                21,
+                "Perfectly formed miniature human being."
+            ],
+            [
+                23,
+                "Don\u2019t do that."
+            ],
+            [
+                30,
+                "Sheldon, you really need to find a better way of dealing with Penny."
+            ],
+            [
+                32,
+                "I\u2019m just saying, you can catch more flies with honey than with vinegar."
+            ],
+            [
+                34,
+                "It\u2019s a\u2026 (gives up)"
+            ],
+            [
+                40,
+                "Wow!"
+            ],
+            [
+                43,
+                "Sheldon! it\u2019s an amazing coincidence, can we leave it at that?"
+            ],
+            [
+                46,
+                "Come on, you guys, let it go."
+            ],
+            [
+                50,
+                "What was that?"
+            ],
+            [
+                52,
+                "It does. But in my experience, you don\u2019t."
+            ],
+            [
+                54,
+                "Yeah, yeah, now that\u2019s you, obnoxious and insufferable."
+            ],
+            [
+                60,
+                "Howard, what did you do?"
+            ],
+            [
+                66,
+                "Why are you carrying extras?"
+            ],
+            [
+                70,
+                "In this case, you bet she is."
+            ],
+            [
+                72,
+                "They\u2019re gonna get beaten up at that club."
+            ],
+            [
+                111,
+                "Okay, I know what you\u2019re doing."
+            ],
+            [
+                113,
+                "Yes, you\u2019re using chocolates as positive reinforcement for what you consider correct behaviour."
+            ],
+            [
+                115,
+                "No, I don\u2019t want any chocolate! Sheldon, you can\u2019t train my girlfriend like a lab rat."
+            ],
+            [
+                117,
+                "Well, you shouldn\u2019t."
+            ],
+            [
+                119,
+                "No, this has to stop now."
+            ],
+            [
+                121,
+                "No, you\u2019re not sanding Penny."
+            ],
+            [
+                123,
+                "Yes, you\u2019re forbidden."
+            ],
+            [
+                161,
+                "What could she possibly be talking about for so long?"
+            ],
+            [
+                163,
+                "No."
+            ],
+            [
+                165,
+                "You\u2019re not squirting her in the face with water."
+            ],
+            [
+                167,
+                "Forget it."
+            ],
+            [
+                169,
+                "I\u2019m not. And Penny\u2019s qualities, both good and bad, are what make her who she is."
+            ],
+            [
+                171,
+                "Yes."
+            ],
+            [
+                173,
+                "You\u2019re not changing how Penny laughs."
+            ],
+            [
+                222,
+                "Unbelievable."
+            ],
+            [
+                224,
+                "I was just thinking, we should probably turn in too."
+            ],
+            [
+                226,
+                "Really, that\u2019s a lot of work, and it\u2019s kind of late."
+            ],
+            [
+                228,
+                "Let\u2019s go."
+            ]
+        ],
+        "Howard (arriving, in goth gear)": [
+            [
+                55,
+                "What\u2019s going on, day dwellers?"
+            ]
+        ],
+        "Howard": [
+            [
+                57,
+                "No. Raj and I are going a goth club in Hollywood to hang with the night people. Anybody want to come along?"
+            ],
+            [
+                59,
+                "No, no. I\u2019m going out like this. (Whips off jacket to reveal tattoos up both arms)"
+            ],
+            [
+                61,
+                "They\u2019re called tattoo sleeves. Look. I bought them online, Raj got a set, too. Fantastic, right? Put them on, have hot sex with some freaky girl with her business pierced, take them off, and I can still be buried in a Jewish cemetery."
+            ],
+            [
+                63,
+                "Really?"
+            ],
+            [
+                65,
+                "Okay, how about you two? Look, I\u2019ve got some extra tat sleeves."
+            ],
+            [
+                67,
+                "Well, In case I snag one on someone\u2019s nipple ring."
+            ],
+            [
+                69,
+                "Oh, is the missus speaking for the couple now?"
+            ],
+            [
+                79,
+                "It\u2019d help if you weren\u2019t drinking light beer."
+            ],
+            [
+                81,
+                "Hello, it looks like blood. Did you even read the Wiki How link I sent you on being goth?"
+            ],
+            [
+                83,
+                "What?"
+            ],
+            [
+                85,
+                "Just remember we are lost boys, children of the night."
+            ],
+            [
+                88,
+                "I\u2019m actually much morelost than he is."
+            ],
+            [
+                90,
+                "Thanks. Can we buy you ladies a drink?"
+            ],
+            [
+                94,
+                "I\u2019m Howard."
+            ],
+            [
+                97,
+                "Nice to meet you, Bethany."
+            ],
+            [
+                128,
+                "Oh, you know, goth stuff. Goth magazines, goth music."
+            ],
+            [
+                134,
+                "Yeah, you know, the dark sciences."
+            ],
+            [
+                137,
+                "Oy vay."
+            ],
+            [
+                139,
+                "Does it? Okay, if you like space stuff, I design components for the international space station. Which is in space. Where, as I\u2019m sure you know, no one can hear you scream."
+            ],
+            [
+                142,
+                "Really? How about that? I\u2019ve been to the Gap."
+            ],
+            [
+                146,
+                "Okay."
+            ],
+            [
+                148,
+                "We are fun people."
+            ],
+            [
+                151,
+                "Did you bring the black condoms?"
+            ],
+            [
+                153,
+                "Let\u2019s go."
+            ],
+            [
+                157,
+                "Not particularly."
+            ],
+            [
+                184,
+                "Uh, yeah!"
+            ],
+            [
+                186,
+                "She\u2019s not going to see it. She takes my temperature orally now."
+            ],
+            [
+                188,
+                "Well, I can\u2019t really decide between a screaming devil, this mean little skull or Kermit the Frog."
+            ],
+            [
+                190,
+                "You know (Kermit voice) Hi ho, I\u2019m on Howard\u2019s butt!"
+            ],
+            [
+                192,
+                "Yeah, I\u2019d like the mean little skull, please."
+            ],
+            [
+                196,
+                "Ow, ow, ow, ow, ow!"
+            ],
+            [
+                198,
+                "I know, but it was cold. Ow, ow, ow!"
+            ],
+            [
+                200,
+                "What comes after the stencil?"
+            ],
+            [
+                202,
+                "Aaaaaargh! Okay, that\u2019s it, no needle, no pain, no tattoo."
+            ],
+            [
+                204,
+                "No, I haven\u2019t, look. (Rips off tattoo sleeves) I\u2019m sorry, I\u2019m a fraud, he\u2019s a fraud."
+            ],
+            [
+                206,
+                "Yeah, I think I covered that."
+            ],
+            [
+                208,
+                "We\u2019re not goth, we\u2019re just guys."
+            ],
+            [
+                211,
+                "Yes. And I wouldn\u2019t blame you if you walked out of here and never wanted to see us again. Unless of course our bold honesty has suddenly made us attractive."
+            ],
+            [
+                215,
+                "What are you thinking? Maybe a big musical number?"
+            ],
+            [
+                232,
+                "Okay, wait, how about this? We say there were four goth girls, the two girls in the club had two friends."
+            ],
+            [
+                234,
+                "What\u2019s that got to do with the story?"
+            ],
+            [
+                236,
+                "Fine, they smelled good."
+            ],
+            [
+                238,
+                "Whatever."
+            ],
+            [
+                240,
+                "No, no. Look, let me say my story all the way through, and then you can say yours, and then we\u2019ll pick."
+            ],
+            [
+                242,
+                "Okay. We got tattoos, and then the four girls took us to their place."
+            ],
+            [
+                244,
+                "We say they\u2019re in a very intimate area."
+            ],
+            [
+                246,
+                "Right, right, so we go back to their place, and then the six of us end up in a hot tub."
+            ],
+            [
+                248,
+                "True. Okay, forget the hot tub. The point is, we each have a m\u00e9nage with sexy goth girls."
+            ],
+            [
+                250,
+                "Yeah. Hey, want to try a country bar tomorrow night."
+            ],
+            [
+                252,
+                "Could happen."
+            ]
+        ],
+        "Howard (after Raj whispers)": [
+            [
+                71,
+                "Yes, she\u2019s pushy and yes, he\u2019s whipped, but that\u2019s not the expression. Come on, I want to stop at Walgreens and pick up some more eyeliner."
+            ]
+        ],
+        "Raj": [
+            [
+                78,
+                "I think we\u2019re fitting in quite nicely."
+            ],
+            [
+                80,
+                "Oh, what\u2019s so gothic about vodka and cranberry juice?"
+            ],
+            [
+                82,
+                "No, I\u2019m behind on my wiki-reading I\u2019m kind of on a John Grisham kick right now."
+            ],
+            [
+                84,
+                "Well, I finished reading The Pelican Brief and loved it so much, I dived right into The Client. He was a lawyer himself so his novels are accurate as well as entertaining."
+            ],
+            [
+                86,
+                "Great. Lost boys, children of the night. Got it. Can you pass the Chex mix, please. Thank you. We are lost boys."
+            ],
+            [
+                92,
+                "Light beers? Well, Wiki-how about that?"
+            ],
+            [
+                95,
+                "Raj."
+            ],
+            [
+                98,
+                "Yes, very nice."
+            ],
+            [
+                101,
+                "Do either of you ladies enjoy the novels of John Grisham?"
+            ],
+            [
+                129,
+                "Goth food."
+            ],
+            [
+                131,
+                "Uh\u2026 blackened salmon?"
+            ],
+            [
+                133,
+                "Oh, we\u2019re scientists."
+            ],
+            [
+                136,
+                "Well, I am an astrophysicist and a lot of that takes place at night. When there are vampires and miscellaneous undead out and about."
+            ],
+            [
+                138,
+                "That sounds really cool."
+            ],
+            [
+                140,
+                "So what do you gals do?"
+            ],
+            [
+                143,
+                "Yeah, I\u2019ve been there as well. I like your tee-shirts with the little pocket."
+            ],
+            [
+                147,
+                "Sure, we like fun."
+            ],
+            [
+                149,
+                "Dark and fun."
+            ],
+            [
+                152,
+                "In my fanny pack."
+            ],
+            [
+                156,
+                "Are you happy now?"
+            ],
+            [
+                183,
+                "Are you seriously going to deface your body just for the possibility you could have cheap sex with a strange girl you met in a bar?"
+            ],
+            [
+                185,
+                "What is your mother going to say?"
+            ],
+            [
+                194,
+                "With my luck, hepatitis"
+            ],
+            [
+                205,
+                "We\u2019re both frauds."
+            ],
+            [
+                207,
+                "But I was summing up."
+            ],
+            [
+                209,
+                "Very, very smart guys."
+            ],
+            [
+                214,
+                "When we tell this story, let\u2019s end it differently."
+            ],
+            [
+                233,
+                "I like it, I like it. Did they smell good despite their gothlike nature?"
+            ],
+            [
+                235,
+                "Engaging my olfactory sense helps make it real for me."
+            ],
+            [
+                237,
+                "Oh, they did. Like jasmine and honeysuckle."
+            ],
+            [
+                239,
+                "And then they held hands and did a sexy, demonic hokey-pokey for us."
+            ],
+            [
+                241,
+                "I\u2019m sorry. Go on."
+            ],
+            [
+                243,
+                "But we don\u2019t have tattoos. What if someone asks to see our tattoos?"
+            ],
+            [
+                245,
+                "Oh, we are bad boys, aren\u2019t we?"
+            ],
+            [
+                247,
+                "But we just got tattoos. Wouldn\u2019t we be concerned about bacterial infection?"
+            ],
+            [
+                249,
+                "Wow. What a great night."
+            ],
+            [
+                251,
+                "Yeah, maybe we\u2019ll get lucky with some sexy cowgirls."
+            ],
+            [
+                253,
+                "I wonder how they smell."
+            ]
+        ],
+        "Girl": [
+            [
+                87,
+                "Good for you."
+            ],
+            [
+                89,
+                "Nice ink."
+            ],
+            [
+                91,
+                "Two light beers."
+            ],
+            [
+                96,
+                "I\u2019m Bethany."
+            ]
+        ],
+        "Second girl": [
+            [
+                93,
+                "What\u2019s your names?"
+            ],
+            [
+                100,
+                "I\u2019m Sarah. Not that anyone cares."
+            ]
+        ],
+        "Bethany": [
+            [
+                99,
+                "Nice to meet you too."
+            ],
+            [
+                127,
+                "So what do you guys do?"
+            ],
+            [
+                132,
+                "No, I meant what do you do for jobs?"
+            ],
+            [
+                135,
+                "What are the dark sciences"
+            ],
+            [
+                141,
+                "I work at the Gap."
+            ],
+            [
+                145,
+                "Yeah. Why don\u2019t we go somewhere else and have some fun?"
+            ],
+            [
+                150,
+                "Come on, I know a place you\u2019ll really dig."
+            ],
+            [
+                187,
+                "What are you going to get, Howard?"
+            ],
+            [
+                189,
+                "Kermit the Frog?"
+            ],
+            [
+                191,
+                "Get the mean little skull, and I\u2019ll see if I can make him smile."
+            ],
+            [
+                203,
+                "What\u2019s the big deal, you\u2019ve done this before."
+            ],
+            [
+                210,
+                "So you were totally scamming us?"
+            ],
+            [
+                212,
+                "I\u2019m leaving."
+            ]
+        ],
+        "Leonard: Oshikuru": [
+            [
+                104,
+                "Demon Samurai."
+            ]
+        ],
+        "Sheldon (Squirting him with a water spray)": [
+            [
+                124,
+                "Bad Leonard."
+            ]
+        ],
+        "Sarah": [
+            [
+                130,
+                "What\u2019s goth food?"
+            ],
+            [
+                144,
+                "I work there too. Not that anyone cares. You know, this place is boring."
+            ],
+            [
+                193,
+                "What are you going to get, Raj?"
+            ],
+            [
+                213,
+                "I\u2019m leaving too. Not that anyone cares."
+            ]
+        ],
+        "Penny (voice outside door)": [
+            [
+                160,
+                "Oh\u2019 my God, she didn\u2019t!"
+            ]
+        ],
+        "Penny (entering)": [
+            [
+                175,
+                "Uh, sorry guys, that girl is (high pitched) freaky!"
+            ]
+        ],
+        "Penny (normal voice)": [
+            [
+                177,
+                "Freaky."
+            ]
+        ],
+        "Sheldon (lower voice)": [
+            [
+                178,
+                "Freaky?"
+            ]
+        ],
+        "Penny (lower voice)": [
+            [
+                179,
+                "Yeah, freaky."
+            ]
+        ],
+        "Tattooist": [
+            [
+                195,
+                "Okay, here we go."
+            ],
+            [
+                197,
+                "That\u2019s just rubbing alcohol."
+            ],
+            [
+                199,
+                "I\u2019m putting on the stencil."
+            ],
+            [
+                201,
+                "This."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment kitchen. Penny is cooking breakfast while singing and dancing along to \u201cMan I Feel Like A Woman\u201d by Shenia Twain. Sheldon enters."
+        ],
+        [
+            "Penny",
+            "Morning, Sheldon. Come dance with me."
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Penny",
+            "Why not?"
+        ],
+        [
+            "Sheldon",
+            "Penny, while I subscribe to the many worlds theory which posits the existence of an infinite number of Sheldons in an infinite number of universes, I assure you that in none of them am I dancing."
+        ],
+        [
+            "Penny",
+            "Are you fun in any of them?"
+        ],
+        [
+            "Sheldon",
+            "The math would suggest that in a few I\u2019m a clown made of candy. But I don\u2019t dance."
+        ],
+        [
+            "Penny",
+            "All right, want some French toast?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s Oatmeal Day."
+        ],
+        [
+            "Penny",
+            "Tell you what, next French Toast Day, I will make you oatmeal."
+        ],
+        [
+            "Sheldon",
+            "Dear Lord, are you still going to be here on French Toast Day?"
+        ],
+        [
+            "Leonard",
+            "Morning."
+        ],
+        [
+            "Sheldon",
+            "Look, Leonard, Penny made French toast."
+        ],
+        [
+            "Leonard",
+            "Sorry. I haven\u2019t given her your schedule yet."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s an iCal download, she can put it right in her phone. And I thought we agreed that you\u2019d have your conjugal visits in her apartment."
+        ],
+        [
+            "Leonard",
+            "We did, but there were extenuating circumstances."
+        ],
+        [
+            "Sheldon",
+            "I see. Did her abysmal housekeeping skills finally trump her perkiness?"
+        ],
+        [
+            "Leonard",
+            "No, her bed kind of\u2026 broke."
+        ],
+        [
+            "Sheldon",
+            "That doesn\u2019t seem likely. Her bed\u2019s of sturdy construction. Even the addition"
+        ],
+        [
+            "Scene",
+            "of a second normal size human being wouldn\u2019t cause a structural failure, much less a homunculus such as yourself."
+        ],
+        [
+            "Penny",
+            "A homunculus?"
+        ],
+        [
+            "Leonard",
+            "Perfectly formed miniature human being."
+        ],
+        [
+            "Penny",
+            "Oh, you\u2019re my little homunculus."
+        ],
+        [
+            "Leonard",
+            "Don\u2019t do that."
+        ],
+        [
+            "Penny",
+            "Sorry. Okay, who wants syrup and who wants cinnamon sugar?"
+        ],
+        [
+            "Sheldon",
+            "I want oatmeal."
+        ],
+        [
+            "Penny",
+            "Yes, well, I want a boyfriend whose roommate isn\u2019t a giant pain in the ass."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sure that will happen soon enough. But in the meantime, I still want oatmeal."
+        ],
+        [
+            "Penny",
+            "You know what, I give up. He\u2019s impossible."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t be impossible. I exist. I believe what you meant to say is, \u201cI give up, he\u2019s improbable.\u201d"
+        ],
+        [
+            "Leonard",
+            "Sheldon, you really need to find a better way of dealing with Penny."
+        ],
+        [
+            "Sheldon",
+            "What am I supposed to do, eat French toast on a Monday? Now, that would be impossible."
+        ],
+        [
+            "Leonard",
+            "I\u2019m just saying, you can catch more flies with honey than with vinegar."
+        ],
+        [
+            "Sheldon",
+            "You can catch even more flies with manure. What\u2019s your point?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s a\u2026 (gives up)"
+        ],
+        [
+            "Sheldon",
+            "Boy, that does smell good. Too bad it\u2019s Monday."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Okay, so Kim the night manager went on maternity leave, and her husband\u2019s name is Sandy, right? So get this, her replacement is a woman named Sandy whose husband\u2019s name is Kim."
+        ],
+        [
+            "Leonard",
+            "Wow!"
+        ],
+        [
+            "Penny",
+            "I know. What are the odds?"
+        ],
+        [
+            "Sheldon",
+            "Easily calculable, we begin by identifying the set of married couples with unisex names. We then eliminate those unqualified for restaurant work, the aged, the imprisoned and the limbless, for example. Next we look at\u2026"
+        ],
+        [
+            "Leonard",
+            "Sheldon! it\u2019s an amazing coincidence, can we leave it at that?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. Ooh, Penny, it\u2019s as if the Cheesecake Factory is run by witches."
+        ],
+        [
+            "Penny",
+            "Ooh, Sheldon, it\u2019s as if you don\u2019t think I\u2019ll punch you."
+        ],
+        [
+            "Leonard",
+            "Come on, you guys, let it go."
+        ],
+        [
+            "Penny",
+            "Fine, whatever. Are you finished?"
+        ],
+        [
+            "Sheldon",
+            "Well, thank you. How thoughtful. Would you like a chocolate"
+        ],
+        [
+            "Penny",
+            "Um, yeah, sure, thanks."
+        ],
+        [
+            "Leonard",
+            "What was that?"
+        ],
+        [
+            "Sheldon",
+            "You said be nice to Penny. I believe offering chocolate to someone falls within the definition of nice."
+        ],
+        [
+            "Leonard",
+            "It does. But in my experience, you don\u2019t."
+        ],
+        [
+            "Sheldon",
+            "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy."
+        ],
+        [
+            "Leonard",
+            "Yeah, yeah, now that\u2019s you, obnoxious and insufferable."
+        ],
+        [
+            "Howard (arriving, in goth gear)",
+            "What\u2019s going on, day dwellers?"
+        ],
+        [
+            "Penny",
+            "Oh, man, did the Kiss Army repeal don\u2019t ask, don\u2019t tell?"
+        ],
+        [
+            "Howard",
+            "No. Raj and I are going a goth club in Hollywood to hang with the night people. Anybody want to come along?"
+        ],
+        [
+            "Penny",
+            "Oh, wow, you\u2019re actually going out like that?"
+        ],
+        [
+            "Howard",
+            "No, no. I\u2019m going out like this. (Whips off jacket to reveal tattoos up both arms)"
+        ],
+        [
+            "Leonard",
+            "Howard, what did you do?"
+        ],
+        [
+            "Howard",
+            "They\u2019re called tattoo sleeves. Look. I bought them online, Raj got a set, too. Fantastic, right? Put them on, have hot sex with some freaky girl with her business pierced, take them off, and I can still be buried in a Jewish cemetery."
+        ],
+        [
+            "Sheldon",
+            "You know, I\u2019ve always wanted to go to a goth nighclub."
+        ],
+        [
+            "Howard",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "Bazinga! None of you ever see my practical jokes coming, do you?"
+        ],
+        [
+            "Howard",
+            "Okay, how about you two? Look, I\u2019ve got some extra tat sleeves."
+        ],
+        [
+            "Leonard",
+            "Why are you carrying extras?"
+        ],
+        [
+            "Howard",
+            "Well, In case I snag one on someone\u2019s nipple ring."
+        ],
+        [
+            "Penny",
+            "Uh, yeah, I think we\u2019ll pass."
+        ],
+        [
+            "Howard",
+            "Oh, is the missus speaking for the couple now?"
+        ],
+        [
+            "Leonard",
+            "In this case, you bet she is."
+        ],
+        [
+            "Howard (after Raj whispers)",
+            "Yes, she\u2019s pushy and yes, he\u2019s whipped, but that\u2019s not the expression. Come on, I want to stop at Walgreens and pick up some more eyeliner."
+        ],
+        [
+            "Leonard",
+            "They\u2019re gonna get beaten up at that club."
+        ],
+        [
+            "Penny",
+            "They\u2019re gonna get beaten up at Walgreens. Oh, sorry, Sheldon, I almost sat in your spot."
+        ],
+        [
+            "Sheldon",
+            "Did you? I didn\u2019t notice. Have a chocolate."
+        ],
+        [
+            "Penny",
+            "Thank you."
+        ],
+        [
+            "Scene",
+            "The goth club."
+        ],
+        [
+            "Raj",
+            "I think we\u2019re fitting in quite nicely."
+        ],
+        [
+            "Howard",
+            "It\u2019d help if you weren\u2019t drinking light beer."
+        ],
+        [
+            "Raj",
+            "Oh, what\u2019s so gothic about vodka and cranberry juice?"
+        ],
+        [
+            "Howard",
+            "Hello, it looks like blood. Did you even read the Wiki How link I sent you on being goth?"
+        ],
+        [
+            "Raj",
+            "No, I\u2019m behind on my wiki-reading I\u2019m kind of on a John Grisham kick right now."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Raj",
+            "Well, I finished reading The Pelican Brief and loved it so much, I dived right into The Client. He was a lawyer himself so his novels are accurate as well as entertaining."
+        ],
+        [
+            "Howard",
+            "Just remember we are lost boys, children of the night."
+        ],
+        [
+            "Raj",
+            "Great. Lost boys, children of the night. Got it. Can you pass the Chex mix, please. Thank you. We are lost boys."
+        ],
+        [
+            "Girl",
+            "Good for you."
+        ],
+        [
+            "Howard",
+            "I\u2019m actually much morelost than he is."
+        ],
+        [
+            "Girl",
+            "Nice ink."
+        ],
+        [
+            "Howard",
+            "Thanks. Can we buy you ladies a drink?"
+        ],
+        [
+            "Girl",
+            "Two light beers."
+        ],
+        [
+            "Raj",
+            "Light beers? Well, Wiki-how about that?"
+        ],
+        [
+            "Second girl",
+            "What\u2019s your names?"
+        ],
+        [
+            "Howard",
+            "I\u2019m Howard."
+        ],
+        [
+            "Raj",
+            "Raj."
+        ],
+        [
+            "Girl",
+            "I\u2019m Bethany."
+        ],
+        [
+            "Howard",
+            "Nice to meet you, Bethany."
+        ],
+        [
+            "Raj",
+            "Yes, very nice."
+        ],
+        [
+            "Bethany",
+            "Nice to meet you too."
+        ],
+        [
+            "Second girl",
+            "I\u2019m Sarah. Not that anyone cares."
+        ],
+        [
+            "Raj",
+            "Do either of you ladies enjoy the novels of John Grisham?"
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "What\u2019s this cartoon called again?"
+        ],
+        [
+            "Leonard: Oshikuru",
+            "Demon Samurai."
+        ],
+        [
+            "Sheldon",
+            "And it\u2019s not a cartoon, it\u2019s anime."
+        ],
+        [
+            "Penny",
+            "Anime. You know, I knew a girl in high school named Anna May. Anna May Fletcher. She was born with one nostril. Then she had this bad nose job and basically wound up with three."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re here a lot now."
+        ],
+        [
+            "Penny",
+            "Oh, am I talking too much? I\u2019m sorry. Zip."
+        ],
+        [
+            "Sheldon",
+            "Thank you. Chocolate?"
+        ],
+        [
+            "Penny",
+            "Yes please. (Her phone rings) Oh. Hey, Kim. Yeah, I\u2026 (sees Sheldon looking disapprovingly) You know what, hold on, let me take this in the hall. (Sheldon silently offers her another chocolate. She takes it.) You\u2019ll never guess who they got to replace you at work\u2026"
+        ],
+        [
+            "Leonard",
+            "Okay, I know what you\u2019re doing."
+        ],
+        [
+            "Sheldon",
+            "Really?"
+        ],
+        [
+            "Leonard",
+            "Yes, you\u2019re using chocolates as positive reinforcement for what you consider correct behaviour."
+        ],
+        [
+            "Sheldon",
+            "Very good. Chocolate?"
+        ],
+        [
+            "Leonard",
+            "No, I don\u2019t want any chocolate! Sheldon, you can\u2019t train my girlfriend like a lab rat."
+        ],
+        [
+            "Sheldon",
+            "Actually, it turns out I can."
+        ],
+        [
+            "Leonard",
+            "Well, you shouldn\u2019t."
+        ],
+        [
+            "Sheldon",
+            "There\u2019s just no pleasing you, is there, Leonard? You weren\u2019t happy with my previous approach to dealing with her, so I decided to employ operant conditioning techniques, building on the work of Thorndike and B.F. Skinner. By this time next week, I believe I can have her jumping out of a pool, balancing a beach ball on her nose."
+        ],
+        [
+            "Leonard",
+            "No, this has to stop now."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not suggesting we really make her jump out of a pool. I thought the \u201cbazinga\u201d was implied. I\u2019m just tweaking her personality, sanding off the rough edges if you will."
+        ],
+        [
+            "Leonard",
+            "No, you\u2019re not sanding Penny."
+        ],
+        [
+            "Sheldon",
+            "Are you saying that I\u2019m forbidden from applying a harmless, scientifically valid protocol that will make our lives better?"
+        ],
+        [
+            "Leonard",
+            "Yes, you\u2019re forbidden."
+        ],
+        [
+            "Sheldon (Squirting him with a water spray)",
+            "Bad Leonard."
+        ],
+        [
+            "Scene",
+            "The goth club."
+        ],
+        [
+            "Bethany",
+            "So what do you guys do?"
+        ],
+        [
+            "Howard",
+            "Oh, you know, goth stuff. Goth magazines, goth music."
+        ],
+        [
+            "Raj",
+            "Goth food."
+        ],
+        [
+            "Sarah",
+            "What\u2019s goth food?"
+        ],
+        [
+            "Raj",
+            "Uh\u2026 blackened salmon?"
+        ],
+        [
+            "Bethany",
+            "No, I meant what do you do for jobs?"
+        ],
+        [
+            "Raj",
+            "Oh, we\u2019re scientists."
+        ],
+        [
+            "Howard",
+            "Yeah, you know, the dark sciences."
+        ],
+        [
+            "Bethany",
+            "What are the dark sciences"
+        ],
+        [
+            "Raj",
+            "Well, I am an astrophysicist and a lot of that takes place at night. When there are vampires and miscellaneous undead out and about."
+        ],
+        [
+            "Howard",
+            "Oy vay."
+        ],
+        [
+            "Raj",
+            "That sounds really cool."
+        ],
+        [
+            "Howard",
+            "Does it? Okay, if you like space stuff, I design components for the international space station. Which is in space. Where, as I\u2019m sure you know, no one can hear you scream."
+        ],
+        [
+            "Raj",
+            "So what do you gals do?"
+        ],
+        [
+            "Bethany",
+            "I work at the Gap."
+        ],
+        [
+            "Howard",
+            "Really? How about that? I\u2019ve been to the Gap."
+        ],
+        [
+            "Raj",
+            "Yeah, I\u2019ve been there as well. I like your tee-shirts with the little pocket."
+        ],
+        [
+            "Sarah",
+            "I work there too. Not that anyone cares. You know, this place is boring."
+        ],
+        [
+            "Bethany",
+            "Yeah. Why don\u2019t we go somewhere else and have some fun?"
+        ],
+        [
+            "Howard",
+            "Okay."
+        ],
+        [
+            "Raj",
+            "Sure, we like fun."
+        ],
+        [
+            "Howard",
+            "We are fun people."
+        ],
+        [
+            "Raj",
+            "Dark and fun."
+        ],
+        [
+            "Bethany",
+            "Come on, I know a place you\u2019ll really dig."
+        ],
+        [
+            "Howard",
+            "Did you bring the black condoms?"
+        ],
+        [
+            "Raj",
+            "In my fanny pack."
+        ],
+        [
+            "Howard",
+            "Let\u2019s go."
+        ],
+        [
+            "Scene",
+            "A tattoo parlour. Bethany is getting a tattoo."
+        ],
+        [
+            "Raj",
+            "Are you happy now?"
+        ],
+        [
+            "Howard",
+            "Not particularly."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny (voice outside door)",
+            "Oh\u2019 my God, she didn\u2019t!"
+        ],
+        [
+            "Leonard",
+            "What could she possibly be talking about for so long?"
+        ],
+        [
+            "Sheldon",
+            "Obviously, waitressing at the Cheesecake Factory is a complex socioeconomic activity, that requires a great deal of analysis and planning. Bazinga! You know, using positive reinforcement techniques, I could train that behaviour out of her in a week."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "If you let me use negative reinforcement, I can get it done before we go to bed."
+        ],
+        [
+            "Leonard",
+            "You\u2019re not squirting her in the face with water."
+        ],
+        [
+            "Sheldon",
+            "No, of course not. We\u2019re talking very mild electric shocks. No tissue damage whatsoever."
+        ],
+        [
+            "Leonard",
+            "Forget it."
+        ],
+        [
+            "Sheldon",
+            "Oh, come on, you can\u2019t tell me that you\u2019re not intrigued about the possibility of building a better girlfriend."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not. And Penny\u2019s qualities, both good and bad, are what make her who she is."
+        ],
+        [
+            "Sheldon",
+            "You mean, like that high-pitched, irritating laugh?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Scene",
+            "Sheldon You wouldn\u2019t prefer a throaty chuckle?"
+        ],
+        [
+            "Leonard",
+            "You\u2019re not changing how Penny laughs."
+        ],
+        [
+            "Sheldon",
+            "No, that would be incongruous, I was going to lower the whole voice to a more pleasing register."
+        ],
+        [
+            "Penny (entering)",
+            "Uh, sorry guys, that girl is (high pitched) freaky!"
+        ],
+        [
+            "Sheldon",
+            "Come again?"
+        ],
+        [
+            "Penny (normal voice)",
+            "Freaky."
+        ],
+        [
+            "Sheldon (lower voice)",
+            "Freaky?"
+        ],
+        [
+            "Penny (lower voice)",
+            "Yeah, freaky."
+        ],
+        [
+            "Sheldon",
+            "Have a chocolate."
+        ],
+        [
+            "Penny",
+            "Thank you."
+        ],
+        [
+            "Scene",
+            "The tattoo parlour. Howard is laying down, preparing to have a tattoo on his lower back."
+        ],
+        [
+            "Raj",
+            "Are you seriously going to deface your body just for the possibility you could have cheap sex with a strange girl you met in a bar?"
+        ],
+        [
+            "Howard",
+            "Uh, yeah!"
+        ],
+        [
+            "Raj",
+            "What is your mother going to say?"
+        ],
+        [
+            "Howard",
+            "She\u2019s not going to see it. She takes my temperature orally now."
+        ],
+        [
+            "Bethany",
+            "What are you going to get, Howard?"
+        ],
+        [
+            "Howard",
+            "Well, I can\u2019t really decide between a screaming devil, this mean little skull or Kermit the Frog."
+        ],
+        [
+            "Bethany",
+            "Kermit the Frog?"
+        ],
+        [
+            "Howard",
+            "You know (Kermit voice) Hi ho, I\u2019m on Howard\u2019s butt!"
+        ],
+        [
+            "Bethany",
+            "Get the mean little skull, and I\u2019ll see if I can make him smile."
+        ],
+        [
+            "Howard",
+            "Yeah, I\u2019d like the mean little skull, please."
+        ],
+        [
+            "Sarah",
+            "What are you going to get, Raj?"
+        ],
+        [
+            "Raj",
+            "With my luck, hepatitis"
+        ],
+        [
+            "Tattooist",
+            "Okay, here we go."
+        ],
+        [
+            "Howard",
+            "Ow, ow, ow, ow, ow!"
+        ],
+        [
+            "Tattooist",
+            "That\u2019s just rubbing alcohol."
+        ],
+        [
+            "Howard",
+            "I know, but it was cold. Ow, ow, ow!"
+        ],
+        [
+            "Tattooist",
+            "I\u2019m putting on the stencil."
+        ],
+        [
+            "Howard",
+            "What comes after the stencil?"
+        ],
+        [
+            "Tattooist",
+            "This."
+        ],
+        [
+            "Howard",
+            "Aaaaaargh! Okay, that\u2019s it, no needle, no pain, no tattoo."
+        ],
+        [
+            "Bethany",
+            "What\u2019s the big deal, you\u2019ve done this before."
+        ],
+        [
+            "Howard",
+            "No, I haven\u2019t, look. (Rips off tattoo sleeves) I\u2019m sorry, I\u2019m a fraud, he\u2019s a fraud."
+        ],
+        [
+            "Raj",
+            "We\u2019re both frauds."
+        ],
+        [
+            "Howard",
+            "Yeah, I think I covered that."
+        ],
+        [
+            "Raj",
+            "But I was summing up."
+        ],
+        [
+            "Howard",
+            "We\u2019re not goth, we\u2019re just guys."
+        ],
+        [
+            "Raj",
+            "Very, very smart guys."
+        ],
+        [
+            "Bethany",
+            "So you were totally scamming us?"
+        ],
+        [
+            "Howard",
+            "Yes. And I wouldn\u2019t blame you if you walked out of here and never wanted to see us again. Unless of course our bold honesty has suddenly made us attractive."
+        ],
+        [
+            "Bethany",
+            "I\u2019m leaving."
+        ],
+        [
+            "Sarah",
+            "I\u2019m leaving too. Not that anyone cares."
+        ],
+        [
+            "Raj",
+            "When we tell this story, let\u2019s end it differently."
+        ],
+        [
+            "Howard",
+            "What are you thinking? Maybe a big musical number?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m going to make some warm milk and then turn in. I trust if you two are planning in engaging in amorous activites, you\u2019ll keep the decibel level to a minimum."
+        ],
+        [
+            "Penny",
+            "Of course."
+        ],
+        [
+            "Sheldon",
+            "Thank you. (Throws a chocolate. Penny catches it in her mouth)"
+        ],
+        [
+            "Penny",
+            "Mmm, these are so good"
+        ],
+        [
+            "Leonard",
+            "Unbelievable."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "I was just thinking, we should probably turn in too."
+        ],
+        [
+            "Penny",
+            "well, my new bed got delivered, if you come over and put it together, you can stay at my place."
+        ],
+        [
+            "Leonard",
+            "Really, that\u2019s a lot of work, and it\u2019s kind of late."
+        ],
+        [
+            "Penny",
+            "Yeah, but if we stay there, we won\u2019t have to be quiet."
+        ],
+        [
+            "Leonard",
+            "Let\u2019s go."
+        ],
+        [
+            "Sheldon",
+            "Interesting. Sex works even better than chocolate to modify behaviour. I wonder if anyone else has stumbled on to that."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s car."
+        ],
+        [
+            "Howard",
+            "Okay, wait, how about this? We say there were four goth girls, the two girls in the club had two friends."
+        ],
+        [
+            "Raj",
+            "I like it, I like it. Did they smell good despite their gothlike nature?"
+        ],
+        [
+            "Howard",
+            "What\u2019s that got to do with the story?"
+        ],
+        [
+            "Raj",
+            "Engaging my olfactory sense helps make it real for me."
+        ],
+        [
+            "Howard",
+            "Fine, they smelled good."
+        ],
+        [
+            "Raj",
+            "Oh, they did. Like jasmine and honeysuckle."
+        ],
+        [
+            "Howard",
+            "Whatever."
+        ],
+        [
+            "Raj",
+            "And then they held hands and did a sexy, demonic hokey-pokey for us."
+        ],
+        [
+            "Howard",
+            "No, no. Look, let me say my story all the way through, and then you can say yours, and then we\u2019ll pick."
+        ],
+        [
+            "Raj",
+            "I\u2019m sorry. Go on."
+        ],
+        [
+            "Howard",
+            "Okay. We got tattoos, and then the four girls took us to their place."
+        ],
+        [
+            "Raj",
+            "But we don\u2019t have tattoos. What if someone asks to see our tattoos?"
+        ],
+        [
+            "Howard",
+            "We say they\u2019re in a very intimate area."
+        ],
+        [
+            "Raj",
+            "Oh, we are bad boys, aren\u2019t we?"
+        ],
+        [
+            "Howard",
+            "Right, right, so we go back to their place, and then the six of us end up in a hot tub."
+        ],
+        [
+            "Raj",
+            "But we just got tattoos. Wouldn\u2019t we be concerned about bacterial infection?"
+        ],
+        [
+            "Howard",
+            "True. Okay, forget the hot tub. The point is, we each have a m\u00e9nage with sexy goth girls."
+        ],
+        [
+            "Raj",
+            "Wow. What a great night."
+        ],
+        [
+            "Howard",
+            "Yeah. Hey, want to try a country bar tomorrow night."
+        ],
+        [
+            "Raj",
+            "Yeah, maybe we\u2019ll get lucky with some sexy cowgirls."
+        ],
+        [
+            "Howard",
+            "Could happen."
+        ],
+        [
+            "Raj",
+            "I wonder how they smell."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-03-the-gothowitz-deviation/"
+}

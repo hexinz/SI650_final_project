@@ -1,0 +1,1610 @@
+{
+    "Season": 5,
+    "Episode": 12,
+    "Title": "the shiny trinket maneouvre",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                21,
+                "Credits sequence."
+            ],
+            [
+                22,
+                "The Cheesecake Factory."
+            ],
+            [
+                48,
+                "Howard\u2019s bedroom."
+            ],
+            [
+                65,
+                "The apartment."
+            ],
+            [
+                90,
+                "The birthday party."
+            ],
+            [
+                109,
+                "Bernadette\u2019s car."
+            ],
+            [
+                120,
+                "A jewellery store."
+            ],
+            [
+                141,
+                "The apartment. The guys are playing Donkey Kong Jenga."
+            ],
+            [
+                157,
+                "Penny\u2019s apartment."
+            ],
+            [
+                177,
+                "Howard\u2019s bedroom."
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "Completely empty box. If you\u2019d like to examine it?"
+            ],
+            [
+                3,
+                "Little snarky there, cello lessons. And we have this completely ordinary cylinder. If you\u2019d like to examine it?"
+            ],
+            [
+                7,
+                "As I was saying, empty box, empty cylinder, and, ooh, voila. (Pulls out a goldfish in a jar)"
+            ],
+            [
+                10,
+                "How is this lying?"
+            ],
+            [
+                15,
+                "Don\u2019t be so hard on him. It\u2019s natural to be a little cranky when you have a quarter in your ear!"
+            ],
+            [
+                17,
+                "How is that not amusing?"
+            ],
+            [
+                19,
+                "Look, I made Sheldon disappear. Ta-da."
+            ],
+            [
+                50,
+                "Yeah. I started when I was a teenager. I thought I could show a girl a few tricks and invite her up to my bedroom to see the rest of the act."
+            ],
+            [
+                52,
+                "Ah, let\u2019s just say the only wand that ever saw any action was this one. Oh, look what my mom made us for the act."
+            ],
+            [
+                54,
+                "Well, she cut up one of her old bathing suits. She made these two vests and half a dozen napkins."
+            ],
+            [
+                56,
+                "I just gave it to her!"
+            ],
+            [
+                58,
+                "She\u2019s not stacked like you, Ma! She never steps on hers!"
+            ],
+            [
+                60,
+                "You\u2019ll do fine. Hand me those rings? See? You nailed it."
+            ],
+            [
+                62,
+                "Well, that\u2019s because you haven\u2019t been around them much. This is good practice. I mean, you are gonna be a mom someday, right?"
+            ],
+            [
+                64,
+                "Oh-ho-ho! I haven\u2019t seen this trick in years. It\u2019s called the dove pan. You let everyone see the pan is empty, but there\u2019s a secret compartment in the lid. And then you open it and produce a live\u2026 Don\u2019t look in there."
+            ],
+            [
+                91,
+                "And now, all the rings are magically linked together. My fiancee\u2019s wearing a magic ring, too. It made all my money disappear."
+            ],
+            [
+                97,
+                "Okay. Okay. Now, my lovely assistant is going to bring me an ordinary pitcher of milk."
+            ],
+            [
+                100,
+                "Okay, we\u2019re going to roll up this newspaper."
+            ],
+            [
+                103,
+                "Okay, we\u2019re going to stick this in here (puts newspaper into trouser waistband) and then I\u2019m going to pour in the milk. I hope this works, because I didn\u2019t bring a change of pants."
+            ],
+            [
+                106,
+                "She\u2019s just kidding, boys and girls. Everyone gets cake."
+            ],
+            [
+                108,
+                "Just give me the pitcher. Behold! Wrong pitcher."
+            ],
+            [
+                111,
+                "Yes, you did. Oh, I think my crotch is starting to curdle."
+            ],
+            [
+                113,
+                "Yeah, so?"
+            ],
+            [
+                115,
+                "All right, settle down. Red light. Red light, red light! Okay, we\u2019re fine."
+            ],
+            [
+                117,
+                "Yeah, no, we all got that. But don\u2019t you think it\u2019ll be different when the child is ours?"
+            ],
+            [
+                119,
+                "Well, yeah."
+            ],
+            [
+                142,
+                "I\u2019m still trying to wrap my mind around it. I always thought I\u2019d be a dad someday."
+            ],
+            [
+                146,
+                "Yeah, she doesn\u2019t like them. And from what I saw, the feeling was mutual."
+            ],
+            [
+                148,
+                "I don\u2019t know. I can\u2019t see a life where I don\u2019t have kids. I mean, people have kids. I mean, even Donkey Kong had Donkey Kong Jr. So he could teach someone how to kidnap princesses and throw barrels at Italian plumbers."
+            ],
+            [
+                152,
+                "Maybe me and Bernadette aren\u2019t right for each other."
+            ],
+            [
+                154,
+                "I don\u2019t want to, but this is kind of a deal breaker."
+            ],
+            [
+                156,
+                "Huh, it\u2019ll kill her. On the other hand, if I don\u2019t give her grandchildren, that\u2019ll kill her, too. So, either way, on the Mom front, I\u2019m golden."
+            ],
+            [
+                180,
+                "You should keep it. You could wear it again sometime."
+            ],
+            [
+                182,
+                "I don\u2019t know, hunting?"
+            ],
+            [
+                184,
+                "Don\u2019t worry, Ma. I will, as soon as I can figure out a way to bring up such a sensitive issue!"
+            ],
+            [
+                186,
+                "I was upset. My mom can be a pretty good shoulder to cry on, if the smell of Bengay doesn\u2019t burn your eyes."
+            ],
+            [
+                188,
+                "Really? That\u2019s great. What?"
+            ],
+            [
+                190,
+                "Me?"
+            ],
+            [
+                192,
+                "Yeah."
+            ],
+            [
+                194,
+                "Yeah, we\u2019re good."
+            ],
+            [
+                196,
+                "I would love that. But what is that behind your ear? Oh, look, it\u2019s a condom."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Mm-hmm. Yep. I see nothing in this box but a wasted childhood."
+            ],
+            [
+                6,
+                "Sheldon, he\u2019s just practising for his cousin\u2019s birthday party."
+            ],
+            [
+                14,
+                "Sheldon, he\u2019s just gonna do a few magic tricks for some kids. I really don\u2019t think they\u2019re gonna end up liking the Green Lantern movie."
+            ],
+            [
+                20,
+                "Next time, you should open with that."
+            ],
+            [
+                66,
+                "Oh, a little Red Dead Redemption, huh?"
+            ],
+            [
+                68,
+                "How come you\u2019re not doing a mission? You\u2019re just wandering around."
+            ],
+            [
+                70,
+                "Some people go outside and do that."
+            ],
+            [
+                72,
+                "You want to talk about it?"
+            ],
+            [
+                74,
+                "You know digital alcohol is never a solution. What\u2019s going on?"
+            ],
+            [
+                76,
+                "Glad I was sitting down for that. Did you and Amy get in a fight?"
+            ],
+            [
+                78,
+                "No, I can\u2019t. I\u2019m playing Grand Theft Auto later. Look, I\u2019m no expert in women."
+            ],
+            [
+                80,
+                "That\u2019s not necessary when someone\u2019s trying to help you."
+            ],
+            [
+                82,
+                "Sometimes with women you want to listen to what upsets them and then show them that you can grow and change."
+            ],
+            [
+                84,
+                "I don\u2019t know what to tell you. Buy her something."
+            ],
+            [
+                86,
+                "Well, you skip over any attempt to repair your emotional connection and you win back her affection with an empty financial gesture."
+            ],
+            [
+                88,
+                "Glad I could help."
+            ],
+            [
+                144,
+                "There you go, Howard. Sounds like Raj\u2019ll have your babies, problem solved."
+            ],
+            [
+                147,
+                "What are you gonna do?"
+            ],
+            [
+                149,
+                "You know, there\u2019s no guarantee even if you have kids that you\u2019re going to like them."
+            ],
+            [
+                151,
+                "It\u2019s right off the dust jacket of my mom\u2019s last book."
+            ],
+            [
+                153,
+                "Look, Howard, I\u2019d say there\u2019s a lot of fish in the sea, but I watched you dangle your hook in the water for years. Do not throw her back."
+            ]
+        ],
+        "Raj": [
+            [
+                4,
+                "Ordinary, yet I sense it is dripping with magical potential."
+            ],
+            [
+                8,
+                "I\u2019m telling you, dude, there\u2019s a seat on the Hogwarts Express with your name on it."
+            ],
+            [
+                12,
+                "Can\u2019t you just enjoy the wonder, Sheldon? Why must you peek behind the curtain? Or up the butt?"
+            ],
+            [
+                143,
+                "Oh, me, too. You\u2019re so caring. I\u2019ve often pictured you guiding a young boy into manhood."
+            ],
+            [
+                145,
+                "Hey, just because a man shows caring for another man doesn\u2019t mean he\u2019s displaying the love that dare not speak its name. Did she definitely say she didn\u2019t want kids?"
+            ],
+            [
+                150,
+                "Wow, that\u2019s rough. Where\u2019d you get that?"
+            ],
+            [
+                155,
+                "What\u2019s your mom going to say if you call off the wedding?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                5,
+                "Oh, dear Lord. A man pops out for a moment to evacuate his bowels and catch up on the adventures of the Caped Crusader, only to emerge and discover his apartment has been transformed into a cabaret."
+            ],
+            [
+                9,
+                "This is how you\u2019re going to entertain your little cousin and his friends? By lying to them?"
+            ],
+            [
+                11,
+                "A magic show is an inherently deceitful proposition. This is an ordinary top hat. You\u2019ve chosen that card freely. I do not have a set of lock picks lodged in my keister."
+            ],
+            [
+                13,
+                "If we poison the critical thinking faculties of children by telling them that rabbits come out of hats, then we create adults who believe in astrology and homeopathy and that Ryan Reynolds was a better choice for Green Lantern than lovable rogue Nathan Fillion."
+            ],
+            [
+                16,
+                "Coins lodged in body parts is not a source of amusement. When I was five, Billy Sparks put a Mexican peso up my nose."
+            ],
+            [
+                18,
+                "It\u2019s still there. Takes me 45 minutes to get through airport security. (Storms out)"
+            ],
+            [
+                24,
+                "And that is the answer to the question, what is wrong with eating at The Cheesecake Factory?"
+            ],
+            [
+                28,
+                "All right, without objection, the minutes of the previous date are considered read and agreed to. Any new business?"
+            ],
+            [
+                30,
+                "Superb. This morning I made a palindrome with my Alpha-Bits. Nice hat, Bob Tahecin."
+            ],
+            [
+                32,
+                "Ooh! Speaking of good news, somebody just hit 100 Twitter followers."
+            ],
+            [
+                34,
+                "Yeah, me, too. Triple digits, I\u2019m not gonna lie, feels pretty good."
+            ],
+            [
+                36,
+                "Mm-hmm. Mm-hmm. Ooh, 101! Air\u2019s getting a bit thin up here."
+            ],
+            [
+                39,
+                "Well, that\u2019s odd. We both washed up when we came in. It\u2019s probably a euphemism for urination."
+            ],
+            [
+                41,
+                "Not much. Although, I can be faulted for being overly fond of koala bears. I don\u2019t know what it is, when they smart munching on eucalyptus, I just melt inside."
+            ],
+            [
+                43,
+                "Oh, I see why you\u2019re confused. No, her news sounded important, but what you\u2019re forgetting is, it was an achievement in the field of biology. That\u2019s all about yucky, squishy things."
+            ],
+            [
+                45,
+                "What if they simply don\u2019t excite me?"
+            ],
+            [
+                47,
+                "She\u2019d see right through that. We go to the zoo all the time. She knows my koala face. And for future reference, it\u2019s this."
+            ],
+            [
+                67,
+                "Yes."
+            ],
+            [
+                69,
+                "Had a rough night. I thought I\u2019d go for a walk and clear my head."
+            ],
+            [
+                71,
+                "It\u2019s after nine o\u2019clock, at this hour the streets of Pasadena are teeming with drunken sailors and alley cats."
+            ],
+            [
+                73,
+                "No. I think I\u2019ll just go in this saloon and drink my troubles away."
+            ],
+            [
+                75,
+                "Hard as this may be to believe, it\u2019s possible that I\u2019m not boyfriend material."
+            ],
+            [
+                77,
+                "Amy had a fight. I was being perfectly reasonable. I\u2019m gonna have a whiskey. Do you want anything?"
+            ],
+            [
+                79,
+                "I\u2019ll say."
+            ],
+            [
+                81,
+                "I\u2019m sorry. It\u2019s the alcohol talking. Go on."
+            ],
+            [
+                83,
+                "Nuts to that. What else you got?"
+            ],
+            [
+                85,
+                "How does that work?"
+            ],
+            [
+                87,
+                "Well, that approach has Sheldon Cooper written all over it."
+            ],
+            [
+                89,
+                "It\u2019s appreciated. And if you ever manage to find a woman again, I\u2019ll be glad to return the favour."
+            ],
+            [
+                121,
+                "I don\u2019t think there\u2019s anything in this jewellery store that Amy would appreciate more than the humidifier we were just looking at at Sears."
+            ],
+            [
+                123,
+                "Ooh, a pocket watch."
+            ],
+            [
+                125,
+                "No, but maybe she wants a man with a pocket watch."
+            ],
+            [
+                127,
+                "Well, she\u2019s very fond of her silver one that says allergic to penicillin. Maybe they have a dressier version of that?"
+            ],
+            [
+                130,
+                "Excuse me. I don\u2019t see why you get to snort derisively and point that out. You\u2019d be lucky to land a fella like me."
+            ],
+            [
+                132,
+                "(Snorts) Trust me, we are not a couple."
+            ],
+            [
+                138,
+                "Remarkable. Diamonds, crystallized carbon. Every day, people go to the grocery store and come home with sacks full of carbon in the form of charcoal briquettes that they toss in their barbeques and set on fire. But just because you\u2019ve got some carbon with the atoms stacked neatly, you expect me to plunk down thousands of dollars."
+            ],
+            [
+                140,
+                "Really. Talk to me about that pocket watch."
+            ],
+            [
+                158,
+                "What time did you tell Amy to be here?"
+            ],
+            [
+                160,
+                "Nonsense. I look like a train conductor. Under what pretext did you lure her here?"
+            ],
+            [
+                162,
+                "Good, good, if you had said something clever, she might\u2019ve gotten suspicious."
+            ],
+            [
+                169,
+                "Thank you. Amy, I\u2019d like to apologize. Your accomplishment was impressive. And I\u2019m proud of you."
+            ],
+            [
+                171,
+                "I told you."
+            ],
+            [
+                176,
+                "You\u2019re right, the tiara was too much."
+            ]
+        ],
+        "Penny": [
+            [
+                23,
+                "Ooh, look who\u2019s out on a date. Pasadena\u2019s favourite power couple, Shamy."
+            ],
+            [
+                25,
+                "So, are we celebrating anything special tonight?"
+            ],
+            [
+                27,
+                "That is so hot."
+            ],
+            [
+                37,
+                "So, are we ready to order?"
+            ],
+            [
+                40,
+                "Sheldon, what is wrong with you?"
+            ],
+            [
+                42,
+                "Okay, Amy just told you some exciting news, and you acted like it was no big deal."
+            ],
+            [
+                44,
+                "Honey, she\u2019s upset. You\u2019re her boyfriend. You have to at least try to be excited by the things she\u2019s excited by."
+            ],
+            [
+                46,
+                "Well, just smile and think about koalas."
+            ],
+            [
+                122,
+                "Oh, my God, now I know what I sound like to you when I say stupid stuff."
+            ],
+            [
+                124,
+                "Okay, I don\u2019t think Amy wants a pocket watch."
+            ],
+            [
+                126,
+                "Still saying stupid stuff. Ooh, does she like bracelets?"
+            ],
+            [
+                129,
+                "(Snorts) Trust me, we are not a couple."
+            ],
+            [
+                131,
+                "Fine, go ahead."
+            ],
+            [
+                134,
+                "He\u2019s in trouble with his girlfriend and needs to buy her a present."
+            ],
+            [
+                136,
+                "Ooh, are these real diamonds?"
+            ],
+            [
+                159,
+                "Eight o\u2019clock. (Sheldon checks pocket watch) Sheldon, that pocket watch is ridiculous."
+            ],
+            [
+                161,
+                "I said, hey, want to come over and hang out?"
+            ],
+            [
+                164,
+                "Hi."
+            ],
+            [
+                166,
+                "Okay, he wants to talk to you."
+            ],
+            [
+                168,
+                "Sheldon, you\u2019re up."
+            ],
+            [
+                172,
+                "Okay, look, he bought you this."
+            ],
+            [
+                174,
+                "You look beautiful."
+            ]
+        ],
+        "Amy": [
+            [
+                26,
+                "Oh, yes. Our relationship agreement specifies that the second Thursday of every month, or the third Thursday in a month with five Thursdays, is date night."
+            ],
+            [
+                29,
+                "How was your day?"
+            ],
+            [
+                31,
+                "Sounds like you hit the ground running. I have a bit of good news myself. My most recent paper on how a cooperative long-term potentiation can map memory sequences in dendritic branches made the cover of Neuron."
+            ],
+            [
+                33,
+                "That\u2019s nice. Anyway, I\u2019ve been dreaming of this day for a long time."
+            ],
+            [
+                35,
+                "Sheldon, I\u2019m the sole author on a paper being published in a distinguished journal that may change the course of my field."
+            ],
+            [
+                38,
+                "Give me a minute. I\u2019m gonna go wash up."
+            ],
+            [
+                163,
+                "Hey."
+            ],
+            [
+                165,
+                "What\u2019s he doing here?"
+            ],
+            [
+                167,
+                "Well, I don\u2019t want to talk to him. And I\u2019m pretty disappointed in you, too. Although we both know that won\u2019t last."
+            ],
+            [
+                170,
+                "We both know that\u2019s your koala face."
+            ],
+            [
+                173,
+                "Jewellery? Seriously? Sheldon, you are the most shallow, self-centred person I have ever met. Do you really think another transparently manip..oh! It\u2019s a tiara! A tiara! I have a tiara! Put it on me, put it on me, put it on me, put it on me, put it on me, put it on me, put it on me."
+            ],
+            [
+                175,
+                "Of course I do, I\u2019m a princess, and this is my tiara!"
+            ]
+        ],
+        "Bernadette": [
+            [
+                49,
+                "Oh, you have a lot of magic stuff."
+            ],
+            [
+                51,
+                "Did it work?"
+            ],
+            [
+                53,
+                "Ooh. I like the fabric. Where\u2019d she get it?"
+            ],
+            [
+                59,
+                "Listen, Howie, maybe I\u2019m not the best choice to be a magician\u2019s assistant."
+            ],
+            [
+                61,
+                "You know, i-it\u2019s just that I\u2019m not that comfortable with little kids."
+            ],
+            [
+                63,
+                "Mmm, yeah, sure."
+            ],
+            [
+                92,
+                "Oh, ah, right. (Bangs drum and cymbal) And now, the great Howdini\u2019s next miraculous illusion."
+            ],
+            [
+                94,
+                "After you\u2019ve been thoroughly amazed."
+            ],
+            [
+                96,
+                "Well, you\u2019re not getting cake right now, capisce?"
+            ],
+            [
+                99,
+                "Do you know how to pipe down?"
+            ],
+            [
+                102,
+                "You got wax in your ears? The man said it\u2019s an ordinary pitcher. Howdini."
+            ],
+            [
+                105,
+                "That\u2019s it. No cake for you. Anyone else want to join the No Cake Club?"
+            ],
+            [
+                107,
+                "Not him."
+            ],
+            [
+                110,
+                "I told you I\u2019m not good with kids."
+            ],
+            [
+                112,
+                "The thing is, my mother worked full-time. I had to take care of my brothers and sisters."
+            ],
+            [
+                114,
+                "Ugh, it was horrible. With their snotty noses and their poopy diapers and their little shrieky voices, always complaining. I don\u2019t want to get dressed. Joey keeps spitting in my mouth. This isn\u2019t the way Mom makes waffles. Well, okay, put your hand in here. Let\u2019s see how you like this waffle!"
+            ],
+            [
+                116,
+                "I\u2019m sorry. I know it makes me sound like a bad person, but I just don\u2019t like children."
+            ],
+            [
+                118,
+                "Right, when it\u2019s our kid that\u2019s ruined my body and kept me up all night and I\u2019ve got no career and no future and nothing to be happy about for the next 20 years, sure, that\u2019ll be completely different."
+            ],
+            [
+                179,
+                "Here\u2019s your vest back."
+            ],
+            [
+                181,
+                "Where?"
+            ],
+            [
+                185,
+                "I guess you talked to your mom, huh?"
+            ],
+            [
+                187,
+                "Look, it\u2019s obvious having kids is really important to you, and I think I came up with a solution."
+            ],
+            [
+                189,
+                "Well, seeing as how I make way more money than you anyway, what if I work and you stay home with the kids?"
+            ],
+            [
+                191,
+                "Yeah. You know, you\u2019ll watch Barney and pull Cheerios out of their noses and go on play dates, and I\u2019ll work and have conversations with people my own age and enjoy my life."
+            ],
+            [
+                193,
+                "Yay, so we\u2019re good."
+            ],
+            [
+                195,
+                "You know, I don\u2019t know if this counted as a fight, but how about some make-up sex?"
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                55,
+                "Has she tried on the vest yet?"
+            ],
+            [
+                57,
+                "I hope it fits, she has a tricky figure! She\u2019s short and stacked, like me!"
+            ],
+            [
+                178,
+                "Howard! Bernadette\u2019s\u2026 Oh, she slipped right by me."
+            ],
+            [
+                183,
+                "Don\u2019t forget to talk to her about this mishegas where I don\u2019t get grandkids!"
+            ]
+        ],
+        "Child": [
+            [
+                93,
+                "When are we gonna have cake?"
+            ],
+            [
+                95,
+                "But we want cake now."
+            ]
+        ],
+        "Second child": [
+            [
+                98,
+                "I know how you do that trick."
+            ],
+            [
+                101,
+                "It\u2019s a fake pitcher."
+            ],
+            [
+                104,
+                "Look, I Googled it. It\u2019s a fake pitcher."
+            ]
+        ],
+        "Assistant": [
+            [
+                128,
+                "Well, how are we doing this afternoon? Are we looking for anything special? Perhaps a ring for the lady?"
+            ],
+            [
+                133,
+                "My apologies. How can I help you today?"
+            ],
+            [
+                135,
+                "Great, trouble with girlfriends is what\u2019s putting my daughter through USC."
+            ],
+            [
+                137,
+                "Yes. Channel set baguettes, 20 points total weight."
+            ],
+            [
+                139,
+                "Actually, that\u2019s only 750. Everything\u2019s on sale."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "Completely empty box. If you\u2019d like to examine it?"
+        ],
+        [
+            "Leonard",
+            "Mm-hmm. Yep. I see nothing in this box but a wasted childhood."
+        ],
+        [
+            "Howard",
+            "Little snarky there, cello lessons. And we have this completely ordinary cylinder. If you\u2019d like to examine it?"
+        ],
+        [
+            "Raj",
+            "Ordinary, yet I sense it is dripping with magical potential."
+        ],
+        [
+            "Sheldon",
+            "Oh, dear Lord. A man pops out for a moment to evacuate his bowels and catch up on the adventures of the Caped Crusader, only to emerge and discover his apartment has been transformed into a cabaret."
+        ],
+        [
+            "Leonard",
+            "Sheldon, he\u2019s just practising for his cousin\u2019s birthday party."
+        ],
+        [
+            "Howard",
+            "As I was saying, empty box, empty cylinder, and, ooh, voila. (Pulls out a goldfish in a jar)"
+        ],
+        [
+            "Raj",
+            "I\u2019m telling you, dude, there\u2019s a seat on the Hogwarts Express with your name on it."
+        ],
+        [
+            "Sheldon",
+            "This is how you\u2019re going to entertain your little cousin and his friends? By lying to them?"
+        ],
+        [
+            "Howard",
+            "How is this lying?"
+        ],
+        [
+            "Sheldon",
+            "A magic show is an inherently deceitful proposition. This is an ordinary top hat. You\u2019ve chosen that card freely. I do not have a set of lock picks lodged in my keister."
+        ],
+        [
+            "Raj",
+            "Can\u2019t you just enjoy the wonder, Sheldon? Why must you peek behind the curtain? Or up the butt?"
+        ],
+        [
+            "Sheldon",
+            "If we poison the critical thinking faculties of children by telling them that rabbits come out of hats, then we create adults who believe in astrology and homeopathy and that Ryan Reynolds was a better choice for Green Lantern than lovable rogue Nathan Fillion."
+        ],
+        [
+            "Leonard",
+            "Sheldon, he\u2019s just gonna do a few magic tricks for some kids. I really don\u2019t think they\u2019re gonna end up liking the Green Lantern movie."
+        ],
+        [
+            "Howard",
+            "Don\u2019t be so hard on him. It\u2019s natural to be a little cranky when you have a quarter in your ear!"
+        ],
+        [
+            "Sheldon",
+            "Coins lodged in body parts is not a source of amusement. When I was five, Billy Sparks put a Mexican peso up my nose."
+        ],
+        [
+            "Howard",
+            "How is that not amusing?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s still there. Takes me 45 minutes to get through airport security. (Storms out)"
+        ],
+        [
+            "Howard",
+            "Look, I made Sheldon disappear. Ta-da."
+        ],
+        [
+            "Leonard",
+            "Next time, you should open with that."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory."
+        ],
+        [
+            "Penny",
+            "Ooh, look who\u2019s out on a date. Pasadena\u2019s favourite power couple, Shamy."
+        ],
+        [
+            "Sheldon",
+            "And that is the answer to the question, what is wrong with eating at The Cheesecake Factory?"
+        ],
+        [
+            "Penny",
+            "So, are we celebrating anything special tonight?"
+        ],
+        [
+            "Amy",
+            "Oh, yes. Our relationship agreement specifies that the second Thursday of every month, or the third Thursday in a month with five Thursdays, is date night."
+        ],
+        [
+            "Penny",
+            "That is so hot."
+        ],
+        [
+            "Sheldon",
+            "All right, without objection, the minutes of the previous date are considered read and agreed to. Any new business?"
+        ],
+        [
+            "Amy",
+            "How was your day?"
+        ],
+        [
+            "Sheldon",
+            "Superb. This morning I made a palindrome with my Alpha-Bits. Nice hat, Bob Tahecin."
+        ],
+        [
+            "Amy",
+            "Sounds like you hit the ground running. I have a bit of good news myself. My most recent paper on how a cooperative long-term potentiation can map memory sequences in dendritic branches made the cover of Neuron."
+        ],
+        [
+            "Sheldon",
+            "Ooh! Speaking of good news, somebody just hit 100 Twitter followers."
+        ],
+        [
+            "Amy",
+            "That\u2019s nice. Anyway, I\u2019ve been dreaming of this day for a long time."
+        ],
+        [
+            "Sheldon",
+            "Yeah, me, too. Triple digits, I\u2019m not gonna lie, feels pretty good."
+        ],
+        [
+            "Amy",
+            "Sheldon, I\u2019m the sole author on a paper being published in a distinguished journal that may change the course of my field."
+        ],
+        [
+            "Sheldon",
+            "Mm-hmm. Mm-hmm. Ooh, 101! Air\u2019s getting a bit thin up here."
+        ],
+        [
+            "Penny",
+            "So, are we ready to order?"
+        ],
+        [
+            "Amy",
+            "Give me a minute. I\u2019m gonna go wash up."
+        ],
+        [
+            "Sheldon",
+            "Well, that\u2019s odd. We both washed up when we came in. It\u2019s probably a euphemism for urination."
+        ],
+        [
+            "Penny",
+            "Sheldon, what is wrong with you?"
+        ],
+        [
+            "Sheldon",
+            "Not much. Although, I can be faulted for being overly fond of koala bears. I don\u2019t know what it is, when they smart munching on eucalyptus, I just melt inside."
+        ],
+        [
+            "Penny",
+            "Okay, Amy just told you some exciting news, and you acted like it was no big deal."
+        ],
+        [
+            "Sheldon",
+            "Oh, I see why you\u2019re confused. No, her news sounded important, but what you\u2019re forgetting is, it was an achievement in the field of biology. That\u2019s all about yucky, squishy things."
+        ],
+        [
+            "Penny",
+            "Honey, she\u2019s upset. You\u2019re her boyfriend. You have to at least try to be excited by the things she\u2019s excited by."
+        ],
+        [
+            "Sheldon",
+            "What if they simply don\u2019t excite me?"
+        ],
+        [
+            "Penny",
+            "Well, just smile and think about koalas."
+        ],
+        [
+            "Sheldon",
+            "She\u2019d see right through that. We go to the zoo all the time. She knows my koala face. And for future reference, it\u2019s this."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Bernadette",
+            "Oh, you have a lot of magic stuff."
+        ],
+        [
+            "Howard",
+            "Yeah. I started when I was a teenager. I thought I could show a girl a few tricks and invite her up to my bedroom to see the rest of the act."
+        ],
+        [
+            "Bernadette",
+            "Did it work?"
+        ],
+        [
+            "Howard",
+            "Ah, let\u2019s just say the only wand that ever saw any action was this one. Oh, look what my mom made us for the act."
+        ],
+        [
+            "Bernadette",
+            "Ooh. I like the fabric. Where\u2019d she get it?"
+        ],
+        [
+            "Howard",
+            "Well, she cut up one of her old bathing suits. She made these two vests and half a dozen napkins."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Has she tried on the vest yet?"
+        ],
+        [
+            "Howard",
+            "I just gave it to her!"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "I hope it fits, she has a tricky figure! She\u2019s short and stacked, like me!"
+        ],
+        [
+            "Howard",
+            "She\u2019s not stacked like you, Ma! She never steps on hers!"
+        ],
+        [
+            "Bernadette",
+            "Listen, Howie, maybe I\u2019m not the best choice to be a magician\u2019s assistant."
+        ],
+        [
+            "Howard",
+            "You\u2019ll do fine. Hand me those rings? See? You nailed it."
+        ],
+        [
+            "Bernadette",
+            "You know, i-it\u2019s just that I\u2019m not that comfortable with little kids."
+        ],
+        [
+            "Howard",
+            "Well, that\u2019s because you haven\u2019t been around them much. This is good practice. I mean, you are gonna be a mom someday, right?"
+        ],
+        [
+            "Bernadette",
+            "Mmm, yeah, sure."
+        ],
+        [
+            "Howard",
+            "Oh-ho-ho! I haven\u2019t seen this trick in years. It\u2019s called the dove pan. You let everyone see the pan is empty, but there\u2019s a secret compartment in the lid. And then you open it and produce a live\u2026 Don\u2019t look in there."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Oh, a little Red Dead Redemption, huh?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "How come you\u2019re not doing a mission? You\u2019re just wandering around."
+        ],
+        [
+            "Sheldon",
+            "Had a rough night. I thought I\u2019d go for a walk and clear my head."
+        ],
+        [
+            "Leonard",
+            "Some people go outside and do that."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s after nine o\u2019clock, at this hour the streets of Pasadena are teeming with drunken sailors and alley cats."
+        ],
+        [
+            "Leonard",
+            "You want to talk about it?"
+        ],
+        [
+            "Sheldon",
+            "No. I think I\u2019ll just go in this saloon and drink my troubles away."
+        ],
+        [
+            "Leonard",
+            "You know digital alcohol is never a solution. What\u2019s going on?"
+        ],
+        [
+            "Sheldon",
+            "Hard as this may be to believe, it\u2019s possible that I\u2019m not boyfriend material."
+        ],
+        [
+            "Leonard",
+            "Glad I was sitting down for that. Did you and Amy get in a fight?"
+        ],
+        [
+            "Sheldon",
+            "Amy had a fight. I was being perfectly reasonable. I\u2019m gonna have a whiskey. Do you want anything?"
+        ],
+        [
+            "Leonard",
+            "No, I can\u2019t. I\u2019m playing Grand Theft Auto later. Look, I\u2019m no expert in women."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll say."
+        ],
+        [
+            "Leonard",
+            "That\u2019s not necessary when someone\u2019s trying to help you."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. It\u2019s the alcohol talking. Go on."
+        ],
+        [
+            "Leonard",
+            "Sometimes with women you want to listen to what upsets them and then show them that you can grow and change."
+        ],
+        [
+            "Sheldon",
+            "Nuts to that. What else you got?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know what to tell you. Buy her something."
+        ],
+        [
+            "Sheldon",
+            "How does that work?"
+        ],
+        [
+            "Leonard",
+            "Well, you skip over any attempt to repair your emotional connection and you win back her affection with an empty financial gesture."
+        ],
+        [
+            "Sheldon",
+            "Well, that approach has Sheldon Cooper written all over it."
+        ],
+        [
+            "Leonard",
+            "Glad I could help."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s appreciated. And if you ever manage to find a woman again, I\u2019ll be glad to return the favour."
+        ],
+        [
+            "Scene",
+            "The birthday party."
+        ],
+        [
+            "Howard",
+            "And now, all the rings are magically linked together. My fiancee\u2019s wearing a magic ring, too. It made all my money disappear."
+        ],
+        [
+            "Bernadette",
+            "Oh, ah, right. (Bangs drum and cymbal) And now, the great Howdini\u2019s next miraculous illusion."
+        ],
+        [
+            "Child",
+            "When are we gonna have cake?"
+        ],
+        [
+            "Bernadette",
+            "After you\u2019ve been thoroughly amazed."
+        ],
+        [
+            "Child",
+            "But we want cake now."
+        ],
+        [
+            "Bernadette",
+            "Well, you\u2019re not getting cake right now, capisce?"
+        ],
+        [
+            "Howard",
+            "Okay. Okay. Now, my lovely assistant is going to bring me an ordinary pitcher of milk."
+        ],
+        [
+            "Second child",
+            "I know how you do that trick."
+        ],
+        [
+            "Bernadette",
+            "Do you know how to pipe down?"
+        ],
+        [
+            "Howard",
+            "Okay, we\u2019re going to roll up this newspaper."
+        ],
+        [
+            "Second child",
+            "It\u2019s a fake pitcher."
+        ],
+        [
+            "Bernadette",
+            "You got wax in your ears? The man said it\u2019s an ordinary pitcher. Howdini."
+        ],
+        [
+            "Howard",
+            "Okay, we\u2019re going to stick this in here (puts newspaper into trouser waistband) and then I\u2019m going to pour in the milk. I hope this works, because I didn\u2019t bring a change of pants."
+        ],
+        [
+            "Second child",
+            "Look, I Googled it. It\u2019s a fake pitcher."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s it. No cake for you. Anyone else want to join the No Cake Club?"
+        ],
+        [
+            "Howard",
+            "She\u2019s just kidding, boys and girls. Everyone gets cake."
+        ],
+        [
+            "Bernadette",
+            "Not him."
+        ],
+        [
+            "Howard",
+            "Just give me the pitcher. Behold! Wrong pitcher."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car."
+        ],
+        [
+            "Bernadette",
+            "I told you I\u2019m not good with kids."
+        ],
+        [
+            "Howard",
+            "Yes, you did. Oh, I think my crotch is starting to curdle."
+        ],
+        [
+            "Bernadette",
+            "The thing is, my mother worked full-time. I had to take care of my brothers and sisters."
+        ],
+        [
+            "Howard",
+            "Yeah, so?"
+        ],
+        [
+            "Bernadette",
+            "Ugh, it was horrible. With their snotty noses and their poopy diapers and their little shrieky voices, always complaining. I don\u2019t want to get dressed. Joey keeps spitting in my mouth. This isn\u2019t the way Mom makes waffles. Well, okay, put your hand in here. Let\u2019s see how you like this waffle!"
+        ],
+        [
+            "Howard",
+            "All right, settle down. Red light. Red light, red light! Okay, we\u2019re fine."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m sorry. I know it makes me sound like a bad person, but I just don\u2019t like children."
+        ],
+        [
+            "Howard",
+            "Yeah, no, we all got that. But don\u2019t you think it\u2019ll be different when the child is ours?"
+        ],
+        [
+            "Bernadette",
+            "Right, when it\u2019s our kid that\u2019s ruined my body and kept me up all night and I\u2019ve got no career and no future and nothing to be happy about for the next 20 years, sure, that\u2019ll be completely different."
+        ],
+        [
+            "Howard",
+            "Well, yeah."
+        ],
+        [
+            "Scene",
+            "A jewellery store."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t think there\u2019s anything in this jewellery store that Amy would appreciate more than the humidifier we were just looking at at Sears."
+        ],
+        [
+            "Penny",
+            "Oh, my God, now I know what I sound like to you when I say stupid stuff."
+        ],
+        [
+            "Sheldon",
+            "Ooh, a pocket watch."
+        ],
+        [
+            "Penny",
+            "Okay, I don\u2019t think Amy wants a pocket watch."
+        ],
+        [
+            "Sheldon",
+            "No, but maybe she wants a man with a pocket watch."
+        ],
+        [
+            "Penny",
+            "Still saying stupid stuff. Ooh, does she like bracelets?"
+        ],
+        [
+            "Sheldon",
+            "Well, she\u2019s very fond of her silver one that says allergic to penicillin. Maybe they have a dressier version of that?"
+        ],
+        [
+            "Assistant",
+            "Well, how are we doing this afternoon? Are we looking for anything special? Perhaps a ring for the lady?"
+        ],
+        [
+            "Penny",
+            "(Snorts) Trust me, we are not a couple."
+        ],
+        [
+            "Sheldon",
+            "Excuse me. I don\u2019t see why you get to snort derisively and point that out. You\u2019d be lucky to land a fella like me."
+        ],
+        [
+            "Penny",
+            "Fine, go ahead."
+        ],
+        [
+            "Sheldon",
+            "(Snorts) Trust me, we are not a couple."
+        ],
+        [
+            "Assistant",
+            "My apologies. How can I help you today?"
+        ],
+        [
+            "Penny",
+            "He\u2019s in trouble with his girlfriend and needs to buy her a present."
+        ],
+        [
+            "Assistant",
+            "Great, trouble with girlfriends is what\u2019s putting my daughter through USC."
+        ],
+        [
+            "Penny",
+            "Ooh, are these real diamonds?"
+        ],
+        [
+            "Assistant",
+            "Yes. Channel set baguettes, 20 points total weight."
+        ],
+        [
+            "Sheldon",
+            "Remarkable. Diamonds, crystallized carbon. Every day, people go to the grocery store and come home with sacks full of carbon in the form of charcoal briquettes that they toss in their barbeques and set on fire. But just because you\u2019ve got some carbon with the atoms stacked neatly, you expect me to plunk down thousands of dollars."
+        ],
+        [
+            "Assistant",
+            "Actually, that\u2019s only 750. Everything\u2019s on sale."
+        ],
+        [
+            "Sheldon",
+            "Really. Talk to me about that pocket watch."
+        ],
+        [
+            "Scene",
+            "The apartment. The guys are playing Donkey Kong Jenga."
+        ],
+        [
+            "Howard",
+            "I\u2019m still trying to wrap my mind around it. I always thought I\u2019d be a dad someday."
+        ],
+        [
+            "Raj",
+            "Oh, me, too. You\u2019re so caring. I\u2019ve often pictured you guiding a young boy into manhood."
+        ],
+        [
+            "Leonard",
+            "There you go, Howard. Sounds like Raj\u2019ll have your babies, problem solved."
+        ],
+        [
+            "Raj",
+            "Hey, just because a man shows caring for another man doesn\u2019t mean he\u2019s displaying the love that dare not speak its name. Did she definitely say she didn\u2019t want kids?"
+        ],
+        [
+            "Howard",
+            "Yeah, she doesn\u2019t like them. And from what I saw, the feeling was mutual."
+        ],
+        [
+            "Leonard",
+            "What are you gonna do?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. I can\u2019t see a life where I don\u2019t have kids. I mean, people have kids. I mean, even Donkey Kong had Donkey Kong Jr. So he could teach someone how to kidnap princesses and throw barrels at Italian plumbers."
+        ],
+        [
+            "Leonard",
+            "You know, there\u2019s no guarantee even if you have kids that you\u2019re going to like them."
+        ],
+        [
+            "Raj",
+            "Wow, that\u2019s rough. Where\u2019d you get that?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s right off the dust jacket of my mom\u2019s last book."
+        ],
+        [
+            "Howard",
+            "Maybe me and Bernadette aren\u2019t right for each other."
+        ],
+        [
+            "Leonard",
+            "Look, Howard, I\u2019d say there\u2019s a lot of fish in the sea, but I watched you dangle your hook in the water for years. Do not throw her back."
+        ],
+        [
+            "Howard",
+            "I don\u2019t want to, but this is kind of a deal breaker."
+        ],
+        [
+            "Raj",
+            "What\u2019s your mom going to say if you call off the wedding?"
+        ],
+        [
+            "Howard",
+            "Huh, it\u2019ll kill her. On the other hand, if I don\u2019t give her grandchildren, that\u2019ll kill her, too. So, either way, on the Mom front, I\u2019m golden."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "What time did you tell Amy to be here?"
+        ],
+        [
+            "Penny",
+            "Eight o\u2019clock. (Sheldon checks pocket watch) Sheldon, that pocket watch is ridiculous."
+        ],
+        [
+            "Sheldon",
+            "Nonsense. I look like a train conductor. Under what pretext did you lure her here?"
+        ],
+        [
+            "Penny",
+            "I said, hey, want to come over and hang out?"
+        ],
+        [
+            "Sheldon",
+            "Good, good, if you had said something clever, she might\u2019ve gotten suspicious."
+        ],
+        [
+            "Amy",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Amy",
+            "What\u2019s he doing here?"
+        ],
+        [
+            "Penny",
+            "Okay, he wants to talk to you."
+        ],
+        [
+            "Amy",
+            "Well, I don\u2019t want to talk to him. And I\u2019m pretty disappointed in you, too. Although we both know that won\u2019t last."
+        ],
+        [
+            "Penny",
+            "Sheldon, you\u2019re up."
+        ],
+        [
+            "Sheldon",
+            "Thank you. Amy, I\u2019d like to apologize. Your accomplishment was impressive. And I\u2019m proud of you."
+        ],
+        [
+            "Amy",
+            "We both know that\u2019s your koala face."
+        ],
+        [
+            "Sheldon",
+            "I told you."
+        ],
+        [
+            "Penny",
+            "Okay, look, he bought you this."
+        ],
+        [
+            "Amy",
+            "Jewellery? Seriously? Sheldon, you are the most shallow, self-centred person I have ever met. Do you really think another transparently manip..oh! It\u2019s a tiara! A tiara! I have a tiara! Put it on me, put it on me, put it on me, put it on me, put it on me, put it on me, put it on me."
+        ],
+        [
+            "Penny",
+            "You look beautiful."
+        ],
+        [
+            "Amy",
+            "Of course I do, I\u2019m a princess, and this is my tiara!"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right, the tiara was too much."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Howard! Bernadette\u2019s\u2026 Oh, she slipped right by me."
+        ],
+        [
+            "Bernadette",
+            "Here\u2019s your vest back."
+        ],
+        [
+            "Howard",
+            "You should keep it. You could wear it again sometime."
+        ],
+        [
+            "Bernadette",
+            "Where?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know, hunting?"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Don\u2019t forget to talk to her about this mishegas where I don\u2019t get grandkids!"
+        ],
+        [
+            "Howard",
+            "Don\u2019t worry, Ma. I will, as soon as I can figure out a way to bring up such a sensitive issue!"
+        ],
+        [
+            "Bernadette",
+            "I guess you talked to your mom, huh?"
+        ],
+        [
+            "Howard",
+            "I was upset. My mom can be a pretty good shoulder to cry on, if the smell of Bengay doesn\u2019t burn your eyes."
+        ],
+        [
+            "Bernadette",
+            "Look, it\u2019s obvious having kids is really important to you, and I think I came up with a solution."
+        ],
+        [
+            "Howard",
+            "Really? That\u2019s great. What?"
+        ],
+        [
+            "Bernadette",
+            "Well, seeing as how I make way more money than you anyway, what if I work and you stay home with the kids?"
+        ],
+        [
+            "Howard",
+            "Me?"
+        ],
+        [
+            "Bernadette",
+            "Yeah. You know, you\u2019ll watch Barney and pull Cheerios out of their noses and go on play dates, and I\u2019ll work and have conversations with people my own age and enjoy my life."
+        ],
+        [
+            "Howard",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "Yay, so we\u2019re good."
+        ],
+        [
+            "Howard",
+            "Yeah, we\u2019re good."
+        ],
+        [
+            "Bernadette",
+            "You know, I don\u2019t know if this counted as a fight, but how about some make-up sex?"
+        ],
+        [
+            "Howard",
+            "I would love that. But what is that behind your ear? Oh, look, it\u2019s a condom."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-12-the-shiny-trinket-maneouvre/"
+}

@@ -1,0 +1,1784 @@
+{
+    "Season": 4,
+    "Episode": 21,
+    "Title": "the agreement dissection",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The bathroom"
+            ],
+            [
+                20,
+                "Penny\u2019s door. "
+            ],
+            [
+                25,
+                "Credits sequence."
+            ],
+            [
+                27,
+                "The apartment."
+            ],
+            [
+                52,
+                "The apartment. "
+            ],
+            [
+                69,
+                "Penny\u2019s door. "
+            ],
+            [
+                77,
+                "A bar."
+            ],
+            [
+                88,
+                "The same, later."
+            ],
+            [
+                116,
+                "A taxi."
+            ],
+            [
+                124,
+                "A Korean ballroom dancing club. Sheldon and Amy are dancing. "
+            ],
+            [
+                131,
+                "Outside Amy\u2019s apartment. "
+            ],
+            [
+                168,
+                "The apartment. "
+            ],
+            [
+                207,
+                "The apartment. Sheldon is at his laptop. "
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Leonard, are you in the shower?"
+            ],
+            [
+                3,
+                "I asked if you were in the shower, but that\u2019s moot now."
+            ],
+            [
+                5,
+                "Moot. Rendered unimportant by recent events."
+            ],
+            [
+                7,
+                "I have to skip the chitchat. Emergency."
+            ],
+            [
+                9,
+                "Mathematical. 32-ounce banana smoothie, 16-ounce bladder."
+            ],
+            [
+                11,
+                "I assure you I do."
+            ],
+            [
+                13,
+                "What?"
+            ],
+            [
+                15,
+                "What are you doing in there? She can\u2019t be in here."
+            ],
+            [
+                17,
+                "According to the roommate agreement, paragraph nine, subsection B, the right to bathroom privacy is suspended in the event of force majeure. And believe me, I am experiencing a very majeure force."
+            ],
+            [
+                18,
+                "Come on, you can\u2019t wait two minutes?"
+            ],
+            [
+                22,
+                "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny?"
+            ],
+            [
+                24,
+                "Move. Move. Move!"
+            ],
+            [
+                28,
+                "Dr. Leonard Hofstadter, you are officially charged with two violations of the roommate agreement. Do you waive reading of the charges?"
+            ],
+            [
+                33,
+                "Very well. Count the first, on or about the 28th day of April, the accused did knowingly and with malice aforethought deny access to the shared bathroom in a time of emergency, to wit, my back teeth were floating. Count the second, the accused exceeded the agreed upon occupancy of the shower, to wit, one, unless we are under attack by water-soluble aliens."
+            ],
+            [
+                35,
+                "Um, it\u2019s fairly technical."
+            ],
+            [
+                39,
+                "Do so, do so."
+            ],
+            [
+                41,
+                "Oh, that\u2019s ridiculous. A bathroom emergency is self-explanatory."
+            ],
+            [
+                43,
+                "Irrelevant. Leonard doesn\u2019t trim his nose hair. He thinks because he\u2019s short nobody can see up there."
+            ],
+            [
+                45,
+                "But\u2026"
+            ],
+            [
+                50,
+                "This isn\u2019t over."
+            ],
+            [
+                56,
+                "What is that you\u2019re eating? Tonight is pizza night."
+            ],
+            [
+                59,
+                "Yes, and when Franconi\u2019s went out of business, we switched to Graziano\u2019s."
+            ],
+            [
+                62,
+                "No."
+            ],
+            [
+                64,
+                "This is Greek food? Leonard, you hate Greek food."
+            ],
+            [
+                66,
+                "Fine. I\u2019m nothing if not adaptable."
+            ],
+            [
+                68,
+                "Thank you. If you think about it, Greek food isn\u2019t that far from italian food. They share a spice palette. And what a civilization is the Greeks. They gave us science, democracy, and little cubes of charred meat that taste like sweat."
+            ],
+            [
+                70,
+                "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny?"
+            ],
+            [
+                72,
+                "The mean Indian lady tried to make me eat lamb. Congratulations. Pizza night will now be at your apartment. Order one."
+            ],
+            [
+                74,
+                "A girls night? Oh, I don\u2019t know if I\u2019m up for an evening talking about rainbows, unicorns and menstrual cramps."
+            ],
+            [
+                76,
+                "Shotgun."
+            ],
+            [
+                81,
+                "Really, Amy? Tobacco and alcohol? Need I remind you not a lot of scientific discoveries were made by people having a good time?"
+            ],
+            [
+                91,
+                "It\u2019s talc. But as that\u2019s a primary ingredient of baby powder, I understand your confusion."
+            ],
+            [
+                93,
+                "I don\u2019t know how to process that."
+            ],
+            [
+                98,
+                "Other than my mother, my sister and my mee-maw, no. But in the interest of full disclosure, I was once on a bus and had to give mouth-to-mouth resuscitation to an elderly nun who passed out from heat exhaustion. Every year I get a Christmas card from her, signed with far too many X\u2019s and O\u2019s."
+            ],
+            [
+                102,
+                "Thank you. Not necessary. We know everything there is to know about kissing. It requires 34 facial muscles and 112 postural muscles."
+            ],
+            [
+                104,
+                "I\u2019m certainly glad no one said they were curious about Aztec human sacrifice."
+            ],
+            [
+                107,
+                "No, thank you, but for the record, I\u2019m an excellent dancer. Proficient in the rumba, waltz and cha-cha."
+            ],
+            [
+                109,
+                "I don\u2019t see why that\u2019s surprising. I excel at so many things. You\u2019ve had my sourdough bread."
+            ],
+            [
+                111,
+                "Against my will. In the South, pre-adolescent children are forced through a process called cotillion, which indoctrinates them with all the social graces and dance skills needed to function in 18th century Vienna."
+            ],
+            [
+                113,
+                "No, you most certainly are not."
+            ],
+            [
+                115,
+                "I saved a nun\u2019s life. Why am I being punished?"
+            ],
+            [
+                120,
+                "Waltz. It\u2019s a social dance from Austria, choreographed to a three-four time signature. (Sings Blue Danube. The taxi driver says something into radio in Korean. The word \u201cwaltz\u201d is included. Dispatcher replies also in Korean. Taxi driver sings Blue Danube. Dispatcher says \u201coh, waltz!\u201d They speak Korean some more. )"
+            ],
+            [
+                123,
+                "What happened to you?"
+            ],
+            [
+                133,
+                "What\u2019s 16 times 14?"
+            ],
+            [
+                135,
+                "And there\u2019s your answer."
+            ],
+            [
+                137,
+                "If you\u2019re referring to the beverage, you know I don\u2019t drink. If you\u2019re referring to the hat you don while wearing a nightshirt and holding a candle, I have one."
+            ],
+            [
+                139,
+                "It\u2019s hard to say no to yoo-hoo. The name literally beckons."
+            ],
+            [
+                141,
+                "Thank you. Is someone smoking?"
+            ],
+            [
+                143,
+                "You own a smoking monkey?"
+            ],
+            [
+                145,
+                "What\u2019s he doing here?"
+            ],
+            [
+                147,
+                "Remarkable. Aren\u2019t you worried about secondhand smoke?"
+            ],
+            [
+                149,
+                "is he deliberately blowing smoke at me?"
+            ],
+            [
+                151,
+                "Thank you. May I share something with you that\u2019s troubling me?"
+            ],
+            [
+                153,
+                "Priya has essentially nullified my roommate agreement with Leonard, making life in the apartment very uncomfortable for me."
+            ],
+            [
+                155,
+                "No, of course not."
+            ],
+            [
+                157,
+                "I understand the alcohol has stirred up whatever it is that makes girls go wild, but I really need to talk to smart Amy now."
+            ],
+            [
+                159,
+                "No."
+            ],
+            [
+                161,
+                "Well, when challenged, monkeys generally assert their dominance through chasing, assault and a stylized penile display. That\u2019s a little outside my comfort zone."
+            ],
+            [
+                163,
+                "Are you suggesting I play dirty?"
+            ],
+            [
+                165,
+                "Fascinating."
+            ],
+            [
+                170,
+                "Oh, good, you\u2019re up. I\u2019ve written a new and improved roommate agreement that benefits me greatly. I\u2019d like you to sign it."
+            ],
+            [
+                172,
+                "Excellent question. Do you remember what happened to the alien, played by talented character actor Frank Gorshin, in the Star Trek episode Let That Be Your Last Battlefield?"
+            ],
+            [
+                174,
+                "Affirmative. Computer, this is Dr. Sheldon Cooper. Activate self-destruct sequence. Code 1-1-A-2-B."
+            ],
+            [
+                177,
+                "That was my first thought, but all my cool stuff is here."
+            ],
+            [
+                179,
+                "Unless Leonard signs the new agreement in the next 41 seconds, this computer will send an e-mail to your parents in India saying that you\u2019re in a secret relationship with the whiter-than-marshmallow-fluff Leonard Hofstadter."
+            ],
+            [
+                185,
+                "20 seconds."
+            ],
+            [
+                190,
+                "He does that all the time, doesn\u2019t he? 15."
+            ],
+            [
+                193,
+                "I never bluff. Ten."
+            ],
+            [
+                195,
+                "Nine."
+            ],
+            [
+                197,
+                "Eight."
+            ],
+            [
+                199,
+                "It\u2019s a laptop with a full charge. Honestly, what do you see in him?"
+            ],
+            [
+                201,
+                "Three."
+            ],
+            [
+                203,
+                "Two."
+            ],
+            [
+                206,
+                "You may have gone to Cambridge, but I\u2019m an honorary graduate of Starfleet academy."
+            ],
+            [
+                208,
+                "Good morning, Amy."
+            ],
+            [
+                210,
+                "Are you experiencing dehydration, headache, nausea and shame?"
+            ],
+            [
+                212,
+                "Ah, memory impairment, the free prize at the bottom of every vodka bottle."
+            ],
+            [
+                214,
+                "All right. Last night you gave me some excellent advice regarding my problem here at home, you kissed me and then vomited on and off for 40 minutes, following which you passed out on your bathroom floor. I then folded a towel under your head as a pillow, set your oven clock to the correct time because it was driving me crazy, and I left."
+            ],
+            [
+                216,
+                "I suggest we treat our relationship as if it were a crashed computer and restore it to the last point we both agree it worked."
+            ],
+            [
+                219,
+                "You\u2019re preaching to the choir, sister."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "I can\u2019t hear you, I\u2019m in the shower."
+            ],
+            [
+                4,
+                "What?"
+            ],
+            [
+                6,
+                "I can\u2019t hear you, I\u2019m in the shower."
+            ],
+            [
+                8,
+                "What kind of emergency?"
+            ],
+            [
+                10,
+                "You might not want to do that."
+            ],
+            [
+                12,
+                "Sheldon, I\u2019m not alone in here."
+            ],
+            [
+                16,
+                "We were in here first, you can\u2019t be in here."
+            ],
+            [
+                29,
+                "Yeah, fine."
+            ],
+            [
+                31,
+                "Oh. Cool. I\u2019ve got a lawyer. And I\u2019ve seen her naked."
+            ],
+            [
+                37,
+                "Top of her class, Cambridge University. Licensed to practice law in three countries. And your face."
+            ],
+            [
+                47,
+                "Schooled!"
+            ],
+            [
+                49,
+                "Superceded!"
+            ],
+            [
+                51,
+                "No offence, but shower sex with you is now the second best thing that\u2019s happened today."
+            ],
+            [
+                57,
+                "I\u2019d like to refer that to my attorney."
+            ],
+            [
+                65,
+                "Not as much as you."
+            ],
+            [
+                67,
+                "I got you the lamb kabob."
+            ],
+            [
+                169,
+                "Morning, Sheldon."
+            ],
+            [
+                171,
+                "Why would I want to do that?"
+            ],
+            [
+                173,
+                "Uh, Captain Kirk activated the self-destruct sequence and threatened to blow up the Enterpriseand kill them both unless he gave in?"
+            ],
+            [
+                176,
+                "What are you gonna do, Sheldon, blow up the apartment?"
+            ],
+            [
+                181,
+                "What\u2019s the big deal?"
+            ],
+            [
+                183,
+                "They\u2019re gonna find out about me eventually, right?"
+            ],
+            [
+                186,
+                "Are you ashamed of me?"
+            ],
+            [
+                188,
+                "Then why can\u2019t we tell your parents?"
+            ],
+            [
+                192,
+                "No, he\u2019s bluffing."
+            ],
+            [
+                194,
+                "It\u2019s blackmail!"
+            ],
+            [
+                198,
+                "This is ridiculous. (Pulls out plug)"
+            ],
+            [
+                202,
+                "Really?"
+            ],
+            [
+                204,
+                "Okay, I\u2019ll sign it!"
+            ]
+        ],
+        "Priya": [
+            [
+                14,
+                "Hello, Sheldon."
+            ],
+            [
+                19,
+                "Oh, Leonard, let the man pee."
+            ],
+            [
+                30,
+                "Hang on. No, my client does not waive reading of the charges."
+            ],
+            [
+                32,
+                "Proceed."
+            ],
+            [
+                34,
+                "Can I see the roommate agreement?"
+            ],
+            [
+                36,
+                "I think I can handle it."
+            ],
+            [
+                38,
+                "All right, based on a cursory reading, it doesn\u2019t look like you have much of a case, Sheldon."
+            ],
+            [
+                40,
+                "Oh, I\u2019m afraid not. Section seven here, on the right to enter the bathroom in emergency situations, is not specific as to what constitutes an emergency."
+            ],
+            [
+                42,
+                "Is it? If Leonard forgot to trim his nose hair, could he barge in while you were showering?"
+            ],
+            [
+                44,
+                "My point is, Sheldon, the legal principle is ambiguity in a contract benefits the party that did not draft it, in this case, Leonard. So much for count one."
+            ],
+            [
+                46,
+                "There\u2019s no buts, Sheldon, that\u2019s how the law works."
+            ],
+            [
+                48,
+                "As for the shower capacity issue, I cite addendum J. When Sheldon showers second, any and all measures shall be taken to ensure an adequate supply of hot water. I believe this supercedes the occupancy issue."
+            ],
+            [
+                54,
+                "Seriously?"
+            ],
+            [
+                58,
+                "According to what I see here, Thursday nights are Franconi\u2019s pizza night."
+            ],
+            [
+                61,
+                "A good question, Howard. Turns out you can\u2019t. According to the document you drew up, Sheldon, the selection of a new takeout restaurant requires public hearings and a 60-day comment period. Were those criteria met?"
+            ],
+            [
+                178,
+                "So what happens when it counts down?"
+            ],
+            [
+                180,
+                "Oh, my God."
+            ],
+            [
+                182,
+                "Trust me, it\u2019s a big deal."
+            ],
+            [
+                184,
+                "Yeah, of course, just not today."
+            ],
+            [
+                187,
+                "Of course not."
+            ],
+            [
+                189,
+                "Please, don\u2019t push this."
+            ],
+            [
+                191,
+                "Okay, fine, Sheldon, you win. Turn it off."
+            ],
+            [
+                196,
+                "We give up."
+            ],
+            [
+                200,
+                "Give him what he wants or we\u2019re done."
+            ]
+        ],
+        "Penny": [
+            [
+                23,
+                "What?"
+            ],
+            [
+                71,
+                "Hey. What\u2019s up?"
+            ],
+            [
+                73,
+                "Oh, I\u2019m sorry, honey, I\u2019m meeting Amy and Bernadette for dinner. But you\u2019re welcome to tag along."
+            ],
+            [
+                75,
+                "Okay, suit yourself. We\u2019ll probably be trashing Priya a little."
+            ],
+            [
+                78,
+                "Okay, I\u2019d like to propose a toast to a wonderful girls night out."
+            ],
+            [
+                83,
+                "I felt sorry for him. Priya\u2019s giving him a hard time."
+            ],
+            [
+                86,
+                "Pantsuits suck."
+            ],
+            [
+                95,
+                "That\u2019s too many S\u2019s for kissing."
+            ],
+            [
+                97,
+                "Sheldon, have you ever kissed a girl?"
+            ],
+            [
+                100,
+                "Yeah, you\u2019re a scientist, where is the curiosity?"
+            ],
+            [
+                105,
+                "Hey, I know, let\u2019s take Sheldon dancing."
+            ],
+            [
+                110,
+                "Did you take dance lessons?"
+            ],
+            [
+                112,
+                "Oh, we are so taking you dancing."
+            ],
+            [
+                118,
+                "Take us to a place we can waltz."
+            ],
+            [
+                125,
+                "Shake it baby, shake it!"
+            ],
+            [
+                130,
+                "Oh, what the hell. Ooh!"
+            ]
+        ],
+        "Raj": [
+            [
+                53,
+                "Mmm, Greek food on pizza night? This is the most delightfully cruel thing we\u2019ve done to Sheldon since we left that fake message from Stephen Hawking on his voice mail."
+            ]
+        ],
+        "Howard (in Stephen Hawking voice): I wish to discuss your theories of black holes. Meet me at the Randy\u2019s Donut by the airport at 2": [
+            [
+                55,
+                "00 a.m."
+            ]
+        ],
+        "Howard": [
+            [
+                60,
+                "That\u2019s interesting. Can you just switch restaurants like that, Priya?"
+            ]
+        ],
+        "All": [
+            [
+                63,
+                "Opa!"
+            ]
+        ],
+        "Amy": [
+            [
+                79,
+                "Fair warning, we can get ker-razy."
+            ],
+            [
+                82,
+                "Why did you bring him? He\u2019s harshing my buzz."
+            ],
+            [
+                85,
+                "I need some context."
+            ],
+            [
+                87,
+                "And that opens her up To justifiable ridicule for wearing them. Good one, Bernadette. See? Ker-razy."
+            ],
+            [
+                90,
+                "You smell like baby powder."
+            ],
+            [
+                92,
+                "Oh, I\u2019m not confused at all. You\u2019re like a sexy toddler."
+            ],
+            [
+                101,
+                "I\u2019m available for experimentation."
+            ],
+            [
+                103,
+                "Oh, blah, blah, blah. Give me some sugar, bestie (kisses Penny)."
+            ],
+            [
+                108,
+                "Really?"
+            ],
+            [
+                132,
+                "How come if we\u2019re the smart people, we don\u2019t do this every night?"
+            ],
+            [
+                134,
+                "My burps taste like cranberry juice."
+            ],
+            [
+                136,
+                "Would you like to come in for a nightcap?"
+            ],
+            [
+                138,
+                "I have yoo-hoo."
+            ],
+            [
+                140,
+                "Make yourself comfortable."
+            ],
+            [
+                142,
+                "Oh, that\u2019s just Ricky."
+            ],
+            [
+                144,
+                "Don\u2019t be silly. He\u2019s one of the animals in my department\u2019s nicotine addiction study."
+            ],
+            [
+                146,
+                "I\u2019m giving him emphysema. The least I can do is let him hang out and watch cable."
+            ],
+            [
+                148,
+                "A little. The real danger is him biting my face off while I\u2019m sleeping."
+            ],
+            [
+                150,
+                "Yeah. He\u2019s kind of an ass."
+            ],
+            [
+                152,
+                "Of course. What\u2019s rattling around that big bulbous brain of yours?"
+            ],
+            [
+                154,
+                "And you want me to kill her? Done."
+            ],
+            [
+                156,
+                "I trained Ricky how to smoke. I can train him to shoot a poison dart. No jury would convict us \u2019cause people love monkeys."
+            ],
+            [
+                158,
+                "Excuse me. Have you considered that your intelligence might be the very thing causing your dilemma?"
+            ],
+            [
+                160,
+                "What do you think Ricky over here would do if an interloper encroached on his territory?"
+            ],
+            [
+                162,
+                "You\u2019re being too literal. My point is, he would not meekly surrender to the rules, and neither should you."
+            ],
+            [
+                164,
+                "Yes, dirty. Dirty, dirty, dirty. Which brings me to our next order of business. (Kisses him)"
+            ],
+            [
+                166,
+                "I hope you don\u2019t take what I\u2019m about to do as a comment on what we just did. (Runs to bathroom and vomits)"
+            ],
+            [
+                209,
+                "It most assuredly is not."
+            ],
+            [
+                211,
+                "Yes. I also found a Korean man\u2019s business card tucked into my cleavage. What happened last night?"
+            ],
+            [
+                213,
+                "Sheldon?"
+            ],
+            [
+                215,
+                "Okay. Don\u2019t really know where we go from here."
+            ],
+            [
+                217,
+                "Terrific. Thank you. (Noise of Ricky in background) They were out of menthols! Get off my back! Not easy living with a temperamental little primate."
+            ]
+        ],
+        "Bernadette": [
+            [
+                80,
+                "Yeah. Last week we smoked cigars and pretended to be dragons."
+            ],
+            [
+                84,
+                "Ooh, the Priya bashing\u2019s starting early. Yay! Okay, what\u2019s up with those pantsuits?"
+            ],
+            [
+                89,
+                "Whee-ee-ee!"
+            ],
+            [
+                94,
+                "I do. Amy and Sheldon sitting in a tree. K-I-S-S-S-S-I-N-G."
+            ],
+            [
+                96,
+                "Not if they\u2019re doing it for a long time."
+            ],
+            [
+                99,
+                "That doesn\u2019t count. Aren\u2019t you even a little curious?"
+            ],
+            [
+                106,
+                "Oh, I totally want to see Sheldon dance. I bet he looks like a spider on a hot plate."
+            ],
+            [
+                114,
+                "Well, what does your cotillion training say is expected of a gentleman when three ladies ask him to escort them to a dance soiree?"
+            ],
+            [
+                126,
+                "Muy caliente, Sheldon!"
+            ],
+            [
+                128,
+                "Oh, I\u2019m sorry, I\u2019m engaged."
+            ]
+        ],
+        "Taxi driver": [
+            [
+                119,
+                "Where you can what?"
+            ]
+        ],
+        "Taxi Driver": [
+            [
+                121,
+                "Here we go."
+            ]
+        ],
+        "Amy (singing)": [
+            [
+                122,
+                "I kissed a girl and I liked it, I hope my boyfriend don\u2019t mind it."
+            ]
+        ],
+        "Elderly Korean Gentleman": [
+            [
+                127,
+                "Care to dance?"
+            ]
+        ],
+        "Korean": [
+            [
+                129,
+                "How about you?"
+            ]
+        ],
+        "Sheldon (to Ricky)": [
+            [
+                167,
+                "Who\u2019s to say you shouldn\u2019t be dissecting our brains? You really are an ass."
+            ]
+        ],
+        "Female Voice": [
+            [
+                175,
+                "Self-destruct sequence activated."
+            ],
+            [
+                205,
+                "Self-destruct sequence aborted."
+            ]
+        ],
+        "Leonard (off)": [
+            [
+                218,
+                "Come on, Priya, just admit I embarrass you!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The bathroom"
+        ],
+        [
+            "Sheldon",
+            "Leonard, are you in the shower?"
+        ],
+        [
+            "Leonard",
+            "I can\u2019t hear you, I\u2019m in the shower."
+        ],
+        [
+            "Sheldon",
+            "I asked if you were in the shower, but that\u2019s moot now."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Moot. Rendered unimportant by recent events."
+        ],
+        [
+            "Leonard",
+            "I can\u2019t hear you, I\u2019m in the shower."
+        ],
+        [
+            "Sheldon",
+            "I have to skip the chitchat. Emergency."
+        ],
+        [
+            "Leonard",
+            "What kind of emergency?"
+        ],
+        [
+            "Sheldon",
+            "Mathematical. 32-ounce banana smoothie, 16-ounce bladder."
+        ],
+        [
+            "Leonard",
+            "You might not want to do that."
+        ],
+        [
+            "Sheldon",
+            "I assure you I do."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I\u2019m not alone in here."
+        ],
+        [
+            "Sheldon",
+            "What?"
+        ],
+        [
+            "Priya",
+            "Hello, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "What are you doing in there? She can\u2019t be in here."
+        ],
+        [
+            "Leonard",
+            "We were in here first, you can\u2019t be in here."
+        ],
+        [
+            "Sheldon",
+            "According to the roommate agreement, paragraph nine, subsection B, the right to bathroom privacy is suspended in the event of force majeure. And believe me, I am experiencing a very majeure force."
+        ],
+        [
+            "Sheldon",
+            "Come on, you can\u2019t wait two minutes?"
+        ],
+        [
+            "Priya",
+            "Oh, Leonard, let the man pee."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s door. "
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny?"
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Move. Move. Move!"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Dr. Leonard Hofstadter, you are officially charged with two violations of the roommate agreement. Do you waive reading of the charges?"
+        ],
+        [
+            "Leonard",
+            "Yeah, fine."
+        ],
+        [
+            "Priya",
+            "Hang on. No, my client does not waive reading of the charges."
+        ],
+        [
+            "Leonard",
+            "Oh. Cool. I\u2019ve got a lawyer. And I\u2019ve seen her naked."
+        ],
+        [
+            "Priya",
+            "Proceed."
+        ],
+        [
+            "Sheldon",
+            "Very well. Count the first, on or about the 28th day of April, the accused did knowingly and with malice aforethought deny access to the shared bathroom in a time of emergency, to wit, my back teeth were floating. Count the second, the accused exceeded the agreed upon occupancy of the shower, to wit, one, unless we are under attack by water-soluble aliens."
+        ],
+        [
+            "Priya",
+            "Can I see the roommate agreement?"
+        ],
+        [
+            "Sheldon",
+            "Um, it\u2019s fairly technical."
+        ],
+        [
+            "Priya",
+            "I think I can handle it."
+        ],
+        [
+            "Leonard",
+            "Top of her class, Cambridge University. Licensed to practice law in three countries. And your face."
+        ],
+        [
+            "Priya",
+            "All right, based on a cursory reading, it doesn\u2019t look like you have much of a case, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Do so, do so."
+        ],
+        [
+            "Priya",
+            "Oh, I\u2019m afraid not. Section seven here, on the right to enter the bathroom in emergency situations, is not specific as to what constitutes an emergency."
+        ],
+        [
+            "Sheldon",
+            "Oh, that\u2019s ridiculous. A bathroom emergency is self-explanatory."
+        ],
+        [
+            "Priya",
+            "Is it? If Leonard forgot to trim his nose hair, could he barge in while you were showering?"
+        ],
+        [
+            "Sheldon",
+            "Irrelevant. Leonard doesn\u2019t trim his nose hair. He thinks because he\u2019s short nobody can see up there."
+        ],
+        [
+            "Priya",
+            "My point is, Sheldon, the legal principle is ambiguity in a contract benefits the party that did not draft it, in this case, Leonard. So much for count one."
+        ],
+        [
+            "Sheldon",
+            "But\u2026"
+        ],
+        [
+            "Priya",
+            "There\u2019s no buts, Sheldon, that\u2019s how the law works."
+        ],
+        [
+            "Leonard",
+            "Schooled!"
+        ],
+        [
+            "Priya",
+            "As for the shower capacity issue, I cite addendum J. When Sheldon showers second, any and all measures shall be taken to ensure an adequate supply of hot water. I believe this supercedes the occupancy issue."
+        ],
+        [
+            "Leonard",
+            "Superceded!"
+        ],
+        [
+            "Sheldon",
+            "This isn\u2019t over."
+        ],
+        [
+            "Leonard",
+            "No offence, but shower sex with you is now the second best thing that\u2019s happened today."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "Mmm, Greek food on pizza night? This is the most delightfully cruel thing we\u2019ve done to Sheldon since we left that fake message from Stephen Hawking on his voice mail."
+        ],
+        [
+            "Priya",
+            "Seriously?"
+        ],
+        [
+            "Howard (in Stephen Hawking voice): I wish to discuss your theories of black holes. Meet me at the Randy\u2019s Donut by the airport at 2",
+            "00 a.m."
+        ],
+        [
+            "Sheldon",
+            "What is that you\u2019re eating? Tonight is pizza night."
+        ],
+        [
+            "Leonard",
+            "I\u2019d like to refer that to my attorney."
+        ],
+        [
+            "Priya",
+            "According to what I see here, Thursday nights are Franconi\u2019s pizza night."
+        ],
+        [
+            "Sheldon",
+            "Yes, and when Franconi\u2019s went out of business, we switched to Graziano\u2019s."
+        ],
+        [
+            "Howard",
+            "That\u2019s interesting. Can you just switch restaurants like that, Priya?"
+        ],
+        [
+            "Priya",
+            "A good question, Howard. Turns out you can\u2019t. According to the document you drew up, Sheldon, the selection of a new takeout restaurant requires public hearings and a 60-day comment period. Were those criteria met?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "All",
+            "Opa!"
+        ],
+        [
+            "Sheldon",
+            "This is Greek food? Leonard, you hate Greek food."
+        ],
+        [
+            "Leonard",
+            "Not as much as you."
+        ],
+        [
+            "Sheldon",
+            "Fine. I\u2019m nothing if not adaptable."
+        ],
+        [
+            "Leonard",
+            "I got you the lamb kabob."
+        ],
+        [
+            "Sheldon",
+            "Thank you. If you think about it, Greek food isn\u2019t that far from italian food. They share a spice palette. And what a civilization is the Greeks. They gave us science, democracy, and little cubes of charred meat that taste like sweat."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s door. "
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny?"
+        ],
+        [
+            "Penny",
+            "Hey. What\u2019s up?"
+        ],
+        [
+            "Sheldon",
+            "The mean Indian lady tried to make me eat lamb. Congratulations. Pizza night will now be at your apartment. Order one."
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019m sorry, honey, I\u2019m meeting Amy and Bernadette for dinner. But you\u2019re welcome to tag along."
+        ],
+        [
+            "Sheldon",
+            "A girls night? Oh, I don\u2019t know if I\u2019m up for an evening talking about rainbows, unicorns and menstrual cramps."
+        ],
+        [
+            "Penny",
+            "Okay, suit yourself. We\u2019ll probably be trashing Priya a little."
+        ],
+        [
+            "Sheldon",
+            "Shotgun."
+        ],
+        [
+            "Scene",
+            "A bar."
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019d like to propose a toast to a wonderful girls night out."
+        ],
+        [
+            "Amy",
+            "Fair warning, we can get ker-razy."
+        ],
+        [
+            "Bernadette",
+            "Yeah. Last week we smoked cigars and pretended to be dragons."
+        ],
+        [
+            "Sheldon",
+            "Really, Amy? Tobacco and alcohol? Need I remind you not a lot of scientific discoveries were made by people having a good time?"
+        ],
+        [
+            "Amy",
+            "Why did you bring him? He\u2019s harshing my buzz."
+        ],
+        [
+            "Penny",
+            "I felt sorry for him. Priya\u2019s giving him a hard time."
+        ],
+        [
+            "Bernadette",
+            "Ooh, the Priya bashing\u2019s starting early. Yay! Okay, what\u2019s up with those pantsuits?"
+        ],
+        [
+            "Amy",
+            "I need some context."
+        ],
+        [
+            "Penny",
+            "Pantsuits suck."
+        ],
+        [
+            "Amy",
+            "And that opens her up To justifiable ridicule for wearing them. Good one, Bernadette. See? Ker-razy."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Bernadette",
+            "Whee-ee-ee!"
+        ],
+        [
+            "Amy",
+            "You smell like baby powder."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s talc. But as that\u2019s a primary ingredient of baby powder, I understand your confusion."
+        ],
+        [
+            "Amy",
+            "Oh, I\u2019m not confused at all. You\u2019re like a sexy toddler."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know how to process that."
+        ],
+        [
+            "Bernadette",
+            "I do. Amy and Sheldon sitting in a tree. K-I-S-S-S-S-I-N-G."
+        ],
+        [
+            "Penny",
+            "That\u2019s too many S\u2019s for kissing."
+        ],
+        [
+            "Bernadette",
+            "Not if they\u2019re doing it for a long time."
+        ],
+        [
+            "Penny",
+            "Sheldon, have you ever kissed a girl?"
+        ],
+        [
+            "Sheldon",
+            "Other than my mother, my sister and my mee-maw, no. But in the interest of full disclosure, I was once on a bus and had to give mouth-to-mouth resuscitation to an elderly nun who passed out from heat exhaustion. Every year I get a Christmas card from her, signed with far too many X\u2019s and O\u2019s."
+        ],
+        [
+            "Bernadette",
+            "That doesn\u2019t count. Aren\u2019t you even a little curious?"
+        ],
+        [
+            "Penny",
+            "Yeah, you\u2019re a scientist, where is the curiosity?"
+        ],
+        [
+            "Amy",
+            "I\u2019m available for experimentation."
+        ],
+        [
+            "Sheldon",
+            "Thank you. Not necessary. We know everything there is to know about kissing. It requires 34 facial muscles and 112 postural muscles."
+        ],
+        [
+            "Amy",
+            "Oh, blah, blah, blah. Give me some sugar, bestie (kisses Penny)."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m certainly glad no one said they were curious about Aztec human sacrifice."
+        ],
+        [
+            "Penny",
+            "Hey, I know, let\u2019s take Sheldon dancing."
+        ],
+        [
+            "Bernadette",
+            "Oh, I totally want to see Sheldon dance. I bet he looks like a spider on a hot plate."
+        ],
+        [
+            "Sheldon",
+            "No, thank you, but for the record, I\u2019m an excellent dancer. Proficient in the rumba, waltz and cha-cha."
+        ],
+        [
+            "Amy",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t see why that\u2019s surprising. I excel at so many things. You\u2019ve had my sourdough bread."
+        ],
+        [
+            "Penny",
+            "Did you take dance lessons?"
+        ],
+        [
+            "Sheldon",
+            "Against my will. In the South, pre-adolescent children are forced through a process called cotillion, which indoctrinates them with all the social graces and dance skills needed to function in 18th century Vienna."
+        ],
+        [
+            "Penny",
+            "Oh, we are so taking you dancing."
+        ],
+        [
+            "Sheldon",
+            "No, you most certainly are not."
+        ],
+        [
+            "Bernadette",
+            "Well, what does your cotillion training say is expected of a gentleman when three ladies ask him to escort them to a dance soiree?"
+        ],
+        [
+            "Sheldon",
+            "I saved a nun\u2019s life. Why am I being punished?"
+        ],
+        [
+            "Scene",
+            "A taxi."
+        ],
+        [
+            "Penny",
+            "Take us to a place we can waltz."
+        ],
+        [
+            "Taxi driver",
+            "Where you can what?"
+        ],
+        [
+            "Sheldon",
+            "Waltz. It\u2019s a social dance from Austria, choreographed to a three-four time signature. (Sings Blue Danube. The taxi driver says something into radio in Korean. The word \u201cwaltz\u201d is included. Dispatcher replies also in Korean. Taxi driver sings Blue Danube. Dispatcher says \u201coh, waltz!\u201d They speak Korean some more. )"
+        ],
+        [
+            "Taxi Driver",
+            "Here we go."
+        ],
+        [
+            "Amy (singing)",
+            "I kissed a girl and I liked it, I hope my boyfriend don\u2019t mind it."
+        ],
+        [
+            "Sheldon",
+            "What happened to you?"
+        ],
+        [
+            "Scene",
+            "A Korean ballroom dancing club. Sheldon and Amy are dancing. "
+        ],
+        [
+            "Penny",
+            "Shake it baby, shake it!"
+        ],
+        [
+            "Bernadette",
+            "Muy caliente, Sheldon!"
+        ],
+        [
+            "Elderly Korean Gentleman",
+            "Care to dance?"
+        ],
+        [
+            "Bernadette",
+            "Oh, I\u2019m sorry, I\u2019m engaged."
+        ],
+        [
+            "Korean",
+            "How about you?"
+        ],
+        [
+            "Penny",
+            "Oh, what the hell. Ooh!"
+        ],
+        [
+            "Scene",
+            "Outside Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "How come if we\u2019re the smart people, we don\u2019t do this every night?"
+        ],
+        [
+            "Sheldon",
+            "What\u2019s 16 times 14?"
+        ],
+        [
+            "Amy",
+            "My burps taste like cranberry juice."
+        ],
+        [
+            "Sheldon",
+            "And there\u2019s your answer."
+        ],
+        [
+            "Amy",
+            "Would you like to come in for a nightcap?"
+        ],
+        [
+            "Sheldon",
+            "If you\u2019re referring to the beverage, you know I don\u2019t drink. If you\u2019re referring to the hat you don while wearing a nightshirt and holding a candle, I have one."
+        ],
+        [
+            "Amy",
+            "I have yoo-hoo."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s hard to say no to yoo-hoo. The name literally beckons."
+        ],
+        [
+            "Amy",
+            "Make yourself comfortable."
+        ],
+        [
+            "Sheldon",
+            "Thank you. Is someone smoking?"
+        ],
+        [
+            "Amy",
+            "Oh, that\u2019s just Ricky."
+        ],
+        [
+            "Sheldon",
+            "You own a smoking monkey?"
+        ],
+        [
+            "Amy",
+            "Don\u2019t be silly. He\u2019s one of the animals in my department\u2019s nicotine addiction study."
+        ],
+        [
+            "Sheldon",
+            "What\u2019s he doing here?"
+        ],
+        [
+            "Amy",
+            "I\u2019m giving him emphysema. The least I can do is let him hang out and watch cable."
+        ],
+        [
+            "Sheldon",
+            "Remarkable. Aren\u2019t you worried about secondhand smoke?"
+        ],
+        [
+            "Amy",
+            "A little. The real danger is him biting my face off while I\u2019m sleeping."
+        ],
+        [
+            "Sheldon",
+            "is he deliberately blowing smoke at me?"
+        ],
+        [
+            "Amy",
+            "Yeah. He\u2019s kind of an ass."
+        ],
+        [
+            "Sheldon",
+            "Thank you. May I share something with you that\u2019s troubling me?"
+        ],
+        [
+            "Amy",
+            "Of course. What\u2019s rattling around that big bulbous brain of yours?"
+        ],
+        [
+            "Sheldon",
+            "Priya has essentially nullified my roommate agreement with Leonard, making life in the apartment very uncomfortable for me."
+        ],
+        [
+            "Amy",
+            "And you want me to kill her? Done."
+        ],
+        [
+            "Sheldon",
+            "No, of course not."
+        ],
+        [
+            "Amy",
+            "I trained Ricky how to smoke. I can train him to shoot a poison dart. No jury would convict us \u2019cause people love monkeys."
+        ],
+        [
+            "Sheldon",
+            "I understand the alcohol has stirred up whatever it is that makes girls go wild, but I really need to talk to smart Amy now."
+        ],
+        [
+            "Amy",
+            "Excuse me. Have you considered that your intelligence might be the very thing causing your dilemma?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Amy",
+            "What do you think Ricky over here would do if an interloper encroached on his territory?"
+        ],
+        [
+            "Sheldon",
+            "Well, when challenged, monkeys generally assert their dominance through chasing, assault and a stylized penile display. That\u2019s a little outside my comfort zone."
+        ],
+        [
+            "Amy",
+            "You\u2019re being too literal. My point is, he would not meekly surrender to the rules, and neither should you."
+        ],
+        [
+            "Sheldon",
+            "Are you suggesting I play dirty?"
+        ],
+        [
+            "Amy",
+            "Yes, dirty. Dirty, dirty, dirty. Which brings me to our next order of business. (Kisses him)"
+        ],
+        [
+            "Sheldon",
+            "Fascinating."
+        ],
+        [
+            "Amy",
+            "I hope you don\u2019t take what I\u2019m about to do as a comment on what we just did. (Runs to bathroom and vomits)"
+        ],
+        [
+            "Sheldon (to Ricky)",
+            "Who\u2019s to say you shouldn\u2019t be dissecting our brains? You really are an ass."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Morning, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Oh, good, you\u2019re up. I\u2019ve written a new and improved roommate agreement that benefits me greatly. I\u2019d like you to sign it."
+        ],
+        [
+            "Leonard",
+            "Why would I want to do that?"
+        ],
+        [
+            "Sheldon",
+            "Excellent question. Do you remember what happened to the alien, played by talented character actor Frank Gorshin, in the Star Trek episode Let That Be Your Last Battlefield?"
+        ],
+        [
+            "Leonard",
+            "Uh, Captain Kirk activated the self-destruct sequence and threatened to blow up the Enterpriseand kill them both unless he gave in?"
+        ],
+        [
+            "Sheldon",
+            "Affirmative. Computer, this is Dr. Sheldon Cooper. Activate self-destruct sequence. Code 1-1-A-2-B."
+        ],
+        [
+            "Female Voice",
+            "Self-destruct sequence activated."
+        ],
+        [
+            "Leonard",
+            "What are you gonna do, Sheldon, blow up the apartment?"
+        ],
+        [
+            "Sheldon",
+            "That was my first thought, but all my cool stuff is here."
+        ],
+        [
+            "Priya",
+            "So what happens when it counts down?"
+        ],
+        [
+            "Sheldon",
+            "Unless Leonard signs the new agreement in the next 41 seconds, this computer will send an e-mail to your parents in India saying that you\u2019re in a secret relationship with the whiter-than-marshmallow-fluff Leonard Hofstadter."
+        ],
+        [
+            "Priya",
+            "Oh, my God."
+        ],
+        [
+            "Leonard",
+            "What\u2019s the big deal?"
+        ],
+        [
+            "Priya",
+            "Trust me, it\u2019s a big deal."
+        ],
+        [
+            "Leonard",
+            "They\u2019re gonna find out about me eventually, right?"
+        ],
+        [
+            "Priya",
+            "Yeah, of course, just not today."
+        ],
+        [
+            "Sheldon",
+            "20 seconds."
+        ],
+        [
+            "Leonard",
+            "Are you ashamed of me?"
+        ],
+        [
+            "Priya",
+            "Of course not."
+        ],
+        [
+            "Leonard",
+            "Then why can\u2019t we tell your parents?"
+        ],
+        [
+            "Priya",
+            "Please, don\u2019t push this."
+        ],
+        [
+            "Sheldon",
+            "He does that all the time, doesn\u2019t he? 15."
+        ],
+        [
+            "Priya",
+            "Okay, fine, Sheldon, you win. Turn it off."
+        ],
+        [
+            "Leonard",
+            "No, he\u2019s bluffing."
+        ],
+        [
+            "Sheldon",
+            "I never bluff. Ten."
+        ],
+        [
+            "Leonard",
+            "It\u2019s blackmail!"
+        ],
+        [
+            "Sheldon",
+            "Nine."
+        ],
+        [
+            "Priya",
+            "We give up."
+        ],
+        [
+            "Sheldon",
+            "Eight."
+        ],
+        [
+            "Leonard",
+            "This is ridiculous. (Pulls out plug)"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a laptop with a full charge. Honestly, what do you see in him?"
+        ],
+        [
+            "Priya",
+            "Give him what he wants or we\u2019re done."
+        ],
+        [
+            "Sheldon",
+            "Three."
+        ],
+        [
+            "Leonard",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "Two."
+        ],
+        [
+            "Leonard",
+            "Okay, I\u2019ll sign it!"
+        ],
+        [
+            "Female Voice",
+            "Self-destruct sequence aborted."
+        ],
+        [
+            "Sheldon",
+            "You may have gone to Cambridge, but I\u2019m an honorary graduate of Starfleet academy."
+        ],
+        [
+            "Scene",
+            "The apartment. Sheldon is at his laptop. "
+        ],
+        [
+            "Sheldon",
+            "Good morning, Amy."
+        ],
+        [
+            "Amy",
+            "It most assuredly is not."
+        ],
+        [
+            "Sheldon",
+            "Are you experiencing dehydration, headache, nausea and shame?"
+        ],
+        [
+            "Amy",
+            "Yes. I also found a Korean man\u2019s business card tucked into my cleavage. What happened last night?"
+        ],
+        [
+            "Sheldon",
+            "Ah, memory impairment, the free prize at the bottom of every vodka bottle."
+        ],
+        [
+            "Amy",
+            "Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "All right. Last night you gave me some excellent advice regarding my problem here at home, you kissed me and then vomited on and off for 40 minutes, following which you passed out on your bathroom floor. I then folded a towel under your head as a pillow, set your oven clock to the correct time because it was driving me crazy, and I left."
+        ],
+        [
+            "Amy",
+            "Okay. Don\u2019t really know where we go from here."
+        ],
+        [
+            "Sheldon",
+            "I suggest we treat our relationship as if it were a crashed computer and restore it to the last point we both agree it worked."
+        ],
+        [
+            "Amy",
+            "Terrific. Thank you. (Noise of Ricky in background) They were out of menthols! Get off my back! Not easy living with a temperamental little primate."
+        ],
+        [
+            "Leonard (off)",
+            "Come on, Priya, just admit I embarrass you!"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re preaching to the choir, sister."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-4-episode-21-the-agreement-dissection/"
+}

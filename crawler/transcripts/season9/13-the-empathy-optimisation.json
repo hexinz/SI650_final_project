@@ -1,0 +1,1946 @@
+{
+    "Season": 9,
+    "Episode": 13,
+    "Title": "the empathy optimisation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                24,
+                "Flashback"
+            ],
+            [
+                28,
+                "Flashback"
+            ],
+            [
+                33,
+                "Flashback"
+            ],
+            [
+                38,
+                "Flashback"
+            ],
+            [
+                43,
+                "Back to the present."
+            ],
+            [
+                45,
+                "Credits sequence."
+            ],
+            [
+                46,
+                "Sheldon\u2019s bedroom."
+            ],
+            [
+                60,
+                "The comic book store."
+            ],
+            [
+                81,
+                "The apartment."
+            ],
+            [
+                102,
+                "Sheldon\u2019s bedroom. "
+            ],
+            [
+                123,
+                "The apartment."
+            ],
+            [
+                139,
+                "Howard and Berndette\u2019s house."
+            ],
+            [
+                148,
+                "The apartment bathroom."
+            ],
+            [
+                155,
+                "The comic book store."
+            ],
+            [
+                163,
+                "Raj\u2019s apartment."
+            ],
+            [
+                183,
+                "The apartment."
+            ],
+            [
+                202,
+                "The party bus. "
+            ],
+            [
+                234,
+                "Later on the party bus."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Hey, so I saw a movie trailer the other day. How could Batman possibly fight Superman? I mean, isn\u2019t that dumb?"
+            ],
+            [
+                4,
+                "No, no, no, no, no. I\u2019ve seen that movie. It\u2019s called Iron Man."
+            ],
+            [
+                8,
+                "And now Ben Affleck is Batman?"
+            ],
+            [
+                10,
+                "Ooh, we should watch that next girls\u2019 night."
+            ],
+            [
+                12,
+                "Oh, I love me some Leo."
+            ],
+            [
+                21,
+                "You really don\u2019t know why?"
+            ],
+            [
+                26,
+                "Sheldon, I cooked you breakfast. I made your bed. I checked your mouth for thrush. You can rub your own chest."
+            ],
+            [
+                83,
+                "Oh, that could be fun. But just to be clear, you mean a party bus with booze and music, right, not, like, juice boxes and video games?"
+            ],
+            [
+                85,
+                "Well, I\u2019m in. When are we going?"
+            ],
+            [
+                92,
+                "Oh, Sheldon, you don\u2019t even like it there."
+            ],
+            [
+                150,
+                "Can this wait?"
+            ],
+            [
+                152,
+                "Okay, fine, I accept your apology, now get out."
+            ],
+            [
+                154,
+                "Leonard."
+            ],
+            [
+                184,
+                "So, was the fight really bad?"
+            ],
+            [
+                189,
+                "No."
+            ],
+            [
+                195,
+                "Is she okay?"
+            ],
+            [
+                201,
+                "And there\u2019s your next T-shirt."
+            ],
+            [
+                208,
+                "Here\u2019s some champagne."
+            ],
+            [
+                213,
+                "You couldn\u2019t give us just one weekend?"
+            ],
+            [
+                216,
+                "If we drop them off at a fire station, they have to take them, no questions asked."
+            ],
+            [
+                230,
+                "And now you see the problem."
+            ],
+            [
+                237,
+                "Shake it, baby."
+            ]
+        ],
+        "Bernadette": [
+            [
+                2,
+                "Maybe he uses Kryptonite."
+            ],
+            [
+                11,
+                "We could do a double feature with the Leonardo Di Caprio Romeo and Juliet."
+            ],
+            [
+                29,
+                "I brought you a little care package from work. It\u2019s our latest antiviral and the best decongestant we make."
+            ],
+            [
+                32,
+                "You\u2019re gonna want to take these with food."
+            ],
+            [
+                144,
+                "Forgiven, forgiven."
+            ],
+            [
+                147,
+                "And he made it all better."
+            ],
+            [
+                204,
+                "You know what that means."
+            ],
+            [
+                207,
+                "This is so cool."
+            ],
+            [
+                238,
+                "Ooh, work that thing."
+            ]
+        ],
+        "Emily": [
+            [
+                3,
+                "Well, Batman\u2019s got a lot of money. Maybe he builds a suit that can do everything Superman can do."
+            ],
+            [
+                9,
+                "Oh, he was great in Shakespeare in Love."
+            ],
+            [
+                36,
+                "I went to medical school."
+            ],
+            [
+                167,
+                "Do you honestly think I hear that a lot?"
+            ],
+            [
+                170,
+                "Uh, maybe you do. He just insulted me again."
+            ],
+            [
+                172,
+                "Why are you defending him?"
+            ],
+            [
+                174,
+                "Well, I don\u2019t accept your apology."
+            ],
+            [
+                176,
+                "It\u2019s called standing up for myself. You should try it some time."
+            ],
+            [
+                178,
+                "Oh, you want me to stop? No problem."
+            ],
+            [
+                181,
+                "Don\u2019t worry, you\u2019re good."
+            ],
+            [
+                221,
+                "Shh, let him finish."
+            ],
+            [
+                223,
+                "Thank you."
+            ],
+            [
+                225,
+                "Oh, it\u2019s okay, Sheldon. Come with us."
+            ],
+            [
+                229,
+                "You know, I know he\u2019s a jerk, but I actually feel bad for him."
+            ],
+            [
+                236,
+                "At the moment? No, not really."
+            ]
+        ],
+        "Leonard": [
+            [
+                5,
+                "What is happening?"
+            ],
+            [
+                13,
+                "And it\u2019s gone."
+            ],
+            [
+                15,
+                "Good for you."
+            ],
+            [
+                23,
+                "Let me refresh your memory."
+            ],
+            [
+                39,
+                "All right, here you go."
+            ],
+            [
+                41,
+                "You\u2019re not dying. It\u2019s just the flu."
+            ],
+            [
+                63,
+                "No, he\u2019s fine. We just needed a little break."
+            ],
+            [
+                68,
+                "I wish that all the time. Usually before I blow out birthday candles."
+            ],
+            [
+                72,
+                "Well, you know, Penny and I have been talking about taking a weekend in Vegas. Maybe we should all go."
+            ],
+            [
+                75,
+                "That sounds really fun."
+            ],
+            [
+                77,
+                "No."
+            ],
+            [
+                79,
+                "No."
+            ],
+            [
+                82,
+                "So, the guys and I were talking about renting a party bus and everyone going to Vegas."
+            ],
+            [
+                84,
+                "Yes. And Howard\u2019s birthday was a drop-off party, you didn\u2019t have to stay."
+            ],
+            [
+                86,
+                "This weekend."
+            ],
+            [
+                88,
+                "Well, Vegas, but\u2026"
+            ],
+            [
+                90,
+                "That\u2019s fine, \u2019cause actually you\u2019re not invited."
+            ],
+            [
+                94,
+                "Not this time."
+            ],
+            [
+                96,
+                "He\u2019s coming, too."
+            ],
+            [
+                98,
+                "Nope."
+            ],
+            [
+                100,
+                "Oh, great. Do that."
+            ],
+            [
+                125,
+                "Ah, so like every other M. Night Shyamalan movie I\u2019ve seen, you spoil it in advance."
+            ],
+            [
+                127,
+                "Thank you. I appreciate that."
+            ],
+            [
+                129,
+                "Appreciate that, too."
+            ],
+            [
+                131,
+                "You\u2019re still not coming."
+            ],
+            [
+                133,
+                "Sheldon, I accept your apology, but you upset a lot of people while you were sick. I\u2019m not in a position to just say you can come."
+            ],
+            [
+                135,
+                "Fine, if you apologize to everyone, they all say it\u2019s okay, then yes, you can come."
+            ],
+            [
+                137,
+                "Well, I hope it\u2019s as much fun as the Sheldon Cooper Spell-Checks Local Menus Tour."
+            ],
+            [
+                186,
+                "You think they\u2019ll still go on the trip?"
+            ],
+            [
+                188,
+                "They\u2019re not going on the trip."
+            ],
+            [
+                205,
+                "That Raj\u2019ll be on it before we make it to the freeway?"
+            ],
+            [
+                209,
+                "Mm-hmm. Well, I would like to propose a toast to a well-deserved weekend of\u2026"
+            ],
+            [
+                211,
+                "What are you doing?"
+            ],
+            [
+                215,
+                "What do we do, kick them off?"
+            ],
+            [
+                231,
+                "Come on, you pain in the ass."
+            ]
+        ],
+        "Howard": [
+            [
+                6,
+                "I don\u2019t know."
+            ],
+            [
+                17,
+                "Glad to hear it."
+            ],
+            [
+                31,
+                "Hey, she came all the way here\u2026"
+            ],
+            [
+                65,
+                "He was being a jerk to everyone. Don\u2019t take it personally."
+            ],
+            [
+                69,
+                "You know, Amy took some time off from him. Really improved their relationship."
+            ],
+            [
+                71,
+                "We should all take a trip or something."
+            ],
+            [
+                73,
+                "Bernie would love that."
+            ],
+            [
+                78,
+                "No."
+            ],
+            [
+                80,
+                "No."
+            ],
+            [
+                141,
+                "Wow. I\u2019m impressed."
+            ],
+            [
+                143,
+                "Apology accepted."
+            ],
+            [
+                146,
+                "Sheldon Cooper apologized to me"
+            ],
+            [
+                197,
+                "Wait, that\u2019s an option? I didn\u2019t know that was an option."
+            ],
+            [
+                203,
+                "Ooh, check out the stripper pole."
+            ]
+        ],
+        "Raj": [
+            [
+                7,
+                "But it\u2019s beautiful."
+            ],
+            [
+                19,
+                "Yay."
+            ],
+            [
+                34,
+                "Sheldon, stop being a baby and let Emily take a look at you."
+            ],
+            [
+                61,
+                "Hey, Stuart."
+            ],
+            [
+                67,
+                "I wish we could do more stuff without Sheldon."
+            ],
+            [
+                70,
+                "Huh. Okay. As long as it doesn\u2019t end with us having coitus with him, I\u2019m in."
+            ],
+            [
+                74,
+                "Oh, Ooh, maybe we could get one of those party buses to take us there."
+            ],
+            [
+                76,
+                "Yeah, that sounds fun. A party-bus party don\u2019t stop. Ooh, when I say party, you say bus."
+            ],
+            [
+                165,
+                "Of course I do."
+            ],
+            [
+                169,
+                "Okay, okay, the point is that we accept your apology."
+            ],
+            [
+                171,
+                "Yeah, but he doesn\u2019t mean it."
+            ],
+            [
+                175,
+                "What are you doing?"
+            ],
+            [
+                177,
+                "Fine, how about this? You\u2019re making me uncomfortable by prolonging this ridiculous fight, and I wish you\u2019d stop."
+            ],
+            [
+                179,
+                "No, come on, please don\u2019t leave."
+            ],
+            [
+                190,
+                "What is wrong with you?"
+            ],
+            [
+                192,
+                "You went to Emily\u2019s to apologise, and when you left, she was crying."
+            ],
+            [
+                196,
+                "Yeah, I calmed her down, but she\u2019s not going to Vegas if he\u2019s going."
+            ],
+            [
+                199,
+                "That\u2019s very mature of you."
+            ],
+            [
+                206,
+                "You know it. Oo-ah, oo-ah."
+            ],
+            [
+                218,
+                "Oh, God."
+            ],
+            [
+                220,
+                "You know, Sheldon\u2026"
+            ]
+        ],
+        "Sheldon": [
+            [
+                14,
+                "Oh, hello, everyone. I am happy to report I\u2019m feeling much better."
+            ],
+            [
+                16,
+                "My fever is gone, my sinuses are pressure-free, and my mucus is as clear as a Yosemite waterfall."
+            ],
+            [
+                18,
+                "I\u2019ll be able to return to work tomorrow."
+            ],
+            [
+                20,
+                "Well, why isn\u2019t everyone happy? Your little ray of sunshine is ready to beam again."
+            ],
+            [
+                22,
+                "No. But I knew that his yay was sarcastic. Not bad for a guy whose last bowel movement sounded like rain on a roof."
+            ],
+            [
+                25,
+                "Penny, rub Vicks on my chest."
+            ],
+            [
+                27,
+                "Oh, sure, grope every other male on the planet, but draw the line with me."
+            ],
+            [
+                30,
+                "I hope laughter is the best medicine, \u2019cause this care package is a joke."
+            ],
+            [
+                35,
+                "She\u2019s a dermatologist."
+            ],
+            [
+                37,
+                "Well, in that case, try removing the irritating patch of brown skin standing next to you."
+            ],
+            [
+                40,
+                "Leonard, I\u2019m dying."
+            ],
+            [
+                42,
+                "I asked for chicken noodle. This is chicken and stars. It\u2019s killing me."
+            ],
+            [
+                44,
+                "I never did get that chicken noodle, did I?"
+            ],
+            [
+                48,
+                "Hello."
+            ],
+            [
+                50,
+                "Physically, yes, but I\u2019m upset because everyone\u2019s mad at me for no good reason."
+            ],
+            [
+                52,
+                "You know how, when you\u2019re sick, you\u2019re allowed to be cranky and say whatever you want and other people\u2019s feelings don\u2019t matter?"
+            ],
+            [
+                54,
+                "I had a hundred and one fever. If that\u2019s not a time to verbally abuse my loved ones, when is?"
+            ],
+            [
+                56,
+                "You stayed in Michigan all week to avoid being around me?"
+            ],
+            [
+                58,
+                "You know, I\u2019m not the only one who\u2019s unpleasant when they\u2019re sick. When Penny got food poisoning, she threw up so loudly I could barely hear the television."
+            ],
+            [
+                87,
+                "Oh, where are we going?"
+            ],
+            [
+                89,
+                "Ugh, Atlantic City without the taffy? No, thank you."
+            ],
+            [
+                91,
+                "Well, now, well, that\u2019s hurtful."
+            ],
+            [
+                93,
+                "I can consider a place America\u2019s urinal cake and still enjoy the occasional visit."
+            ],
+            [
+                95,
+                "Oh, fine. Then I\u2019ll just hang out with Wolowitz."
+            ],
+            [
+                97,
+                "Well, then Raj and I will\u2026"
+            ],
+            [
+                99,
+                "Very well. Stuart."
+            ],
+            [
+                101,
+                "Ugh. Stuart."
+            ],
+            [
+                104,
+                "Our friends are jerks, and I\u2019m mad at all of them."
+            ],
+            [
+                106,
+                "Can you believe they planned a trip to Las Vegas and didn\u2019t invite me?"
+            ],
+            [
+                108,
+                "You know, I liked it better when there was still a little mystery left in our relationship."
+            ],
+            [
+                110,
+                "I can\u2019t believe you\u2019re not on my side. I was on your side when someone stole your car radio."
+            ],
+            [
+                112,
+                "I don\u2019t know. A music-loving hobo with a heart of gold?"
+            ],
+            [
+                114,
+                "Fine, if that\u2019s what it takes to go on their dumb trip."
+            ],
+            [
+                116,
+                "I have empathy. Watch. Leonard made me soup, and I was mean to him."
+            ],
+            [
+                118,
+                "Fine. Leonard made me soup, and I was mean to him. Hey, I felt a little something. Let me try again. Leonard made me soup, and I was mean to him. I was mean to him. He must have felt terrible. Oh, now I feel terrible. Neat."
+            ],
+            [
+                120,
+                "Now let me see you feel bad for lying and staying in Detroit longer than you needed to."
+            ],
+            [
+                122,
+                "Hey, we\u2019re both great at this."
+            ],
+            [
+                124,
+                "Leonard, get ready for an apology. And with the added twist of an M. Night Shyamalan movie, I\u2019m going to mean it."
+            ],
+            [
+                126,
+                "Hey, if you didn\u2019t know Bruce Willis was dead the whole time, that\u2019s not on me. Okay. Here it comes. You tried to take care of me when I was sick, and I was mean to you. There\u2019s no excuse for that. And I\u2019m truly sorry."
+            ],
+            [
+                128,
+                "I want you to know that that is sincere. I do feel bad. I\u2019m not just saying it to be included on your trip."
+            ],
+            [
+                130,
+                "Terrific. Now all that\u2019s left is for you to invite me to come, me to ask are you sure, you to say absolutely, and then me to bring it home with, how could I say no to that face?"
+            ],
+            [
+                132,
+                "What? I apologized and I meant it. I know that we don\u2019t play this game very often, but you\u2019re doing it wrong."
+            ],
+            [
+                134,
+                "Well, all right. What if I apologize to all of them?"
+            ],
+            [
+                136,
+                "Challenge accepted. Sounds like it\u2019s time for the Sheldon Cooper Apology Tour."
+            ],
+            [
+                138,
+                "My goodness, do you remember comes with apsparagus?"
+            ],
+            [
+                140,
+                "Howard and Bernadette, you tried to comfort me when I was ill, and I treated you terribly. I\u2019m sorry."
+            ],
+            [
+                142,
+                "No, no, no, wait. I\u2019m not done. Allow me to underscore my sentiment with a haunting rendition of Brenda Lee\u2019s I\u2019m Sorry played on the pan flute."
+            ],
+            [
+                145,
+                "All right, that\u2019s eight hours of practice down the drain. And to memorialise this occasion, here are your commemorative T-shirts."
+            ],
+            [
+                149,
+                "All you did was offer maternal care and affection, and all you received in return was rude and insensitive behavior."
+            ],
+            [
+                151,
+                "I\u2019m afraid it can\u2019t. The trip is tomorrow. And I have more apologies to make."
+            ],
+            [
+                153,
+                "Wonderful. would you mind holding up this shirt while I take a quick\u2026?"
+            ],
+            [
+                156,
+                "You brought me my comic books when I wasn\u2019t feeling well. That, that was thoughtful. And I was insensitive. I\u2019m sorry."
+            ],
+            [
+                158,
+                "And I want you to know that I mean it, you know? This isn\u2019t me just wanting to go on the trip to Las Vegas."
+            ],
+            [
+                160,
+                "The one everyone\u2019s taking this weekend on the party bus."
+            ],
+            [
+                162,
+                "That would be my understanding. On a less painful subject, what size T-shirt do you take?"
+            ],
+            [
+                164,
+                "Raj, you were being a good friend, and my illness was no excuse for my behaviour. I hope that you can accept my apology."
+            ],
+            [
+                166,
+                "And, Emily, I\u2019m sorry for saying dermatologists aren\u2019t real doctors. And I\u2019m sure you\u2019re tired of hearing that."
+            ],
+            [
+                168,
+                "Well, I would imagine when your job is popping zits and squirting Botox into old lady faces\u2026"
+            ],
+            [
+                173,
+                "I believe I can answer that. Uh, like me, Raj is demonstrating empathy. Now, why don\u2019t you accept my apology receive your free T-shirt, uh, I hope extra small is okay. For some reason Wolowitz took a medium."
+            ],
+            [
+                180,
+                "Point of clarification, are you still going on the trip? Because if not\u2026"
+            ],
+            [
+                182,
+                "I caused that fight, I feel terrible. Wait, I can do that better. I caused that fight. I feel terrible. Yeah, wow, I don\u2019t know which one I like more."
+            ],
+            [
+                185,
+                "No. As a fight, it was excellent. She used harsh language and slammed the door. Although as I say this, that might not have been what you were asking."
+            ],
+            [
+                187,
+                "All I know is after the fight I went to Emily\u2019s to smooth\u2026"
+            ],
+            [
+                191,
+                "Look at him, caring about what\u2019s wrong with me. That is some top-shelf empathy. Hey, well, we should start a club."
+            ],
+            [
+                193,
+                "That is true. Well, I suppose I should apologize again."
+            ],
+            [
+                198,
+                "Well, that is fine, because I\u2019ve decided that I won\u2019t be joining you. I\u2019ve realized that the most genuine way to demonstrate the remorse I feel is to let you have this weekend to yourselves."
+            ],
+            [
+                200,
+                "Well, I\u2019ve been on a little trip myself recently. Not to Sin City but to Sincere City. Where instead of genital warts, the only growth you\u2019ll come back with is personal growth."
+            ],
+            [
+                210,
+                "Aha."
+            ],
+            [
+                212,
+                "My plan was to jump out at the state line, but one of my nose plugs fell into the toilet."
+            ],
+            [
+                217,
+                "Before you do, please give me one more chance to apologize to Emily."
+            ],
+            [
+                219,
+                "Emily, as I\u2019m sure you know, I\u2019m considered an odd fellow. But what you don\u2019t know is that, while I often say the wrong thing, in my heart I mean well. I think that you are a smart and wonderful woman, you know? And we all think that you can do better than Koothrappali."
+            ],
+            [
+                222,
+                "So, for all the times I\u2019ve offended you and all the times that I\u2019ll offend you in the future, I\u2019m sorry."
+            ],
+            [
+                224,
+                "Good. Then I\u2019ll be leaving now."
+            ],
+            [
+                226,
+                "Oh, that\u2019s very kind of you. But I\u2019m sure you\u2019ll all have a better time without me. Let\u2019s go, Stuart."
+            ],
+            [
+                228,
+                "Stuart, now."
+            ],
+            [
+                232,
+                "That\u2019s me. Bye, Stuart."
+            ],
+            [
+                235,
+                "Are you relieved that you and Raj were able to patch things up?"
+            ]
+        ],
+        "Amy (on Skype)": [
+            [
+                47,
+                "Hi, Sheldon."
+            ],
+            [
+                103,
+                "Hi, Sheldon. What\u2019s new?"
+            ]
+        ],
+        "Amy": [
+            [
+                49,
+                "Are you feeling any better?"
+            ],
+            [
+                51,
+                "Why don\u2019t you tell me what happened, and in a gentle, loving way, I\u2019ll explain to you why you\u2019re wrong."
+            ],
+            [
+                53,
+                "Ooh. Gentle and loving, this is gonna be tricky."
+            ],
+            [
+                55,
+                "Sheldon, when you\u2019re sick, you can be unbearable. That\u2019s why your friends have been known to work late or sneak out to the movies or stay at a neurobiology conference three days after it\u2019s ended."
+            ],
+            [
+                57,
+                "No, no, not just that. I mean, Detroit is beautiful when it\u2019s sleeting."
+            ],
+            [
+                59,
+                "Ooh, I just heard something. Might be hail, might be gunfire. Either way, I\u2019m gonna go take pictures. Bye."
+            ],
+            [
+                105,
+                "I said what\u2019s new, but sure."
+            ],
+            [
+                107,
+                "Did you refuse to apologize and act like they were stupid for being mad?"
+            ],
+            [
+                109,
+                "Everyone tried to take care of you, and you were nothing but mean to them."
+            ],
+            [
+                111,
+                "Who else\u2019s side could you have been on?"
+            ],
+            [
+                113,
+                "Sheldon, I understand that you\u2019re upset because you feel left out, but I don\u2019t know why we\u2019re even talking about this. Just apologize to them."
+            ],
+            [
+                115,
+                "Maybe you could try apologizing because you actually feel bad. It\u2019s called empathy. It\u2019s something you could work on."
+            ],
+            [
+                117,
+                "Great. Now try it as if this isn\u2019t your first day as a person."
+            ],
+            [
+                119,
+                "Glad I could help."
+            ],
+            [
+                121,
+                "I feel so, so bad."
+            ]
+        ],
+        "Stuart": [
+            [
+                62,
+                "Hey. Where\u2019s Sheldon? Still sick?"
+            ],
+            [
+                64,
+                "Yeah, I get that. When I brought him his comics the other day he said, oh great, death is literally at my door."
+            ],
+            [
+                66,
+                "Oh, I\u2019m on so many antidepressants, I couldn\u2019t if I wanted to."
+            ],
+            [
+                157,
+                "Thank you, Sheldon. I appreciate that."
+            ],
+            [
+                159,
+                "What trip to Las Vegas?"
+            ],
+            [
+                161,
+                "Of course, I wasn\u2019t invited."
+            ],
+            [
+                214,
+                "I told him this was a bad idea."
+            ],
+            [
+                227,
+                "But I want to stay."
+            ],
+            [
+                233,
+                "Wait. I\u2019m a pain in the ass, too."
+            ]
+        ],
+        "All": [
+            [
+                194,
+                "No."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Hey, so I saw a movie trailer the other day. How could Batman possibly fight Superman? I mean, isn\u2019t that dumb?"
+        ],
+        [
+            "Bernadette",
+            "Maybe he uses Kryptonite."
+        ],
+        [
+            "Emily",
+            "Well, Batman\u2019s got a lot of money. Maybe he builds a suit that can do everything Superman can do."
+        ],
+        [
+            "Penny",
+            "No, no, no, no, no. I\u2019ve seen that movie. It\u2019s called Iron Man."
+        ],
+        [
+            "Leonard",
+            "What is happening?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know."
+        ],
+        [
+            "Raj",
+            "But it\u2019s beautiful."
+        ],
+        [
+            "Penny",
+            "And now Ben Affleck is Batman?"
+        ],
+        [
+            "Emily",
+            "Oh, he was great in Shakespeare in Love."
+        ],
+        [
+            "Penny",
+            "Ooh, we should watch that next girls\u2019 night."
+        ],
+        [
+            "Bernadette",
+            "We could do a double feature with the Leonardo Di Caprio Romeo and Juliet."
+        ],
+        [
+            "Penny",
+            "Oh, I love me some Leo."
+        ],
+        [
+            "Leonard",
+            "And it\u2019s gone."
+        ],
+        [
+            "Sheldon",
+            "Oh, hello, everyone. I am happy to report I\u2019m feeling much better."
+        ],
+        [
+            "Leonard",
+            "Good for you."
+        ],
+        [
+            "Sheldon",
+            "My fever is gone, my sinuses are pressure-free, and my mucus is as clear as a Yosemite waterfall."
+        ],
+        [
+            "Howard",
+            "Glad to hear it."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll be able to return to work tomorrow."
+        ],
+        [
+            "Raj",
+            "Yay."
+        ],
+        [
+            "Sheldon",
+            "Well, why isn\u2019t everyone happy? Your little ray of sunshine is ready to beam again."
+        ],
+        [
+            "Penny",
+            "You really don\u2019t know why?"
+        ],
+        [
+            "Sheldon",
+            "No. But I knew that his yay was sarcastic. Not bad for a guy whose last bowel movement sounded like rain on a roof."
+        ],
+        [
+            "Leonard",
+            "Let me refresh your memory."
+        ],
+        [
+            "Scene",
+            "Flashback"
+        ],
+        [
+            "Sheldon",
+            "Penny, rub Vicks on my chest."
+        ],
+        [
+            "Penny",
+            "Sheldon, I cooked you breakfast. I made your bed. I checked your mouth for thrush. You can rub your own chest."
+        ],
+        [
+            "Sheldon",
+            "Oh, sure, grope every other male on the planet, but draw the line with me."
+        ],
+        [
+            "Scene",
+            "Flashback"
+        ],
+        [
+            "Bernadette",
+            "I brought you a little care package from work. It\u2019s our latest antiviral and the best decongestant we make."
+        ],
+        [
+            "Sheldon",
+            "I hope laughter is the best medicine, \u2019cause this care package is a joke."
+        ],
+        [
+            "Howard",
+            "Hey, she came all the way here\u2026"
+        ],
+        [
+            "Bernadette",
+            "You\u2019re gonna want to take these with food."
+        ],
+        [
+            "Scene",
+            "Flashback"
+        ],
+        [
+            "Raj",
+            "Sheldon, stop being a baby and let Emily take a look at you."
+        ],
+        [
+            "Sheldon",
+            "She\u2019s a dermatologist."
+        ],
+        [
+            "Emily",
+            "I went to medical school."
+        ],
+        [
+            "Sheldon",
+            "Well, in that case, try removing the irritating patch of brown skin standing next to you."
+        ],
+        [
+            "Scene",
+            "Flashback"
+        ],
+        [
+            "Leonard",
+            "All right, here you go."
+        ],
+        [
+            "Sheldon",
+            "Leonard, I\u2019m dying."
+        ],
+        [
+            "Leonard",
+            "You\u2019re not dying. It\u2019s just the flu."
+        ],
+        [
+            "Sheldon",
+            "I asked for chicken noodle. This is chicken and stars. It\u2019s killing me."
+        ],
+        [
+            "Scene",
+            "Back to the present."
+        ],
+        [
+            "Sheldon",
+            "I never did get that chicken noodle, did I?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s bedroom."
+        ],
+        [
+            "Amy (on Skype)",
+            "Hi, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Amy",
+            "Are you feeling any better?"
+        ],
+        [
+            "Sheldon",
+            "Physically, yes, but I\u2019m upset because everyone\u2019s mad at me for no good reason."
+        ],
+        [
+            "Amy",
+            "Why don\u2019t you tell me what happened, and in a gentle, loving way, I\u2019ll explain to you why you\u2019re wrong."
+        ],
+        [
+            "Sheldon",
+            "You know how, when you\u2019re sick, you\u2019re allowed to be cranky and say whatever you want and other people\u2019s feelings don\u2019t matter?"
+        ],
+        [
+            "Amy",
+            "Ooh. Gentle and loving, this is gonna be tricky."
+        ],
+        [
+            "Sheldon",
+            "I had a hundred and one fever. If that\u2019s not a time to verbally abuse my loved ones, when is?"
+        ],
+        [
+            "Amy",
+            "Sheldon, when you\u2019re sick, you can be unbearable. That\u2019s why your friends have been known to work late or sneak out to the movies or stay at a neurobiology conference three days after it\u2019s ended."
+        ],
+        [
+            "Sheldon",
+            "You stayed in Michigan all week to avoid being around me?"
+        ],
+        [
+            "Amy",
+            "No, no, not just that. I mean, Detroit is beautiful when it\u2019s sleeting."
+        ],
+        [
+            "Sheldon",
+            "You know, I\u2019m not the only one who\u2019s unpleasant when they\u2019re sick. When Penny got food poisoning, she threw up so loudly I could barely hear the television."
+        ],
+        [
+            "Amy",
+            "Ooh, I just heard something. Might be hail, might be gunfire. Either way, I\u2019m gonna go take pictures. Bye."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Raj",
+            "Hey, Stuart."
+        ],
+        [
+            "Stuart",
+            "Hey. Where\u2019s Sheldon? Still sick?"
+        ],
+        [
+            "Leonard",
+            "No, he\u2019s fine. We just needed a little break."
+        ],
+        [
+            "Stuart",
+            "Yeah, I get that. When I brought him his comics the other day he said, oh great, death is literally at my door."
+        ],
+        [
+            "Howard",
+            "He was being a jerk to everyone. Don\u2019t take it personally."
+        ],
+        [
+            "Stuart",
+            "Oh, I\u2019m on so many antidepressants, I couldn\u2019t if I wanted to."
+        ],
+        [
+            "Raj",
+            "I wish we could do more stuff without Sheldon."
+        ],
+        [
+            "Leonard",
+            "I wish that all the time. Usually before I blow out birthday candles."
+        ],
+        [
+            "Howard",
+            "You know, Amy took some time off from him. Really improved their relationship."
+        ],
+        [
+            "Raj",
+            "Huh. Okay. As long as it doesn\u2019t end with us having coitus with him, I\u2019m in."
+        ],
+        [
+            "Howard",
+            "We should all take a trip or something."
+        ],
+        [
+            "Leonard",
+            "Well, you know, Penny and I have been talking about taking a weekend in Vegas. Maybe we should all go."
+        ],
+        [
+            "Howard",
+            "Bernie would love that."
+        ],
+        [
+            "Raj",
+            "Oh, Ooh, maybe we could get one of those party buses to take us there."
+        ],
+        [
+            "Leonard",
+            "That sounds really fun."
+        ],
+        [
+            "Raj",
+            "Yeah, that sounds fun. A party-bus party don\u2019t stop. Ooh, when I say party, you say bus."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "So, the guys and I were talking about renting a party bus and everyone going to Vegas."
+        ],
+        [
+            "Penny",
+            "Oh, that could be fun. But just to be clear, you mean a party bus with booze and music, right, not, like, juice boxes and video games?"
+        ],
+        [
+            "Leonard",
+            "Yes. And Howard\u2019s birthday was a drop-off party, you didn\u2019t have to stay."
+        ],
+        [
+            "Penny",
+            "Well, I\u2019m in. When are we going?"
+        ],
+        [
+            "Leonard",
+            "This weekend."
+        ],
+        [
+            "Sheldon",
+            "Oh, where are we going?"
+        ],
+        [
+            "Leonard",
+            "Well, Vegas, but\u2026"
+        ],
+        [
+            "Sheldon",
+            "Ugh, Atlantic City without the taffy? No, thank you."
+        ],
+        [
+            "Leonard",
+            "That\u2019s fine, \u2019cause actually you\u2019re not invited."
+        ],
+        [
+            "Sheldon",
+            "Well, now, well, that\u2019s hurtful."
+        ],
+        [
+            "Penny",
+            "Oh, Sheldon, you don\u2019t even like it there."
+        ],
+        [
+            "Sheldon",
+            "I can consider a place America\u2019s urinal cake and still enjoy the occasional visit."
+        ],
+        [
+            "Leonard",
+            "Not this time."
+        ],
+        [
+            "Sheldon",
+            "Oh, fine. Then I\u2019ll just hang out with Wolowitz."
+        ],
+        [
+            "Leonard",
+            "He\u2019s coming, too."
+        ],
+        [
+            "Sheldon",
+            "Well, then Raj and I will\u2026"
+        ],
+        [
+            "Leonard",
+            "Nope."
+        ],
+        [
+            "Sheldon",
+            "Very well. Stuart."
+        ],
+        [
+            "Leonard",
+            "Oh, great. Do that."
+        ],
+        [
+            "Sheldon",
+            "Ugh. Stuart."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s bedroom. "
+        ],
+        [
+            "Amy (on Skype)",
+            "Hi, Sheldon. What\u2019s new?"
+        ],
+        [
+            "Sheldon",
+            "Our friends are jerks, and I\u2019m mad at all of them."
+        ],
+        [
+            "Amy",
+            "I said what\u2019s new, but sure."
+        ],
+        [
+            "Sheldon",
+            "Can you believe they planned a trip to Las Vegas and didn\u2019t invite me?"
+        ],
+        [
+            "Amy",
+            "Did you refuse to apologize and act like they were stupid for being mad?"
+        ],
+        [
+            "Sheldon",
+            "You know, I liked it better when there was still a little mystery left in our relationship."
+        ],
+        [
+            "Amy",
+            "Everyone tried to take care of you, and you were nothing but mean to them."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t believe you\u2019re not on my side. I was on your side when someone stole your car radio."
+        ],
+        [
+            "Amy",
+            "Who else\u2019s side could you have been on?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know. A music-loving hobo with a heart of gold?"
+        ],
+        [
+            "Amy",
+            "Sheldon, I understand that you\u2019re upset because you feel left out, but I don\u2019t know why we\u2019re even talking about this. Just apologize to them."
+        ],
+        [
+            "Sheldon",
+            "Fine, if that\u2019s what it takes to go on their dumb trip."
+        ],
+        [
+            "Amy",
+            "Maybe you could try apologizing because you actually feel bad. It\u2019s called empathy. It\u2019s something you could work on."
+        ],
+        [
+            "Sheldon",
+            "I have empathy. Watch. Leonard made me soup, and I was mean to him."
+        ],
+        [
+            "Amy",
+            "Great. Now try it as if this isn\u2019t your first day as a person."
+        ],
+        [
+            "Sheldon",
+            "Fine. Leonard made me soup, and I was mean to him. Hey, I felt a little something. Let me try again. Leonard made me soup, and I was mean to him. I was mean to him. He must have felt terrible. Oh, now I feel terrible. Neat."
+        ],
+        [
+            "Amy",
+            "Glad I could help."
+        ],
+        [
+            "Sheldon",
+            "Now let me see you feel bad for lying and staying in Detroit longer than you needed to."
+        ],
+        [
+            "Amy",
+            "I feel so, so bad."
+        ],
+        [
+            "Sheldon",
+            "Hey, we\u2019re both great at this."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Leonard, get ready for an apology. And with the added twist of an M. Night Shyamalan movie, I\u2019m going to mean it."
+        ],
+        [
+            "Leonard",
+            "Ah, so like every other M. Night Shyamalan movie I\u2019ve seen, you spoil it in advance."
+        ],
+        [
+            "Sheldon",
+            "Hey, if you didn\u2019t know Bruce Willis was dead the whole time, that\u2019s not on me. Okay. Here it comes. You tried to take care of me when I was sick, and I was mean to you. There\u2019s no excuse for that. And I\u2019m truly sorry."
+        ],
+        [
+            "Leonard",
+            "Thank you. I appreciate that."
+        ],
+        [
+            "Sheldon",
+            "I want you to know that that is sincere. I do feel bad. I\u2019m not just saying it to be included on your trip."
+        ],
+        [
+            "Leonard",
+            "Appreciate that, too."
+        ],
+        [
+            "Sheldon",
+            "Terrific. Now all that\u2019s left is for you to invite me to come, me to ask are you sure, you to say absolutely, and then me to bring it home with, how could I say no to that face?"
+        ],
+        [
+            "Leonard",
+            "You\u2019re still not coming."
+        ],
+        [
+            "Sheldon",
+            "What? I apologized and I meant it. I know that we don\u2019t play this game very often, but you\u2019re doing it wrong."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I accept your apology, but you upset a lot of people while you were sick. I\u2019m not in a position to just say you can come."
+        ],
+        [
+            "Sheldon",
+            "Well, all right. What if I apologize to all of them?"
+        ],
+        [
+            "Leonard",
+            "Fine, if you apologize to everyone, they all say it\u2019s okay, then yes, you can come."
+        ],
+        [
+            "Sheldon",
+            "Challenge accepted. Sounds like it\u2019s time for the Sheldon Cooper Apology Tour."
+        ],
+        [
+            "Leonard",
+            "Well, I hope it\u2019s as much fun as the Sheldon Cooper Spell-Checks Local Menus Tour."
+        ],
+        [
+            "Sheldon",
+            "My goodness, do you remember comes with apsparagus?"
+        ],
+        [
+            "Scene",
+            "Howard and Berndette\u2019s house."
+        ],
+        [
+            "Sheldon",
+            "Howard and Bernadette, you tried to comfort me when I was ill, and I treated you terribly. I\u2019m sorry."
+        ],
+        [
+            "Howard",
+            "Wow. I\u2019m impressed."
+        ],
+        [
+            "Sheldon",
+            "No, no, no, wait. I\u2019m not done. Allow me to underscore my sentiment with a haunting rendition of Brenda Lee\u2019s I\u2019m Sorry played on the pan flute."
+        ],
+        [
+            "Howard",
+            "Apology accepted."
+        ],
+        [
+            "Bernadette",
+            "Forgiven, forgiven."
+        ],
+        [
+            "Sheldon",
+            "All right, that\u2019s eight hours of practice down the drain. And to memorialise this occasion, here are your commemorative T-shirts."
+        ],
+        [
+            "Howard",
+            "Sheldon Cooper apologized to me"
+        ],
+        [
+            "Bernadette",
+            "And he made it all better."
+        ],
+        [
+            "Scene",
+            "The apartment bathroom."
+        ],
+        [
+            "Sheldon",
+            "All you did was offer maternal care and affection, and all you received in return was rude and insensitive behavior."
+        ],
+        [
+            "Penny",
+            "Can this wait?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m afraid it can\u2019t. The trip is tomorrow. And I have more apologies to make."
+        ],
+        [
+            "Penny",
+            "Okay, fine, I accept your apology, now get out."
+        ],
+        [
+            "Sheldon",
+            "Wonderful. would you mind holding up this shirt while I take a quick\u2026?"
+        ],
+        [
+            "Penny",
+            "Leonard."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Sheldon",
+            "You brought me my comic books when I wasn\u2019t feeling well. That, that was thoughtful. And I was insensitive. I\u2019m sorry."
+        ],
+        [
+            "Stuart",
+            "Thank you, Sheldon. I appreciate that."
+        ],
+        [
+            "Sheldon",
+            "And I want you to know that I mean it, you know? This isn\u2019t me just wanting to go on the trip to Las Vegas."
+        ],
+        [
+            "Stuart",
+            "What trip to Las Vegas?"
+        ],
+        [
+            "Sheldon",
+            "The one everyone\u2019s taking this weekend on the party bus."
+        ],
+        [
+            "Stuart",
+            "Of course, I wasn\u2019t invited."
+        ],
+        [
+            "Sheldon",
+            "That would be my understanding. On a less painful subject, what size T-shirt do you take?"
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "Raj, you were being a good friend, and my illness was no excuse for my behaviour. I hope that you can accept my apology."
+        ],
+        [
+            "Raj",
+            "Of course I do."
+        ],
+        [
+            "Sheldon",
+            "And, Emily, I\u2019m sorry for saying dermatologists aren\u2019t real doctors. And I\u2019m sure you\u2019re tired of hearing that."
+        ],
+        [
+            "Emily",
+            "Do you honestly think I hear that a lot?"
+        ],
+        [
+            "Sheldon",
+            "Well, I would imagine when your job is popping zits and squirting Botox into old lady faces\u2026"
+        ],
+        [
+            "Raj",
+            "Okay, okay, the point is that we accept your apology."
+        ],
+        [
+            "Emily",
+            "Uh, maybe you do. He just insulted me again."
+        ],
+        [
+            "Raj",
+            "Yeah, but he doesn\u2019t mean it."
+        ],
+        [
+            "Emily",
+            "Why are you defending him?"
+        ],
+        [
+            "Sheldon",
+            "I believe I can answer that. Uh, like me, Raj is demonstrating empathy. Now, why don\u2019t you accept my apology receive your free T-shirt, uh, I hope extra small is okay. For some reason Wolowitz took a medium."
+        ],
+        [
+            "Emily",
+            "Well, I don\u2019t accept your apology."
+        ],
+        [
+            "Raj",
+            "What are you doing?"
+        ],
+        [
+            "Emily",
+            "It\u2019s called standing up for myself. You should try it some time."
+        ],
+        [
+            "Raj",
+            "Fine, how about this? You\u2019re making me uncomfortable by prolonging this ridiculous fight, and I wish you\u2019d stop."
+        ],
+        [
+            "Emily",
+            "Oh, you want me to stop? No problem."
+        ],
+        [
+            "Raj",
+            "No, come on, please don\u2019t leave."
+        ],
+        [
+            "Sheldon",
+            "Point of clarification, are you still going on the trip? Because if not\u2026"
+        ],
+        [
+            "Emily",
+            "Don\u2019t worry, you\u2019re good."
+        ],
+        [
+            "Sheldon",
+            "I caused that fight, I feel terrible. Wait, I can do that better. I caused that fight. I feel terrible. Yeah, wow, I don\u2019t know which one I like more."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "So, was the fight really bad?"
+        ],
+        [
+            "Sheldon",
+            "No. As a fight, it was excellent. She used harsh language and slammed the door. Although as I say this, that might not have been what you were asking."
+        ],
+        [
+            "Leonard",
+            "You think they\u2019ll still go on the trip?"
+        ],
+        [
+            "Sheldon",
+            "All I know is after the fight I went to Emily\u2019s to smooth\u2026"
+        ],
+        [
+            "Leonard",
+            "They\u2019re not going on the trip."
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Raj",
+            "What is wrong with you?"
+        ],
+        [
+            "Sheldon",
+            "Look at him, caring about what\u2019s wrong with me. That is some top-shelf empathy. Hey, well, we should start a club."
+        ],
+        [
+            "Raj",
+            "You went to Emily\u2019s to apologise, and when you left, she was crying."
+        ],
+        [
+            "Sheldon",
+            "That is true. Well, I suppose I should apologize again."
+        ],
+        [
+            "All",
+            "No."
+        ],
+        [
+            "Penny",
+            "Is she okay?"
+        ],
+        [
+            "Raj",
+            "Yeah, I calmed her down, but she\u2019s not going to Vegas if he\u2019s going."
+        ],
+        [
+            "Howard",
+            "Wait, that\u2019s an option? I didn\u2019t know that was an option."
+        ],
+        [
+            "Sheldon",
+            "Well, that is fine, because I\u2019ve decided that I won\u2019t be joining you. I\u2019ve realized that the most genuine way to demonstrate the remorse I feel is to let you have this weekend to yourselves."
+        ],
+        [
+            "Raj",
+            "That\u2019s very mature of you."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019ve been on a little trip myself recently. Not to Sin City but to Sincere City. Where instead of genital warts, the only growth you\u2019ll come back with is personal growth."
+        ],
+        [
+            "Penny",
+            "And there\u2019s your next T-shirt."
+        ],
+        [
+            "Scene",
+            "The party bus. "
+        ],
+        [
+            "Howard",
+            "Ooh, check out the stripper pole."
+        ],
+        [
+            "Bernadette",
+            "You know what that means."
+        ],
+        [
+            "Leonard",
+            "That Raj\u2019ll be on it before we make it to the freeway?"
+        ],
+        [
+            "Raj",
+            "You know it. Oo-ah, oo-ah."
+        ],
+        [
+            "Bernadette",
+            "This is so cool."
+        ],
+        [
+            "Penny",
+            "Here\u2019s some champagne."
+        ],
+        [
+            "Leonard",
+            "Mm-hmm. Well, I would like to propose a toast to a well-deserved weekend of\u2026"
+        ],
+        [
+            "Sheldon",
+            "Aha."
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "My plan was to jump out at the state line, but one of my nose plugs fell into the toilet."
+        ],
+        [
+            "Penny",
+            "You couldn\u2019t give us just one weekend?"
+        ],
+        [
+            "Stuart",
+            "I told him this was a bad idea."
+        ],
+        [
+            "Leonard",
+            "What do we do, kick them off?"
+        ],
+        [
+            "Penny",
+            "If we drop them off at a fire station, they have to take them, no questions asked."
+        ],
+        [
+            "Sheldon",
+            "Before you do, please give me one more chance to apologize to Emily."
+        ],
+        [
+            "Raj",
+            "Oh, God."
+        ],
+        [
+            "Sheldon",
+            "Emily, as I\u2019m sure you know, I\u2019m considered an odd fellow. But what you don\u2019t know is that, while I often say the wrong thing, in my heart I mean well. I think that you are a smart and wonderful woman, you know? And we all think that you can do better than Koothrappali."
+        ],
+        [
+            "Raj",
+            "You know, Sheldon\u2026"
+        ],
+        [
+            "Emily",
+            "Shh, let him finish."
+        ],
+        [
+            "Sheldon",
+            "So, for all the times I\u2019ve offended you and all the times that I\u2019ll offend you in the future, I\u2019m sorry."
+        ],
+        [
+            "Emily",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Good. Then I\u2019ll be leaving now."
+        ],
+        [
+            "Emily",
+            "Oh, it\u2019s okay, Sheldon. Come with us."
+        ],
+        [
+            "Sheldon",
+            "Oh, that\u2019s very kind of you. But I\u2019m sure you\u2019ll all have a better time without me. Let\u2019s go, Stuart."
+        ],
+        [
+            "Stuart",
+            "But I want to stay."
+        ],
+        [
+            "Sheldon",
+            "Stuart, now."
+        ],
+        [
+            "Emily",
+            "You know, I know he\u2019s a jerk, but I actually feel bad for him."
+        ],
+        [
+            "Penny",
+            "And now you see the problem."
+        ],
+        [
+            "Leonard",
+            "Come on, you pain in the ass."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s me. Bye, Stuart."
+        ],
+        [
+            "Stuart",
+            "Wait. I\u2019m a pain in the ass, too."
+        ],
+        [
+            "Scene",
+            "Later on the party bus."
+        ],
+        [
+            "Sheldon",
+            "Are you relieved that you and Raj were able to patch things up?"
+        ],
+        [
+            "Emily",
+            "At the moment? No, not really."
+        ],
+        [
+            "Penny",
+            "Shake it, baby."
+        ],
+        [
+            "Bernadette",
+            "Ooh, work that thing."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-13-the-empathy-optimisation/"
+}

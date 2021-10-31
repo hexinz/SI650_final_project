@@ -1,0 +1,1702 @@
+{
+    "Season": 6,
+    "Episode": 10,
+    "Title": "the fish guts displacement",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                26,
+                "Credits sequence."
+            ],
+            [
+                27,
+                "Amy\u2019s apartment."
+            ],
+            [
+                41,
+                "Howard and Bernadette\u2019s apartment. "
+            ],
+            [
+                56,
+                "Amy\u2019s apartment."
+            ],
+            [
+                71,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                93,
+                "The stairwell."
+            ],
+            [
+                101,
+                "Penny\u2019s apartment."
+            ],
+            [
+                103,
+                "The apartment."
+            ],
+            [
+                121,
+                "Amy\u2019s apartment. "
+            ],
+            [
+                141,
+                "The apartment."
+            ],
+            [
+                156,
+                "Amy\u2019s apartment. Amy is dancing to \u201cWalking on Sunshine\u201d. Hears door and turns off stereo."
+            ],
+            [
+                172,
+                "Bernadette\u2019s parents\u2019 garage. "
+            ],
+            [
+                197,
+                "Amy\u2019s apartment. "
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Is anyone else troubled by the Spider-Man theme song?"
+            ],
+            [
+                3,
+                "It is, right behind do-do-do-do-do Inspector Gadget., and Teenage Mutant Ninja Turtles, heroes in a half-shell."
+            ],
+            [
+                5,
+                "However, the Spider-Man lyrics posit that Spider-Man, Spider-Man does whatever a spider can."
+            ],
+            [
+                7,
+                "I can think of many things Spider-Man can\u2019t do that a spider can. One, crawl in your ear and die. Two, legally leave Guatemala without a passport. Three, have sex with a spider."
+            ],
+            [
+                17,
+                "You know what I like to do when I\u2019m forced to speak with those beneath my intellectual station? I bring up an interesting topic, like the difference between Spider-Man and spiders."
+            ],
+            [
+                19,
+                "No, you can\u2019t use that one. That\u2019s mine. Uh, try this one for an ice-breaker. Uh, despite popular lore, there is no place in the continental United States, Alaska or Hawaii from which one can dig straight through the centre of the earth and come up in China."
+            ],
+            [
+                21,
+                "Actually, you can\u2019t have that one either. It\u2019s too good. Sorry."
+            ],
+            [
+                23,
+                "Sadly, yes. Amy\u2019s taking me to a memorial service. It\u2019s for one of her colleagues who is of Asian descent, so my planned conversational gambit is to casually remark that no matter how deep they dig his grave, he\u2019ll never make his way back to China."
+            ],
+            [
+                25,
+                "What can I say? I put the fun in funeral."
+            ],
+            [
+                28,
+                "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. Oh, right, funeral. (Knock, knock, knock) (solemnly) Amy."
+            ],
+            [
+                30,
+                "I\u2019m not allowed to wear my Silver Surfer neck tie, but you can wear a bathrobe?"
+            ],
+            [
+                32,
+                "You\u2019re sick? You poor kid. Well, see ya."
+            ],
+            [
+                34,
+                "Me? No. No, I\u2019m not that kind of doctor."
+            ],
+            [
+                36,
+                "Oh, no, I see the confusion. No, the intent behind that clause was to force you to take care of me when I\u2019m ill. When you\u2019re feeling better, you\u2019ll think that\u2019s funny."
+            ],
+            [
+                38,
+                "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy. I made a commitment in writing to comfort you in times like this. Additionally, you are my girlfriend, and I care about your well-being."
+            ],
+            [
+                40,
+                "You\u2019re welcome. Now let\u2019s get this over with."
+            ],
+            [
+                57,
+                "102.2. Exactly what it was half an hour ago. It\u2019s like you\u2019re not even trying to get better."
+            ],
+            [
+                59,
+                "Well, not with that attitude."
+            ],
+            [
+                61,
+                "I\u2019m sorry. I just want you to get better as soon as possible. And with that goal in mind, let me ask you a question. Do you believe in the placebo effect?"
+            ],
+            [
+                63,
+                "Great. Now, this may look like a Tic Tac, but it is really a powerful medication specifically designed to cure your illness as well as freshen your breath."
+            ],
+            [
+                65,
+                "How can you sleep? I\u2019m not done making you feel better. I still have to put a cold rag on your head, sing to you and apply VapoRub to your chest."
+            ],
+            [
+                67,
+                "Yes. All over it."
+            ],
+            [
+                69,
+                "Now you\u2019re being a responsible patient. Now, you may notice some tingling."
+            ],
+            [
+                124,
+                "No. I need to get you down for a nap. And for some reason, that VapoRub gets you all fired up. (Opens door)"
+            ],
+            [
+                126,
+                "Oh, I\u2019m hanging in there. Thanks for asking."
+            ],
+            [
+                128,
+                "Uh, I\u2019m going to draw you a soothing bath. Where\u2019s your bath thermometer?"
+            ],
+            [
+                130,
+                "Fine. Then I\u2019m going to draw you a nerve-wracking bath of indeterminate temperature."
+            ],
+            [
+                158,
+                "I\u2019m surprised to hear that. See, the other day, I was concerned that you weren\u2019t recovering, so while you were sleeping, I took a cheek swab and had it cultured in the lab."
+            ],
+            [
+                160,
+                "I got the results back. Have you developed any of the following symptoms? A growing nose, or perhaps a warm sensation in the trouser region? Also known as full-blown liar, liar, pants on fire."
+            ],
+            [
+                162,
+                "It hurts that you would lie to me, Amy. I thought our relationship was based on trust and a mutual admiration that skews in my favour."
+            ],
+            [
+                164,
+                "It pains me to say it, but I think some form of penalty is in order, so as to discourage this type of behaviour in the future."
+            ],
+            [
+                166,
+                "In a perfect world, I\u2019d lock you in a stockade in the public square. That probably requires a permit."
+            ],
+            [
+                168,
+                "Oh, that seems overly harsh. I mean, you gave in to a human weakness, you didn\u2019t kill a man. You know, it\u2019s a tad old-school, but my father was not one to spare the rod when my brother would sneak into his truck and drink his driving whiskey."
+            ],
+            [
+                170,
+                "I don\u2019t want to. But it looks like you left me no choice."
+            ],
+            [
+                198,
+                "Are you prepared to receive your punishment?"
+            ],
+            [
+                200,
+                "Why?"
+            ],
+            [
+                202,
+                "Very well, then. Get over my knee. Let\u2019s begin."
+            ],
+            [
+                204,
+                "Excuse me. You\u2019re not supposed to be enjoying this."
+            ],
+            [
+                206,
+                "Maybe I will."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Why would it trouble you? It\u2019s, like, your third favourite cartoon theme song."
+            ],
+            [
+                11,
+                "Oh. Like Jaws 4, Indiana Jones 4, Daredevil 1."
+            ],
+            [
+                13,
+                "Penny\u2019s working tonight, I\u2019m in."
+            ],
+            [
+                15,
+                "Fun. We know how much you love that."
+            ],
+            [
+                24,
+                "That should lighten the mood."
+            ],
+            [
+                96,
+                "Raj is probably right. You should get someone to give you some pointers."
+            ],
+            [
+                98,
+                "No."
+            ],
+            [
+                114,
+                "I\u2019m no expert, but I think the hook has to go through the worm."
+            ],
+            [
+                118,
+                "Yeah, come on, Howard. Hook that worm."
+            ],
+            [
+                145,
+                "It\u2019s not our fault. Our dads never did anything like this with us."
+            ],
+            [
+                147,
+                "My dad was an anthropologist. The only father-son time he spent was with a 2,000-year-old skeleton of an Etruscan boy. I hated that kid."
+            ],
+            [
+                151,
+                "You know, maybe we didn\u2019t have opportunities like this when we were growing up, but right now, there\u2019s a dad that wants to take you on a fishing trip."
+            ]
+        ],
+        "Howard and Raj (together)": [
+            [
+                4,
+                "Turtle power!"
+            ]
+        ],
+        "Howard": [
+            [
+                6,
+                "Yeah, so?"
+            ],
+            [
+                9,
+                "It\u2019s heebie-jeebies."
+            ],
+            [
+                14,
+                "Not me. I\u2019m having dinner with Bernadette and her parents."
+            ],
+            [
+                16,
+                "It\u2019s torture. Especially with her dad. We have nothing in common."
+            ],
+            [
+                18,
+                "Thanks, Sheldon. I\u2019ll try that with my father-in-law."
+            ],
+            [
+                20,
+                "Great, thank you."
+            ],
+            [
+                42,
+                "So, how have you been?"
+            ],
+            [
+                44,
+                "Good. Fine is good. How you liking retirement?"
+            ],
+            [
+                46,
+                "I\u2019m sensing a theme. You ever really think about the Spider-Man theme song? How\u2019s that dinner coming?"
+            ],
+            [
+                48,
+                "I like rare chicken. Let\u2019s do this."
+            ],
+            [
+                50,
+                "Death by chicken. That\u2019s a pretty fowl way to go."
+            ],
+            [
+                53,
+                "So, Mrs. Rostenkowski, you took that trip to the Grand Canyon. How was it?"
+            ],
+            [
+                55,
+                "Had no idea you were the chatty one."
+            ],
+            [
+                72,
+                "Okay, dig in."
+            ],
+            [
+                74,
+                "Took the words right out of my mouth."
+            ],
+            [
+                77,
+                "Oh, you like to fish?"
+            ],
+            [
+                79,
+                "Sure. I can hear it in your voice."
+            ],
+            [
+                81,
+                "You know, I hadn\u2019t thought of that. (To Bernadette, whispering) Help me."
+            ],
+            [
+                83,
+                "No, no. We know each other well enough. He\u2019s been talking my ear off all night."
+            ],
+            [
+                87,
+                "Well, hang on a second, Bernie. Next weekend, we have that thing."
+            ],
+            [
+                89,
+                "You know, the thing."
+            ],
+            [
+                92,
+                "Great. (To Bernadette) Thanks for the help."
+            ],
+            [
+                94,
+                "I\u2019ve never even been fishing. This is gonna be a disaster."
+            ],
+            [
+                97,
+                "Do either of you guys know how to fish?"
+            ],
+            [
+                100,
+                "Come on, we must know somebody who can do manly stuff like this."
+            ],
+            [
+                105,
+                "Ew!"
+            ],
+            [
+                107,
+                "Really?"
+            ],
+            [
+                109,
+                "Okay."
+            ],
+            [
+                111,
+                "I don\u2019t know, for them to die of natural causes."
+            ],
+            [
+                113,
+                "Fine. There."
+            ],
+            [
+                115,
+                "Fine. Sorry, Mr. Worm. Sherm. Sherm the Worm."
+            ],
+            [
+                143,
+                "No, I\u2019m fine. Keep going."
+            ],
+            [
+                149,
+                "Yeah, well, my quality father-son time was spending my adolescence looking out the window waiting for my dad to come back someday."
+            ],
+            [
+                152,
+                "You\u2019re right. Oh! I should do this."
+            ],
+            [
+                154,
+                "Here we go. Oh!"
+            ],
+            [
+                173,
+                "Hi-ho, hi-ho, it\u2019s off to fish we go."
+            ],
+            [
+                175,
+                "No good? The guy at the sporting goods store said these are what fishermen wear."
+            ],
+            [
+                177,
+                "Wish I had known that before I posted all those pictures on Facebook."
+            ],
+            [
+                179,
+                "Wait, now we\u2019re shooting things?"
+            ],
+            [
+                181,
+                "Sir, I\u2019m flattered that you invited me, and I really want you to like me, but I don\u2019t think this trip is the way to do it. And I can\u2019t return these things if there\u2019s chunks of duck all over them."
+            ],
+            [
+                183,
+                "\u2018Cause Bernadette made me."
+            ],
+            [
+                185,
+                "Really? Your wife makes you do stuff? You\u2019re a big, scary cop."
+            ],
+            [
+                187,
+                "So, what do we do now? They expect us to go away for the weekend."
+            ],
+            [
+                189,
+                "No, but I\u2019m not a stranger to dice games. I was the Temple Beth-El Hebrew School Yahtzee champion."
+            ],
+            [
+                191,
+                "Really? Thank you, sir."
+            ],
+            [
+                193,
+                "Okay. Oh, boy, we\u2019re just married to a couple of ballbusters, huh, Mike?"
+            ],
+            [
+                195,
+                "Great couple of gals."
+            ]
+        ],
+        "Raj": [
+            [
+                8,
+                "an we change the subject? Spiders give me the jeebie-jeebies."
+            ],
+            [
+                10,
+                "I know, but that sounds anti-Semitic. Anyway, I was thinking we could have a little film festival tonight. The theme, movies that killed their franchises."
+            ],
+            [
+                22,
+                "What about you, Sheldon? Do you have any plans tonight?"
+            ],
+            [
+                95,
+                "If you don\u2019t want to look foolish doing something, you should practice. Do you know how many Beef Wellingtons I made by myself before I invited you guys over? I\u2019ll give you a hint. You can see them here, here and here."
+            ],
+            [
+                99,
+                "No. But if you catch anything, I know how to steam it in banana leaves."
+            ],
+            [
+                117,
+                "You got this, buddy."
+            ],
+            [
+                119,
+                "You can do it."
+            ],
+            [
+                148,
+                "Mine just took me to his gynecology office. I got so bored, I\u2019d put vaginal lubricant on the bottom of my shoes and pretend I was ice-skating."
+            ],
+            [
+                150,
+                "Yeah, okay, Howard wins."
+            ]
+        ],
+        "Raj: Miss Congeniality 2": [
+            [
+                12,
+                "Armed and Fabulous. I mean, you know a movie\u2019s bad when my homegirl Sandy B can\u2019t save it."
+            ]
+        ],
+        "Amy": [
+            [
+                29,
+                "Hello, Sheldon."
+            ],
+            [
+                31,
+                "I think I\u2019m too sick to go to the funeral."
+            ],
+            [
+                33,
+                "Sheldon, aren\u2019t you gonna take care of me?"
+            ],
+            [
+                35,
+                "But our relationship agreement clearly states that when one of us is sick, the other must take care of them."
+            ],
+            [
+                37,
+                "Never mind. Good night, Sheldon."
+            ],
+            [
+                39,
+                "Thank you, Sheldon."
+            ],
+            [
+                58,
+                "Sheldon, you don\u2019t get over the flu in half an hour."
+            ],
+            [
+                60,
+                "I have to say, I\u2019m finding your bedside manner a little lacking."
+            ],
+            [
+                62,
+                "Of course I do. There have been many studies proving its validity."
+            ],
+            [
+                64,
+                "Sheldon, this isn\u2019t helping. Why don\u2019t you just let me get some rest."
+            ],
+            [
+                66,
+                "You, you want to rub something on my chest?"
+            ],
+            [
+                68,
+                "Maybe we should start with that."
+            ],
+            [
+                70,
+                "Oh, I\u2019m counting on it."
+            ],
+            [
+                123,
+                "That was great. Rub my chest again. (Knock at door) "
+            ],
+            [
+                129,
+                "I don\u2019t have a bath thermometer."
+            ],
+            [
+                132,
+                "Okay, okay, here\u2019s the deal. I don\u2019t need your medicine. I\u2019m not sick."
+            ],
+            [
+                134,
+                "I got better two days ago. It\u2019s just been so nice having Sheldon take care of me."
+            ],
+            [
+                136,
+                "See the stuff in my nose? Rubber cement."
+            ],
+            [
+                138,
+                "All right. I\u2019ll tell him."
+            ],
+            [
+                140,
+                "I\u2019ll tell him tomorrow. Mama needs a bath."
+            ],
+            [
+                157,
+                "Oh, Sheldon, am I glad you\u2019re back. Taking a turn for the worst. I think I\u2019m going to need another bath."
+            ],
+            [
+                159,
+                "Oh?"
+            ],
+            [
+                161,
+                "All right, all right. But I really was sick at the beginning. It\u2019s just been so nice having you take care of me."
+            ],
+            [
+                163,
+                "I feel terrible I did this."
+            ],
+            [
+                165,
+                "I suppose that\u2019s fair. What do you suggest?"
+            ],
+            [
+                167,
+                "I could not be allowed to go to the opening of the next Star Trek movie."
+            ],
+            [
+                169,
+                "Are you saying you want to spank me?"
+            ],
+            [
+                171,
+                "That\u2019s true. I\u2019ve been a very bad girl."
+            ],
+            [
+                199,
+                "One second. I want to put on some music."
+            ],
+            [
+                201,
+                "I don\u2019t want to disturb the people next door while you discipline me."
+            ],
+            [
+                203,
+                "Oh, my."
+            ],
+            [
+                205,
+                "Then maybe you should spank me harder."
+            ],
+            [
+                207,
+                "Ooh!"
+            ]
+        ],
+        "Mr. Rostenkowski": [
+            [
+                43,
+                "Fine."
+            ],
+            [
+                45,
+                "It\u2019s fine."
+            ],
+            [
+                52,
+                "Thank you."
+            ],
+            [
+                73,
+                "Hold up. Bless us, O Lord for these Thy gifts which we are about to receive from Thy bounty through Christ our Lord. Amen."
+            ],
+            [
+                76,
+                "I\u2019m going next weekend."
+            ],
+            [
+                78,
+                "Yes."
+            ],
+            [
+                85,
+                "Fine, you can tag along."
+            ],
+            [
+                91,
+                "All right, it\u2019s settled. You and I are going fishing."
+            ],
+            [
+                174,
+                "That\u2019s what you\u2019re wearing?"
+            ],
+            [
+                176,
+                "Maybe in cartoons."
+            ],
+            [
+                178,
+                "All right, let\u2019s hit the road. I wouldn\u2019t mind shooting some ducks in the morning."
+            ],
+            [
+                180,
+                "I like using a big shell. You can\u2019t eat them afterwards, but it\u2019s fun watching them blow up."
+            ],
+            [
+                182,
+                "So, why\u2019d you agree to come?"
+            ],
+            [
+                184,
+                "I tried to back out, too. My wife said I had to go."
+            ],
+            [
+                186,
+                "You\u2019re an astronaut, and your wife makes you do things, and she\u2019s only four feet tall."
+            ],
+            [
+                188,
+                "Ah. There\u2019s an Indian casino near Palm Springs. You know how to shoot craps?"
+            ],
+            [
+                190,
+                "Mazel tov. I\u2019ll teach you how to play."
+            ],
+            [
+                192,
+                "Call me Mike."
+            ],
+            [
+                194,
+                "That\u2019s my wife and daughter you\u2019re talking about."
+            ],
+            [
+                196,
+                "I wouldn\u2019t go that far."
+            ]
+        ],
+        "Bernadette": [
+            [
+                47,
+                "I just put it in. It\u2019s gonna be a while."
+            ],
+            [
+                49,
+                "You could die."
+            ],
+            [
+                75,
+                "So, Dad, have you done any fishing lately?"
+            ],
+            [
+                82,
+                "Hey, Dad, maybe you could take Howard fishing sometime. Give you guys a chance to get to know each other better."
+            ],
+            [
+                84,
+                "Howie, I think you\u2019d have fun."
+            ],
+            [
+                86,
+                "Terrific. My two favorite fellas gone fishin\u2019."
+            ],
+            [
+                88,
+                "What thing?"
+            ],
+            [
+                90,
+                "Oh, that thing. No, I cancelled that thing."
+            ],
+            [
+                125,
+                "How\u2019s the poor thing?"
+            ],
+            [
+                127,
+                "Okay, Amy, I brought you some drugs we were working on in the lab. This is proving really good for congestion, but there\u2019s a slight chance it can make your tears burn like acid, so if you take it, happy thoughts."
+            ],
+            [
+                131,
+                "This is a really good expectorant. Although some test subjects reported lactating uncontrollably when they heard music."
+            ],
+            [
+                133,
+                "I don\u2019t understand."
+            ],
+            [
+                135,
+                "So you\u2019ve just been lying to him?"
+            ],
+            [
+                137,
+                "I don\u2019t mean to be judgy, but this is the kind of thing lunatics do."
+            ]
+        ],
+        "Mrs. Rostenkowski": [
+            [
+                51,
+                "Here\u2019s another beer, honey."
+            ],
+            [
+                54,
+                "It was good."
+            ],
+            [
+                80,
+                "Oh, if he didn\u2019t like it, he wouldn\u2019t go."
+            ]
+        ],
+        "Penny": [
+            [
+                102,
+                "S\u2019up?"
+            ],
+            [
+                104,
+                "Step one, worms."
+            ],
+            [
+                106,
+                "Okay, right there, ew is one of the things you\u2019re not gonna want to say in front of your father-in-law. It\u2019s right up there with icky and get it away. Now pick one up."
+            ],
+            [
+                108,
+                "You\u2019re gonna have to do it when you\u2019re fishing."
+            ],
+            [
+                110,
+                "What are you waiting for?"
+            ],
+            [
+                112,
+                "Just pick up a worm and put him on this hook."
+            ],
+            [
+                116,
+                "Hey, don\u2019t name him. Just jab a hook in his face."
+            ],
+            [
+                120,
+                "That\u2019s great. Cheerleading, way to man things up."
+            ],
+            [
+                142,
+                "Now, let\u2019s assume, by some miracle, you actually catch a fish. You\u2019re going to have to know how to gut it. So, what you\u2019re going to do is you\u2019re going to take your knife, slice him right up the belly. (Howard gags) You want me to stop?"
+            ],
+            [
+                144,
+                "All right. Now, you don\u2019t want to cut too deep into its guts, or the blood will just squirt all over your face. (Howard, Leonard and Raj gag) Oh, my God. What is with you guys?"
+            ],
+            [
+                146,
+                "What, never?"
+            ],
+            [
+                153,
+                "Great. Here you go. What you\u2019re going to do is you\u2019re going to stick your thumb down its throat, grab the guts and pull."
+            ],
+            [
+                155,
+                "Oh, look, it\u2019s a female. You can see all the eggs. (All the guys gag)"
+            ]
+        ],
+        "Sheldon (reading)": [
+            [
+                122,
+                "And the control group displayed significantly fewer genetic abnormalities. But, because of flaws in the experimental design relating to environment and diet, they lived inconclusively ever after. The end."
+            ]
+        ],
+        "Sheldon (off)": [
+            [
+                139,
+                "Amy, would you be strong enough to bathe yourself, or do you need my help?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Is anyone else troubled by the Spider-Man theme song?"
+        ],
+        [
+            "Leonard",
+            "Why would it trouble you? It\u2019s, like, your third favourite cartoon theme song."
+        ],
+        [
+            "Sheldon",
+            "It is, right behind do-do-do-do-do Inspector Gadget., and Teenage Mutant Ninja Turtles, heroes in a half-shell."
+        ],
+        [
+            "Howard and Raj (together)",
+            "Turtle power!"
+        ],
+        [
+            "Sheldon",
+            "However, the Spider-Man lyrics posit that Spider-Man, Spider-Man does whatever a spider can."
+        ],
+        [
+            "Howard",
+            "Yeah, so?"
+        ],
+        [
+            "Sheldon",
+            "I can think of many things Spider-Man can\u2019t do that a spider can. One, crawl in your ear and die. Two, legally leave Guatemala without a passport. Three, have sex with a spider."
+        ],
+        [
+            "Raj",
+            "an we change the subject? Spiders give me the jeebie-jeebies."
+        ],
+        [
+            "Howard",
+            "It\u2019s heebie-jeebies."
+        ],
+        [
+            "Raj",
+            "I know, but that sounds anti-Semitic. Anyway, I was thinking we could have a little film festival tonight. The theme, movies that killed their franchises."
+        ],
+        [
+            "Leonard",
+            "Oh. Like Jaws 4, Indiana Jones 4, Daredevil 1."
+        ],
+        [
+            "Raj: Miss Congeniality 2",
+            "Armed and Fabulous. I mean, you know a movie\u2019s bad when my homegirl Sandy B can\u2019t save it."
+        ],
+        [
+            "Leonard",
+            "Penny\u2019s working tonight, I\u2019m in."
+        ],
+        [
+            "Howard",
+            "Not me. I\u2019m having dinner with Bernadette and her parents."
+        ],
+        [
+            "Leonard",
+            "Fun. We know how much you love that."
+        ],
+        [
+            "Howard",
+            "It\u2019s torture. Especially with her dad. We have nothing in common."
+        ],
+        [
+            "Sheldon",
+            "You know what I like to do when I\u2019m forced to speak with those beneath my intellectual station? I bring up an interesting topic, like the difference between Spider-Man and spiders."
+        ],
+        [
+            "Howard",
+            "Thanks, Sheldon. I\u2019ll try that with my father-in-law."
+        ],
+        [
+            "Sheldon",
+            "No, you can\u2019t use that one. That\u2019s mine. Uh, try this one for an ice-breaker. Uh, despite popular lore, there is no place in the continental United States, Alaska or Hawaii from which one can dig straight through the centre of the earth and come up in China."
+        ],
+        [
+            "Howard",
+            "Great, thank you."
+        ],
+        [
+            "Sheldon",
+            "Actually, you can\u2019t have that one either. It\u2019s too good. Sorry."
+        ],
+        [
+            "Raj",
+            "What about you, Sheldon? Do you have any plans tonight?"
+        ],
+        [
+            "Sheldon",
+            "Sadly, yes. Amy\u2019s taking me to a memorial service. It\u2019s for one of her colleagues who is of Asian descent, so my planned conversational gambit is to casually remark that no matter how deep they dig his grave, he\u2019ll never make his way back to China."
+        ],
+        [
+            "Leonard",
+            "That should lighten the mood."
+        ],
+        [
+            "Sheldon",
+            "What can I say? I put the fun in funeral."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. Oh, right, funeral. (Knock, knock, knock) (solemnly) Amy."
+        ],
+        [
+            "Amy",
+            "Hello, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not allowed to wear my Silver Surfer neck tie, but you can wear a bathrobe?"
+        ],
+        [
+            "Amy",
+            "I think I\u2019m too sick to go to the funeral."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re sick? You poor kid. Well, see ya."
+        ],
+        [
+            "Amy",
+            "Sheldon, aren\u2019t you gonna take care of me?"
+        ],
+        [
+            "Sheldon",
+            "Me? No. No, I\u2019m not that kind of doctor."
+        ],
+        [
+            "Amy",
+            "But our relationship agreement clearly states that when one of us is sick, the other must take care of them."
+        ],
+        [
+            "Sheldon",
+            "Oh, no, I see the confusion. No, the intent behind that clause was to force you to take care of me when I\u2019m ill. When you\u2019re feeling better, you\u2019ll think that\u2019s funny."
+        ],
+        [
+            "Amy",
+            "Never mind. Good night, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy. I made a commitment in writing to comfort you in times like this. Additionally, you are my girlfriend, and I care about your well-being."
+        ],
+        [
+            "Amy",
+            "Thank you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re welcome. Now let\u2019s get this over with."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment. "
+        ],
+        [
+            "Howard",
+            "So, how have you been?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Fine."
+        ],
+        [
+            "Howard",
+            "Good. Fine is good. How you liking retirement?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "It\u2019s fine."
+        ],
+        [
+            "Howard",
+            "I\u2019m sensing a theme. You ever really think about the Spider-Man theme song? How\u2019s that dinner coming?"
+        ],
+        [
+            "Bernadette",
+            "I just put it in. It\u2019s gonna be a while."
+        ],
+        [
+            "Howard",
+            "I like rare chicken. Let\u2019s do this."
+        ],
+        [
+            "Bernadette",
+            "You could die."
+        ],
+        [
+            "Howard",
+            "Death by chicken. That\u2019s a pretty fowl way to go."
+        ],
+        [
+            "Mrs. Rostenkowski",
+            "Here\u2019s another beer, honey."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Thank you."
+        ],
+        [
+            "Howard",
+            "So, Mrs. Rostenkowski, you took that trip to the Grand Canyon. How was it?"
+        ],
+        [
+            "Mrs. Rostenkowski",
+            "It was good."
+        ],
+        [
+            "Howard",
+            "Had no idea you were the chatty one."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "102.2. Exactly what it was half an hour ago. It\u2019s like you\u2019re not even trying to get better."
+        ],
+        [
+            "Amy",
+            "Sheldon, you don\u2019t get over the flu in half an hour."
+        ],
+        [
+            "Sheldon",
+            "Well, not with that attitude."
+        ],
+        [
+            "Amy",
+            "I have to say, I\u2019m finding your bedside manner a little lacking."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. I just want you to get better as soon as possible. And with that goal in mind, let me ask you a question. Do you believe in the placebo effect?"
+        ],
+        [
+            "Amy",
+            "Of course I do. There have been many studies proving its validity."
+        ],
+        [
+            "Sheldon",
+            "Great. Now, this may look like a Tic Tac, but it is really a powerful medication specifically designed to cure your illness as well as freshen your breath."
+        ],
+        [
+            "Amy",
+            "Sheldon, this isn\u2019t helping. Why don\u2019t you just let me get some rest."
+        ],
+        [
+            "Sheldon",
+            "How can you sleep? I\u2019m not done making you feel better. I still have to put a cold rag on your head, sing to you and apply VapoRub to your chest."
+        ],
+        [
+            "Amy",
+            "You, you want to rub something on my chest?"
+        ],
+        [
+            "Sheldon",
+            "Yes. All over it."
+        ],
+        [
+            "Amy",
+            "Maybe we should start with that."
+        ],
+        [
+            "Sheldon",
+            "Now you\u2019re being a responsible patient. Now, you may notice some tingling."
+        ],
+        [
+            "Amy",
+            "Oh, I\u2019m counting on it."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Okay, dig in."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Hold up. Bless us, O Lord for these Thy gifts which we are about to receive from Thy bounty through Christ our Lord. Amen."
+        ],
+        [
+            "Howard",
+            "Took the words right out of my mouth."
+        ],
+        [
+            "Bernadette",
+            "So, Dad, have you done any fishing lately?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "I\u2019m going next weekend."
+        ],
+        [
+            "Howard",
+            "Oh, you like to fish?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Yes."
+        ],
+        [
+            "Howard",
+            "Sure. I can hear it in your voice."
+        ],
+        [
+            "Mrs. Rostenkowski",
+            "Oh, if he didn\u2019t like it, he wouldn\u2019t go."
+        ],
+        [
+            "Howard",
+            "You know, I hadn\u2019t thought of that. (To Bernadette, whispering) Help me."
+        ],
+        [
+            "Bernadette",
+            "Hey, Dad, maybe you could take Howard fishing sometime. Give you guys a chance to get to know each other better."
+        ],
+        [
+            "Howard",
+            "No, no. We know each other well enough. He\u2019s been talking my ear off all night."
+        ],
+        [
+            "Bernadette",
+            "Howie, I think you\u2019d have fun."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Fine, you can tag along."
+        ],
+        [
+            "Bernadette",
+            "Terrific. My two favorite fellas gone fishin\u2019."
+        ],
+        [
+            "Howard",
+            "Well, hang on a second, Bernie. Next weekend, we have that thing."
+        ],
+        [
+            "Bernadette",
+            "What thing?"
+        ],
+        [
+            "Howard",
+            "You know, the thing."
+        ],
+        [
+            "Bernadette",
+            "Oh, that thing. No, I cancelled that thing."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "All right, it\u2019s settled. You and I are going fishing."
+        ],
+        [
+            "Howard",
+            "Great. (To Bernadette) Thanks for the help."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Howard",
+            "I\u2019ve never even been fishing. This is gonna be a disaster."
+        ],
+        [
+            "Raj",
+            "If you don\u2019t want to look foolish doing something, you should practice. Do you know how many Beef Wellingtons I made by myself before I invited you guys over? I\u2019ll give you a hint. You can see them here, here and here."
+        ],
+        [
+            "Leonard",
+            "Raj is probably right. You should get someone to give you some pointers."
+        ],
+        [
+            "Howard",
+            "Do either of you guys know how to fish?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Raj",
+            "No. But if you catch anything, I know how to steam it in banana leaves."
+        ],
+        [
+            "Howard",
+            "Come on, we must know somebody who can do manly stuff like this."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "S\u2019up?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Step one, worms."
+        ],
+        [
+            "Howard",
+            "Ew!"
+        ],
+        [
+            "Penny",
+            "Okay, right there, ew is one of the things you\u2019re not gonna want to say in front of your father-in-law. It\u2019s right up there with icky and get it away. Now pick one up."
+        ],
+        [
+            "Howard",
+            "Really?"
+        ],
+        [
+            "Penny",
+            "You\u2019re gonna have to do it when you\u2019re fishing."
+        ],
+        [
+            "Howard",
+            "Okay."
+        ],
+        [
+            "Penny",
+            "What are you waiting for?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know, for them to die of natural causes."
+        ],
+        [
+            "Penny",
+            "Just pick up a worm and put him on this hook."
+        ],
+        [
+            "Howard",
+            "Fine. There."
+        ],
+        [
+            "Leonard",
+            "I\u2019m no expert, but I think the hook has to go through the worm."
+        ],
+        [
+            "Howard",
+            "Fine. Sorry, Mr. Worm. Sherm. Sherm the Worm."
+        ],
+        [
+            "Penny",
+            "Hey, don\u2019t name him. Just jab a hook in his face."
+        ],
+        [
+            "Raj",
+            "You got this, buddy."
+        ],
+        [
+            "Leonard",
+            "Yeah, come on, Howard. Hook that worm."
+        ],
+        [
+            "Raj",
+            "You can do it."
+        ],
+        [
+            "Penny",
+            "That\u2019s great. Cheerleading, way to man things up."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. "
+        ],
+        [
+            "Sheldon (reading)",
+            "And the control group displayed significantly fewer genetic abnormalities. But, because of flaws in the experimental design relating to environment and diet, they lived inconclusively ever after. The end."
+        ],
+        [
+            "Amy",
+            "That was great. Rub my chest again. (Knock at door) "
+        ],
+        [
+            "Sheldon",
+            "No. I need to get you down for a nap. And for some reason, that VapoRub gets you all fired up. (Opens door)"
+        ],
+        [
+            "Bernadette",
+            "How\u2019s the poor thing?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m hanging in there. Thanks for asking."
+        ],
+        [
+            "Bernadette",
+            "Okay, Amy, I brought you some drugs we were working on in the lab. This is proving really good for congestion, but there\u2019s a slight chance it can make your tears burn like acid, so if you take it, happy thoughts."
+        ],
+        [
+            "Sheldon",
+            "Uh, I\u2019m going to draw you a soothing bath. Where\u2019s your bath thermometer?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t have a bath thermometer."
+        ],
+        [
+            "Sheldon",
+            "Fine. Then I\u2019m going to draw you a nerve-wracking bath of indeterminate temperature."
+        ],
+        [
+            "Bernadette",
+            "This is a really good expectorant. Although some test subjects reported lactating uncontrollably when they heard music."
+        ],
+        [
+            "Amy",
+            "Okay, okay, here\u2019s the deal. I don\u2019t need your medicine. I\u2019m not sick."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t understand."
+        ],
+        [
+            "Amy",
+            "I got better two days ago. It\u2019s just been so nice having Sheldon take care of me."
+        ],
+        [
+            "Bernadette",
+            "So you\u2019ve just been lying to him?"
+        ],
+        [
+            "Amy",
+            "See the stuff in my nose? Rubber cement."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t mean to be judgy, but this is the kind of thing lunatics do."
+        ],
+        [
+            "Amy",
+            "All right. I\u2019ll tell him."
+        ],
+        [
+            "Sheldon (off)",
+            "Amy, would you be strong enough to bathe yourself, or do you need my help?"
+        ],
+        [
+            "Amy",
+            "I\u2019ll tell him tomorrow. Mama needs a bath."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Now, let\u2019s assume, by some miracle, you actually catch a fish. You\u2019re going to have to know how to gut it. So, what you\u2019re going to do is you\u2019re going to take your knife, slice him right up the belly. (Howard gags) You want me to stop?"
+        ],
+        [
+            "Howard",
+            "No, I\u2019m fine. Keep going."
+        ],
+        [
+            "Penny",
+            "All right. Now, you don\u2019t want to cut too deep into its guts, or the blood will just squirt all over your face. (Howard, Leonard and Raj gag) Oh, my God. What is with you guys?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s not our fault. Our dads never did anything like this with us."
+        ],
+        [
+            "Penny",
+            "What, never?"
+        ],
+        [
+            "Leonard",
+            "My dad was an anthropologist. The only father-son time he spent was with a 2,000-year-old skeleton of an Etruscan boy. I hated that kid."
+        ],
+        [
+            "Raj",
+            "Mine just took me to his gynecology office. I got so bored, I\u2019d put vaginal lubricant on the bottom of my shoes and pretend I was ice-skating."
+        ],
+        [
+            "Howard",
+            "Yeah, well, my quality father-son time was spending my adolescence looking out the window waiting for my dad to come back someday."
+        ],
+        [
+            "Raj",
+            "Yeah, okay, Howard wins."
+        ],
+        [
+            "Leonard",
+            "You know, maybe we didn\u2019t have opportunities like this when we were growing up, but right now, there\u2019s a dad that wants to take you on a fishing trip."
+        ],
+        [
+            "Howard",
+            "You\u2019re right. Oh! I should do this."
+        ],
+        [
+            "Penny",
+            "Great. Here you go. What you\u2019re going to do is you\u2019re going to stick your thumb down its throat, grab the guts and pull."
+        ],
+        [
+            "Howard",
+            "Here we go. Oh!"
+        ],
+        [
+            "Penny",
+            "Oh, look, it\u2019s a female. You can see all the eggs. (All the guys gag)"
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. Amy is dancing to \u201cWalking on Sunshine\u201d. Hears door and turns off stereo."
+        ],
+        [
+            "Amy",
+            "Oh, Sheldon, am I glad you\u2019re back. Taking a turn for the worst. I think I\u2019m going to need another bath."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m surprised to hear that. See, the other day, I was concerned that you weren\u2019t recovering, so while you were sleeping, I took a cheek swab and had it cultured in the lab."
+        ],
+        [
+            "Amy",
+            "Oh?"
+        ],
+        [
+            "Sheldon",
+            "I got the results back. Have you developed any of the following symptoms? A growing nose, or perhaps a warm sensation in the trouser region? Also known as full-blown liar, liar, pants on fire."
+        ],
+        [
+            "Amy",
+            "All right, all right. But I really was sick at the beginning. It\u2019s just been so nice having you take care of me."
+        ],
+        [
+            "Sheldon",
+            "It hurts that you would lie to me, Amy. I thought our relationship was based on trust and a mutual admiration that skews in my favour."
+        ],
+        [
+            "Amy",
+            "I feel terrible I did this."
+        ],
+        [
+            "Sheldon",
+            "It pains me to say it, but I think some form of penalty is in order, so as to discourage this type of behaviour in the future."
+        ],
+        [
+            "Amy",
+            "I suppose that\u2019s fair. What do you suggest?"
+        ],
+        [
+            "Sheldon",
+            "In a perfect world, I\u2019d lock you in a stockade in the public square. That probably requires a permit."
+        ],
+        [
+            "Amy",
+            "I could not be allowed to go to the opening of the next Star Trek movie."
+        ],
+        [
+            "Sheldon",
+            "Oh, that seems overly harsh. I mean, you gave in to a human weakness, you didn\u2019t kill a man. You know, it\u2019s a tad old-school, but my father was not one to spare the rod when my brother would sneak into his truck and drink his driving whiskey."
+        ],
+        [
+            "Amy",
+            "Are you saying you want to spank me?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t want to. But it looks like you left me no choice."
+        ],
+        [
+            "Amy",
+            "That\u2019s true. I\u2019ve been a very bad girl."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s parents\u2019 garage. "
+        ],
+        [
+            "Howard",
+            "Hi-ho, hi-ho, it\u2019s off to fish we go."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "That\u2019s what you\u2019re wearing?"
+        ],
+        [
+            "Howard",
+            "No good? The guy at the sporting goods store said these are what fishermen wear."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Maybe in cartoons."
+        ],
+        [
+            "Howard",
+            "Wish I had known that before I posted all those pictures on Facebook."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "All right, let\u2019s hit the road. I wouldn\u2019t mind shooting some ducks in the morning."
+        ],
+        [
+            "Howard",
+            "Wait, now we\u2019re shooting things?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "I like using a big shell. You can\u2019t eat them afterwards, but it\u2019s fun watching them blow up."
+        ],
+        [
+            "Howard",
+            "Sir, I\u2019m flattered that you invited me, and I really want you to like me, but I don\u2019t think this trip is the way to do it. And I can\u2019t return these things if there\u2019s chunks of duck all over them."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "So, why\u2019d you agree to come?"
+        ],
+        [
+            "Howard",
+            "\u2018Cause Bernadette made me."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "I tried to back out, too. My wife said I had to go."
+        ],
+        [
+            "Howard",
+            "Really? Your wife makes you do stuff? You\u2019re a big, scary cop."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "You\u2019re an astronaut, and your wife makes you do things, and she\u2019s only four feet tall."
+        ],
+        [
+            "Howard",
+            "So, what do we do now? They expect us to go away for the weekend."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Ah. There\u2019s an Indian casino near Palm Springs. You know how to shoot craps?"
+        ],
+        [
+            "Howard",
+            "No, but I\u2019m not a stranger to dice games. I was the Temple Beth-El Hebrew School Yahtzee champion."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Mazel tov. I\u2019ll teach you how to play."
+        ],
+        [
+            "Howard",
+            "Really? Thank you, sir."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Call me Mike."
+        ],
+        [
+            "Howard",
+            "Okay. Oh, boy, we\u2019re just married to a couple of ballbusters, huh, Mike?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "That\u2019s my wife and daughter you\u2019re talking about."
+        ],
+        [
+            "Howard",
+            "Great couple of gals."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "I wouldn\u2019t go that far."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. "
+        ],
+        [
+            "Sheldon",
+            "Are you prepared to receive your punishment?"
+        ],
+        [
+            "Amy",
+            "One second. I want to put on some music."
+        ],
+        [
+            "Sheldon",
+            "Why?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t want to disturb the people next door while you discipline me."
+        ],
+        [
+            "Sheldon",
+            "Very well, then. Get over my knee. Let\u2019s begin."
+        ],
+        [
+            "Amy",
+            "Oh, my."
+        ],
+        [
+            "Sheldon",
+            "Excuse me. You\u2019re not supposed to be enjoying this."
+        ],
+        [
+            "Amy",
+            "Then maybe you should spank me harder."
+        ],
+        [
+            "Sheldon",
+            "Maybe I will."
+        ],
+        [
+            "Amy",
+            "Ooh!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-10-the-fish-guts-displacement/"
+}

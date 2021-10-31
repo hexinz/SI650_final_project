@@ -1,0 +1,2042 @@
+{
+    "Season": 2,
+    "Episode": 1,
+    "Title": "the bad fish paradigm",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The stairwell."
+            ],
+            [
+                24,
+                "Cut to inside the apartment."
+            ],
+            [
+                54,
+                "Credits sequence"
+            ],
+            [
+                55,
+                "The laundry room. Sheldon is folding shirts. "
+            ],
+            [
+                94,
+                "The stairwell."
+            ],
+            [
+                118,
+                "The Cheesecake Factory"
+            ],
+            [
+                128,
+                "The apartment."
+            ],
+            [
+                163,
+                "Raj\u2019s apartment. "
+            ],
+            [
+                179,
+                "Howard\u2019s house. The door rings. "
+            ],
+            [
+                184,
+                "Howard\u2019s bedroom. Howard is in bed, Sheldon is on a blow up mattress on the floor."
+            ],
+            [
+                210,
+                "Sheldon and Leonard\u2019s apartment. There is an urgent rapping at the door."
+            ],
+            [
+                234,
+                "The hallway. Leonard is outside Penny\u2019s door."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "So you see, what you\u2019re eating is not technically yoghurt, because it doesn\u2019t have enough live acidophilus cultures. It\u2019s really just iced milk with carragenin added for thickness. "
+            ],
+            [
+                3,
+                "It\u2019s also not pink and has no berries."
+            ],
+            [
+                5,
+                "What was your question again?"
+            ],
+            [
+                7,
+                "Oh, right, no, I\u2019m lactose intolerant."
+            ],
+            [
+                9,
+                "So, gas."
+            ],
+            [
+                11,
+                "Well, good night. (They kiss. Camera cuts away to a wall mounted security cam above the lift. Leonard spots its movement and shuffles Penny away.)"
+            ],
+            [
+                13,
+                "There was a draft."
+            ],
+            [
+                15,
+                "Why don\u2019t we just go into your\u2026."
+            ],
+            [
+                17,
+                "No, no, I didn\u2019t mean to go into your apartment to\u2026 go fast. "
+            ],
+            [
+                19,
+                "Yeah, okay, sure, no problem, why don\u2019t we just figure out where we\u2019re going, and when we want to get there, and then rate of speed equals distance over time. Solve for R."
+            ],
+            [
+                21,
+                "That might work too. "
+            ],
+            [
+                23,
+                "Goodnight. (He throws the camera a dirty look.) "
+            ],
+            [
+                27,
+                "Bite me. Sheldon, how could you just sit there and let them spy on me?"
+            ],
+            [
+                30,
+                "What are you talking about, the date went fine. "
+            ],
+            [
+                32,
+                "Okay, so, she said she wants to slow things down. It\u2019s like saying \u201cI\u2019m really enjoying this meal, I\u2019m going to slow down and savour it.\u201d "
+            ],
+            [
+                35,
+                "I\u2019m not the fish. "
+            ],
+            [
+                37,
+                "Well, we sort of decided to wing it. "
+            ],
+            [
+                39,
+                "Okay, alright, let\u2019s assume your hypothesis. We went to dinner, we talked, we laughed, we kissed, where could I have possibly gone wrong. "
+            ],
+            [
+                41,
+                "I didn\u2019t say anything like that."
+            ],
+            [
+                44,
+                "Look, everything went fine. I didn\u2019t even have to refer to my impromptu conversation starters. The woman across the hall is into me. "
+            ],
+            [
+                48,
+                "That\u2019s not a bad sign."
+            ],
+            [
+                51,
+                "I\u2019m not there because I\u2019m taking things slow. Which, by the way, compared to you guys approaches warp speed. And take down that camera. "
+            ],
+            [
+                96,
+                "You could be Batman?"
+            ],
+            [
+                99,
+                "Hey."
+            ],
+            [
+                101,
+                "Hey, Penny, if you\u2019re not doing anything Friday night I thought maybe we could go and see a movie. "
+            ],
+            [
+                103,
+                "What about Saturday?"
+            ],
+            [
+                105,
+                "Great. So you just let me know when you know. So\u2026 (she leaves) Oh God, I am the bad fish! What did I do wrong?"
+            ],
+            [
+                109,
+                "No I didn\u2019t."
+            ],
+            [
+                111,
+                "What\u2019s going on with you?"
+            ],
+            [
+                113,
+                "What\u2019s wrong with your face? "
+            ],
+            [
+                115,
+                "What? "
+            ],
+            [
+                117,
+                "Good day? "
+            ],
+            [
+                130,
+                "What do you mean, you\u2019re moving out? Why? "
+            ],
+            [
+                132,
+                "Yeah, there kind of does."
+            ],
+            [
+                134,
+                "I\u2019m still confused."
+            ],
+            [
+                141,
+                "It\u2019s not you, Howard, he says he\u2019s moving out. "
+            ],
+            [
+                143,
+                "No."
+            ],
+            [
+                145,
+                "No."
+            ],
+            [
+                148,
+                "No. "
+            ],
+            [
+                150,
+                "I didn\u2019t do anything, he\u2019s just gone insane."
+            ],
+            [
+                152,
+                "That was fast. "
+            ],
+            [
+                154,
+                "Where are you gonna live? "
+            ],
+            [
+                162,
+                "This could work. "
+            ],
+            [
+                211,
+                "I\u2019m coming! (Opens the door. Sheldon falls inside, wearing his pyjamas. Howard is outside.)"
+            ],
+            [
+                213,
+                "What\u2019s with him?"
+            ],
+            [
+                216,
+                "I still don\u2019t know why you left."
+            ],
+            [
+                218,
+                "Why not."
+            ],
+            [
+                220,
+                "You promised Penny what? "
+            ],
+            [
+                222,
+                "What secret. Tell me the secret. "
+            ],
+            [
+                224,
+                "Not that secret, the other secret."
+            ],
+            [
+                226,
+                "Dammit, Sheldon! You said Penny told you a secret, what was the secret."
+            ],
+            [
+                228,
+                "I promise. "
+            ],
+            [
+                230,
+                "So it\u2019s nothing I did? It\u2019s her problem? "
+            ],
+            [
+                232,
+                "Penny thinks I\u2019m too smart for her, that\u2019s ridiculous. "
+            ],
+            [
+                236,
+                "Yeah, hi, listen, I know what\u2019s been bothering you about us, and I have the answer. "
+            ],
+            [
+                238,
+                "First I want to say that it\u2019s not Sheldon\u2019s fault, he tried very hard to keep your secret, if Howard hadn\u2019t drugged him he would have taken it to his grave. "
+            ],
+            [
+                240,
+                "Yes, but it\u2019s okay. Now that we know what the problem is, there\u2019s a simple solution. (Hands her a brochure.) "
+            ],
+            [
+                242,
+                "A place for fun, a place for knowledge. See, this man here\u2019s playing hacky sack, and this girl\u2019s going to be a paralegal. "
+            ],
+            [
+                244,
+                "Well, it\u2019s really not that fancy, it\u2019s just a city college. "
+            ],
+            [
+                246,
+                "That doesn\u2019t matter to me at all."
+            ],
+            [
+                248,
+                "Absolutely. (She slams the door in his face.) Okay, this time I know where I went wrong. (Looking up and seeing the camera) Oh bite me! "
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "Oh, that\u2019s very interesting."
+            ],
+            [
+                4,
+                "Yeah, but it doesn\u2019t really answer my question."
+            ],
+            [
+                6,
+                "Do you want some."
+            ],
+            [
+                8,
+                "Right."
+            ],
+            [
+                10,
+                "Got it. "
+            ],
+            [
+                12,
+                "What are you doing?"
+            ],
+            [
+                14,
+                "I didn\u2019t feel a draft. "
+            ],
+            [
+                16,
+                "Oh, yeah, you know what, maybe we should just slow things down a little."
+            ],
+            [
+                18,
+                "No, I know, I\u2026 I know what you meant, it\u2019s just\u2026 it\u2019s only our first date."
+            ],
+            [
+                20,
+                "Or we could just wing it. "
+            ],
+            [
+                22,
+                "Goodnight Leonard."
+            ],
+            [
+                60,
+                "Sheldon, may I ask you a question? "
+            ],
+            [
+                62,
+                "Alright, I heard yes, so\u2026 okay, here\u2019s my question, has Leonard ever dated, you know, a regular girl. "
+            ],
+            [
+                64,
+                "No, I meant has he ever been involved with someone who wasn\u2019t a braniac? "
+            ],
+            [
+                66,
+                "How is that not a braniac? "
+            ],
+            [
+                68,
+                "So, do you think that if Leonard and I keep dating he\u2019ll eventually get bored with me. "
+            ],
+            [
+                70,
+                "On what? "
+            ],
+            [
+                72,
+                "No."
+            ],
+            [
+                74,
+                "No."
+            ],
+            [
+                76,
+                "Okay, okay, you know, I get it, Leonard has no business being involved with a waitress slash actress who felt so insecure that she lied to him about finishing community college. "
+            ],
+            [
+                78,
+                "Well, he was going on and on about this college and that grad school and I didn\u2019t want him to think I was some stupid loser. "
+            ],
+            [
+                80,
+                "You know, there are a lot of successful people in this country who are community college graduates. "
+            ],
+            [
+                82,
+                "Right, okay look, this is between you and me, you cannot tell Leonard any of this. "
+            ],
+            [
+                84,
+                "Yeah. "
+            ],
+            [
+                86,
+                "What? "
+            ],
+            [
+                88,
+                "Okay, look, if Leonard finds out that I lied, I will absolutely die of embarrassment. "
+            ],
+            [
+                90,
+                "Oh Sheldon, please, look, I\u2019m asking you as a friend. "
+            ],
+            [
+                92,
+                "Well, yeah. "
+            ],
+            [
+                102,
+                "Oh, um, you know, I think I have the dinner shift on Friday."
+            ],
+            [
+                104,
+                "You know, I\u2019m not sure, the manager hasn\u2019t posted the schedule yet, how about I let you know."
+            ],
+            [
+                119,
+                "Also today we have a fresh caught Alaska salmon, and that\u2019s served with a teriyaki glaze and sticky rice. Our soup of the day\u2026"
+            ],
+            [
+                121,
+                "Sheldon, I\u2019m working."
+            ],
+            [
+                123,
+                "Oh, look, why is it so hard for you to keep one little secret?"
+            ],
+            [
+                125,
+                "Look, just forget I told you about me not graduating from community college. Okay?"
+            ],
+            [
+                127,
+                "Okay, look, you promised me you would keep my secret so you\u2019re just going to have to figure out a way to do it."
+            ],
+            [
+                237,
+                "What are you talking about."
+            ],
+            [
+                239,
+                "He told you?"
+            ],
+            [
+                241,
+                "Pasadena city college? "
+            ],
+            [
+                243,
+                "Wow, I get it, because Dr Leonard Hofstadter can\u2019t date a girl without a fancy college degree. "
+            ],
+            [
+                245,
+                "Right, but I have to have some sort of degree to date you? "
+            ],
+            [
+                247,
+                "So, it\u2019s fine with you if I\u2019m not smart. "
+            ]
+        ],
+        "Raj": [
+            [
+                25,
+                "He\u2019s coming. Screen saver. "
+            ],
+            [
+                31,
+                "Dude, she said she wants to slow things down."
+            ],
+            [
+                34,
+                "You being the fish."
+            ],
+            [
+                43,
+                "They also don\u2019t care for it if you stare at them and hyperventilate. Sadly, that\u2019s my home run swing. "
+            ],
+            [
+                46,
+                "Nice close up, by the way. "
+            ],
+            [
+                50,
+                "And the worst sign of all is, you\u2019re here and not there. "
+            ],
+            [
+                52,
+                "He was a lot more fun when he had no hope. "
+            ],
+            [
+                137,
+                "We just got back from that exhibit of those plasticised human cadavers."
+            ],
+            [
+                142,
+                "What did you do? Did you change the contrast or brightness settings on the television?"
+            ],
+            [
+                144,
+                "Did you take a band aid off in front of him? "
+            ],
+            [
+                147,
+                "Adjust the thermostat, cook with cilantro, pronounce the T in often? "
+            ],
+            [
+                151,
+                "Well, we all knew this day was coming. "
+            ],
+            [
+                157,
+                "Well you can\u2019t stay with me, I have a teeny tiny apartment. "
+            ],
+            [
+                159,
+                "I hate trains. "
+            ],
+            [
+                161,
+                "Yes I do, come on. See you later Leonard. (Sheldon drops keys in bowl and leaves without a word.)"
+            ],
+            [
+                165,
+                "Sixty years. Used to be a watch factory. "
+            ],
+            [
+                167,
+                "What? "
+            ],
+            [
+                169,
+                "Not until now. "
+            ],
+            [
+                171,
+                "Well, if you\u2019re not comfortable staying here, Sheldon\u2026"
+            ],
+            [
+                173,
+                "Terrific. "
+            ],
+            [
+                175,
+                "Yes, isn\u2019t she an amazing actress."
+            ],
+            [
+                177,
+                "How dare you. Aishwarya Rai is a Goddess. By comparison Madhuri Dixit is a leprous prostitute."
+            ],
+            [
+                182,
+                "Tag. You\u2019re it. (Runs away.) "
+            ]
+        ],
+        "Howard": [
+            [
+                26,
+                "Oh, hey, Leonard, how was your date?"
+            ],
+            [
+                29,
+                "You should thank us. When future generations try to determine why your relationship with Penny crashed and burned, this right here is the black box. "
+            ],
+            [
+                33,
+                "No, it\u2019s like \u201cthis fish tastes bad, so I\u2019m going to slow down and spit it out.\u201d"
+            ],
+            [
+                36,
+                "Oh really, did you make a second date."
+            ],
+            [
+                42,
+                "Good, \u2018cos they don\u2019t work. "
+            ],
+            [
+                45,
+                "Let\u2019s go to the tape. Look at her reaction to the goodnight kiss, no change in respiration, pupils un-dilated, no flushing of the chest."
+            ],
+            [
+                53,
+                "Give him time."
+            ],
+            [
+                138,
+                "And some of those skinless chicks were hot. "
+            ],
+            [
+                140,
+                "That\u2019s kind of an overreaction to a little harmless necrophilia. "
+            ],
+            [
+                146,
+                "Did you buy generic ketchup, forget to rinse the sink, talk to him through the bathroom door? "
+            ],
+            [
+                149,
+                "Did you make fun of trains? "
+            ],
+            [
+                156,
+                "Bye (runs out.) "
+            ],
+            [
+                180,
+                "Who is it?"
+            ],
+            [
+                183,
+                "Shouldn\u2019t you have put him in a brown paper bag and set him on fire? "
+            ],
+            [
+                186,
+                "Maybe you\u2019d be happier on a park bench? "
+            ],
+            [
+                188,
+                "Do you want to switch?"
+            ],
+            [
+                190,
+                "Get out of bed, we\u2019re switching."
+            ],
+            [
+                192,
+                "Just get in the bed!"
+            ],
+            [
+                194,
+                "We\u2019re just talking ma. "
+            ],
+            [
+                196,
+                "For God\u2019s sake, ma, I\u2019m 27 years old. It\u2019s not even a school night! (To Sheldon) Comfy now?"
+            ],
+            [
+                198,
+                "So don\u2019t look at it."
+            ],
+            [
+                200,
+                "No kidding?"
+            ],
+            [
+                202,
+                "What about Lee Meriwether?"
+            ],
+            [
+                204,
+                "Well I\u2019m glad that\u2019s settled. "
+            ],
+            [
+                206,
+                "Please, I\u2019m begging you, go to sleep."
+            ],
+            [
+                208,
+                "Oh for God\u2019s sake."
+            ],
+            [
+                214,
+                "Koothrappali dumped him on me, and he couldn\u2019t get to sleep, so I gave him a glass of warm milk with a handful of my mom\u2019s valium in it. But he still wouldn\u2019t shut up, so, tag, you\u2019re it. "
+            ]
+        ],
+        "Sheldon": [
+            [
+                28,
+                "They were clever, Leonard. They exploited my complete lack of interest in what you were doing. "
+            ],
+            [
+                38,
+                "Oh, even I know that\u2019s lame. "
+            ],
+            [
+                47,
+                "Interesting, her jaws are clenched, no tongue access, clearly a bad sign amongst mating humans. "
+            ],
+            [
+                49,
+                "Please, you might as well have been two iguana with no dewlap enlargement. "
+            ],
+            [
+                57,
+                "Oh, hi Penny. FYI, the hot water is inadequate on machine 2 so colours only, and 4 is still releasing the fabric softener too early in the cycle so I\u2019d avoid using that for your delicates. "
+            ],
+            [
+                59,
+                "Oh, good Lord. Why don\u2019t you just take your clothes down to the river and beat them with a rock? "
+            ],
+            [
+                61,
+                "I would prefer that you not, but I won\u2019t go so far as to forbid it. "
+            ],
+            [
+                63,
+                "Well I assume you\u2019re not referring to digestive regularity? Because I\u2019ve come to learn that such inquiries are inappropriate. "
+            ],
+            [
+                65,
+                "Oh. Well, a few years ago he did go out with a woman who had a PhD in French Literature. "
+            ],
+            [
+                67,
+                "Well, for one thing, she was French. For another, it was literature. "
+            ],
+            [
+                69,
+                "That depends."
+            ],
+            [
+                71,
+                "Do you have a working knowledge of quantum physics? "
+            ],
+            [
+                73,
+                "Do you speak Klingon? "
+            ],
+            [
+                75,
+                "Do you know any card tricks?"
+            ],
+            [
+                77,
+                "Why would you lie about that?"
+            ],
+            [
+                79,
+                "You thought the opposite of stupid loser was community college graduate? "
+            ],
+            [
+                81,
+                "Yeah, but you were neither. "
+            ],
+            [
+                83,
+                "You\u2019re asking me to keep a secret?"
+            ],
+            [
+                85,
+                "Well I\u2019m sorry, but you would have had to express that desire before revealing the secret, so that I could choose whether or not I wanted to accept the covenant of secret keeping. You can\u2019t impose a secret on an ex post facto basis. "
+            ],
+            [
+                87,
+                "Secret keeping is a complicated endeavour. One has to be concerned not only about what one says, but about facial expression, autonomic reflexes, when I try to deceive, I myself have more nervous tics than a lyme disease research facility. (Long pause.) It\u2019s a joke. It relies on the hominymic relationship between tick the blood-sucking arachnid, and tic the involuntary muscular contraction. I made it up myself. "
+            ],
+            [
+                89,
+                "Physiologically impossible."
+            ],
+            [
+                91,
+                "So you\u2019re saying that friendship contains within it an inherent obligation to maintain confidences?"
+            ],
+            [
+                93,
+                "Interesting. See, one more question, and perhaps I should have led with this, when did we become friends? "
+            ],
+            [
+                95,
+                "I.e, I couldn\u2019t become Green Lantern unless I was chosen by the guardians of Oa, but given enough start-up capital and an adequate research facility, I could be Batman."
+            ],
+            [
+                97,
+                "Sure. (In a gravelly voice) I\u2019m Batman. See."
+            ],
+            [
+                106,
+                "Why are you asking me, I have no information about your interactions with Penny other than what you provided me, nor do I have any method of learning such things. (Runs away.) "
+            ],
+            [
+                108,
+                "Nothing. You seem to be implying an informational back channel between me and Penny where obviously none exists."
+            ],
+            [
+                110,
+                "I just think you need to be careful how you phrase things, sir. "
+            ],
+            [
+                112,
+                "Well I might ask you the same question. Why do you insist on attempting to drag me into matters which have nothing to do with me? But exist between you and Penny. A person to whom I barely speak. (His eye begins to twitch.) "
+            ],
+            [
+                114,
+                "There\u2019s no reason to bring my looks into this. Good day, Leonard."
+            ],
+            [
+                116,
+                "I said Good Day! (He leaves)"
+            ],
+            [
+                122,
+                "Why don\u2019t you take a minute to decide (leads her away) I can\u2019t keep your secret Penny. I\u2019m going to fold like an energy based anobo protein in conformational space. Like a renaissance triptych. Like a cheap suit."
+            ],
+            [
+                124,
+                "I\u2019m constitutionally incapable. That\u2019s why I was refused clearance for a very prestigious government research fellowship at a secret military supercollider, located beneath a fake agricultural station 12.5 miles south east of Travers City, Michigan. Which you did not hear about from me. "
+            ],
+            [
+                126,
+                "Forget! You want me to forget? This mind does not forget. I haven\u2019t forgotten a single thing since the day my mother stopped breast feeding me. It was a drizzly Tuesday."
+            ],
+            [
+                131,
+                "There doesn\u2019t have to be a reason. "
+            ],
+            [
+                133,
+                "Not necessarily. This is a classic example of munchausen\u2019s trilemma. Either the reason is predicated on a series of sub-reasons leading to an infinite regression, or it tracks back to arbitrary axiomatic statements, or it\u2019s ultimately circular, i.e., I\u2019m moving out because I\u2019m moving out. "
+            ],
+            [
+                135,
+                "Leonard, I don\u2019t see how I could have made it any simpler. "
+            ],
+            [
+                139,
+                "If you\u2019ll excuse me, I\u2019m going to pack. "
+            ],
+            [
+                153,
+                "It\u2019s my pre-packed disaster evacuation bag. Recommended by the department of homeland security. And Sarah Connor. "
+            ],
+            [
+                155,
+                "Until I find a permanent place I will stay with friends. "
+            ],
+            [
+                158,
+                "Excuse me, but isn\u2019t hosting guests an aspect of Menushya Yajna, one of the five central religious duties or sacrifices of the Hindu householder? "
+            ],
+            [
+                160,
+                "Don\u2019t be ridiculous, you love trains. "
+            ],
+            [
+                164,
+                "This is a very old building. "
+            ],
+            [
+                166,
+                "Uh-oh."
+            ],
+            [
+                168,
+                "Don\u2019t you worry about the residual radium from the luminous dials?"
+            ],
+            [
+                170,
+                "I can\u2019t believe I didn\u2019t bring my gieger counter. You know, I had it on my bed and I didn\u2019t pack it. "
+            ],
+            [
+                172,
+                "I\u2019m kidding, I packed it. It was a joke, I was subverting the conversational expectations. I believe they call that the, um, old switcheroo. "
+            ],
+            [
+                176,
+                "Actually, I\u2019d say she\u2019s a poor man\u2019s Madhuri Dixit. "
+            ],
+            [
+                178,
+                "Sorry, I didn\u2019t mean to offend you. Obviously you\u2019re not that familiar with Indian cinema. "
+            ],
+            [
+                185,
+                "I\u2019ve never slept on an air mattress before. No lumbar support whatsoever. "
+            ],
+            [
+                187,
+                "I don\u2019t see any way to get a park bench in here."
+            ],
+            [
+                189,
+                "No, that\u2019s fine. I\u2019m perfectly comfortable sleeping on a bouncy castle. "
+            ],
+            [
+                191,
+                "Now, only if you want to."
+            ],
+            [
+                197,
+                "Meh. That poster of Halle Berry\u2019s a little unnerving. "
+            ],
+            [
+                199,
+                "She\u2019s like my fourth favourite catwoman."
+            ],
+            [
+                201,
+                "Yeah, Julie Newmar, Michelle Pfieffer, Eartha Kitt and then her. "
+            ],
+            [
+                203,
+                "Oh, I forgot about Lee Meriwether."
+            ],
+            [
+                205,
+                "That makes Halle Berry my fifth favourite catwoman. There\u2019s Julie Newmar, Michelle Pfieffer, Eartha Kitt, Lee Meriwether\u2026"
+            ],
+            [
+                207,
+                "I\u2019m trying, I\u2019m counting catwomen. She did make a fine mutant in the X-Men movies though."
+            ],
+            [
+                209,
+                "But she\u2019s not my favourite of the X-Men, in order that would be Wolverine, Cyclops, oh wait, I forgot Professor X. Professor X, Wolverine, Cyclops, Iceman, then Storm, Angel, the Beast, oh wait, Nightcrawler. Professor X, Nightcrawler, Wolverine, Cyclops, Iceman, then Storm, Angel\u2026."
+            ],
+            [
+                212,
+                "Hey, there he is, there\u2019s my old buddy-bud-bud. "
+            ],
+            [
+                215,
+                "I\u2019m ba-ack!"
+            ],
+            [
+                217,
+                "I can\u2019t tell you."
+            ],
+            [
+                219,
+                "I promised Penny. "
+            ],
+            [
+                221,
+                "That I wouldn\u2019t tell you the secret. Shhhhh!"
+            ],
+            [
+                223,
+                "Mom smokes in the car. Jesus is okay with it, but we can\u2019t tell Dad. "
+            ],
+            [
+                225,
+                "I\u2019m Batman. Shhhhh!"
+            ],
+            [
+                227,
+                "Okay, I\u2019ll tell you, but you can\u2019t tell Leonard. "
+            ],
+            [
+                229,
+                "Penny lied about graduating from community college because she is afraid she\u2019s not smart enough for Leonard. "
+            ],
+            [
+                231,
+                "I drank milk that tasted funny. "
+            ],
+            [
+                233,
+                "I know, most of your work is extremely derivative. Don\u2019t worry, that\u2019s not a secret. Everybody knows. "
+            ]
+        ],
+        "\u00a0Howard": [
+            [
+                40,
+                "Think back, Leonard, the littlest things can set women off. Like, hey, the waitress is hot, I bet we could get her to come home with us. Or, how much does your mom weigh, I want to know what I\u2019m getting into."
+            ]
+        ],
+        "Penny (entering)": [
+            [
+                56,
+                "Hi."
+            ]
+        ],
+        "Penny (tipping all her laundry into one machine at once)": [
+            [
+                58,
+                "Thanks. "
+            ]
+        ],
+        "Penny (arriving)": [
+            [
+                98,
+                "Hi guys."
+            ]
+        ],
+        "Sheldon (looking the other way uncomfortably)": [
+            [
+                100,
+                "Hi Penny."
+            ]
+        ],
+        "Leonard (chasing him)": [
+            [
+                107,
+                "What does that mean?"
+            ]
+        ],
+        "Sheldon (appearing behind her)": [
+            [
+                120,
+                "You must release me from my oath. "
+            ]
+        ],
+        "Sheldon (entering)": [
+            [
+                129,
+                "Leonard, I\u2019m moving out. "
+            ]
+        ],
+        "Howard (entering)": [
+            [
+                136,
+                "Hey, qu\u2019est q\u2019wass up?"
+            ]
+        ],
+        "Sheldon (referring to Bollywood singing on television)": [
+            [
+                174,
+                "Is that woman Aishwarya Rai?"
+            ]
+        ],
+        "Voice": [
+            [
+                181,
+                "Strippergram. (Howard opens door. Outside are Raj and Sheldon.)"
+            ]
+        ],
+        "Howard\u2019s mother (off)": [
+            [
+                193,
+                "What\u2019s going on? Are you boys roughhousing? "
+            ]
+        ],
+        "Howard\u2019s mother": [
+            [
+                195,
+                "If you don\u2019t settle down right now, I\u2019m not going to let you have any more sleepovers. "
+            ]
+        ],
+        "Penny (opening door)": [
+            [
+                235,
+                "Hi."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Leonard",
+            "So you see, what you\u2019re eating is not technically yoghurt, because it doesn\u2019t have enough live acidophilus cultures. It\u2019s really just iced milk with carragenin added for thickness. "
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s very interesting."
+        ],
+        [
+            "Leonard",
+            "It\u2019s also not pink and has no berries."
+        ],
+        [
+            "Penny",
+            "Yeah, but it doesn\u2019t really answer my question."
+        ],
+        [
+            "Leonard",
+            "What was your question again?"
+        ],
+        [
+            "Penny",
+            "Do you want some."
+        ],
+        [
+            "Leonard",
+            "Oh, right, no, I\u2019m lactose intolerant."
+        ],
+        [
+            "Penny",
+            "Right."
+        ],
+        [
+            "Leonard",
+            "So, gas."
+        ],
+        [
+            "Penny",
+            "Got it. "
+        ],
+        [
+            "Leonard",
+            "Well, good night. (They kiss. Camera cuts away to a wall mounted security cam above the lift. Leonard spots its movement and shuffles Penny away.)"
+        ],
+        [
+            "Penny",
+            "What are you doing?"
+        ],
+        [
+            "Leonard",
+            "There was a draft."
+        ],
+        [
+            "Penny",
+            "I didn\u2019t feel a draft. "
+        ],
+        [
+            "Leonard",
+            "Why don\u2019t we just go into your\u2026."
+        ],
+        [
+            "Penny",
+            "Oh, yeah, you know what, maybe we should just slow things down a little."
+        ],
+        [
+            "Leonard",
+            "No, no, I didn\u2019t mean to go into your apartment to\u2026 go fast. "
+        ],
+        [
+            "Penny",
+            "No, I know, I\u2026 I know what you meant, it\u2019s just\u2026 it\u2019s only our first date."
+        ],
+        [
+            "Leonard",
+            "Yeah, okay, sure, no problem, why don\u2019t we just figure out where we\u2019re going, and when we want to get there, and then rate of speed equals distance over time. Solve for R."
+        ],
+        [
+            "Penny",
+            "Or we could just wing it. "
+        ],
+        [
+            "Leonard",
+            "That might work too. "
+        ],
+        [
+            "Penny",
+            "Goodnight Leonard."
+        ],
+        [
+            "Leonard",
+            "Goodnight. (He throws the camera a dirty look.) "
+        ],
+        [
+            "Scene",
+            "Cut to inside the apartment."
+        ],
+        [
+            "Raj",
+            "He\u2019s coming. Screen saver. "
+        ],
+        [
+            "Howard",
+            "Oh, hey, Leonard, how was your date?"
+        ],
+        [
+            "Leonard",
+            "Bite me. Sheldon, how could you just sit there and let them spy on me?"
+        ],
+        [
+            "Sheldon",
+            "They were clever, Leonard. They exploited my complete lack of interest in what you were doing. "
+        ],
+        [
+            "Howard",
+            "You should thank us. When future generations try to determine why your relationship with Penny crashed and burned, this right here is the black box. "
+        ],
+        [
+            "Leonard",
+            "What are you talking about, the date went fine. "
+        ],
+        [
+            "Raj",
+            "Dude, she said she wants to slow things down."
+        ],
+        [
+            "Leonard",
+            "Okay, so, she said she wants to slow things down. It\u2019s like saying \u201cI\u2019m really enjoying this meal, I\u2019m going to slow down and savour it.\u201d "
+        ],
+        [
+            "Howard",
+            "No, it\u2019s like \u201cthis fish tastes bad, so I\u2019m going to slow down and spit it out.\u201d"
+        ],
+        [
+            "Raj",
+            "You being the fish."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not the fish. "
+        ],
+        [
+            "Howard",
+            "Oh really, did you make a second date."
+        ],
+        [
+            "Leonard",
+            "Well, we sort of decided to wing it. "
+        ],
+        [
+            "Sheldon",
+            "Oh, even I know that\u2019s lame. "
+        ],
+        [
+            "Leonard",
+            "Okay, alright, let\u2019s assume your hypothesis. We went to dinner, we talked, we laughed, we kissed, where could I have possibly gone wrong. "
+        ],
+        [
+            "\u00a0Howard",
+            "Think back, Leonard, the littlest things can set women off. Like, hey, the waitress is hot, I bet we could get her to come home with us. Or, how much does your mom weigh, I want to know what I\u2019m getting into."
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t say anything like that."
+        ],
+        [
+            "Howard",
+            "Good, \u2018cos they don\u2019t work. "
+        ],
+        [
+            "Raj",
+            "They also don\u2019t care for it if you stare at them and hyperventilate. Sadly, that\u2019s my home run swing. "
+        ],
+        [
+            "Leonard",
+            "Look, everything went fine. I didn\u2019t even have to refer to my impromptu conversation starters. The woman across the hall is into me. "
+        ],
+        [
+            "Howard",
+            "Let\u2019s go to the tape. Look at her reaction to the goodnight kiss, no change in respiration, pupils un-dilated, no flushing of the chest."
+        ],
+        [
+            "Raj",
+            "Nice close up, by the way. "
+        ],
+        [
+            "Sheldon",
+            "Interesting, her jaws are clenched, no tongue access, clearly a bad sign amongst mating humans. "
+        ],
+        [
+            "Leonard",
+            "That\u2019s not a bad sign."
+        ],
+        [
+            "Sheldon",
+            "Please, you might as well have been two iguana with no dewlap enlargement. "
+        ],
+        [
+            "Raj",
+            "And the worst sign of all is, you\u2019re here and not there. "
+        ],
+        [
+            "Leonard",
+            "I\u2019m not there because I\u2019m taking things slow. Which, by the way, compared to you guys approaches warp speed. And take down that camera. "
+        ],
+        [
+            "Raj",
+            "He was a lot more fun when he had no hope. "
+        ],
+        [
+            "Howard",
+            "Give him time."
+        ],
+        [
+            "Scene",
+            "Credits sequence"
+        ],
+        [
+            "Scene",
+            "The laundry room. Sheldon is folding shirts. "
+        ],
+        [
+            "Penny (entering)",
+            "Hi."
+        ],
+        [
+            "Sheldon",
+            "Oh, hi Penny. FYI, the hot water is inadequate on machine 2 so colours only, and 4 is still releasing the fabric softener too early in the cycle so I\u2019d avoid using that for your delicates. "
+        ],
+        [
+            "Penny (tipping all her laundry into one machine at once)",
+            "Thanks. "
+        ],
+        [
+            "Sheldon",
+            "Oh, good Lord. Why don\u2019t you just take your clothes down to the river and beat them with a rock? "
+        ],
+        [
+            "Penny",
+            "Sheldon, may I ask you a question? "
+        ],
+        [
+            "Sheldon",
+            "I would prefer that you not, but I won\u2019t go so far as to forbid it. "
+        ],
+        [
+            "Penny",
+            "Alright, I heard yes, so\u2026 okay, here\u2019s my question, has Leonard ever dated, you know, a regular girl. "
+        ],
+        [
+            "Sheldon",
+            "Well I assume you\u2019re not referring to digestive regularity? Because I\u2019ve come to learn that such inquiries are inappropriate. "
+        ],
+        [
+            "Penny",
+            "No, I meant has he ever been involved with someone who wasn\u2019t a braniac? "
+        ],
+        [
+            "Sheldon",
+            "Oh. Well, a few years ago he did go out with a woman who had a PhD in French Literature. "
+        ],
+        [
+            "Penny",
+            "How is that not a braniac? "
+        ],
+        [
+            "Sheldon",
+            "Well, for one thing, she was French. For another, it was literature. "
+        ],
+        [
+            "Penny",
+            "So, do you think that if Leonard and I keep dating he\u2019ll eventually get bored with me. "
+        ],
+        [
+            "Sheldon",
+            "That depends."
+        ],
+        [
+            "Penny",
+            "On what? "
+        ],
+        [
+            "Sheldon",
+            "Do you have a working knowledge of quantum physics? "
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Do you speak Klingon? "
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Do you know any card tricks?"
+        ],
+        [
+            "Penny",
+            "Okay, okay, you know, I get it, Leonard has no business being involved with a waitress slash actress who felt so insecure that she lied to him about finishing community college. "
+        ],
+        [
+            "Sheldon",
+            "Why would you lie about that?"
+        ],
+        [
+            "Penny",
+            "Well, he was going on and on about this college and that grad school and I didn\u2019t want him to think I was some stupid loser. "
+        ],
+        [
+            "Sheldon",
+            "You thought the opposite of stupid loser was community college graduate? "
+        ],
+        [
+            "Penny",
+            "You know, there are a lot of successful people in this country who are community college graduates. "
+        ],
+        [
+            "Sheldon",
+            "Yeah, but you were neither. "
+        ],
+        [
+            "Penny",
+            "Right, okay look, this is between you and me, you cannot tell Leonard any of this. "
+        ],
+        [
+            "Sheldon",
+            "You\u2019re asking me to keep a secret?"
+        ],
+        [
+            "Penny",
+            "Yeah. "
+        ],
+        [
+            "Sheldon",
+            "Well I\u2019m sorry, but you would have had to express that desire before revealing the secret, so that I could choose whether or not I wanted to accept the covenant of secret keeping. You can\u2019t impose a secret on an ex post facto basis. "
+        ],
+        [
+            "Penny",
+            "What? "
+        ],
+        [
+            "Sheldon",
+            "Secret keeping is a complicated endeavour. One has to be concerned not only about what one says, but about facial expression, autonomic reflexes, when I try to deceive, I myself have more nervous tics than a lyme disease research facility. (Long pause.) It\u2019s a joke. It relies on the hominymic relationship between tick the blood-sucking arachnid, and tic the involuntary muscular contraction. I made it up myself. "
+        ],
+        [
+            "Penny",
+            "Okay, look, if Leonard finds out that I lied, I will absolutely die of embarrassment. "
+        ],
+        [
+            "Sheldon",
+            "Physiologically impossible."
+        ],
+        [
+            "Penny",
+            "Oh Sheldon, please, look, I\u2019m asking you as a friend. "
+        ],
+        [
+            "Sheldon",
+            "So you\u2019re saying that friendship contains within it an inherent obligation to maintain confidences?"
+        ],
+        [
+            "Penny",
+            "Well, yeah. "
+        ],
+        [
+            "Sheldon",
+            "Interesting. See, one more question, and perhaps I should have led with this, when did we become friends? "
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Sheldon",
+            "I.e, I couldn\u2019t become Green Lantern unless I was chosen by the guardians of Oa, but given enough start-up capital and an adequate research facility, I could be Batman."
+        ],
+        [
+            "Leonard",
+            "You could be Batman?"
+        ],
+        [
+            "Sheldon",
+            "Sure. (In a gravelly voice) I\u2019m Batman. See."
+        ],
+        [
+            "Penny (arriving)",
+            "Hi guys."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon (looking the other way uncomfortably)",
+            "Hi Penny."
+        ],
+        [
+            "Leonard",
+            "Hey, Penny, if you\u2019re not doing anything Friday night I thought maybe we could go and see a movie. "
+        ],
+        [
+            "Penny",
+            "Oh, um, you know, I think I have the dinner shift on Friday."
+        ],
+        [
+            "Leonard",
+            "What about Saturday?"
+        ],
+        [
+            "Penny",
+            "You know, I\u2019m not sure, the manager hasn\u2019t posted the schedule yet, how about I let you know."
+        ],
+        [
+            "Leonard",
+            "Great. So you just let me know when you know. So\u2026 (she leaves) Oh God, I am the bad fish! What did I do wrong?"
+        ],
+        [
+            "Sheldon",
+            "Why are you asking me, I have no information about your interactions with Penny other than what you provided me, nor do I have any method of learning such things. (Runs away.) "
+        ],
+        [
+            "Leonard (chasing him)",
+            "What does that mean?"
+        ],
+        [
+            "Sheldon",
+            "Nothing. You seem to be implying an informational back channel between me and Penny where obviously none exists."
+        ],
+        [
+            "Leonard",
+            "No I didn\u2019t."
+        ],
+        [
+            "Sheldon",
+            "I just think you need to be careful how you phrase things, sir. "
+        ],
+        [
+            "Leonard",
+            "What\u2019s going on with you?"
+        ],
+        [
+            "Sheldon",
+            "Well I might ask you the same question. Why do you insist on attempting to drag me into matters which have nothing to do with me? But exist between you and Penny. A person to whom I barely speak. (His eye begins to twitch.) "
+        ],
+        [
+            "Leonard",
+            "What\u2019s wrong with your face? "
+        ],
+        [
+            "Sheldon",
+            "There\u2019s no reason to bring my looks into this. Good day, Leonard."
+        ],
+        [
+            "Leonard",
+            "What? "
+        ],
+        [
+            "Sheldon",
+            "I said Good Day! (He leaves)"
+        ],
+        [
+            "Leonard",
+            "Good day? "
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory"
+        ],
+        [
+            "Penny",
+            "Also today we have a fresh caught Alaska salmon, and that\u2019s served with a teriyaki glaze and sticky rice. Our soup of the day\u2026"
+        ],
+        [
+            "Sheldon (appearing behind her)",
+            "You must release me from my oath. "
+        ],
+        [
+            "Penny",
+            "Sheldon, I\u2019m working."
+        ],
+        [
+            "Sheldon",
+            "Why don\u2019t you take a minute to decide (leads her away) I can\u2019t keep your secret Penny. I\u2019m going to fold like an energy based anobo protein in conformational space. Like a renaissance triptych. Like a cheap suit."
+        ],
+        [
+            "Penny",
+            "Oh, look, why is it so hard for you to keep one little secret?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m constitutionally incapable. That\u2019s why I was refused clearance for a very prestigious government research fellowship at a secret military supercollider, located beneath a fake agricultural station 12.5 miles south east of Travers City, Michigan. Which you did not hear about from me. "
+        ],
+        [
+            "Penny",
+            "Look, just forget I told you about me not graduating from community college. Okay?"
+        ],
+        [
+            "Sheldon",
+            "Forget! You want me to forget? This mind does not forget. I haven\u2019t forgotten a single thing since the day my mother stopped breast feeding me. It was a drizzly Tuesday."
+        ],
+        [
+            "Penny",
+            "Okay, look, you promised me you would keep my secret so you\u2019re just going to have to figure out a way to do it."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon (entering)",
+            "Leonard, I\u2019m moving out. "
+        ],
+        [
+            "Leonard",
+            "What do you mean, you\u2019re moving out? Why? "
+        ],
+        [
+            "Sheldon",
+            "There doesn\u2019t have to be a reason. "
+        ],
+        [
+            "Leonard",
+            "Yeah, there kind of does."
+        ],
+        [
+            "Sheldon",
+            "Not necessarily. This is a classic example of munchausen\u2019s trilemma. Either the reason is predicated on a series of sub-reasons leading to an infinite regression, or it tracks back to arbitrary axiomatic statements, or it\u2019s ultimately circular, i.e., I\u2019m moving out because I\u2019m moving out. "
+        ],
+        [
+            "Leonard",
+            "I\u2019m still confused."
+        ],
+        [
+            "Sheldon",
+            "Leonard, I don\u2019t see how I could have made it any simpler. "
+        ],
+        [
+            "Howard (entering)",
+            "Hey, qu\u2019est q\u2019wass up?"
+        ],
+        [
+            "Raj",
+            "We just got back from that exhibit of those plasticised human cadavers."
+        ],
+        [
+            "Howard",
+            "And some of those skinless chicks were hot. "
+        ],
+        [
+            "Sheldon",
+            "If you\u2019ll excuse me, I\u2019m going to pack. "
+        ],
+        [
+            "Howard",
+            "That\u2019s kind of an overreaction to a little harmless necrophilia. "
+        ],
+        [
+            "Leonard",
+            "It\u2019s not you, Howard, he says he\u2019s moving out. "
+        ],
+        [
+            "Raj",
+            "What did you do? Did you change the contrast or brightness settings on the television?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Raj",
+            "Did you take a band aid off in front of him? "
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Howard",
+            "Did you buy generic ketchup, forget to rinse the sink, talk to him through the bathroom door? "
+        ],
+        [
+            "Raj",
+            "Adjust the thermostat, cook with cilantro, pronounce the T in often? "
+        ],
+        [
+            "Leonard",
+            "No. "
+        ],
+        [
+            "Howard",
+            "Did you make fun of trains? "
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t do anything, he\u2019s just gone insane."
+        ],
+        [
+            "Raj",
+            "Well, we all knew this day was coming. "
+        ],
+        [
+            "Leonard",
+            "That was fast. "
+        ],
+        [
+            "Sheldon",
+            "It\u2019s my pre-packed disaster evacuation bag. Recommended by the department of homeland security. And Sarah Connor. "
+        ],
+        [
+            "Leonard",
+            "Where are you gonna live? "
+        ],
+        [
+            "Sheldon",
+            "Until I find a permanent place I will stay with friends. "
+        ],
+        [
+            "Howard",
+            "Bye (runs out.) "
+        ],
+        [
+            "Raj",
+            "Well you can\u2019t stay with me, I have a teeny tiny apartment. "
+        ],
+        [
+            "Sheldon",
+            "Excuse me, but isn\u2019t hosting guests an aspect of Menushya Yajna, one of the five central religious duties or sacrifices of the Hindu householder? "
+        ],
+        [
+            "Raj",
+            "I hate trains. "
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t be ridiculous, you love trains. "
+        ],
+        [
+            "Raj",
+            "Yes I do, come on. See you later Leonard. (Sheldon drops keys in bowl and leaves without a word.)"
+        ],
+        [
+            "Leonard",
+            "This could work. "
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment. "
+        ],
+        [
+            "Sheldon",
+            "This is a very old building. "
+        ],
+        [
+            "Raj",
+            "Sixty years. Used to be a watch factory. "
+        ],
+        [
+            "Sheldon",
+            "Uh-oh."
+        ],
+        [
+            "Raj",
+            "What? "
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t you worry about the residual radium from the luminous dials?"
+        ],
+        [
+            "Raj",
+            "Not until now. "
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t believe I didn\u2019t bring my gieger counter. You know, I had it on my bed and I didn\u2019t pack it. "
+        ],
+        [
+            "Raj",
+            "Well, if you\u2019re not comfortable staying here, Sheldon\u2026"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m kidding, I packed it. It was a joke, I was subverting the conversational expectations. I believe they call that the, um, old switcheroo. "
+        ],
+        [
+            "Raj",
+            "Terrific. "
+        ],
+        [
+            "Sheldon (referring to Bollywood singing on television)",
+            "Is that woman Aishwarya Rai?"
+        ],
+        [
+            "Raj",
+            "Yes, isn\u2019t she an amazing actress."
+        ],
+        [
+            "Sheldon",
+            "Actually, I\u2019d say she\u2019s a poor man\u2019s Madhuri Dixit. "
+        ],
+        [
+            "Raj",
+            "How dare you. Aishwarya Rai is a Goddess. By comparison Madhuri Dixit is a leprous prostitute."
+        ],
+        [
+            "Sheldon",
+            "Sorry, I didn\u2019t mean to offend you. Obviously you\u2019re not that familiar with Indian cinema. "
+        ],
+        [
+            "Scene",
+            "Howard\u2019s house. The door rings. "
+        ],
+        [
+            "Howard",
+            "Who is it?"
+        ],
+        [
+            "Voice",
+            "Strippergram. (Howard opens door. Outside are Raj and Sheldon.)"
+        ],
+        [
+            "Raj",
+            "Tag. You\u2019re it. (Runs away.) "
+        ],
+        [
+            "Howard",
+            "Shouldn\u2019t you have put him in a brown paper bag and set him on fire? "
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom. Howard is in bed, Sheldon is on a blow up mattress on the floor."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve never slept on an air mattress before. No lumbar support whatsoever. "
+        ],
+        [
+            "Howard",
+            "Maybe you\u2019d be happier on a park bench? "
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t see any way to get a park bench in here."
+        ],
+        [
+            "Howard",
+            "Do you want to switch?"
+        ],
+        [
+            "Sheldon",
+            "No, that\u2019s fine. I\u2019m perfectly comfortable sleeping on a bouncy castle. "
+        ],
+        [
+            "Howard",
+            "Get out of bed, we\u2019re switching."
+        ],
+        [
+            "Sheldon",
+            "Now, only if you want to."
+        ],
+        [
+            "Howard",
+            "Just get in the bed!"
+        ],
+        [
+            "Howard\u2019s mother (off)",
+            "What\u2019s going on? Are you boys roughhousing? "
+        ],
+        [
+            "Howard",
+            "We\u2019re just talking ma. "
+        ],
+        [
+            "Howard\u2019s mother",
+            "If you don\u2019t settle down right now, I\u2019m not going to let you have any more sleepovers. "
+        ],
+        [
+            "Howard",
+            "For God\u2019s sake, ma, I\u2019m 27 years old. It\u2019s not even a school night! (To Sheldon) Comfy now?"
+        ],
+        [
+            "Sheldon",
+            "Meh. That poster of Halle Berry\u2019s a little unnerving. "
+        ],
+        [
+            "Howard",
+            "So don\u2019t look at it."
+        ],
+        [
+            "Sheldon",
+            "She\u2019s like my fourth favourite catwoman."
+        ],
+        [
+            "Howard",
+            "No kidding?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, Julie Newmar, Michelle Pfieffer, Eartha Kitt and then her. "
+        ],
+        [
+            "Howard",
+            "What about Lee Meriwether?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I forgot about Lee Meriwether."
+        ],
+        [
+            "Howard",
+            "Well I\u2019m glad that\u2019s settled. "
+        ],
+        [
+            "Sheldon",
+            "That makes Halle Berry my fifth favourite catwoman. There\u2019s Julie Newmar, Michelle Pfieffer, Eartha Kitt, Lee Meriwether\u2026"
+        ],
+        [
+            "Howard",
+            "Please, I\u2019m begging you, go to sleep."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m trying, I\u2019m counting catwomen. She did make a fine mutant in the X-Men movies though."
+        ],
+        [
+            "Howard",
+            "Oh for God\u2019s sake."
+        ],
+        [
+            "Sheldon",
+            "But she\u2019s not my favourite of the X-Men, in order that would be Wolverine, Cyclops, oh wait, I forgot Professor X. Professor X, Wolverine, Cyclops, Iceman, then Storm, Angel, the Beast, oh wait, Nightcrawler. Professor X, Nightcrawler, Wolverine, Cyclops, Iceman, then Storm, Angel\u2026."
+        ],
+        [
+            "Scene",
+            "Sheldon and Leonard\u2019s apartment. There is an urgent rapping at the door."
+        ],
+        [
+            "Leonard",
+            "I\u2019m coming! (Opens the door. Sheldon falls inside, wearing his pyjamas. Howard is outside.)"
+        ],
+        [
+            "Sheldon",
+            "Hey, there he is, there\u2019s my old buddy-bud-bud. "
+        ],
+        [
+            "Leonard",
+            "What\u2019s with him?"
+        ],
+        [
+            "Howard",
+            "Koothrappali dumped him on me, and he couldn\u2019t get to sleep, so I gave him a glass of warm milk with a handful of my mom\u2019s valium in it. But he still wouldn\u2019t shut up, so, tag, you\u2019re it. "
+        ],
+        [
+            "Sheldon",
+            "I\u2019m ba-ack!"
+        ],
+        [
+            "Leonard",
+            "I still don\u2019t know why you left."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t tell you."
+        ],
+        [
+            "Leonard",
+            "Why not."
+        ],
+        [
+            "Sheldon",
+            "I promised Penny. "
+        ],
+        [
+            "Leonard",
+            "You promised Penny what? "
+        ],
+        [
+            "Sheldon",
+            "That I wouldn\u2019t tell you the secret. Shhhhh!"
+        ],
+        [
+            "Leonard",
+            "What secret. Tell me the secret. "
+        ],
+        [
+            "Sheldon",
+            "Mom smokes in the car. Jesus is okay with it, but we can\u2019t tell Dad. "
+        ],
+        [
+            "Leonard",
+            "Not that secret, the other secret."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m Batman. Shhhhh!"
+        ],
+        [
+            "Leonard",
+            "Dammit, Sheldon! You said Penny told you a secret, what was the secret."
+        ],
+        [
+            "Sheldon",
+            "Okay, I\u2019ll tell you, but you can\u2019t tell Leonard. "
+        ],
+        [
+            "Leonard",
+            "I promise. "
+        ],
+        [
+            "Sheldon",
+            "Penny lied about graduating from community college because she is afraid she\u2019s not smart enough for Leonard. "
+        ],
+        [
+            "Leonard",
+            "So it\u2019s nothing I did? It\u2019s her problem? "
+        ],
+        [
+            "Sheldon",
+            "I drank milk that tasted funny. "
+        ],
+        [
+            "Leonard",
+            "Penny thinks I\u2019m too smart for her, that\u2019s ridiculous. "
+        ],
+        [
+            "Sheldon",
+            "I know, most of your work is extremely derivative. Don\u2019t worry, that\u2019s not a secret. Everybody knows. "
+        ],
+        [
+            "Scene",
+            "The hallway. Leonard is outside Penny\u2019s door."
+        ],
+        [
+            "Penny (opening door)",
+            "Hi."
+        ],
+        [
+            "Leonard",
+            "Yeah, hi, listen, I know what\u2019s been bothering you about us, and I have the answer. "
+        ],
+        [
+            "Penny",
+            "What are you talking about."
+        ],
+        [
+            "Leonard",
+            "First I want to say that it\u2019s not Sheldon\u2019s fault, he tried very hard to keep your secret, if Howard hadn\u2019t drugged him he would have taken it to his grave. "
+        ],
+        [
+            "Penny",
+            "He told you?"
+        ],
+        [
+            "Leonard",
+            "Yes, but it\u2019s okay. Now that we know what the problem is, there\u2019s a simple solution. (Hands her a brochure.) "
+        ],
+        [
+            "Penny",
+            "Pasadena city college? "
+        ],
+        [
+            "Leonard",
+            "A place for fun, a place for knowledge. See, this man here\u2019s playing hacky sack, and this girl\u2019s going to be a paralegal. "
+        ],
+        [
+            "Penny",
+            "Wow, I get it, because Dr Leonard Hofstadter can\u2019t date a girl without a fancy college degree. "
+        ],
+        [
+            "Leonard",
+            "Well, it\u2019s really not that fancy, it\u2019s just a city college. "
+        ],
+        [
+            "Penny",
+            "Right, but I have to have some sort of degree to date you? "
+        ],
+        [
+            "Leonard",
+            "That doesn\u2019t matter to me at all."
+        ],
+        [
+            "Penny",
+            "So, it\u2019s fine with you if I\u2019m not smart. "
+        ],
+        [
+            "Leonard",
+            "Absolutely. (She slams the door in his face.) Okay, this time I know where I went wrong. (Looking up and seeing the camera) Oh bite me! "
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-2-episode-01-the-bad-fish-paradigm/"
+}

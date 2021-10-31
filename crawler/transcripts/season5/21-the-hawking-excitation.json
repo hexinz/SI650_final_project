@@ -1,0 +1,1704 @@
+{
+    "Season": 5,
+    "Episode": 21,
+    "Title": "the hawking excitation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The cafeteria."
+            ],
+            [
+                27,
+                "Credits sequence."
+            ],
+            [
+                28,
+                "A corridor."
+            ],
+            [
+                49,
+                "The apartment."
+            ],
+            [
+                94,
+                "Howard\u2019s bedroom."
+            ],
+            [
+                103,
+                "(Later)"
+            ],
+            [
+                111,
+                "The cafeteria. Sheldon enters in the French maid costume."
+            ],
+            [
+                113,
+                "The laundry room."
+            ],
+            [
+                138,
+                "Howard\u2019s bedroom."
+            ],
+            [
+                153,
+                "A shop changing rooms."
+            ],
+            [
+                166,
+                "The apartment."
+            ],
+            [
+                194,
+                "Stephen Hawking\u2019s office."
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "So, I got the craziest e-mail this morning."
+            ],
+            [
+                3,
+                "Believe me, I know. The e-mail I got was from the office of Stephen Hawking."
+            ],
+            [
+                6,
+                "He\u2019s coming to the university for a couple weeks to lecture, and he\u2019s looking for an engineer to help maintain the equipment on his wheelchair."
+            ],
+            [
+                11,
+                "I was actually thinking about bringing him along when I go over there so he can meet the great man."
+            ],
+            [
+                13,
+                "Hm, it\u2019s no big deal."
+            ],
+            [
+                21,
+                "Sheldon, I have a working understanding of physics."
+            ],
+            [
+                24,
+                "Yep."
+            ],
+            [
+                26,
+                "Not on your life."
+            ],
+            [
+                30,
+                "I told you, no."
+            ],
+            [
+                32,
+                "No, you said, would it help if I said I\u2019m sorry?"
+            ],
+            [
+                34,
+                "Sheldon, you\u2019re a condescending jerk. Why on earth would I want to do something nice for you?"
+            ],
+            [
+                36,
+                "Jews don\u2019t have heaven."
+            ],
+            [
+                38,
+                "Have you met my mother? I live in Jewish hell."
+            ],
+            [
+                40,
+                "Oh, you can\u2019t be serious."
+            ],
+            [
+                42,
+                "Hang on. Are you saying the rest of us are dogs?"
+            ],
+            [
+                44,
+                "Get out of my lab."
+            ],
+            [
+                46,
+                "Get out."
+            ],
+            [
+                48,
+                "Out!"
+            ],
+            [
+                51,
+                "It was great. We talked about movies."
+            ],
+            [
+                53,
+                "I showed him some card tricks."
+            ],
+            [
+                55,
+                "He even let me read a couple pages from his new book."
+            ],
+            [
+                57,
+                "Something got you down there, bunky?"
+            ],
+            [
+                62,
+                "You\u2019re kidding."
+            ],
+            [
+                64,
+                "You don\u2019t seem to be understanding the English word no. Maybe a different language will help. Russian, nyet. Chinese, bu. Japanese, iie. Klingon, qo. Binary coded Ascii, 0110111001101111."
+            ],
+            [
+                66,
+                "No!"
+            ],
+            [
+                68,
+                "Let me try gansta, hells no."
+            ],
+            [
+                72,
+                "That\u2019s an interesting idea. Why don\u2019t you give me a minute to talk it over with my friends?"
+            ],
+            [
+                74,
+                "You walk away."
+            ],
+            [
+                77,
+                "I do."
+            ],
+            [
+                79,
+                "Yeah, I know, I\u2019m just trying to figure out how much I want to punish him."
+            ],
+            [
+                85,
+                "Sheldon, come on back."
+            ],
+            [
+                87,
+                "I\u2019ll give your paper to Professor Hawking."
+            ],
+            [
+                89,
+                "But in exchange, I\u2019d like you to do a few things for me."
+            ],
+            [
+                91,
+                "Are you familiar with the 12 labours of Hercules?"
+            ],
+            [
+                93,
+                "You should be so lucky."
+            ],
+            [
+                96,
+                "Well, I thought I\u2019d start you off by polishing my belt buckles."
+            ],
+            [
+                98,
+                "That\u2019s nice."
+            ],
+            [
+                100,
+                "Funny thing is, I only have one belt. Anyway, I\u2019ll let you get started. Oh, by the way, the little marks, uh, that look like water spots, I tend to stand too close to the urinal, so what you\u2019re seeing there is splash back."
+            ],
+            [
+                102,
+                "Here is a black light to check them. And for your own peace of mind, you might not want to shine that around the rest of the room."
+            ],
+            [
+                104,
+                "Sheldon, these look great. They\u2019re like magnificent little crowns to hang over my magnificent little jewels. How\u2019d you get them so shiny?"
+            ],
+            [
+                106,
+                "Way to go the extra mile. Your Mee-Maw would be proud."
+            ],
+            [
+                108,
+                "Oh, my dear boy, no. Okay. Next, this is a sexy French maid costume I bought for Bernadette. I thought it might spice things up and get her to dust my room at the same time, but I was wrong and really wrong."
+            ],
+            [
+                110,
+                "No, no, no, mon petit cherie."
+            ],
+            [
+                139,
+                "What\u2019s the matter?"
+            ],
+            [
+                141,
+                "It\u2019s not her fault. She\u2019s getting hormone replacement therapy. Makes her crazy horny. Check this out, I got Sheldon to wear the French maid\u2019s costume."
+            ],
+            [
+                143,
+                "Hey, I gave you first crack at it."
+            ],
+            [
+                145,
+                "He\u2019s mean to me all the time. You\u2019ve heard him tease me about not having a doctorate."
+            ],
+            [
+                147,
+                "Oh, come on, the man torments me. I\u2019m just letting him have a little taste of his own medicine."
+            ],
+            [
+                149,
+                "Fine, I\u2019ll just make him do a couple more things, then I\u2019ll stop."
+            ],
+            [
+                167,
+                "Oh, guys, I just remembered. I got you some Hawking souvenirs."
+            ],
+            [
+                169,
+                "Gears and springs from his wheelchair. Pretty cool, huh?"
+            ],
+            [
+                171,
+                "Yeah, I made an adjustment on the motor drive and when I was putting it back together I could not for the life of me figure out where they went."
+            ],
+            [
+                173,
+                "I should have sent you to the custom car cover place in Altadena. They have her pattern on file."
+            ],
+            [
+                175,
+                "I don\u2019t know."
+            ],
+            [
+                177,
+                "All right, Sheldon, there\u2019s only one thing left I want you to do. Don\u2019t worry, it\u2019s an easy one."
+            ],
+            [
+                179,
+                "Give me a compliment."
+            ],
+            [
+                181,
+                "No, about my job. I want you to tell me I\u2019m good at what I do."
+            ],
+            [
+                183,
+                "Well, then why are you always ripping on me?"
+            ],
+            [
+                186,
+                "Thank you, Sheldon."
+            ],
+            [
+                188,
+                "Sorry, I can\u2019t."
+            ],
+            [
+                190,
+                "I gave it to him three days ago. He was really impressed. He wants to meet you."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "I don\u2019t mean to burst your bubble, dude, but those penile enlargement pills do not work."
+            ],
+            [
+                5,
+                "Why?"
+            ],
+            [
+                9,
+                "Oh, boy, Sheldon\u2019s going to freak out."
+            ],
+            [
+                12,
+                "That\u2019s really nice of you, Howard."
+            ],
+            [
+                19,
+                "That\u2019s incredible. Oh, here, break out the math."
+            ],
+            [
+                23,
+                "Are you still going to tell him about you-know-who?"
+            ],
+            [
+                60,
+                "Three times. He begged the Fox network not to cancel Firefly. He begged the TNT network to cancel Babylon 5. And when he got food poisoning at the Rose Bowl Parade, he begged a deity he doesn\u2019t believe in to end his life quickly."
+            ],
+            [
+                78,
+                "You can make him do anything you want."
+            ],
+            [
+                80,
+                "Well, don\u2019t be too mean."
+            ],
+            [
+                82,
+                "I wouldn\u2019t mind a glass."
+            ],
+            [
+                84,
+                "Bring him to his bony knees."
+            ],
+            [
+                170,
+                "Wow, that\u2019s amazing."
+            ],
+            [
+                192,
+                "I thought he might be a little more excited."
+            ]
+        ],
+        "Leonard": [
+            [
+                4,
+                "You\u2019re kidding."
+            ],
+            [
+                7,
+                "That\u2019s amazing. You\u2019ll be like his pit crew. A word of caution, I would not do your Stephen Hawking impression in front of him."
+            ],
+            [
+                10,
+                "Yeah, he worships Hawking."
+            ],
+            [
+                14,
+                "Boy, a restraining order from Stephen Hawking. It\u2019ll look so nice next to the ones he\u2019s already got from Leonard Nimoy, Carl Sagan and Stan Lee."
+            ],
+            [
+                16,
+                "Like it was ten hours ago. What about it?"
+            ],
+            [
+                18,
+                "Really?"
+            ],
+            [
+                25,
+                "Still going to introduce him?"
+            ],
+            [
+                50,
+                "So, come on, how was the first day with Hawking?"
+            ],
+            [
+                59,
+                "Raj, you\u2019re our group historian. Has Sheldon ever begged before?"
+            ],
+            [
+                70,
+                "What if he doesn\u2019t?"
+            ],
+            [
+                76,
+                "You do realize you own his ass right now."
+            ],
+            [
+                168,
+                "What are these?"
+            ],
+            [
+                185,
+                "It\u2019s nicer than anything he\u2019s ever said to me. I\u2019d take it and run."
+            ],
+            [
+                193,
+                "Give it a second. (Sound of Sheldon shrieking in joy in his bedroom)"
+            ]
+        ],
+        "Howard (in Stephen Hawking voice)": [
+            [
+                8,
+                "You\u2019re right. I suppose that could be considered offensive."
+            ]
+        ],
+        "Sheldon": [
+            [
+                15,
+                "Leonard, do you recall when I said that I was going to revolutionize humanity\u2019s understanding of the Higgs boson particle, and you said, Sheldon, it\u2019s two a.m., get out of my bedroom?"
+            ],
+            [
+                17,
+                "Well, I believe I\u2019ve done it. And I\u2019m only saying believe to sound modest, because, sweet Sam Houston, I did it."
+            ],
+            [
+                20,
+                "Oh, okay, let me see this. All right, so this particle here is the boson moving forward in time. Now, I was thinking\u2026 Howard, you go ahead and eat. This isn\u2019t going to make any sense to you."
+            ],
+            [
+                22,
+                "Yeah, good for you, and don\u2019t stop working on it."
+            ],
+            [
+                29,
+                "Please, please, please let me meet Hawking."
+            ],
+            [
+                31,
+                "But I said I\u2019m sorry."
+            ],
+            [
+                33,
+                "And you never answered me. So who owes whom an apology now?"
+            ],
+            [
+                35,
+                "Um, to go to Jewish heaven?"
+            ],
+            [
+                37,
+                "Then to avoid Jewish hell?"
+            ],
+            [
+                39,
+                "Howard, please. This is Stephen Hawking. Perhaps my only intellectual equal."
+            ],
+            [
+                41,
+                "Try to put yourself in my place. Imagine you\u2019re the sole human being living on a planet populated with nothing but dogs. And then it turns out there\u2019s another human being."
+            ],
+            [
+                43,
+                "Yeah, okay, I can see you\u2019re going to take this the wrong way. Let me try again. Imagine you\u2019re the sole human being living on a planet populated with nothing but chimps."
+            ],
+            [
+                45,
+                "Oh, now they\u2019re so much smarter than dogs. Have you seen them on those little bicycles?"
+            ],
+            [
+                47,
+                "How about dolphins?"
+            ],
+            [
+                52,
+                "Oh!"
+            ],
+            [
+                54,
+                "Oh!"
+            ],
+            [
+                56,
+                "Oh!"
+            ],
+            [
+                58,
+                "Howard, please, I\u2019m begging you."
+            ],
+            [
+                61,
+                "Do you understand how important Hawking is to me? When I was six years old, I dressed up as him for Halloween."
+            ],
+            [
+                63,
+                "No, sir, no, I took my dad\u2019s desk chair, attached a Speak & Spell to it and made my sister push me up and down the block to trick or treat. Granted most people thought I was R2-D2, but still, I got a lot of candy."
+            ],
+            [
+                65,
+                "It\u2019s actually 01100111."
+            ],
+            [
+                67,
+                "I\u2019m not asking for me, I\u2019m asking for Hawking."
+            ],
+            [
+                69,
+                "Okay, look, how about this? Just give him my paper on the Higgs boson. If he sees the incredible breakthrough I\u2019ve made, he\u2019ll reach out to me."
+            ],
+            [
+                71,
+                "He will, he\u2019s really smart."
+            ],
+            [
+                73,
+                "How do I do that?"
+            ],
+            [
+                75,
+                "Walking away."
+            ],
+            [
+                81,
+                "Hey, fellas, I\u2019m thinking about making some freshly brewed iced tea if anyone would like some."
+            ],
+            [
+                83,
+                "I wasn\u2019t talking to you."
+            ],
+            [
+                86,
+                "Yes, yes. What did you decide?"
+            ],
+            [
+                88,
+                "Great, thank you. Oh, that\u2019s terrific."
+            ],
+            [
+                90,
+                "What kinds of things?"
+            ],
+            [
+                92,
+                "Of course."
+            ],
+            [
+                95,
+                "All right. What would you like me to do first?"
+            ],
+            [
+                97,
+                "Oh. By all means. When I was a boy, I would polish my Mee-Maw\u2019s silver. And she would entertain me with stories about growing up in Oklahoma. Interesting woman. You know, she once killed a prairie dog with a gravy boat."
+            ],
+            [
+                99,
+                "That\u2019s a lot of belt buckles."
+            ],
+            [
+                101,
+                "You make sissy on your belt buckles? Mee-Maw\u2019s forks never had that."
+            ],
+            [
+                105,
+                "Oh, I-I buffed them with Turtle Wax. The man down at Pep Boys says from now on, the urine should just bead up and roll right off."
+            ],
+            [
+                107,
+                "My Mee-Maw must never know of this. Now will you give Professor Hawking my paper?"
+            ],
+            [
+                109,
+                "And you want me to return it for you?"
+            ],
+            [
+                112,
+                "What are you all staring at? Didn\u2019t you ever see a man try to get a meeting with Stephen Hawking before?"
+            ],
+            [
+                115,
+                "Hello."
+            ],
+            [
+                117,
+                "This is not my laundry."
+            ],
+            [
+                119,
+                "Those are Howard\u2019s."
+            ],
+            [
+                121,
+                "Because if I don\u2019t, he won\u2019t give my paper to Stephen Hawking. He\u2019s a famous physicist."
+            ],
+            [
+                123,
+                "That\u2019s close enough."
+            ],
+            [
+                125,
+                "Because he\u2019s punishing me for being a, quote, condescending jerk. You don\u2019t think I\u2019m condescending, do you?"
+            ],
+            [
+                127,
+                "Oh, I\u2019m sorry, condescending means\u2026"
+            ],
+            [
+                129,
+                "Au contraire. When I correct people I am raising them up. You should know, I do it for you more than anyone."
+            ],
+            [
+                131,
+                "Or Don Quixote is a book about a donkey named Hotay."
+            ],
+            [
+                133,
+                "Well, I can\u2019t help it. That\u2019s an involuntary twinkle."
+            ],
+            [
+                135,
+                "I want you to tell me that Howard is being mean to me for no reason."
+            ],
+            [
+                137,
+                "I knew it."
+            ],
+            [
+                155,
+                "What is it now, Mrs. Wolowitz?"
+            ],
+            [
+                157,
+                "What do you want me to do?"
+            ],
+            [
+                165,
+                "Oh, no, you know, I\u2019m not really the holding kind of\u2026 Oh!"
+            ],
+            [
+                172,
+                "I did it. Had to go to three clothing stores, but we finally found a dress that could envelop your mother."
+            ],
+            [
+                174,
+                "Humorous. Now will you please present my paper to Professor Hawking?"
+            ],
+            [
+                176,
+                "Oh, for heaven\u2019s sake. I did your laundry, I pee-pee-proofed your belt buckles, I, I even sprained my wrist helping your mother lift her bosom."
+            ],
+            [
+                178,
+                "Okay."
+            ],
+            [
+                180,
+                "Fine. You have very tiny hands."
+            ],
+            [
+                182,
+                "You\u2019re obviously good at what you do."
+            ],
+            [
+                184,
+                "Oh, I understand the confusion. I have never said that you are not good at what you do. It\u2019s just that what you do is not worth doing."
+            ],
+            [
+                187,
+                "Now will you give my paper to Hawking?"
+            ],
+            [
+                189,
+                "What, why not?"
+            ],
+            [
+                191,
+                "All right, then. Thank you, Howard. Please let Professor Hawking know that I\u2019m available at his earliest convenience."
+            ],
+            [
+                195,
+                "Professor Hawking, it\u2019s an honour and a privilege to meet you, sir."
+            ],
+            [
+                197,
+                "I want to thank you for taking time to see me."
+            ],
+            [
+                199,
+                "I know."
+            ],
+            [
+                201,
+                "Thank you. It just, it came to me one morning in the shower."
+            ],
+            [
+                203,
+                "What do you mean wrong?"
+            ],
+            [
+                205,
+                "No, no, th-th-th-that can\u2019t be right. I-I don\u2019t make arithmetic mistakes."
+            ],
+            [
+                207,
+                "Oh, no, no, no, of course not. It\u2019s just, I was thinking\u2026 Oh, gosh, golly, I made a boo-boo, and I gave it to Stephen Hawking."
+            ]
+        ],
+        "Penny": [
+            [
+                114,
+                "Hey."
+            ],
+            [
+                116,
+                "It\u2019s not Saturday night. Why are you doing your laundry?"
+            ],
+            [
+                118,
+                "Wow, are these Amy\u2019s? Kind of trashy, good for her."
+            ],
+            [
+                120,
+                "Ugh. Why are you washing Howard\u2019s man panties?"
+            ],
+            [
+                122,
+                "Yeah, yeah, I know, he\u2019s the wheelchair dude who invented time."
+            ],
+            [
+                124,
+                "I don\u2019t understand, why doesn\u2019t Howard just introduce you to the guy?"
+            ],
+            [
+                126,
+                "Well\u2026"
+            ],
+            [
+                128,
+                "I know what it means. And yes, you love correcting people and putting them down."
+            ],
+            [
+                130,
+                "Come on, you do it to feel superior. I see that twinkle in your eye when someone says who instead of whom or thinks the moon is a planet."
+            ],
+            [
+                132,
+                "See, there it is, there\u2019s that twinkle."
+            ],
+            [
+                134,
+                "What do you want me to tell you, Sheldon?"
+            ],
+            [
+                136,
+                "Fine, Howard is being mean to you for no reason."
+            ]
+        ],
+        "Bernadette": [
+            [
+                140,
+                "Every time I spend the night, your mom slaps me on the behind and says, go get \u2018im."
+            ],
+            [
+                142,
+                "Oh, my God, that\u2019s terrible."
+            ],
+            [
+                144,
+                "Why are you doing that? You\u2019re being mean to him."
+            ],
+            [
+                146,
+                "If you don\u2019t want to get teased about that, get a doctorate. I have one, they\u2019re great."
+            ],
+            [
+                148,
+                "It\u2019s not the same thing. Sheldon doesn\u2019t know when he\u2019s being mean because the part of his brain that should know is getting a wedgie from the rest of his brain."
+            ],
+            [
+                150,
+                "No, you have to stop now."
+            ],
+            [
+                152,
+                "Oh, damn. I\u2019m sorry, I can\u2019t make it, but Sheldon\u2019s going to go with you! And that\u2019s the last thing you do to him."
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                151,
+                "Bernadette, I want to remind you, you promised to take me dress shopping tomorrow!"
+            ],
+            [
+                154,
+                "Sheldon! I need your help!"
+            ],
+            [
+                156,
+                "It\u2019s this dress. When I put my front in, my back pops out. When I put my back in, my front pops out. It\u2019s like trying to keep two dogs in a bathtub!"
+            ],
+            [
+                158,
+                "We\u2019re gonna have to work as a team. Get in here, grab a handful, and start stuffing."
+            ],
+            [
+                160,
+                "It\u2019s easy, just pretend you\u2019re putting away a sleeping bag."
+            ],
+            [
+                162,
+                "Now zip me up."
+            ],
+            [
+                164,
+                "You\u2019re right, who am I kidding? You should have seen me when I was young, Sheldon. The fellas used to line up and bring me boxes of candy. Why did I eat it all? Would you hold me?"
+            ]
+        ],
+        "Sheldon (off)": [
+            [
+                159,
+                "I\u2019m not sure how to do this."
+            ],
+            [
+                161,
+                "Sleeping bags don\u2019t usually sweat this much, but okay."
+            ],
+            [
+                163,
+                "Oh, if we squeeze you any tighter, you may turn into a diamond."
+            ]
+        ],
+        "Hawking": [
+            [
+                196,
+                "I know."
+            ],
+            [
+                198,
+                "My pleasure. I enjoyed reading your paper very much. You clearly have a brilliant mind."
+            ],
+            [
+                200,
+                "Your thesis that the Higgs boson is a black hole accelerating backwards through time is fascinating."
+            ],
+            [
+                202,
+                "That\u2019s nice. Too bad it\u2019s wrong."
+            ],
+            [
+                204,
+                "You made an arithmetic mistake on page two. It was quite the boner."
+            ],
+            [
+                206,
+                "Are you saying I do?"
+            ],
+            [
+                208,
+                "Great, another fainter."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Howard",
+            "So, I got the craziest e-mail this morning."
+        ],
+        [
+            "Raj",
+            "I don\u2019t mean to burst your bubble, dude, but those penile enlargement pills do not work."
+        ],
+        [
+            "Howard",
+            "Believe me, I know. The e-mail I got was from the office of Stephen Hawking."
+        ],
+        [
+            "Leonard",
+            "You\u2019re kidding."
+        ],
+        [
+            "Raj",
+            "Why?"
+        ],
+        [
+            "Howard",
+            "He\u2019s coming to the university for a couple weeks to lecture, and he\u2019s looking for an engineer to help maintain the equipment on his wheelchair."
+        ],
+        [
+            "Leonard",
+            "That\u2019s amazing. You\u2019ll be like his pit crew. A word of caution, I would not do your Stephen Hawking impression in front of him."
+        ],
+        [
+            "Howard (in Stephen Hawking voice)",
+            "You\u2019re right. I suppose that could be considered offensive."
+        ],
+        [
+            "Raj",
+            "Oh, boy, Sheldon\u2019s going to freak out."
+        ],
+        [
+            "Leonard",
+            "Yeah, he worships Hawking."
+        ],
+        [
+            "Howard",
+            "I was actually thinking about bringing him along when I go over there so he can meet the great man."
+        ],
+        [
+            "Raj",
+            "That\u2019s really nice of you, Howard."
+        ],
+        [
+            "Howard",
+            "Hm, it\u2019s no big deal."
+        ],
+        [
+            "Leonard",
+            "Boy, a restraining order from Stephen Hawking. It\u2019ll look so nice next to the ones he\u2019s already got from Leonard Nimoy, Carl Sagan and Stan Lee."
+        ],
+        [
+            "Sheldon",
+            "Leonard, do you recall when I said that I was going to revolutionize humanity\u2019s understanding of the Higgs boson particle, and you said, Sheldon, it\u2019s two a.m., get out of my bedroom?"
+        ],
+        [
+            "Leonard",
+            "Like it was ten hours ago. What about it?"
+        ],
+        [
+            "Sheldon",
+            "Well, I believe I\u2019ve done it. And I\u2019m only saying believe to sound modest, because, sweet Sam Houston, I did it."
+        ],
+        [
+            "Leonard",
+            "Really?"
+        ],
+        [
+            "Raj",
+            "That\u2019s incredible. Oh, here, break out the math."
+        ],
+        [
+            "Sheldon",
+            "Oh, okay, let me see this. All right, so this particle here is the boson moving forward in time. Now, I was thinking\u2026 Howard, you go ahead and eat. This isn\u2019t going to make any sense to you."
+        ],
+        [
+            "Howard",
+            "Sheldon, I have a working understanding of physics."
+        ],
+        [
+            "Sheldon",
+            "Yeah, good for you, and don\u2019t stop working on it."
+        ],
+        [
+            "Raj",
+            "Are you still going to tell him about you-know-who?"
+        ],
+        [
+            "Howard",
+            "Yep."
+        ],
+        [
+            "Leonard",
+            "Still going to introduce him?"
+        ],
+        [
+            "Howard",
+            "Not on your life."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "A corridor."
+        ],
+        [
+            "Sheldon",
+            "Please, please, please let me meet Hawking."
+        ],
+        [
+            "Howard",
+            "I told you, no."
+        ],
+        [
+            "Sheldon",
+            "But I said I\u2019m sorry."
+        ],
+        [
+            "Howard",
+            "No, you said, would it help if I said I\u2019m sorry?"
+        ],
+        [
+            "Sheldon",
+            "And you never answered me. So who owes whom an apology now?"
+        ],
+        [
+            "Howard",
+            "Sheldon, you\u2019re a condescending jerk. Why on earth would I want to do something nice for you?"
+        ],
+        [
+            "Sheldon",
+            "Um, to go to Jewish heaven?"
+        ],
+        [
+            "Howard",
+            "Jews don\u2019t have heaven."
+        ],
+        [
+            "Sheldon",
+            "Then to avoid Jewish hell?"
+        ],
+        [
+            "Howard",
+            "Have you met my mother? I live in Jewish hell."
+        ],
+        [
+            "Sheldon",
+            "Howard, please. This is Stephen Hawking. Perhaps my only intellectual equal."
+        ],
+        [
+            "Howard",
+            "Oh, you can\u2019t be serious."
+        ],
+        [
+            "Sheldon",
+            "Try to put yourself in my place. Imagine you\u2019re the sole human being living on a planet populated with nothing but dogs. And then it turns out there\u2019s another human being."
+        ],
+        [
+            "Howard",
+            "Hang on. Are you saying the rest of us are dogs?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, okay, I can see you\u2019re going to take this the wrong way. Let me try again. Imagine you\u2019re the sole human being living on a planet populated with nothing but chimps."
+        ],
+        [
+            "Howard",
+            "Get out of my lab."
+        ],
+        [
+            "Sheldon",
+            "Oh, now they\u2019re so much smarter than dogs. Have you seen them on those little bicycles?"
+        ],
+        [
+            "Howard",
+            "Get out."
+        ],
+        [
+            "Sheldon",
+            "How about dolphins?"
+        ],
+        [
+            "Howard",
+            "Out!"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "So, come on, how was the first day with Hawking?"
+        ],
+        [
+            "Howard",
+            "It was great. We talked about movies."
+        ],
+        [
+            "Sheldon",
+            "Oh!"
+        ],
+        [
+            "Howard",
+            "I showed him some card tricks."
+        ],
+        [
+            "Sheldon",
+            "Oh!"
+        ],
+        [
+            "Howard",
+            "He even let me read a couple pages from his new book."
+        ],
+        [
+            "Sheldon",
+            "Oh!"
+        ],
+        [
+            "Howard",
+            "Something got you down there, bunky?"
+        ],
+        [
+            "Sheldon",
+            "Howard, please, I\u2019m begging you."
+        ],
+        [
+            "Leonard",
+            "Raj, you\u2019re our group historian. Has Sheldon ever begged before?"
+        ],
+        [
+            "Raj",
+            "Three times. He begged the Fox network not to cancel Firefly. He begged the TNT network to cancel Babylon 5. And when he got food poisoning at the Rose Bowl Parade, he begged a deity he doesn\u2019t believe in to end his life quickly."
+        ],
+        [
+            "Sheldon",
+            "Do you understand how important Hawking is to me? When I was six years old, I dressed up as him for Halloween."
+        ],
+        [
+            "Howard",
+            "You\u2019re kidding."
+        ],
+        [
+            "Sheldon",
+            "No, sir, no, I took my dad\u2019s desk chair, attached a Speak & Spell to it and made my sister push me up and down the block to trick or treat. Granted most people thought I was R2-D2, but still, I got a lot of candy."
+        ],
+        [
+            "Howard",
+            "You don\u2019t seem to be understanding the English word no. Maybe a different language will help. Russian, nyet. Chinese, bu. Japanese, iie. Klingon, qo. Binary coded Ascii, 0110111001101111."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s actually 01100111."
+        ],
+        [
+            "Howard",
+            "No!"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not asking for me, I\u2019m asking for Hawking."
+        ],
+        [
+            "Howard",
+            "Let me try gansta, hells no."
+        ],
+        [
+            "Sheldon",
+            "Okay, look, how about this? Just give him my paper on the Higgs boson. If he sees the incredible breakthrough I\u2019ve made, he\u2019ll reach out to me."
+        ],
+        [
+            "Leonard",
+            "What if he doesn\u2019t?"
+        ],
+        [
+            "Sheldon",
+            "He will, he\u2019s really smart."
+        ],
+        [
+            "Howard",
+            "That\u2019s an interesting idea. Why don\u2019t you give me a minute to talk it over with my friends?"
+        ],
+        [
+            "Sheldon",
+            "How do I do that?"
+        ],
+        [
+            "Howard",
+            "You walk away."
+        ],
+        [
+            "Sheldon",
+            "Walking away."
+        ],
+        [
+            "Leonard",
+            "You do realize you own his ass right now."
+        ],
+        [
+            "Howard",
+            "I do."
+        ],
+        [
+            "Raj",
+            "You can make him do anything you want."
+        ],
+        [
+            "Howard",
+            "Yeah, I know, I\u2019m just trying to figure out how much I want to punish him."
+        ],
+        [
+            "Raj",
+            "Well, don\u2019t be too mean."
+        ],
+        [
+            "Sheldon",
+            "Hey, fellas, I\u2019m thinking about making some freshly brewed iced tea if anyone would like some."
+        ],
+        [
+            "Raj",
+            "I wouldn\u2019t mind a glass."
+        ],
+        [
+            "Sheldon",
+            "I wasn\u2019t talking to you."
+        ],
+        [
+            "Raj",
+            "Bring him to his bony knees."
+        ],
+        [
+            "Howard",
+            "Sheldon, come on back."
+        ],
+        [
+            "Sheldon",
+            "Yes, yes. What did you decide?"
+        ],
+        [
+            "Howard",
+            "I\u2019ll give your paper to Professor Hawking."
+        ],
+        [
+            "Sheldon",
+            "Great, thank you. Oh, that\u2019s terrific."
+        ],
+        [
+            "Howard",
+            "But in exchange, I\u2019d like you to do a few things for me."
+        ],
+        [
+            "Sheldon",
+            "What kinds of things?"
+        ],
+        [
+            "Howard",
+            "Are you familiar with the 12 labours of Hercules?"
+        ],
+        [
+            "Sheldon",
+            "Of course."
+        ],
+        [
+            "Howard",
+            "You should be so lucky."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Sheldon",
+            "All right. What would you like me to do first?"
+        ],
+        [
+            "Howard",
+            "Well, I thought I\u2019d start you off by polishing my belt buckles."
+        ],
+        [
+            "Sheldon",
+            "Oh. By all means. When I was a boy, I would polish my Mee-Maw\u2019s silver. And she would entertain me with stories about growing up in Oklahoma. Interesting woman. You know, she once killed a prairie dog with a gravy boat."
+        ],
+        [
+            "Howard",
+            "That\u2019s nice."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a lot of belt buckles."
+        ],
+        [
+            "Howard",
+            "Funny thing is, I only have one belt. Anyway, I\u2019ll let you get started. Oh, by the way, the little marks, uh, that look like water spots, I tend to stand too close to the urinal, so what you\u2019re seeing there is splash back."
+        ],
+        [
+            "Sheldon",
+            "You make sissy on your belt buckles? Mee-Maw\u2019s forks never had that."
+        ],
+        [
+            "Howard",
+            "Here is a black light to check them. And for your own peace of mind, you might not want to shine that around the rest of the room."
+        ],
+        [
+            "Scene",
+            "(Later)"
+        ],
+        [
+            "Howard",
+            "Sheldon, these look great. They\u2019re like magnificent little crowns to hang over my magnificent little jewels. How\u2019d you get them so shiny?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I-I buffed them with Turtle Wax. The man down at Pep Boys says from now on, the urine should just bead up and roll right off."
+        ],
+        [
+            "Howard",
+            "Way to go the extra mile. Your Mee-Maw would be proud."
+        ],
+        [
+            "Sheldon",
+            "My Mee-Maw must never know of this. Now will you give Professor Hawking my paper?"
+        ],
+        [
+            "Howard",
+            "Oh, my dear boy, no. Okay. Next, this is a sexy French maid costume I bought for Bernadette. I thought it might spice things up and get her to dust my room at the same time, but I was wrong and really wrong."
+        ],
+        [
+            "Sheldon",
+            "And you want me to return it for you?"
+        ],
+        [
+            "Howard",
+            "No, no, no, mon petit cherie."
+        ],
+        [
+            "Scene",
+            "The cafeteria. Sheldon enters in the French maid costume."
+        ],
+        [
+            "Sheldon",
+            "What are you all staring at? Didn\u2019t you ever see a man try to get a meeting with Stephen Hawking before?"
+        ],
+        [
+            "Scene",
+            "The laundry room."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Penny",
+            "It\u2019s not Saturday night. Why are you doing your laundry?"
+        ],
+        [
+            "Sheldon",
+            "This is not my laundry."
+        ],
+        [
+            "Penny",
+            "Wow, are these Amy\u2019s? Kind of trashy, good for her."
+        ],
+        [
+            "Sheldon",
+            "Those are Howard\u2019s."
+        ],
+        [
+            "Penny",
+            "Ugh. Why are you washing Howard\u2019s man panties?"
+        ],
+        [
+            "Sheldon",
+            "Because if I don\u2019t, he won\u2019t give my paper to Stephen Hawking. He\u2019s a famous physicist."
+        ],
+        [
+            "Penny",
+            "Yeah, yeah, I know, he\u2019s the wheelchair dude who invented time."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s close enough."
+        ],
+        [
+            "Penny",
+            "I don\u2019t understand, why doesn\u2019t Howard just introduce you to the guy?"
+        ],
+        [
+            "Sheldon",
+            "Because he\u2019s punishing me for being a, quote, condescending jerk. You don\u2019t think I\u2019m condescending, do you?"
+        ],
+        [
+            "Penny",
+            "Well\u2026"
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m sorry, condescending means\u2026"
+        ],
+        [
+            "Penny",
+            "I know what it means. And yes, you love correcting people and putting them down."
+        ],
+        [
+            "Sheldon",
+            "Au contraire. When I correct people I am raising them up. You should know, I do it for you more than anyone."
+        ],
+        [
+            "Penny",
+            "Come on, you do it to feel superior. I see that twinkle in your eye when someone says who instead of whom or thinks the moon is a planet."
+        ],
+        [
+            "Sheldon",
+            "Or Don Quixote is a book about a donkey named Hotay."
+        ],
+        [
+            "Penny",
+            "See, there it is, there\u2019s that twinkle."
+        ],
+        [
+            "Sheldon",
+            "Well, I can\u2019t help it. That\u2019s an involuntary twinkle."
+        ],
+        [
+            "Penny",
+            "What do you want me to tell you, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "I want you to tell me that Howard is being mean to me for no reason."
+        ],
+        [
+            "Penny",
+            "Fine, Howard is being mean to you for no reason."
+        ],
+        [
+            "Sheldon",
+            "I knew it."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Howard",
+            "What\u2019s the matter?"
+        ],
+        [
+            "Bernadette",
+            "Every time I spend the night, your mom slaps me on the behind and says, go get \u2018im."
+        ],
+        [
+            "Howard",
+            "It\u2019s not her fault. She\u2019s getting hormone replacement therapy. Makes her crazy horny. Check this out, I got Sheldon to wear the French maid\u2019s costume."
+        ],
+        [
+            "Bernadette",
+            "Oh, my God, that\u2019s terrible."
+        ],
+        [
+            "Howard",
+            "Hey, I gave you first crack at it."
+        ],
+        [
+            "Bernadette",
+            "Why are you doing that? You\u2019re being mean to him."
+        ],
+        [
+            "Howard",
+            "He\u2019s mean to me all the time. You\u2019ve heard him tease me about not having a doctorate."
+        ],
+        [
+            "Bernadette",
+            "If you don\u2019t want to get teased about that, get a doctorate. I have one, they\u2019re great."
+        ],
+        [
+            "Howard",
+            "Oh, come on, the man torments me. I\u2019m just letting him have a little taste of his own medicine."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s not the same thing. Sheldon doesn\u2019t know when he\u2019s being mean because the part of his brain that should know is getting a wedgie from the rest of his brain."
+        ],
+        [
+            "Howard",
+            "Fine, I\u2019ll just make him do a couple more things, then I\u2019ll stop."
+        ],
+        [
+            "Bernadette",
+            "No, you have to stop now."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Bernadette, I want to remind you, you promised to take me dress shopping tomorrow!"
+        ],
+        [
+            "Bernadette",
+            "Oh, damn. I\u2019m sorry, I can\u2019t make it, but Sheldon\u2019s going to go with you! And that\u2019s the last thing you do to him."
+        ],
+        [
+            "Scene",
+            "A shop changing rooms."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Sheldon! I need your help!"
+        ],
+        [
+            "Sheldon",
+            "What is it now, Mrs. Wolowitz?"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "It\u2019s this dress. When I put my front in, my back pops out. When I put my back in, my front pops out. It\u2019s like trying to keep two dogs in a bathtub!"
+        ],
+        [
+            "Sheldon",
+            "What do you want me to do?"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "We\u2019re gonna have to work as a team. Get in here, grab a handful, and start stuffing."
+        ],
+        [
+            "Sheldon (off)",
+            "I\u2019m not sure how to do this."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "It\u2019s easy, just pretend you\u2019re putting away a sleeping bag."
+        ],
+        [
+            "Sheldon (off)",
+            "Sleeping bags don\u2019t usually sweat this much, but okay."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Now zip me up."
+        ],
+        [
+            "Sheldon (off)",
+            "Oh, if we squeeze you any tighter, you may turn into a diamond."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "You\u2019re right, who am I kidding? You should have seen me when I was young, Sheldon. The fellas used to line up and bring me boxes of candy. Why did I eat it all? Would you hold me?"
+        ],
+        [
+            "Sheldon",
+            "Oh, no, you know, I\u2019m not really the holding kind of\u2026 Oh!"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard",
+            "Oh, guys, I just remembered. I got you some Hawking souvenirs."
+        ],
+        [
+            "Leonard",
+            "What are these?"
+        ],
+        [
+            "Howard",
+            "Gears and springs from his wheelchair. Pretty cool, huh?"
+        ],
+        [
+            "Raj",
+            "Wow, that\u2019s amazing."
+        ],
+        [
+            "Howard",
+            "Yeah, I made an adjustment on the motor drive and when I was putting it back together I could not for the life of me figure out where they went."
+        ],
+        [
+            "Sheldon",
+            "I did it. Had to go to three clothing stores, but we finally found a dress that could envelop your mother."
+        ],
+        [
+            "Howard",
+            "I should have sent you to the custom car cover place in Altadena. They have her pattern on file."
+        ],
+        [
+            "Sheldon",
+            "Humorous. Now will you please present my paper to Professor Hawking?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "Oh, for heaven\u2019s sake. I did your laundry, I pee-pee-proofed your belt buckles, I, I even sprained my wrist helping your mother lift her bosom."
+        ],
+        [
+            "Howard",
+            "All right, Sheldon, there\u2019s only one thing left I want you to do. Don\u2019t worry, it\u2019s an easy one."
+        ],
+        [
+            "Sheldon",
+            "Okay."
+        ],
+        [
+            "Howard",
+            "Give me a compliment."
+        ],
+        [
+            "Sheldon",
+            "Fine. You have very tiny hands."
+        ],
+        [
+            "Howard",
+            "No, about my job. I want you to tell me I\u2019m good at what I do."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re obviously good at what you do."
+        ],
+        [
+            "Howard",
+            "Well, then why are you always ripping on me?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I understand the confusion. I have never said that you are not good at what you do. It\u2019s just that what you do is not worth doing."
+        ],
+        [
+            "Leonard",
+            "It\u2019s nicer than anything he\u2019s ever said to me. I\u2019d take it and run."
+        ],
+        [
+            "Howard",
+            "Thank you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Now will you give my paper to Hawking?"
+        ],
+        [
+            "Howard",
+            "Sorry, I can\u2019t."
+        ],
+        [
+            "Sheldon",
+            "What, why not?"
+        ],
+        [
+            "Howard",
+            "I gave it to him three days ago. He was really impressed. He wants to meet you."
+        ],
+        [
+            "Sheldon",
+            "All right, then. Thank you, Howard. Please let Professor Hawking know that I\u2019m available at his earliest convenience."
+        ],
+        [
+            "Raj",
+            "I thought he might be a little more excited."
+        ],
+        [
+            "Leonard",
+            "Give it a second. (Sound of Sheldon shrieking in joy in his bedroom)"
+        ],
+        [
+            "Scene",
+            "Stephen Hawking\u2019s office."
+        ],
+        [
+            "Sheldon",
+            "Professor Hawking, it\u2019s an honour and a privilege to meet you, sir."
+        ],
+        [
+            "Hawking",
+            "I know."
+        ],
+        [
+            "Sheldon",
+            "I want to thank you for taking time to see me."
+        ],
+        [
+            "Hawking",
+            "My pleasure. I enjoyed reading your paper very much. You clearly have a brilliant mind."
+        ],
+        [
+            "Sheldon",
+            "I know."
+        ],
+        [
+            "Hawking",
+            "Your thesis that the Higgs boson is a black hole accelerating backwards through time is fascinating."
+        ],
+        [
+            "Sheldon",
+            "Thank you. It just, it came to me one morning in the shower."
+        ],
+        [
+            "Hawking",
+            "That\u2019s nice. Too bad it\u2019s wrong."
+        ],
+        [
+            "Sheldon",
+            "What do you mean wrong?"
+        ],
+        [
+            "Hawking",
+            "You made an arithmetic mistake on page two. It was quite the boner."
+        ],
+        [
+            "Sheldon",
+            "No, no, th-th-th-that can\u2019t be right. I-I don\u2019t make arithmetic mistakes."
+        ],
+        [
+            "Hawking",
+            "Are you saying I do?"
+        ],
+        [
+            "Sheldon",
+            "Oh, no, no, no, of course not. It\u2019s just, I was thinking\u2026 Oh, gosh, golly, I made a boo-boo, and I gave it to Stephen Hawking."
+        ],
+        [
+            "Hawking",
+            "Great, another fainter."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-21-the-hawking-excitation/"
+}

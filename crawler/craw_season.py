@@ -4,10 +4,9 @@ from bs4 import BeautifulSoup
 
 if __name__ == '__main__':
     
-    for season in range(2,2+1):
+    for season in range(1,3):
 
         url = 'https://bigbangtheory.fandom.com/wiki/Season_'+str(season)
-
         crawler = Crawler()
 
         sublinks = set()
@@ -31,7 +30,7 @@ if __name__ == '__main__':
 
                 try:
                     url = 'https://bigbangtheory.fandom.com/wiki/Transcripts/'+subname
-                    crawler.craw_page(url, season, subname)
+                    crawler.craw_page_fandom(url, season, subname)
 
                 except Exception as e:
                     print(e)

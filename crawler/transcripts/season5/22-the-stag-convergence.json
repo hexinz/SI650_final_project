@@ -1,0 +1,1668 @@
+{
+    "Season": 5,
+    "Episode": 22,
+    "Title": "the stag convergence",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The cafeteria. Sheldon laughs to himself."
+            ],
+            [
+                26,
+                "Credits sequence."
+            ],
+            [
+                27,
+                "The stairwell."
+            ],
+            [
+                40,
+                "A restaurant."
+            ],
+            [
+                69,
+                "Penny\u2019s apartment."
+            ],
+            [
+                84,
+                "The restaurant."
+            ],
+            [
+                118,
+                "Bernadette\u2019s car."
+            ],
+            [
+                134,
+                "Bernadette\u2019s apartment."
+            ],
+            [
+                148,
+                "The apartment. Howard is on the phone."
+            ],
+            [
+                166,
+                "Bernadette\u2019s apartment."
+            ],
+            [
+                194,
+                "The laundry room. Leonard enters in his dressing gown."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "I wish you could all be inside my head. The conversation is sparkling. (Pause) Fine, I\u2019ll tell you. A lichen is an organism made up of two separate species, fungi and algae. If you could merge with another species, what species would you pick and why? Hint, there is a right answer. None of you will get it."
+            ],
+            [
+                3,
+                "Wrong. Leonard?"
+            ],
+            [
+                5,
+                "Wrong, and let\u2019s keep it clean, shall we?"
+            ],
+            [
+                8,
+                "Clever, but also wrong. No, the best organism for human beings to merge with is the lichen itself. That way, you\u2019d be human, fungus, and algae. Triple threat. Like three-bean salad."
+            ],
+            [
+                10,
+                "All right, picture this, a beautiful outdoor concert. Now, as a human, I appreciate Beethoven. As a fungus, I have a terrific view, growing out of a towering maple tree. And no thank you, expensive concessions. Because as an algae, I\u2019ll just snack on this sunlight."
+            ],
+            [
+                14,
+                "Well, seems like a bit of a let down after our lichen conversation, but, what do you know, you\u2019re half swan."
+            ],
+            [
+                20,
+                "You know Germans have an interesting pre-wedding custom."
+            ],
+            [
+                23,
+                "Boo, wine! But yay, trains. I\u2019m in."
+            ],
+            [
+                44,
+                "Indeed. If I\u2019m to participate in the social convention that is the stag night, then I must embrace all its components, including tobacco, swear words, and yes, alcohol. Jeepers! That\u2019s yucky."
+            ],
+            [
+                49,
+                "I\u2019m confused. I thought since our reconciliation, I was your friend in this group."
+            ],
+            [
+                51,
+                "Oh. I guess you\u2019re just friends with anybody. (Drinks) Aagh!"
+            ],
+            [
+                87,
+                "And, apparently, Wil Wheaton\u2019s best friend."
+            ],
+            [
+                89,
+                "Talk to the hand."
+            ],
+            [
+                91,
+                "Yeah, I do. (All groan). As is the tradition, I have prepared a series of disrespectful jokes which generate humour at Howard\u2019s expense. Prepare to have your ribs tickled. Howard, I always thought you\u2019d be the last one of us to ever get married, because you are so short and unappealing. Am I right? Let\u2019s see here. Oh, seriously though, Howard, you\u2019re actually one of the most intelligent people I know. And that\u2019s a zinger, because you\u2019re not. I\u2019ve always thought that you\u2019d make someone a fine husband someday. Assuming you\u2019d be able to get the parts, and develop the engineering skills to assemble them, which I don\u2019t see as likely. Hacha! Okay, let me see here. Okay, kidding aside, Howard, you are a good friend. And I wish you nothing but happiness. Bazinga, I don\u2019t!"
+            ],
+            [
+                93,
+                "Doubleazinga! I do! Good luck following that."
+            ],
+            [
+                108,
+                "And the first woman you ever disappointed sexually. Ba-da-bazinga!"
+            ],
+            [
+                117,
+                "Jeepers, I\u2019m drunk."
+            ],
+            [
+                153,
+                "Here."
+            ],
+            [
+                155,
+                "You\u2019re upset. The convention is to bring an upset person a hot beverage."
+            ],
+            [
+                157,
+                "Chicken broth. It seemed culturally appropriate. Also, there was a single cube of chicken bouillon in the cupboard when I moved in and it\u2019s been bothering me for the last eight years. So, as they say, two birds."
+            ],
+            [
+                165,
+                "I just threw up the bachelor party."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "Okay, uh, I\u2019d pick swan because, uh, the resulting hybrid would have the advanced industrial civilization of a human and the long graceful neck I\u2019ve always dreamed of having."
+            ],
+            [
+                11,
+                "He got us again."
+            ],
+            [
+                13,
+                "Anyway, if it\u2019s okay with you, we should talk about Howard\u2019s bachelor party."
+            ],
+            [
+                15,
+                "I\u2019ve been doing some research on strippers. One agency I spoke to, said I could get us a great price if we\u2019re flexible on age range and number of limbs."
+            ],
+            [
+                17,
+                "You don\u2019t want strippers? You\u2019re the king of strippers. The one club in North Hollywood named a pole after you."
+            ],
+            [
+                22,
+                "Maybe we can go up to Napa Valley. They\u2019ve got that wine train."
+            ],
+            [
+                24,
+                "Anyway, it\u2019s a beautiful time of year. Uh, you travel through the vineyards. There\u2019s a tasting on board. And all the wild flowers are in bloom. It\u2019s magic."
+            ],
+            [
+                63,
+                "Hey, everybody! The bachelor boy has arrived! For he\u2019s a jolly good fellow\u2026"
+            ],
+            [
+                85,
+                "May I have your attention, please? We are hear tonight to celebrate the upcoming nuptials of my best friend Howard Wolowitz."
+            ],
+            [
+                90,
+                "Does anyone have any words they\u2019d like to say about our man of the evening?"
+            ],
+            [
+                100,
+                "Yeah, to Howard. Um, uh, who\u2019s next?"
+            ],
+            [
+                102,
+                "Hear, hear."
+            ],
+            [
+                104,
+                "Okay, uh, anybody else? Huh? No? Okay, it all comes down to me, the best man. Ooh! This grasshopper is kicking my ass-hopper. Okay, when I first came to this country, I-I didn\u2019t know how to behave or how to dress, or what was cool, I was pretty lonely. But then I met Howard, and suddenly, my life changed, because we could be lonely together. This man became my whole world."
+            ],
+            [
+                106,
+                "I\u2019m not done, but thank you. (Raj puts the dollar on the table. Stuart steals it.) I think back to all the good times we had, like, uh, when we went camping and spent that night telling each other all our secrets. I told him I\u2019m addicted to pedicures and he told me he lost his virginity to his cousin."
+            ],
+            [
+                109,
+                "Oh, oh, yeah, and then there was the time when Leonard and I took Howard to Las Vegas and paid a hooker to pretend she was Jewish and that she wanted his little kosher pickle. Of all the Howard humping hookers stories, that one\u2019s my favourite!"
+            ],
+            [
+                111,
+                "Oh, oh, what about that tubby girl in the Sailor Moon costume at Comic-con?"
+            ],
+            [
+                113,
+                "The only threesome I\u2019ve ever had in my life, and I\u2019m proud to say it was with this man right here."
+            ],
+            [
+                115,
+                "Oh, oh, don\u2019t get me wrong, nothing happened with me and Howard. There was about 200 pounds of Sailor Moon between us."
+            ],
+            [
+                125,
+                "You know, we\u2019re not that far from my apartment. If you stop the car, I can walk from here."
+            ],
+            [
+                129,
+                "Seriously, you don\u2019t even have to stop the car. Anything under ten miles an hour and I can combat-roll into the street."
+            ],
+            [
+                132,
+                "Thank you, Bernadette."
+            ],
+            [
+                150,
+                "Dude, I am so sorry."
+            ],
+            [
+                162,
+                "I\u2019ve got the phone number of the tubby girl from Comic-Con."
+            ],
+            [
+                164,
+                "All right. More Sailor Moon for me."
+            ]
+        ],
+        "Leonard": [
+            [
+                4,
+                "Horse, but mostly just for the height. A little bit for the genital girth."
+            ],
+            [
+                7,
+                "Also instead of just living in your mother\u2019s house, you could actually live inside her body."
+            ],
+            [
+                9,
+                "Give me one circumstance in which that would be useful."
+            ],
+            [
+                12,
+                "No, he didn\u2019t."
+            ],
+            [
+                19,
+                "Good for you, Howard. I\u2019m proud of you. And still, you\u2019re the first one of us to get married. We have to do something special."
+            ],
+            [
+                25,
+                "Look at that, in 30 seconds, we went from hiring women to being them."
+            ],
+            [
+                29,
+                "Yeah, just going to a restaurant, get some steaks and scotch. Nothing to worry about."
+            ],
+            [
+                31,
+                "Well, I don\u2019t know. It\u2019s a bachelor party. There could be strippers. Wouldn\u2019t that make you a little jealous?"
+            ],
+            [
+                33,
+                "Hey, I am a young man in his sexual prime. Under the right conditions, I-I-I am capable of just, really crazy stuff."
+            ],
+            [
+                35,
+                "Oh, come on, that\u2019s got to count. There was a really strong undertow, we could have died."
+            ],
+            [
+                37,
+                "Oh, I will. There is no telling what might happen."
+            ],
+            [
+                39,
+                "You know, there\u2019s nothing wrong helping some woman\u2019s kid get through their S.A.T.\u2019s."
+            ],
+            [
+                41,
+                "Hey, I got to hand it to Raj, he found a really nice spot to have a bachelor party."
+            ],
+            [
+                43,
+                "Are you drinking whisky?"
+            ],
+            [
+                45,
+                "Whoa, it\u2019s a little early to start dropping J-bombs, don\u2019t you think?"
+            ],
+            [
+                47,
+                "Oh, hey, Wil. Nice of you to make it out tonight for Howard."
+            ],
+            [
+                53,
+                "Oh, yeah, no worries."
+            ],
+            [
+                55,
+                "Oh, all right."
+            ],
+            [
+                57,
+                "Yeah, sure."
+            ],
+            [
+                59,
+                "Oh."
+            ],
+            [
+                61,
+                "Wow, that\u2019s very nice."
+            ],
+            [
+                92,
+                "Sheldon\u2026"
+            ],
+            [
+                94,
+                "So, Howard Wolowitz tying the knot. Leaving his crazy bachelor days behind. He was a wild one. Well, I guess we all kind of were. I remember this one time, I was with this girl at the beach. We were in the ocean and we started making out. I know, it was crazy. I wasn\u2019t even wearing my Aquasocks. Then\u2026"
+            ],
+            [
+                96,
+                "Right. To Howard."
+            ],
+            [
+                98,
+                "I totally had sex in the ocean."
+            ],
+            [
+                152,
+                "Actually, you did do one of them together."
+            ],
+            [
+                159,
+                "Well, Howard, I don\u2019t know much about women."
+            ],
+            [
+                161,
+                "No, uh, that, that\u2019s it. I don\u2019t know much about women. Raj, you got anything?"
+            ],
+            [
+                195,
+                "Hello."
+            ],
+            [
+                199,
+                "Come on, please."
+            ],
+            [
+                201,
+                "Folding a sheet in my underwear, still pretty crazy."
+            ]
+        ],
+        "Howard": [
+            [
+                6,
+                "Kangaroo, uh, I\u2019d be a Kanga-Jew. The first of my people to dunk a basketball."
+            ],
+            [
+                16,
+                "Sounds like loads of fun, but I promised Bernadette no strippers."
+            ],
+            [
+                18,
+                "What can I tell ya, I\u2019m not into that stuff any more."
+            ],
+            [
+                21,
+                "Well, it\u2019s probably not for me."
+            ],
+            [
+                66,
+                "Actually, Barry, we\u2019re not going to have strippers tonight."
+            ],
+            [
+                107,
+                "She was my second cousin."
+            ],
+            [
+                110,
+                "Okay, buddy, that\u2019s it. Sit down."
+            ],
+            [
+                112,
+                "Don\u2019t remember. Please sit down."
+            ],
+            [
+                114,
+                "Oh, please shut up."
+            ],
+            [
+                119,
+                "Thank you for picking us up. There\u2019s a warning, right there, on the scotch bottle. You cannot be operatin\u2019 heavy machinery after you had a snootful of this, laddie!"
+            ],
+            [
+                121,
+                "Yeah, it was great. And low-key, like I promised. No hanky-panky, no strippers. Just the guys telling jokes."
+            ],
+            [
+                123,
+                "How about you? Did you have a fun night? Yeah, we, uh, made gift bags, had wine, and then went online and saw this."
+            ],
+            [
+                127,
+                "Bernadette, listen\u2026"
+            ],
+            [
+                130,
+                "Okay, just to set the record straight, I didn\u2019t hire the prostitute, she was a gift from him. Shame on you, Raj. That is not how we treat women in this country."
+            ],
+            [
+                149,
+                "Hi, Bernie, it\u2019s me again. Please call me back."
+            ],
+            [
+                151,
+                "It\u2019s not your fault, it\u2019s mine. I did all that stuff, not you."
+            ],
+            [
+                154,
+                "What is this?"
+            ],
+            [
+                156,
+                "No, but what is it?"
+            ],
+            [
+                158,
+                "I don\u2019t know what my next move is."
+            ],
+            [
+                160,
+                "Yeah?"
+            ],
+            [
+                163,
+                "I\u2019m not calling the girl from Comic-con."
+            ],
+            [
+                174,
+                "I need to talk to Bernadette."
+            ],
+            [
+                176,
+                "All right, well, could you at least give her a message?"
+            ],
+            [
+                178,
+                "Tell her I\u2019m really sorry, and if she doesn\u2019t want to marry me, I get it. But what I really want her to know is the guy that she\u2019s disgusted by, is the guy that I\u2019m disgusted by, too. But that guy doesn\u2019t exist any more, he\u2019s gone, and the reason is because of her. So, if this relationship is over, let her know that she made me a better man, and tell her thank you."
+            ],
+            [
+                181,
+                "Penny has a message for you."
+            ],
+            [
+                183,
+                "Do you want me to go?"
+            ],
+            [
+                185,
+                "I get that."
+            ],
+            [
+                187,
+                "Couple things, but, you know, most of them happened overseas. I\u2019ll tell you later."
+            ],
+            [
+                189,
+                "So, is the wedding still on?"
+            ]
+        ],
+        "Penny": [
+            [
+                28,
+                "So, I hear you and the lost boys are having a bachelor party tonight."
+            ],
+            [
+                30,
+                "Why should I worry?"
+            ],
+            [
+                32,
+                "Oh, come on Leonard, it\u2019s you. What\u2019s going to happen? I mean, even if there was a stripper, all you\u2019d do is avoid eye-contact and maybe offer to help her kid with his homework."
+            ],
+            [
+                34,
+                "Really? What is the craziest thing you\u2019ve ever done with a woman? And the time you and I had sex in the ocean does not count."
+            ],
+            [
+                36,
+                "Well, have fun tonight."
+            ],
+            [
+                38,
+                "Yeah, there is."
+            ],
+            [
+                72,
+                "Yeah, we labeled them stop and go."
+            ],
+            [
+                76,
+                "Okay, show\u2019s over."
+            ],
+            [
+                78,
+                "I don\u2019t care. Ask her things like are you going to take Howard\u2019s name? Not who\u2019s going to sit on who?"
+            ],
+            [
+                80,
+                "Nice. You know, you should totally get BernadetteMaryAnnRostenkowskiWolowitz.com before someone snaps it up."
+            ],
+            [
+                82,
+                "Oh, that\u2019s cool."
+            ],
+            [
+                137,
+                "Amy, remember when we went over things that would be helpful and things that wouldn\u2019t?"
+            ],
+            [
+                139,
+                "Not."
+            ],
+            [
+                141,
+                "Well, if that\u2019s what you like, I\u2019ll take you to the comic book store, the place is full of \u2019em."
+            ],
+            [
+                143,
+                "Well, a little. You hear stuff."
+            ],
+            [
+                145,
+                "Well, I was gonna, but I didn\u2019t think it would go past the first date. Then, when it did, I thought for sure it wouldn\u2019t go past you meeting his mother. Definitely not past the two of you sleeping together. I mean, the warning signs were there, this is really on you."
+            ],
+            [
+                167,
+                "Please come out, Bernadette. Let\u2019s talk through this."
+            ],
+            [
+                170,
+                "Amy."
+            ],
+            [
+                173,
+                "Hey."
+            ],
+            [
+                175,
+                "Well, I don\u2019t think she wants to talk to anyone right now."
+            ],
+            [
+                177,
+                "Yeah, sure, I guess."
+            ],
+            [
+                179,
+                "Oh, my God, Howard. That\u2019s the most beautiful thing I\u2019ve ever heard. And it came out of you."
+            ],
+            [
+                192,
+                "Oh, what the hell. (Joins in too)"
+            ],
+            [
+                196,
+                "What\u2019s with the robe?"
+            ],
+            [
+                198,
+                "No, you\u2019re not."
+            ],
+            [
+                200,
+                "If you want to do something, you can help me fold this sheet."
+            ]
+        ],
+        "Sheldon: It\u2019s not bad. Unless you compare it to a train": [
+            [
+                42,
+                "then it stinks."
+            ]
+        ],
+        "Wil Wheaton": [
+            [
+                46,
+                "Hey, you guys."
+            ]
+        ],
+        "Wil": [
+            [
+                48,
+                "Well, it was either this or another hot tub party at George Takei\u2019s house."
+            ],
+            [
+                50,
+                "Oh, I\u2019m friends with Howard too."
+            ],
+            [
+                88,
+                "Sheldon\u2026"
+            ]
+        ],
+        "Stuart": [
+            [
+                52,
+                "Hey, uh, Leonard, things are a little tight at the comic book store. I might need some help covering my share of the check."
+            ],
+            [
+                54,
+                "And maybe a few bucks for the valet."
+            ],
+            [
+                56,
+                "And gas money to get home."
+            ],
+            [
+                58,
+                "Great. You know what? This is my grandfather\u2019s watch."
+            ],
+            [
+                60,
+                "18-carat gold, got it in Europe during the war."
+            ],
+            [
+                62,
+                "Mm-hmm. A hundred bucks and it\u2019s yours."
+            ],
+            [
+                68,
+                "You want to buy a watch?"
+            ],
+            [
+                99,
+                "Okay, I\u2019ll go. Howard, when I think about you and Bernadette starting this wonderful life together, I can\u2019t help but get a little choked up. I mean, look at you. You have everything. Look at me. I\u2019m 37. I sleep in the back of a comic book store, and I have the bone density of an 80-year-old man. To Howard."
+            ]
+        ],
+        "All (joining in)": [
+            [
+                64,
+                "For he\u2019s a jolly good fellow, for he\u2019s a jolly good fellow, which nobody can deny."
+            ]
+        ],
+        "Kripke": [
+            [
+                65,
+                "Yes, yes, yes. He\u2019s a jowwy good fewwow. What time do the stwippers awwive?"
+            ],
+            [
+                67,
+                "Ah, then what the fwig did I get two hundwed dowwaws in singles out for?"
+            ],
+            [
+                95,
+                "Nobody cares, Hofstadter. Wwap it up."
+            ],
+            [
+                101,
+                "I\u2019ll go. Howard, I\u2019m gonna say something to you that evewybody\u2019s thinking but no one has the couwage to say out woud. When you invite a man to a bachewor pawty, the impwication is, there will be stwippews. Maybe not compwetewy nude, but at weast pasties and G-stwings. That\u2019s not unweasonable."
+            ],
+            [
+                105,
+                "Yeah, nice speech, Fwancine. (Tucks a dollar in Raj\u2019s pants.) "
+            ]
+        ],
+        "Amy (into a mini-cam)": [
+            [
+                70,
+                "This is Maid of Honour Amy Farrah Fowler, bringing you the wedding activities just weeks out from the big day. Let\u2019s check in with a beautiful, radiant young woman, and her friend who\u2019s about to get married. Ladies, can you tell us what you\u2019re doing?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                71,
+                "Um, these are gift bags we\u2019re going to put in the hotel rooms of our out-of-town guests. This is a map of Pasadena. This is a list of local restaurants. And then, for Howie\u2019s relatives, we have antihistamines, antacids, and medicine for diarrhoea and constipation."
+            ],
+            [
+                74,
+                "Amy, please."
+            ],
+            [
+                81,
+                "Howard already took care of it. Plus, he set up our beautiful wedding website with cute little facts about our family histories. Do you know, for a while in Poland, my family and his family were neighbours."
+            ],
+            [
+                120,
+                "Funny. You boys have a nice time?"
+            ],
+            [
+                122,
+                "That\u2019s nice."
+            ],
+            [
+                126,
+                "You ain\u2019t goin\u2019 anywhere, Threeway."
+            ],
+            [
+                128,
+                "You lied to me. You said you told me about all the girls you\u2019ve been with, but you never mentioned your cousin, the prostitute or Raj!"
+            ],
+            [
+                131,
+                "Don\u2019t you try and blame this on him."
+            ],
+            [
+                133,
+                "Zip it, pervert!"
+            ],
+            [
+                135,
+                "I don\u2019t know what I\u2019m going to do. I\u2019m supposed to marry Howard in a couple of weeks and I\u2019m not sure I even know who the man is any more."
+            ],
+            [
+                140,
+                "When I first met Howard, he seemed so innocent to me, just a sweet little guy who lives with his mother."
+            ],
+            [
+                142,
+                "Wait a minute. You set me up with Howard. Did you know about all the creepy stuff he was into?"
+            ],
+            [
+                144,
+                "Why didn\u2019t you tell me"
+            ],
+            [
+                146,
+                "My God! I thought you were my friend. (Runs to bedroom)"
+            ],
+            [
+                168,
+                "No, leave me alone."
+            ],
+            [
+                180,
+                "Howie?"
+            ],
+            [
+                182,
+                "I heard. Your voice, not unlike your mother\u2019s, travels through walls."
+            ],
+            [
+                184,
+                "No. Come here. I\u2019m still really mad at you."
+            ],
+            [
+                186,
+                "Is there anything else about your past I should know?"
+            ],
+            [
+                188,
+                "Okay."
+            ],
+            [
+                190,
+                "Yeah, the wedding\u2019s still on. (They hug)"
+            ]
+        ],
+        "Amy": [
+            [
+                73,
+                "All right, pivoting to the big question. Bernadette, on your wedding night you\u2019ll be consummating your marriage. What do you think your first sexual position will be as husband and wife?"
+            ],
+            [
+                75,
+                "Keeping in mind that whoever\u2019s on top may set the tone for the marriage."
+            ],
+            [
+                77,
+                "Hey, they may conceive a child on their wedding night. Don\u2019t you think the kid might get a kick out of knowing how it happened?"
+            ],
+            [
+                83,
+                "No, it\u2019s not. I\u2019ll explain it to you later."
+            ],
+            [
+                136,
+                "I\u2019m curious what\u2019s bothering you most, the borderline incest, the prostitute or group sex with the girl dressed as the children\u2019s cartoon?"
+            ],
+            [
+                138,
+                "Right. And that was\u2026"
+            ],
+            [
+                147,
+                "I don\u2019t think that was helpful."
+            ],
+            [
+                169,
+                "Perhaps you should give him a taste of his own medicine. Do you have a cousin who you find attractive?"
+            ],
+            [
+                171,
+                "Hey, you introduced him to the sleazebag. I\u2019m just trying to clean up your mess."
+            ],
+            [
+                191,
+                "Oh, thank God. I\u2019m still a maid of honour. (Joins in the hug)"
+            ],
+            [
+                193,
+                "This is kind of hot."
+            ]
+        ],
+        "Bernadette: I\u2019ve actually been thinking I\u2019m going to hyphenate": [
+            [
+                79,
+                "Bernadette Mary-Ann Rostenkowski-Wolowitz."
+            ]
+        ],
+        "All": [
+            [
+                86,
+                "Hear! Hear!"
+            ],
+            [
+                97,
+                "To Howard."
+            ],
+            [
+                103,
+                "Hear, hear."
+            ]
+        ],
+        "Wil (filming on his phone)": [
+            [
+                116,
+                "Oh, Internet, this is so going all over you."
+            ]
+        ],
+        "Raj\u2019s Voice": [
+            [
+                124,
+                "Of all the Howard humping hookers stories, that one\u2019s my favourite."
+            ]
+        ],
+        "Howard (at the door)": [
+            [
+                172,
+                "Oh, hi."
+            ]
+        ],
+        "Leonard (taking it off)": [
+            [
+                197,
+                "I\u2019m gonna have sex with you right here, right now, on that washing machine."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The cafeteria. Sheldon laughs to himself."
+        ],
+        [
+            "Sheldon",
+            "I wish you could all be inside my head. The conversation is sparkling. (Pause) Fine, I\u2019ll tell you. A lichen is an organism made up of two separate species, fungi and algae. If you could merge with another species, what species would you pick and why? Hint, there is a right answer. None of you will get it."
+        ],
+        [
+            "Raj",
+            "Okay, uh, I\u2019d pick swan because, uh, the resulting hybrid would have the advanced industrial civilization of a human and the long graceful neck I\u2019ve always dreamed of having."
+        ],
+        [
+            "Sheldon",
+            "Wrong. Leonard?"
+        ],
+        [
+            "Leonard",
+            "Horse, but mostly just for the height. A little bit for the genital girth."
+        ],
+        [
+            "Sheldon",
+            "Wrong, and let\u2019s keep it clean, shall we?"
+        ],
+        [
+            "Howard",
+            "Kangaroo, uh, I\u2019d be a Kanga-Jew. The first of my people to dunk a basketball."
+        ],
+        [
+            "Leonard",
+            "Also instead of just living in your mother\u2019s house, you could actually live inside her body."
+        ],
+        [
+            "Sheldon",
+            "Clever, but also wrong. No, the best organism for human beings to merge with is the lichen itself. That way, you\u2019d be human, fungus, and algae. Triple threat. Like three-bean salad."
+        ],
+        [
+            "Leonard",
+            "Give me one circumstance in which that would be useful."
+        ],
+        [
+            "Sheldon",
+            "All right, picture this, a beautiful outdoor concert. Now, as a human, I appreciate Beethoven. As a fungus, I have a terrific view, growing out of a towering maple tree. And no thank you, expensive concessions. Because as an algae, I\u2019ll just snack on this sunlight."
+        ],
+        [
+            "Raj",
+            "He got us again."
+        ],
+        [
+            "Leonard",
+            "No, he didn\u2019t."
+        ],
+        [
+            "Raj",
+            "Anyway, if it\u2019s okay with you, we should talk about Howard\u2019s bachelor party."
+        ],
+        [
+            "Sheldon",
+            "Well, seems like a bit of a let down after our lichen conversation, but, what do you know, you\u2019re half swan."
+        ],
+        [
+            "Raj",
+            "I\u2019ve been doing some research on strippers. One agency I spoke to, said I could get us a great price if we\u2019re flexible on age range and number of limbs."
+        ],
+        [
+            "Howard",
+            "Sounds like loads of fun, but I promised Bernadette no strippers."
+        ],
+        [
+            "Raj",
+            "You don\u2019t want strippers? You\u2019re the king of strippers. The one club in North Hollywood named a pole after you."
+        ],
+        [
+            "Howard",
+            "What can I tell ya, I\u2019m not into that stuff any more."
+        ],
+        [
+            "Leonard",
+            "Good for you, Howard. I\u2019m proud of you. And still, you\u2019re the first one of us to get married. We have to do something special."
+        ],
+        [
+            "Sheldon",
+            "You know Germans have an interesting pre-wedding custom."
+        ],
+        [
+            "Howard",
+            "Well, it\u2019s probably not for me."
+        ],
+        [
+            "Raj",
+            "Maybe we can go up to Napa Valley. They\u2019ve got that wine train."
+        ],
+        [
+            "Sheldon",
+            "Boo, wine! But yay, trains. I\u2019m in."
+        ],
+        [
+            "Raj",
+            "Anyway, it\u2019s a beautiful time of year. Uh, you travel through the vineyards. There\u2019s a tasting on board. And all the wild flowers are in bloom. It\u2019s magic."
+        ],
+        [
+            "Leonard",
+            "Look at that, in 30 seconds, we went from hiring women to being them."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Penny",
+            "So, I hear you and the lost boys are having a bachelor party tonight."
+        ],
+        [
+            "Leonard",
+            "Yeah, just going to a restaurant, get some steaks and scotch. Nothing to worry about."
+        ],
+        [
+            "Penny",
+            "Why should I worry?"
+        ],
+        [
+            "Leonard",
+            "Well, I don\u2019t know. It\u2019s a bachelor party. There could be strippers. Wouldn\u2019t that make you a little jealous?"
+        ],
+        [
+            "Penny",
+            "Oh, come on Leonard, it\u2019s you. What\u2019s going to happen? I mean, even if there was a stripper, all you\u2019d do is avoid eye-contact and maybe offer to help her kid with his homework."
+        ],
+        [
+            "Leonard",
+            "Hey, I am a young man in his sexual prime. Under the right conditions, I-I-I am capable of just, really crazy stuff."
+        ],
+        [
+            "Penny",
+            "Really? What is the craziest thing you\u2019ve ever done with a woman? And the time you and I had sex in the ocean does not count."
+        ],
+        [
+            "Leonard",
+            "Oh, come on, that\u2019s got to count. There was a really strong undertow, we could have died."
+        ],
+        [
+            "Penny",
+            "Well, have fun tonight."
+        ],
+        [
+            "Leonard",
+            "Oh, I will. There is no telling what might happen."
+        ],
+        [
+            "Penny",
+            "Yeah, there is."
+        ],
+        [
+            "Leonard",
+            "You know, there\u2019s nothing wrong helping some woman\u2019s kid get through their S.A.T.\u2019s."
+        ],
+        [
+            "Scene",
+            "A restaurant."
+        ],
+        [
+            "Leonard",
+            "Hey, I got to hand it to Raj, he found a really nice spot to have a bachelor party."
+        ],
+        [
+            "Sheldon: It\u2019s not bad. Unless you compare it to a train",
+            "then it stinks."
+        ],
+        [
+            "Leonard",
+            "Are you drinking whisky?"
+        ],
+        [
+            "Sheldon",
+            "Indeed. If I\u2019m to participate in the social convention that is the stag night, then I must embrace all its components, including tobacco, swear words, and yes, alcohol. Jeepers! That\u2019s yucky."
+        ],
+        [
+            "Leonard",
+            "Whoa, it\u2019s a little early to start dropping J-bombs, don\u2019t you think?"
+        ],
+        [
+            "Wil Wheaton",
+            "Hey, you guys."
+        ],
+        [
+            "Leonard",
+            "Oh, hey, Wil. Nice of you to make it out tonight for Howard."
+        ],
+        [
+            "Wil",
+            "Well, it was either this or another hot tub party at George Takei\u2019s house."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m confused. I thought since our reconciliation, I was your friend in this group."
+        ],
+        [
+            "Wil",
+            "Oh, I\u2019m friends with Howard too."
+        ],
+        [
+            "Sheldon",
+            "Oh. I guess you\u2019re just friends with anybody. (Drinks) Aagh!"
+        ],
+        [
+            "Stuart",
+            "Hey, uh, Leonard, things are a little tight at the comic book store. I might need some help covering my share of the check."
+        ],
+        [
+            "Leonard",
+            "Oh, yeah, no worries."
+        ],
+        [
+            "Stuart",
+            "And maybe a few bucks for the valet."
+        ],
+        [
+            "Leonard",
+            "Oh, all right."
+        ],
+        [
+            "Stuart",
+            "And gas money to get home."
+        ],
+        [
+            "Leonard",
+            "Yeah, sure."
+        ],
+        [
+            "Stuart",
+            "Great. You know what? This is my grandfather\u2019s watch."
+        ],
+        [
+            "Leonard",
+            "Oh."
+        ],
+        [
+            "Stuart",
+            "18-carat gold, got it in Europe during the war."
+        ],
+        [
+            "Leonard",
+            "Wow, that\u2019s very nice."
+        ],
+        [
+            "Stuart",
+            "Mm-hmm. A hundred bucks and it\u2019s yours."
+        ],
+        [
+            "Raj",
+            "Hey, everybody! The bachelor boy has arrived! For he\u2019s a jolly good fellow\u2026"
+        ],
+        [
+            "All (joining in)",
+            "For he\u2019s a jolly good fellow, for he\u2019s a jolly good fellow, which nobody can deny."
+        ],
+        [
+            "Kripke",
+            "Yes, yes, yes. He\u2019s a jowwy good fewwow. What time do the stwippers awwive?"
+        ],
+        [
+            "Howard",
+            "Actually, Barry, we\u2019re not going to have strippers tonight."
+        ],
+        [
+            "Kripke",
+            "Ah, then what the fwig did I get two hundwed dowwaws in singles out for?"
+        ],
+        [
+            "Stuart",
+            "You want to buy a watch?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Amy (into a mini-cam)",
+            "This is Maid of Honour Amy Farrah Fowler, bringing you the wedding activities just weeks out from the big day. Let\u2019s check in with a beautiful, radiant young woman, and her friend who\u2019s about to get married. Ladies, can you tell us what you\u2019re doing?"
+        ],
+        [
+            "Bernadette",
+            "Um, these are gift bags we\u2019re going to put in the hotel rooms of our out-of-town guests. This is a map of Pasadena. This is a list of local restaurants. And then, for Howie\u2019s relatives, we have antihistamines, antacids, and medicine for diarrhoea and constipation."
+        ],
+        [
+            "Penny",
+            "Yeah, we labeled them stop and go."
+        ],
+        [
+            "Amy",
+            "All right, pivoting to the big question. Bernadette, on your wedding night you\u2019ll be consummating your marriage. What do you think your first sexual position will be as husband and wife?"
+        ],
+        [
+            "Bernadette",
+            "Amy, please."
+        ],
+        [
+            "Amy",
+            "Keeping in mind that whoever\u2019s on top may set the tone for the marriage."
+        ],
+        [
+            "Penny",
+            "Okay, show\u2019s over."
+        ],
+        [
+            "Amy",
+            "Hey, they may conceive a child on their wedding night. Don\u2019t you think the kid might get a kick out of knowing how it happened?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t care. Ask her things like are you going to take Howard\u2019s name? Not who\u2019s going to sit on who?"
+        ],
+        [
+            "Bernadette: I\u2019ve actually been thinking I\u2019m going to hyphenate",
+            "Bernadette Mary-Ann Rostenkowski-Wolowitz."
+        ],
+        [
+            "Penny",
+            "Nice. You know, you should totally get BernadetteMaryAnnRostenkowskiWolowitz.com before someone snaps it up."
+        ],
+        [
+            "Bernadette",
+            "Howard already took care of it. Plus, he set up our beautiful wedding website with cute little facts about our family histories. Do you know, for a while in Poland, my family and his family were neighbours."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s cool."
+        ],
+        [
+            "Amy",
+            "No, it\u2019s not. I\u2019ll explain it to you later."
+        ],
+        [
+            "Scene",
+            "The restaurant."
+        ],
+        [
+            "Raj",
+            "May I have your attention, please? We are hear tonight to celebrate the upcoming nuptials of my best friend Howard Wolowitz."
+        ],
+        [
+            "All",
+            "Hear! Hear!"
+        ],
+        [
+            "Sheldon",
+            "And, apparently, Wil Wheaton\u2019s best friend."
+        ],
+        [
+            "Wil",
+            "Sheldon\u2026"
+        ],
+        [
+            "Sheldon",
+            "Talk to the hand."
+        ],
+        [
+            "Raj",
+            "Does anyone have any words they\u2019d like to say about our man of the evening?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, I do. (All groan). As is the tradition, I have prepared a series of disrespectful jokes which generate humour at Howard\u2019s expense. Prepare to have your ribs tickled. Howard, I always thought you\u2019d be the last one of us to ever get married, because you are so short and unappealing. Am I right? Let\u2019s see here. Oh, seriously though, Howard, you\u2019re actually one of the most intelligent people I know. And that\u2019s a zinger, because you\u2019re not. I\u2019ve always thought that you\u2019d make someone a fine husband someday. Assuming you\u2019d be able to get the parts, and develop the engineering skills to assemble them, which I don\u2019t see as likely. Hacha! Okay, let me see here. Okay, kidding aside, Howard, you are a good friend. And I wish you nothing but happiness. Bazinga, I don\u2019t!"
+        ],
+        [
+            "Leonard",
+            "Sheldon\u2026"
+        ],
+        [
+            "Sheldon",
+            "Doubleazinga! I do! Good luck following that."
+        ],
+        [
+            "Leonard",
+            "So, Howard Wolowitz tying the knot. Leaving his crazy bachelor days behind. He was a wild one. Well, I guess we all kind of were. I remember this one time, I was with this girl at the beach. We were in the ocean and we started making out. I know, it was crazy. I wasn\u2019t even wearing my Aquasocks. Then\u2026"
+        ],
+        [
+            "Kripke",
+            "Nobody cares, Hofstadter. Wwap it up."
+        ],
+        [
+            "Leonard",
+            "Right. To Howard."
+        ],
+        [
+            "All",
+            "To Howard."
+        ],
+        [
+            "Leonard",
+            "I totally had sex in the ocean."
+        ],
+        [
+            "Stuart",
+            "Okay, I\u2019ll go. Howard, when I think about you and Bernadette starting this wonderful life together, I can\u2019t help but get a little choked up. I mean, look at you. You have everything. Look at me. I\u2019m 37. I sleep in the back of a comic book store, and I have the bone density of an 80-year-old man. To Howard."
+        ],
+        [
+            "Raj",
+            "Yeah, to Howard. Um, uh, who\u2019s next?"
+        ],
+        [
+            "Kripke",
+            "I\u2019ll go. Howard, I\u2019m gonna say something to you that evewybody\u2019s thinking but no one has the couwage to say out woud. When you invite a man to a bachewor pawty, the impwication is, there will be stwippews. Maybe not compwetewy nude, but at weast pasties and G-stwings. That\u2019s not unweasonable."
+        ],
+        [
+            "Raj",
+            "Hear, hear."
+        ],
+        [
+            "All",
+            "Hear, hear."
+        ],
+        [
+            "Raj",
+            "Okay, uh, anybody else? Huh? No? Okay, it all comes down to me, the best man. Ooh! This grasshopper is kicking my ass-hopper. Okay, when I first came to this country, I-I didn\u2019t know how to behave or how to dress, or what was cool, I was pretty lonely. But then I met Howard, and suddenly, my life changed, because we could be lonely together. This man became my whole world."
+        ],
+        [
+            "Kripke",
+            "Yeah, nice speech, Fwancine. (Tucks a dollar in Raj\u2019s pants.) "
+        ],
+        [
+            "Raj",
+            "I\u2019m not done, but thank you. (Raj puts the dollar on the table. Stuart steals it.) I think back to all the good times we had, like, uh, when we went camping and spent that night telling each other all our secrets. I told him I\u2019m addicted to pedicures and he told me he lost his virginity to his cousin."
+        ],
+        [
+            "Howard",
+            "She was my second cousin."
+        ],
+        [
+            "Sheldon",
+            "And the first woman you ever disappointed sexually. Ba-da-bazinga!"
+        ],
+        [
+            "Raj",
+            "Oh, oh, yeah, and then there was the time when Leonard and I took Howard to Las Vegas and paid a hooker to pretend she was Jewish and that she wanted his little kosher pickle. Of all the Howard humping hookers stories, that one\u2019s my favourite!"
+        ],
+        [
+            "Howard",
+            "Okay, buddy, that\u2019s it. Sit down."
+        ],
+        [
+            "Raj",
+            "Oh, oh, what about that tubby girl in the Sailor Moon costume at Comic-con?"
+        ],
+        [
+            "Howard",
+            "Don\u2019t remember. Please sit down."
+        ],
+        [
+            "Raj",
+            "The only threesome I\u2019ve ever had in my life, and I\u2019m proud to say it was with this man right here."
+        ],
+        [
+            "Howard",
+            "Oh, please shut up."
+        ],
+        [
+            "Raj",
+            "Oh, oh, don\u2019t get me wrong, nothing happened with me and Howard. There was about 200 pounds of Sailor Moon between us."
+        ],
+        [
+            "Wil (filming on his phone)",
+            "Oh, Internet, this is so going all over you."
+        ],
+        [
+            "Sheldon",
+            "Jeepers, I\u2019m drunk."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car."
+        ],
+        [
+            "Howard",
+            "Thank you for picking us up. There\u2019s a warning, right there, on the scotch bottle. You cannot be operatin\u2019 heavy machinery after you had a snootful of this, laddie!"
+        ],
+        [
+            "Bernadette",
+            "Funny. You boys have a nice time?"
+        ],
+        [
+            "Howard",
+            "Yeah, it was great. And low-key, like I promised. No hanky-panky, no strippers. Just the guys telling jokes."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s nice."
+        ],
+        [
+            "Howard",
+            "How about you? Did you have a fun night? Yeah, we, uh, made gift bags, had wine, and then went online and saw this."
+        ],
+        [
+            "Raj\u2019s Voice",
+            "Of all the Howard humping hookers stories, that one\u2019s my favourite."
+        ],
+        [
+            "Raj",
+            "You know, we\u2019re not that far from my apartment. If you stop the car, I can walk from here."
+        ],
+        [
+            "Bernadette",
+            "You ain\u2019t goin\u2019 anywhere, Threeway."
+        ],
+        [
+            "Howard",
+            "Bernadette, listen\u2026"
+        ],
+        [
+            "Bernadette",
+            "You lied to me. You said you told me about all the girls you\u2019ve been with, but you never mentioned your cousin, the prostitute or Raj!"
+        ],
+        [
+            "Raj",
+            "Seriously, you don\u2019t even have to stop the car. Anything under ten miles an hour and I can combat-roll into the street."
+        ],
+        [
+            "Howard",
+            "Okay, just to set the record straight, I didn\u2019t hire the prostitute, she was a gift from him. Shame on you, Raj. That is not how we treat women in this country."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t you try and blame this on him."
+        ],
+        [
+            "Raj",
+            "Thank you, Bernadette."
+        ],
+        [
+            "Bernadette",
+            "Zip it, pervert!"
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know what I\u2019m going to do. I\u2019m supposed to marry Howard in a couple of weeks and I\u2019m not sure I even know who the man is any more."
+        ],
+        [
+            "Amy",
+            "I\u2019m curious what\u2019s bothering you most, the borderline incest, the prostitute or group sex with the girl dressed as the children\u2019s cartoon?"
+        ],
+        [
+            "Penny",
+            "Amy, remember when we went over things that would be helpful and things that wouldn\u2019t?"
+        ],
+        [
+            "Amy",
+            "Right. And that was\u2026"
+        ],
+        [
+            "Penny",
+            "Not."
+        ],
+        [
+            "Bernadette",
+            "When I first met Howard, he seemed so innocent to me, just a sweet little guy who lives with his mother."
+        ],
+        [
+            "Penny",
+            "Well, if that\u2019s what you like, I\u2019ll take you to the comic book store, the place is full of \u2019em."
+        ],
+        [
+            "Bernadette",
+            "Wait a minute. You set me up with Howard. Did you know about all the creepy stuff he was into?"
+        ],
+        [
+            "Penny",
+            "Well, a little. You hear stuff."
+        ],
+        [
+            "Bernadette",
+            "Why didn\u2019t you tell me"
+        ],
+        [
+            "Penny",
+            "Well, I was gonna, but I didn\u2019t think it would go past the first date. Then, when it did, I thought for sure it wouldn\u2019t go past you meeting his mother. Definitely not past the two of you sleeping together. I mean, the warning signs were there, this is really on you."
+        ],
+        [
+            "Bernadette",
+            "My God! I thought you were my friend. (Runs to bedroom)"
+        ],
+        [
+            "Amy",
+            "I don\u2019t think that was helpful."
+        ],
+        [
+            "Scene",
+            "The apartment. Howard is on the phone."
+        ],
+        [
+            "Howard",
+            "Hi, Bernie, it\u2019s me again. Please call me back."
+        ],
+        [
+            "Raj",
+            "Dude, I am so sorry."
+        ],
+        [
+            "Howard",
+            "It\u2019s not your fault, it\u2019s mine. I did all that stuff, not you."
+        ],
+        [
+            "Leonard",
+            "Actually, you did do one of them together."
+        ],
+        [
+            "Sheldon",
+            "Here."
+        ],
+        [
+            "Howard",
+            "What is this?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re upset. The convention is to bring an upset person a hot beverage."
+        ],
+        [
+            "Howard",
+            "No, but what is it?"
+        ],
+        [
+            "Sheldon",
+            "Chicken broth. It seemed culturally appropriate. Also, there was a single cube of chicken bouillon in the cupboard when I moved in and it\u2019s been bothering me for the last eight years. So, as they say, two birds."
+        ],
+        [
+            "Howard",
+            "I don\u2019t know what my next move is."
+        ],
+        [
+            "Leonard",
+            "Well, Howard, I don\u2019t know much about women."
+        ],
+        [
+            "Howard",
+            "Yeah?"
+        ],
+        [
+            "Leonard",
+            "No, uh, that, that\u2019s it. I don\u2019t know much about women. Raj, you got anything?"
+        ],
+        [
+            "Raj",
+            "I\u2019ve got the phone number of the tubby girl from Comic-Con."
+        ],
+        [
+            "Howard",
+            "I\u2019m not calling the girl from Comic-con."
+        ],
+        [
+            "Raj",
+            "All right. More Sailor Moon for me."
+        ],
+        [
+            "Sheldon",
+            "I just threw up the bachelor party."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Please come out, Bernadette. Let\u2019s talk through this."
+        ],
+        [
+            "Bernadette",
+            "No, leave me alone."
+        ],
+        [
+            "Amy",
+            "Perhaps you should give him a taste of his own medicine. Do you have a cousin who you find attractive?"
+        ],
+        [
+            "Penny",
+            "Amy."
+        ],
+        [
+            "Amy",
+            "Hey, you introduced him to the sleazebag. I\u2019m just trying to clean up your mess."
+        ],
+        [
+            "Howard (at the door)",
+            "Oh, hi."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "I need to talk to Bernadette."
+        ],
+        [
+            "Penny",
+            "Well, I don\u2019t think she wants to talk to anyone right now."
+        ],
+        [
+            "Howard",
+            "All right, well, could you at least give her a message?"
+        ],
+        [
+            "Penny",
+            "Yeah, sure, I guess."
+        ],
+        [
+            "Howard",
+            "Tell her I\u2019m really sorry, and if she doesn\u2019t want to marry me, I get it. But what I really want her to know is the guy that she\u2019s disgusted by, is the guy that I\u2019m disgusted by, too. But that guy doesn\u2019t exist any more, he\u2019s gone, and the reason is because of her. So, if this relationship is over, let her know that she made me a better man, and tell her thank you."
+        ],
+        [
+            "Penny",
+            "Oh, my God, Howard. That\u2019s the most beautiful thing I\u2019ve ever heard. And it came out of you."
+        ],
+        [
+            "Bernadette",
+            "Howie?"
+        ],
+        [
+            "Howard",
+            "Penny has a message for you."
+        ],
+        [
+            "Bernadette",
+            "I heard. Your voice, not unlike your mother\u2019s, travels through walls."
+        ],
+        [
+            "Howard",
+            "Do you want me to go?"
+        ],
+        [
+            "Bernadette",
+            "No. Come here. I\u2019m still really mad at you."
+        ],
+        [
+            "Howard",
+            "I get that."
+        ],
+        [
+            "Bernadette",
+            "Is there anything else about your past I should know?"
+        ],
+        [
+            "Howard",
+            "Couple things, but, you know, most of them happened overseas. I\u2019ll tell you later."
+        ],
+        [
+            "Bernadette",
+            "Okay."
+        ],
+        [
+            "Howard",
+            "So, is the wedding still on?"
+        ],
+        [
+            "Bernadette",
+            "Yeah, the wedding\u2019s still on. (They hug)"
+        ],
+        [
+            "Amy",
+            "Oh, thank God. I\u2019m still a maid of honour. (Joins in the hug)"
+        ],
+        [
+            "Penny",
+            "Oh, what the hell. (Joins in too)"
+        ],
+        [
+            "Amy",
+            "This is kind of hot."
+        ],
+        [
+            "Scene",
+            "The laundry room. Leonard enters in his dressing gown."
+        ],
+        [
+            "Leonard",
+            "Hello."
+        ],
+        [
+            "Penny",
+            "What\u2019s with the robe?"
+        ],
+        [
+            "Leonard (taking it off)",
+            "I\u2019m gonna have sex with you right here, right now, on that washing machine."
+        ],
+        [
+            "Penny",
+            "No, you\u2019re not."
+        ],
+        [
+            "Leonard",
+            "Come on, please."
+        ],
+        [
+            "Penny",
+            "If you want to do something, you can help me fold this sheet."
+        ],
+        [
+            "Leonard",
+            "Folding a sheet in my underwear, still pretty crazy."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-22-the-stag-convergence/"
+}

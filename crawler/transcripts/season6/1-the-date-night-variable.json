@@ -1,0 +1,2002 @@
+{
+    "Season": 6,
+    "Episode": 1,
+    "Title": "the date night variable",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Following a \u201cPreviously on The Big Bang Theory\u201d section"
+            ],
+            [
+                1,
+                "The Comic Book Store."
+            ],
+            [
+                12,
+                "The International Space Station."
+            ],
+            [
+                25,
+                "Credits sequence."
+            ],
+            [
+                26,
+                "Penny\u2019s apartment. Penny is bleaching Amy\u2019s upper lip."
+            ],
+            [
+                38,
+                "The university cafeteria."
+            ],
+            [
+                63,
+                "The International Space Station"
+            ],
+            [
+                80,
+                "A restaurant."
+            ],
+            [
+                94,
+                "Later."
+            ],
+            [
+                103,
+                "The apartment. "
+            ],
+            [
+                131,
+                "The International Space Station"
+            ],
+            [
+                153,
+                "The apartment."
+            ],
+            [
+                177,
+                "The hallway. Raj is ejected from the apartment."
+            ],
+            [
+                179,
+                "The restaurant."
+            ],
+            [
+                198,
+                "The Comic Book Store."
+            ],
+            [
+                233,
+                "The International Space Station"
+            ]
+        ],
+        "Stuart": [
+            [
+                2,
+                "So, Howard\u2019s really in space, huh?"
+            ],
+            [
+                7,
+                "Must be nice. Nobody wants anything that comes out of me."
+            ],
+            [
+                200,
+                "Oh, hey. I was actually just about to close up."
+            ],
+            [
+                202,
+                "No, no. It\u2019s okay. Hang out. "
+            ],
+            [
+                204,
+                "Yeah, you\u2019re my first customer today."
+            ],
+            [
+                206,
+                "I\u2019m, uh, having a nightcap. You want to join me?"
+            ],
+            [
+                208,
+                "Coffee liqueur in a Chewbacca mug. I call it a sad-tini."
+            ],
+            [
+                210,
+                "Hmm. Nice not to drink alone."
+            ],
+            [
+                212,
+                "You\u2019re kidding."
+            ],
+            [
+                214,
+                "Cheers."
+            ],
+            [
+                216,
+                "A little music?"
+            ],
+            [
+                218,
+                "Mmm."
+            ],
+            [
+                220,
+                "Yeah. The sun, the waves, the beautiful bodies, tanned and glistening with sweat."
+            ],
+            [
+                222,
+                "Yeah."
+            ],
+            [
+                224,
+                "No problem."
+            ],
+            [
+                226,
+                "Yeah?"
+            ],
+            [
+                228,
+                "Yeah, I-I\u2019d like to, but I\u2019m a little tight on funds."
+            ],
+            [
+                230,
+                "Okay."
+            ],
+            [
+                232,
+                "I could do worse."
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "Mm-hmm, International Space Station. 250 miles that way."
+            ],
+            [
+                6,
+                "You know, it\u2019s not exactly glamorous up there. The water that the astronauts drink is made from each other\u2019s recycled urine."
+            ],
+            [
+                9,
+                "Mm, conducting experiments in zero gravity."
+            ],
+            [
+                40,
+                "Interesting question. On the one hand, I always thought\u2026"
+            ],
+            [
+                42,
+                "I know what the anthropic principle is."
+            ],
+            [
+                44,
+                "Where do you stand on it? "
+            ],
+            [
+                46,
+                "Then I believe that God created the world in six days, and on the seventh he made you to annoy me."
+            ],
+            [
+                48,
+                "Hey."
+            ],
+            [
+                52,
+                "Well, hang on. Why do you believe that he knows what it is and I don\u2019t?"
+            ],
+            [
+                55,
+                "Actually, I\u2019m hanging out with Penny. "
+            ],
+            [
+                61,
+                "Sheldon, are you sure you want to be bringing Raj on your date night with Amy?"
+            ],
+            [
+                105,
+                "No occasion. You know, things have been a little weird between us, so I wanted to throw together a fun night just for you."
+            ],
+            [
+                107,
+                "I got all your favourites. Beer, wings, sliders. We can watch the football game. I even painted my stomach."
+            ],
+            [
+                109,
+                "Well, in case you were in the mood for baseball, I didn\u2019t want to look ridiculous."
+            ],
+            [
+                111,
+                "Good, I\u2019m glad. "
+            ],
+            [
+                113,
+                "Great. Just relax and enjoy. Tonight is all about you."
+            ],
+            [
+                115,
+                "So, where exactly are we in this relationship?"
+            ],
+            [
+                117,
+                "You\u2019re right, I\u2019m sorry. Let\u2019s watch the game. "
+            ],
+            [
+                119,
+                "I just know the longer we wait to talk about it, the weirder it gets."
+            ],
+            [
+                121,
+                "Absolutely. You\u2019re the girl, I\u2019m the guy. Now, you watch your football game while I make you a little plate here."
+            ],
+            [
+                123,
+                "Oh, I\u2019ll get it. Go sports."
+            ],
+            [
+                125,
+                "What are you doing here? I thought you were out with Sheldon and Amy."
+            ],
+            [
+                127,
+                "Well, it\u2019s not really a great time. Penny and I have some things we need to talk about."
+            ],
+            [
+                130,
+                "I can\u2019t believe I shaved my stomach for this."
+            ],
+            [
+                158,
+                "I\u2019m good."
+            ],
+            [
+                162,
+                "That\u2019s great. Get out."
+            ],
+            [
+                164,
+                "Penny and I have some issues we need to talk about."
+            ],
+            [
+                168,
+                "Some people might say it was romantic."
+            ],
+            [
+                170,
+                "Okay."
+            ],
+            [
+                173,
+                "Actually, to this day, she\u2019s never really said it."
+            ]
+        ],
+        "Raj": [
+            [
+                4,
+                "Right now, Howard\u2019s staring down at our planet like a tiny Jewish Greek god. Zeusowitz."
+            ],
+            [
+                8,
+                "I wonder what he\u2019s doing right this very second."
+            ],
+            [
+                10,
+                "Peering through his telescope at the birth of the cosmos."
+            ],
+            [
+                47,
+                "Hey, guys."
+            ],
+            [
+                50,
+                "I\u2019m all for it."
+            ],
+            [
+                54,
+                "Hey, uh, if you guys are free tonight, I heard about a spa where you soak your feet n a pool full of little fish that eat all the dead skin right off them. I don\u2019t need to tell you in Los Angeles, sandal season is year round."
+            ],
+            [
+                56,
+                "Oh, okay. Sounds like it\u2019s me and you, Sheldon. How about we sic some guppies on those puppies?"
+            ],
+            [
+                58,
+                "Oh, okay. I\u2019ll just go home and be alone. Which is cool. I eat alone, I sleep alone, I cry alone, so, cool."
+            ],
+            [
+                60,
+                "Really? I can come? Thanks."
+            ],
+            [
+                85,
+                "Yoo-hoo! Over here!"
+            ],
+            [
+                91,
+                "Sorry I started without you. I\u2019m a little nervous. It\u2019s been a long time since I\u2019ve been on a date."
+            ],
+            [
+                93,
+                "You should go to my girl. She\u2019ll knock out those sideburns for free."
+            ],
+            [
+                95,
+                "You know, Amy, I don\u2019t even think you and I have had a real conversation. Let\u2019s use tonight to get to know each other a little better. You start."
+            ],
+            [
+                97,
+                "I don\u2019t understand."
+            ],
+            [
+                99,
+                "It\u2019s your anniversary? Oh, my God, I had no idea. Amy, please, let me make this right. "
+            ],
+            [
+                101,
+                "My pleasure. Waiter? A bottle of champagne and three glasses. Oh, boy, isn\u2019t this romantic?"
+            ],
+            [
+                124,
+                "Hello-lo-lo."
+            ],
+            [
+                126,
+                "I was, but it\u2019s their anniversary and I didn\u2019t want to be a third wheel, so I figured I\u2019d come over here and hang out with you and Penny on your date."
+            ],
+            [
+                129,
+                "Sweet!"
+            ],
+            [
+                154,
+                "You know, I\u2019m growing to like American football. "
+            ],
+            [
+                156,
+                "Well, it\u2019s not the balls-to-the-wall action of badminton or cricket, but hey, what is?"
+            ],
+            [
+                159,
+                "No, thank you."
+            ],
+            [
+                161,
+                "Oh, I\u2019m having the nicest time. You guys are like family to me. You know that, right?"
+            ],
+            [
+                163,
+                "What? Why?"
+            ],
+            [
+                165,
+                "Oh pish on your issues. You guys are fine. Yes, you hit some bumps along the way. I mean, Penny, you\u2019ve always known how this man has felt about you, but you made him grovel for affection."
+            ],
+            [
+                167,
+                "Now, don\u2019t blame yourself. He was a groveller from way back. But the point is, the two of you got past it. And, Leonard, you go and propose to this poor girl in the middle of sex? That was some weak tea, dude."
+            ],
+            [
+                169,
+                "Yeah, no. But yet, here you two are, still together. And that\u2019s even after you and I had our crazy naked night."
+            ],
+            [
+                172,
+                "I\u2019m just saying that after everything you\u2019ve been through, you get to look into each other\u2019s eyes and say \u201cI love you.\u201d And that\u2019s beautiful."
+            ],
+            [
+                174,
+                "Oh, Penny. That\u2019s ridiculous. You know you love him. You, you look him in the eyes and you say it. "
+            ],
+            [
+                176,
+                "Oh come on, you know you want to say it. Say it. Say you love him. Say it!"
+            ],
+            [
+                178,
+                "I really thought she would say it."
+            ],
+            [
+                199,
+                "Hey, Stuart."
+            ],
+            [
+                201,
+                "Oh, I\u2019m sorry. I\u2019ll leave."
+            ],
+            [
+                203,
+                "You sure?"
+            ],
+            [
+                205,
+                "All right. Great."
+            ],
+            [
+                207,
+                "What are you drinking?"
+            ],
+            [
+                209,
+                "Perfect for the night I\u2019m having. Thank you."
+            ],
+            [
+                211,
+                "Amen to that. Sometimes I pour a little chardonnay into my dog\u2019s water bowl."
+            ],
+            [
+                213,
+                "She\u2019s kind of a mean drunk, but what are you gonna do?"
+            ],
+            [
+                215,
+                "Cheers."
+            ],
+            [
+                217,
+                "Sure. Mmm. Bossa nova. You listen to that with your hips as well as your ears."
+            ],
+            [
+                219,
+                "Oh. Something about latin music just makes me feel like I\u2019m on a white sand beach in Rio."
+            ],
+            [
+                221,
+                "I should go."
+            ],
+            [
+                223,
+                "Uh, thank you for the drink."
+            ],
+            [
+                225,
+                "Hey, Stuart."
+            ],
+            [
+                227,
+                "Do you want to hang out tomorrow night, maybe grab a bite to eat or catch a late movie?"
+            ],
+            [
+                229,
+                "No problem. My treat. I\u2019ll swing by after work."
+            ],
+            [
+                231,
+                "Okay."
+            ]
+        ],
+        "Sheldon": [
+            [
+                5,
+                "I must admit, I can\u2019t help but feel a twinge of envy. He can look out the window and see the majesty of the universe unfolding before his eyes. His dim, uncomprehending eyes. It\u2019s like a cat in an airport carrying case."
+            ],
+            [
+                11,
+                "Whatever it is, we know his life will never be the same."
+            ],
+            [
+                39,
+                "Leonard, where do you stand on the anthropic principle?"
+            ],
+            [
+                41,
+                "You don\u2019t even know what it is, do you? The anthropic principle states that if we wish to explain why our universe exists the way it does, the answer is that it must have qualities that allow intelligent creatures to arise who are capable of asking the question. As I am doing so eloquently right now."
+            ],
+            [
+                43,
+                "Of course. I just explained it to you. Now, where do you stand on it?"
+            ],
+            [
+                45,
+                "Strongly pro."
+            ],
+            [
+                49,
+                "Yeah, wait, Raj, where do you stand on the anthropic principle?"
+            ],
+            [
+                51,
+                "Attaboy!"
+            ],
+            [
+                53,
+                "Oh, Leonard. Let\u2019s not take a saw to the branch we\u2019re sitting on, shall we?"
+            ],
+            [
+                57,
+                "As I\u2019ve stated before on numerous occasions, the only sea creature I would even consider being eaten by is the Kraken, because the last words I would hear are \u201cRelease the Kraken.\u201d That never gets old. \u201cRelease the Kraken!\u201d Oh, chills. Besides, I\u2019m having dinner with Amy."
+            ],
+            [
+                59,
+                "Darn. If you weren\u2019t busy, I\u2019d ask you to join us."
+            ],
+            [
+                62,
+                "Oh, absolutely. I have a contractual obligation to provide Amy with conversation and casual physical contact, but nowhere is it specified that I can\u2019t outsource that to an Indian."
+            ],
+            [
+                82,
+                "Oh, I\u2019m glad you like it. Raj picked it out."
+            ],
+            [
+                84,
+                "Tell him yourself."
+            ],
+            [
+                87,
+                "I invited him."
+            ],
+            [
+                89,
+                "Yes, it is. There\u2019s a loophole in the Relationship Agreement."
+            ],
+            [
+                102,
+                "Oh, I hope that\u2019s a rhetorical question, because I have no clue."
+            ],
+            [
+                181,
+                "Every time you drink alcohol."
+            ],
+            [
+                183,
+                "Your point being?"
+            ],
+            [
+                185,
+                "I just had cobbler."
+            ],
+            [
+                187,
+                "W-Where are you going?"
+            ],
+            [
+                189,
+                "You can\u2019t leave. I need you."
+            ],
+            [
+                191,
+                "Yes. You\u2019re my ride."
+            ],
+            [
+                193,
+                "All right. Please. Amy, when I look in your eyes and you\u2019re looking back in mine, everything feels not quite normal, because I feel stronger and weaker at the same time. I feel excited and, at the same time, terrified. The truth is, I don\u2019t know what I feel, except I know what kind of man I want to be."
+            ],
+            [
+                195,
+                "I should hope so. That\u2019s from the first Spider-Man movie."
+            ],
+            [
+                197,
+                "Good. Now, I assume we\u2019re splitting the cheque?"
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                13,
+                "Howard. Can you hear me?"
+            ],
+            [
+                15,
+                "Don\u2019t be snippy. I\u2019m just excited to talk to my baby."
+            ],
+            [
+                17,
+                "So, what\u2019s this mishegas about you moving out to go live with the little Polish girl?"
+            ],
+            [
+                19,
+                "Wives don\u2019t take boys from their mothers."
+            ],
+            [
+                21,
+                "I just hope I\u2019m not dead from a broken heart before you get back."
+            ],
+            [
+                23,
+                "Good. They should know what a horrible son you are."
+            ],
+            [
+                136,
+                "I\u2019m not going near that fakakta thing. I\u2019ll catch a computer virus."
+            ],
+            [
+                138,
+                "Oh, so now you\u2019re an astronaut and a doctor?"
+            ],
+            [
+                140,
+                "Your wife says you have something important to tell me."
+            ],
+            [
+                142,
+                "Oh, God! You are gonna leave me."
+            ],
+            [
+                144,
+                "It\u2019s okay. Your father left me, you left me, I guess I\u2019m just the kind of person people like to leave."
+            ],
+            [
+                146,
+                "Don\u2019t bother. I\u2019ll just go sit in a hole in the ground so I\u2019m no trouble when I die."
+            ],
+            [
+                148,
+                "I knew it. I knew she was behind this. You listen to me, if you want to be a man you can\u2019t let a woman tell you what to do."
+            ],
+            [
+                152,
+                "Fine. Explain why you\u2019ve been gone so long and I haven\u2019t gotten a single letter. Not even a lousy postcard."
+            ]
+        ],
+        "Howard": [
+            [
+                14,
+                "I can hear you without the phone,"
+            ],
+            [
+                16,
+                "I\u2019m excited to talk to you, too."
+            ],
+            [
+                18,
+                "How about calling her my wife?"
+            ],
+            [
+                20,
+                "They do. That\u2019s why we marry them."
+            ],
+            [
+                22,
+                "Ma, please. Everyone from NASA is listening to this phone call."
+            ],
+            [
+                24,
+                "Okay, Ma, great talking to you. Gotta go. Well, space is ruined."
+            ],
+            [
+                65,
+                "Hey, there\u2019s my beautiful bride. Can you see me?"
+            ],
+            [
+                67,
+                "I\u2019m amazing. I mean, this is even better than I dreamed. I look out the window, and it\u2019s all so unbelievable."
+            ],
+            [
+                69,
+                "Oh, yeah? That\u2019s nice."
+            ],
+            [
+                71,
+                "Hey, look, this pen is floating. How crazy is that?"
+            ],
+            [
+                73,
+                "Okay, okay, I know you\u2019re upset, but let me share something I\u2019ve learned since I got here. You realize how small your problems are when you\u2019re looking down on them from space. Now, come on, that\u2019s got to make you feel better."
+            ],
+            [
+                75,
+                "Pretty clear."
+            ],
+            [
+                77,
+                "I mean, it\u2019s not, like, HD quality."
+            ],
+            [
+                133,
+                "Who is it?"
+            ],
+            [
+                135,
+                "Hey, Ma. You know, we could see each other if you turn on the computer."
+            ],
+            [
+                137,
+                "You can\u2019t catch a computer virus."
+            ],
+            [
+                139,
+                "What do you want, Ma?"
+            ],
+            [
+                141,
+                "Okay, here it is. Bernadette and I are starting a life together and\u2026"
+            ],
+            [
+                143,
+                "Ma\u2026"
+            ],
+            [
+                145,
+                "It\u2019s not definite. I\u2019ll talk to Bernadette."
+            ],
+            [
+                147,
+                "Stop it, Ma. I\u2019m sure I can get Bernie to come around."
+            ],
+            [
+                149,
+                "Okay, okay."
+            ],
+            [
+                151,
+                "Now, can we please change the subject?"
+            ],
+            [
+                235,
+                "Hey, I\u2019m a grown man. I\u2019m gonna live with my wife. My mother\u2019s just gonna have to learn to make do on her own."
+            ],
+            [
+                237,
+                "Who can tell? She yells everything. She might have been upset. She might have been hungry."
+            ],
+            [
+                239,
+                "I love you, too. Sweet dreams. I\u2019ll talk to you tomorrow?"
+            ],
+            [
+                241,
+                "To infinity and beyond, baby."
+            ],
+            [
+                243,
+                "I know."
+            ],
+            [
+                245,
+                "Oh, I\u2019m never going back."
+            ]
+        ],
+        "Amy": [
+            [
+                27,
+                "This is so exciting. Soon, my upper lip will be the same fake blonde as my beautiful best friend."
+            ],
+            [
+                29,
+                "Oh, yes. According to the Relationship Agreement, on the anniversary of our first date, he must take me to a nice dinner, ask about my day and engage in casual physical contact that a disinterested onlooker might mistake for intimacy."
+            ],
+            [
+                31,
+                "How long does this stay on?"
+            ],
+            [
+                33,
+                "Once in high school, but I dozed off and woke up with second-degree chemical burns on my face."
+            ],
+            [
+                35,
+                "No, I had a cover story, I told everyone it was herpes. So, how\u2019s everything going with you and Leonard?"
+            ],
+            [
+                37,
+                "Oh, boo-hoo. If Sheldon proposed to me during sex, my ovaries would grab on to him and never let go."
+            ],
+            [
+                81,
+                "Sheldon, this place is so romantic. "
+            ],
+            [
+                83,
+                "Well, when you see him, tell him I say thank you."
+            ],
+            [
+                86,
+                "I don\u2019t understand. What\u2019s he doing here?"
+            ],
+            [
+                88,
+                "On our date? Sheldon, that\u2019s not okay."
+            ],
+            [
+                90,
+                "You found a loophole?"
+            ],
+            [
+                92,
+                "I can\u2019t believe I bleached my moustache for this."
+            ],
+            [
+                96,
+                "Go home."
+            ],
+            [
+                98,
+                "Sheldon, how could you do this? It\u2019s our second anniversary."
+            ],
+            [
+                100,
+                "Thank you."
+            ],
+            [
+                180,
+                "Have I ever told you you\u2019re like a sexy praying mantis? "
+            ],
+            [
+                182,
+                "You know what\u2019s wonderful about the praying mantis? They devour their mate."
+            ],
+            [
+                184,
+                "Dessert is served."
+            ],
+            [
+                186,
+                "You know what? I\u2019m done with this."
+            ],
+            [
+                188,
+                "I\u2019m leaving."
+            ],
+            [
+                190,
+                "You do?"
+            ],
+            [
+                192,
+                "Sheldon, you either say something meaningful and from the heart, or you and I are done."
+            ],
+            [
+                194,
+                "Sheldon, that was beautiful."
+            ],
+            [
+                196,
+                "I\u2019ll take it."
+            ]
+        ],
+        "Penny": [
+            [
+                28,
+                "Hey, this is my natural hair colour. Now. So, does Sheldon have anything special planned for you tomorrow night?"
+            ],
+            [
+                30,
+                "That\u2019s hot. You kids better use protection."
+            ],
+            [
+                32,
+                "Just a couple of minutes. You\u2019ve really never done this before?"
+            ],
+            [
+                34,
+                "Oh, my gosh, that\u2019s awful. The other kids make fun of you?"
+            ],
+            [
+                36,
+                "Uh, I don\u2019t know, it\u2019s still kind of weird. We haven\u2019t really recovered since he proposed to me in the middle of sex."
+            ],
+            [
+                104,
+                "This is great. What\u2019s the occasion?"
+            ],
+            [
+                106,
+                "That is so sweet."
+            ],
+            [
+                108,
+                "Go Sports?"
+            ],
+            [
+                110,
+                "This is awesome. I love it!"
+            ],
+            [
+                112,
+                "Gosh, I worked my ass off today. This is exactly what I needed."
+            ],
+            [
+                114,
+                "Ah, thank you!"
+            ],
+            [
+                116,
+                "Oh, come on. I just told you I had a hard day."
+            ],
+            [
+                118,
+                "Great."
+            ],
+            [
+                120,
+                "Sweetie, can I just be the girl tonight?"
+            ],
+            [
+                122,
+                "Thank you. (Knock on door)"
+            ],
+            [
+                128,
+                "No, we don\u2019t! Come on in!"
+            ],
+            [
+                155,
+                "Yeah, it\u2019s fun, isn\u2019t it?"
+            ],
+            [
+                157,
+                "All right, who\u2019s ready for another beer?"
+            ],
+            [
+                160,
+                "Girls."
+            ],
+            [
+                166,
+                "Okay, hold on\u2026"
+            ],
+            [
+                171,
+                "That\u2019s enough."
+            ],
+            [
+                175,
+                "Raj."
+            ]
+        ],
+        "Bernadette (on webcam)": [
+            [
+                64,
+                "Howie? Howie?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                66,
+                "I can. How are you?"
+            ],
+            [
+                68,
+                "Good for you. I just had a seemingly endless dinner with your mom."
+            ],
+            [
+                70,
+                "It was. Until I found out you never told her we\u2019re not gonna live with her. Let\u2019s talk about that for a minute."
+            ],
+            [
+                72,
+                "You said you told her, but you never did!"
+            ],
+            [
+                74,
+                "How clear is the image of me on that screen?"
+            ],
+            [
+                76,
+                "Do I look like I feel better?"
+            ],
+            [
+                78,
+                "Listen, mister, you\u2019re gonna talk to your mother and you\u2019re gonna fix this, or that thing I said I was gonna do to you the minute you got home, you can do to yourself."
+            ],
+            [
+                234,
+                "Aw, that\u2019s such good news, Howie. Thank you for telling her."
+            ],
+            [
+                236,
+                "Was she upset?"
+            ],
+            [
+                238,
+                "Thanks for fixing it. I love you."
+            ],
+            [
+                240,
+                "Good night, Rocket Man."
+            ]
+        ],
+        "Dimitri": [
+            [
+                79,
+                "Like he\u2019s been doing since he got here."
+            ],
+            [
+                132,
+                "Hey, Froot Loops. You got a phone call."
+            ],
+            [
+                134,
+                "A woman who says she\u2019s your mother but sounds like your father."
+            ],
+            [
+                150,
+                "Oy. I can\u2019t believe these people won the Cold War."
+            ],
+            [
+                242,
+                "Loops. You realize you just lied your ass off to your wife and your mother."
+            ],
+            [
+                244,
+                "What are you gonna do when you get back to Earth?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Following a \u201cPreviously on The Big Bang Theory\u201d section"
+        ],
+        [
+            "Scene",
+            "The Comic Book Store."
+        ],
+        [
+            "Stuart",
+            "So, Howard\u2019s really in space, huh?"
+        ],
+        [
+            "Leonard",
+            "Mm-hmm, International Space Station. 250 miles that way."
+        ],
+        [
+            "Raj",
+            "Right now, Howard\u2019s staring down at our planet like a tiny Jewish Greek god. Zeusowitz."
+        ],
+        [
+            "Sheldon",
+            "I must admit, I can\u2019t help but feel a twinge of envy. He can look out the window and see the majesty of the universe unfolding before his eyes. His dim, uncomprehending eyes. It\u2019s like a cat in an airport carrying case."
+        ],
+        [
+            "Leonard",
+            "You know, it\u2019s not exactly glamorous up there. The water that the astronauts drink is made from each other\u2019s recycled urine."
+        ],
+        [
+            "Stuart",
+            "Must be nice. Nobody wants anything that comes out of me."
+        ],
+        [
+            "Raj",
+            "I wonder what he\u2019s doing right this very second."
+        ],
+        [
+            "Leonard",
+            "Mm, conducting experiments in zero gravity."
+        ],
+        [
+            "Raj",
+            "Peering through his telescope at the birth of the cosmos."
+        ],
+        [
+            "Sheldon",
+            "Whatever it is, we know his life will never be the same."
+        ],
+        [
+            "Scene",
+            "The International Space Station."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Howard. Can you hear me?"
+        ],
+        [
+            "Howard",
+            "I can hear you without the phone,"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Don\u2019t be snippy. I\u2019m just excited to talk to my baby."
+        ],
+        [
+            "Howard",
+            "I\u2019m excited to talk to you, too."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "So, what\u2019s this mishegas about you moving out to go live with the little Polish girl?"
+        ],
+        [
+            "Howard",
+            "How about calling her my wife?"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Wives don\u2019t take boys from their mothers."
+        ],
+        [
+            "Howard",
+            "They do. That\u2019s why we marry them."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "I just hope I\u2019m not dead from a broken heart before you get back."
+        ],
+        [
+            "Howard",
+            "Ma, please. Everyone from NASA is listening to this phone call."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Good. They should know what a horrible son you are."
+        ],
+        [
+            "Howard",
+            "Okay, Ma, great talking to you. Gotta go. Well, space is ruined."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. Penny is bleaching Amy\u2019s upper lip."
+        ],
+        [
+            "Amy",
+            "This is so exciting. Soon, my upper lip will be the same fake blonde as my beautiful best friend."
+        ],
+        [
+            "Penny",
+            "Hey, this is my natural hair colour. Now. So, does Sheldon have anything special planned for you tomorrow night?"
+        ],
+        [
+            "Amy",
+            "Oh, yes. According to the Relationship Agreement, on the anniversary of our first date, he must take me to a nice dinner, ask about my day and engage in casual physical contact that a disinterested onlooker might mistake for intimacy."
+        ],
+        [
+            "Penny",
+            "That\u2019s hot. You kids better use protection."
+        ],
+        [
+            "Amy",
+            "How long does this stay on?"
+        ],
+        [
+            "Penny",
+            "Just a couple of minutes. You\u2019ve really never done this before?"
+        ],
+        [
+            "Amy",
+            "Once in high school, but I dozed off and woke up with second-degree chemical burns on my face."
+        ],
+        [
+            "Penny",
+            "Oh, my gosh, that\u2019s awful. The other kids make fun of you?"
+        ],
+        [
+            "Amy",
+            "No, I had a cover story, I told everyone it was herpes. So, how\u2019s everything going with you and Leonard?"
+        ],
+        [
+            "Penny",
+            "Uh, I don\u2019t know, it\u2019s still kind of weird. We haven\u2019t really recovered since he proposed to me in the middle of sex."
+        ],
+        [
+            "Amy",
+            "Oh, boo-hoo. If Sheldon proposed to me during sex, my ovaries would grab on to him and never let go."
+        ],
+        [
+            "Scene",
+            "The university cafeteria."
+        ],
+        [
+            "Sheldon",
+            "Leonard, where do you stand on the anthropic principle?"
+        ],
+        [
+            "Leonard",
+            "Interesting question. On the one hand, I always thought\u2026"
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t even know what it is, do you? The anthropic principle states that if we wish to explain why our universe exists the way it does, the answer is that it must have qualities that allow intelligent creatures to arise who are capable of asking the question. As I am doing so eloquently right now."
+        ],
+        [
+            "Leonard",
+            "I know what the anthropic principle is."
+        ],
+        [
+            "Sheldon",
+            "Of course. I just explained it to you. Now, where do you stand on it?"
+        ],
+        [
+            "Leonard",
+            "Where do you stand on it? "
+        ],
+        [
+            "Sheldon",
+            "Strongly pro."
+        ],
+        [
+            "Leonard",
+            "Then I believe that God created the world in six days, and on the seventh he made you to annoy me."
+        ],
+        [
+            "Raj",
+            "Hey, guys."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Yeah, wait, Raj, where do you stand on the anthropic principle?"
+        ],
+        [
+            "Raj",
+            "I\u2019m all for it."
+        ],
+        [
+            "Sheldon",
+            "Attaboy!"
+        ],
+        [
+            "Leonard",
+            "Well, hang on. Why do you believe that he knows what it is and I don\u2019t?"
+        ],
+        [
+            "Sheldon",
+            "Oh, Leonard. Let\u2019s not take a saw to the branch we\u2019re sitting on, shall we?"
+        ],
+        [
+            "Raj",
+            "Hey, uh, if you guys are free tonight, I heard about a spa where you soak your feet n a pool full of little fish that eat all the dead skin right off them. I don\u2019t need to tell you in Los Angeles, sandal season is year round."
+        ],
+        [
+            "Leonard",
+            "Actually, I\u2019m hanging out with Penny. "
+        ],
+        [
+            "Raj",
+            "Oh, okay. Sounds like it\u2019s me and you, Sheldon. How about we sic some guppies on those puppies?"
+        ],
+        [
+            "Sheldon",
+            "As I\u2019ve stated before on numerous occasions, the only sea creature I would even consider being eaten by is the Kraken, because the last words I would hear are \u201cRelease the Kraken.\u201d That never gets old. \u201cRelease the Kraken!\u201d Oh, chills. Besides, I\u2019m having dinner with Amy."
+        ],
+        [
+            "Raj",
+            "Oh, okay. I\u2019ll just go home and be alone. Which is cool. I eat alone, I sleep alone, I cry alone, so, cool."
+        ],
+        [
+            "Sheldon",
+            "Darn. If you weren\u2019t busy, I\u2019d ask you to join us."
+        ],
+        [
+            "Raj",
+            "Really? I can come? Thanks."
+        ],
+        [
+            "Leonard",
+            "Sheldon, are you sure you want to be bringing Raj on your date night with Amy?"
+        ],
+        [
+            "Sheldon",
+            "Oh, absolutely. I have a contractual obligation to provide Amy with conversation and casual physical contact, but nowhere is it specified that I can\u2019t outsource that to an Indian."
+        ],
+        [
+            "Scene",
+            "The International Space Station"
+        ],
+        [
+            "Bernadette (on webcam)",
+            "Howie? Howie?"
+        ],
+        [
+            "Howard",
+            "Hey, there\u2019s my beautiful bride. Can you see me?"
+        ],
+        [
+            "Bernadette",
+            "I can. How are you?"
+        ],
+        [
+            "Howard",
+            "I\u2019m amazing. I mean, this is even better than I dreamed. I look out the window, and it\u2019s all so unbelievable."
+        ],
+        [
+            "Bernadette",
+            "Good for you. I just had a seemingly endless dinner with your mom."
+        ],
+        [
+            "Howard",
+            "Oh, yeah? That\u2019s nice."
+        ],
+        [
+            "Bernadette",
+            "It was. Until I found out you never told her we\u2019re not gonna live with her. Let\u2019s talk about that for a minute."
+        ],
+        [
+            "Howard",
+            "Hey, look, this pen is floating. How crazy is that?"
+        ],
+        [
+            "Bernadette",
+            "You said you told her, but you never did!"
+        ],
+        [
+            "Howard",
+            "Okay, okay, I know you\u2019re upset, but let me share something I\u2019ve learned since I got here. You realize how small your problems are when you\u2019re looking down on them from space. Now, come on, that\u2019s got to make you feel better."
+        ],
+        [
+            "Bernadette",
+            "How clear is the image of me on that screen?"
+        ],
+        [
+            "Howard",
+            "Pretty clear."
+        ],
+        [
+            "Bernadette",
+            "Do I look like I feel better?"
+        ],
+        [
+            "Howard",
+            "I mean, it\u2019s not, like, HD quality."
+        ],
+        [
+            "Bernadette",
+            "Listen, mister, you\u2019re gonna talk to your mother and you\u2019re gonna fix this, or that thing I said I was gonna do to you the minute you got home, you can do to yourself."
+        ],
+        [
+            "Dimitri",
+            "Like he\u2019s been doing since he got here."
+        ],
+        [
+            "Scene",
+            "A restaurant."
+        ],
+        [
+            "Amy",
+            "Sheldon, this place is so romantic. "
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m glad you like it. Raj picked it out."
+        ],
+        [
+            "Amy",
+            "Well, when you see him, tell him I say thank you."
+        ],
+        [
+            "Sheldon",
+            "Tell him yourself."
+        ],
+        [
+            "Raj",
+            "Yoo-hoo! Over here!"
+        ],
+        [
+            "Amy",
+            "I don\u2019t understand. What\u2019s he doing here?"
+        ],
+        [
+            "Sheldon",
+            "I invited him."
+        ],
+        [
+            "Amy",
+            "On our date? Sheldon, that\u2019s not okay."
+        ],
+        [
+            "Sheldon",
+            "Yes, it is. There\u2019s a loophole in the Relationship Agreement."
+        ],
+        [
+            "Amy",
+            "You found a loophole?"
+        ],
+        [
+            "Raj",
+            "Sorry I started without you. I\u2019m a little nervous. It\u2019s been a long time since I\u2019ve been on a date."
+        ],
+        [
+            "Amy",
+            "I can\u2019t believe I bleached my moustache for this."
+        ],
+        [
+            "Raj",
+            "You should go to my girl. She\u2019ll knock out those sideburns for free."
+        ],
+        [
+            "Scene",
+            "Later."
+        ],
+        [
+            "Raj",
+            "You know, Amy, I don\u2019t even think you and I have had a real conversation. Let\u2019s use tonight to get to know each other a little better. You start."
+        ],
+        [
+            "Amy",
+            "Go home."
+        ],
+        [
+            "Raj",
+            "I don\u2019t understand."
+        ],
+        [
+            "Amy",
+            "Sheldon, how could you do this? It\u2019s our second anniversary."
+        ],
+        [
+            "Raj",
+            "It\u2019s your anniversary? Oh, my God, I had no idea. Amy, please, let me make this right. "
+        ],
+        [
+            "Amy",
+            "Thank you."
+        ],
+        [
+            "Raj",
+            "My pleasure. Waiter? A bottle of champagne and three glasses. Oh, boy, isn\u2019t this romantic?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I hope that\u2019s a rhetorical question, because I have no clue."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "This is great. What\u2019s the occasion?"
+        ],
+        [
+            "Leonard",
+            "No occasion. You know, things have been a little weird between us, so I wanted to throw together a fun night just for you."
+        ],
+        [
+            "Penny",
+            "That is so sweet."
+        ],
+        [
+            "Leonard",
+            "I got all your favourites. Beer, wings, sliders. We can watch the football game. I even painted my stomach."
+        ],
+        [
+            "Penny",
+            "Go Sports?"
+        ],
+        [
+            "Leonard",
+            "Well, in case you were in the mood for baseball, I didn\u2019t want to look ridiculous."
+        ],
+        [
+            "Penny",
+            "This is awesome. I love it!"
+        ],
+        [
+            "Leonard",
+            "Good, I\u2019m glad. "
+        ],
+        [
+            "Penny",
+            "Gosh, I worked my ass off today. This is exactly what I needed."
+        ],
+        [
+            "Leonard",
+            "Great. Just relax and enjoy. Tonight is all about you."
+        ],
+        [
+            "Penny",
+            "Ah, thank you!"
+        ],
+        [
+            "Leonard",
+            "So, where exactly are we in this relationship?"
+        ],
+        [
+            "Penny",
+            "Oh, come on. I just told you I had a hard day."
+        ],
+        [
+            "Leonard",
+            "You\u2019re right, I\u2019m sorry. Let\u2019s watch the game. "
+        ],
+        [
+            "Penny",
+            "Great."
+        ],
+        [
+            "Leonard",
+            "I just know the longer we wait to talk about it, the weirder it gets."
+        ],
+        [
+            "Penny",
+            "Sweetie, can I just be the girl tonight?"
+        ],
+        [
+            "Leonard",
+            "Absolutely. You\u2019re the girl, I\u2019m the guy. Now, you watch your football game while I make you a little plate here."
+        ],
+        [
+            "Penny",
+            "Thank you. (Knock on door)"
+        ],
+        [
+            "Leonard",
+            "Oh, I\u2019ll get it. Go sports."
+        ],
+        [
+            "Raj",
+            "Hello-lo-lo."
+        ],
+        [
+            "Leonard",
+            "What are you doing here? I thought you were out with Sheldon and Amy."
+        ],
+        [
+            "Raj",
+            "I was, but it\u2019s their anniversary and I didn\u2019t want to be a third wheel, so I figured I\u2019d come over here and hang out with you and Penny on your date."
+        ],
+        [
+            "Leonard",
+            "Well, it\u2019s not really a great time. Penny and I have some things we need to talk about."
+        ],
+        [
+            "Penny",
+            "No, we don\u2019t! Come on in!"
+        ],
+        [
+            "Raj",
+            "Sweet!"
+        ],
+        [
+            "Leonard",
+            "I can\u2019t believe I shaved my stomach for this."
+        ],
+        [
+            "Scene",
+            "The International Space Station"
+        ],
+        [
+            "Dimitri",
+            "Hey, Froot Loops. You got a phone call."
+        ],
+        [
+            "Howard",
+            "Who is it?"
+        ],
+        [
+            "Dimitri",
+            "A woman who says she\u2019s your mother but sounds like your father."
+        ],
+        [
+            "Howard",
+            "Hey, Ma. You know, we could see each other if you turn on the computer."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "I\u2019m not going near that fakakta thing. I\u2019ll catch a computer virus."
+        ],
+        [
+            "Howard",
+            "You can\u2019t catch a computer virus."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Oh, so now you\u2019re an astronaut and a doctor?"
+        ],
+        [
+            "Howard",
+            "What do you want, Ma?"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Your wife says you have something important to tell me."
+        ],
+        [
+            "Howard",
+            "Okay, here it is. Bernadette and I are starting a life together and\u2026"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Oh, God! You are gonna leave me."
+        ],
+        [
+            "Howard",
+            "Ma\u2026"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "It\u2019s okay. Your father left me, you left me, I guess I\u2019m just the kind of person people like to leave."
+        ],
+        [
+            "Howard",
+            "It\u2019s not definite. I\u2019ll talk to Bernadette."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Don\u2019t bother. I\u2019ll just go sit in a hole in the ground so I\u2019m no trouble when I die."
+        ],
+        [
+            "Howard",
+            "Stop it, Ma. I\u2019m sure I can get Bernie to come around."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "I knew it. I knew she was behind this. You listen to me, if you want to be a man you can\u2019t let a woman tell you what to do."
+        ],
+        [
+            "Howard",
+            "Okay, okay."
+        ],
+        [
+            "Dimitri",
+            "Oy. I can\u2019t believe these people won the Cold War."
+        ],
+        [
+            "Howard",
+            "Now, can we please change the subject?"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Fine. Explain why you\u2019ve been gone so long and I haven\u2019t gotten a single letter. Not even a lousy postcard."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "You know, I\u2019m growing to like American football. "
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s fun, isn\u2019t it?"
+        ],
+        [
+            "Raj",
+            "Well, it\u2019s not the balls-to-the-wall action of badminton or cricket, but hey, what is?"
+        ],
+        [
+            "Penny",
+            "All right, who\u2019s ready for another beer?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m good."
+        ],
+        [
+            "Raj",
+            "No, thank you."
+        ],
+        [
+            "Penny",
+            "Girls."
+        ],
+        [
+            "Raj",
+            "Oh, I\u2019m having the nicest time. You guys are like family to me. You know that, right?"
+        ],
+        [
+            "Leonard",
+            "That\u2019s great. Get out."
+        ],
+        [
+            "Raj",
+            "What? Why?"
+        ],
+        [
+            "Leonard",
+            "Penny and I have some issues we need to talk about."
+        ],
+        [
+            "Raj",
+            "Oh pish on your issues. You guys are fine. Yes, you hit some bumps along the way. I mean, Penny, you\u2019ve always known how this man has felt about you, but you made him grovel for affection."
+        ],
+        [
+            "Penny",
+            "Okay, hold on\u2026"
+        ],
+        [
+            "Raj",
+            "Now, don\u2019t blame yourself. He was a groveller from way back. But the point is, the two of you got past it. And, Leonard, you go and propose to this poor girl in the middle of sex? That was some weak tea, dude."
+        ],
+        [
+            "Leonard",
+            "Some people might say it was romantic."
+        ],
+        [
+            "Raj",
+            "Yeah, no. But yet, here you two are, still together. And that\u2019s even after you and I had our crazy naked night."
+        ],
+        [
+            "Leonard",
+            "Okay."
+        ],
+        [
+            "Penny",
+            "That\u2019s enough."
+        ],
+        [
+            "Raj",
+            "I\u2019m just saying that after everything you\u2019ve been through, you get to look into each other\u2019s eyes and say \u201cI love you.\u201d And that\u2019s beautiful."
+        ],
+        [
+            "Leonard",
+            "Actually, to this day, she\u2019s never really said it."
+        ],
+        [
+            "Raj",
+            "Oh, Penny. That\u2019s ridiculous. You know you love him. You, you look him in the eyes and you say it. "
+        ],
+        [
+            "Penny",
+            "Raj."
+        ],
+        [
+            "Raj",
+            "Oh come on, you know you want to say it. Say it. Say you love him. Say it!"
+        ],
+        [
+            "Scene",
+            "The hallway. Raj is ejected from the apartment."
+        ],
+        [
+            "Raj",
+            "I really thought she would say it."
+        ],
+        [
+            "Scene",
+            "The restaurant."
+        ],
+        [
+            "Amy",
+            "Have I ever told you you\u2019re like a sexy praying mantis? "
+        ],
+        [
+            "Sheldon",
+            "Every time you drink alcohol."
+        ],
+        [
+            "Amy",
+            "You know what\u2019s wonderful about the praying mantis? They devour their mate."
+        ],
+        [
+            "Sheldon",
+            "Your point being?"
+        ],
+        [
+            "Amy",
+            "Dessert is served."
+        ],
+        [
+            "Sheldon",
+            "I just had cobbler."
+        ],
+        [
+            "Amy",
+            "You know what? I\u2019m done with this."
+        ],
+        [
+            "Sheldon",
+            "W-Where are you going?"
+        ],
+        [
+            "Amy",
+            "I\u2019m leaving."
+        ],
+        [
+            "Sheldon",
+            "You can\u2019t leave. I need you."
+        ],
+        [
+            "Amy",
+            "You do?"
+        ],
+        [
+            "Sheldon",
+            "Yes. You\u2019re my ride."
+        ],
+        [
+            "Amy",
+            "Sheldon, you either say something meaningful and from the heart, or you and I are done."
+        ],
+        [
+            "Sheldon",
+            "All right. Please. Amy, when I look in your eyes and you\u2019re looking back in mine, everything feels not quite normal, because I feel stronger and weaker at the same time. I feel excited and, at the same time, terrified. The truth is, I don\u2019t know what I feel, except I know what kind of man I want to be."
+        ],
+        [
+            "Amy",
+            "Sheldon, that was beautiful."
+        ],
+        [
+            "Sheldon",
+            "I should hope so. That\u2019s from the first Spider-Man movie."
+        ],
+        [
+            "Amy",
+            "I\u2019ll take it."
+        ],
+        [
+            "Sheldon",
+            "Good. Now, I assume we\u2019re splitting the cheque?"
+        ],
+        [
+            "Scene",
+            "The Comic Book Store."
+        ],
+        [
+            "Raj",
+            "Hey, Stuart."
+        ],
+        [
+            "Stuart",
+            "Oh, hey. I was actually just about to close up."
+        ],
+        [
+            "Raj",
+            "Oh, I\u2019m sorry. I\u2019ll leave."
+        ],
+        [
+            "Stuart",
+            "No, no. It\u2019s okay. Hang out. "
+        ],
+        [
+            "Raj",
+            "You sure?"
+        ],
+        [
+            "Stuart",
+            "Yeah, you\u2019re my first customer today."
+        ],
+        [
+            "Raj",
+            "All right. Great."
+        ],
+        [
+            "Stuart",
+            "I\u2019m, uh, having a nightcap. You want to join me?"
+        ],
+        [
+            "Raj",
+            "What are you drinking?"
+        ],
+        [
+            "Stuart",
+            "Coffee liqueur in a Chewbacca mug. I call it a sad-tini."
+        ],
+        [
+            "Raj",
+            "Perfect for the night I\u2019m having. Thank you."
+        ],
+        [
+            "Stuart",
+            "Hmm. Nice not to drink alone."
+        ],
+        [
+            "Raj",
+            "Amen to that. Sometimes I pour a little chardonnay into my dog\u2019s water bowl."
+        ],
+        [
+            "Stuart",
+            "You\u2019re kidding."
+        ],
+        [
+            "Raj",
+            "She\u2019s kind of a mean drunk, but what are you gonna do?"
+        ],
+        [
+            "Stuart",
+            "Cheers."
+        ],
+        [
+            "Raj",
+            "Cheers."
+        ],
+        [
+            "Stuart",
+            "A little music?"
+        ],
+        [
+            "Raj",
+            "Sure. Mmm. Bossa nova. You listen to that with your hips as well as your ears."
+        ],
+        [
+            "Stuart",
+            "Mmm."
+        ],
+        [
+            "Raj",
+            "Oh. Something about latin music just makes me feel like I\u2019m on a white sand beach in Rio."
+        ],
+        [
+            "Stuart",
+            "Yeah. The sun, the waves, the beautiful bodies, tanned and glistening with sweat."
+        ],
+        [
+            "Raj",
+            "I should go."
+        ],
+        [
+            "Stuart",
+            "Yeah."
+        ],
+        [
+            "Raj",
+            "Uh, thank you for the drink."
+        ],
+        [
+            "Stuart",
+            "No problem."
+        ],
+        [
+            "Raj",
+            "Hey, Stuart."
+        ],
+        [
+            "Stuart",
+            "Yeah?"
+        ],
+        [
+            "Raj",
+            "Do you want to hang out tomorrow night, maybe grab a bite to eat or catch a late movie?"
+        ],
+        [
+            "Stuart",
+            "Yeah, I-I\u2019d like to, but I\u2019m a little tight on funds."
+        ],
+        [
+            "Raj",
+            "No problem. My treat. I\u2019ll swing by after work."
+        ],
+        [
+            "Stuart",
+            "Okay."
+        ],
+        [
+            "Raj",
+            "Okay."
+        ],
+        [
+            "Stuart",
+            "I could do worse."
+        ],
+        [
+            "Scene",
+            "The International Space Station"
+        ],
+        [
+            "Bernadette",
+            "Aw, that\u2019s such good news, Howie. Thank you for telling her."
+        ],
+        [
+            "Howard",
+            "Hey, I\u2019m a grown man. I\u2019m gonna live with my wife. My mother\u2019s just gonna have to learn to make do on her own."
+        ],
+        [
+            "Bernadette",
+            "Was she upset?"
+        ],
+        [
+            "Howard",
+            "Who can tell? She yells everything. She might have been upset. She might have been hungry."
+        ],
+        [
+            "Bernadette",
+            "Thanks for fixing it. I love you."
+        ],
+        [
+            "Howard",
+            "I love you, too. Sweet dreams. I\u2019ll talk to you tomorrow?"
+        ],
+        [
+            "Bernadette",
+            "Good night, Rocket Man."
+        ],
+        [
+            "Howard",
+            "To infinity and beyond, baby."
+        ],
+        [
+            "Dimitri",
+            "Loops. You realize you just lied your ass off to your wife and your mother."
+        ],
+        [
+            "Howard",
+            "I know."
+        ],
+        [
+            "Dimitri",
+            "What are you gonna do when you get back to Earth?"
+        ],
+        [
+            "Howard",
+            "Oh, I\u2019m never going back."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-01-the-date-night-variable/"
+}

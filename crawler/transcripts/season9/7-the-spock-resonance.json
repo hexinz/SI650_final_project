@@ -1,0 +1,1734 @@
+{
+    "Season": 9,
+    "Episode": 7,
+    "Title": "the spock resonance",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                14,
+                "Credits sequence."
+            ],
+            [
+                15,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                28,
+                "The apartment. "
+            ],
+            [
+                37,
+                "Howard and Bernadette\u2019s kitchen."
+            ],
+            [
+                51,
+                "The apartment."
+            ],
+            [
+                79,
+                "Howard and Bernadette\u2019s house."
+            ],
+            [
+                96,
+                "The apartment."
+            ],
+            [
+                143,
+                "The crawlspace under Howard and Bernadette\u2019s house."
+            ],
+            [
+                161,
+                "The apartment."
+            ],
+            [
+                181,
+                "Howard and Bernadette\u2019s kitchen."
+            ],
+            [
+                202,
+                "The street. Sheldon sees Amy with another man. He leaves. "
+            ],
+            [
+                203,
+                "The apartment."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Did you hear about this study that found people that were cool and popular at 13 have problems succeeding later in life?"
+            ],
+            [
+                6,
+                "You tell me, you woke up in bed with one."
+            ],
+            [
+                8,
+                "Why is he writing to you?"
+            ],
+            [
+                30,
+                "I\u2019m the one who thought of Spockumentary."
+            ],
+            [
+                54,
+                "How long have you known Adam?"
+            ],
+            [
+                56,
+                "And what are you getting him back for?"
+            ],
+            [
+                64,
+                "My brother was mean to me, too."
+            ],
+            [
+                71,
+                "When did we get a wall safe?"
+            ],
+            [
+                73,
+                "When did we get a floor safe?"
+            ],
+            [
+                75,
+                "There\u2019s a security camera?"
+            ],
+            [
+                104,
+                "You have a will?"
+            ],
+            [
+                106,
+                "Will Wil want it?"
+            ],
+            [
+                111,
+                "You bought her a ring?"
+            ],
+            [
+                117,
+                "Oh, man, I\u2019m sorry, that must have been devastating for you."
+            ],
+            [
+                135,
+                "You did go pfft."
+            ],
+            [
+                137,
+                "Just like you."
+            ],
+            [
+                163,
+                "I know. I also can\u2019t believe he watched what we did on that couch and still sits on it."
+            ],
+            [
+                166,
+                "Hey, buddy. How you doing?"
+            ],
+            [
+                168,
+                "Yeah."
+            ],
+            [
+                170,
+                "Oh, yeah."
+            ],
+            [
+                174,
+                "No."
+            ],
+            [
+                176,
+                "Nirsh."
+            ],
+            [
+                180,
+                "He didn\u2019t meant that."
+            ],
+            [
+                207,
+                "Well now instead of idolizing fictional characters, you can focus on the real people who are already in your life."
+            ],
+            [
+                209,
+                "Thank you."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "Hmm. I\u2019m doing okay, and I was very popular at 13."
+            ],
+            [
+                4,
+                "Oh, no. At home. The servants would sing to me, laugh at my jokes. I wish I knew their names."
+            ],
+            [
+                10,
+                "Oh. Hey, high five."
+            ],
+            [
+                80,
+                "So, your father-in-law is in there right now?"
+            ],
+            [
+                82,
+                "Oh, okay. Got it."
+            ],
+            [
+                84,
+                "Hey."
+            ],
+            [
+                86,
+                "You sure? It\u2019s a pretty great wall."
+            ],
+            [
+                88,
+                "I\u2019m sorry. I did what I could."
+            ],
+            [
+                92,
+                "That is so generous of you. I\u2019d like to switch sides."
+            ],
+            [
+                94,
+                "Well, it\u2019s easy to find out. Just go into the crawlspace under the house and check."
+            ],
+            [
+                190,
+                "It\u2019s interesting your father didn\u2019t help around the house and Howard doesn\u2019t help, either, so in a way, Howard\u2019s not only like your father, but he\u2019s also like the child that you\u2019re afraid to have."
+            ],
+            [
+                192,
+                "Fine, I\u2019ll leave. But it sounds like somebody needs a fresh diaper."
+            ]
+        ],
+        "Penny": [
+            [
+                3,
+                "In school?"
+            ],
+            [
+                5,
+                "Does the study say what happens to the unpopular kids?"
+            ],
+            [
+                12,
+                "Yes. Don\u2019t take your shirt off just because the director said so."
+            ],
+            [
+                31,
+                "And I\u2019m laughing like I did the first time I heard it."
+            ],
+            [
+                63,
+                "Aw. When he says things like that, I just want to hug him and make everything better."
+            ],
+            [
+                65,
+                "Yeah, you probably had it coming."
+            ],
+            [
+                68,
+                "Hi. Look at that. I\u2019m in a movie, my shirt stayed on."
+            ],
+            [
+                77,
+                "Oh, my God. We\u2019ve done things on that couch."
+            ],
+            [
+                100,
+                "Okay, enough about the napkin. What else you hiding in there?"
+            ],
+            [
+                102,
+                "I would."
+            ],
+            [
+                108,
+                "Oh, what\u2019s that ring box?"
+            ],
+            [
+                110,
+                "What?"
+            ],
+            [
+                115,
+                "Okay, back to the ring. Does Amy even know about this?"
+            ],
+            [
+                119,
+                "I know. It just\u2026"
+            ],
+            [
+                123,
+                "I knew I could smell \u2019em."
+            ],
+            [
+                130,
+                "Oh pfft."
+            ],
+            [
+                132,
+                "I\u2019m sorry. I\u2019m not here."
+            ],
+            [
+                134,
+                "Um."
+            ],
+            [
+                136,
+                "All right, fine. Well, Sheldon, I\u2019m no expert, but aren\u2019t you completely missing the point of Spock? I mean, he liked to act like he had no emotions, but he was still half human."
+            ],
+            [
+                138,
+                "I\u2019m just saying, you pretend you don\u2019t, but you have feelings just like everybody else."
+            ],
+            [
+                140,
+                "Sweetie, you\u2019re yelling."
+            ],
+            [
+                162,
+                "I can\u2019t believe Sheldon was gonna ask Amy to marry him."
+            ],
+            [
+                164,
+                "Yeah."
+            ],
+            [
+                171,
+                "Definitely."
+            ],
+            [
+                173,
+                "Do you know what that means?"
+            ],
+            [
+                175,
+                "Are you telling the truth?"
+            ],
+            [
+                178,
+                "What are you gonna do?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                7,
+                "Listen to this. I just received an e-mail from Wil Wheaton. Leonard Nimoy\u2019s son is working on a documentary that he started with his father before he passed away. It\u2019s about Mr. Spock and his impact on our culture."
+            ],
+            [
+                9,
+                "Well, they\u2019re looking for fans to interview, and Wil thought I\u2019d be good for it."
+            ],
+            [
+                11,
+                "Absolutely not. Yeah, Penny, you spent some time in front of the camera. Any words of advice?"
+            ],
+            [
+                13,
+                "This is a documentary about Mr. Spock. I\u2019m sure if there\u2019s nudity, it will be tasteful."
+            ],
+            [
+                35,
+                "Oh, it\u2019s nice to meet you. I admire your father\u2019s work very much. It\u2019s not every day I get to meet someone whose life\u2019s journey began in my hero\u2019s scrotum."
+            ],
+            [
+                53,
+                "All right. But this better not be some elaborate scheme to get me out of my shirt."
+            ],
+            [
+                58,
+                "Dr. Sheldon Cooper, theoretical physicist, Caltech."
+            ],
+            [
+                62,
+                "I think the same thing that appeals to people everywhere, the dream of a cold, rational world entirely without human emotion. Spock came from a planet governed only by logic. You know, on Vulcan, when your brother asks, why are you hitting yourself? the answer is, I\u2019m not. You\u2019re moving my arm. To which he says, Fascinating. And then you both watch educational television."
+            ],
+            [
+                67,
+                "I have many. My most treasured is an autographed napkin given to me by my very thoughtful friend Penny. That\u2019s her over there."
+            ],
+            [
+                70,
+                "Of course. Excuse me. This will just take a moment."
+            ],
+            [
+                72,
+                "When there was no more room in the floor safe."
+            ],
+            [
+                74,
+                "When we got the security camera."
+            ],
+            [
+                76,
+                "Aquaman, protecting your home since 2012."
+            ],
+            [
+                78,
+                "Yeah. You don\u2019t have to tell me."
+            ],
+            [
+                97,
+                "Not only is it signed to me but this is where he wiped his mouth. So we are currently in the presence of Leonard Nimoy\u2019s DNA."
+            ],
+            [
+                99,
+                "No offence, but this is pure 100% Nimoy. Because of your mother, you\u2019re only 50%. Which isn\u2019t bad, but anything that you wipe your mouth on gets thrown away."
+            ],
+            [
+                101,
+                "Wouldn\u2019t you like to know?"
+            ],
+            [
+                103,
+                "All right then. See? Just my valuables. My passport, uh, my will."
+            ],
+            [
+                105,
+                "Yeah. My 1/18 scale Wil Wheaton action figure. I also have the other kind of will, and in it I will my Wil back to Wil."
+            ],
+            [
+                109,
+                "Oh. That is an engagement ring that I was going to give my girlfriend Amy."
+            ],
+            [
+                112,
+                "No, no. This has been in my family for generations. Except for a short time when Comanches cut off my great-great-great-grandmother\u2019s finger and stole it."
+            ],
+            [
+                114,
+                "No. The Texas Rangers tracked them down to their village and slaughtered every last one of them. It was a happy ending. Well, for my nine-fingered Nana."
+            ],
+            [
+                116,
+                "No. She broke up with me before I could broach the subject."
+            ],
+            [
+                118,
+                "No, not at all. No, I\u2019m fine. You know, Amy had reservations about our relationship, so all worked out for the best."
+            ],
+            [
+                122,
+                "Yes. Oh, for example, three years ago when I discovered Penny was eating all my Pop-Tarts, instead of getting angry or vindictive, you know, I got a floor safe."
+            ],
+            [
+                125,
+                "Oh, certainly. Uh, when I was eight years old, Billy Sparks cornered me in the playground. I asked myself what would Spock do? Then I grabbed Billy on his shoulder and performed my first Vulcan nerve pinch."
+            ],
+            [
+                127,
+                "Oh, no, he broke my collarbone. I can still hear it click."
+            ],
+            [
+                129,
+                "Oh, not at all. As I said, the entire point of emulating Spock was to rise above human emotion, which I\u2019ve spent a lifetime mastering."
+            ],
+            [
+                131,
+                "Excuse me?"
+            ],
+            [
+                133,
+                "No. You went pfft. What does pfft mean?"
+            ],
+            [
+                139,
+                "Not true. No, look at me. I had an engagement ring to give a girl, and instead, she rejected me. And am I emotional about that? No. No, I am sitting here on a couch, talking about my favourite TV character like nothing happened. \u2018Cause I am just like him, all logical, all the time."
+            ],
+            [
+                141,
+                "Because when I speak at a regular volume, no one seems to believe me that I\u2019ve put this Amy nonsense behind me."
+            ],
+            [
+                165,
+                "Hello."
+            ],
+            [
+                167,
+                "Better. Did Wil and Adam leave?"
+            ],
+            [
+                169,
+                "Do you think they\u2019re going to put my outburst in the documentary?"
+            ],
+            [
+                172,
+                "Well, there\u2019s no point in dwelling on it. As the Vulcans say, Kup-fun-tor ha\u2019kiv na\u2019ish Du stau."
+            ],
+            [
+                177,
+                "Well, this is ridiculous. Being upset about Amy all the time isn\u2019t accomplishing anything. If I want to resolve this situation, then I need to take action."
+            ],
+            [
+                179,
+                "I\u2019m going to find her and ask her to marry me. And if she says yes, we can put this behind us and resume our relationship. And if she says no, well, then she can just ponfo miran."
+            ],
+            [
+                206,
+                "Yeah, right. You can just shut your feelings off. There goes television, lying to us again. We let you raise our children, and this is the thanks we get. Leonard, how could I have been so foolish to try and follow in the footsteps of a made-up alien race with no emotions?"
+            ],
+            [
+                208,
+                "Those are very wise words."
+            ],
+            [
+                210,
+                "They\u2019d just be so much more comforting if they came out of a television."
+            ]
+        ],
+        "Bernadette": [
+            [
+                16,
+                "Hey. You got a minute?"
+            ],
+            [
+                18,
+                "Pause the game, Howard."
+            ],
+            [
+                20,
+                "We need to talk about redecorating this place."
+            ],
+            [
+                22,
+                "Look, I get that you grew up here and you\u2019re attached to things looking a certain way, but I want this to feel like my house, too."
+            ],
+            [
+                24,
+                "All right. Let\u2019s start over. I\u2019m redecorating. The furniture, the carpeting, the walls. I\u2019m changing everything that depresses me when I look at it. Try not to be one of those things."
+            ],
+            [
+                26,
+                "Is it about how I can\u2019t have new wallpaper \u2019cause your dad left when you were little and your mom died?"
+            ],
+            [
+                38,
+                "Whatcha doing?"
+            ],
+            [
+                40,
+                "Okay, listen, I\u2019m thinking that maybe we can compromise on the house."
+            ],
+            [
+                42,
+                "Let\u2019s just redo one room and see how it goes."
+            ],
+            [
+                44,
+                "How \u2019bout this one?"
+            ],
+            [
+                46,
+                "Then how \u2019bout the bathroom?"
+            ],
+            [
+                48,
+                "Fine. Then the dining room."
+            ],
+            [
+                50,
+                "Great. I\u2019m gonna go pick out paint samples."
+            ],
+            [
+                85,
+                "Hey, Raj. Dad and I were just talking about taking down this wall."
+            ],
+            [
+                89,
+                "Seriously? You brought Raj over to take your side?"
+            ],
+            [
+                91,
+                "He\u2019s not on my side. He\u2019s doing all the work for free."
+            ],
+            [
+                160,
+                "Aftershock."
+            ],
+            [
+                182,
+                "So I should probably explain why I kind of fibbed."
+            ],
+            [
+                184,
+                "I told my dad that you were the one who didn\u2019t want kids because I didn\u2019t want to disappoint him."
+            ],
+            [
+                186,
+                "Turns out yeah, I didn\u2019t think twice about it."
+            ],
+            [
+                188,
+                "Oh, please. Mom did everything. All you did was come home from work, sit on the couch and drink beer. How is that raising kids?"
+            ],
+            [
+                194,
+                "Why?"
+            ],
+            [
+                196,
+                "Okay, I\u2019ll think about it."
+            ],
+            [
+                198,
+                "It\u2019s an actual I\u2019ll think about it."
+            ],
+            [
+                200,
+                "I know you would."
+            ]
+        ],
+        "Howard": [
+            [
+                17,
+                "Not really. Visigoths are kind of up my butt right now."
+            ],
+            [
+                19,
+                "Howard? Uh-oh. Make room, Visigoths. \u2018Sup?"
+            ],
+            [
+                21,
+                "Oh, no, not this again."
+            ],
+            [
+                23,
+                "Oh, honey, of course it\u2019s your house. Why else would you be cleaning it all the time?"
+            ],
+            [
+                25,
+                "May I say something?"
+            ],
+            [
+                27,
+                "Never mind."
+            ],
+            [
+                39,
+                "Oh. Making myself a bologna sandwich like my mom used to make me after my dad left, but before she died."
+            ],
+            [
+                41,
+                "I\u2019m listening."
+            ],
+            [
+                43,
+                "That is reasonable. But what room?"
+            ],
+            [
+                45,
+                "No way. No, this is the room I associate the most with my mom."
+            ],
+            [
+                47,
+                "I want to change my answer."
+            ],
+            [
+                49,
+                "I guess we didn\u2019t use it very often. Unless we had company. Which didn\u2019t happen much after my dad left and not at all after my mom\u2026"
+            ],
+            [
+                81,
+                "Yes. So back me up. The house is good the way it is."
+            ],
+            [
+                83,
+                "Hey. What\u2019s going on?"
+            ],
+            [
+                90,
+                "Your dad\u2019s on your side."
+            ],
+            [
+                93,
+                "Look, uh, I don\u2019t even think you can take this wall down \u2019cause it\u2019s load-bearing."
+            ],
+            [
+                95,
+                "When is your visa up?"
+            ],
+            [
+                145,
+                "Yeah. Yeah, I feel like an archaeologist. Indiana Jones and the Single-Family Dwelling. Hey. Look. Found a seashell."
+            ],
+            [
+                147,
+                "Oh."
+            ],
+            [
+                149,
+                "Sorry. Do you have a sense of where we are?"
+            ],
+            [
+                151,
+                "Oh. Okay, so we must be under the dining room."
+            ],
+            [
+                153,
+                "Why wouldn\u2019t I want to hear it?"
+            ],
+            [
+                155,
+                "That\u2019s not true at all. I wish she\u2019d get pregnant, believe me. I\u2019m climbing on top of her every chance I get. In a loving and respectful manner. The point is, I really do want kids."
+            ],
+            [
+                157,
+                "I don\u2019t know why she\u2019s lying to you. She\u2019s the one who doesn\u2019t want kids. In fact, every time I bring up the subject\u2026"
+            ],
+            [
+                159,
+                "Oh, my God, we\u2019re gonna die."
+            ],
+            [
+                183,
+                "That would be nice."
+            ],
+            [
+                185,
+                "But you were okay throwing me under the bus?"
+            ],
+            [
+                191,
+                "Why are you still here?"
+            ],
+            [
+                193,
+                "All right, I admit that I don\u2019t help out a lot. And I need to work on that. But if we had a kid, it would be different."
+            ],
+            [
+                195,
+                "Because when my dad left, I promised myself that if I ever had a chance to be a father I\u2019d always be there."
+            ],
+            [
+                197,
+                "And this an actual I\u2019ll think about it, not like the can we get a motorcycle with a sidecar I\u2019ll think about it\u201d?"
+            ],
+            [
+                199,
+                "I really believe I\u2019d be a great dad."
+            ],
+            [
+                201,
+                "Speaking of making babies, what do you say I wash up and poke around your crawlspace?"
+            ]
+        ],
+        "Sheldon (on phone)": [
+            [
+                29,
+                "Hello, Amy. It\u2019s Sheldon. Yeah, I, I know that we\u2019re broken up, but I\u2019m leaving this message because I thought perhaps you\u2019d like to watch me be interviewed for a documentary about Mr. Spock. Or as I like to call it, a Spockumentary. Yeah, I\u2019m going to use that joke in the interview, so try to laugh like you\u2019re hearing it for the first time. You know, hysterically, hmm? And with a tinge of sadness that I\u2019m no longer in your life."
+            ]
+        ],
+        "Sheldon (answering door)": [
+            [
+                32,
+                "Hello."
+            ]
+        ],
+        "Wil Wheaton": [
+            [
+                33,
+                "Hey, Sheldon. This is Adam Nimoy."
+            ]
+        ],
+        "Adam": [
+            [
+                34,
+                "Nice to meet you."
+            ],
+            [
+                52,
+                "All right, we\u2019re just gonna have a conversation. Pretend the camera\u2019s not here."
+            ],
+            [
+                57,
+                "Let\u2019s start with your name and occupation."
+            ],
+            [
+                59,
+                "And what is your earliest memory of the character Spock?"
+            ],
+            [
+                61,
+                "What was it about Spock that appealed to you?"
+            ],
+            [
+                66,
+                "Do you have any Spock collectibles?"
+            ],
+            [
+                69,
+                "Can we see the napkin?"
+            ],
+            [
+                121,
+                "Did you find that helpful?"
+            ],
+            [
+                124,
+                "What about from when you were a kid?"
+            ],
+            [
+                126,
+                "Did it work?"
+            ],
+            [
+                128,
+                "That must have been very upsetting for you."
+            ]
+        ],
+        "Wil": [
+            [
+                36,
+                "I told you. This guy is gold."
+            ],
+            [
+                55,
+                "A few years."
+            ],
+            [
+                98,
+                "Um, doesn\u2019t Adam count as Leonard Nimoy\u2019s DNA?"
+            ],
+            [
+                107,
+                "Wil won\u2019t."
+            ],
+            [
+                113,
+                "Sheldon, that\u2019s awful."
+            ],
+            [
+                142,
+                "This documentary is gonna be awesome."
+            ]
+        ],
+        "Sheldon: The first episode of Star Trek": [
+            [
+                60,
+                "The Original Series I ever saw was The Galileo Seven. Uh, Spock had just landed on the planet Taurus II. Then my brother came in, sat on my head, and said eat farts. After that day, I was hooked. On Star Trek, not my brother\u2019s sphincter-based cuisine."
+            ]
+        ],
+        "Mr Rostenkowski": [
+            [
+                87,
+                "What\u2019s so great about it?"
+            ],
+            [
+                144,
+                "You gonna be okay down here?"
+            ],
+            [
+                146,
+                "Yeah, that\u2019s a rat skull."
+            ],
+            [
+                148,
+                "Relax. There\u2019s enough droppings down here without you making more."
+            ],
+            [
+                150,
+                "Yeah. I think that\u2019s the den."
+            ],
+            [
+                152,
+                "Uh-huh. Yep. You know, I know you don\u2019t want to hear this, but it wouldn\u2019t take that much work to turn that den into a nursery."
+            ],
+            [
+                154,
+                "\u2018Cause Bernie said you didn\u2019t want kids."
+            ],
+            [
+                156,
+                "Huh."
+            ],
+            [
+                187,
+                "Bernie, you don\u2019t need to worry about me. But I don\u2019t want to see you miss out. Raising children was the most rewarding experience of my life."
+            ],
+            [
+                189,
+                "This is really a conversation for husband and wife. I\u2019m gonna go clean up, hit the road. If your mother asks, I was here till ten."
+            ]
+        ],
+        "Sheldon (shouting)": [
+            [
+                120,
+                "I said I\u2019m fine! (Long pause) We\u2019ve gotten a little off-topic. Allow me to make things entertaining again in this little Spockumentary. That was Leonard\u2019s joke. As a child, when faced with a dilemma, my mother encouraged me to ask what would Jesus do? The answer to that was always love thy neighbour. But my neighbour had a dead tooth, so that wasn\u2019t going to happen. But that\u2019s why I changed it to, what would Spock do?"
+            ]
+        ],
+        "Bernadette (above)": [
+            [
+                158,
+                "Earthquake."
+            ]
+        ],
+        "Kirk (on screen)": [
+            [
+                204,
+                "Dr. Dana feels he isn\u2019t that dangerous. What makes you right and a trained psychiatrist wrong?"
+            ]
+        ],
+        "Spock (on screen)": [
+            [
+                205,
+                "Because she feels. I don\u2019t. All I know is logic."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Did you hear about this study that found people that were cool and popular at 13 have problems succeeding later in life?"
+        ],
+        [
+            "Raj",
+            "Hmm. I\u2019m doing okay, and I was very popular at 13."
+        ],
+        [
+            "Penny",
+            "In school?"
+        ],
+        [
+            "Raj",
+            "Oh, no. At home. The servants would sing to me, laugh at my jokes. I wish I knew their names."
+        ],
+        [
+            "Penny",
+            "Does the study say what happens to the unpopular kids?"
+        ],
+        [
+            "Leonard",
+            "You tell me, you woke up in bed with one."
+        ],
+        [
+            "Sheldon",
+            "Listen to this. I just received an e-mail from Wil Wheaton. Leonard Nimoy\u2019s son is working on a documentary that he started with his father before he passed away. It\u2019s about Mr. Spock and his impact on our culture."
+        ],
+        [
+            "Leonard",
+            "Why is he writing to you?"
+        ],
+        [
+            "Sheldon",
+            "Well, they\u2019re looking for fans to interview, and Wil thought I\u2019d be good for it."
+        ],
+        [
+            "Raj",
+            "Oh. Hey, high five."
+        ],
+        [
+            "Sheldon",
+            "Absolutely not. Yeah, Penny, you spent some time in front of the camera. Any words of advice?"
+        ],
+        [
+            "Penny",
+            "Yes. Don\u2019t take your shirt off just because the director said so."
+        ],
+        [
+            "Sheldon",
+            "This is a documentary about Mr. Spock. I\u2019m sure if there\u2019s nudity, it will be tasteful."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Bernadette",
+            "Hey. You got a minute?"
+        ],
+        [
+            "Howard",
+            "Not really. Visigoths are kind of up my butt right now."
+        ],
+        [
+            "Bernadette",
+            "Pause the game, Howard."
+        ],
+        [
+            "Howard",
+            "Howard? Uh-oh. Make room, Visigoths. \u2018Sup?"
+        ],
+        [
+            "Bernadette",
+            "We need to talk about redecorating this place."
+        ],
+        [
+            "Howard",
+            "Oh, no, not this again."
+        ],
+        [
+            "Bernadette",
+            "Look, I get that you grew up here and you\u2019re attached to things looking a certain way, but I want this to feel like my house, too."
+        ],
+        [
+            "Howard",
+            "Oh, honey, of course it\u2019s your house. Why else would you be cleaning it all the time?"
+        ],
+        [
+            "Bernadette",
+            "All right. Let\u2019s start over. I\u2019m redecorating. The furniture, the carpeting, the walls. I\u2019m changing everything that depresses me when I look at it. Try not to be one of those things."
+        ],
+        [
+            "Howard",
+            "May I say something?"
+        ],
+        [
+            "Bernadette",
+            "Is it about how I can\u2019t have new wallpaper \u2019cause your dad left when you were little and your mom died?"
+        ],
+        [
+            "Howard",
+            "Never mind."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon (on phone)",
+            "Hello, Amy. It\u2019s Sheldon. Yeah, I, I know that we\u2019re broken up, but I\u2019m leaving this message because I thought perhaps you\u2019d like to watch me be interviewed for a documentary about Mr. Spock. Or as I like to call it, a Spockumentary. Yeah, I\u2019m going to use that joke in the interview, so try to laugh like you\u2019re hearing it for the first time. You know, hysterically, hmm? And with a tinge of sadness that I\u2019m no longer in your life."
+        ],
+        [
+            "Leonard",
+            "I\u2019m the one who thought of Spockumentary."
+        ],
+        [
+            "Penny",
+            "And I\u2019m laughing like I did the first time I heard it."
+        ],
+        [
+            "Sheldon (answering door)",
+            "Hello."
+        ],
+        [
+            "Wil Wheaton",
+            "Hey, Sheldon. This is Adam Nimoy."
+        ],
+        [
+            "Adam",
+            "Nice to meet you."
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s nice to meet you. I admire your father\u2019s work very much. It\u2019s not every day I get to meet someone whose life\u2019s journey began in my hero\u2019s scrotum."
+        ],
+        [
+            "Wil",
+            "I told you. This guy is gold."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Bernadette",
+            "Whatcha doing?"
+        ],
+        [
+            "Howard",
+            "Oh. Making myself a bologna sandwich like my mom used to make me after my dad left, but before she died."
+        ],
+        [
+            "Bernadette",
+            "Okay, listen, I\u2019m thinking that maybe we can compromise on the house."
+        ],
+        [
+            "Howard",
+            "I\u2019m listening."
+        ],
+        [
+            "Bernadette",
+            "Let\u2019s just redo one room and see how it goes."
+        ],
+        [
+            "Howard",
+            "That is reasonable. But what room?"
+        ],
+        [
+            "Bernadette",
+            "How \u2019bout this one?"
+        ],
+        [
+            "Howard",
+            "No way. No, this is the room I associate the most with my mom."
+        ],
+        [
+            "Bernadette",
+            "Then how \u2019bout the bathroom?"
+        ],
+        [
+            "Howard",
+            "I want to change my answer."
+        ],
+        [
+            "Bernadette",
+            "Fine. Then the dining room."
+        ],
+        [
+            "Howard",
+            "I guess we didn\u2019t use it very often. Unless we had company. Which didn\u2019t happen much after my dad left and not at all after my mom\u2026"
+        ],
+        [
+            "Bernadette",
+            "Great. I\u2019m gonna go pick out paint samples."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Adam",
+            "All right, we\u2019re just gonna have a conversation. Pretend the camera\u2019s not here."
+        ],
+        [
+            "Sheldon",
+            "All right. But this better not be some elaborate scheme to get me out of my shirt."
+        ],
+        [
+            "Leonard",
+            "How long have you known Adam?"
+        ],
+        [
+            "Wil",
+            "A few years."
+        ],
+        [
+            "Leonard",
+            "And what are you getting him back for?"
+        ],
+        [
+            "Adam",
+            "Let\u2019s start with your name and occupation."
+        ],
+        [
+            "Sheldon",
+            "Dr. Sheldon Cooper, theoretical physicist, Caltech."
+        ],
+        [
+            "Adam",
+            "And what is your earliest memory of the character Spock?"
+        ],
+        [
+            "Sheldon: The first episode of Star Trek",
+            "The Original Series I ever saw was The Galileo Seven. Uh, Spock had just landed on the planet Taurus II. Then my brother came in, sat on my head, and said eat farts. After that day, I was hooked. On Star Trek, not my brother\u2019s sphincter-based cuisine."
+        ],
+        [
+            "Adam",
+            "What was it about Spock that appealed to you?"
+        ],
+        [
+            "Sheldon",
+            "I think the same thing that appeals to people everywhere, the dream of a cold, rational world entirely without human emotion. Spock came from a planet governed only by logic. You know, on Vulcan, when your brother asks, why are you hitting yourself? the answer is, I\u2019m not. You\u2019re moving my arm. To which he says, Fascinating. And then you both watch educational television."
+        ],
+        [
+            "Penny",
+            "Aw. When he says things like that, I just want to hug him and make everything better."
+        ],
+        [
+            "Leonard",
+            "My brother was mean to me, too."
+        ],
+        [
+            "Penny",
+            "Yeah, you probably had it coming."
+        ],
+        [
+            "Adam",
+            "Do you have any Spock collectibles?"
+        ],
+        [
+            "Sheldon",
+            "I have many. My most treasured is an autographed napkin given to me by my very thoughtful friend Penny. That\u2019s her over there."
+        ],
+        [
+            "Penny",
+            "Hi. Look at that. I\u2019m in a movie, my shirt stayed on."
+        ],
+        [
+            "Adam",
+            "Can we see the napkin?"
+        ],
+        [
+            "Sheldon",
+            "Of course. Excuse me. This will just take a moment."
+        ],
+        [
+            "Leonard",
+            "When did we get a wall safe?"
+        ],
+        [
+            "Sheldon",
+            "When there was no more room in the floor safe."
+        ],
+        [
+            "Leonard",
+            "When did we get a floor safe?"
+        ],
+        [
+            "Sheldon",
+            "When we got the security camera."
+        ],
+        [
+            "Leonard",
+            "There\u2019s a security camera?"
+        ],
+        [
+            "Sheldon",
+            "Aquaman, protecting your home since 2012."
+        ],
+        [
+            "Penny",
+            "Oh, my God. We\u2019ve done things on that couch."
+        ],
+        [
+            "Sheldon",
+            "Yeah. You don\u2019t have to tell me."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Raj",
+            "So, your father-in-law is in there right now?"
+        ],
+        [
+            "Howard",
+            "Yes. So back me up. The house is good the way it is."
+        ],
+        [
+            "Raj",
+            "Oh, okay. Got it."
+        ],
+        [
+            "Howard",
+            "Hey. What\u2019s going on?"
+        ],
+        [
+            "Raj",
+            "Hey."
+        ],
+        [
+            "Bernadette",
+            "Hey, Raj. Dad and I were just talking about taking down this wall."
+        ],
+        [
+            "Raj",
+            "You sure? It\u2019s a pretty great wall."
+        ],
+        [
+            "Mr Rostenkowski",
+            "What\u2019s so great about it?"
+        ],
+        [
+            "Raj",
+            "I\u2019m sorry. I did what I could."
+        ],
+        [
+            "Bernadette",
+            "Seriously? You brought Raj over to take your side?"
+        ],
+        [
+            "Howard",
+            "Your dad\u2019s on your side."
+        ],
+        [
+            "Bernadette",
+            "He\u2019s not on my side. He\u2019s doing all the work for free."
+        ],
+        [
+            "Raj",
+            "That is so generous of you. I\u2019d like to switch sides."
+        ],
+        [
+            "Howard",
+            "Look, uh, I don\u2019t even think you can take this wall down \u2019cause it\u2019s load-bearing."
+        ],
+        [
+            "Raj",
+            "Well, it\u2019s easy to find out. Just go into the crawlspace under the house and check."
+        ],
+        [
+            "Howard",
+            "When is your visa up?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Not only is it signed to me but this is where he wiped his mouth. So we are currently in the presence of Leonard Nimoy\u2019s DNA."
+        ],
+        [
+            "Wil",
+            "Um, doesn\u2019t Adam count as Leonard Nimoy\u2019s DNA?"
+        ],
+        [
+            "Sheldon",
+            "No offence, but this is pure 100% Nimoy. Because of your mother, you\u2019re only 50%. Which isn\u2019t bad, but anything that you wipe your mouth on gets thrown away."
+        ],
+        [
+            "Penny",
+            "Okay, enough about the napkin. What else you hiding in there?"
+        ],
+        [
+            "Sheldon",
+            "Wouldn\u2019t you like to know?"
+        ],
+        [
+            "Penny",
+            "I would."
+        ],
+        [
+            "Sheldon",
+            "All right then. See? Just my valuables. My passport, uh, my will."
+        ],
+        [
+            "Leonard",
+            "You have a will?"
+        ],
+        [
+            "Sheldon",
+            "Yeah. My 1/18 scale Wil Wheaton action figure. I also have the other kind of will, and in it I will my Wil back to Wil."
+        ],
+        [
+            "Leonard",
+            "Will Wil want it?"
+        ],
+        [
+            "Wil",
+            "Wil won\u2019t."
+        ],
+        [
+            "Penny",
+            "Oh, what\u2019s that ring box?"
+        ],
+        [
+            "Sheldon",
+            "Oh. That is an engagement ring that I was going to give my girlfriend Amy."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "You bought her a ring?"
+        ],
+        [
+            "Sheldon",
+            "No, no. This has been in my family for generations. Except for a short time when Comanches cut off my great-great-great-grandmother\u2019s finger and stole it."
+        ],
+        [
+            "Wil",
+            "Sheldon, that\u2019s awful."
+        ],
+        [
+            "Sheldon",
+            "No. The Texas Rangers tracked them down to their village and slaughtered every last one of them. It was a happy ending. Well, for my nine-fingered Nana."
+        ],
+        [
+            "Penny",
+            "Okay, back to the ring. Does Amy even know about this?"
+        ],
+        [
+            "Sheldon",
+            "No. She broke up with me before I could broach the subject."
+        ],
+        [
+            "Leonard",
+            "Oh, man, I\u2019m sorry, that must have been devastating for you."
+        ],
+        [
+            "Sheldon",
+            "No, not at all. No, I\u2019m fine. You know, Amy had reservations about our relationship, so all worked out for the best."
+        ],
+        [
+            "Penny",
+            "I know. It just\u2026"
+        ],
+        [
+            "Sheldon (shouting)",
+            "I said I\u2019m fine! (Long pause) We\u2019ve gotten a little off-topic. Allow me to make things entertaining again in this little Spockumentary. That was Leonard\u2019s joke. As a child, when faced with a dilemma, my mother encouraged me to ask what would Jesus do? The answer to that was always love thy neighbour. But my neighbour had a dead tooth, so that wasn\u2019t going to happen. But that\u2019s why I changed it to, what would Spock do?"
+        ],
+        [
+            "Adam",
+            "Did you find that helpful?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Oh, for example, three years ago when I discovered Penny was eating all my Pop-Tarts, instead of getting angry or vindictive, you know, I got a floor safe."
+        ],
+        [
+            "Penny",
+            "I knew I could smell \u2019em."
+        ],
+        [
+            "Adam",
+            "What about from when you were a kid?"
+        ],
+        [
+            "Sheldon",
+            "Oh, certainly. Uh, when I was eight years old, Billy Sparks cornered me in the playground. I asked myself what would Spock do? Then I grabbed Billy on his shoulder and performed my first Vulcan nerve pinch."
+        ],
+        [
+            "Adam",
+            "Did it work?"
+        ],
+        [
+            "Sheldon",
+            "Oh, no, he broke my collarbone. I can still hear it click."
+        ],
+        [
+            "Adam",
+            "That must have been very upsetting for you."
+        ],
+        [
+            "Sheldon",
+            "Oh, not at all. As I said, the entire point of emulating Spock was to rise above human emotion, which I\u2019ve spent a lifetime mastering."
+        ],
+        [
+            "Penny",
+            "Oh pfft."
+        ],
+        [
+            "Sheldon",
+            "Excuse me?"
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry. I\u2019m not here."
+        ],
+        [
+            "Sheldon",
+            "No. You went pfft. What does pfft mean?"
+        ],
+        [
+            "Penny",
+            "Um."
+        ],
+        [
+            "Leonard",
+            "You did go pfft."
+        ],
+        [
+            "Penny",
+            "All right, fine. Well, Sheldon, I\u2019m no expert, but aren\u2019t you completely missing the point of Spock? I mean, he liked to act like he had no emotions, but he was still half human."
+        ],
+        [
+            "Leonard",
+            "Just like you."
+        ],
+        [
+            "Penny",
+            "I\u2019m just saying, you pretend you don\u2019t, but you have feelings just like everybody else."
+        ],
+        [
+            "Sheldon",
+            "Not true. No, look at me. I had an engagement ring to give a girl, and instead, she rejected me. And am I emotional about that? No. No, I am sitting here on a couch, talking about my favourite TV character like nothing happened. \u2018Cause I am just like him, all logical, all the time."
+        ],
+        [
+            "Penny",
+            "Sweetie, you\u2019re yelling."
+        ],
+        [
+            "Sheldon",
+            "Because when I speak at a regular volume, no one seems to believe me that I\u2019ve put this Amy nonsense behind me."
+        ],
+        [
+            "Wil",
+            "This documentary is gonna be awesome."
+        ],
+        [
+            "Scene",
+            "The crawlspace under Howard and Bernadette\u2019s house."
+        ],
+        [
+            "Mr Rostenkowski",
+            "You gonna be okay down here?"
+        ],
+        [
+            "Howard",
+            "Yeah. Yeah, I feel like an archaeologist. Indiana Jones and the Single-Family Dwelling. Hey. Look. Found a seashell."
+        ],
+        [
+            "Mr Rostenkowski",
+            "Yeah, that\u2019s a rat skull."
+        ],
+        [
+            "Howard",
+            "Oh."
+        ],
+        [
+            "Mr Rostenkowski",
+            "Relax. There\u2019s enough droppings down here without you making more."
+        ],
+        [
+            "Howard",
+            "Sorry. Do you have a sense of where we are?"
+        ],
+        [
+            "Mr Rostenkowski",
+            "Yeah. I think that\u2019s the den."
+        ],
+        [
+            "Howard",
+            "Oh. Okay, so we must be under the dining room."
+        ],
+        [
+            "Mr Rostenkowski",
+            "Uh-huh. Yep. You know, I know you don\u2019t want to hear this, but it wouldn\u2019t take that much work to turn that den into a nursery."
+        ],
+        [
+            "Howard",
+            "Why wouldn\u2019t I want to hear it?"
+        ],
+        [
+            "Mr Rostenkowski",
+            "\u2018Cause Bernie said you didn\u2019t want kids."
+        ],
+        [
+            "Howard",
+            "That\u2019s not true at all. I wish she\u2019d get pregnant, believe me. I\u2019m climbing on top of her every chance I get. In a loving and respectful manner. The point is, I really do want kids."
+        ],
+        [
+            "Mr Rostenkowski",
+            "Huh."
+        ],
+        [
+            "Howard",
+            "I don\u2019t know why she\u2019s lying to you. She\u2019s the one who doesn\u2019t want kids. In fact, every time I bring up the subject\u2026"
+        ],
+        [
+            "Bernadette (above)",
+            "Earthquake."
+        ],
+        [
+            "Howard",
+            "Oh, my God, we\u2019re gonna die."
+        ],
+        [
+            "Bernadette",
+            "Aftershock."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "I can\u2019t believe Sheldon was gonna ask Amy to marry him."
+        ],
+        [
+            "Leonard",
+            "I know. I also can\u2019t believe he watched what we did on that couch and still sits on it."
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "Hey, buddy. How you doing?"
+        ],
+        [
+            "Sheldon",
+            "Better. Did Wil and Adam leave?"
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "Do you think they\u2019re going to put my outburst in the documentary?"
+        ],
+        [
+            "Leonard",
+            "Oh, yeah."
+        ],
+        [
+            "Penny",
+            "Definitely."
+        ],
+        [
+            "Sheldon",
+            "Well, there\u2019s no point in dwelling on it. As the Vulcans say, Kup-fun-tor ha\u2019kiv na\u2019ish Du stau."
+        ],
+        [
+            "Penny",
+            "Do you know what that means?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Penny",
+            "Are you telling the truth?"
+        ],
+        [
+            "Leonard",
+            "Nirsh."
+        ],
+        [
+            "Sheldon",
+            "Well, this is ridiculous. Being upset about Amy all the time isn\u2019t accomplishing anything. If I want to resolve this situation, then I need to take action."
+        ],
+        [
+            "Penny",
+            "What are you gonna do?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m going to find her and ask her to marry me. And if she says yes, we can put this behind us and resume our relationship. And if she says no, well, then she can just ponfo miran."
+        ],
+        [
+            "Leonard",
+            "He didn\u2019t meant that."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Bernadette",
+            "So I should probably explain why I kind of fibbed."
+        ],
+        [
+            "Howard",
+            "That would be nice."
+        ],
+        [
+            "Bernadette",
+            "I told my dad that you were the one who didn\u2019t want kids because I didn\u2019t want to disappoint him."
+        ],
+        [
+            "Howard",
+            "But you were okay throwing me under the bus?"
+        ],
+        [
+            "Bernadette",
+            "Turns out yeah, I didn\u2019t think twice about it."
+        ],
+        [
+            "Mr Rostenkowski",
+            "Bernie, you don\u2019t need to worry about me. But I don\u2019t want to see you miss out. Raising children was the most rewarding experience of my life."
+        ],
+        [
+            "Bernadette",
+            "Oh, please. Mom did everything. All you did was come home from work, sit on the couch and drink beer. How is that raising kids?"
+        ],
+        [
+            "Mr Rostenkowski",
+            "This is really a conversation for husband and wife. I\u2019m gonna go clean up, hit the road. If your mother asks, I was here till ten."
+        ],
+        [
+            "Raj",
+            "It\u2019s interesting your father didn\u2019t help around the house and Howard doesn\u2019t help, either, so in a way, Howard\u2019s not only like your father, but he\u2019s also like the child that you\u2019re afraid to have."
+        ],
+        [
+            "Howard",
+            "Why are you still here?"
+        ],
+        [
+            "Raj",
+            "Fine, I\u2019ll leave. But it sounds like somebody needs a fresh diaper."
+        ],
+        [
+            "Howard",
+            "All right, I admit that I don\u2019t help out a lot. And I need to work on that. But if we had a kid, it would be different."
+        ],
+        [
+            "Bernadette",
+            "Why?"
+        ],
+        [
+            "Howard",
+            "Because when my dad left, I promised myself that if I ever had a chance to be a father I\u2019d always be there."
+        ],
+        [
+            "Bernadette",
+            "Okay, I\u2019ll think about it."
+        ],
+        [
+            "Howard",
+            "And this an actual I\u2019ll think about it, not like the can we get a motorcycle with a sidecar I\u2019ll think about it\u201d?"
+        ],
+        [
+            "Bernadette",
+            "It\u2019s an actual I\u2019ll think about it."
+        ],
+        [
+            "Howard",
+            "I really believe I\u2019d be a great dad."
+        ],
+        [
+            "Bernadette",
+            "I know you would."
+        ],
+        [
+            "Howard",
+            "Speaking of making babies, what do you say I wash up and poke around your crawlspace?"
+        ],
+        [
+            "Scene",
+            "The street. Sheldon sees Amy with another man. He leaves. "
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Kirk (on screen)",
+            "Dr. Dana feels he isn\u2019t that dangerous. What makes you right and a trained psychiatrist wrong?"
+        ],
+        [
+            "Spock (on screen)",
+            "Because she feels. I don\u2019t. All I know is logic."
+        ],
+        [
+            "Sheldon",
+            "Yeah, right. You can just shut your feelings off. There goes television, lying to us again. We let you raise our children, and this is the thanks we get. Leonard, how could I have been so foolish to try and follow in the footsteps of a made-up alien race with no emotions?"
+        ],
+        [
+            "Leonard",
+            "Well now instead of idolizing fictional characters, you can focus on the real people who are already in your life."
+        ],
+        [
+            "Sheldon",
+            "Those are very wise words."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "They\u2019d just be so much more comforting if they came out of a television."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-07-the-spock-resonance/"
+}

@@ -1,0 +1,2224 @@
+{
+    "Season": 7,
+    "Episode": 11,
+    "Title": "the cooper extraction",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. Penny and Amy are playing a ski-ing game."
+            ],
+            [
+                22,
+                "Credits sequence."
+            ],
+            [
+                23,
+                "The apartment."
+            ],
+            [
+                42,
+                "Amy"
+            ],
+            [
+                58,
+                "Mrs Cooper"
+            ],
+            [
+                70,
+                "Leonard:"
+            ],
+            [
+                78,
+                "Fantasy sequence in Cheesecake Factory."
+            ],
+            [
+                98,
+                "End fantasy sequence"
+            ],
+            [
+                106,
+                "Fantasy sequence in the Cheesecake Factory."
+            ],
+            [
+                114,
+                "End fantasy sequence."
+            ],
+            [
+                119,
+                "Fantasy sequence in Penny\u2019s apartment."
+            ],
+            [
+                123,
+                "End fantasy sequence."
+            ],
+            [
+                126,
+                "Fantasy sequence."
+            ],
+            [
+                129,
+                "End fantasy sequence."
+            ],
+            [
+                131,
+                "Amy"
+            ],
+            [
+                135,
+                "Mrs Cooper"
+            ],
+            [
+                143,
+                "Fantasy sequence in the Laundry Room."
+            ],
+            [
+                149,
+                "End fantasy sequence."
+            ],
+            [
+                154,
+                "Fantasy sequence."
+            ],
+            [
+                164,
+                "End fantasy sequence."
+            ],
+            [
+                168,
+                "Amy"
+            ],
+            [
+                185,
+                "Fantasy sequence in Mrs Wolowitz\u2019s house."
+            ],
+            [
+                193,
+                "End fantasy sequence."
+            ],
+            [
+                199,
+                "Fantasy scene in Raj\u2019s apartment."
+            ],
+            [
+                210,
+                "End fantasy sequence."
+            ],
+            [
+                219,
+                "Fantasy sequence in Amy\u2019s apartment."
+            ],
+            [
+                221,
+                "End fantasy sequence."
+            ],
+            [
+                250,
+                "The stairwell."
+            ],
+            [
+                264,
+                "Fantasy sequence at the Cheesecake Factory."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Wow, you\u2019re really good at this."
+            ],
+            [
+                3,
+                "How you doing over there?"
+            ],
+            [
+                5,
+                "Hey, Sheldon, you want to play next?"
+            ],
+            [
+                12,
+                "Oh, she\u2019s pregnant? That\u2019s great. You\u2019re gone an uncle. Uncle Sheldon."
+            ],
+            [
+                18,
+                "Wow, so, how long will you be gone?"
+            ],
+            [
+                25,
+                "Yeah, which means we don\u2019t have to use his ridiculous ornament-spacing template."
+            ],
+            [
+                27,
+                "Ah."
+            ],
+            [
+                33,
+                "Honey, I\u2019m a little strapped for cash this year, so for Christmas I was thinking of giving you this."
+            ],
+            [
+                35,
+                "Okay."
+            ],
+            [
+                37,
+                "Yeah."
+            ],
+            [
+                43,
+                "Hi. "
+            ],
+            [
+                52,
+                "Hey, how\u2019s your sister?"
+            ],
+            [
+                61,
+                "Yeah, if he\u2019s in the room when they\u2019re making the baby, I\u2019ll give you ten dollars."
+            ],
+            [
+                69,
+                "Hey, you ever imagine what that would be like? Not being born?"
+            ],
+            [
+                75,
+                "Oh, you weren\u2019t joking."
+            ],
+            [
+                77,
+                "Okay, sweetie, let me tell you exactly how that would have gone down."
+            ],
+            [
+                84,
+                "Hey, you guys ready to order or you need a few minutes?"
+            ],
+            [
+                86,
+                "A few minutes it is."
+            ],
+            [
+                91,
+                "Yeah?"
+            ],
+            [
+                93,
+                "Really? You don\u2019t sound so sure."
+            ],
+            [
+                95,
+                "What\u2019s that?"
+            ],
+            [
+                97,
+                "I think you\u2019re too late."
+            ],
+            [
+                108,
+                "Sure, why?"
+            ],
+            [
+                117,
+                "Why? "
+            ],
+            [
+                121,
+                "Hey. Did you remember to pay the rent?"
+            ],
+            [
+                124,
+                "Hey, he may be an idiot, but at least he didn\u2019t pee himself."
+            ],
+            [
+                128,
+                "Me, too."
+            ],
+            [
+                138,
+                "Oh, come on. Childbirth is a natural, beautiful, uuurgh, it\u2019s like someone sawed a cow in half."
+            ],
+            [
+                142,
+                "We do?"
+            ],
+            [
+                144,
+                "Hey, Sheldon."
+            ],
+            [
+                146,
+                "Doing laundry?"
+            ],
+            [
+                148,
+                "Oh, my inference is justified. Sheldon, you are so funny. Anyway, I need to do my laundry, too, because these clothes are so dirty. Almost as dirty as the dirty girl who\u2019s wearing them."
+            ],
+            [
+                150,
+                "Okay, that\u2019s enough."
+            ],
+            [
+                155,
+                "So, what do you think?"
+            ],
+            [
+                157,
+                "Please, Sheldon. I need you."
+            ],
+            [
+                159,
+                "To take me."
+            ],
+            [
+                161,
+                "Come on, Sheldon. You and me right here."
+            ],
+            [
+                163,
+                "I think I know how to change your mind."
+            ],
+            [
+                175,
+                "Great."
+            ],
+            [
+                183,
+                "What do you mean, not exactly?"
+            ],
+            [
+                215,
+                "Amy, what about you? What do you think you\u2019d be doing if you never met Sheldon?"
+            ],
+            [
+                225,
+                "Aw."
+            ],
+            [
+                247,
+                "Who\u2019s that?"
+            ],
+            [
+                268,
+                "You guys need anything else?"
+            ],
+            [
+                270,
+                "I\u2019m sorry, I have a boyfriend. In fact, there he is now. Ready to go, sweetheart?"
+            ]
+        ],
+        "Amy": [
+            [
+                2,
+                "Well, I have an extremely low centre of gravity. I\u2019m like a pyramid."
+            ],
+            [
+                9,
+                "Right now? Why?"
+            ],
+            [
+                14,
+                "How come you never said she was pregnant?"
+            ],
+            [
+                20,
+                "Can I give you a ride to the airport?"
+            ],
+            [
+                50,
+                "Yeah, kinda."
+            ],
+            [
+                54,
+                "That\u2019s wonderful. So you\u2019re at the hospital?"
+            ],
+            [
+                63,
+                "Oh, I love that movie."
+            ],
+            [
+                66,
+                "It\u2019s great. It\u2019s Christmastime and Jimmy Stewart\u2019s really depressed and he\u2019s gonna jump off a bridge and kill himself."
+            ],
+            [
+                71,
+                "You make jokes about Sheldon, but if it weren\u2019t for him, I don\u2019t think any of us would be sitting in this room right now."
+            ],
+            [
+                73,
+                "It\u2019s true. None of you would know me. You wouldn\u2019t know Bernadette. You wouldn\u2019t be dating Penny."
+            ],
+            [
+                103,
+                "Which couldn\u2019t have happened if you didn\u2019t live across the hall from her, which couldn\u2019t have happened without Sheldon. Same goes with you guys. If Leonard wasn\u2019t with Penny, she never would have set you up."
+            ],
+            [
+                133,
+                "Listen to me. That is not the way they usually look."
+            ],
+            [
+                141,
+                "And with Leonard out of the picture, we all know what that would mean."
+            ],
+            [
+                172,
+                "Where\u2019d you go?"
+            ],
+            [
+                174,
+                "Here\u2019s another one. Penny, if it weren\u2019t for Sheldon you never would have met comic book legend Stan Lee."
+            ],
+            [
+                194,
+                "Wait, did she die or did you kill her?"
+            ],
+            [
+                216,
+                "It\u2019s hard to say, my life would be so different."
+            ],
+            [
+                218,
+                "I don\u2019t know."
+            ],
+            [
+                220,
+                "Happy birthday to me, happy birthday to me, there\u2019s tears in the frosting, happy birthday to me."
+            ],
+            [
+                226,
+                "Yay."
+            ],
+            [
+                232,
+                "Come on, Sheldon, you should go."
+            ],
+            [
+                234,
+                "Well, you always complain that you never had an intelligent role model growing up, and now you can be one for your nephew."
+            ],
+            [
+                238,
+                "If that were true, I wouldn\u2019t still be living alone. Well, not exactly alone. I do have a 50 pound sack of rice with one of Sheldon\u2019s T-shirts on it."
+            ],
+            [
+                240,
+                "I wish I could believe you. I also wish there wasn\u2019t a mouse living in Rice Sheldon."
+            ],
+            [
+                242,
+                "I don\u2019t understand."
+            ],
+            [
+                244,
+                "Oh. Wow. I had no idea. He is so into me. Wait, wait, where\u2019d I go?"
+            ],
+            [
+                246,
+                "I am in the mix. And I\u2019m the hottest one."
+            ],
+            [
+                249,
+                "That\u2019s fine, she\u2019s dead."
+            ],
+            [
+                252,
+                "Just really glad you\u2019re back."
+            ],
+            [
+                254,
+                "I missed you."
+            ],
+            [
+                256,
+                "Did you miss me?"
+            ],
+            [
+                258,
+                "Oh."
+            ],
+            [
+                260,
+                "Did you hold the baby?"
+            ],
+            [
+                262,
+                "And? How did it make you feel?"
+            ]
+        ],
+        "Leonard": [
+            [
+                4,
+                "Oh, I hope it\u2019s just a sprain. I cannot walk into that E.R. with another video game injury."
+            ],
+            [
+                7,
+                "Where?"
+            ],
+            [
+                10,
+                "Is someone sick?"
+            ],
+            [
+                16,
+                "Well, congrats, and it\u2019s nice you\u2019re gonna be there for your sister."
+            ],
+            [
+                24,
+                "All right, here\u2019s the deal. Sheldon is gone, so the tree decorating rules are out the window."
+            ],
+            [
+                26,
+                "And I\u2019m happy to report its kickstarter campaign is holding strong at zero dollars."
+            ],
+            [
+                29,
+                "I know, it\u2019s crazy. Welcome to the Thunderdome, people."
+            ],
+            [
+                34,
+                "I love it."
+            ],
+            [
+                36,
+                "But it is what you got me last year."
+            ],
+            [
+                38,
+                "And last night."
+            ],
+            [
+                44,
+                "Hey, buddy."
+            ],
+            [
+                74,
+                "You don\u2019t know that. I\u2019ve been going to the Cheesecake Factory for years. I could have picked her up."
+            ],
+            [
+                76,
+                "No."
+            ],
+            [
+                79,
+                "I\u2019m gonna do it. I\u2019m gonna ask her out."
+            ],
+            [
+                83,
+                "Watch me."
+            ],
+            [
+                85,
+                "I, uh, ah, um, I\u2026"
+            ],
+            [
+                88,
+                "You guys are making me nervous."
+            ],
+            [
+                90,
+                "I will. Excuse me."
+            ],
+            [
+                92,
+                "Hi, uh, um, I\u2019m Leonard?"
+            ],
+            [
+                94,
+                "No, I am he. Uh, any, anyway, um, there\u2019s been something I\u2019ve wanted to ask you for a long time. Um."
+            ],
+            [
+                96,
+                "Eh, uh, well, I was wondering, if you\u2019re not too busy, um, uh, if, if you\u2019d be interested in telling me where the restroom is?"
+            ],
+            [
+                99,
+                "Come on, I would not have peed my pants."
+            ],
+            [
+                102,
+                "But, you forget, I did ask you out in real life."
+            ],
+            [
+                116,
+                "You know, maybe you and I wouldn\u2019t be together, but you wouldn\u2019t have done so great yourself."
+            ],
+            [
+                118,
+                "Because I know exactly the kind of guy you would\u2019ve ended up with."
+            ],
+            [
+                125,
+                "Oh, hold on."
+            ],
+            [
+                130,
+                "The end."
+            ],
+            [
+                137,
+                "Hey, Sheldon sent us all an e-mail. Happy holidays from Texas. And there\u2019s pictures. Aah! Don\u2019t open them. Do not open them."
+            ],
+            [
+                151,
+                "Disagree."
+            ],
+            [
+                165,
+                "That\u2019s enough."
+            ],
+            [
+                170,
+                "Oh, good. Is the baby born yet?"
+            ],
+            [
+                178,
+                "We talked about it, but Howard was in a pretty serious relationship with his mom."
+            ],
+            [
+                197,
+                "Oh, this guy wanted a place of his own because he was sure he was gonna be a ladies\u2019 man."
+            ],
+            [
+                202,
+                "Hang on. Why would I be fat?"
+            ],
+            [
+                204,
+                "Why can\u2019t you be fat, too?"
+            ],
+            [
+                229,
+                "Well, good for you, buddy. We\u2019ll let you get back in there."
+            ],
+            [
+                239,
+                "I\u2019m telling you, Sheldon cares for you more than you think."
+            ],
+            [
+                241,
+                "Hang on, I\u2019m gonna give you a little early Christmas present. I\u2019m gonna show you something, but if you ever told Sheldon he\u2019d probably never speak to me again. So, if you want to tell him, that\u2019s fine. Look."
+            ],
+            [
+                243,
+                "He made you his screensaver."
+            ],
+            [
+                245,
+                "Oh, well, it\u2019s you, Swamp Thing, Stephen Hawking, Spider-Man, but, look, you\u2019re in the mix."
+            ],
+            [
+                248,
+                "Oh, Madame Curie."
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "Oh, I would, but I\u2019m on my way out."
+            ],
+            [
+                8,
+                "Texas."
+            ],
+            [
+                11,
+                "Yes. My sister\u2019s uterus came down with a baby."
+            ],
+            [
+                13,
+                "No, I will be Uncle Dr. Cooper."
+            ],
+            [
+                15,
+                "Well, I never told you about my brother\u2019s kidney stone. You want to hear about everything that comes out of my family\u2019s genitals?"
+            ],
+            [
+                17,
+                "Yes. I\u2019m filling in for her husband who\u2019s recovering from a horrible motorcycle accident. Lucky duck."
+            ],
+            [
+                19,
+                "Well, she\u2019s due tomorrow. Although it did take her six years to finish high school, so who knows?"
+            ],
+            [
+                21,
+                "Oh, no, thank you, I don\u2019t want to be an inconvenience. Chop-chop, Leonard. We leave in ten minutes."
+            ],
+            [
+                49,
+                "The second I go out of town you throw a Christmas party without me? "
+            ],
+            [
+                51,
+                "That\u2019s so thoughtful. You guys are the best."
+            ],
+            [
+                53,
+                "<i>She went into labor an hour ago."
+            ],
+            [
+                55,
+                "No, she chose to have a home birth because she wants to live in the Stone Age and a cave wasn\u2019t available."
+            ],
+            [
+                57,
+                "And turn the bedroom floor into an amniotic Slip \u2018n Slide."
+            ],
+            [
+                59,
+                "Oh, boy. I picked the wrong day to wear my good robot T-shirt."
+            ],
+            [
+                132,
+                "No, it\u2019s not. I\u2019ve seen things. Lady things."
+            ],
+            [
+                134,
+                "Doesn\u2019t matter. This is no way to make new humans. People coming out of people. It\u2019s some kind of dirty magic show."
+            ],
+            [
+                136,
+                "Did you hear that? A mop. I have two PhDs yet somehow I\u2019m the janitor of my sister\u2019s birth canal."
+            ],
+            [
+                145,
+                "Hello."
+            ],
+            [
+                147,
+                "Of course I\u2019m doing laundry. Saturday night is laundry night, and I\u2019m in a laundry room, so, I believe your inference is justified."
+            ],
+            [
+                156,
+                "A tad asymmetrical, but nothing to be concerned about."
+            ],
+            [
+                158,
+                "To what?"
+            ],
+            [
+                160,
+                "I\u2019m not taking you anywhere till you put on a shirt."
+            ],
+            [
+                162,
+                "Penny, for the thousandth time, I\u2019m saving myself for someone special. Perhaps a cute bespectacled neuroscientist with hair the color of mud. "
+            ],
+            [
+                169,
+                "Actually, much better."
+            ],
+            [
+                171,
+                "I don\u2019t know. I just got back. "
+            ],
+            [
+                173,
+                "My mother asked me to get some towels. I took advantage of the vague request and went to Bed, Bath & Beyond."
+            ],
+            [
+                224,
+                "That\u2019s it. The baby\u2019s here. It\u2019s a boy."
+            ],
+            [
+                228,
+                "Oh, thank you. I wasn\u2019t sure I was gonna to make it. But my mother gave me some ice chips, my sister told me to breathe, and I just thought to myself, Sheldon, if you can make it through the Green Lantern movie, you can make it through this."
+            ],
+            [
+                230,
+                "Oh no, no, I\u2019m not going back in there. That baby is so irritating. He has literally been crying his entire life."
+            ],
+            [
+                233,
+                "Why?"
+            ],
+            [
+                235,
+                "Ugh, all right, I\u2019ll go. But from what I\u2019ve seen, his attention span is as limited as his bladder control."
+            ],
+            [
+                251,
+                "You okay?"
+            ],
+            [
+                253,
+                "Me, too. I got a lot of TV to catch up on."
+            ],
+            [
+                255,
+                "To quote Han Solo, I know."
+            ],
+            [
+                257,
+                "I would\u2019ve preferred to have you there with me."
+            ],
+            [
+                259,
+                "Or instead of me."
+            ],
+            [
+                261,
+                "I did. "
+            ],
+            [
+                263,
+                "Looking into the blank, innocent eyes of a creature that couldn\u2019t begin to comprehend anything I was saying? Basically just another day at the office."
+            ]
+        ],
+        "Raj": [
+            [
+                28,
+                "Wait, so Star Wars and Star Trek characters can go on the same branch?"
+            ],
+            [
+                31,
+                "Yeah, if your mom could see her little Bar Mitzvah boy right now, she\u2019d have a heart attack."
+            ],
+            [
+                45,
+                "Hey."
+            ],
+            [
+                56,
+                "You know, many people believe that home births are better because the mother is in a warm, comfortable environment where she can be nurtured by loved ones."
+            ],
+            [
+                60,
+                "If you were having Sheldon\u2019s baby would you really want him in the room?"
+            ],
+            [
+                64,
+                "I\u2019ve never seen it."
+            ],
+            [
+                81,
+                "Maybe this time he\u2019s going to do it."
+            ],
+            [
+                87,
+                "You didn\u2019t ask her out, but that was a lot of sounds."
+            ],
+            [
+                101,
+                "Sounds about right."
+            ],
+            [
+                110,
+                "Open wide, here comes the happy train."
+            ],
+            [
+                112,
+                "Oh. Hang on. You got a, you got a little something. Ah."
+            ],
+            [
+                115,
+                "Oh, man, that is so us."
+            ],
+            [
+                139,
+                "My father\u2019s a gynaecologist, I think I can handle it. And, now, I\u2019m gay."
+            ],
+            [
+                152,
+                "Keep going. "
+            ],
+            [
+                166,
+                "Ew."
+            ],
+            [
+                176,
+                "At least Leonard, Howard and I would have always been friends."
+            ],
+            [
+                180,
+                "Yeah, you didn\u2019t have to buy groceries \u2019cause you were breast-feeding."
+            ],
+            [
+                198,
+                "Yeah, I was wrong. But I do think you and I would have had a great time."
+            ],
+            [
+                200,
+                "Come on, Leonard, dinner."
+            ],
+            [
+                203,
+                "You\u2019d have no girlfriend to see you naked, you\u2019d try to fill the void with food, and I\u2019m an enabler who once deep-fried a pancake."
+            ],
+            [
+                211,
+                "What are you doing?"
+            ],
+            [
+                213,
+                "Yeah, but why are you fat?"
+            ],
+            [
+                227,
+                "Congrats."
+            ]
+        ],
+        "Howard": [
+            [
+                30,
+                "I\u2019ve never done this before. It\u2019s kind of fun."
+            ],
+            [
+                46,
+                "Howdy."
+            ],
+            [
+                72,
+                "Really? Sheldon not being here is the main reason I\u2019m in this room."
+            ],
+            [
+                80,
+                "I\u2019m gonna squirt chocolate milk out of my nipples. Sorry, I thought we\u2019re saying things that are never gonna happen."
+            ],
+            [
+                82,
+                "Hope you\u2019re thirsty, here it comes."
+            ],
+            [
+                89,
+                "Fine, then go talk to her on your own."
+            ],
+            [
+                100,
+                "She nailed it."
+            ],
+            [
+                104,
+                "Doesn\u2019t matter. Bernadette still would\u2019ve been working at The Cheesecake Factory, and I still would\u2019ve been working this beefcake factory. You would\u2019ve been all over me."
+            ],
+            [
+                111,
+                "Mm-hmm, chug-a-chug-a, yum, yum."
+            ],
+            [
+                153,
+                "More."
+            ],
+            [
+                179,
+                "I lived with her to save money."
+            ],
+            [
+                182,
+                "Not exactly."
+            ],
+            [
+                184,
+                "Well, things would be a little different."
+            ],
+            [
+                187,
+                "I know you\u2019re starving. The neighbours know you\u2019re starving. There\u2019s starving people in Africa who know you\u2019re starving."
+            ],
+            [
+                189,
+                "Well, you cleaned out Earth. I don\u2019t know what else to do."
+            ],
+            [
+                191,
+                "You didn\u2019t let me finish. Here you go, Mother."
+            ],
+            [
+                195,
+                "Eh, tomato, tomahto. The important thing is she\u2019s dead."
+            ],
+            [
+                217,
+                "You can say better. Sheldon can\u2019t hear you."
+            ],
+            [
+                231,
+                "Aw, he\u2019s already taking after Uncle Shelly."
+            ],
+            [
+                266,
+                "And chocolate milk is gonna squirt out of my nipples."
+            ]
+        ],
+        "Bernadette": [
+            [
+                32,
+                "Good idea, I\u2019ll take a picture."
+            ],
+            [
+                47,
+                "Hi."
+            ],
+            [
+                62,
+                "Hey, I brought over It\u2019s a Wonderful Life if you guys want to watch it later."
+            ],
+            [
+                68,
+                "But then he gets to see what the world would be like if he\u2019d never been born."
+            ],
+            [
+                105,
+                "Well\u2026"
+            ],
+            [
+                107,
+                "Hey, Penny, can I take that table?"
+            ],
+            [
+                109,
+                "The one in the turtleneck is cute."
+            ],
+            [
+                113,
+                "Never mind."
+            ],
+            [
+                140,
+                "You know, I was thinking. Without Sheldon, most of us would have never met, but Penny would still live across from him. "
+            ],
+            [
+                177,
+                "Hey, how come you three never got an apartment together?"
+            ],
+            [
+                181,
+                "Aw, so I guess if it weren\u2019t for me, you\u2019d still be living with her, huh?"
+            ],
+            [
+                190,
+                "How is this any different?"
+            ],
+            [
+                196,
+                "Hey, so how come you two didn\u2019t move in together?"
+            ],
+            [
+                236,
+                "You actually got him to do it."
+            ]
+        ],
+        "Stuart": [
+            [
+                39,
+                "Hello."
+            ],
+            [
+                41,
+                "Oh, good, I\u2019m glad you guys didn\u2019t wait for me to start. Although you said seven and it\u2019s, it\u2019s seven, but that\u2019s fine."
+            ],
+            [
+                48,
+                "Hello."
+            ],
+            [
+                65,
+                "Me neither."
+            ],
+            [
+                67,
+                "Don\u2019t need to see it. Living it."
+            ],
+            [
+                167,
+                "I was okay with it."
+            ],
+            [
+                212,
+                "I just wanted to be in anyone\u2019s story."
+            ],
+            [
+                214,
+                "\u2018Cause Leonard was fat."
+            ],
+            [
+                222,
+                "I\u2019ll stop now."
+            ],
+            [
+                271,
+                "Not until I get my kiss."
+            ]
+        ],
+        "Various": [
+            [
+                40,
+                "Hey, Hi, Stuart. etc"
+            ]
+        ],
+        "Zack": [
+            [
+                120,
+                "Hey, babe."
+            ],
+            [
+                122,
+                "Better. I used the money to buy these magic beans."
+            ],
+            [
+                127,
+                "Aw, babe, I peed myself."
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                186,
+                "Howard, where\u2019s my lunch? I\u2019m starving."
+            ],
+            [
+                188,
+                "That\u2019s it? There\u2019s not enough food."
+            ]
+        ],
+        "Dead Mrs Wolowitz": [
+            [
+                192,
+                "You\u2019re a good boy, Howard, such a good boy."
+            ]
+        ],
+        "Fat Leonard": [
+            [
+                201,
+                "Coming."
+            ],
+            [
+                205,
+                "What do you want to do for dessert?"
+            ],
+            [
+                207,
+                "No, there\u2019s not."
+            ],
+            [
+                265,
+                "I\u2019m gonna do it. I\u2019m gonna ask her out."
+            ],
+            [
+                269,
+                "Uh, your phone number and one more cheesecake."
+            ]
+        ],
+        "Fat Raj": [
+            [
+                206,
+                "I think there\u2019s still half a cake from breakfast."
+            ],
+            [
+                267,
+                "Put up or shut up. You make it, I\u2019ll drink it."
+            ]
+        ],
+        "Fat Stuart": [
+            [
+                208,
+                "Hey, guys."
+            ]
+        ],
+        "Fat Leonard and Raj": [
+            [
+                209,
+                "Stuart!"
+            ]
+        ],
+        "Amy (tablet ringing)": [
+            [
+                223,
+                "How\u2019s it going, Sheldon?"
+            ]
+        ],
+        "Rajj": [
+            [
+                237,
+                "Yeah, you keep saying how much Sheldon has affected all of us, but you\u2019ve clearly had an impact on him."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. Penny and Amy are playing a ski-ing game."
+        ],
+        [
+            "Penny",
+            "Wow, you\u2019re really good at this."
+        ],
+        [
+            "Amy",
+            "Well, I have an extremely low centre of gravity. I\u2019m like a pyramid."
+        ],
+        [
+            "Penny",
+            "How you doing over there?"
+        ],
+        [
+            "Leonard",
+            "Oh, I hope it\u2019s just a sprain. I cannot walk into that E.R. with another video game injury."
+        ],
+        [
+            "Penny",
+            "Hey, Sheldon, you want to play next?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I would, but I\u2019m on my way out."
+        ],
+        [
+            "Leonard",
+            "Where?"
+        ],
+        [
+            "Sheldon",
+            "Texas."
+        ],
+        [
+            "Amy",
+            "Right now? Why?"
+        ],
+        [
+            "Leonard",
+            "Is someone sick?"
+        ],
+        [
+            "Sheldon",
+            "Yes. My sister\u2019s uterus came down with a baby."
+        ],
+        [
+            "Penny",
+            "Oh, she\u2019s pregnant? That\u2019s great. You\u2019re gone an uncle. Uncle Sheldon."
+        ],
+        [
+            "Sheldon",
+            "No, I will be Uncle Dr. Cooper."
+        ],
+        [
+            "Amy",
+            "How come you never said she was pregnant?"
+        ],
+        [
+            "Sheldon",
+            "Well, I never told you about my brother\u2019s kidney stone. You want to hear about everything that comes out of my family\u2019s genitals?"
+        ],
+        [
+            "Leonard",
+            "Well, congrats, and it\u2019s nice you\u2019re gonna be there for your sister."
+        ],
+        [
+            "Sheldon",
+            "Yes. I\u2019m filling in for her husband who\u2019s recovering from a horrible motorcycle accident. Lucky duck."
+        ],
+        [
+            "Penny",
+            "Wow, so, how long will you be gone?"
+        ],
+        [
+            "Sheldon",
+            "Well, she\u2019s due tomorrow. Although it did take her six years to finish high school, so who knows?"
+        ],
+        [
+            "Amy",
+            "Can I give you a ride to the airport?"
+        ],
+        [
+            "Sheldon",
+            "Oh, no, thank you, I don\u2019t want to be an inconvenience. Chop-chop, Leonard. We leave in ten minutes."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "All right, here\u2019s the deal. Sheldon is gone, so the tree decorating rules are out the window."
+        ],
+        [
+            "Penny",
+            "Yeah, which means we don\u2019t have to use his ridiculous ornament-spacing template."
+        ],
+        [
+            "Leonard",
+            "And I\u2019m happy to report its kickstarter campaign is holding strong at zero dollars."
+        ],
+        [
+            "Penny",
+            "Ah."
+        ],
+        [
+            "Raj",
+            "Wait, so Star Wars and Star Trek characters can go on the same branch?"
+        ],
+        [
+            "Leonard",
+            "I know, it\u2019s crazy. Welcome to the Thunderdome, people."
+        ],
+        [
+            "Howard",
+            "I\u2019ve never done this before. It\u2019s kind of fun."
+        ],
+        [
+            "Raj",
+            "Yeah, if your mom could see her little Bar Mitzvah boy right now, she\u2019d have a heart attack."
+        ],
+        [
+            "Bernadette",
+            "Good idea, I\u2019ll take a picture."
+        ],
+        [
+            "Penny",
+            "Honey, I\u2019m a little strapped for cash this year, so for Christmas I was thinking of giving you this."
+        ],
+        [
+            "Leonard",
+            "I love it."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "But it is what you got me last year."
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "And last night."
+        ],
+        [
+            "Stuart",
+            "Hello."
+        ],
+        [
+            "Various",
+            "Hey, Hi, Stuart. etc"
+        ],
+        [
+            "Stuart",
+            "Oh, good, I\u2019m glad you guys didn\u2019t wait for me to start. Although you said seven and it\u2019s, it\u2019s seven, but that\u2019s fine."
+        ],
+        [
+            "Scene",
+            "Amy"
+        ],
+        [
+            "Penny",
+            "Hi. "
+        ],
+        [
+            "Leonard",
+            "Hey, buddy."
+        ],
+        [
+            "Raj",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "Howdy."
+        ],
+        [
+            "Bernadette",
+            "Hi."
+        ],
+        [
+            "Stuart",
+            "Hello."
+        ],
+        [
+            "Sheldon",
+            "The second I go out of town you throw a Christmas party without me? "
+        ],
+        [
+            "Amy",
+            "Yeah, kinda."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s so thoughtful. You guys are the best."
+        ],
+        [
+            "Penny",
+            "Hey, how\u2019s your sister?"
+        ],
+        [
+            "Sheldon",
+            "<i>She went into labor an hour ago."
+        ],
+        [
+            "Amy",
+            "That\u2019s wonderful. So you\u2019re at the hospital?"
+        ],
+        [
+            "Sheldon",
+            "No, she chose to have a home birth because she wants to live in the Stone Age and a cave wasn\u2019t available."
+        ],
+        [
+            "Raj",
+            "You know, many people believe that home births are better because the mother is in a warm, comfortable environment where she can be nurtured by loved ones."
+        ],
+        [
+            "Sheldon",
+            "And turn the bedroom floor into an amniotic Slip \u2018n Slide."
+        ],
+        [
+            "Scene",
+            "Mrs Cooper"
+        ],
+        [
+            "Sheldon",
+            "Oh, boy. I picked the wrong day to wear my good robot T-shirt."
+        ],
+        [
+            "Raj",
+            "If you were having Sheldon\u2019s baby would you really want him in the room?"
+        ],
+        [
+            "Penny",
+            "Yeah, if he\u2019s in the room when they\u2019re making the baby, I\u2019ll give you ten dollars."
+        ],
+        [
+            "Bernadette",
+            "Hey, I brought over It\u2019s a Wonderful Life if you guys want to watch it later."
+        ],
+        [
+            "Amy",
+            "Oh, I love that movie."
+        ],
+        [
+            "Raj",
+            "I\u2019ve never seen it."
+        ],
+        [
+            "Stuart",
+            "Me neither."
+        ],
+        [
+            "Amy",
+            "It\u2019s great. It\u2019s Christmastime and Jimmy Stewart\u2019s really depressed and he\u2019s gonna jump off a bridge and kill himself."
+        ],
+        [
+            "Stuart",
+            "Don\u2019t need to see it. Living it."
+        ],
+        [
+            "Bernadette",
+            "But then he gets to see what the world would be like if he\u2019d never been born."
+        ],
+        [
+            "Penny",
+            "Hey, you ever imagine what that would be like? Not being born?"
+        ],
+        [
+            "Scene",
+            "Leonard:"
+        ],
+        [
+            "Amy",
+            "You make jokes about Sheldon, but if it weren\u2019t for him, I don\u2019t think any of us would be sitting in this room right now."
+        ],
+        [
+            "Howard",
+            "Really? Sheldon not being here is the main reason I\u2019m in this room."
+        ],
+        [
+            "Amy",
+            "It\u2019s true. None of you would know me. You wouldn\u2019t know Bernadette. You wouldn\u2019t be dating Penny."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t know that. I\u2019ve been going to the Cheesecake Factory for years. I could have picked her up."
+        ],
+        [
+            "Penny",
+            "Oh, you weren\u2019t joking."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Penny",
+            "Okay, sweetie, let me tell you exactly how that would have gone down."
+        ],
+        [
+            "Scene",
+            "Fantasy sequence in Cheesecake Factory."
+        ],
+        [
+            "Leonard",
+            "I\u2019m gonna do it. I\u2019m gonna ask her out."
+        ],
+        [
+            "Howard",
+            "I\u2019m gonna squirt chocolate milk out of my nipples. Sorry, I thought we\u2019re saying things that are never gonna happen."
+        ],
+        [
+            "Raj",
+            "Maybe this time he\u2019s going to do it."
+        ],
+        [
+            "Howard",
+            "Hope you\u2019re thirsty, here it comes."
+        ],
+        [
+            "Leonard",
+            "Watch me."
+        ],
+        [
+            "Penny",
+            "Hey, you guys ready to order or you need a few minutes?"
+        ],
+        [
+            "Leonard",
+            "I, uh, ah, um, I\u2026"
+        ],
+        [
+            "Penny",
+            "A few minutes it is."
+        ],
+        [
+            "Raj",
+            "You didn\u2019t ask her out, but that was a lot of sounds."
+        ],
+        [
+            "Leonard",
+            "You guys are making me nervous."
+        ],
+        [
+            "Howard",
+            "Fine, then go talk to her on your own."
+        ],
+        [
+            "Leonard",
+            "I will. Excuse me."
+        ],
+        [
+            "Penny",
+            "Yeah?"
+        ],
+        [
+            "Leonard",
+            "Hi, uh, um, I\u2019m Leonard?"
+        ],
+        [
+            "Penny",
+            "Really? You don\u2019t sound so sure."
+        ],
+        [
+            "Leonard",
+            "No, I am he. Uh, any, anyway, um, there\u2019s been something I\u2019ve wanted to ask you for a long time. Um."
+        ],
+        [
+            "Penny",
+            "What\u2019s that?"
+        ],
+        [
+            "Leonard",
+            "Eh, uh, well, I was wondering, if you\u2019re not too busy, um, uh, if, if you\u2019d be interested in telling me where the restroom is?"
+        ],
+        [
+            "Penny",
+            "I think you\u2019re too late."
+        ],
+        [
+            "Scene",
+            "End fantasy sequence"
+        ],
+        [
+            "Leonard",
+            "Come on, I would not have peed my pants."
+        ],
+        [
+            "Howard",
+            "She nailed it."
+        ],
+        [
+            "Raj",
+            "Sounds about right."
+        ],
+        [
+            "Leonard",
+            "But, you forget, I did ask you out in real life."
+        ],
+        [
+            "Amy",
+            "Which couldn\u2019t have happened if you didn\u2019t live across the hall from her, which couldn\u2019t have happened without Sheldon. Same goes with you guys. If Leonard wasn\u2019t with Penny, she never would have set you up."
+        ],
+        [
+            "Howard",
+            "Doesn\u2019t matter. Bernadette still would\u2019ve been working at The Cheesecake Factory, and I still would\u2019ve been working this beefcake factory. You would\u2019ve been all over me."
+        ],
+        [
+            "Bernadette",
+            "Well\u2026"
+        ],
+        [
+            "Scene",
+            "Fantasy sequence in the Cheesecake Factory."
+        ],
+        [
+            "Bernadette",
+            "Hey, Penny, can I take that table?"
+        ],
+        [
+            "Penny",
+            "Sure, why?"
+        ],
+        [
+            "Bernadette",
+            "The one in the turtleneck is cute."
+        ],
+        [
+            "Raj",
+            "Open wide, here comes the happy train."
+        ],
+        [
+            "Howard",
+            "Mm-hmm, chug-a-chug-a, yum, yum."
+        ],
+        [
+            "Raj",
+            "Oh. Hang on. You got a, you got a little something. Ah."
+        ],
+        [
+            "Bernadette",
+            "Never mind."
+        ],
+        [
+            "Scene",
+            "End fantasy sequence."
+        ],
+        [
+            "Raj",
+            "Oh, man, that is so us."
+        ],
+        [
+            "Leonard",
+            "You know, maybe you and I wouldn\u2019t be together, but you wouldn\u2019t have done so great yourself."
+        ],
+        [
+            "Penny",
+            "Why? "
+        ],
+        [
+            "Leonard",
+            "Because I know exactly the kind of guy you would\u2019ve ended up with."
+        ],
+        [
+            "Scene",
+            "Fantasy sequence in Penny\u2019s apartment."
+        ],
+        [
+            "Zack",
+            "Hey, babe."
+        ],
+        [
+            "Penny",
+            "Hey. Did you remember to pay the rent?"
+        ],
+        [
+            "Zack",
+            "Better. I used the money to buy these magic beans."
+        ],
+        [
+            "Scene",
+            "End fantasy sequence."
+        ],
+        [
+            "Penny",
+            "Hey, he may be an idiot, but at least he didn\u2019t pee himself."
+        ],
+        [
+            "Leonard",
+            "Oh, hold on."
+        ],
+        [
+            "Scene",
+            "Fantasy sequence."
+        ],
+        [
+            "Zack",
+            "Aw, babe, I peed myself."
+        ],
+        [
+            "Penny",
+            "Me, too."
+        ],
+        [
+            "Scene",
+            "End fantasy sequence."
+        ],
+        [
+            "Leonard",
+            "The end."
+        ],
+        [
+            "Scene",
+            "Amy"
+        ],
+        [
+            "Sheldon",
+            "No, it\u2019s not. I\u2019ve seen things. Lady things."
+        ],
+        [
+            "Amy",
+            "Listen to me. That is not the way they usually look."
+        ],
+        [
+            "Sheldon",
+            "Doesn\u2019t matter. This is no way to make new humans. People coming out of people. It\u2019s some kind of dirty magic show."
+        ],
+        [
+            "Scene",
+            "Mrs Cooper"
+        ],
+        [
+            "Sheldon",
+            "Did you hear that? A mop. I have two PhDs yet somehow I\u2019m the janitor of my sister\u2019s birth canal."
+        ],
+        [
+            "Leonard",
+            "Hey, Sheldon sent us all an e-mail. Happy holidays from Texas. And there\u2019s pictures. Aah! Don\u2019t open them. Do not open them."
+        ],
+        [
+            "Penny",
+            "Oh, come on. Childbirth is a natural, beautiful, uuurgh, it\u2019s like someone sawed a cow in half."
+        ],
+        [
+            "Raj",
+            "My father\u2019s a gynaecologist, I think I can handle it. And, now, I\u2019m gay."
+        ],
+        [
+            "Bernadette",
+            "You know, I was thinking. Without Sheldon, most of us would have never met, but Penny would still live across from him. "
+        ],
+        [
+            "Amy",
+            "And with Leonard out of the picture, we all know what that would mean."
+        ],
+        [
+            "Penny",
+            "We do?"
+        ],
+        [
+            "Scene",
+            "Fantasy sequence in the Laundry Room."
+        ],
+        [
+            "Penny",
+            "Hey, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Penny",
+            "Doing laundry?"
+        ],
+        [
+            "Sheldon",
+            "Of course I\u2019m doing laundry. Saturday night is laundry night, and I\u2019m in a laundry room, so, I believe your inference is justified."
+        ],
+        [
+            "Penny",
+            "Oh, my inference is justified. Sheldon, you are so funny. Anyway, I need to do my laundry, too, because these clothes are so dirty. Almost as dirty as the dirty girl who\u2019s wearing them."
+        ],
+        [
+            "Scene",
+            "End fantasy sequence."
+        ],
+        [
+            "Penny",
+            "Okay, that\u2019s enough."
+        ],
+        [
+            "Leonard",
+            "Disagree."
+        ],
+        [
+            "Raj",
+            "Keep going. "
+        ],
+        [
+            "Howard",
+            "More."
+        ],
+        [
+            "Scene",
+            "Fantasy sequence."
+        ],
+        [
+            "Penny",
+            "So, what do you think?"
+        ],
+        [
+            "Sheldon",
+            "A tad asymmetrical, but nothing to be concerned about."
+        ],
+        [
+            "Penny",
+            "Please, Sheldon. I need you."
+        ],
+        [
+            "Sheldon",
+            "To what?"
+        ],
+        [
+            "Penny",
+            "To take me."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not taking you anywhere till you put on a shirt."
+        ],
+        [
+            "Penny",
+            "Come on, Sheldon. You and me right here."
+        ],
+        [
+            "Sheldon",
+            "Penny, for the thousandth time, I\u2019m saving myself for someone special. Perhaps a cute bespectacled neuroscientist with hair the color of mud. "
+        ],
+        [
+            "Penny",
+            "I think I know how to change your mind."
+        ],
+        [
+            "Scene",
+            "End fantasy sequence."
+        ],
+        [
+            "Leonard",
+            "That\u2019s enough."
+        ],
+        [
+            "Raj",
+            "Ew."
+        ],
+        [
+            "Stuart",
+            "I was okay with it."
+        ],
+        [
+            "Scene",
+            "Amy"
+        ],
+        [
+            "Sheldon",
+            "Actually, much better."
+        ],
+        [
+            "Leonard",
+            "Oh, good. Is the baby born yet?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know. I just got back. "
+        ],
+        [
+            "Amy",
+            "Where\u2019d you go?"
+        ],
+        [
+            "Sheldon",
+            "My mother asked me to get some towels. I took advantage of the vague request and went to Bed, Bath & Beyond."
+        ],
+        [
+            "Amy",
+            "Here\u2019s another one. Penny, if it weren\u2019t for Sheldon you never would have met comic book legend Stan Lee."
+        ],
+        [
+            "Penny",
+            "Great."
+        ],
+        [
+            "Raj",
+            "At least Leonard, Howard and I would have always been friends."
+        ],
+        [
+            "Bernadette",
+            "Hey, how come you three never got an apartment together?"
+        ],
+        [
+            "Leonard",
+            "We talked about it, but Howard was in a pretty serious relationship with his mom."
+        ],
+        [
+            "Howard",
+            "I lived with her to save money."
+        ],
+        [
+            "Raj",
+            "Yeah, you didn\u2019t have to buy groceries \u2019cause you were breast-feeding."
+        ],
+        [
+            "Bernadette",
+            "Aw, so I guess if it weren\u2019t for me, you\u2019d still be living with her, huh?"
+        ],
+        [
+            "Howard",
+            "Not exactly."
+        ],
+        [
+            "Penny",
+            "What do you mean, not exactly?"
+        ],
+        [
+            "Howard",
+            "Well, things would be a little different."
+        ],
+        [
+            "Scene",
+            "Fantasy sequence in Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Howard, where\u2019s my lunch? I\u2019m starving."
+        ],
+        [
+            "Howard",
+            "I know you\u2019re starving. The neighbours know you\u2019re starving. There\u2019s starving people in Africa who know you\u2019re starving."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "That\u2019s it? There\u2019s not enough food."
+        ],
+        [
+            "Howard",
+            "Well, you cleaned out Earth. I don\u2019t know what else to do."
+        ],
+        [
+            "Bernadette",
+            "How is this any different?"
+        ],
+        [
+            "Howard",
+            "You didn\u2019t let me finish. Here you go, Mother."
+        ],
+        [
+            "Dead Mrs Wolowitz",
+            "You\u2019re a good boy, Howard, such a good boy."
+        ],
+        [
+            "Scene",
+            "End fantasy sequence."
+        ],
+        [
+            "Amy",
+            "Wait, did she die or did you kill her?"
+        ],
+        [
+            "Howard",
+            "Eh, tomato, tomahto. The important thing is she\u2019s dead."
+        ],
+        [
+            "Bernadette",
+            "Hey, so how come you two didn\u2019t move in together?"
+        ],
+        [
+            "Leonard",
+            "Oh, this guy wanted a place of his own because he was sure he was gonna be a ladies\u2019 man."
+        ],
+        [
+            "Raj",
+            "Yeah, I was wrong. But I do think you and I would have had a great time."
+        ],
+        [
+            "Scene",
+            "Fantasy scene in Raj\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "Come on, Leonard, dinner."
+        ],
+        [
+            "Fat Leonard",
+            "Coming."
+        ],
+        [
+            "Leonard",
+            "Hang on. Why would I be fat?"
+        ],
+        [
+            "Raj",
+            "You\u2019d have no girlfriend to see you naked, you\u2019d try to fill the void with food, and I\u2019m an enabler who once deep-fried a pancake."
+        ],
+        [
+            "Leonard",
+            "Why can\u2019t you be fat, too?"
+        ],
+        [
+            "Fat Leonard",
+            "What do you want to do for dessert?"
+        ],
+        [
+            "Fat Raj",
+            "I think there\u2019s still half a cake from breakfast."
+        ],
+        [
+            "Fat Leonard",
+            "No, there\u2019s not."
+        ],
+        [
+            "Fat Stuart",
+            "Hey, guys."
+        ],
+        [
+            "Fat Leonard and Raj",
+            "Stuart!"
+        ],
+        [
+            "Scene",
+            "End fantasy sequence."
+        ],
+        [
+            "Raj",
+            "What are you doing?"
+        ],
+        [
+            "Stuart",
+            "I just wanted to be in anyone\u2019s story."
+        ],
+        [
+            "Raj",
+            "Yeah, but why are you fat?"
+        ],
+        [
+            "Stuart",
+            "\u2018Cause Leonard was fat."
+        ],
+        [
+            "Penny",
+            "Amy, what about you? What do you think you\u2019d be doing if you never met Sheldon?"
+        ],
+        [
+            "Amy",
+            "It\u2019s hard to say, my life would be so different."
+        ],
+        [
+            "Howard",
+            "You can say better. Sheldon can\u2019t hear you."
+        ],
+        [
+            "Amy",
+            "I don\u2019t know."
+        ],
+        [
+            "Scene",
+            "Fantasy sequence in Amy\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "Happy birthday to me, happy birthday to me, there\u2019s tears in the frosting, happy birthday to me."
+        ],
+        [
+            "Scene",
+            "End fantasy sequence."
+        ],
+        [
+            "Stuart",
+            "I\u2019ll stop now."
+        ],
+        [
+            "Amy (tablet ringing)",
+            "How\u2019s it going, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s it. The baby\u2019s here. It\u2019s a boy."
+        ],
+        [
+            "Penny",
+            "Aw."
+        ],
+        [
+            "Amy",
+            "Yay."
+        ],
+        [
+            "Raj",
+            "Congrats."
+        ],
+        [
+            "Sheldon",
+            "Oh, thank you. I wasn\u2019t sure I was gonna to make it. But my mother gave me some ice chips, my sister told me to breathe, and I just thought to myself, Sheldon, if you can make it through the Green Lantern movie, you can make it through this."
+        ],
+        [
+            "Leonard",
+            "Well, good for you, buddy. We\u2019ll let you get back in there."
+        ],
+        [
+            "Sheldon",
+            "Oh no, no, I\u2019m not going back in there. That baby is so irritating. He has literally been crying his entire life."
+        ],
+        [
+            "Howard",
+            "Aw, he\u2019s already taking after Uncle Shelly."
+        ],
+        [
+            "Amy",
+            "Come on, Sheldon, you should go."
+        ],
+        [
+            "Sheldon",
+            "Why?"
+        ],
+        [
+            "Amy",
+            "Well, you always complain that you never had an intelligent role model growing up, and now you can be one for your nephew."
+        ],
+        [
+            "Sheldon",
+            "Ugh, all right, I\u2019ll go. But from what I\u2019ve seen, his attention span is as limited as his bladder control."
+        ],
+        [
+            "Bernadette",
+            "You actually got him to do it."
+        ],
+        [
+            "Rajj",
+            "Yeah, you keep saying how much Sheldon has affected all of us, but you\u2019ve clearly had an impact on him."
+        ],
+        [
+            "Amy",
+            "If that were true, I wouldn\u2019t still be living alone. Well, not exactly alone. I do have a 50 pound sack of rice with one of Sheldon\u2019s T-shirts on it."
+        ],
+        [
+            "Leonard",
+            "I\u2019m telling you, Sheldon cares for you more than you think."
+        ],
+        [
+            "Amy",
+            "I wish I could believe you. I also wish there wasn\u2019t a mouse living in Rice Sheldon."
+        ],
+        [
+            "Leonard",
+            "Hang on, I\u2019m gonna give you a little early Christmas present. I\u2019m gonna show you something, but if you ever told Sheldon he\u2019d probably never speak to me again. So, if you want to tell him, that\u2019s fine. Look."
+        ],
+        [
+            "Amy",
+            "I don\u2019t understand."
+        ],
+        [
+            "Leonard",
+            "He made you his screensaver."
+        ],
+        [
+            "Amy",
+            "Oh. Wow. I had no idea. He is so into me. Wait, wait, where\u2019d I go?"
+        ],
+        [
+            "Leonard",
+            "Oh, well, it\u2019s you, Swamp Thing, Stephen Hawking, Spider-Man, but, look, you\u2019re in the mix."
+        ],
+        [
+            "Amy",
+            "I am in the mix. And I\u2019m the hottest one."
+        ],
+        [
+            "Penny",
+            "Who\u2019s that?"
+        ],
+        [
+            "Leonard",
+            "Oh, Madame Curie."
+        ],
+        [
+            "Amy",
+            "That\u2019s fine, she\u2019s dead."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Sheldon",
+            "You okay?"
+        ],
+        [
+            "Amy",
+            "Just really glad you\u2019re back."
+        ],
+        [
+            "Sheldon",
+            "Me, too. I got a lot of TV to catch up on."
+        ],
+        [
+            "Amy",
+            "I missed you."
+        ],
+        [
+            "Sheldon",
+            "To quote Han Solo, I know."
+        ],
+        [
+            "Amy",
+            "Did you miss me?"
+        ],
+        [
+            "Sheldon",
+            "I would\u2019ve preferred to have you there with me."
+        ],
+        [
+            "Amy",
+            "Oh."
+        ],
+        [
+            "Sheldon",
+            "Or instead of me."
+        ],
+        [
+            "Amy",
+            "Did you hold the baby?"
+        ],
+        [
+            "Sheldon",
+            "I did. "
+        ],
+        [
+            "Amy",
+            "And? How did it make you feel?"
+        ],
+        [
+            "Sheldon",
+            "Looking into the blank, innocent eyes of a creature that couldn\u2019t begin to comprehend anything I was saying? Basically just another day at the office."
+        ],
+        [
+            "Scene",
+            "Fantasy sequence at the Cheesecake Factory."
+        ],
+        [
+            "Fat Leonard",
+            "I\u2019m gonna do it. I\u2019m gonna ask her out."
+        ],
+        [
+            "Howard",
+            "And chocolate milk is gonna squirt out of my nipples."
+        ],
+        [
+            "Fat Raj",
+            "Put up or shut up. You make it, I\u2019ll drink it."
+        ],
+        [
+            "Penny",
+            "You guys need anything else?"
+        ],
+        [
+            "Fat Leonard",
+            "Uh, your phone number and one more cheesecake."
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry, I have a boyfriend. In fact, there he is now. Ready to go, sweetheart?"
+        ],
+        [
+            "Stuart",
+            "Not until I get my kiss."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-11-the-cooper-extraction/"
+}

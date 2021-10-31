@@ -1,0 +1,1758 @@
+{
+    "Season": 5,
+    "Episode": 7,
+    "Title": "the good guy fluctuation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Sheldon\u2019s office."
+            ],
+            [
+                16,
+                "Credits sequence."
+            ],
+            [
+                17,
+                "The comic book store."
+            ],
+            [
+                49,
+                "Entering the apartment building."
+            ],
+            [
+                63,
+                "The apartment. Leonard is with Alice."
+            ],
+            [
+                77,
+                "Sheldon\u2019s office."
+            ],
+            [
+                91,
+                "Penny\u2019s apartment. There is a knock."
+            ],
+            [
+                134,
+                "The apartment. Sheldon is adjusting a device on his arm."
+            ],
+            [
+                156,
+                "Howard\u2019s house. Sheldon rings the doorbell."
+            ],
+            [
+                183,
+                "Alice\u2019s apartment. Alice and Leonard are kissing."
+            ],
+            [
+                195,
+                "Leonard being ejected into the corridor."
+            ],
+            [
+                197,
+                "The apartment. Leonard is on skype."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "And reverse the spin on the antiproton, and gamma becomes alpha, multiplied by a matrix of negative I comma zero, and there we have it. Conclusive proof that I am absolutely worthless after nine o\u2019clock."
+            ],
+            [
+                3,
+                "Hmm. (Looks outside office door. Corridor lamp sparks and goes out. Corridor is bathed in an eerie glow) All right, all right. I see what\u2019s going on. A little pre-Halloween hijinkery. A ghostly moan, a rattling of chains, a witch\u2019s cackle. The trifecta of haunted house clich\u00e9s. Instead of eek, I say yawn."
+            ],
+            [
+                5,
+                "Oh, the walls are dripping blood, which looks nothing like a phenolphthalein indicator exposed to a sodium carbonate solution. (Reading message on wall) See you in hell Sheldon. The most frightening thing about that is the missing comma. (A luminous skeleton rushes towards him) Ah. Okay, all right. That one was clever. Skeleton with phosphorous on a zip line. Come on out, merry pranksters. Take a bow."
+            ],
+            [
+                7,
+                "Yes, there\u2019s nothing quite like the slightly widened eyes of mildly startled."
+            ],
+            [
+                9,
+                "Please, fright depends on an element of surprise. The simple fact is, because I am much smarter than you, and able to anticipate your actions, it is highly unlikely that you two rubes could ever surprise me. (Leonard creeps out behind him wearing a Star Trek Balok mask)"
+            ],
+            [
+                12,
+                "Gentlemen. (Turns and sees Leonard. Screams and faints)."
+            ],
+            [
+                19,
+                "Droll."
+            ],
+            [
+                22,
+                "Yes, enjoy your japes, gentlemen. You think you\u2019ve poked fun at a milquetoast academic. Well, you\u2019ve forgotten one thing. I am also a son of the Lone Star state. I\u2019m Texas through and through. And we know how to settle scores down there. If you doubt me, ask Mexico."
+            ],
+            [
+                50,
+                "Be sure to check the mail."
+            ],
+            [
+                52,
+                "Nothing. It\u2019s not suspicious that I\u2019m fixating. It\u2019s consistent with my personality."
+            ],
+            [
+                57,
+                "Leonard doesn\u2019t have time to chat, he has to get the mail."
+            ],
+            [
+                59,
+                "Open the mail!"
+            ],
+            [
+                80,
+                "It is, isn\u2019t it? Oh, bother. Isn\u2019t that just always the way? You go to staple something, and you\u2019re out of staples. Gosh, I wish I\u2019d known that earlier today when I was at Staples."
+            ],
+            [
+                82,
+                "well, no, no, I need something more permanent to join these papers. Say, don\u2019t you keep staples in your top desk drawer?"
+            ],
+            [
+                84,
+                "Be a lamb and check."
+            ],
+            [
+                86,
+                "It\u2019s a snake. A terrifying snake."
+            ],
+            [
+                88,
+                "Stop talking like that. You\u2019ve been rendered speechless by fear."
+            ],
+            [
+                90,
+                "I tried to scare an Indian with a snake. Come on, Cooper. You\u2019re better than this."
+            ],
+            [
+                135,
+                "Hello, Howard. I\u2019ve realized that you scaring me was all in jest. Allow me to say, job well done. (Grabs his own hand. Electrocutes himself.) Perfect."
+            ],
+            [
+                137,
+                "Science. You wouldn\u2019t understand."
+            ],
+            [
+                139,
+                "I thought you were leaving the apartment."
+            ],
+            [
+                141,
+                "Are you concerned because the world is filled with big dogs and bullies?"
+            ],
+            [
+                143,
+                "Well, if it\u2019s of any help, I\u2019ve read all the great moral philosophers, including Dr. Seuss."
+            ],
+            [
+                145,
+                "All right. So the topic at hand is sexual fidelity. Probably won\u2019t be relying on Seuss here. Although One Fish, Two Fish, Red Fish, Blue Fish might be surprisingly applicable. Go on."
+            ],
+            [
+                147,
+                "You know, the German philosopher, Friedrich Nietzsche, believed that morality is just a fiction used by the herd of inferior human beings to hold back the few superior men."
+            ],
+            [
+                149,
+                "It\u2019s worth noting that he died of syphilis."
+            ],
+            [
+                151,
+                "On your way home, will you pick up some orange juice?"
+            ],
+            [
+                153,
+                "Is one of those things your fondness for orange juice?"
+            ],
+            [
+                155,
+                "Great. Tropicana, no pulp."
+            ],
+            [
+                159,
+                "It\u2019s me, Sheldon, Mrs. Wolowitz."
+            ],
+            [
+                161,
+                "Really? That\u2019s very unsettling."
+            ],
+            [
+                163,
+                "Hi."
+            ],
+            [
+                165,
+                "It just occurred to me that I never formally congratulated you on your pending nuptials. So I hopped on the first bus and hightailed it down here to shake your hand. Put \u2018er there, you old so-and-so."
+            ],
+            [
+                167,
+                "Holy smoke, why didn\u2019t I think of that? You\u2019re a better man than I, Howard Wolowitz. You put \u2018er there, you son of a gun!"
+            ],
+            [
+                170,
+                "It was a harmless Halloween prank. Look."
+            ],
+            [
+                172,
+                "Well, I thought he made that up. Isn\u2019t hypochondria a common idiosyncrasy of Jewish people?"
+            ],
+            [
+                174,
+                "We are?"
+            ],
+            [
+                176,
+                "Oh, no! I can\u2019t!"
+            ],
+            [
+                178,
+                "Okay."
+            ],
+            [
+                180,
+                "Oh, God! One, two, three!"
+            ],
+            [
+                182,
+                "What? No. You mean this was all a ruse? Oh, how could I be so stu\u2026 (puts hand to forehead. Electrocutes himself)."
+            ]
+        ],
+        "Ghostly voice": [
+            [
+                2,
+                "Sheldon, Sheldon."
+            ],
+            [
+                4,
+                "Sheldon."
+            ]
+        ],
+        "Raj": [
+            [
+                6,
+                "You should\u2019ve seen your face."
+            ],
+            [
+                10,
+                "He\u2019s probably right."
+            ],
+            [
+                14,
+                "I had pee his pants."
+            ],
+            [
+                24,
+                "What is she doing in a comic book store?"
+            ],
+            [
+                81,
+                "You have a thing of paper clips right there."
+            ],
+            [
+                83,
+                "I don\u2019t know. Maybe."
+            ],
+            [
+                85,
+                "All right. (Opening drawer) Who do we have here?"
+            ],
+            [
+                87,
+                "Oh, did some bad man put us in a drawer?"
+            ],
+            [
+                89,
+                "Let\u2019s go to the biology lab and find you some nice yummy mice."
+            ]
+        ],
+        "Howard": [
+            [
+                8,
+                "Come on, admit it. We got you, Sheldon."
+            ],
+            [
+                11,
+                "We can\u2019t beat him. He\u2019s just too smart."
+            ],
+            [
+                13,
+                "Who had money on faints?"
+            ],
+            [
+                20,
+                "Not as droll as a grown man passed out in a puddle of his own urine."
+            ],
+            [
+                45,
+                "Did we just see you pick up a girl in a comic book store?"
+            ],
+            [
+                157,
+                "Hey, Sheldon."
+            ],
+            [
+                160,
+                "That\u2019s not my mom, it\u2019s Bernadette."
+            ],
+            [
+                164,
+                "What\u2019s up?"
+            ],
+            [
+                166,
+                "Well, I, I\u2019m gonna see you at work in 12 hours, don\u2019t you think it could have waited until then?"
+            ],
+            [
+                168,
+                "Whatever. (Takes his hand. Starts to be electrocuted) My\u2026 oh\u2026 it\u2019s\u2026 (Clutches heart and collapses)"
+            ],
+            [
+                181,
+                "Trick or treat, bubbeleh."
+            ]
+        ],
+        "Leonard": [
+            [
+                15,
+                "Hang on. Looks like everyone\u2019s a winner."
+            ],
+            [
+                18,
+                "Oh. Watch out, Sheldon. This little boy Casper is a g-g-g-ghost!"
+            ],
+            [
+                21,
+                "That was pretty droll. With a hint of ammonia."
+            ],
+            [
+                29,
+                "Uh, yeah. It\u2019s issue number 21. First appearance of Hellboy."
+            ],
+            [
+                31,
+                "Sorry."
+            ],
+            [
+                33,
+                "Yes, but you\u2019d be using your superpowers for evil."
+            ],
+            [
+                35,
+                "Leonard."
+            ],
+            [
+                37,
+                "Thanks. You, too. You know, go ahead and take it."
+            ],
+            [
+                39,
+                "Uh, yeah, yeah, sure, I guess."
+            ],
+            [
+                41,
+                "Sorry, palm\u2019s a little sweaty. What\u2019s that word?"
+            ],
+            [
+                43,
+                "Oh, right, your name. That makes more sense than penis."
+            ],
+            [
+                47,
+                "No, I don\u2019t think I picked her up. Besides, I have a girlfriend."
+            ],
+            [
+                51,
+                "How many times are you gonna tell me? What\u2019s with you?"
+            ],
+            [
+                53,
+                "Right."
+            ],
+            [
+                55,
+                "More Halloween candy? Didn\u2019t you just buy a bunch of it yesterday?"
+            ],
+            [
+                58,
+                "Will you relax? I\u2019ll get it in a minute. Hey, how was work?"
+            ],
+            [
+                60,
+                "Excuse me. (Sheldon holds fingers in ears) A couple of circulars, nothing important."
+            ],
+            [
+                62,
+                "Hang on. (Sheldon opens mail box. A loud horn blows and a balloon with Leonard\u2019s face on pops out. Sheldon faints again.) You might be from Texas, but I\u2019m from New Jersey."
+            ],
+            [
+                64,
+                "Check it out. Jim Lee drew this of me two years ago at Comic Con."
+            ],
+            [
+                66,
+                "Well, you know, it\u2019s Comic Con. I\u2019m Lion-O from ThunderCats."
+            ],
+            [
+                68,
+                "No. But Jessica Alba did rub my furry belly."
+            ],
+            [
+                70,
+                "You\u2019re kidding. You have your own book?"
+            ],
+            [
+                72,
+                "Cool. Oh, look. That\u2019s you having sex with a guy in the top half of a Chewbacca costume. Comic Con?"
+            ],
+            [
+                74,
+                "You\u2019re very talented. This is really good. Did you do\u2026 (she kisses him.)"
+            ],
+            [
+                76,
+                "You can have my car."
+            ],
+            [
+                93,
+                "Hey, you got a minute?"
+            ],
+            [
+                95,
+                "Thanks."
+            ],
+            [
+                97,
+                "No. Lactose. Gas."
+            ],
+            [
+                99,
+                "No. Sulfites. Migraines."
+            ],
+            [
+                101,
+                "Okay, we used to go out, right?"
+            ],
+            [
+                103,
+                "I\u2019m dealing with a situation and it\u2019s kind of about my love life, so I know that might be weird for us to talk about, but in this area, as you know, all my other friends are just so stupid."
+            ],
+            [
+                105,
+                "So, you\u2019re okay talking about this?"
+            ],
+            [
+                107,
+                "You\u2019re sure it\u2019s not weird."
+            ],
+            [
+                109,
+                "You know what, if you ever want to talk to me about a problem in your life with a guy, then I would be fine with that."
+            ],
+            [
+                111,
+                "Okay, uh, here it is. Is it cheating if a guy has a girlfriend\u2026"
+            ],
+            [
+                113,
+                "Come on."
+            ],
+            [
+                115,
+                "I met this girl, and she\u2019s great. We have a lot in common."
+            ],
+            [
+                117,
+                "No. We just made out a little."
+            ],
+            [
+                119,
+                "Well, I was gonna, but there were too many tongues in my mouth."
+            ],
+            [
+                121,
+                "Here\u2019s the thing, I, I\u2019m not one of those guys who sneaks around and sleeps with more than one woman."
+            ],
+            [
+                123,
+                "The problem is, I want to be one of those guys."
+            ],
+            [
+                125,
+                "Oh, that\u2019s not who I am."
+            ],
+            [
+                127,
+                "Now, let\u2019s not do anything rash. She\u2019s really hot."
+            ],
+            [
+                129,
+                "Priya and I are in love. I think we could get married someday."
+            ],
+            [
+                131,
+                "Now we\u2019re getting somewhere."
+            ],
+            [
+                136,
+                "What are you doing?"
+            ],
+            [
+                138,
+                "Hey, well, see you. I\u2019m going out. (Starts to go out. Doesn\u2019t.)"
+            ],
+            [
+                140,
+                "Yeah, me, too. I can\u2019t make up my mind."
+            ],
+            [
+                142,
+                "No. I\u2019m having a moral crisis."
+            ],
+            [
+                144,
+                "Oh, what the hell. I\u2019m supposed to go see that girl from the comic book store, Alice, but I don\u2019t know if I should, because I\u2019m going out with Priya, but she\u2019s in India."
+            ],
+            [
+                146,
+                "Well, they say at the end of your life, you regret the stuff you didn\u2019t do more than the stuff that you did, and I\u2019m pretty sure Alice is the stuff I want to do."
+            ],
+            [
+                148,
+                "That actually does help."
+            ],
+            [
+                150,
+                "Screw it, I\u2019m going."
+            ],
+            [
+                152,
+                "Do you mind? I\u2019m questioning a lot of things in my life right now."
+            ],
+            [
+                154,
+                "No."
+            ],
+            [
+                184,
+                "Damn it, I can\u2019t. I can\u2019t, I can\u2019t do this."
+            ],
+            [
+                186,
+                "No, no, no. I, I can\u2019t do this. Believe me, I really want to."
+            ],
+            [
+                188,
+                "But I kind of have a girlfriend."
+            ],
+            [
+                190,
+                "You\u2019re cool with you and me just being friends, right?"
+            ],
+            [
+                192,
+                "Wait, I don\u2019t, which part?"
+            ],
+            [
+                194,
+                "Oh, no, no, you have it wrong. No. I, I was going to be a jackass, but I stopped myself. I stayed a good guy, so, I\u2019m gonna pass on the sex. But you should know, that\u2019s not a comment on your hotness but on my goodness. That\u2019s kind of my superpower. I\u2019m, like, Captain Good Guy."
+            ],
+            [
+                196,
+                "It\u2019s okay. Did the right thing. You idiot!"
+            ],
+            [
+                198,
+                "Hey, Priya."
+            ],
+            [
+                200,
+                "Uh, not so good. We have to talk."
+            ],
+            [
+                202,
+                "Okay, uh, here it is. I met this girl and I kissed her, and I feel terrible about it. But it\u2019s done, it\u2019s never gonna happen again. And I am so, so sorry."
+            ],
+            [
+                204,
+                "It is?"
+            ],
+            [
+                206,
+                "Oh, my God, you are amazing. I mean, I don\u2019t deserve you. Wh, what do, what do you mean everybody?"
+            ],
+            [
+                208,
+                "Uh, kind of?"
+            ],
+            [
+                210,
+                "No, no, I messed up a little. You messed up a lot."
+            ],
+            [
+                212,
+                "Oh yeah, it is, and you won. I, I, I\u2019m, I\u2019m sorry, I have to go. I don\u2019t believe this."
+            ]
+        ],
+        "Stuart": [
+            [
+                23,
+                "Hot girl, nine o\u2019clock. Don\u2019t everybody look at once!"
+            ],
+            [
+                25,
+                "I don\u2019t know, she might be lost. Doesn\u2019t matter. Watch and learn. Hi."
+            ],
+            [
+                27,
+                "Um\u2026 it-it-it\u2026 (returns to guys) Shut up."
+            ],
+            [
+                46,
+                "\u2018Cause if you did, you get your picture up there on the Wall of Heroes."
+            ],
+            [
+                48,
+                "Doesn\u2019t matter. This is the closest anyone\u2019s ever come. You\u2019re going on the wall, my friend."
+            ]
+        ],
+        "Hot girl": [
+            [
+                26,
+                "Hi."
+            ],
+            [
+                30,
+                "I know. I\u2019ve been looking for it for years."
+            ],
+            [
+                32,
+                "Hey, if I pretended to hit on you, could I distract you enough to sneak it away?"
+            ],
+            [
+                34,
+                "Damn, I\u2019m forbidden by my Kryptonian father to do so. I am Alice."
+            ]
+        ],
+        "Hot girl (to Leonard)": [
+            [
+                28,
+                "Are you getting this Next Men?"
+            ]
+        ],
+        "Alice": [
+            [
+                36,
+                "You are very cute, Leonard."
+            ],
+            [
+                38,
+                "No, no. No, no, I, I, I did evil. Would you be open to a trade?"
+            ],
+            [
+                40,
+                "Okay. Here. This is my number, call me."
+            ],
+            [
+                42,
+                "Alice."
+            ],
+            [
+                44,
+                "Later."
+            ],
+            [
+                65,
+                "What are you wearing?"
+            ],
+            [
+                67,
+                "Wow, you must have gotten so laid."
+            ],
+            [
+                69,
+                "Want to see a comic I draw?"
+            ],
+            [
+                71,
+                "Yeah. It\u2019s kinda based on my life."
+            ],
+            [
+                73,
+                "You\u2019d think, but no."
+            ],
+            [
+                75,
+                "So, can I trade you my comic for the Hellboy?"
+            ],
+            [
+                185,
+                "Uh, is it my tongue stud? \u2018Cause if that freaks you out, you\u2019re in for a real surprise later on."
+            ],
+            [
+                187,
+                "But?"
+            ],
+            [
+                189,
+                "Are you kidding?"
+            ],
+            [
+                191,
+                "I don\u2019t believe this."
+            ],
+            [
+                193,
+                "I\u2019m so stupid. I thought for once I\u2019d met a good guy, but you\u2019re just another jackass."
+            ]
+        ],
+        "Penny": [
+            [
+                54,
+                "Hey, guys."
+            ],
+            [
+                56,
+                "Oh. Yeah. That\u2019s gone. It\u2019s a rough month when Halloween and PMS hit at the same time."
+            ],
+            [
+                61,
+                "What\u2019s with him?"
+            ],
+            [
+                92,
+                "It\u2019s open."
+            ],
+            [
+                94,
+                "Yeah, sure, come on in."
+            ],
+            [
+                96,
+                "Want some mac and cheese?"
+            ],
+            [
+                98,
+                "Glass of wine?"
+            ],
+            [
+                100,
+                "Okay, well, I\u2019d offer you Halloween candy, but that\u2019s gone. So, what\u2019s up?"
+            ],
+            [
+                102,
+                "Oh, my God, that\u2019s where I know you from."
+            ],
+            [
+                104,
+                "All right, what\u2019s going on?"
+            ],
+            [
+                106,
+                "Yes."
+            ],
+            [
+                108,
+                "It\u2019s okay."
+            ],
+            [
+                110,
+                "Okay, good, because there\u2019s this one guy I used to date who\u2019s about to be force-fed wine and cheese if he doesn\u2019t get to the point."
+            ],
+            [
+                112,
+                "Yeah, probably."
+            ],
+            [
+                114,
+                "I\u2019m sorry, go ahead."
+            ],
+            [
+                116,
+                "Did you guys do it?"
+            ],
+            [
+                118,
+                "Oh, look at you, you bad boy. Did you tell her about Priya?"
+            ],
+            [
+                120,
+                "That\u2019s gross."
+            ],
+            [
+                122,
+                "Well, good for you."
+            ],
+            [
+                124,
+                "So sleep with the new girl and lie to Priya."
+            ],
+            [
+                126,
+                "All right, then break it off with the new girl."
+            ],
+            [
+                128,
+                "If you like this girl so much, why don\u2019t you just end things with Priya?"
+            ],
+            [
+                130,
+                "Leonard, you\u2019re looking for a way to sleep with both women and have everybody be happy about it."
+            ],
+            [
+                132,
+                "What does your gut tell you?"
+            ]
+        ],
+        "Sheldon (creeps into office carrying a box)": [
+            [
+                78,
+                "Oh, dear. (Reaches into box, picks up a snake) Oh, dear. (Puts snake into Raj\u2019s top drawer) Oh, dear, oh, dear. Oh, dear, oh, dear. Oh, dear. Oh, dear. Purell, Purell, Purell, Purell."
+            ]
+        ],
+        "Raj (entering)": [
+            [
+                79,
+                "Good morning, Sheldon."
+            ]
+        ],
+        "Leonard: Go ask Penny": [
+            [
+                133,
+                "she\u2019ll know what to do."
+            ]
+        ],
+        "Bernadette (off)": [
+            [
+                158,
+                "Who is it?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                162,
+                "Hi, Sheldon."
+            ],
+            [
+                169,
+                "Oh, my God, Howard! What did you do?"
+            ],
+            [
+                171,
+                "Howard has a heart condition! You know that!"
+            ],
+            [
+                173,
+                "This is adrenaline, we\u2019re gonna have to inject it into his heart."
+            ],
+            [
+                175,
+                "You are. I\u2019m not strong enough to get it through his chest plate, and we\u2019ve only got one shot."
+            ],
+            [
+                177,
+                "Hurry! We\u2019re running out of time!"
+            ],
+            [
+                179,
+                "Just do it!"
+            ]
+        ],
+        "Priya": [
+            [
+                199,
+                "Hey, sweetheart. How\u2019s it going?"
+            ],
+            [
+                201,
+                "Oh, sounds serious. What\u2019s up?"
+            ],
+            [
+                203,
+                "Leonard, relax. It\u2019s okay."
+            ],
+            [
+                205,
+                "Yeah, these things happen. They happen to everybody."
+            ],
+            [
+                207,
+                "Leonard, I didn\u2019t know if I should tell you, but I kind of cheated on you, too."
+            ],
+            [
+                209,
+                "A couple of weeks ago, I slept with my ex-boyfriend. So, I guess we both messed up a little."
+            ],
+            [
+                211,
+                "Well, it\u2019s not a competition."
+            ]
+        ],
+        "Sheldon (leaping out of the base of the sofa)": [
+            [
+                213,
+                "Bazinga, punk. Now we\u2019re even."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Sheldon",
+            "And reverse the spin on the antiproton, and gamma becomes alpha, multiplied by a matrix of negative I comma zero, and there we have it. Conclusive proof that I am absolutely worthless after nine o\u2019clock."
+        ],
+        [
+            "Ghostly voice",
+            "Sheldon, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hmm. (Looks outside office door. Corridor lamp sparks and goes out. Corridor is bathed in an eerie glow) All right, all right. I see what\u2019s going on. A little pre-Halloween hijinkery. A ghostly moan, a rattling of chains, a witch\u2019s cackle. The trifecta of haunted house clich\u00e9s. Instead of eek, I say yawn."
+        ],
+        [
+            "Ghostly voice",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Oh, the walls are dripping blood, which looks nothing like a phenolphthalein indicator exposed to a sodium carbonate solution. (Reading message on wall) See you in hell Sheldon. The most frightening thing about that is the missing comma. (A luminous skeleton rushes towards him) Ah. Okay, all right. That one was clever. Skeleton with phosphorous on a zip line. Come on out, merry pranksters. Take a bow."
+        ],
+        [
+            "Raj",
+            "You should\u2019ve seen your face."
+        ],
+        [
+            "Sheldon",
+            "Yes, there\u2019s nothing quite like the slightly widened eyes of mildly startled."
+        ],
+        [
+            "Howard",
+            "Come on, admit it. We got you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Please, fright depends on an element of surprise. The simple fact is, because I am much smarter than you, and able to anticipate your actions, it is highly unlikely that you two rubes could ever surprise me. (Leonard creeps out behind him wearing a Star Trek Balok mask)"
+        ],
+        [
+            "Raj",
+            "He\u2019s probably right."
+        ],
+        [
+            "Howard",
+            "We can\u2019t beat him. He\u2019s just too smart."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen. (Turns and sees Leonard. Screams and faints)."
+        ],
+        [
+            "Howard",
+            "Who had money on faints?"
+        ],
+        [
+            "Raj",
+            "I had pee his pants."
+        ],
+        [
+            "Leonard",
+            "Hang on. Looks like everyone\u2019s a winner."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Leonard",
+            "Oh. Watch out, Sheldon. This little boy Casper is a g-g-g-ghost!"
+        ],
+        [
+            "Sheldon",
+            "Droll."
+        ],
+        [
+            "Howard",
+            "Not as droll as a grown man passed out in a puddle of his own urine."
+        ],
+        [
+            "Leonard",
+            "That was pretty droll. With a hint of ammonia."
+        ],
+        [
+            "Sheldon",
+            "Yes, enjoy your japes, gentlemen. You think you\u2019ve poked fun at a milquetoast academic. Well, you\u2019ve forgotten one thing. I am also a son of the Lone Star state. I\u2019m Texas through and through. And we know how to settle scores down there. If you doubt me, ask Mexico."
+        ],
+        [
+            "Stuart",
+            "Hot girl, nine o\u2019clock. Don\u2019t everybody look at once!"
+        ],
+        [
+            "Raj",
+            "What is she doing in a comic book store?"
+        ],
+        [
+            "Stuart",
+            "I don\u2019t know, she might be lost. Doesn\u2019t matter. Watch and learn. Hi."
+        ],
+        [
+            "Hot girl",
+            "Hi."
+        ],
+        [
+            "Stuart",
+            "Um\u2026 it-it-it\u2026 (returns to guys) Shut up."
+        ],
+        [
+            "Hot girl (to Leonard)",
+            "Are you getting this Next Men?"
+        ],
+        [
+            "Leonard",
+            "Uh, yeah. It\u2019s issue number 21. First appearance of Hellboy."
+        ],
+        [
+            "Hot girl",
+            "I know. I\u2019ve been looking for it for years."
+        ],
+        [
+            "Leonard",
+            "Sorry."
+        ],
+        [
+            "Hot girl",
+            "Hey, if I pretended to hit on you, could I distract you enough to sneak it away?"
+        ],
+        [
+            "Leonard",
+            "Yes, but you\u2019d be using your superpowers for evil."
+        ],
+        [
+            "Hot girl",
+            "Damn, I\u2019m forbidden by my Kryptonian father to do so. I am Alice."
+        ],
+        [
+            "Leonard",
+            "Leonard."
+        ],
+        [
+            "Alice",
+            "You are very cute, Leonard."
+        ],
+        [
+            "Leonard",
+            "Thanks. You, too. You know, go ahead and take it."
+        ],
+        [
+            "Alice",
+            "No, no. No, no, I, I, I did evil. Would you be open to a trade?"
+        ],
+        [
+            "Leonard",
+            "Uh, yeah, yeah, sure, I guess."
+        ],
+        [
+            "Alice",
+            "Okay. Here. This is my number, call me."
+        ],
+        [
+            "Leonard",
+            "Sorry, palm\u2019s a little sweaty. What\u2019s that word?"
+        ],
+        [
+            "Alice",
+            "Alice."
+        ],
+        [
+            "Leonard",
+            "Oh, right, your name. That makes more sense than penis."
+        ],
+        [
+            "Alice",
+            "Later."
+        ],
+        [
+            "Howard",
+            "Did we just see you pick up a girl in a comic book store?"
+        ],
+        [
+            "Stuart",
+            "\u2018Cause if you did, you get your picture up there on the Wall of Heroes."
+        ],
+        [
+            "Leonard",
+            "No, I don\u2019t think I picked her up. Besides, I have a girlfriend."
+        ],
+        [
+            "Stuart",
+            "Doesn\u2019t matter. This is the closest anyone\u2019s ever come. You\u2019re going on the wall, my friend."
+        ],
+        [
+            "Scene",
+            "Entering the apartment building."
+        ],
+        [
+            "Sheldon",
+            "Be sure to check the mail."
+        ],
+        [
+            "Leonard",
+            "How many times are you gonna tell me? What\u2019s with you?"
+        ],
+        [
+            "Sheldon",
+            "Nothing. It\u2019s not suspicious that I\u2019m fixating. It\u2019s consistent with my personality."
+        ],
+        [
+            "Leonard",
+            "Right."
+        ],
+        [
+            "Penny",
+            "Hey, guys."
+        ],
+        [
+            "Leonard",
+            "More Halloween candy? Didn\u2019t you just buy a bunch of it yesterday?"
+        ],
+        [
+            "Penny",
+            "Oh. Yeah. That\u2019s gone. It\u2019s a rough month when Halloween and PMS hit at the same time."
+        ],
+        [
+            "Sheldon",
+            "Leonard doesn\u2019t have time to chat, he has to get the mail."
+        ],
+        [
+            "Leonard",
+            "Will you relax? I\u2019ll get it in a minute. Hey, how was work?"
+        ],
+        [
+            "Sheldon",
+            "Open the mail!"
+        ],
+        [
+            "Leonard",
+            "Excuse me. (Sheldon holds fingers in ears) A couple of circulars, nothing important."
+        ],
+        [
+            "Penny",
+            "What\u2019s with him?"
+        ],
+        [
+            "Leonard",
+            "Hang on. (Sheldon opens mail box. A loud horn blows and a balloon with Leonard\u2019s face on pops out. Sheldon faints again.) You might be from Texas, but I\u2019m from New Jersey."
+        ],
+        [
+            "Scene",
+            "The apartment. Leonard is with Alice."
+        ],
+        [
+            "Leonard",
+            "Check it out. Jim Lee drew this of me two years ago at Comic Con."
+        ],
+        [
+            "Alice",
+            "What are you wearing?"
+        ],
+        [
+            "Leonard",
+            "Well, you know, it\u2019s Comic Con. I\u2019m Lion-O from ThunderCats."
+        ],
+        [
+            "Alice",
+            "Wow, you must have gotten so laid."
+        ],
+        [
+            "Leonard",
+            "No. But Jessica Alba did rub my furry belly."
+        ],
+        [
+            "Alice",
+            "Want to see a comic I draw?"
+        ],
+        [
+            "Leonard",
+            "You\u2019re kidding. You have your own book?"
+        ],
+        [
+            "Alice",
+            "Yeah. It\u2019s kinda based on my life."
+        ],
+        [
+            "Leonard",
+            "Cool. Oh, look. That\u2019s you having sex with a guy in the top half of a Chewbacca costume. Comic Con?"
+        ],
+        [
+            "Alice",
+            "You\u2019d think, but no."
+        ],
+        [
+            "Leonard",
+            "You\u2019re very talented. This is really good. Did you do\u2026 (she kisses him.)"
+        ],
+        [
+            "Alice",
+            "So, can I trade you my comic for the Hellboy?"
+        ],
+        [
+            "Leonard",
+            "You can have my car."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Sheldon (creeps into office carrying a box)",
+            "Oh, dear. (Reaches into box, picks up a snake) Oh, dear. (Puts snake into Raj\u2019s top drawer) Oh, dear, oh, dear. Oh, dear, oh, dear. Oh, dear. Oh, dear. Purell, Purell, Purell, Purell."
+        ],
+        [
+            "Raj (entering)",
+            "Good morning, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "It is, isn\u2019t it? Oh, bother. Isn\u2019t that just always the way? You go to staple something, and you\u2019re out of staples. Gosh, I wish I\u2019d known that earlier today when I was at Staples."
+        ],
+        [
+            "Raj",
+            "You have a thing of paper clips right there."
+        ],
+        [
+            "Sheldon",
+            "well, no, no, I need something more permanent to join these papers. Say, don\u2019t you keep staples in your top desk drawer?"
+        ],
+        [
+            "Raj",
+            "I don\u2019t know. Maybe."
+        ],
+        [
+            "Sheldon",
+            "Be a lamb and check."
+        ],
+        [
+            "Raj",
+            "All right. (Opening drawer) Who do we have here?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a snake. A terrifying snake."
+        ],
+        [
+            "Raj",
+            "Oh, did some bad man put us in a drawer?"
+        ],
+        [
+            "Sheldon",
+            "Stop talking like that. You\u2019ve been rendered speechless by fear."
+        ],
+        [
+            "Raj",
+            "Let\u2019s go to the biology lab and find you some nice yummy mice."
+        ],
+        [
+            "Sheldon",
+            "I tried to scare an Indian with a snake. Come on, Cooper. You\u2019re better than this."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. There is a knock."
+        ],
+        [
+            "Penny",
+            "It\u2019s open."
+        ],
+        [
+            "Leonard",
+            "Hey, you got a minute?"
+        ],
+        [
+            "Penny",
+            "Yeah, sure, come on in."
+        ],
+        [
+            "Leonard",
+            "Thanks."
+        ],
+        [
+            "Penny",
+            "Want some mac and cheese?"
+        ],
+        [
+            "Leonard",
+            "No. Lactose. Gas."
+        ],
+        [
+            "Penny",
+            "Glass of wine?"
+        ],
+        [
+            "Leonard",
+            "No. Sulfites. Migraines."
+        ],
+        [
+            "Penny",
+            "Okay, well, I\u2019d offer you Halloween candy, but that\u2019s gone. So, what\u2019s up?"
+        ],
+        [
+            "Leonard",
+            "Okay, we used to go out, right?"
+        ],
+        [
+            "Penny",
+            "Oh, my God, that\u2019s where I know you from."
+        ],
+        [
+            "Leonard",
+            "I\u2019m dealing with a situation and it\u2019s kind of about my love life, so I know that might be weird for us to talk about, but in this area, as you know, all my other friends are just so stupid."
+        ],
+        [
+            "Penny",
+            "All right, what\u2019s going on?"
+        ],
+        [
+            "Leonard",
+            "So, you\u2019re okay talking about this?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "You\u2019re sure it\u2019s not weird."
+        ],
+        [
+            "Penny",
+            "It\u2019s okay."
+        ],
+        [
+            "Leonard",
+            "You know what, if you ever want to talk to me about a problem in your life with a guy, then I would be fine with that."
+        ],
+        [
+            "Penny",
+            "Okay, good, because there\u2019s this one guy I used to date who\u2019s about to be force-fed wine and cheese if he doesn\u2019t get to the point."
+        ],
+        [
+            "Leonard",
+            "Okay, uh, here it is. Is it cheating if a guy has a girlfriend\u2026"
+        ],
+        [
+            "Penny",
+            "Yeah, probably."
+        ],
+        [
+            "Leonard",
+            "Come on."
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry, go ahead."
+        ],
+        [
+            "Leonard",
+            "I met this girl, and she\u2019s great. We have a lot in common."
+        ],
+        [
+            "Penny",
+            "Did you guys do it?"
+        ],
+        [
+            "Leonard",
+            "No. We just made out a little."
+        ],
+        [
+            "Penny",
+            "Oh, look at you, you bad boy. Did you tell her about Priya?"
+        ],
+        [
+            "Leonard",
+            "Well, I was gonna, but there were too many tongues in my mouth."
+        ],
+        [
+            "Penny",
+            "That\u2019s gross."
+        ],
+        [
+            "Leonard",
+            "Here\u2019s the thing, I, I\u2019m not one of those guys who sneaks around and sleeps with more than one woman."
+        ],
+        [
+            "Penny",
+            "Well, good for you."
+        ],
+        [
+            "Leonard",
+            "The problem is, I want to be one of those guys."
+        ],
+        [
+            "Penny",
+            "So sleep with the new girl and lie to Priya."
+        ],
+        [
+            "Leonard",
+            "Oh, that\u2019s not who I am."
+        ],
+        [
+            "Penny",
+            "All right, then break it off with the new girl."
+        ],
+        [
+            "Leonard",
+            "Now, let\u2019s not do anything rash. She\u2019s really hot."
+        ],
+        [
+            "Penny",
+            "If you like this girl so much, why don\u2019t you just end things with Priya?"
+        ],
+        [
+            "Leonard",
+            "Priya and I are in love. I think we could get married someday."
+        ],
+        [
+            "Penny",
+            "Leonard, you\u2019re looking for a way to sleep with both women and have everybody be happy about it."
+        ],
+        [
+            "Leonard",
+            "Now we\u2019re getting somewhere."
+        ],
+        [
+            "Penny",
+            "What does your gut tell you?"
+        ],
+        [
+            "Leonard: Go ask Penny",
+            "she\u2019ll know what to do."
+        ],
+        [
+            "Scene",
+            "The apartment. Sheldon is adjusting a device on his arm."
+        ],
+        [
+            "Sheldon",
+            "Hello, Howard. I\u2019ve realized that you scaring me was all in jest. Allow me to say, job well done. (Grabs his own hand. Electrocutes himself.) Perfect."
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "Science. You wouldn\u2019t understand."
+        ],
+        [
+            "Leonard",
+            "Hey, well, see you. I\u2019m going out. (Starts to go out. Doesn\u2019t.)"
+        ],
+        [
+            "Sheldon",
+            "I thought you were leaving the apartment."
+        ],
+        [
+            "Leonard",
+            "Yeah, me, too. I can\u2019t make up my mind."
+        ],
+        [
+            "Sheldon",
+            "Are you concerned because the world is filled with big dogs and bullies?"
+        ],
+        [
+            "Leonard",
+            "No. I\u2019m having a moral crisis."
+        ],
+        [
+            "Sheldon",
+            "Well, if it\u2019s of any help, I\u2019ve read all the great moral philosophers, including Dr. Seuss."
+        ],
+        [
+            "Leonard",
+            "Oh, what the hell. I\u2019m supposed to go see that girl from the comic book store, Alice, but I don\u2019t know if I should, because I\u2019m going out with Priya, but she\u2019s in India."
+        ],
+        [
+            "Sheldon",
+            "All right. So the topic at hand is sexual fidelity. Probably won\u2019t be relying on Seuss here. Although One Fish, Two Fish, Red Fish, Blue Fish might be surprisingly applicable. Go on."
+        ],
+        [
+            "Leonard",
+            "Well, they say at the end of your life, you regret the stuff you didn\u2019t do more than the stuff that you did, and I\u2019m pretty sure Alice is the stuff I want to do."
+        ],
+        [
+            "Sheldon",
+            "You know, the German philosopher, Friedrich Nietzsche, believed that morality is just a fiction used by the herd of inferior human beings to hold back the few superior men."
+        ],
+        [
+            "Leonard",
+            "That actually does help."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s worth noting that he died of syphilis."
+        ],
+        [
+            "Leonard",
+            "Screw it, I\u2019m going."
+        ],
+        [
+            "Sheldon",
+            "On your way home, will you pick up some orange juice?"
+        ],
+        [
+            "Leonard",
+            "Do you mind? I\u2019m questioning a lot of things in my life right now."
+        ],
+        [
+            "Sheldon",
+            "Is one of those things your fondness for orange juice?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Great. Tropicana, no pulp."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s house. Sheldon rings the doorbell."
+        ],
+        [
+            "Howard",
+            "Hey, Sheldon."
+        ],
+        [
+            "Bernadette (off)",
+            "Who is it?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s me, Sheldon, Mrs. Wolowitz."
+        ],
+        [
+            "Howard",
+            "That\u2019s not my mom, it\u2019s Bernadette."
+        ],
+        [
+            "Sheldon",
+            "Really? That\u2019s very unsettling."
+        ],
+        [
+            "Bernadette",
+            "Hi, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hi."
+        ],
+        [
+            "Howard",
+            "What\u2019s up?"
+        ],
+        [
+            "Sheldon",
+            "It just occurred to me that I never formally congratulated you on your pending nuptials. So I hopped on the first bus and hightailed it down here to shake your hand. Put \u2018er there, you old so-and-so."
+        ],
+        [
+            "Howard",
+            "Well, I, I\u2019m gonna see you at work in 12 hours, don\u2019t you think it could have waited until then?"
+        ],
+        [
+            "Sheldon",
+            "Holy smoke, why didn\u2019t I think of that? You\u2019re a better man than I, Howard Wolowitz. You put \u2018er there, you son of a gun!"
+        ],
+        [
+            "Howard",
+            "Whatever. (Takes his hand. Starts to be electrocuted) My\u2026 oh\u2026 it\u2019s\u2026 (Clutches heart and collapses)"
+        ],
+        [
+            "Bernadette",
+            "Oh, my God, Howard! What did you do?"
+        ],
+        [
+            "Sheldon",
+            "It was a harmless Halloween prank. Look."
+        ],
+        [
+            "Bernadette",
+            "Howard has a heart condition! You know that!"
+        ],
+        [
+            "Sheldon",
+            "Well, I thought he made that up. Isn\u2019t hypochondria a common idiosyncrasy of Jewish people?"
+        ],
+        [
+            "Bernadette",
+            "This is adrenaline, we\u2019re gonna have to inject it into his heart."
+        ],
+        [
+            "Sheldon",
+            "We are?"
+        ],
+        [
+            "Bernadette",
+            "You are. I\u2019m not strong enough to get it through his chest plate, and we\u2019ve only got one shot."
+        ],
+        [
+            "Sheldon",
+            "Oh, no! I can\u2019t!"
+        ],
+        [
+            "Bernadette",
+            "Hurry! We\u2019re running out of time!"
+        ],
+        [
+            "Sheldon",
+            "Okay."
+        ],
+        [
+            "Bernadette",
+            "Just do it!"
+        ],
+        [
+            "Sheldon",
+            "Oh, God! One, two, three!"
+        ],
+        [
+            "Howard",
+            "Trick or treat, bubbeleh."
+        ],
+        [
+            "Sheldon",
+            "What? No. You mean this was all a ruse? Oh, how could I be so stu\u2026 (puts hand to forehead. Electrocutes himself)."
+        ],
+        [
+            "Scene",
+            "Alice\u2019s apartment. Alice and Leonard are kissing."
+        ],
+        [
+            "Leonard",
+            "Damn it, I can\u2019t. I can\u2019t, I can\u2019t do this."
+        ],
+        [
+            "Alice",
+            "Uh, is it my tongue stud? \u2018Cause if that freaks you out, you\u2019re in for a real surprise later on."
+        ],
+        [
+            "Leonard",
+            "No, no, no. I, I can\u2019t do this. Believe me, I really want to."
+        ],
+        [
+            "Alice",
+            "But?"
+        ],
+        [
+            "Leonard",
+            "But I kind of have a girlfriend."
+        ],
+        [
+            "Alice",
+            "Are you kidding?"
+        ],
+        [
+            "Leonard",
+            "You\u2019re cool with you and me just being friends, right?"
+        ],
+        [
+            "Alice",
+            "I don\u2019t believe this."
+        ],
+        [
+            "Leonard",
+            "Wait, I don\u2019t, which part?"
+        ],
+        [
+            "Alice",
+            "I\u2019m so stupid. I thought for once I\u2019d met a good guy, but you\u2019re just another jackass."
+        ],
+        [
+            "Leonard",
+            "Oh, no, no, you have it wrong. No. I, I was going to be a jackass, but I stopped myself. I stayed a good guy, so, I\u2019m gonna pass on the sex. But you should know, that\u2019s not a comment on your hotness but on my goodness. That\u2019s kind of my superpower. I\u2019m, like, Captain Good Guy."
+        ],
+        [
+            "Scene",
+            "Leonard being ejected into the corridor."
+        ],
+        [
+            "Leonard",
+            "It\u2019s okay. Did the right thing. You idiot!"
+        ],
+        [
+            "Scene",
+            "The apartment. Leonard is on skype."
+        ],
+        [
+            "Leonard",
+            "Hey, Priya."
+        ],
+        [
+            "Priya",
+            "Hey, sweetheart. How\u2019s it going?"
+        ],
+        [
+            "Leonard",
+            "Uh, not so good. We have to talk."
+        ],
+        [
+            "Priya",
+            "Oh, sounds serious. What\u2019s up?"
+        ],
+        [
+            "Leonard",
+            "Okay, uh, here it is. I met this girl and I kissed her, and I feel terrible about it. But it\u2019s done, it\u2019s never gonna happen again. And I am so, so sorry."
+        ],
+        [
+            "Priya",
+            "Leonard, relax. It\u2019s okay."
+        ],
+        [
+            "Leonard",
+            "It is?"
+        ],
+        [
+            "Priya",
+            "Yeah, these things happen. They happen to everybody."
+        ],
+        [
+            "Leonard",
+            "Oh, my God, you are amazing. I mean, I don\u2019t deserve you. Wh, what do, what do you mean everybody?"
+        ],
+        [
+            "Priya",
+            "Leonard, I didn\u2019t know if I should tell you, but I kind of cheated on you, too."
+        ],
+        [
+            "Leonard",
+            "Uh, kind of?"
+        ],
+        [
+            "Priya",
+            "A couple of weeks ago, I slept with my ex-boyfriend. So, I guess we both messed up a little."
+        ],
+        [
+            "Leonard",
+            "No, no, I messed up a little. You messed up a lot."
+        ],
+        [
+            "Priya",
+            "Well, it\u2019s not a competition."
+        ],
+        [
+            "Leonard",
+            "Oh yeah, it is, and you won. I, I, I\u2019m, I\u2019m sorry, I have to go. I don\u2019t believe this."
+        ],
+        [
+            "Sheldon (leaping out of the base of the sofa)",
+            "Bazinga, punk. Now we\u2019re even."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-07-the-good-guy-fluctuation/"
+}

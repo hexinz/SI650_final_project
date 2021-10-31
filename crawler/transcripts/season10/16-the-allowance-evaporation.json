@@ -1,0 +1,1904 @@
+{
+    "Season": 10,
+    "Episode": 16,
+    "Title": "the allowance evaporation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. "
+            ],
+            [
+                28,
+                "Credits sequence."
+            ],
+            [
+                29,
+                "Raj\u2019s office."
+            ],
+            [
+                45,
+                "A restaurant. "
+            ],
+            [
+                66,
+                "The apartment. "
+            ],
+            [
+                91,
+                "The restaurant."
+            ],
+            [
+                107,
+                "The apartment. "
+            ],
+            [
+                118,
+                "The restaurant. "
+            ],
+            [
+                130,
+                "The stairwell. "
+            ],
+            [
+                138,
+                "The apartment. "
+            ],
+            [
+                156,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                165,
+                "The apartment. "
+            ],
+            [
+                183,
+                "Sheldon and Amy\u2019s bedroom."
+            ],
+            [
+                207,
+                "Raj\u2019s office."
+            ],
+            [
+                218,
+                "The cafeteria."
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "Go. Come on, Raj."
+            ],
+            [
+                7,
+                "We\u2019re betting to see if Koothrappali can hold his breath longer than the disk can spin."
+            ],
+            [
+                14,
+                "Yeah, we\u2019re seeing if Raj can hold his breath longer than it."
+            ],
+            [
+                18,
+                "Yes, he is."
+            ],
+            [
+                21,
+                "Ha, you\u2019re interested. You\u2019re out ten bucks."
+            ],
+            [
+                26,
+                "Come on, Raj, it\u2019s like your favourite movie, you\u2019re just Waiting to Exhale. Yeah, I knew you could do it."
+            ],
+            [
+                69,
+                "And the car ride puts her to sleep."
+            ],
+            [
+                79,
+                "Oh, no, now we have two."
+            ],
+            [
+                114,
+                "Maybe your dad\u2019s right."
+            ],
+            [
+                139,
+                "You don\u2019t need your dad\u2019s money. You can get by on your salary."
+            ],
+            [
+                152,
+                "Well, how much do you spend on food?"
+            ],
+            [
+                170,
+                "What, what are you doing? I, I, I schlepped the baby over, I brought imported beer. Why don\u2019t you like me?"
+            ],
+            [
+                172,
+                "We are, that\u2019s why I\u2019m sad my best friend\u2019s gonna be homeless."
+            ],
+            [
+                177,
+                "Wait. Why are we talking about our place when Sheldon\u2019s old room is sitting there perfectly empty?"
+            ],
+            [
+                221,
+                "Oh. How\u2019s the dog gonna go to the bathroom?"
+            ],
+            [
+                232,
+                "That\u2019s understandable."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "You can do this."
+            ],
+            [
+                5,
+                "This is an Euler\u2019s Disk. It\u2019s a physics toy that demonstrates angular momentum, potential energy, and kinetic energy."
+            ],
+            [
+                9,
+                "But Raj is from India, which means he\u2019s no slouch at holding his breath."
+            ],
+            [
+                16,
+                "How ya doing?"
+            ],
+            [
+                23,
+                "Dig deep, like when we bet you couldn\u2019t fit into Howard\u2019s pants."
+            ],
+            [
+                25,
+                "Yes, he is."
+            ],
+            [
+                70,
+                "Aw, that used to work with Sheldon."
+            ],
+            [
+                72,
+                "Who forgot to crack the window?"
+            ],
+            [
+                74,
+                "Hey."
+            ],
+            [
+                82,
+                "What\u2019s going on with your dad?"
+            ],
+            [
+                87,
+                "But all you did was complain when he did that."
+            ],
+            [
+                109,
+                "I\u2019m sorry, is he waiting for someone to disagree?"
+            ],
+            [
+                113,
+                "I\u2019m trying, but I\u2019m judging."
+            ],
+            [
+                140,
+                "Yeah. Well, we work at the same place as you, and we\u2019ve always been fine."
+            ],
+            [
+                150,
+                "Do you know how much your car costs?"
+            ],
+            [
+                166,
+                "Sounds like you\u2019re gonna need a cheaper place to live."
+            ],
+            [
+                169,
+                "Hey, you guys let Stuart live with you. Why not Raj, too?"
+            ],
+            [
+                174,
+                "What if he lives in your garage?"
+            ],
+            [
+                182,
+                "Yeah."
+            ],
+            [
+                219,
+                "Oh, you brought your own lunch. Good for you."
+            ],
+            [
+                230,
+                "What brought that on?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                3,
+                "There\u2019s no way."
+            ],
+            [
+                8,
+                "Its weight and smoothness, along with the slight concavity of the mirror, means it can spin for a long time."
+            ],
+            [
+                12,
+                "Kind of busy right now."
+            ],
+            [
+                17,
+                "He\u2019s not gonna make it."
+            ],
+            [
+                19,
+                "You know, deep-sea divers holding their breath for several minutes have shown elevated markers of a protein that can signal brain damage."
+            ],
+            [
+                22,
+                "It\u2019s slowing down."
+            ],
+            [
+                24,
+                "He\u2019s not gonna make it."
+            ],
+            [
+                47,
+                "Oh, I won\u2019t. I only eat equilateral triangles. Isosceles, isosceles, oh, scalene. You didn\u2019t see that."
+            ],
+            [
+                49,
+                "Why?"
+            ],
+            [
+                51,
+                "I have multiple restraining orders that say otherwise."
+            ],
+            [
+                53,
+                "If the judge couldn\u2019t explain it to me, I don\u2019t see how you will."
+            ],
+            [
+                55,
+                "Hello."
+            ],
+            [
+                63,
+                "Well, have a lovely evening."
+            ],
+            [
+                65,
+                "If you think that\u2019s more fun than talking to Zachary Quinto through a stall door, you\u2019re crazy."
+            ],
+            [
+                92,
+                "MSN Search, AltaVista, and Ask Jeeves. You?"
+            ],
+            [
+                98,
+                "Bert, I insist that you join us."
+            ],
+            [
+                100,
+                "Not at all. Amy?"
+            ],
+            [
+                104,
+                "Well, I could deduce by his facial expression and body language that he was sad."
+            ],
+            [
+                106,
+                "You want me to look at him and listen to him?"
+            ],
+            [
+                122,
+                "Actually, we met online."
+            ],
+            [
+                124,
+                "Although, unlike your date, she actually showed up. Oh, he looks sad again."
+            ],
+            [
+                129,
+                "No. No, I only told Leonard, Howard, Raj, Kripke, uh, Professor Wu, Professor Klein, and a lunch lady in the cafeteria. How everyone else found out is a mystery to me."
+            ],
+            [
+                131,
+                "Why aren\u2019t you talking to me?"
+            ],
+            [
+                133,
+                "Oh. Well, now I\u2019m sorry I asked."
+            ],
+            [
+                135,
+                "What is there to gossip about? We barely have one."
+            ],
+            [
+                137,
+                "Is it safe to assume you\u2019re not speaking to me again? If you\u2019re not answering because you\u2019re not speaking to me, perhaps we could come up with a signal. That works."
+            ],
+            [
+                158,
+                "Well, wait. This is our first fight as a couple who live together."
+            ],
+            [
+                160,
+                "I\u2019m not sure of the protocol. Television teaches us that the man\u2019s supposed to sleep on the couch, but of the two of us, you\u2019re clearly more sofa-sized."
+            ],
+            [
+                162,
+                "This isn\u2019t fair. You\u2019ve discussed aspects of our physical relationship with Penny."
+            ],
+            [
+                164,
+                "That lady has a name. I don\u2019t know what it is, but one time I accidentally called her mom."
+            ],
+            [
+                184,
+                "(Knock, knock, knock) Amy? (Knock, knock, knock) Amy? (Knock, knock, knock) Amy?"
+            ],
+            [
+                186,
+                "Not exactly the welcome wagon, but I\u2019ll take it."
+            ],
+            [
+                188,
+                "I\u2019m mapping basic topics of conversation and with whom they can be discussed. I call these circles zones of privacy. Don\u2019t Google that unless you want to see pictures of people\u2019s genitals. This circle contains only me and you. It represents subjects we only share with each other, details of physical intimacy, bathroom habits. Although, as I\u2019m saying it, I may need to add Dr. Fink in here."
+            ],
+            [
+                190,
+                "No, I was just excited to list him as a friend."
+            ],
+            [
+                192,
+                "I\u2019m sorry you were embarrassed. And now I understand that some things are just between you and me, and in the event of redness and swelling, Dr. Fink."
+            ],
+            [
+                194,
+                "That\u2019s reserved for thoughts I don\u2019t share with anyone."
+            ],
+            [
+                196,
+                "Of course. "
+            ],
+            [
+                198,
+                "No, they\u2019re private."
+            ],
+            [
+                200,
+                "A little."
+            ],
+            [
+                202,
+                "Fine. Two years ago I got my driver\u2019s license."
+            ],
+            [
+                204,
+                "I like being chauffeured around. It makes me feel important."
+            ],
+            [
+                206,
+                "No, you didn\u2019t. But keep in mind, I felt extremely important."
+            ],
+            [
+                223,
+                "Excuse me. May I have your attention, please? I have recently been made aware that my personal relationship with Amy Farrah Fowler has become water cooler gossip. And I just want to say, shame on all of you. We\u2019re scientists. Our minds should be focused on the advancement of human knowledge, not the intimate details of other people\u2019s lives."
+            ],
+            [
+                225,
+                "Thank you, Bert. You\u2019re a good man. That woman who stood you up and humiliated you last night really missed out."
+            ],
+            [
+                227,
+                "Oh. Oh, I\u2019m sorry. Correction, that woman not only had vigorous coitus with Bert, she also tipped him a dollar for a job well done. \u2013 That better?"
+            ],
+            [
+                229,
+                "All right, well, to sum up, focus on science, keep your nose out of other people\u2019s business, and, uh, whoa, for a good time, call Bert."
+            ],
+            [
+                231,
+                "Well, last night Amy was angry with me because I\u2019d been foolishly telling people about certain personal matters."
+            ],
+            [
+                233,
+                "Oh, I know that now. At first, I thought she was cranky because of her horrific menstrual cramps, but it turns out, no, she was genuinely mortified."
+            ]
+        ],
+        "Penny": [
+            [
+                4,
+                "What is happening?"
+            ],
+            [
+                6,
+                "Aw, look at you watching sports."
+            ],
+            [
+                10,
+                "Okay, I want in. Ten bucks says I\u2019ll lose interest before that thing stops spinning."
+            ],
+            [
+                20,
+                "Yeah, see, what\u2019s happening here signals brain damage. My God, how long does this thing spin for?"
+            ],
+            [
+                67,
+                "You know, we could\u2019ve come to you guys. You didn\u2019t have to bring the baby here."
+            ],
+            [
+                71,
+                "Yeah, until someone left him in the drugstore parking lot and he freaked out."
+            ],
+            [
+                75,
+                "Oh, someone\u2019s been shopping at Gucci."
+            ],
+            [
+                80,
+                "That must\u2019ve been expensive."
+            ],
+            [
+                83,
+                "And if you really want to hurt him, I look great in Chanel."
+            ],
+            [
+                88,
+                "Wait, Leonard, he\u2019s hurting. Let him feel how he feels."
+            ],
+            [
+                90,
+                "Yeah. Shoes, I\u2019m a seven-and-a-half, boots, I\u2019m an eight."
+            ],
+            [
+                111,
+                "All right, how much exactly does he pay for?"
+            ],
+            [
+                115,
+                "Yeah, women do like a man that can support himself."
+            ],
+            [
+                142,
+                "All right, hang on. We can figure this out. Let\u2019s just go over your expenses. How much is your rent?"
+            ],
+            [
+                146,
+                "You don\u2019t how much your rent is?"
+            ],
+            [
+                148,
+                "Yeah."
+            ],
+            [
+                168,
+                "Well, sometimes you can get free food and Wi-Fi from the neighbours. Just know you might have to marry one of \u2019em."
+            ],
+            [
+                179,
+                "Raj, if you need a place to stay, of course you are welcome here."
+            ],
+            [
+                181,
+                "Okay, only if you\u2019re sure. Whew."
+            ]
+        ],
+        "Amy": [
+            [
+                11,
+                "Hey, Sheldon, I found a great restaurant for date night."
+            ],
+            [
+                13,
+                "Oh, an Euler\u2019s Disk, fun."
+            ],
+            [
+                15,
+                "Oh. Immature."
+            ],
+            [
+                46,
+                "The food here\u2019s supposed to be great. Don\u2019t fill up on chips."
+            ],
+            [
+                48,
+                "Oh, look. It\u2019s Bert, at the bar. We should go say hi."
+            ],
+            [
+                50,
+                "Because that\u2019s what you do when you see someone you know in a public place."
+            ],
+            [
+                52,
+                "Sheldon, there\u2019s a difference between greeting a friend and following a celebrity into a bathroom."
+            ],
+            [
+                54,
+                "Hi, Bert."
+            ],
+            [
+                57,
+                "Oh, we\u2019re having date night."
+            ],
+            [
+                59,
+                "Oh, really. Anybody we know?"
+            ],
+            [
+                61,
+                "That\u2019s a real thing?"
+            ],
+            [
+                93,
+                "Sorry, I don\u2019t have a list of defunct search engines that I miss."
+            ],
+            [
+                95,
+                "Oh, no. Are you sure you don\u2019t want to give her a few more minutes?"
+            ],
+            [
+                97,
+                "I\u2019m so sorry."
+            ],
+            [
+                101,
+                "Fine with me."
+            ],
+            [
+                103,
+                "Sheldon, that was so sweet of you."
+            ],
+            [
+                105,
+                "So the part where he got stood up didn\u2019t clue you in?"
+            ],
+            [
+                120,
+                "Okay, literally any other topic."
+            ],
+            [
+                123,
+                "Our-our first date was at a coffee shop."
+            ],
+            [
+                126,
+                "You-you know about that?"
+            ],
+            [
+                128,
+                "Were you aware of this?"
+            ],
+            [
+                132,
+                "Because I\u2019m mad at you."
+            ],
+            [
+                134,
+                "Sheldon, it\u2019s humiliating. Thanks to you, my colleagues are gossiping about our sex life."
+            ],
+            [
+                136,
+                "That\u2019s why they\u2019re doing it."
+            ],
+            [
+                157,
+                "I\u2019m going to bed."
+            ],
+            [
+                159,
+                "So?"
+            ],
+            [
+                161,
+                "I\u2019m not sleeping on the couch because you don\u2019t know what\u2019s private and what\u2019s not."
+            ],
+            [
+                163,
+                "That\u2019s different. She\u2019s a close friend, not the lady in the cafeteria who cuts the crust off your sandwiches."
+            ],
+            [
+                185,
+                "Yeah?"
+            ],
+            [
+                187,
+                "What is this?"
+            ],
+            [
+                189,
+                "Are you really worried about revealing secrets to Stephen Hawking?"
+            ],
+            [
+                191,
+                "Well, I do appreciate you working on this."
+            ],
+            [
+                193,
+                "What\u2019s that little dot in the middle?"
+            ],
+            [
+                195,
+                "Interesting. You really have secrets you don\u2019t tell me?"
+            ],
+            [
+                197,
+                "Can I hear one?"
+            ],
+            [
+                199,
+                "Why? Are they naughty?"
+            ],
+            [
+                201,
+                "Please?"
+            ],
+            [
+                203,
+                "What? Why didn\u2019t you say anything?"
+            ],
+            [
+                205,
+                "So when I got up at 4am. to drive you across the desert to an antique train museum, I didn\u2019t have to?"
+            ]
+        ],
+        "Raj": [
+            [
+                27,
+                "And j, and just so you know, my favourite movie is Princess Bride."
+            ],
+            [
+                31,
+                "Good, good. Uh, listen, I just wanted to let you know when you get my credit card bill, it might be a little high this month."
+            ],
+            [
+                33,
+                "Oh, Daddy, you\u2019re so rich and funny."
+            ],
+            [
+                35,
+                "Uh, well, I was dating a woman at the university, but we broke up."
+            ],
+            [
+                37,
+                "I know you are. That\u2019s why you just bought me a new iPad. And before you start, I am not interested in you arranging a marriage for me."
+            ],
+            [
+                39,
+                "You did?"
+            ],
+            [
+                41,
+                "What are you saying, that you\u2019re giving up on me? What kind of father gives up on his son?"
+            ],
+            [
+                43,
+                "I can\u2019t believe what I\u2019m hearing. This is deeply hurtful."
+            ],
+            [
+                73,
+                "Hello."
+            ],
+            [
+                76,
+                "Yeah, I saw something for Halley and I couldn\u2019t resist."
+            ],
+            [
+                78,
+                "Yeah, it\u2019s a crushed velvet baby cape."
+            ],
+            [
+                81,
+                "Yeah, it was. But it\u2019s my father\u2019s money and I\u2019m mad at him."
+            ],
+            [
+                84,
+                "It turns out he doesn\u2019t care if I\u2019m married or if I\u2019m single. He\u2019s basically given up on me."
+            ],
+            [
+                86,
+                "It is. He stopped trying to find Indian girls for me to marry. "
+            ],
+            [
+                89,
+                "Thank you, Penny."
+            ],
+            [
+                108,
+                "My father thinks the reason I can\u2019t make a relationship work is because I\u2019m spoiled."
+            ],
+            [
+                110,
+                "Just because he helps me out doesn\u2019t automatically mean that I\u2019m spoiled."
+            ],
+            [
+                112,
+                "Okay, I\u2019ll tell you, but please don\u2019t judge me. He pays for my car, my rent, and my credit cards."
+            ],
+            [
+                116,
+                "But Bernadette makes more money than Howard. She basically supports him."
+            ],
+            [
+                141,
+                "Oh, please. Look in the mirror. You both look ten years older than I do."
+            ],
+            [
+                143,
+                "I don\u2019t want to say."
+            ],
+            [
+                145,
+                "I don\u2019t want to say because I don\u2019t know how much it is."
+            ],
+            [
+                147,
+                "My father pays for it. Do you know how much your rent is?"
+            ],
+            [
+                149,
+                "Well, then double it, because my building\u2019s a lot nicer than this dump."
+            ],
+            [
+                151,
+                "Not really."
+            ],
+            [
+                153,
+                "The housekeeper does the shopping."
+            ],
+            [
+                155,
+                "I\u2019m spoiled? Your baby has a cape that costs $300."
+            ],
+            [
+                171,
+                "I thought we were best friends?"
+            ],
+            [
+                176,
+                "Guys, I\u2019m not living in a garage."
+            ],
+            [
+                180,
+                "Thank you, but if I\u2019m gonna just take advantage of my friends, I might as well keep on relying on my father."
+            ],
+            [
+                209,
+                "Hello, Father. We need to talk."
+            ],
+            [
+                211,
+                "I have come to an important decision. I will not be accepting your money any more. I\u2019m a man, and I can take care of myself."
+            ],
+            [
+                213,
+                "Yes, that is wonderful. You will no longer be able to accuse me of being spoiled."
+            ],
+            [
+                215,
+                "Dad, I\u2019m trying to tell you off, and you\u2019re ruining it with your delight and relief."
+            ],
+            [
+                217,
+                "Yeah, that\u2019s right. Keep asking yourself that. But I still love you very much, so don\u2019t cut me out of the will."
+            ],
+            [
+                220,
+                "Yeah, I\u2019m making a bunch of changes. This morning, I fired my dog walker."
+            ],
+            [
+                222,
+                "Uh, I gave her an Imodium. That\u2019s tomorrow\u2019s problem."
+            ]
+        ],
+        "Dr Koothrapalli (on skype)": [
+            [
+                30,
+                "Hello, Rajesh. How are things by you?"
+            ],
+            [
+                208,
+                "What? "
+            ]
+        ],
+        "Dr Koothrapalli": [
+            [
+                32,
+                "Well, you\u2019re a grown man with a steady job. Why wouldn\u2019t you spend all your father\u2019s money?"
+            ],
+            [
+                34,
+                "Yeah. So what else is going on with your life?"
+            ],
+            [
+                36,
+                "I\u2019m sorry to hear that."
+            ],
+            [
+                38,
+                "Oh, I gave up on that a long time ago."
+            ],
+            [
+                40,
+                "It\u2019s too much work. You\u2019re an adult who can\u2019t get by without an allowance from his parents. Women don\u2019t want that."
+            ],
+            [
+                42,
+                "I have six children, five of whom are married and self-sufficient. I don\u2019t think I\u2019m the problem."
+            ],
+            [
+                44,
+                "You\u2019re also too sensitive. Women don\u2019t want that either."
+            ],
+            [
+                210,
+                "All right."
+            ],
+            [
+                212,
+                "That\u2019s wonderful."
+            ],
+            [
+                214,
+                "I am so proud of you."
+            ],
+            [
+                216,
+                "Sorry. Oh, no, my grown son is going to stop spending all my money. Where did I fail as a father?"
+            ]
+        ],
+        "Bert": [
+            [
+                56,
+                "Oh, hey, guys. What brings you here?"
+            ],
+            [
+                58,
+                "Nice. I\u2019m meeting someone, too."
+            ],
+            [
+                60,
+                "I doubt it. I met her on G-Harmony. That\u2019s a Web site for geologists to find love."
+            ],
+            [
+                62,
+                "Yeah. Their slogan is we\u2019re all about dating and not the carbon-14 kind."
+            ],
+            [
+                64,
+                "Thanks. You, too."
+            ],
+            [
+                94,
+                "Hey. Looks like I got stood up, so I\u2019m gonna head out."
+            ],
+            [
+                96,
+                "Nah, G-Harmony recommends after two hours, it\u2019s time to cut bait."
+            ],
+            [
+                99,
+                "You really wouldn\u2019t mind?"
+            ],
+            [
+                102,
+                "Thanks. I\u2019ll go grab a chair."
+            ],
+            [
+                119,
+                "Good question. Let\u2019s see. Infoseek, WebCrawler, oh, HotBot."
+            ],
+            [
+                121,
+                "All right. How did you guys meet?"
+            ],
+            [
+                125,
+                "Well, I really envy your relationship. Other than you two only having sex once a year, you\u2019re the perfect couple."
+            ],
+            [
+                127,
+                "Uh, yeah, everyone at the university does."
+            ],
+            [
+                224,
+                "He\u2019s right. And I\u2019m sorry for the part I played in this."
+            ],
+            [
+                226,
+                "That doesn\u2019t paint me in the best light."
+            ],
+            [
+                228,
+                "Not really."
+            ]
+        ],
+        "Bernadette": [
+            [
+                68,
+                "Oh, it\u2019s okay. It\u2019s good to get out of the house."
+            ],
+            [
+                77,
+                "That\u2019s so sweet of you."
+            ],
+            [
+                85,
+                "Oh, I\u2019m sure that\u2019s not true."
+            ],
+            [
+                117,
+                "Yeah, maybe your dad\u2019s right."
+            ],
+            [
+                144,
+                "Is it really that high?"
+            ],
+            [
+                154,
+                "Oh, my God, you really are spoiled."
+            ],
+            [
+                167,
+                "When you moved here, you didn\u2019t have a lot of money. How\u2019d you get by?"
+            ],
+            [
+                173,
+                "I\u2019m sorry, Raj. We really just don\u2019t have the space."
+            ],
+            [
+                175,
+                "What if you stop helping?"
+            ],
+            [
+                178,
+                "That\u2019s a great idea."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Howard",
+            "Go. Come on, Raj."
+        ],
+        [
+            "Leonard",
+            "You can do this."
+        ],
+        [
+            "Sheldon",
+            "There\u2019s no way."
+        ],
+        [
+            "Penny",
+            "What is happening?"
+        ],
+        [
+            "Leonard",
+            "This is an Euler\u2019s Disk. It\u2019s a physics toy that demonstrates angular momentum, potential energy, and kinetic energy."
+        ],
+        [
+            "Penny",
+            "Aw, look at you watching sports."
+        ],
+        [
+            "Howard",
+            "We\u2019re betting to see if Koothrappali can hold his breath longer than the disk can spin."
+        ],
+        [
+            "Sheldon",
+            "Its weight and smoothness, along with the slight concavity of the mirror, means it can spin for a long time."
+        ],
+        [
+            "Leonard",
+            "But Raj is from India, which means he\u2019s no slouch at holding his breath."
+        ],
+        [
+            "Penny",
+            "Okay, I want in. Ten bucks says I\u2019ll lose interest before that thing stops spinning."
+        ],
+        [
+            "Amy",
+            "Hey, Sheldon, I found a great restaurant for date night."
+        ],
+        [
+            "Sheldon",
+            "Kind of busy right now."
+        ],
+        [
+            "Amy",
+            "Oh, an Euler\u2019s Disk, fun."
+        ],
+        [
+            "Howard",
+            "Yeah, we\u2019re seeing if Raj can hold his breath longer than it."
+        ],
+        [
+            "Amy",
+            "Oh. Immature."
+        ],
+        [
+            "Leonard",
+            "How ya doing?"
+        ],
+        [
+            "Sheldon",
+            "He\u2019s not gonna make it."
+        ],
+        [
+            "Howard",
+            "Yes, he is."
+        ],
+        [
+            "Sheldon",
+            "You know, deep-sea divers holding their breath for several minutes have shown elevated markers of a protein that can signal brain damage."
+        ],
+        [
+            "Penny",
+            "Yeah, see, what\u2019s happening here signals brain damage. My God, how long does this thing spin for?"
+        ],
+        [
+            "Howard",
+            "Ha, you\u2019re interested. You\u2019re out ten bucks."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s slowing down."
+        ],
+        [
+            "Leonard",
+            "Dig deep, like when we bet you couldn\u2019t fit into Howard\u2019s pants."
+        ],
+        [
+            "Sheldon",
+            "He\u2019s not gonna make it."
+        ],
+        [
+            "Leonard",
+            "Yes, he is."
+        ],
+        [
+            "Howard",
+            "Come on, Raj, it\u2019s like your favourite movie, you\u2019re just Waiting to Exhale. Yeah, I knew you could do it."
+        ],
+        [
+            "Raj",
+            "And j, and just so you know, my favourite movie is Princess Bride."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s office."
+        ],
+        [
+            "Dr Koothrapalli (on skype)",
+            "Hello, Rajesh. How are things by you?"
+        ],
+        [
+            "Raj",
+            "Good, good. Uh, listen, I just wanted to let you know when you get my credit card bill, it might be a little high this month."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Well, you\u2019re a grown man with a steady job. Why wouldn\u2019t you spend all your father\u2019s money?"
+        ],
+        [
+            "Raj",
+            "Oh, Daddy, you\u2019re so rich and funny."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Yeah. So what else is going on with your life?"
+        ],
+        [
+            "Raj",
+            "Uh, well, I was dating a woman at the university, but we broke up."
+        ],
+        [
+            "Dr Koothrapalli",
+            "I\u2019m sorry to hear that."
+        ],
+        [
+            "Raj",
+            "I know you are. That\u2019s why you just bought me a new iPad. And before you start, I am not interested in you arranging a marriage for me."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Oh, I gave up on that a long time ago."
+        ],
+        [
+            "Raj",
+            "You did?"
+        ],
+        [
+            "Dr Koothrapalli",
+            "It\u2019s too much work. You\u2019re an adult who can\u2019t get by without an allowance from his parents. Women don\u2019t want that."
+        ],
+        [
+            "Raj",
+            "What are you saying, that you\u2019re giving up on me? What kind of father gives up on his son?"
+        ],
+        [
+            "Dr Koothrapalli",
+            "I have six children, five of whom are married and self-sufficient. I don\u2019t think I\u2019m the problem."
+        ],
+        [
+            "Raj",
+            "I can\u2019t believe what I\u2019m hearing. This is deeply hurtful."
+        ],
+        [
+            "Dr Koothrapalli",
+            "You\u2019re also too sensitive. Women don\u2019t want that either."
+        ],
+        [
+            "Scene",
+            "A restaurant. "
+        ],
+        [
+            "Amy",
+            "The food here\u2019s supposed to be great. Don\u2019t fill up on chips."
+        ],
+        [
+            "Sheldon",
+            "Oh, I won\u2019t. I only eat equilateral triangles. Isosceles, isosceles, oh, scalene. You didn\u2019t see that."
+        ],
+        [
+            "Amy",
+            "Oh, look. It\u2019s Bert, at the bar. We should go say hi."
+        ],
+        [
+            "Sheldon",
+            "Why?"
+        ],
+        [
+            "Amy",
+            "Because that\u2019s what you do when you see someone you know in a public place."
+        ],
+        [
+            "Sheldon",
+            "I have multiple restraining orders that say otherwise."
+        ],
+        [
+            "Amy",
+            "Sheldon, there\u2019s a difference between greeting a friend and following a celebrity into a bathroom."
+        ],
+        [
+            "Sheldon",
+            "If the judge couldn\u2019t explain it to me, I don\u2019t see how you will."
+        ],
+        [
+            "Amy",
+            "Hi, Bert."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Bert",
+            "Oh, hey, guys. What brings you here?"
+        ],
+        [
+            "Amy",
+            "Oh, we\u2019re having date night."
+        ],
+        [
+            "Bert",
+            "Nice. I\u2019m meeting someone, too."
+        ],
+        [
+            "Amy",
+            "Oh, really. Anybody we know?"
+        ],
+        [
+            "Bert",
+            "I doubt it. I met her on G-Harmony. That\u2019s a Web site for geologists to find love."
+        ],
+        [
+            "Amy",
+            "That\u2019s a real thing?"
+        ],
+        [
+            "Bert",
+            "Yeah. Their slogan is we\u2019re all about dating and not the carbon-14 kind."
+        ],
+        [
+            "Sheldon",
+            "Well, have a lovely evening."
+        ],
+        [
+            "Bert",
+            "Thanks. You, too."
+        ],
+        [
+            "Sheldon",
+            "If you think that\u2019s more fun than talking to Zachary Quinto through a stall door, you\u2019re crazy."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "You know, we could\u2019ve come to you guys. You didn\u2019t have to bring the baby here."
+        ],
+        [
+            "Bernadette",
+            "Oh, it\u2019s okay. It\u2019s good to get out of the house."
+        ],
+        [
+            "Howard",
+            "And the car ride puts her to sleep."
+        ],
+        [
+            "Leonard",
+            "Aw, that used to work with Sheldon."
+        ],
+        [
+            "Penny",
+            "Yeah, until someone left him in the drugstore parking lot and he freaked out."
+        ],
+        [
+            "Leonard",
+            "Who forgot to crack the window?"
+        ],
+        [
+            "Raj",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Penny",
+            "Oh, someone\u2019s been shopping at Gucci."
+        ],
+        [
+            "Raj",
+            "Yeah, I saw something for Halley and I couldn\u2019t resist."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s so sweet of you."
+        ],
+        [
+            "Raj",
+            "Yeah, it\u2019s a crushed velvet baby cape."
+        ],
+        [
+            "Howard",
+            "Oh, no, now we have two."
+        ],
+        [
+            "Penny",
+            "That must\u2019ve been expensive."
+        ],
+        [
+            "Raj",
+            "Yeah, it was. But it\u2019s my father\u2019s money and I\u2019m mad at him."
+        ],
+        [
+            "Leonard",
+            "What\u2019s going on with your dad?"
+        ],
+        [
+            "Penny",
+            "And if you really want to hurt him, I look great in Chanel."
+        ],
+        [
+            "Raj",
+            "It turns out he doesn\u2019t care if I\u2019m married or if I\u2019m single. He\u2019s basically given up on me."
+        ],
+        [
+            "Bernadette",
+            "Oh, I\u2019m sure that\u2019s not true."
+        ],
+        [
+            "Raj",
+            "It is. He stopped trying to find Indian girls for me to marry. "
+        ],
+        [
+            "Leonard",
+            "But all you did was complain when he did that."
+        ],
+        [
+            "Penny",
+            "Wait, Leonard, he\u2019s hurting. Let him feel how he feels."
+        ],
+        [
+            "Raj",
+            "Thank you, Penny."
+        ],
+        [
+            "Penny",
+            "Yeah. Shoes, I\u2019m a seven-and-a-half, boots, I\u2019m an eight."
+        ],
+        [
+            "Scene",
+            "The restaurant."
+        ],
+        [
+            "Sheldon",
+            "MSN Search, AltaVista, and Ask Jeeves. You?"
+        ],
+        [
+            "Amy",
+            "Sorry, I don\u2019t have a list of defunct search engines that I miss."
+        ],
+        [
+            "Bert",
+            "Hey. Looks like I got stood up, so I\u2019m gonna head out."
+        ],
+        [
+            "Amy",
+            "Oh, no. Are you sure you don\u2019t want to give her a few more minutes?"
+        ],
+        [
+            "Bert",
+            "Nah, G-Harmony recommends after two hours, it\u2019s time to cut bait."
+        ],
+        [
+            "Amy",
+            "I\u2019m so sorry."
+        ],
+        [
+            "Sheldon",
+            "Bert, I insist that you join us."
+        ],
+        [
+            "Bert",
+            "You really wouldn\u2019t mind?"
+        ],
+        [
+            "Sheldon",
+            "Not at all. Amy?"
+        ],
+        [
+            "Amy",
+            "Fine with me."
+        ],
+        [
+            "Bert",
+            "Thanks. I\u2019ll go grab a chair."
+        ],
+        [
+            "Amy",
+            "Sheldon, that was so sweet of you."
+        ],
+        [
+            "Sheldon",
+            "Well, I could deduce by his facial expression and body language that he was sad."
+        ],
+        [
+            "Amy",
+            "So the part where he got stood up didn\u2019t clue you in?"
+        ],
+        [
+            "Sheldon",
+            "You want me to look at him and listen to him?"
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "My father thinks the reason I can\u2019t make a relationship work is because I\u2019m spoiled."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, is he waiting for someone to disagree?"
+        ],
+        [
+            "Raj",
+            "Just because he helps me out doesn\u2019t automatically mean that I\u2019m spoiled."
+        ],
+        [
+            "Penny",
+            "All right, how much exactly does he pay for?"
+        ],
+        [
+            "Raj",
+            "Okay, I\u2019ll tell you, but please don\u2019t judge me. He pays for my car, my rent, and my credit cards."
+        ],
+        [
+            "Leonard",
+            "I\u2019m trying, but I\u2019m judging."
+        ],
+        [
+            "Howard",
+            "Maybe your dad\u2019s right."
+        ],
+        [
+            "Penny",
+            "Yeah, women do like a man that can support himself."
+        ],
+        [
+            "Raj",
+            "But Bernadette makes more money than Howard. She basically supports him."
+        ],
+        [
+            "Bernadette",
+            "Yeah, maybe your dad\u2019s right."
+        ],
+        [
+            "Scene",
+            "The restaurant. "
+        ],
+        [
+            "Bert",
+            "Good question. Let\u2019s see. Infoseek, WebCrawler, oh, HotBot."
+        ],
+        [
+            "Amy",
+            "Okay, literally any other topic."
+        ],
+        [
+            "Bert",
+            "All right. How did you guys meet?"
+        ],
+        [
+            "Sheldon",
+            "Actually, we met online."
+        ],
+        [
+            "Amy",
+            "Our-our first date was at a coffee shop."
+        ],
+        [
+            "Sheldon",
+            "Although, unlike your date, she actually showed up. Oh, he looks sad again."
+        ],
+        [
+            "Bert",
+            "Well, I really envy your relationship. Other than you two only having sex once a year, you\u2019re the perfect couple."
+        ],
+        [
+            "Amy",
+            "You-you know about that?"
+        ],
+        [
+            "Bert",
+            "Uh, yeah, everyone at the university does."
+        ],
+        [
+            "Amy",
+            "Were you aware of this?"
+        ],
+        [
+            "Sheldon",
+            "No. No, I only told Leonard, Howard, Raj, Kripke, uh, Professor Wu, Professor Klein, and a lunch lady in the cafeteria. How everyone else found out is a mystery to me."
+        ],
+        [
+            "Scene",
+            "The stairwell. "
+        ],
+        [
+            "Sheldon",
+            "Why aren\u2019t you talking to me?"
+        ],
+        [
+            "Amy",
+            "Because I\u2019m mad at you."
+        ],
+        [
+            "Sheldon",
+            "Oh. Well, now I\u2019m sorry I asked."
+        ],
+        [
+            "Amy",
+            "Sheldon, it\u2019s humiliating. Thanks to you, my colleagues are gossiping about our sex life."
+        ],
+        [
+            "Sheldon",
+            "What is there to gossip about? We barely have one."
+        ],
+        [
+            "Amy",
+            "That\u2019s why they\u2019re doing it."
+        ],
+        [
+            "Sheldon",
+            "Is it safe to assume you\u2019re not speaking to me again? If you\u2019re not answering because you\u2019re not speaking to me, perhaps we could come up with a signal. That works."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Howard",
+            "You don\u2019t need your dad\u2019s money. You can get by on your salary."
+        ],
+        [
+            "Leonard",
+            "Yeah. Well, we work at the same place as you, and we\u2019ve always been fine."
+        ],
+        [
+            "Raj",
+            "Oh, please. Look in the mirror. You both look ten years older than I do."
+        ],
+        [
+            "Penny",
+            "All right, hang on. We can figure this out. Let\u2019s just go over your expenses. How much is your rent?"
+        ],
+        [
+            "Raj",
+            "I don\u2019t want to say."
+        ],
+        [
+            "Bernadette",
+            "Is it really that high?"
+        ],
+        [
+            "Raj",
+            "I don\u2019t want to say because I don\u2019t know how much it is."
+        ],
+        [
+            "Penny",
+            "You don\u2019t how much your rent is?"
+        ],
+        [
+            "Raj",
+            "My father pays for it. Do you know how much your rent is?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Raj",
+            "Well, then double it, because my building\u2019s a lot nicer than this dump."
+        ],
+        [
+            "Leonard",
+            "Do you know how much your car costs?"
+        ],
+        [
+            "Raj",
+            "Not really."
+        ],
+        [
+            "Howard",
+            "Well, how much do you spend on food?"
+        ],
+        [
+            "Raj",
+            "The housekeeper does the shopping."
+        ],
+        [
+            "Bernadette",
+            "Oh, my God, you really are spoiled."
+        ],
+        [
+            "Raj",
+            "I\u2019m spoiled? Your baby has a cape that costs $300."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "I\u2019m going to bed."
+        ],
+        [
+            "Sheldon",
+            "Well, wait. This is our first fight as a couple who live together."
+        ],
+        [
+            "Amy",
+            "So?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not sure of the protocol. Television teaches us that the man\u2019s supposed to sleep on the couch, but of the two of us, you\u2019re clearly more sofa-sized."
+        ],
+        [
+            "Amy",
+            "I\u2019m not sleeping on the couch because you don\u2019t know what\u2019s private and what\u2019s not."
+        ],
+        [
+            "Sheldon",
+            "This isn\u2019t fair. You\u2019ve discussed aspects of our physical relationship with Penny."
+        ],
+        [
+            "Amy",
+            "That\u2019s different. She\u2019s a close friend, not the lady in the cafeteria who cuts the crust off your sandwiches."
+        ],
+        [
+            "Sheldon",
+            "That lady has a name. I don\u2019t know what it is, but one time I accidentally called her mom."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Sounds like you\u2019re gonna need a cheaper place to live."
+        ],
+        [
+            "Bernadette",
+            "When you moved here, you didn\u2019t have a lot of money. How\u2019d you get by?"
+        ],
+        [
+            "Penny",
+            "Well, sometimes you can get free food and Wi-Fi from the neighbours. Just know you might have to marry one of \u2019em."
+        ],
+        [
+            "Leonard",
+            "Hey, you guys let Stuart live with you. Why not Raj, too?"
+        ],
+        [
+            "Howard",
+            "What, what are you doing? I, I, I schlepped the baby over, I brought imported beer. Why don\u2019t you like me?"
+        ],
+        [
+            "Raj",
+            "I thought we were best friends?"
+        ],
+        [
+            "Howard",
+            "We are, that\u2019s why I\u2019m sad my best friend\u2019s gonna be homeless."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m sorry, Raj. We really just don\u2019t have the space."
+        ],
+        [
+            "Leonard",
+            "What if he lives in your garage?"
+        ],
+        [
+            "Bernadette",
+            "What if you stop helping?"
+        ],
+        [
+            "Raj",
+            "Guys, I\u2019m not living in a garage."
+        ],
+        [
+            "Howard",
+            "Wait. Why are we talking about our place when Sheldon\u2019s old room is sitting there perfectly empty?"
+        ],
+        [
+            "Bernadette",
+            "That\u2019s a great idea."
+        ],
+        [
+            "Penny",
+            "Raj, if you need a place to stay, of course you are welcome here."
+        ],
+        [
+            "Raj",
+            "Thank you, but if I\u2019m gonna just take advantage of my friends, I might as well keep on relying on my father."
+        ],
+        [
+            "Penny",
+            "Okay, only if you\u2019re sure. Whew."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s bedroom."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Amy? (Knock, knock, knock) Amy? (Knock, knock, knock) Amy?"
+        ],
+        [
+            "Amy",
+            "Yeah?"
+        ],
+        [
+            "Sheldon",
+            "Not exactly the welcome wagon, but I\u2019ll take it."
+        ],
+        [
+            "Amy",
+            "What is this?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m mapping basic topics of conversation and with whom they can be discussed. I call these circles zones of privacy. Don\u2019t Google that unless you want to see pictures of people\u2019s genitals. This circle contains only me and you. It represents subjects we only share with each other, details of physical intimacy, bathroom habits. Although, as I\u2019m saying it, I may need to add Dr. Fink in here."
+        ],
+        [
+            "Amy",
+            "Are you really worried about revealing secrets to Stephen Hawking?"
+        ],
+        [
+            "Sheldon",
+            "No, I was just excited to list him as a friend."
+        ],
+        [
+            "Amy",
+            "Well, I do appreciate you working on this."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry you were embarrassed. And now I understand that some things are just between you and me, and in the event of redness and swelling, Dr. Fink."
+        ],
+        [
+            "Amy",
+            "What\u2019s that little dot in the middle?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s reserved for thoughts I don\u2019t share with anyone."
+        ],
+        [
+            "Amy",
+            "Interesting. You really have secrets you don\u2019t tell me?"
+        ],
+        [
+            "Sheldon",
+            "Of course. "
+        ],
+        [
+            "Amy",
+            "Can I hear one?"
+        ],
+        [
+            "Sheldon",
+            "No, they\u2019re private."
+        ],
+        [
+            "Amy",
+            "Why? Are they naughty?"
+        ],
+        [
+            "Sheldon",
+            "A little."
+        ],
+        [
+            "Amy",
+            "Please?"
+        ],
+        [
+            "Sheldon",
+            "Fine. Two years ago I got my driver\u2019s license."
+        ],
+        [
+            "Amy",
+            "What? Why didn\u2019t you say anything?"
+        ],
+        [
+            "Sheldon",
+            "I like being chauffeured around. It makes me feel important."
+        ],
+        [
+            "Amy",
+            "So when I got up at 4am. to drive you across the desert to an antique train museum, I didn\u2019t have to?"
+        ],
+        [
+            "Sheldon",
+            "No, you didn\u2019t. But keep in mind, I felt extremely important."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s office."
+        ],
+        [
+            "Dr Koothrapalli (on skype)",
+            "What? "
+        ],
+        [
+            "Raj",
+            "Hello, Father. We need to talk."
+        ],
+        [
+            "Dr Koothrapalli",
+            "All right."
+        ],
+        [
+            "Raj",
+            "I have come to an important decision. I will not be accepting your money any more. I\u2019m a man, and I can take care of myself."
+        ],
+        [
+            "Dr Koothrapalli",
+            "That\u2019s wonderful."
+        ],
+        [
+            "Raj",
+            "Yes, that is wonderful. You will no longer be able to accuse me of being spoiled."
+        ],
+        [
+            "Dr Koothrapalli",
+            "I am so proud of you."
+        ],
+        [
+            "Raj",
+            "Dad, I\u2019m trying to tell you off, and you\u2019re ruining it with your delight and relief."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Sorry. Oh, no, my grown son is going to stop spending all my money. Where did I fail as a father?"
+        ],
+        [
+            "Raj",
+            "Yeah, that\u2019s right. Keep asking yourself that. But I still love you very much, so don\u2019t cut me out of the will."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Leonard",
+            "Oh, you brought your own lunch. Good for you."
+        ],
+        [
+            "Raj",
+            "Yeah, I\u2019m making a bunch of changes. This morning, I fired my dog walker."
+        ],
+        [
+            "Howard",
+            "Oh. How\u2019s the dog gonna go to the bathroom?"
+        ],
+        [
+            "Raj",
+            "Uh, I gave her an Imodium. That\u2019s tomorrow\u2019s problem."
+        ],
+        [
+            "Sheldon",
+            "Excuse me. May I have your attention, please? I have recently been made aware that my personal relationship with Amy Farrah Fowler has become water cooler gossip. And I just want to say, shame on all of you. We\u2019re scientists. Our minds should be focused on the advancement of human knowledge, not the intimate details of other people\u2019s lives."
+        ],
+        [
+            "Bert",
+            "He\u2019s right. And I\u2019m sorry for the part I played in this."
+        ],
+        [
+            "Sheldon",
+            "Thank you, Bert. You\u2019re a good man. That woman who stood you up and humiliated you last night really missed out."
+        ],
+        [
+            "Bert",
+            "That doesn\u2019t paint me in the best light."
+        ],
+        [
+            "Sheldon",
+            "Oh. Oh, I\u2019m sorry. Correction, that woman not only had vigorous coitus with Bert, she also tipped him a dollar for a job well done. \u2013 That better?"
+        ],
+        [
+            "Bert",
+            "Not really."
+        ],
+        [
+            "Sheldon",
+            "All right, well, to sum up, focus on science, keep your nose out of other people\u2019s business, and, uh, whoa, for a good time, call Bert."
+        ],
+        [
+            "Leonard",
+            "What brought that on?"
+        ],
+        [
+            "Sheldon",
+            "Well, last night Amy was angry with me because I\u2019d been foolishly telling people about certain personal matters."
+        ],
+        [
+            "Howard",
+            "That\u2019s understandable."
+        ],
+        [
+            "Sheldon",
+            "Oh, I know that now. At first, I thought she was cranky because of her horrific menstrual cramps, but it turns out, no, she was genuinely mortified."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-16-the-allowance-evaporation/"
+}

@@ -1,0 +1,2080 @@
+{
+    "Season": 8,
+    "Episode": 6,
+    "Title": "the expedition approximation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                26,
+                "Credits sequence."
+            ],
+            [
+                27,
+                "Penny\u2019s apartment."
+            ],
+            [
+                59,
+                "Sheldon\u2019s office."
+            ],
+            [
+                80,
+                "Penny\u2019s apartment."
+            ],
+            [
+                105,
+                "The university basement."
+            ],
+            [
+                125,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                149,
+                "The steam tunnel. "
+            ],
+            [
+                164,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                176,
+                "The steam tunnel. "
+            ],
+            [
+                195,
+                "Howard and Bernadette\u2019s apartment. "
+            ],
+            [
+                215,
+                "The steam tunnel. "
+            ],
+            [
+                239,
+                "Penny\u2019s bedroom."
+            ],
+            [
+                242,
+                "Howard and Bernadette\u2019s bedroom."
+            ],
+            [
+                250,
+                "The apartment. "
+            ]
+        ],
+        "Bernadette": [
+            [
+                1,
+                "I like your suit."
+            ],
+            [
+                8,
+                "Speaking of new careers, how are things going with dark matter, Sheldon?"
+            ],
+            [
+                10,
+                "Oh. What\u2019s going on?"
+            ],
+            [
+                21,
+                "Maybe they could ride around in one of those mine carts that go ee-oo-ee-oo-ee-oo."
+            ],
+            [
+                129,
+                "I told you they weren\u2019t gonna ask us to swing with them."
+            ],
+            [
+                134,
+                "Sure, sometimes. I mean, it can be a little awkward since I make so much more money than Howie."
+            ],
+            [
+                136,
+                "Well, I didn\u2019t have to, but for the sake of accuracy I felt that I should."
+            ],
+            [
+                138,
+                "Like what? Your incomplete set of Star Trek collector plates?"
+            ],
+            [
+                140,
+                "Without asking me?"
+            ],
+            [
+                142,
+                "How much, Howie?"
+            ],
+            [
+                144,
+                "How much?"
+            ],
+            [
+                146,
+                "Was it more or less than falconry school?"
+            ],
+            [
+                166,
+                "Well, maybe I would have paid it if I wasn\u2019t also doing everything else around here."
+            ],
+            [
+                171,
+                "That was a pity star. Putting water in the roasting pan and leaving it in the sink is not doing the dishes."
+            ],
+            [
+                173,
+                "Well, don\u2019t come crying to me when you don\u2019t get your allowance."
+            ],
+            [
+                196,
+                "Sorry you guys had to see that."
+            ],
+            [
+                199,
+                "Money\u2019s a sensitive subject for Howie because of the difference in our income."
+            ],
+            [
+                201,
+                "Well, sure. There\u2019s still a lot of pressure on guys to be providers. So even though he\u2019s happy for me, it\u2019s just a little tough on him."
+            ],
+            [
+                206,
+                "I\u2019ll be right back. I\u2019m gonna go check on him."
+            ],
+            [
+                243,
+                "I\u2019m so sorry I made you feel bad about the money stuff."
+            ],
+            [
+                245,
+                "No, it\u2019s not okay. I want us to be partners, equals. Adults in a mature relationship."
+            ],
+            [
+                247,
+                "Now, let\u2019s talk about your birthday party."
+            ],
+            [
+                249,
+                "Oh."
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "Oh, thanks. Got a couple new outfits for work."
+            ],
+            [
+                5,
+                "Yeah. It\u2019s all very professional."
+            ],
+            [
+                7,
+                "Okay, good."
+            ],
+            [
+                15,
+                "Wait, hang on, you guys are gonna work in a mine?"
+            ],
+            [
+                17,
+                "You had a panic attack when we went through the car wash."
+            ],
+            [
+                29,
+                "I\u2019m sorry, I was thinking about work."
+            ],
+            [
+                31,
+                "Yeah, that\u2019s when I started thinking about work. Uh, listen, I\u2019ve got some good news."
+            ],
+            [
+                33,
+                "This is for you."
+            ],
+            [
+                35,
+                "Well, you know how they gave me the company car? Didn\u2019t make sense to have two, so I sold the other one."
+            ],
+            [
+                37,
+                "Yeah. And there\u2019s your money back, and now we\u2019re even. How great is that?"
+            ],
+            [
+                39,
+                "What?"
+            ],
+            [
+                41,
+                "Oh, come on, Leonard, I know the car was a thoughtful gesture and I really appreciate it, but it doesn\u2019t make sense to have both."
+            ],
+            [
+                43,
+                "What should I have done? Taken a picture of us in the car and put it in a pink frame with puffy paint around it that says best fianc\u00e9 ever?"
+            ],
+            [
+                45,
+                "Well, good, because that\u2019s what I did."
+            ],
+            [
+                47,
+                "Well, it\u2019s not that sweet, I paid for the frame with your money and then got a massage."
+            ],
+            [
+                49,
+                "Why?"
+            ],
+            [
+                51,
+                "And I really appreciate it, but now I don\u2019t need it, so here you go."
+            ],
+            [
+                53,
+                "Sweetie, I can buy my own stuff. I have a good job now."
+            ],
+            [
+                55,
+                "Okay, I don\u2019t want this to turn into a fight."
+            ],
+            [
+                57,
+                "Great. Thank you. Can you pass the salt, please?"
+            ],
+            [
+                82,
+                "Hi. Sure."
+            ],
+            [
+                84,
+                "Oh, sweetie, just forget about it."
+            ],
+            [
+                86,
+                "Well, leaving an envelope full of cash on my dresser after sex would count as weird."
+            ],
+            [
+                88,
+                "Mm."
+            ],
+            [
+                90,
+                "You know what, that\u2019s great. I love that."
+            ],
+            [
+                92,
+                "You two want to be alone?"
+            ],
+            [
+                94,
+                "Oh, thank you so much. It feels so good to hear you say that. And I want you to know that I get this job kind of changes the balance in our relationship, and I\u2019m trying to be sensitive to that."
+            ],
+            [
+                96,
+                "Well, I just think that maybe you\u2019re a little hung up on the money because I\u2019m less reliant on you now, and that\u2019s a little scary."
+            ],
+            [
+                98,
+                "Control issues?"
+            ],
+            [
+                100,
+                "Or, maybe now that I\u2019m no longer an out-of-work actress who can\u2019t pay for her own dinner, that makes you a little insecure."
+            ],
+            [
+                102,
+                "You know what? I\u2019m sorry. It\u2019s stupid to fight over money."
+            ],
+            [
+                104,
+                "Ugh, You\u2019re right, who cares? Mm. Get that money out of my back pocket or I will break your fingers."
+            ],
+            [
+                128,
+                "Well, you know, now that we\u2019re engaged, we had some questions about how you handle money as a couple."
+            ],
+            [
+                133,
+                "Well, do you guys ever fight over money?"
+            ],
+            [
+                169,
+                "I see it."
+            ],
+            [
+                197,
+                "Oh, don\u2019t apologize."
+            ],
+            [
+                200,
+                "It really bothers him?"
+            ],
+            [
+                202,
+                "Uh-oh."
+            ],
+            [
+                204,
+                "Well, if I do well in sales, I could end up making a lot more money than you."
+            ],
+            [
+                207,
+                "Maybe it\u2019s a good thing we came here. It\u2019s like a lesson in what not to do."
+            ],
+            [
+                209,
+                "It won\u2019t. Let\u2019s just promise to figure this kind of stuff out before we get married."
+            ],
+            [
+                214,
+                "Hang on. I want to see if he gets the star."
+            ],
+            [
+                240,
+                "Okay, this is definitely the most fun thing we can do with the money."
+            ]
+        ],
+        "Howard": [
+            [
+                3,
+                "How does it feel knowing your fianc\u00e9e\u2019s job is to go out and flirt with doctors, looking like that, while you sit here, you know, looking like this?"
+            ],
+            [
+                20,
+                "If they get scared, they\u2019ll have those hats with the lights on them, \u2019cause down there it\u2019s night-night all the time."
+            ],
+            [
+                127,
+                "Oh, of course. What did you guys want to talk about?"
+            ],
+            [
+                130,
+                "I didn\u2019t think they were going to. I just wanted to have a way to say no without hurting Leonard\u2019s feelings."
+            ],
+            [
+                132,
+                "So what did you want to know?"
+            ],
+            [
+                135,
+                "You didn\u2019t have to say so much more."
+            ],
+            [
+                137,
+                "I brought a lot of significant assets into the relationship, too."
+            ],
+            [
+                139,
+                "For your information, I just bought the last one I needed on eBay."
+            ],
+            [
+                141,
+                "There were only three minutes left in the auction and it was a mint condition Scotty from a smoke-free home."
+            ],
+            [
+                143,
+                "Not a lot."
+            ],
+            [
+                145,
+                "Let\u2019s not talk about this in front of our friends."
+            ],
+            [
+                147,
+                "For the tenth time, that was a Groupon."
+            ],
+            [
+                165,
+                "Talk about wasted money. What about the late fees on our credit card because somebody didn\u2019t pay the bill on time?"
+            ],
+            [
+                167,
+                "Oh, you\u2019re saying I don\u2019t do anything around here. Look at my chore chart."
+            ],
+            [
+                170,
+                "Do the dishes. There\u2019s a star right there."
+            ],
+            [
+                172,
+                "That pan had to soak and you know it."
+            ],
+            [
+                174,
+                "It\u2019s not an allowance. It\u2019s a stipend, and we said we weren\u2019t gonna call it an allowance in front of my friends."
+            ],
+            [
+                244,
+                "It\u2019s okay."
+            ],
+            [
+                246,
+                "I want that, too."
+            ],
+            [
+                248,
+                "Ooh, laser tag, laser tag."
+            ]
+        ],
+        "Leonard": [
+            [
+                4,
+                "She doesn\u2019t flirt with doctors."
+            ],
+            [
+                13,
+                "Yeah, I\u2019ve read about that, they\u2019re sending research teams down into abandoned salt mines."
+            ],
+            [
+                19,
+                "I think what Penny meant is, the thought of you two in a mine is kind of funny, it\u2019s like a cat riding a Roomba."
+            ],
+            [
+                22,
+                "Yeah, it\u2019ll help them get away when they see a g-g-ghost."
+            ],
+            [
+                28,
+                "So, one of my favourite video games of all time is called Shadow of the Colossus, and it was only for PlayStation 2, but then they came out with a new version for PS3 with better graphics. I finally got the chance to play it, and for some reason, it just wasn\u2019t as good as the first one. Or something about yoga."
+            ],
+            [
+                30,
+                "Well, I was just saying that there was this video game\u2026"
+            ],
+            [
+                32,
+                "Hmm."
+            ],
+            [
+                34,
+                "Huh. What is this?"
+            ],
+            [
+                36,
+                "The one I gave you?"
+            ],
+            [
+                38,
+                "Uh, yeah."
+            ],
+            [
+                40,
+                "Nothing."
+            ],
+            [
+                42,
+                "You\u2019re right."
+            ],
+            [
+                44,
+                "Doesn\u2019t sound that bad."
+            ],
+            [
+                46,
+                "Aw, oh, thank you. That is so sweet."
+            ],
+            [
+                48,
+                "You know what, you don\u2019t have to give me this. You keep it."
+            ],
+            [
+                50,
+                "The car was a gift, it was something you needed. I was happy to help you out."
+            ],
+            [
+                52,
+                "Well, this is silly, so you don\u2019t need the car, but you could use it to buy yourself something else, like a new purse to put all this money in."
+            ],
+            [
+                54,
+                "I know, and I\u2019m proud of you, but that doesn\u2019t mean I can\u2019t do something nice. Like this."
+            ],
+            [
+                56,
+                "I don\u2019t, either."
+            ],
+            [
+                58,
+                "Sure. In my mind, that broke the tension with comedy and led to sex."
+            ],
+            [
+                81,
+                "Hey, you got a sec?"
+            ],
+            [
+                83,
+                "I was hoping we could talk about the money again."
+            ],
+            [
+                85,
+                "No, no, no, no, hear me out. I know things got a little weird last night."
+            ],
+            [
+                87,
+                "Well, I think I came up with a pretty good solution."
+            ],
+            [
+                89,
+                "Why don\u2019t we just put the money in a joint account? It\u2019ll be our first money together. We can use it for the wedding, the honeymoon, whatever."
+            ],
+            [
+                91,
+                "Yeah, of course you do, I\u2019m not just a genius in bed. You sure are, baby."
+            ],
+            [
+                93,
+                "I want you to know I get why you don\u2019t want the money, you\u2019ve got this new job, you\u2019re excited about being financially independent, and I am nothing but proud of you."
+            ],
+            [
+                95,
+                "What?"
+            ],
+            [
+                97,
+                "Hmm. Maybe. Or maybe I tried to do something nice and maybe you had a problem with it because of your control issues."
+            ],
+            [
+                99,
+                "Maybe."
+            ],
+            [
+                101,
+                "Well, I can\u2019t believe you\u2019d say that. You know how insecure I am about my insecurities."
+            ],
+            [
+                103,
+                "Yeah, I\u2019m sorry, too. We\u2019re about to share the rest of our lives together. It\u2019s our money, who cares who has it?"
+            ],
+            [
+                126,
+                "Thanks again for having us."
+            ],
+            [
+                131,
+                "Well, nailed it."
+            ],
+            [
+                148,
+                "Like I would swing with him."
+            ],
+            [
+                168,
+                "She made him a chore chart."
+            ],
+            [
+                175,
+                "I usually don\u2019t like lemon bars, but these, these are really good."
+            ],
+            [
+                198,
+                "Yeah. It just makes it a lot harder to pretend it never happened."
+            ],
+            [
+                203,
+                "What?"
+            ],
+            [
+                205,
+                "Not a problem. I grew up with a mother who emasculated my father financially and in every other aspect of his life, so really, it\u2019s what I think love looks like."
+            ],
+            [
+                208,
+                "Yeah I don\u2019t want something dumb like money to come between us."
+            ],
+            [
+                213,
+                "Should we go?"
+            ],
+            [
+                241,
+                "I\u2019ve never done it on a big old pile of cash before. Me neither, Leonard. It\u2019s my first time, too."
+            ]
+        ],
+        "Amy": [
+            [
+                6,
+                "You know when you bend over, I can see down your shirt?"
+            ],
+            [
+                107,
+                "Most universities have them. When I was an undergrad, I spent three days in one pledging a sorority."
+            ],
+            [
+                109,
+                "No. They forgot I was there. But it really opened up my pores."
+            ],
+            [
+                117,
+                "Sheldon, I\u2019m really impressed you\u2019re willing to try this."
+            ],
+            [
+                185,
+                "I\u2019m going to the vending machine. Do you want anything?"
+            ],
+            [
+                187,
+                "Okay, just checking."
+            ],
+            [
+                192,
+                "Anything else?"
+            ],
+            [
+                235,
+                "Sheldon, is everything okay?"
+            ],
+            [
+                237,
+                "11 minutes. That\u2019s longer than I thought."
+            ],
+            [
+                251,
+                "Do you really need me to transcribe this?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                9,
+                "Oh, yeah, I\u2019d have to say it\u2019s the most exiting time in the history of the field."
+            ],
+            [
+                11,
+                "I started doing it."
+            ],
+            [
+                16,
+                "Why not?"
+            ],
+            [
+                18,
+                "Perhaps the emotion you\u2019re referring to was shock at you having something cleaned."
+            ],
+            [
+                23,
+                "Are they making fun of us?"
+            ],
+            [
+                25,
+                "I miss the old days when I couldn\u2019t tell."
+            ],
+            [
+                61,
+                "I\u2019m always busy. This mind is capable of advanced multitasking. You know, currently, I\u2019m attempting to solve the Penrose conjecture, I\u2019m composing my Nobel acceptance speech for when I\u2019ve solved the Penrose conjecture, and I\u2019m wondering how mermaids have babies."
+            ],
+            [
+                63,
+                "Now I\u2019ve got room for another thing. What do you want?"
+            ],
+            [
+                65,
+                "Well, I\u2019m from Texas and you\u2019re from India, we\u2019re no strangers to the fragrant armpit. Next."
+            ],
+            [
+                67,
+                "Yeah, I have a lactose intolerant roommate with a taste for ice cream. Next."
+            ],
+            [
+                69,
+                "Yeah? We have to be somewhere."
+            ],
+            [
+                71,
+                "So it\u2019s settled, we\u2019re not doing it."
+            ],
+            [
+                73,
+                "Interesting. You\u2019re suggesting that we recreate the conditions of the mine to see if we can handle it."
+            ],
+            [
+                75,
+                "Very well."
+            ],
+            [
+                77,
+                "Well, I\u2019ll just Google hot, dark and moist, see what comes up."
+            ],
+            [
+                79,
+                "Oh, there, well, look, there\u2019s all kinds of videos."
+            ],
+            [
+                110,
+                "Well, according to my research, the steam tunnels below this access point should be the closest analog to the mines."
+            ],
+            [
+                112,
+                "Plus, there\u2019s almost no chance we\u2019ll see any of our coworkers half naked."
+            ],
+            [
+                114,
+                "All right, Amy, this walkie-talkie is yours. If we run into any problems, I\u2019ll contact you. And if anything bad happens, what\u2019s the rule?"
+            ],
+            [
+                118,
+                "Well, admittedly, this brushes up against my well-known aversions to heat, small places, going below floor-level, dampness, hatches, ladders, darkness, echoes, and eliminating in Home Depot buckets. That last one is quite new, but I have a feeling that\u2019s gonna rocket to the top of the list."
+            ],
+            [
+                120,
+                "Yeah, as the person beneath you, allow me to say, I know."
+            ],
+            [
+                122,
+                "Uh, let\u2019s see. 704? No, wait, it\u2019s on clock. Uh, the real answer isn\u2019t much better. 102 degrees."
+            ],
+            [
+                124,
+                "True. Sheldon\u2019s Mine Simulation Log, entry one. Koothrappali\u2019s restating of the obvious is already getting on my nerves."
+            ],
+            [
+                151,
+                "Good. Little claustrophobic."
+            ],
+            [
+                153,
+                "Miners often sang mining songs to keep their spirits up."
+            ],
+            [
+                155,
+                "Just the hits. (Singing) Where it\u2019s dark as a dungeon, and it\u2019s damp as the dew."
+            ],
+            [
+                157,
+                "Where the dangers are double, and the pleasures are few. Where the rain never falls and the sun never shines, yes, it\u2019s dark as a dungeon way down in the mine."
+            ],
+            [
+                159,
+                "Well, I pray when I\u2019m dead and the ages shall roll, that my body will blacken and turn into coal."
+            ],
+            [
+                161,
+                "Then I\u2019ll look from the door of my heavenly home, and pity the miner that mines my poor bones."
+            ],
+            [
+                163,
+                "Who\u2019s he?"
+            ],
+            [
+                178,
+                "That\u2019s preposterous. How would she go unrecognized just by wearing a wig?"
+            ],
+            [
+                180,
+                "He doesn\u2019t just put on a pair of glasses. He combs back his curlicue and affects a mild-mannered personality."
+            ],
+            [
+                182,
+                "I told you to use the walkie-talkie!"
+            ],
+            [
+                184,
+                "Please keep this channel clear for emergencies. Thank you."
+            ],
+            [
+                186,
+                "This is a simulation. We have to survive on the supplies we brought."
+            ],
+            [
+                189,
+                "You\u2019re not going to have Funyuns when we\u2019re a mile below the surface of the Earth."
+            ],
+            [
+                191,
+                "We\u2019ll take some Funyuns."
+            ],
+            [
+                193,
+                "Some York Peppermint Patties, a couple of Dr. Peppers, and run to Best Buy and see if they have a portable DVD player and season one of a show called Hannah Montana."
+            ],
+            [
+                217,
+                "As someone from the tropical subcontinent of India, you should know that fanning yourself in a humid environment only raises your body temperature."
+            ],
+            [
+                219,
+                "My major focus at the moment is keeping my claustrophobia at bay."
+            ],
+            [
+                221,
+                "You tell me. I feel like I can\u2019t breathe, and I am tempted to crack you open and suck the air right out of your lungs."
+            ],
+            [
+                223,
+                "We\u2019re not stopping."
+            ],
+            [
+                225,
+                "I apologize. I just, I\u2019m plagued by an internal struggle."
+            ],
+            [
+                227,
+                "My struggle is emotional."
+            ],
+            [
+                229,
+                "It\u2019s dark matter. When I entered the field of string theory, I was a prodigy. I rose to a position of respect, and I assumed my career would continue on that upward trajectory. Now here I am in my 30s, I\u2019m back at square one. And, frankly, it\u2019s frightening."
+            ],
+            [
+                231,
+                "Voyager the space probe or Voyager the Star Trek TV show?"
+            ],
+            [
+                233,
+                "Good. Because I am too hot and tired to go on about how much I hate Voyager the TV show."
+            ],
+            [
+                236,
+                "It\u2019s too late for Koothrappali. Let\u2019s go."
+            ],
+            [
+                252,
+                "You\u2019re not doing it for me. You\u2019re doing it for future generations who will benefit from my struggle. (Voice on recorder) Sheldon\u2019s Mine Simulation Log, entry four. My Kit Kat has melted. All is lost."
+            ],
+            [
+                254,
+                "His statements of the obvious continue to annoy."
+            ]
+        ],
+        "Raj": [
+            [
+                12,
+                "You know, the government funded the biggest experiment yet to detect dark matter."
+            ],
+            [
+                14,
+                "You know, Sheldon, if we apply to be one of those teams, we could be on the ground floor of something big, not just for theoretical physics but for astrophysics as well."
+            ],
+            [
+                24,
+                "Yup."
+            ],
+            [
+                60,
+                "Hey, Sheldon, you busy?"
+            ],
+            [
+                62,
+                "Don\u2019t they lay eggs on a rock?"
+            ],
+            [
+                64,
+                "So, I did a little research on what the conditions are like in the mines, and the guys might be right, sounds pretty rough down there. For starters, it\u2019s very humid, and about a hundred degrees."
+            ],
+            [
+                66,
+                "It\u2019s also a live mine, so there\u2019ll be dynamite explosions going off in the distance."
+            ],
+            [
+                68,
+                "Oh, you have to be down there for 12 hours at a time."
+            ],
+            [
+                70,
+                "Well, there\u2019s no toilets, we\u2019ll have to do our business in a bucket."
+            ],
+            [
+                72,
+                "Look, I get it, but before we pass up on an incredible opportunity, I was thinking about when Howard was training to go to space, they put him in a simulated environment."
+            ],
+            [
+                74,
+                "Exactly."
+            ],
+            [
+                76,
+                "So where should we do it?"
+            ],
+            [
+                78,
+                "Uh, Sheldon\u2026"
+            ],
+            [
+                106,
+                "Huh. All this time I never knew there were steam tunnels down here."
+            ],
+            [
+                108,
+                "Did you get in?"
+            ],
+            [
+                111,
+                "This is gonna be so much more accurate than the steam room at the gym."
+            ],
+            [
+                113,
+                "Or totally naked. I love Howard, but the dude needs a little shame."
+            ],
+            [
+                116,
+                "We\u2019re going to be fine."
+            ],
+            [
+                119,
+                "I\u2019m sweating already."
+            ],
+            [
+                121,
+                "How hot is it?"
+            ],
+            [
+                123,
+                "Well, that\u2019s what we wanted. This is as hot as the mines will be."
+            ],
+            [
+                150,
+                "How you feeling?"
+            ],
+            [
+                152,
+                "Let\u2019s set up the equipment. It\u2019ll help take your mind off of it."
+            ],
+            [
+                154,
+                "Do you know any mining songs?"
+            ],
+            [
+                158,
+                "It\u2019s a little more bleak than I thought."
+            ],
+            [
+                160,
+                "Getting kind of grim."
+            ],
+            [
+                162,
+                "Okay. How \u2019bout a little Miley Cyrus next?"
+            ],
+            [
+                177,
+                "So, as Hannah Montana, Miley was a world-famous pop star. But then she would take off her wig and go to school like a normal girl. Which, I don\u2019t have to tell you, at that age, is its own headache."
+            ],
+            [
+                179,
+                "But you\u2019re okay with Superman concealing his identity with a pair of glasses?"
+            ],
+            [
+                188,
+                "We should have asked her to get some Funyuns."
+            ],
+            [
+                190,
+                "What if we brought them down with us?"
+            ],
+            [
+                216,
+                "Oh, this heat is brutal."
+            ],
+            [
+                220,
+                "How\u2019s that going?"
+            ],
+            [
+                222,
+                "Sheldon, if this is too much, we can stop."
+            ],
+            [
+                224,
+                "You don\u2019t have to bite my head off."
+            ],
+            [
+                226,
+                "If you would just use the bucket, you\u2019d be so much more comfortable."
+            ],
+            [
+                228,
+                "Oh. Is it Amy?"
+            ],
+            [
+                230,
+                "Sheldon, you know what I think of when I\u2019m scared? Voyager."
+            ],
+            [
+                232,
+                "The space probe."
+            ],
+            [
+                234,
+                "By the time I was born, Voyager 1\u2019s mission was supposed to be over. It had seen Jupiter and Saturn and all their moons, but it kept going. When I left India for America, I was never more scared in my life. I had no idea what lay ahead. Whenever I feel that way, I think about how Voyager is still out there somewhere beyond our solar system, going further than anyone ever thought it could. Don\u2019t leave. You can do this."
+            ],
+            [
+                253,
+                "You call yourself a friend? I was trying to help you, and at the first sign of trouble you ran away, leaving me to fend off a family of rats. You\u2019re a completely selfish human being and a, and a physical and a moral coward."
+            ]
+        ],
+        "Amy: Save you first": [
+            [
+                115,
+                "come back for Raj only if there\u2019s time."
+            ]
+        ],
+        "Rajj": [
+            [
+                156,
+                "That\u2019s pretty."
+            ],
+            [
+                194,
+                "Have her get season two. Season one, it was still finding itself."
+            ],
+            [
+                218,
+                "Huh. That does explain why the servants used to look so hot while they were fanning me. Let\u2019s get our minds off how uncomfortable we are. We could take some more simulated instrument readings."
+            ]
+        ],
+        "Amy (shouting)": [
+            [
+                181,
+                "You guys doing okay down there?"
+            ]
+        ],
+        "Amy (on walkie-talkie)": [
+            [
+                183,
+                "You guys doing okay down there?"
+            ]
+        ],
+        "Howard (off)": [
+            [
+                210,
+                "Why are you being so bossy?"
+            ],
+            [
+                212,
+                "I\u2019m not a baby. I\u2019m a grown man, and I made the bed. Now where\u2019s my star?"
+            ]
+        ],
+        "Bernadette (off)": [
+            [
+                211,
+                "Why are you being a baby?"
+            ]
+        ],
+        "Raj (off)": [
+            [
+                238,
+                "They\u2019re in my shirt. They\u2019re in my shirt. They\u2019re in my shirt."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Bernadette",
+            "I like your suit."
+        ],
+        [
+            "Penny",
+            "Oh, thanks. Got a couple new outfits for work."
+        ],
+        [
+            "Howard",
+            "How does it feel knowing your fianc\u00e9e\u2019s job is to go out and flirt with doctors, looking like that, while you sit here, you know, looking like this?"
+        ],
+        [
+            "Leonard",
+            "She doesn\u2019t flirt with doctors."
+        ],
+        [
+            "Penny",
+            "Yeah. It\u2019s all very professional."
+        ],
+        [
+            "Amy",
+            "You know when you bend over, I can see down your shirt?"
+        ],
+        [
+            "Penny",
+            "Okay, good."
+        ],
+        [
+            "Bernadette",
+            "Speaking of new careers, how are things going with dark matter, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Oh, yeah, I\u2019d have to say it\u2019s the most exiting time in the history of the field."
+        ],
+        [
+            "Bernadette",
+            "Oh. What\u2019s going on?"
+        ],
+        [
+            "Sheldon",
+            "I started doing it."
+        ],
+        [
+            "Raj",
+            "You know, the government funded the biggest experiment yet to detect dark matter."
+        ],
+        [
+            "Leonard",
+            "Yeah, I\u2019ve read about that, they\u2019re sending research teams down into abandoned salt mines."
+        ],
+        [
+            "Raj",
+            "You know, Sheldon, if we apply to be one of those teams, we could be on the ground floor of something big, not just for theoretical physics but for astrophysics as well."
+        ],
+        [
+            "Penny",
+            "Wait, hang on, you guys are gonna work in a mine?"
+        ],
+        [
+            "Sheldon",
+            "Why not?"
+        ],
+        [
+            "Penny",
+            "You had a panic attack when we went through the car wash."
+        ],
+        [
+            "Sheldon",
+            "Perhaps the emotion you\u2019re referring to was shock at you having something cleaned."
+        ],
+        [
+            "Leonard",
+            "I think what Penny meant is, the thought of you two in a mine is kind of funny, it\u2019s like a cat riding a Roomba."
+        ],
+        [
+            "Howard",
+            "If they get scared, they\u2019ll have those hats with the lights on them, \u2019cause down there it\u2019s night-night all the time."
+        ],
+        [
+            "Bernadette",
+            "Maybe they could ride around in one of those mine carts that go ee-oo-ee-oo-ee-oo."
+        ],
+        [
+            "Leonard",
+            "Yeah, it\u2019ll help them get away when they see a g-g-ghost."
+        ],
+        [
+            "Sheldon",
+            "Are they making fun of us?"
+        ],
+        [
+            "Raj",
+            "Yup."
+        ],
+        [
+            "Sheldon",
+            "I miss the old days when I couldn\u2019t tell."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Leonard",
+            "So, one of my favourite video games of all time is called Shadow of the Colossus, and it was only for PlayStation 2, but then they came out with a new version for PS3 with better graphics. I finally got the chance to play it, and for some reason, it just wasn\u2019t as good as the first one. Or something about yoga."
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry, I was thinking about work."
+        ],
+        [
+            "Leonard",
+            "Well, I was just saying that there was this video game\u2026"
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s when I started thinking about work. Uh, listen, I\u2019ve got some good news."
+        ],
+        [
+            "Leonard",
+            "Hmm."
+        ],
+        [
+            "Penny",
+            "This is for you."
+        ],
+        [
+            "Leonard",
+            "Huh. What is this?"
+        ],
+        [
+            "Penny",
+            "Well, you know how they gave me the company car? Didn\u2019t make sense to have two, so I sold the other one."
+        ],
+        [
+            "Leonard",
+            "The one I gave you?"
+        ],
+        [
+            "Penny",
+            "Yeah. And there\u2019s your money back, and now we\u2019re even. How great is that?"
+        ],
+        [
+            "Leonard",
+            "Uh, yeah."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "Nothing."
+        ],
+        [
+            "Penny",
+            "Oh, come on, Leonard, I know the car was a thoughtful gesture and I really appreciate it, but it doesn\u2019t make sense to have both."
+        ],
+        [
+            "Leonard",
+            "You\u2019re right."
+        ],
+        [
+            "Penny",
+            "What should I have done? Taken a picture of us in the car and put it in a pink frame with puffy paint around it that says best fianc\u00e9 ever?"
+        ],
+        [
+            "Leonard",
+            "Doesn\u2019t sound that bad."
+        ],
+        [
+            "Penny",
+            "Well, good, because that\u2019s what I did."
+        ],
+        [
+            "Leonard",
+            "Aw, oh, thank you. That is so sweet."
+        ],
+        [
+            "Penny",
+            "Well, it\u2019s not that sweet, I paid for the frame with your money and then got a massage."
+        ],
+        [
+            "Leonard",
+            "You know what, you don\u2019t have to give me this. You keep it."
+        ],
+        [
+            "Penny",
+            "Why?"
+        ],
+        [
+            "Leonard",
+            "The car was a gift, it was something you needed. I was happy to help you out."
+        ],
+        [
+            "Penny",
+            "And I really appreciate it, but now I don\u2019t need it, so here you go."
+        ],
+        [
+            "Leonard",
+            "Well, this is silly, so you don\u2019t need the car, but you could use it to buy yourself something else, like a new purse to put all this money in."
+        ],
+        [
+            "Penny",
+            "Sweetie, I can buy my own stuff. I have a good job now."
+        ],
+        [
+            "Leonard",
+            "I know, and I\u2019m proud of you, but that doesn\u2019t mean I can\u2019t do something nice. Like this."
+        ],
+        [
+            "Penny",
+            "Okay, I don\u2019t want this to turn into a fight."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t, either."
+        ],
+        [
+            "Penny",
+            "Great. Thank you. Can you pass the salt, please?"
+        ],
+        [
+            "Leonard",
+            "Sure. In my mind, that broke the tension with comedy and led to sex."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office."
+        ],
+        [
+            "Raj",
+            "Hey, Sheldon, you busy?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m always busy. This mind is capable of advanced multitasking. You know, currently, I\u2019m attempting to solve the Penrose conjecture, I\u2019m composing my Nobel acceptance speech for when I\u2019ve solved the Penrose conjecture, and I\u2019m wondering how mermaids have babies."
+        ],
+        [
+            "Raj",
+            "Don\u2019t they lay eggs on a rock?"
+        ],
+        [
+            "Sheldon",
+            "Now I\u2019ve got room for another thing. What do you want?"
+        ],
+        [
+            "Raj",
+            "So, I did a little research on what the conditions are like in the mines, and the guys might be right, sounds pretty rough down there. For starters, it\u2019s very humid, and about a hundred degrees."
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m from Texas and you\u2019re from India, we\u2019re no strangers to the fragrant armpit. Next."
+        ],
+        [
+            "Raj",
+            "It\u2019s also a live mine, so there\u2019ll be dynamite explosions going off in the distance."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I have a lactose intolerant roommate with a taste for ice cream. Next."
+        ],
+        [
+            "Raj",
+            "Oh, you have to be down there for 12 hours at a time."
+        ],
+        [
+            "Sheldon",
+            "Yeah? We have to be somewhere."
+        ],
+        [
+            "Raj",
+            "Well, there\u2019s no toilets, we\u2019ll have to do our business in a bucket."
+        ],
+        [
+            "Sheldon",
+            "So it\u2019s settled, we\u2019re not doing it."
+        ],
+        [
+            "Raj",
+            "Look, I get it, but before we pass up on an incredible opportunity, I was thinking about when Howard was training to go to space, they put him in a simulated environment."
+        ],
+        [
+            "Sheldon",
+            "Interesting. You\u2019re suggesting that we recreate the conditions of the mine to see if we can handle it."
+        ],
+        [
+            "Raj",
+            "Exactly."
+        ],
+        [
+            "Sheldon",
+            "Very well."
+        ],
+        [
+            "Raj",
+            "So where should we do it?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019ll just Google hot, dark and moist, see what comes up."
+        ],
+        [
+            "Raj",
+            "Uh, Sheldon\u2026"
+        ],
+        [
+            "Sheldon",
+            "Oh, there, well, look, there\u2019s all kinds of videos."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Leonard",
+            "Hey, you got a sec?"
+        ],
+        [
+            "Penny",
+            "Hi. Sure."
+        ],
+        [
+            "Leonard",
+            "I was hoping we could talk about the money again."
+        ],
+        [
+            "Penny",
+            "Oh, sweetie, just forget about it."
+        ],
+        [
+            "Leonard",
+            "No, no, no, no, hear me out. I know things got a little weird last night."
+        ],
+        [
+            "Penny",
+            "Well, leaving an envelope full of cash on my dresser after sex would count as weird."
+        ],
+        [
+            "Leonard",
+            "Well, I think I came up with a pretty good solution."
+        ],
+        [
+            "Penny",
+            "Mm."
+        ],
+        [
+            "Leonard",
+            "Why don\u2019t we just put the money in a joint account? It\u2019ll be our first money together. We can use it for the wedding, the honeymoon, whatever."
+        ],
+        [
+            "Penny",
+            "You know what, that\u2019s great. I love that."
+        ],
+        [
+            "Leonard",
+            "Yeah, of course you do, I\u2019m not just a genius in bed. You sure are, baby."
+        ],
+        [
+            "Penny",
+            "You two want to be alone?"
+        ],
+        [
+            "Leonard",
+            "I want you to know I get why you don\u2019t want the money, you\u2019ve got this new job, you\u2019re excited about being financially independent, and I am nothing but proud of you."
+        ],
+        [
+            "Penny",
+            "Oh, thank you so much. It feels so good to hear you say that. And I want you to know that I get this job kind of changes the balance in our relationship, and I\u2019m trying to be sensitive to that."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Well, I just think that maybe you\u2019re a little hung up on the money because I\u2019m less reliant on you now, and that\u2019s a little scary."
+        ],
+        [
+            "Leonard",
+            "Hmm. Maybe. Or maybe I tried to do something nice and maybe you had a problem with it because of your control issues."
+        ],
+        [
+            "Penny",
+            "Control issues?"
+        ],
+        [
+            "Leonard",
+            "Maybe."
+        ],
+        [
+            "Penny",
+            "Or, maybe now that I\u2019m no longer an out-of-work actress who can\u2019t pay for her own dinner, that makes you a little insecure."
+        ],
+        [
+            "Leonard",
+            "Well, I can\u2019t believe you\u2019d say that. You know how insecure I am about my insecurities."
+        ],
+        [
+            "Penny",
+            "You know what? I\u2019m sorry. It\u2019s stupid to fight over money."
+        ],
+        [
+            "Leonard",
+            "Yeah, I\u2019m sorry, too. We\u2019re about to share the rest of our lives together. It\u2019s our money, who cares who has it?"
+        ],
+        [
+            "Penny",
+            "Ugh, You\u2019re right, who cares? Mm. Get that money out of my back pocket or I will break your fingers."
+        ],
+        [
+            "Scene",
+            "The university basement."
+        ],
+        [
+            "Raj",
+            "Huh. All this time I never knew there were steam tunnels down here."
+        ],
+        [
+            "Amy",
+            "Most universities have them. When I was an undergrad, I spent three days in one pledging a sorority."
+        ],
+        [
+            "Raj",
+            "Did you get in?"
+        ],
+        [
+            "Amy",
+            "No. They forgot I was there. But it really opened up my pores."
+        ],
+        [
+            "Sheldon",
+            "Well, according to my research, the steam tunnels below this access point should be the closest analog to the mines."
+        ],
+        [
+            "Raj",
+            "This is gonna be so much more accurate than the steam room at the gym."
+        ],
+        [
+            "Sheldon",
+            "Plus, there\u2019s almost no chance we\u2019ll see any of our coworkers half naked."
+        ],
+        [
+            "Raj",
+            "Or totally naked. I love Howard, but the dude needs a little shame."
+        ],
+        [
+            "Sheldon",
+            "All right, Amy, this walkie-talkie is yours. If we run into any problems, I\u2019ll contact you. And if anything bad happens, what\u2019s the rule?"
+        ],
+        [
+            "Amy: Save you first",
+            "come back for Raj only if there\u2019s time."
+        ],
+        [
+            "Raj",
+            "We\u2019re going to be fine."
+        ],
+        [
+            "Amy",
+            "Sheldon, I\u2019m really impressed you\u2019re willing to try this."
+        ],
+        [
+            "Sheldon",
+            "Well, admittedly, this brushes up against my well-known aversions to heat, small places, going below floor-level, dampness, hatches, ladders, darkness, echoes, and eliminating in Home Depot buckets. That last one is quite new, but I have a feeling that\u2019s gonna rocket to the top of the list."
+        ],
+        [
+            "Raj",
+            "I\u2019m sweating already."
+        ],
+        [
+            "Sheldon",
+            "Yeah, as the person beneath you, allow me to say, I know."
+        ],
+        [
+            "Raj",
+            "How hot is it?"
+        ],
+        [
+            "Sheldon",
+            "Uh, let\u2019s see. 704? No, wait, it\u2019s on clock. Uh, the real answer isn\u2019t much better. 102 degrees."
+        ],
+        [
+            "Raj",
+            "Well, that\u2019s what we wanted. This is as hot as the mines will be."
+        ],
+        [
+            "Sheldon",
+            "True. Sheldon\u2019s Mine Simulation Log, entry one. Koothrappali\u2019s restating of the obvious is already getting on my nerves."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Leonard",
+            "Thanks again for having us."
+        ],
+        [
+            "Howard",
+            "Oh, of course. What did you guys want to talk about?"
+        ],
+        [
+            "Penny",
+            "Well, you know, now that we\u2019re engaged, we had some questions about how you handle money as a couple."
+        ],
+        [
+            "Bernadette",
+            "I told you they weren\u2019t gonna ask us to swing with them."
+        ],
+        [
+            "Howard",
+            "I didn\u2019t think they were going to. I just wanted to have a way to say no without hurting Leonard\u2019s feelings."
+        ],
+        [
+            "Leonard",
+            "Well, nailed it."
+        ],
+        [
+            "Howard",
+            "So what did you want to know?"
+        ],
+        [
+            "Penny",
+            "Well, do you guys ever fight over money?"
+        ],
+        [
+            "Bernadette",
+            "Sure, sometimes. I mean, it can be a little awkward since I make so much more money than Howie."
+        ],
+        [
+            "Howard",
+            "You didn\u2019t have to say so much more."
+        ],
+        [
+            "Bernadette",
+            "Well, I didn\u2019t have to, but for the sake of accuracy I felt that I should."
+        ],
+        [
+            "Howard",
+            "I brought a lot of significant assets into the relationship, too."
+        ],
+        [
+            "Bernadette",
+            "Like what? Your incomplete set of Star Trek collector plates?"
+        ],
+        [
+            "Howard",
+            "For your information, I just bought the last one I needed on eBay."
+        ],
+        [
+            "Bernadette",
+            "Without asking me?"
+        ],
+        [
+            "Howard",
+            "There were only three minutes left in the auction and it was a mint condition Scotty from a smoke-free home."
+        ],
+        [
+            "Bernadette",
+            "How much, Howie?"
+        ],
+        [
+            "Howard",
+            "Not a lot."
+        ],
+        [
+            "Bernadette",
+            "How much?"
+        ],
+        [
+            "Howard",
+            "Let\u2019s not talk about this in front of our friends."
+        ],
+        [
+            "Bernadette",
+            "Was it more or less than falconry school?"
+        ],
+        [
+            "Howard",
+            "For the tenth time, that was a Groupon."
+        ],
+        [
+            "Leonard",
+            "Like I would swing with him."
+        ],
+        [
+            "Scene",
+            "The steam tunnel. "
+        ],
+        [
+            "Raj",
+            "How you feeling?"
+        ],
+        [
+            "Sheldon",
+            "Good. Little claustrophobic."
+        ],
+        [
+            "Raj",
+            "Let\u2019s set up the equipment. It\u2019ll help take your mind off of it."
+        ],
+        [
+            "Sheldon",
+            "Miners often sang mining songs to keep their spirits up."
+        ],
+        [
+            "Raj",
+            "Do you know any mining songs?"
+        ],
+        [
+            "Sheldon",
+            "Just the hits. (Singing) Where it\u2019s dark as a dungeon, and it\u2019s damp as the dew."
+        ],
+        [
+            "Rajj",
+            "That\u2019s pretty."
+        ],
+        [
+            "Sheldon",
+            "Where the dangers are double, and the pleasures are few. Where the rain never falls and the sun never shines, yes, it\u2019s dark as a dungeon way down in the mine."
+        ],
+        [
+            "Raj",
+            "It\u2019s a little more bleak than I thought."
+        ],
+        [
+            "Sheldon",
+            "Well, I pray when I\u2019m dead and the ages shall roll, that my body will blacken and turn into coal."
+        ],
+        [
+            "Raj",
+            "Getting kind of grim."
+        ],
+        [
+            "Sheldon",
+            "Then I\u2019ll look from the door of my heavenly home, and pity the miner that mines my poor bones."
+        ],
+        [
+            "Raj",
+            "Okay. How \u2019bout a little Miley Cyrus next?"
+        ],
+        [
+            "Sheldon",
+            "Who\u2019s he?"
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Talk about wasted money. What about the late fees on our credit card because somebody didn\u2019t pay the bill on time?"
+        ],
+        [
+            "Bernadette",
+            "Well, maybe I would have paid it if I wasn\u2019t also doing everything else around here."
+        ],
+        [
+            "Howard",
+            "Oh, you\u2019re saying I don\u2019t do anything around here. Look at my chore chart."
+        ],
+        [
+            "Leonard",
+            "She made him a chore chart."
+        ],
+        [
+            "Penny",
+            "I see it."
+        ],
+        [
+            "Howard",
+            "Do the dishes. There\u2019s a star right there."
+        ],
+        [
+            "Bernadette",
+            "That was a pity star. Putting water in the roasting pan and leaving it in the sink is not doing the dishes."
+        ],
+        [
+            "Howard",
+            "That pan had to soak and you know it."
+        ],
+        [
+            "Bernadette",
+            "Well, don\u2019t come crying to me when you don\u2019t get your allowance."
+        ],
+        [
+            "Howard",
+            "It\u2019s not an allowance. It\u2019s a stipend, and we said we weren\u2019t gonna call it an allowance in front of my friends."
+        ],
+        [
+            "Leonard",
+            "I usually don\u2019t like lemon bars, but these, these are really good."
+        ],
+        [
+            "Scene",
+            "The steam tunnel. "
+        ],
+        [
+            "Raj",
+            "So, as Hannah Montana, Miley was a world-famous pop star. But then she would take off her wig and go to school like a normal girl. Which, I don\u2019t have to tell you, at that age, is its own headache."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s preposterous. How would she go unrecognized just by wearing a wig?"
+        ],
+        [
+            "Raj",
+            "But you\u2019re okay with Superman concealing his identity with a pair of glasses?"
+        ],
+        [
+            "Sheldon",
+            "He doesn\u2019t just put on a pair of glasses. He combs back his curlicue and affects a mild-mannered personality."
+        ],
+        [
+            "Amy (shouting)",
+            "You guys doing okay down there?"
+        ],
+        [
+            "Sheldon",
+            "I told you to use the walkie-talkie!"
+        ],
+        [
+            "Amy (on walkie-talkie)",
+            "You guys doing okay down there?"
+        ],
+        [
+            "Sheldon",
+            "Please keep this channel clear for emergencies. Thank you."
+        ],
+        [
+            "Amy",
+            "I\u2019m going to the vending machine. Do you want anything?"
+        ],
+        [
+            "Sheldon",
+            "This is a simulation. We have to survive on the supplies we brought."
+        ],
+        [
+            "Amy",
+            "Okay, just checking."
+        ],
+        [
+            "Raj",
+            "We should have asked her to get some Funyuns."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re not going to have Funyuns when we\u2019re a mile below the surface of the Earth."
+        ],
+        [
+            "Raj",
+            "What if we brought them down with us?"
+        ],
+        [
+            "Sheldon",
+            "We\u2019ll take some Funyuns."
+        ],
+        [
+            "Amy",
+            "Anything else?"
+        ],
+        [
+            "Sheldon",
+            "Some York Peppermint Patties, a couple of Dr. Peppers, and run to Best Buy and see if they have a portable DVD player and season one of a show called Hannah Montana."
+        ],
+        [
+            "Rajj",
+            "Have her get season two. Season one, it was still finding itself."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment. "
+        ],
+        [
+            "Bernadette",
+            "Sorry you guys had to see that."
+        ],
+        [
+            "Penny",
+            "Oh, don\u2019t apologize."
+        ],
+        [
+            "Leonard",
+            "Yeah. It just makes it a lot harder to pretend it never happened."
+        ],
+        [
+            "Bernadette",
+            "Money\u2019s a sensitive subject for Howie because of the difference in our income."
+        ],
+        [
+            "Penny",
+            "It really bothers him?"
+        ],
+        [
+            "Bernadette",
+            "Well, sure. There\u2019s still a lot of pressure on guys to be providers. So even though he\u2019s happy for me, it\u2019s just a little tough on him."
+        ],
+        [
+            "Penny",
+            "Uh-oh."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Well, if I do well in sales, I could end up making a lot more money than you."
+        ],
+        [
+            "Leonard",
+            "Not a problem. I grew up with a mother who emasculated my father financially and in every other aspect of his life, so really, it\u2019s what I think love looks like."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll be right back. I\u2019m gonna go check on him."
+        ],
+        [
+            "Penny",
+            "Maybe it\u2019s a good thing we came here. It\u2019s like a lesson in what not to do."
+        ],
+        [
+            "Leonard",
+            "Yeah I don\u2019t want something dumb like money to come between us."
+        ],
+        [
+            "Penny",
+            "It won\u2019t. Let\u2019s just promise to figure this kind of stuff out before we get married."
+        ],
+        [
+            "Howard (off)",
+            "Why are you being so bossy?"
+        ],
+        [
+            "Bernadette (off)",
+            "Why are you being a baby?"
+        ],
+        [
+            "Howard (off)",
+            "I\u2019m not a baby. I\u2019m a grown man, and I made the bed. Now where\u2019s my star?"
+        ],
+        [
+            "Leonard",
+            "Should we go?"
+        ],
+        [
+            "Penny",
+            "Hang on. I want to see if he gets the star."
+        ],
+        [
+            "Scene",
+            "The steam tunnel. "
+        ],
+        [
+            "Raj",
+            "Oh, this heat is brutal."
+        ],
+        [
+            "Sheldon",
+            "As someone from the tropical subcontinent of India, you should know that fanning yourself in a humid environment only raises your body temperature."
+        ],
+        [
+            "Rajj",
+            "Huh. That does explain why the servants used to look so hot while they were fanning me. Let\u2019s get our minds off how uncomfortable we are. We could take some more simulated instrument readings."
+        ],
+        [
+            "Sheldon",
+            "My major focus at the moment is keeping my claustrophobia at bay."
+        ],
+        [
+            "Raj",
+            "How\u2019s that going?"
+        ],
+        [
+            "Sheldon",
+            "You tell me. I feel like I can\u2019t breathe, and I am tempted to crack you open and suck the air right out of your lungs."
+        ],
+        [
+            "Raj",
+            "Sheldon, if this is too much, we can stop."
+        ],
+        [
+            "Sheldon",
+            "We\u2019re not stopping."
+        ],
+        [
+            "Raj",
+            "You don\u2019t have to bite my head off."
+        ],
+        [
+            "Sheldon",
+            "I apologize. I just, I\u2019m plagued by an internal struggle."
+        ],
+        [
+            "Raj",
+            "If you would just use the bucket, you\u2019d be so much more comfortable."
+        ],
+        [
+            "Sheldon",
+            "My struggle is emotional."
+        ],
+        [
+            "Raj",
+            "Oh. Is it Amy?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s dark matter. When I entered the field of string theory, I was a prodigy. I rose to a position of respect, and I assumed my career would continue on that upward trajectory. Now here I am in my 30s, I\u2019m back at square one. And, frankly, it\u2019s frightening."
+        ],
+        [
+            "Raj",
+            "Sheldon, you know what I think of when I\u2019m scared? Voyager."
+        ],
+        [
+            "Sheldon",
+            "Voyager the space probe or Voyager the Star Trek TV show?"
+        ],
+        [
+            "Raj",
+            "The space probe."
+        ],
+        [
+            "Sheldon",
+            "Good. Because I am too hot and tired to go on about how much I hate Voyager the TV show."
+        ],
+        [
+            "Raj",
+            "By the time I was born, Voyager 1\u2019s mission was supposed to be over. It had seen Jupiter and Saturn and all their moons, but it kept going. When I left India for America, I was never more scared in my life. I had no idea what lay ahead. Whenever I feel that way, I think about how Voyager is still out there somewhere beyond our solar system, going further than anyone ever thought it could. Don\u2019t leave. You can do this."
+        ],
+        [
+            "Amy",
+            "Sheldon, is everything okay?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s too late for Koothrappali. Let\u2019s go."
+        ],
+        [
+            "Amy",
+            "11 minutes. That\u2019s longer than I thought."
+        ],
+        [
+            "Raj (off)",
+            "They\u2019re in my shirt. They\u2019re in my shirt. They\u2019re in my shirt."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s bedroom."
+        ],
+        [
+            "Penny",
+            "Okay, this is definitely the most fun thing we can do with the money."
+        ],
+        [
+            "Leonard",
+            "I\u2019ve never done it on a big old pile of cash before. Me neither, Leonard. It\u2019s my first time, too."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bedroom."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m so sorry I made you feel bad about the money stuff."
+        ],
+        [
+            "Howard",
+            "It\u2019s okay."
+        ],
+        [
+            "Bernadette",
+            "No, it\u2019s not okay. I want us to be partners, equals. Adults in a mature relationship."
+        ],
+        [
+            "Howard",
+            "I want that, too."
+        ],
+        [
+            "Bernadette",
+            "Now, let\u2019s talk about your birthday party."
+        ],
+        [
+            "Howard",
+            "Ooh, laser tag, laser tag."
+        ],
+        [
+            "Bernadette",
+            "Oh."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Amy",
+            "Do you really need me to transcribe this?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re not doing it for me. You\u2019re doing it for future generations who will benefit from my struggle. (Voice on recorder) Sheldon\u2019s Mine Simulation Log, entry four. My Kit Kat has melted. All is lost."
+        ],
+        [
+            "Raj",
+            "You call yourself a friend? I was trying to help you, and at the first sign of trouble you ran away, leaving me to fend off a family of rats. You\u2019re a completely selfish human being and a, and a physical and a moral coward."
+        ],
+        [
+            "Sheldon",
+            "His statements of the obvious continue to annoy."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-06-the-expedition-approximation/"
+}

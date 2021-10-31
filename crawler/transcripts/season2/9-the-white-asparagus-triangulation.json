@@ -1,0 +1,1820 @@
+{
+    "Season": 2,
+    "Episode": 9,
+    "Title": "the white asparagus triangulation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The lobby. "
+            ],
+            [
+                32,
+                "Credits sequence."
+            ],
+            [
+                34,
+                "The apartment."
+            ],
+            [
+                65,
+                "A cinema."
+            ],
+            [
+                87,
+                "Outside Leonard\u2019s bedroom. "
+            ],
+            [
+                102,
+                "Outside Penny\u2019s door."
+            ],
+            [
+                123,
+                "The university cafeteria."
+            ],
+            [
+                143,
+                "Outside Penny\u2019s door."
+            ],
+            [
+                158,
+                "The apartment. "
+            ],
+            [
+                186,
+                "The hospital."
+            ],
+            [
+                204,
+                "The Apartment."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Penny, hello."
+            ],
+            [
+                3,
+                "What is shaking?"
+            ],
+            [
+                5,
+                "It\u2019s colloquial, a conversation opener. So, do you find the weather satisfying? Are you currently sharing in the triumph of some local sports team?"
+            ],
+            [
+                7,
+                "I\u2019m striking up a casual conversation with you. S\u2019u\u2019up?"
+            ],
+            [
+                9,
+                "All right, But I\u2019m given to understand that when you have something awkward to discuss with someone, it\u2019s more palatable to preface it with banal chit chat."
+            ],
+            [
+                11,
+                "No."
+            ],
+            [
+                13,
+                "Oh, good, I used that right. Anyway, you\u2019re aware that Leonard has entered into a new romantic relationship which includes a sexual component?"
+            ],
+            [
+                15,
+                "Her name is Dr. Stephanie Barnett and she is a highly distinguished surgical resident at Freemont Memorial."
+            ],
+            [
+                17,
+                "Good. What he may have left out is how important this relationship is to me."
+            ],
+            [
+                19,
+                "Yes, see, of the handful of women Leonard\u2019s been involved with, she\u2019s the only one I have ever found tolerable."
+            ],
+            [
+                21,
+                "The statement stands for itself."
+            ],
+            [
+                23,
+                "Anyway, should you have any interaction with her, it would be most helpful that she not see you as a sexual rival."
+            ],
+            [
+                25,
+                "You say that now, but consider the following scenario, you\u2019re sitting in your apartment, it\u2019s late, you\u2019re alone, your hypothalamus is swimming in a soup of estrogen and progesterone and suddenly even Leonard seems like a viable sexual candidate, or a, uh, hookup as it\u2019s referred to by today\u2019s urban youth."
+            ],
+            [
+                27,
+                "Yes. Now, should that happen, I would ask you to find some way to suppress your libido."
+            ],
+            [
+                29,
+                "Fine, whatever works."
+            ],
+            [
+                31,
+                "Uh, peace out!"
+            ],
+            [
+                36,
+                "Well, this is very pleasant."
+            ],
+            [
+                38,
+                "And you said there\u2019d never be enough pasta for the three of us."
+            ],
+            [
+                40,
+                "You know, Italian housewives have a rule of thumb. A handful of dry pasta about an inch in diameter is sufficient for each person as it doubles in volume when cooked."
+            ],
+            [
+                42,
+                "Thank you."
+            ],
+            [
+                44,
+                "Well, Stephanie, since Leonard seems to be dropping the conversational ball, I guess I\u2019ll just have to pick it up. Have you ever witnessed a violent crime?"
+            ],
+            [
+                46,
+                "Good. What\u2019s your favourite fruit?"
+            ],
+            [
+                48,
+                "Hmm, technically not a fruit, but all right. Where did you do your medical internship?"
+            ],
+            [
+                50,
+                "Really? That\u2019s where I was born!"
+            ],
+            [
+                52,
+                "I spent so much of my childhood at that hospital. When I was 12, I got to ride there in a helicopter."
+            ],
+            [
+                54,
+                "Radiation burns. A little mishap while I was building my own cat scanner."
+            ],
+            [
+                56,
+                "No, I didn\u2019t try, I succeeded. In fact, I was briefly able to see the inside of my sister\u2019s guinea pig, Snowball, before he caught fire. It led to an interesting expression in our house, not a snowball\u2019s chance in a cat scanner."
+            ],
+            [
+                58,
+                "Excuse me. When I come back, just for fun, the subject will be alternative history. Specifically, how would the civil war have gone differently if Lincoln had been a robot sent from the future? (To Leonard) Look at that, there\u2019s even pasta left over."
+            ],
+            [
+                60,
+                "I do. Do you? Because frankly, you\u2019ve been in a foul mood since I sat down."
+            ],
+            [
+                62,
+                "To help. Look, if you fail at this relationship, and history suggests you will, then we risk losing the medical officer that our landing party has always needed."
+            ],
+            [
+                64,
+                "You\u2019re Kirk, I\u2019m Spock, Wolowitz is Scotty, Koothrappali is the guy who always gets killed, and now we\u2019ve got McCoy."
+            ],
+            [
+                72,
+                "Hi, Stephanie. I\u2019m sorry I\u2019m late, but your companion left the most indecipherable invitation."
+            ],
+            [
+                74,
+                "We\u2019re going to the movies. What movie? What theatre? What time? If you were trying to make it impossible to locate you, you couldn\u2019t have done a better job."
+            ],
+            [
+                76,
+                "It took me nearly 20 minutes to go through the browser history on your computer to see what movie times you looked up. Wait here, I\u2019ll find us seats."
+            ],
+            [
+                84,
+                "My apologies, you\u2019ve been sitting in it all along. Leonard, you want to slide over one?"
+            ],
+            [
+                86,
+                "Oh, yeah, this is it."
+            ],
+            [
+                92,
+                "This is Stephanie\u2019s facebook page. Now, where it should say in a relationship, what does it say?"
+            ],
+            [
+                94,
+                "Yeah, furthermore, earlier this evening, she threw a digital sheep at some guy named Mike. Who\u2019s Mike? Why does he get a digital sheep and not you?"
+            ],
+            [
+                96,
+                "You don\u2019t see it, do you? We\u2019re losing her."
+            ],
+            [
+                98,
+                "I\u2019m afraid I can\u2019t allow that. Pursuant to Starfleet General Order 104 Section A, you are deemed unfit and I hereby relieve you of your command."
+            ],
+            [
+                100,
+                "Give me one good reason why not."
+            ],
+            [
+                106,
+                "This is banana bread."
+            ],
+            [
+                108,
+                "It\u2019s my understanding that an unsolicited gift of food can be a precursor to an impromptu invitation to come in and chat."
+            ],
+            [
+                110,
+                "I suppose I could spare a few minutes. Were you robbed?"
+            ],
+            [
+                112,
+                "How can you be sure?"
+            ],
+            [
+                114,
+                "I\u2019m certain this will come as no surprise to you, but Leonard is failing in yet another relationship."
+            ],
+            [
+                116,
+                "She\u2019s sending virtual livestock to random men on the internet. If I have any hope of keeping them together, I need data. Specifically, I need to know exactly what Leonard did that caused you to pop an emotional cap in his buttocks."
+            ],
+            [
+                118,
+                "Again, urban slang. In which, I believe I\u2019m gaining remarkable fluency. So, what is the down and the low? And don\u2019t worry, this is all entirely confidential, so, you feel free to include any and all shortcomings in the bedroom."
+            ],
+            [
+                120,
+                "Because?"
+            ],
+            [
+                122,
+                "It\u2019s not enough that you made me watch that movie, but now you mock me with it?"
+            ],
+            [
+                124,
+                "Gentlemen, I have a question about dating and relationships."
+            ],
+            [
+                127,
+                "More to the point, it\u2019s about finding a way to keep Leonard and Stephanie together."
+            ],
+            [
+                129,
+                "Well, why not?"
+            ],
+            [
+                137,
+                "Yes, I\u2019m aware of the math, Y equals 27 days over 12 to the nth, the issue remains, how do we circumvent his inevitable rejection?"
+            ],
+            [
+                140,
+                "So, that\u2019s all you\u2019ve got? Apocalyptic genocide and go easy on the cologne?"
+            ],
+            [
+                149,
+                "May I come in?"
+            ],
+            [
+                151,
+                "I see. Apparently my earlier inquiry regarding you and Leonard crossed some sort of line. I apologize."
+            ],
+            [
+                153,
+                "So, have you and I returned to a social equilibrium?"
+            ],
+            [
+                155,
+                "Great. New topic. Where are you in your menstrual cycle?"
+            ],
+            [
+                157,
+                "I\u2019ve been doing some research online, and apparently female primates, you know, uh, apes, chimpanzees, you, they find their mate more desirable when he\u2019s being courted by another female. Now, this effect is intensified when the rival female is secreting the pheromones associated with ovulation. Which brings me back to my question, where are you in (Penny slams door). Clearly, I\u2019m 14 days too early."
+            ],
+            [
+                161,
+                "Oh, hi Stephanie."
+            ],
+            [
+                166,
+                "I have a craving for white asparagus that apparently is destined to go unsatisfied."
+            ],
+            [
+                168,
+                "I\u2019m helping you with Stephanie."
+            ],
+            [
+                170,
+                "When I fail to open this jar and you succeed it will establish you as the alpha male. You see, when a female witnesses an exhibition of physical domination she produces the hormone oxytocin. If the two of you then engage in intercourse this will create the biochemical reaction in the brain which lay people naively interpret as falling in love."
+            ],
+            [
+                172,
+                "Yes, actually it would, but let\u2019s see how the lid goes. I\u2019m not strong enough, Leonard, you\u2019ll have to do it."
+            ],
+            [
+                174,
+                "Go ahead, it\u2019s pre-loosened."
+            ],
+            [
+                177,
+                "No, yeah, yeah, he\u2019s got it, and that\u2019s not surprising. This is something I long ago came to peace with in my role as the beta male. Open it. (Leonard tries again. Then taps jar on counter. Jar breaks.)"
+            ],
+            [
+                180,
+                "Like a gladiator!"
+            ],
+            [
+                185,
+                "FYI, I was defrosting a steak in there."
+            ],
+            [
+                187,
+                "What a beautiful job Stephanie did. I might have gone with a mattress suture instead of a blanket stitch, but you can\u2019t argue with her results. It\u2019s a shame it won\u2019t scar, the war wound is a time-honoured badge of masculinity."
+            ],
+            [
+                189,
+                "Just for the record, my efforts to establish you as the alpha male were not aided by you bursting into tears."
+            ],
+            [
+                191,
+                "Watery?"
+            ],
+            [
+                198,
+                "She\u2019s right, as long as you\u2019re vomiting, coitus is contra-indicated."
+            ],
+            [
+                200,
+                "You\u2019re welcome, Dr. Hofstadter."
+            ],
+            [
+                203,
+                "Well, you seem like a perfectly pleasant person. I just can\u2019t understand why women have such a hard time loving you."
+            ],
+            [
+                218,
+                "I had no choice, he cried in front of her."
+            ],
+            [
+                220,
+                "Oh, it\u2019s hardly hacking when you use the same password for everything, Kal-el."
+            ],
+            [
+                222,
+                "In which I am not an expert."
+            ],
+            [
+                227,
+                "If I am permitted to speak again, Dr. Sheldon Cooper for the win."
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "Hey, Sheldon."
+            ],
+            [
+                4,
+                "I\u2019m sorry?"
+            ],
+            [
+                6,
+                "What\u2019s wrong with you? you\u2019re freaking me out."
+            ],
+            [
+                8,
+                "Please don\u2019t do that."
+            ],
+            [
+                10,
+                "So, this wasn\u2019t the awkward part?"
+            ],
+            [
+                12,
+                "Oh, all right. S\u2019u\u2019up?"
+            ],
+            [
+                14,
+                "Okay, feeling the awkward now."
+            ],
+            [
+                16,
+                "Yeah, Leonard told me."
+            ],
+            [
+                18,
+                "To you?"
+            ],
+            [
+                20,
+                "Well, what about me?"
+            ],
+            [
+                22,
+                "Well, aren\u2019t you sweet?"
+            ],
+            [
+                24,
+                "Yeah, I think she\u2019s pretty safe."
+            ],
+            [
+                26,
+                "Really?"
+            ],
+            [
+                28,
+                "I could think about you."
+            ],
+            [
+                30,
+                "Always nice talking to you, Sheldon."
+            ],
+            [
+                105,
+                "What?"
+            ],
+            [
+                107,
+                "This is a door knob."
+            ],
+            [
+                109,
+                "Sheldon, would you like to come in?"
+            ],
+            [
+                111,
+                "No."
+            ],
+            [
+                113,
+                "Sheldon, what do you want?"
+            ],
+            [
+                115,
+                "He\u2019s having problems with Stephanie?"
+            ],
+            [
+                117,
+                "What?"
+            ],
+            [
+                119,
+                "We never got to the bedroom."
+            ],
+            [
+                121,
+                "Oh, okay, all right, you know what? I\u2019ll tell you what happened. We were young, we were very much in love, but we could only communicate through a time-traveling mailbox at my lake house."
+            ],
+            [
+                146,
+                "What?"
+            ],
+            [
+                148,
+                "Oh, thank you."
+            ],
+            [
+                150,
+                "No."
+            ],
+            [
+                152,
+                "Well, thank you."
+            ],
+            [
+                154,
+                "Yes."
+            ],
+            [
+                156,
+                "What?"
+            ],
+            [
+                212,
+                "Your facebook status update. Leonard Hofstadter is in a relationship."
+            ],
+            [
+                215,
+                "Seriously? You went first, after only two weeks? That\u2019s bold."
+            ],
+            [
+                217,
+                "Well, then who did?"
+            ]
+        ],
+        "Leonard": [
+            [
+                37,
+                "I\u2019m glad you\u2019re enjoying yourself."
+            ],
+            [
+                39,
+                "I stand corrected."
+            ],
+            [
+                43,
+                "She doesn\u2019t mean it. She\u2019s just being nice."
+            ],
+            [
+                57,
+                "Uh, Sheldon?"
+            ],
+            [
+                59,
+                "Do you understand that this was supposed to be a date?"
+            ],
+            [
+                61,
+                "Okay, here\u2019s my question, why did you sit down?"
+            ],
+            [
+                63,
+                "What landing party?"
+            ],
+            [
+                67,
+                "Oh, my god, what did you do?"
+            ],
+            [
+                70,
+                "Oo-oo-oh!"
+            ],
+            [
+                73,
+                "What invitation?"
+            ],
+            [
+                75,
+                "Oh, clearly I could have."
+            ],
+            [
+                78,
+                "Not the right seats. (Sheldon moves around the theatre sitting in various seats and shouting \u201cHa!\u201d)"
+            ],
+            [
+                80,
+                "He\u2019s finding the acoustic sweet spot."
+            ],
+            [
+                82,
+                "Sometimes he brings a toy xylophone. I am really sorry about this."
+            ],
+            [
+                85,
+                "No, just sit here."
+            ],
+            [
+                89,
+                "What, Sheldon? What, Sheldon? What, Sheldon?"
+            ],
+            [
+                91,
+                "The blunt instrument that will be the focus of my murder trial?"
+            ],
+            [
+                93,
+                "Stephanie Barnett is single."
+            ],
+            [
+                95,
+                "It\u2019s just her facebook page and we\u2019ve only been going out a couple of weeks."
+            ],
+            [
+                97,
+                "Okay, I\u2019m going to make this very simple for you. You are not in this relationship, I am. Ergo, you have no say in anything that happens between me and Stephanie."
+            ],
+            [
+                99,
+                "General Order 104, Section A does not apply in this situation."
+            ],
+            [
+                101,
+                "Because this is not Star Trek"
+            ],
+            [
+                159,
+                "All I\u2019m saying is if they can cure yellow fever and malaria, why can\u2019t they do something about lactose intolerance?"
+            ],
+            [
+                163,
+                "Want some more wine?"
+            ],
+            [
+                165,
+                "What are you doing?"
+            ],
+            [
+                167,
+                "Excuse me. What the hell is wrong with you?"
+            ],
+            [
+                169,
+                "By making constipated moose sounds?"
+            ],
+            [
+                171,
+                "Huh? Would it work if I just punched you in the face?"
+            ],
+            [
+                173,
+                "Oh, for god\u2019s sakes."
+            ],
+            [
+                176,
+                "No, no, no, I got it."
+            ],
+            [
+                179,
+                "No, I\u2019m not. I\u2019m bleeding."
+            ],
+            [
+                182,
+                "Stitches? With a needle?"
+            ],
+            [
+                184,
+                "Oh, okay, yeah, hang on a sec. (Throws up in sink)"
+            ],
+            [
+                188,
+                "I can\u2019t remember a time when you weren\u2019t talking."
+            ],
+            [
+                190,
+                "I did not burst into tears, my eyes just got a little watery."
+            ],
+            [
+                192,
+                "She stuck a needle into my hand!"
+            ],
+            [
+                194,
+                "I didn\u2019t cry."
+            ],
+            [
+                196,
+                "Oh, are you still going to spend the night?"
+            ],
+            [
+                199,
+                "Thank you, Dr. Cooper."
+            ],
+            [
+                206,
+                "Hey, can you open this for me?"
+            ],
+            [
+                208,
+                "Sure. (Holds out hand. Howard starts to retch)."
+            ],
+            [
+                211,
+                "What for?"
+            ],
+            [
+                213,
+                "What? no. no, that\u2019s not right."
+            ],
+            [
+                216,
+                "It\u2019s not bold, it\u2019s a mistake. I didn\u2019t change my status."
+            ],
+            [
+                219,
+                "You hacked my facebook account?"
+            ],
+            [
+                221,
+                "Are you insane? Now she\u2019s going to think I\u2019m desperate. You\u2019ve destroyed this relationship! And you want to know what the worst part is? You don\u2019t even understand what you did wrong because you can\u2019t conceive of something that you are not an expert in!"
+            ],
+            [
+                223,
+                "Don\u2019t even! I don\u2019t want to hear another word out of you."
+            ],
+            [
+                226,
+                "Really? Oh, look at that, I have a girlfriend."
+            ]
+        ],
+        "Steph": [
+            [
+                41,
+                "That\u2019s very interesting."
+            ],
+            [
+                45,
+                "No."
+            ],
+            [
+                47,
+                "Ih-uh, strawberries."
+            ],
+            [
+                49,
+                "Uh, Lawrence Memorial in Galveston, Texas."
+            ],
+            [
+                51,
+                "You\u2019re kidding!"
+            ],
+            [
+                53,
+                "Why, what-what-what happened?"
+            ],
+            [
+                55,
+                "I\u2019m sorry, you tried to build your own cat scanner?"
+            ],
+            [
+                66,
+                "So, we\u2019re all standing around looking at the post-op x ray and there it is, clear as day, right in the guy\u2019s chest cavity, one of my earrings."
+            ],
+            [
+                68,
+                "What do you think I did? I discreetly slipped off the other earring, put it in my pocket and then got the hell out of there!"
+            ],
+            [
+                71,
+                "Hi, Sheldon."
+            ],
+            [
+                77,
+                "No, no, we have seats."
+            ],
+            [
+                79,
+                "What is he doing?"
+            ],
+            [
+                81,
+                "Does he always do this?"
+            ],
+            [
+                83,
+                "No, it\u2019s fine. you know, he\u2019s sweet."
+            ],
+            [
+                160,
+                "Leonard, you\u2019re going to have to let this go. You had a little cheese dip, you farted, I thought it was cute."
+            ],
+            [
+                162,
+                "Hi."
+            ],
+            [
+                164,
+                "Yeah, I assume I\u2019m not driving anywhere tonight. (Sheldon lets out a loud noise)."
+            ],
+            [
+                175,
+                "Do you want some help with that?"
+            ],
+            [
+                178,
+                "Oh my god, are you okay?"
+            ],
+            [
+                181,
+                "Oh, honey, you\u2019re going to need stitches."
+            ],
+            [
+                183,
+                "Well, yeah, I mean, just a few."
+            ],
+            [
+                193,
+                "Hey, how\u2019s my big cry baby?"
+            ],
+            [
+                195,
+                "Okay, I\u2019m just teasing you. But, yeah, you did. Alright, it\u2019s all good. what do you say we get you home and put you to bed?"
+            ],
+            [
+                197,
+                "Uh, no, I think that you probably need to rest."
+            ],
+            [
+                201,
+                "Okay, I\u2019m going to go get your discharge papers."
+            ]
+        ],
+        "Sheldon (arriving)": [
+            [
+                69,
+                "I have a bone to pick with you, sir."
+            ]
+        ],
+        "Sheldon (Knock, knock, knock) ": [
+            [
+                88,
+                "Leonard (knock, knock, knock)  Leonard (knock, knock, knock)  Leonard."
+            ],
+            [
+                104,
+                "Penny (knock, knock, knock)  Penny (knock, knock, knock)  Penny."
+            ],
+            [
+                145,
+                "Penny (knock, knock, knock)  Penny."
+            ],
+            [
+                147,
+                "Penny. Zucchini bread."
+            ]
+        ],
+        "Sheldon (showing him laptop)": [
+            [
+                90,
+                "Tell me what you see here."
+            ]
+        ],
+        "Raj": [
+            [
+                125,
+                "You told me you were going to have the talk with him."
+            ],
+            [
+                131,
+                "During which she defected to North Korea."
+            ],
+            [
+                133,
+                "For which she awarded him the nickname \u201cspeed of light Leonard.\u201d"
+            ],
+            [
+                135,
+                "Which would have been two and a half if they ordered the souffle when they sat down."
+            ],
+            [
+                138,
+                "Well, if you want to guarantee his appeal to Stephanie, your best bet would be to kill all the other men on the planet."
+            ],
+            [
+                142,
+                "Yeah."
+            ],
+            [
+                207,
+                "Can I see your stitches?"
+            ],
+            [
+                209,
+                "Answering the question once and for all why Wolowitz bailed out of medical school."
+            ]
+        ],
+        "Howard": [
+            [
+                126,
+                "I\u2019ve been waiting for someone to have the talk with me."
+            ],
+            [
+                128,
+                "Oh, I don\u2019t think you can."
+            ],
+            [
+                130,
+                "Look at Leonard\u2019s record. 27 days with Joyce Kim."
+            ],
+            [
+                132,
+                "Two booty calls with Leslie Winkle."
+            ],
+            [
+                134,
+                "And a three hour dinner with Penny."
+            ],
+            [
+                136,
+                "Based on the geometric progression, his relationship with Stephanie should have ended after 20 minutes."
+            ],
+            [
+                139,
+                "I\u2019ll tell you what you shouldn\u2019t do. Don\u2019t spritz him with that body spray from the commercial where the women undress when they smell it, that doesn\u2019t work at all, no matter how much you put on."
+            ],
+            [
+                141,
+                "Yes."
+            ],
+            [
+                214,
+                "Oh, man, did you switch your status before she did? Speaking as an expert, way to look needy."
+            ],
+            [
+                225,
+                "Stephanie Barnett is in a relationship with Leonard Hofstadter.\u201d"
+            ]
+        ],
+        "Leonard (after Sheldon tuts)": [
+            [
+                202,
+                "What?"
+            ]
+        ],
+        "Penny (entering)": [
+            [
+                210,
+                "Leonard, congratulations."
+            ]
+        ],
+        "Penny (after Raj lets out a noise)": [
+            [
+                224,
+                "What\u2019s wrong, Lassie? Timmy fall down the well? (He points) Oh, wow. She just updated her facebook status."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The lobby. "
+        ],
+        [
+            "Sheldon",
+            "Penny, hello."
+        ],
+        [
+            "Penny",
+            "Hey, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "What is shaking?"
+        ],
+        [
+            "Penny",
+            "I\u2019m sorry?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s colloquial, a conversation opener. So, do you find the weather satisfying? Are you currently sharing in the triumph of some local sports team?"
+        ],
+        [
+            "Penny",
+            "What\u2019s wrong with you? you\u2019re freaking me out."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m striking up a casual conversation with you. S\u2019u\u2019up?"
+        ],
+        [
+            "Penny",
+            "Please don\u2019t do that."
+        ],
+        [
+            "Sheldon",
+            "All right, But I\u2019m given to understand that when you have something awkward to discuss with someone, it\u2019s more palatable to preface it with banal chit chat."
+        ],
+        [
+            "Penny",
+            "So, this wasn\u2019t the awkward part?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Penny",
+            "Oh, all right. S\u2019u\u2019up?"
+        ],
+        [
+            "Sheldon",
+            "Oh, good, I used that right. Anyway, you\u2019re aware that Leonard has entered into a new romantic relationship which includes a sexual component?"
+        ],
+        [
+            "Penny",
+            "Okay, feeling the awkward now."
+        ],
+        [
+            "Sheldon",
+            "Her name is Dr. Stephanie Barnett and she is a highly distinguished surgical resident at Freemont Memorial."
+        ],
+        [
+            "Penny",
+            "Yeah, Leonard told me."
+        ],
+        [
+            "Sheldon",
+            "Good. What he may have left out is how important this relationship is to me."
+        ],
+        [
+            "Penny",
+            "To you?"
+        ],
+        [
+            "Sheldon",
+            "Yes, see, of the handful of women Leonard\u2019s been involved with, she\u2019s the only one I have ever found tolerable."
+        ],
+        [
+            "Penny",
+            "Well, what about me?"
+        ],
+        [
+            "Sheldon",
+            "The statement stands for itself."
+        ],
+        [
+            "Penny",
+            "Well, aren\u2019t you sweet?"
+        ],
+        [
+            "Sheldon",
+            "Anyway, should you have any interaction with her, it would be most helpful that she not see you as a sexual rival."
+        ],
+        [
+            "Penny",
+            "Yeah, I think she\u2019s pretty safe."
+        ],
+        [
+            "Sheldon",
+            "You say that now, but consider the following scenario, you\u2019re sitting in your apartment, it\u2019s late, you\u2019re alone, your hypothalamus is swimming in a soup of estrogen and progesterone and suddenly even Leonard seems like a viable sexual candidate, or a, uh, hookup as it\u2019s referred to by today\u2019s urban youth."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Now, should that happen, I would ask you to find some way to suppress your libido."
+        ],
+        [
+            "Penny",
+            "I could think about you."
+        ],
+        [
+            "Sheldon",
+            "Fine, whatever works."
+        ],
+        [
+            "Penny",
+            "Always nice talking to you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Uh, peace out!"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Well, this is very pleasant."
+        ],
+        [
+            "Leonard",
+            "I\u2019m glad you\u2019re enjoying yourself."
+        ],
+        [
+            "Sheldon",
+            "And you said there\u2019d never be enough pasta for the three of us."
+        ],
+        [
+            "Leonard",
+            "I stand corrected."
+        ],
+        [
+            "Sheldon",
+            "You know, Italian housewives have a rule of thumb. A handful of dry pasta about an inch in diameter is sufficient for each person as it doubles in volume when cooked."
+        ],
+        [
+            "Steph",
+            "That\u2019s very interesting."
+        ],
+        [
+            "Sheldon",
+            "Thank you."
+        ],
+        [
+            "Leonard",
+            "She doesn\u2019t mean it. She\u2019s just being nice."
+        ],
+        [
+            "Sheldon",
+            "Well, Stephanie, since Leonard seems to be dropping the conversational ball, I guess I\u2019ll just have to pick it up. Have you ever witnessed a violent crime?"
+        ],
+        [
+            "Steph",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Good. What\u2019s your favourite fruit?"
+        ],
+        [
+            "Steph",
+            "Ih-uh, strawberries."
+        ],
+        [
+            "Sheldon",
+            "Hmm, technically not a fruit, but all right. Where did you do your medical internship?"
+        ],
+        [
+            "Steph",
+            "Uh, Lawrence Memorial in Galveston, Texas."
+        ],
+        [
+            "Sheldon",
+            "Really? That\u2019s where I was born!"
+        ],
+        [
+            "Steph",
+            "You\u2019re kidding!"
+        ],
+        [
+            "Sheldon",
+            "I spent so much of my childhood at that hospital. When I was 12, I got to ride there in a helicopter."
+        ],
+        [
+            "Steph",
+            "Why, what-what-what happened?"
+        ],
+        [
+            "Sheldon",
+            "Radiation burns. A little mishap while I was building my own cat scanner."
+        ],
+        [
+            "Steph",
+            "I\u2019m sorry, you tried to build your own cat scanner?"
+        ],
+        [
+            "Sheldon",
+            "No, I didn\u2019t try, I succeeded. In fact, I was briefly able to see the inside of my sister\u2019s guinea pig, Snowball, before he caught fire. It led to an interesting expression in our house, not a snowball\u2019s chance in a cat scanner."
+        ],
+        [
+            "Leonard",
+            "Uh, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Excuse me. When I come back, just for fun, the subject will be alternative history. Specifically, how would the civil war have gone differently if Lincoln had been a robot sent from the future? (To Leonard) Look at that, there\u2019s even pasta left over."
+        ],
+        [
+            "Leonard",
+            "Do you understand that this was supposed to be a date?"
+        ],
+        [
+            "Sheldon",
+            "I do. Do you? Because frankly, you\u2019ve been in a foul mood since I sat down."
+        ],
+        [
+            "Leonard",
+            "Okay, here\u2019s my question, why did you sit down?"
+        ],
+        [
+            "Sheldon",
+            "To help. Look, if you fail at this relationship, and history suggests you will, then we risk losing the medical officer that our landing party has always needed."
+        ],
+        [
+            "Leonard",
+            "What landing party?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re Kirk, I\u2019m Spock, Wolowitz is Scotty, Koothrappali is the guy who always gets killed, and now we\u2019ve got McCoy."
+        ],
+        [
+            "Scene",
+            "A cinema."
+        ],
+        [
+            "Steph",
+            "So, we\u2019re all standing around looking at the post-op x ray and there it is, clear as day, right in the guy\u2019s chest cavity, one of my earrings."
+        ],
+        [
+            "Leonard",
+            "Oh, my god, what did you do?"
+        ],
+        [
+            "Steph",
+            "What do you think I did? I discreetly slipped off the other earring, put it in my pocket and then got the hell out of there!"
+        ],
+        [
+            "Sheldon (arriving)",
+            "I have a bone to pick with you, sir."
+        ],
+        [
+            "Leonard",
+            "Oo-oo-oh!"
+        ],
+        [
+            "Steph",
+            "Hi, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Hi, Stephanie. I\u2019m sorry I\u2019m late, but your companion left the most indecipherable invitation."
+        ],
+        [
+            "Leonard",
+            "What invitation?"
+        ],
+        [
+            "Sheldon",
+            "We\u2019re going to the movies. What movie? What theatre? What time? If you were trying to make it impossible to locate you, you couldn\u2019t have done a better job."
+        ],
+        [
+            "Leonard",
+            "Oh, clearly I could have."
+        ],
+        [
+            "Sheldon",
+            "It took me nearly 20 minutes to go through the browser history on your computer to see what movie times you looked up. Wait here, I\u2019ll find us seats."
+        ],
+        [
+            "Steph",
+            "No, no, we have seats."
+        ],
+        [
+            "Leonard",
+            "Not the right seats. (Sheldon moves around the theatre sitting in various seats and shouting \u201cHa!\u201d)"
+        ],
+        [
+            "Steph",
+            "What is he doing?"
+        ],
+        [
+            "Leonard",
+            "He\u2019s finding the acoustic sweet spot."
+        ],
+        [
+            "Steph",
+            "Does he always do this?"
+        ],
+        [
+            "Leonard",
+            "Sometimes he brings a toy xylophone. I am really sorry about this."
+        ],
+        [
+            "Steph",
+            "No, it\u2019s fine. you know, he\u2019s sweet."
+        ],
+        [
+            "Sheldon",
+            "My apologies, you\u2019ve been sitting in it all along. Leonard, you want to slide over one?"
+        ],
+        [
+            "Leonard",
+            "No, just sit here."
+        ],
+        [
+            "Sheldon",
+            "Oh, yeah, this is it."
+        ],
+        [
+            "Scene",
+            "Outside Leonard\u2019s bedroom. "
+        ],
+        [
+            "Sheldon (Knock, knock, knock) ",
+            "Leonard (knock, knock, knock)  Leonard (knock, knock, knock)  Leonard."
+        ],
+        [
+            "Leonard",
+            "What, Sheldon? What, Sheldon? What, Sheldon?"
+        ],
+        [
+            "Sheldon (showing him laptop)",
+            "Tell me what you see here."
+        ],
+        [
+            "Leonard",
+            "The blunt instrument that will be the focus of my murder trial?"
+        ],
+        [
+            "Sheldon",
+            "This is Stephanie\u2019s facebook page. Now, where it should say in a relationship, what does it say?"
+        ],
+        [
+            "Leonard",
+            "Stephanie Barnett is single."
+        ],
+        [
+            "Sheldon",
+            "Yeah, furthermore, earlier this evening, she threw a digital sheep at some guy named Mike. Who\u2019s Mike? Why does he get a digital sheep and not you?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s just her facebook page and we\u2019ve only been going out a couple of weeks."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t see it, do you? We\u2019re losing her."
+        ],
+        [
+            "Leonard",
+            "Okay, I\u2019m going to make this very simple for you. You are not in this relationship, I am. Ergo, you have no say in anything that happens between me and Stephanie."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m afraid I can\u2019t allow that. Pursuant to Starfleet General Order 104 Section A, you are deemed unfit and I hereby relieve you of your command."
+        ],
+        [
+            "Leonard",
+            "General Order 104, Section A does not apply in this situation."
+        ],
+        [
+            "Sheldon",
+            "Give me one good reason why not."
+        ],
+        [
+            "Leonard",
+            "Because this is not Star Trek"
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s door."
+        ],
+        [
+            "Sheldon (Knock, knock, knock) ",
+            "Penny (knock, knock, knock)  Penny (knock, knock, knock)  Penny."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "This is banana bread."
+        ],
+        [
+            "Penny",
+            "This is a door knob."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s my understanding that an unsolicited gift of food can be a precursor to an impromptu invitation to come in and chat."
+        ],
+        [
+            "Penny",
+            "Sheldon, would you like to come in?"
+        ],
+        [
+            "Sheldon",
+            "I suppose I could spare a few minutes. Were you robbed?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "How can you be sure?"
+        ],
+        [
+            "Penny",
+            "Sheldon, what do you want?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m certain this will come as no surprise to you, but Leonard is failing in yet another relationship."
+        ],
+        [
+            "Penny",
+            "He\u2019s having problems with Stephanie?"
+        ],
+        [
+            "Sheldon",
+            "She\u2019s sending virtual livestock to random men on the internet. If I have any hope of keeping them together, I need data. Specifically, I need to know exactly what Leonard did that caused you to pop an emotional cap in his buttocks."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Again, urban slang. In which, I believe I\u2019m gaining remarkable fluency. So, what is the down and the low? And don\u2019t worry, this is all entirely confidential, so, you feel free to include any and all shortcomings in the bedroom."
+        ],
+        [
+            "Penny",
+            "We never got to the bedroom."
+        ],
+        [
+            "Sheldon",
+            "Because?"
+        ],
+        [
+            "Penny",
+            "Oh, okay, all right, you know what? I\u2019ll tell you what happened. We were young, we were very much in love, but we could only communicate through a time-traveling mailbox at my lake house."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not enough that you made me watch that movie, but now you mock me with it?"
+        ],
+        [
+            "Scene",
+            "The university cafeteria."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, I have a question about dating and relationships."
+        ],
+        [
+            "Raj",
+            "You told me you were going to have the talk with him."
+        ],
+        [
+            "Howard",
+            "I\u2019ve been waiting for someone to have the talk with me."
+        ],
+        [
+            "Sheldon",
+            "More to the point, it\u2019s about finding a way to keep Leonard and Stephanie together."
+        ],
+        [
+            "Howard",
+            "Oh, I don\u2019t think you can."
+        ],
+        [
+            "Sheldon",
+            "Well, why not?"
+        ],
+        [
+            "Howard",
+            "Look at Leonard\u2019s record. 27 days with Joyce Kim."
+        ],
+        [
+            "Raj",
+            "During which she defected to North Korea."
+        ],
+        [
+            "Howard",
+            "Two booty calls with Leslie Winkle."
+        ],
+        [
+            "Raj",
+            "For which she awarded him the nickname \u201cspeed of light Leonard.\u201d"
+        ],
+        [
+            "Howard",
+            "And a three hour dinner with Penny."
+        ],
+        [
+            "Raj",
+            "Which would have been two and a half if they ordered the souffle when they sat down."
+        ],
+        [
+            "Howard",
+            "Based on the geometric progression, his relationship with Stephanie should have ended after 20 minutes."
+        ],
+        [
+            "Sheldon",
+            "Yes, I\u2019m aware of the math, Y equals 27 days over 12 to the nth, the issue remains, how do we circumvent his inevitable rejection?"
+        ],
+        [
+            "Raj",
+            "Well, if you want to guarantee his appeal to Stephanie, your best bet would be to kill all the other men on the planet."
+        ],
+        [
+            "Howard",
+            "I\u2019ll tell you what you shouldn\u2019t do. Don\u2019t spritz him with that body spray from the commercial where the women undress when they smell it, that doesn\u2019t work at all, no matter how much you put on."
+        ],
+        [
+            "Sheldon",
+            "So, that\u2019s all you\u2019ve got? Apocalyptic genocide and go easy on the cologne?"
+        ],
+        [
+            "Howard",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "Yeah."
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s door."
+        ],
+        [
+            "Sheldon (Knock, knock, knock) ",
+            "Penny (knock, knock, knock)  Penny."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon (Knock, knock, knock) ",
+            "Penny. Zucchini bread."
+        ],
+        [
+            "Penny",
+            "Oh, thank you."
+        ],
+        [
+            "Sheldon",
+            "May I come in?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "I see. Apparently my earlier inquiry regarding you and Leonard crossed some sort of line. I apologize."
+        ],
+        [
+            "Penny",
+            "Well, thank you."
+        ],
+        [
+            "Sheldon",
+            "So, have you and I returned to a social equilibrium?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Great. New topic. Where are you in your menstrual cycle?"
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve been doing some research online, and apparently female primates, you know, uh, apes, chimpanzees, you, they find their mate more desirable when he\u2019s being courted by another female. Now, this effect is intensified when the rival female is secreting the pheromones associated with ovulation. Which brings me back to my question, where are you in (Penny slams door). Clearly, I\u2019m 14 days too early."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "All I\u2019m saying is if they can cure yellow fever and malaria, why can\u2019t they do something about lactose intolerance?"
+        ],
+        [
+            "Steph",
+            "Leonard, you\u2019re going to have to let this go. You had a little cheese dip, you farted, I thought it was cute."
+        ],
+        [
+            "Sheldon",
+            "Oh, hi Stephanie."
+        ],
+        [
+            "Steph",
+            "Hi."
+        ],
+        [
+            "Leonard",
+            "Want some more wine?"
+        ],
+        [
+            "Steph",
+            "Yeah, I assume I\u2019m not driving anywhere tonight. (Sheldon lets out a loud noise)."
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "I have a craving for white asparagus that apparently is destined to go unsatisfied."
+        ],
+        [
+            "Leonard",
+            "Excuse me. What the hell is wrong with you?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m helping you with Stephanie."
+        ],
+        [
+            "Leonard",
+            "By making constipated moose sounds?"
+        ],
+        [
+            "Sheldon",
+            "When I fail to open this jar and you succeed it will establish you as the alpha male. You see, when a female witnesses an exhibition of physical domination she produces the hormone oxytocin. If the two of you then engage in intercourse this will create the biochemical reaction in the brain which lay people naively interpret as falling in love."
+        ],
+        [
+            "Leonard",
+            "Huh? Would it work if I just punched you in the face?"
+        ],
+        [
+            "Sheldon",
+            "Yes, actually it would, but let\u2019s see how the lid goes. I\u2019m not strong enough, Leonard, you\u2019ll have to do it."
+        ],
+        [
+            "Leonard",
+            "Oh, for god\u2019s sakes."
+        ],
+        [
+            "Sheldon",
+            "Go ahead, it\u2019s pre-loosened."
+        ],
+        [
+            "Steph",
+            "Do you want some help with that?"
+        ],
+        [
+            "Leonard",
+            "No, no, no, I got it."
+        ],
+        [
+            "Sheldon",
+            "No, yeah, yeah, he\u2019s got it, and that\u2019s not surprising. This is something I long ago came to peace with in my role as the beta male. Open it. (Leonard tries again. Then taps jar on counter. Jar breaks.)"
+        ],
+        [
+            "Steph",
+            "Oh my god, are you okay?"
+        ],
+        [
+            "Leonard",
+            "No, I\u2019m not. I\u2019m bleeding."
+        ],
+        [
+            "Sheldon",
+            "Like a gladiator!"
+        ],
+        [
+            "Steph",
+            "Oh, honey, you\u2019re going to need stitches."
+        ],
+        [
+            "Leonard",
+            "Stitches? With a needle?"
+        ],
+        [
+            "Steph",
+            "Well, yeah, I mean, just a few."
+        ],
+        [
+            "Leonard",
+            "Oh, okay, yeah, hang on a sec. (Throws up in sink)"
+        ],
+        [
+            "Sheldon",
+            "FYI, I was defrosting a steak in there."
+        ],
+        [
+            "Scene",
+            "The hospital."
+        ],
+        [
+            "Sheldon",
+            "What a beautiful job Stephanie did. I might have gone with a mattress suture instead of a blanket stitch, but you can\u2019t argue with her results. It\u2019s a shame it won\u2019t scar, the war wound is a time-honoured badge of masculinity."
+        ],
+        [
+            "Leonard",
+            "I can\u2019t remember a time when you weren\u2019t talking."
+        ],
+        [
+            "Sheldon",
+            "Just for the record, my efforts to establish you as the alpha male were not aided by you bursting into tears."
+        ],
+        [
+            "Leonard",
+            "I did not burst into tears, my eyes just got a little watery."
+        ],
+        [
+            "Sheldon",
+            "Watery?"
+        ],
+        [
+            "Leonard",
+            "She stuck a needle into my hand!"
+        ],
+        [
+            "Steph",
+            "Hey, how\u2019s my big cry baby?"
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t cry."
+        ],
+        [
+            "Steph",
+            "Okay, I\u2019m just teasing you. But, yeah, you did. Alright, it\u2019s all good. what do you say we get you home and put you to bed?"
+        ],
+        [
+            "Leonard",
+            "Oh, are you still going to spend the night?"
+        ],
+        [
+            "Steph",
+            "Uh, no, I think that you probably need to rest."
+        ],
+        [
+            "Sheldon",
+            "She\u2019s right, as long as you\u2019re vomiting, coitus is contra-indicated."
+        ],
+        [
+            "Leonard",
+            "Thank you, Dr. Cooper."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re welcome, Dr. Hofstadter."
+        ],
+        [
+            "Steph",
+            "Okay, I\u2019m going to go get your discharge papers."
+        ],
+        [
+            "Leonard (after Sheldon tuts)",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Well, you seem like a perfectly pleasant person. I just can\u2019t understand why women have such a hard time loving you."
+        ],
+        [
+            "Scene",
+            "The Apartment."
+        ],
+        [
+            "Leonard",
+            "Hey, can you open this for me?"
+        ],
+        [
+            "Raj",
+            "Can I see your stitches?"
+        ],
+        [
+            "Leonard",
+            "Sure. (Holds out hand. Howard starts to retch)."
+        ],
+        [
+            "Raj",
+            "Answering the question once and for all why Wolowitz bailed out of medical school."
+        ],
+        [
+            "Penny (entering)",
+            "Leonard, congratulations."
+        ],
+        [
+            "Leonard",
+            "What for?"
+        ],
+        [
+            "Penny",
+            "Your facebook status update. Leonard Hofstadter is in a relationship."
+        ],
+        [
+            "Leonard",
+            "What? no. no, that\u2019s not right."
+        ],
+        [
+            "Howard",
+            "Oh, man, did you switch your status before she did? Speaking as an expert, way to look needy."
+        ],
+        [
+            "Penny",
+            "Seriously? You went first, after only two weeks? That\u2019s bold."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not bold, it\u2019s a mistake. I didn\u2019t change my status."
+        ],
+        [
+            "Penny",
+            "Well, then who did?"
+        ],
+        [
+            "Sheldon",
+            "I had no choice, he cried in front of her."
+        ],
+        [
+            "Leonard",
+            "You hacked my facebook account?"
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s hardly hacking when you use the same password for everything, Kal-el."
+        ],
+        [
+            "Leonard",
+            "Are you insane? Now she\u2019s going to think I\u2019m desperate. You\u2019ve destroyed this relationship! And you want to know what the worst part is? You don\u2019t even understand what you did wrong because you can\u2019t conceive of something that you are not an expert in!"
+        ],
+        [
+            "Sheldon",
+            "In which I am not an expert."
+        ],
+        [
+            "Leonard",
+            "Don\u2019t even! I don\u2019t want to hear another word out of you."
+        ],
+        [
+            "Penny (after Raj lets out a noise)",
+            "What\u2019s wrong, Lassie? Timmy fall down the well? (He points) Oh, wow. She just updated her facebook status."
+        ],
+        [
+            "Howard",
+            "Stephanie Barnett is in a relationship with Leonard Hofstadter.\u201d"
+        ],
+        [
+            "Leonard",
+            "Really? Oh, look at that, I have a girlfriend."
+        ],
+        [
+            "Sheldon",
+            "If I am permitted to speak again, Dr. Sheldon Cooper for the win."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-2-episode-09-the-white-asparagus-triangulation/"
+}

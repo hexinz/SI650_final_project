@@ -1,0 +1,1934 @@
+{
+    "Season": 7,
+    "Episode": 19,
+    "Title": "the indecision amalgamation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                19,
+                "Credits sequence."
+            ],
+            [
+                20,
+                "Penny\u2019s apartment."
+            ],
+            [
+                48,
+                "A coffee shop."
+            ],
+            [
+                58,
+                "Amy\u2019s apartment."
+            ],
+            [
+                79,
+                "Sheldon You see? I don\u2019t know. What should I do?"
+            ],
+            [
+                81,
+                "Penny\u2019s apartment."
+            ],
+            [
+                96,
+                "Amy\u2019s apartment. "
+            ],
+            [
+                104,
+                "The apartment. "
+            ],
+            [
+                133,
+                "The same, later."
+            ],
+            [
+                149,
+                "A coffee shop."
+            ],
+            [
+                166,
+                "The stairwell."
+            ],
+            [
+                172,
+                "The apartment. "
+            ],
+            [
+                181,
+                "An electrical store."
+            ],
+            [
+                207,
+                "A restaurant."
+            ],
+            [
+                225,
+                "The electrical store."
+            ],
+            [
+                235,
+                "A film set. Penny is being fitted with gorilla hands."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Boy, do I have to urinate."
+            ],
+            [
+                3,
+                "Seriously. I feel like I\u2019ve got a fish tank in my pelvis."
+            ],
+            [
+                5,
+                "I can\u2019t."
+            ],
+            [
+                7,
+                "Because I\u2019m trying to decide between getting an Xbox One or a PS4. Oh, pee, why\u2019d I say that?"
+            ],
+            [
+                9,
+                "I\u2019m not being stupid. I\u2019m employing the work of Dutch researcher, Mirjam Tuk, who found that people with full bladders make better decisions."
+            ],
+            [
+                16,
+                "Here come the waterworks."
+            ],
+            [
+                59,
+                "So, first there was PlayStation, aka PS1, then PS2, PS3 and now PS4. And that makes sense. You\u2019d think after Xbox, there\u2019d be Xbox 2. But no, next came Xbox 360. Hmm? And now, after 360, comes Xbox One. Why one? Maybe that\u2019s how many seconds of thought they put into naming it."
+            ],
+            [
+                61,
+                "You know, however, with the Xbox One, I can control my entire entertainment system using voice commands. Up until now, I\u2019ve had to use Leonard."
+            ],
+            [
+                63,
+                "Get? Hang on. I don\u2019t feel like you\u2019re taking this dilemma seriously."
+            ],
+            [
+                65,
+                "Okay, now, the PS4 is more angular and sleek-looking."
+            ],
+            [
+                67,
+                "Yeah, well, it\u2019s true. But the larger size of the Xbox One may keep it from overheating."
+            ],
+            [
+                69,
+                "No, see? Well, you absolutely would not. And furthermore, the Xbox One now comes with a Kinect included."
+            ],
+            [
+                71,
+                "Yes. Not sold separately. Although the PS4 uses cool new GDDR5 RAM, while the Xbox One is still using the conventional DDR3 memory."
+            ],
+            [
+                73,
+                "See? That\u2019s what I thought. But then they go and throw in an ESRAM buffer."
+            ],
+            [
+                75,
+                "Xbox."
+            ],
+            [
+                77,
+                "No, I am not. And this ESRAM buffer should totally bridge the 100-gigabit-per-second bandwidth gap between the two RAM types."
+            ],
+            [
+                97,
+                "Thank you again for dinner."
+            ],
+            [
+                99,
+                "Good night."
+            ],
+            [
+                101,
+                "Oh, of course. (They kiss) Did I mention the PS4 controllers light up?"
+            ],
+            [
+                103,
+                "Well, they do."
+            ],
+            [
+                116,
+                "Quick poll, PS4 or Xbox One? Raj?"
+            ],
+            [
+                118,
+                "Penny?"
+            ],
+            [
+                120,
+                "Leonard?"
+            ],
+            [
+                122,
+                "Wolowitz?"
+            ],
+            [
+                124,
+                "Bernadette?"
+            ],
+            [
+                126,
+                "Thanks, Grandma."
+            ],
+            [
+                183,
+                "You know, I\u2019m proud of me, too. I\u2019ve done all my research, I conducted an informal poll, and I\u2019ve arrived at the rock-solid certainty I\u2019ve made the right choice."
+            ],
+            [
+                185,
+                "Oh, it is. Although."
+            ],
+            [
+                187,
+                "I had the same feeling when I made my dad buy a Betamax instead of a VHS."
+            ],
+            [
+                189,
+                "Yeah, a little kid who picked the wrong format to record The MacNeil/Lehrer Report. Now I also was certain that HD DVD would win out over Blu-ray."
+            ],
+            [
+                191,
+                "Old enough to know better. You know, and now that I think about it, I stood in front of a case of iPods and I bought a Zune."
+            ],
+            [
+                193,
+                "Yeah, exactly. It\u2019s an MP3 player brought to us by the makers of Xbox."
+            ],
+            [
+                195,
+                "But what if I\u2019m wrong?"
+            ],
+            [
+                197,
+                "You know I only have one slot available in my entertainment centre."
+            ],
+            [
+                199,
+                "Well, yeah, okay, sure. But which one?"
+            ],
+            [
+                201,
+                "Interesting."
+            ],
+            [
+                203,
+                "All right, I\u2019ll try."
+            ],
+            [
+                205,
+                "A quarter."
+            ],
+            [
+                226,
+                "On the one hand, the Xbox One has a better camera, but the PS4 has a removable hard drive. Thoughts?"
+            ],
+            [
+                229,
+                "But I haven\u2019t decided yet."
+            ],
+            [
+                232,
+                "Okay."
+            ],
+            [
+                234,
+                "I don\u2019t know. Hey, look, a quarter."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "If only there were a solution to that."
+            ],
+            [
+                4,
+                "So go to the bathroom."
+            ],
+            [
+                6,
+                "Why not?"
+            ],
+            [
+                8,
+                "Forgive me for asking a stupid question, but why are you being stupid?"
+            ],
+            [
+                10,
+                "Why did I pee before I decided to move in here?"
+            ],
+            [
+                12,
+                "Hey. Oh, how\u2019d the audition go?"
+            ],
+            [
+                14,
+                "Oh, that\u2019s great."
+            ],
+            [
+                17,
+                "Aren\u2019t you gonna ask?"
+            ],
+            [
+                85,
+                "Well, for starters, I wouldn\u2019t eat the bananas."
+            ],
+            [
+                87,
+                "Uh, uh, does it at least pay well?"
+            ],
+            [
+                89,
+                "What does your agent think?"
+            ],
+            [
+                91,
+                "You know what, why don\u2019t you just do it? You\u2019ll go have fun for a few weeks, make some money, and who knows what it might lead to?"
+            ],
+            [
+                93,
+                "Just to clarify, which one of you is wearing the bikini?"
+            ],
+            [
+                95,
+                "So it\u2019s a family film."
+            ],
+            [
+                106,
+                "So, are you gonna see her again?"
+            ],
+            [
+                110,
+                "You have my blessing. Go for it."
+            ],
+            [
+                115,
+                "Okay, that\u2019s enough."
+            ],
+            [
+                121,
+                "PS4."
+            ],
+            [
+                128,
+                "What\u2019s up?"
+            ],
+            [
+                130,
+                "Two women at the same time? Nice job, playa."
+            ],
+            [
+                132,
+                "Was it the two women thing or the playa? It was the playa."
+            ],
+            [
+                145,
+                "Were you seeing other men?"
+            ],
+            [
+                147,
+                "Aren\u2019t you gonna ask me?"
+            ],
+            [
+                150,
+                "Thank you so much for letting us pick your brain."
+            ],
+            [
+                157,
+                "So, what do you think, is there a professional downside to doing it?"
+            ],
+            [
+                163,
+                "Sounds rough."
+            ],
+            [
+                165,
+                "Okay, this was helpful."
+            ],
+            [
+                178,
+                "Yes."
+            ]
+        ],
+        "Penny": [
+            [
+                11,
+                "Hi."
+            ],
+            [
+                13,
+                "I killed it. I was even able to cry real tears right on the spot."
+            ],
+            [
+                15,
+                "I know. Next time I get pulled over for a speeding ticket, here come the waterworks."
+            ],
+            [
+                18,
+                "What is this, my first day?"
+            ],
+            [
+                22,
+                "Yeah, sure."
+            ],
+            [
+                26,
+                "I\u2019m gonna go with monster. What do you got?"
+            ],
+            [
+                30,
+                "I\u2019m liking my odds here."
+            ],
+            [
+                32,
+                "No."
+            ],
+            [
+                36,
+                "Oh. Why didn\u2019t I put money on this? (Phone rings) Hey, that\u2019s my agent. If I got the part, it\u2019s still the second best thing I\u2019ve heard all day. Hello?"
+            ],
+            [
+                41,
+                "No, I didn\u2019t get it."
+            ],
+            [
+                44,
+                "I kind of did. The part in that awful horror movie I passed on came back around. Apparently, it\u2019s mine if I want it."
+            ],
+            [
+                46,
+                "I don\u2019t know what to do."
+            ],
+            [
+                82,
+                "Okay, it\u2019s not me, right? This script is terrible."
+            ],
+            [
+                84,
+                "Okay. (Reading) Sometimes I feel like I can control the killer gorilla instinct inside of me, but then I see these bananas and I just want to eat them and then kill people. What am I gonna do?"
+            ],
+            [
+                86,
+                "No, come on. This is serious."
+            ],
+            [
+                88,
+                "Less than I was making at The Cheesecake Factory."
+            ],
+            [
+                90,
+                "She\u2019s thinking of taking a job at The Cheesecake Factory."
+            ],
+            [
+                92,
+                "Okay, look, here, page 58. I oil-wrestle an orang-utan in a bikini."
+            ],
+            [
+                94,
+                "Both of us."
+            ],
+            [
+                108,
+                "Okay, like what? Show me."
+            ],
+            [
+                112,
+                "Oh, that\u2019s sad."
+            ],
+            [
+                114,
+                "Wow."
+            ],
+            [
+                119,
+                "Huh?"
+            ],
+            [
+                131,
+                "Really?"
+            ],
+            [
+                137,
+                "Unless you\u2019re sleeping with one of them, seeing other people isn\u2019t a big deal."
+            ],
+            [
+                146,
+                "No."
+            ],
+            [
+                148,
+                "Come on, really?"
+            ],
+            [
+                152,
+                "Well, I\u2019m having an impossible time getting my career off the ground, and I got offered a role in this crappy horror movie, and I just don\u2019t know if I should take it."
+            ],
+            [
+                154,
+                "I wouldn\u2019t exactly call Star Trek embarrassing."
+            ],
+            [
+                156,
+                "Me, either."
+            ],
+            [
+                159,
+                "Yeah, beam me up. I love it."
+            ],
+            [
+                161,
+                "That\u2019s what I\u2019m afraid of."
+            ],
+            [
+                175,
+                "No. Did you figure out what you\u2019re gonna do about the two girls?"
+            ],
+            [
+                179,
+                "Yes."
+            ],
+            [
+                237,
+                "Great. Not like regret at all."
+            ]
+        ],
+        "Bernadette": [
+            [
+                21,
+                "Can I get your opinion on something that happened at work today?"
+            ],
+            [
+                24,
+                "Okay, well, I did something that will either make me look like a lovable goof or a horrible monster damned to spend eternity in hell."
+            ],
+            [
+                27,
+                "Well, there\u2019s this lady in our office who\u2019s retiring, and they were passing around one of those big cards for us to sign."
+            ],
+            [
+                29,
+                "But no one told me she was in a horrible car accident over the weekend and what I was signing was not a retirement card but was actually a get well card."
+            ],
+            [
+                31,
+                "So on the card, in the hospital, next to the woman who\u2019s clinging to life are the words, \u201cHey, Vivian. You deserve this. And at least with you gone, no one will steal my yoghurt out of the fridge.\u201d"
+            ],
+            [
+                33,
+                "\u201cLOL.\u201d Smiley face."
+            ],
+            [
+                35,
+                "\u201cP.S. Good luck wherever you wind up.\u201d"
+            ],
+            [
+                37,
+                "Am I a terrible person?"
+            ],
+            [
+                39,
+                "Am I a terrible person that it crossed my mind that she might die and never see the card?"
+            ],
+            [
+                42,
+                "I\u2019m so sorry."
+            ],
+            [
+                45,
+                "Are you gonna take it?"
+            ],
+            [
+                125,
+                "I like the Wii."
+            ],
+            [
+                140,
+                "What do you mean, yes?"
+            ],
+            [
+                142,
+                "Were you seeing other women when we started dating?"
+            ],
+            [
+                144,
+                "No."
+            ],
+            [
+                168,
+                "Poor thing, she was in surgery for 18 hours. She\u2019s alive, but she\u2019s still in critical condition."
+            ],
+            [
+                170,
+                "The one bit of good news is they put her in a medically induced coma before she read the card. So, you know, silver linings."
+            ],
+            [
+                180,
+                "Yes."
+            ]
+        ],
+        "Amy": [
+            [
+                23,
+                "Of course."
+            ],
+            [
+                25,
+                "I\u2019m sure it\u2019s lovable."
+            ],
+            [
+                28,
+                "Okay."
+            ],
+            [
+                34,
+                "Oh, my gosh."
+            ],
+            [
+                38,
+                "No. No, it was a mistake."
+            ],
+            [
+                40,
+                "Now I think you\u2019re flirting with the line. Good news?"
+            ],
+            [
+                43,
+                "You\u2019ll get offered something soon."
+            ],
+            [
+                47,
+                "Maybe you\u2019ll get hit by a car and die. LOL, right?"
+            ],
+            [
+                60,
+                "Can you get the butter, please?"
+            ],
+            [
+                62,
+                "Then get the other one. Pass the butter."
+            ],
+            [
+                64,
+                "Fine, Sheldon. You have my undivided attention."
+            ],
+            [
+                66,
+                "No way."
+            ],
+            [
+                68,
+                "Well, you wouldn\u2019t want your gaming system to overheat."
+            ],
+            [
+                70,
+                "Included?"
+            ],
+            [
+                72,
+                "Why would they still be using DDR3? Are they nuts?"
+            ],
+            [
+                74,
+                "Whoa, whoa. Wait a second. Who\u2019s they?"
+            ],
+            [
+                76,
+                "You\u2019re kidding."
+            ],
+            [
+                78,
+                "This is a nightmare. How will you ever make a decision?"
+            ],
+            [
+                80,
+                "Please pass the butter!"
+            ],
+            [
+                98,
+                "You\u2019re welcome."
+            ],
+            [
+                100,
+                "Uh, it\u2019s date night. Aren\u2019t you, uh, forgetting something?"
+            ],
+            [
+                102,
+                "No."
+            ],
+            [
+                182,
+                "I\u2019m proud of you, Sheldon."
+            ],
+            [
+                184,
+                "Well, that\u2019s got to be a good feeling."
+            ],
+            [
+                186,
+                "Oh, crap."
+            ],
+            [
+                188,
+                "You were just a little kid."
+            ],
+            [
+                190,
+                "How old were you then?"
+            ],
+            [
+                192,
+                "What\u2019s a Zune?"
+            ],
+            [
+                194,
+                "No, what are you doing? No, no, pick that back up. You know it\u2019s good. You did the research."
+            ],
+            [
+                196,
+                "You know what? How about I buy it for you? How about I buy you both?"
+            ],
+            [
+                198,
+                "Then I\u2019ll buy you a new entertainment centre."
+            ],
+            [
+                200,
+                "How about this? I\u2019ve heard that if you flip a coin, it will tell you how you actually feel. Because you\u2019ll either be disappointed or excited by the outcome."
+            ],
+            [
+                202,
+                "So, heads it\u2019s PS4, tails it\u2019s Xbox One."
+            ],
+            [
+                204,
+                "What is it?"
+            ],
+            [
+                206,
+                "Could have given it back to me. That was a choice."
+            ],
+            [
+                227,
+                "I can\u2019t feel my legs."
+            ],
+            [
+                231,
+                "Let\u2019s get you some food. You, You\u2019ll feel better after you eat."
+            ],
+            [
+                233,
+                "What-what do you want, like, Thai food? A burger?"
+            ]
+        ],
+        "Raj": [
+            [
+                49,
+                "Hey. Emily, right?"
+            ],
+            [
+                51,
+                "I, I don\u2019t know if you remember me."
+            ],
+            [
+                53,
+                "Yes, Rajesh Koothrappali. Look, uh, I just, I wanted to say I\u2019m sorry. Okay? You were, like, the coolest person I ever found online, and I got really nervous and I, I just blew it."
+            ],
+            [
+                55,
+                "Well, give me a chance, you don\u2019t even know me."
+            ],
+            [
+                57,
+                "Ah, really? Thank you. Fate has given me a rare second chance, and I swear to Vishnu I\u2019m not gonna blow it. Or normal words followed by a charming smile."
+            ],
+            [
+                105,
+                "And then after coffee, we went for a walk and she told me she always thought people from India were exotic and mysterious. So, with my mouth, I said, we\u2019re just like anybody else, but with my eyes, I said, straight up, Red, hop on my flying carpet."
+            ],
+            [
+                107,
+                "Yeah, we have plans this weekend. And if it\u2019s a clear night, I\u2019m gonna lay some romantic astronomy on her."
+            ],
+            [
+                109,
+                "I can\u2019t do that to Leonard. This is some powerful panty-dropping stuff."
+            ],
+            [
+                111,
+                "Okay. Penny, two of the brightest stars in the night sky are Altair and Vega. And it is said they were deeply in love but forever separated by the celestial river of the Milky Way."
+            ],
+            [
+                113,
+                "It is. But once a year, on the seventh day of the seventh month, Vega cries so hard that all the magpies in the world fly up and create a bridge with their wings so the two lovers can be together for a single night of passion."
+            ],
+            [
+                117,
+                "Uh, Xbox One."
+            ],
+            [
+                127,
+                "Oh, my goodness."
+            ],
+            [
+                129,
+                "I just got an e-mail from my ex-girlfriend Lucy. She misses me and wants to get together."
+            ],
+            [
+                134,
+                "What am I supposed to do? How am I supposed to choose between Emily and Lucy?"
+            ],
+            [
+                136,
+                "I can\u2019t date two women at once. Zero women, that\u2019s my sweet spot."
+            ],
+            [
+                138,
+                "But what if one of them asks me what I was up to the night before and I was with the other one? Then, what, do I lie?"
+            ],
+            [
+                167,
+                "Any news on your co-worker who\u2019s in the hospital?"
+            ],
+            [
+                169,
+                "Oh, no."
+            ],
+            [
+                174,
+                "Did he help you make a decision about the movie?"
+            ],
+            [
+                176,
+                "As a matter of fact, I did. I\u2019ve spent so many years living in fear, saying no to new experiences, but from now on, I\u2019m gonna say yes, yes to love, yes to adventure, yes to life. Whatever it may be, the answer\u2019s going to be yes."
+            ],
+            [
+                208,
+                "You look, you look really pretty tonight."
+            ],
+            [
+                210,
+                "Thank you. Thanks, thanks. I\u2019m sorry. I can\u2019t do this. My, my ex-girlfriend e-mailed me, and I\u2019m seeing her Saturday, And I\u2019m glad you like it, it\u2019s from J. Crew."
+            ],
+            [
+                212,
+                "My friends told me it was okay to see more than one person at a time, but it, it feels like I\u2019m being deceitful."
+            ],
+            [
+                214,
+                "No. I, I have no idea. What would you do?"
+            ],
+            [
+                216,
+                "Well, to be honest, we only went on four dates, hugged twice, kissed once, and there was a handshake loaded with sexual innuendo."
+            ],
+            [
+                218,
+                "Yeah."
+            ],
+            [
+                220,
+                "Are you, are you sure? Because this is the part of the night where I\u2019ve said something stupid and the girl usually leaves."
+            ],
+            [
+                222,
+                "Yeah, but now you make me wonder what\u2019s wrong with you."
+            ],
+            [
+                224,
+                "Really? Because I\u2019m dating two women is basically the only cool thing I can say about myself."
+            ]
+        ],
+        "Emily": [
+            [
+                50,
+                "Yeah."
+            ],
+            [
+                52,
+                "From the dating Web site. Your friend e-mailed me because you were afraid to, then you tracked me down and acted like a lunatic?"
+            ],
+            [
+                54,
+                "Uh, don\u2019t worry about it. And if it makes you feel any better, you\u2019re not the weirdest guy I\u2019ve met off the Internet."
+            ],
+            [
+                56,
+                "All right, here\u2019s your chance."
+            ],
+            [
+                209,
+                "Thanks. I love that jacket."
+            ],
+            [
+                211,
+                "I don\u2019t understand."
+            ],
+            [
+                213,
+                "Are you getting back together with her?"
+            ],
+            [
+                215,
+                "Uh, usually on first dates, I talk about music and stuff, but I was promised weird, so let\u2019s do this. How serious were you two?"
+            ],
+            [
+                217,
+                "Wait, so, a girl you never slept with sent you an e-mail and you felt so guilty about it that you had to tell me?"
+            ],
+            [
+                219,
+                "That\u2019s kind of adorable."
+            ],
+            [
+                221,
+                "I\u2019m still here."
+            ],
+            [
+                223,
+                "We just met. You don\u2019t need to tell me about other people you\u2019re seeing."
+            ]
+        ],
+        "Leonard: Yeah. I had higher hopes for a movie called Serial Ape-ist 2": [
+            [
+                83,
+                "Monkey See, Monkey Kill. You know, it\u2019s still possible for you to be good in a bad movie."
+            ]
+        ],
+        "Howard": [
+            [
+                123,
+                "Both great."
+            ],
+            [
+                135,
+                "Why do you have to choose? Date both of them."
+            ],
+            [
+                141,
+                "What do you mean, yes?"
+            ],
+            [
+                143,
+                "No. Were you seeing other men?"
+            ],
+            [
+                171,
+                "Were you like this when I married you?"
+            ],
+            [
+                177,
+                "He\u2019s gonna die alone, right?"
+            ]
+        ],
+        "Wil Wheaton": [
+            [
+                151,
+                "Yeah, happy to help. So, what\u2019s going on?"
+            ]
+        ],
+        "Wil": [
+            [
+                153,
+                "Well, I have certainly taken some jobs that I\u2019ve been embarrassed by."
+            ],
+            [
+                155,
+                "I wasn\u2019t."
+            ],
+            [
+                158,
+                "Well, it\u2019s tricky. You want to take projects that you\u2019re excited about, but sometimes you also have to pay the bills. When you\u2019re on the set working on something that you just know in your heart is bad, not Star Trek."
+            ],
+            [
+                160,
+                "Anyway, those jobs can be soul-crushing."
+            ],
+            [
+                162,
+                "So, I was in Stand By Me when I was a kid, and it was a huge success. The terrible movies I did came after that. I mean, imagine how that feels."
+            ],
+            [
+                164,
+                "I\u2019m telling you, this business is brutal. To this day, I hate going on auditions. Okay, I walk in, and I can just feel them thinking, he was such a cute kid, what happened to him? And then I don\u2019t get the job, and I can never find out why. Honestly, I get so depressed, there are entire weeks that I can\u2019t even get out of bed."
+            ],
+            [
+                238,
+                "Penny? We\u2019re working together. Awesome."
+            ]
+        ],
+        "Store assistant": [
+            [
+                228,
+                "Oh, I\u2019m sorry, guys, but the store closed five minutes ago."
+            ],
+            [
+                230,
+                "You\u2019ll have to come back tomorrow. The registers are closed."
+            ]
+        ],
+        "Costume guy": [
+            [
+                236,
+                "How\u2019s that feel?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Boy, do I have to urinate."
+        ],
+        [
+            "Leonard",
+            "If only there were a solution to that."
+        ],
+        [
+            "Sheldon",
+            "Seriously. I feel like I\u2019ve got a fish tank in my pelvis."
+        ],
+        [
+            "Leonard",
+            "So go to the bathroom."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t."
+        ],
+        [
+            "Leonard",
+            "Why not?"
+        ],
+        [
+            "Sheldon",
+            "Because I\u2019m trying to decide between getting an Xbox One or a PS4. Oh, pee, why\u2019d I say that?"
+        ],
+        [
+            "Leonard",
+            "Forgive me for asking a stupid question, but why are you being stupid?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not being stupid. I\u2019m employing the work of Dutch researcher, Mirjam Tuk, who found that people with full bladders make better decisions."
+        ],
+        [
+            "Leonard",
+            "Why did I pee before I decided to move in here?"
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Leonard",
+            "Hey. Oh, how\u2019d the audition go?"
+        ],
+        [
+            "Penny",
+            "I killed it. I was even able to cry real tears right on the spot."
+        ],
+        [
+            "Leonard",
+            "Oh, that\u2019s great."
+        ],
+        [
+            "Penny",
+            "I know. Next time I get pulled over for a speeding ticket, here come the waterworks."
+        ],
+        [
+            "Sheldon",
+            "Here come the waterworks."
+        ],
+        [
+            "Leonard",
+            "Aren\u2019t you gonna ask?"
+        ],
+        [
+            "Penny",
+            "What is this, my first day?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "Can I get your opinion on something that happened at work today?"
+        ],
+        [
+            "Penny",
+            "Yeah, sure."
+        ],
+        [
+            "Amy",
+            "Of course."
+        ],
+        [
+            "Bernadette",
+            "Okay, well, I did something that will either make me look like a lovable goof or a horrible monster damned to spend eternity in hell."
+        ],
+        [
+            "Amy",
+            "I\u2019m sure it\u2019s lovable."
+        ],
+        [
+            "Penny",
+            "I\u2019m gonna go with monster. What do you got?"
+        ],
+        [
+            "Bernadette",
+            "Well, there\u2019s this lady in our office who\u2019s retiring, and they were passing around one of those big cards for us to sign."
+        ],
+        [
+            "Amy",
+            "Okay."
+        ],
+        [
+            "Bernadette",
+            "But no one told me she was in a horrible car accident over the weekend and what I was signing was not a retirement card but was actually a get well card."
+        ],
+        [
+            "Penny",
+            "I\u2019m liking my odds here."
+        ],
+        [
+            "Bernadette",
+            "So on the card, in the hospital, next to the woman who\u2019s clinging to life are the words, \u201cHey, Vivian. You deserve this. And at least with you gone, no one will steal my yoghurt out of the fridge.\u201d"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Bernadette",
+            "\u201cLOL.\u201d Smiley face."
+        ],
+        [
+            "Amy",
+            "Oh, my gosh."
+        ],
+        [
+            "Bernadette",
+            "\u201cP.S. Good luck wherever you wind up.\u201d"
+        ],
+        [
+            "Penny",
+            "Oh. Why didn\u2019t I put money on this? (Phone rings) Hey, that\u2019s my agent. If I got the part, it\u2019s still the second best thing I\u2019ve heard all day. Hello?"
+        ],
+        [
+            "Bernadette",
+            "Am I a terrible person?"
+        ],
+        [
+            "Amy",
+            "No. No, it was a mistake."
+        ],
+        [
+            "Bernadette",
+            "Am I a terrible person that it crossed my mind that she might die and never see the card?"
+        ],
+        [
+            "Amy",
+            "Now I think you\u2019re flirting with the line. Good news?"
+        ],
+        [
+            "Penny",
+            "No, I didn\u2019t get it."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m so sorry."
+        ],
+        [
+            "Amy",
+            "You\u2019ll get offered something soon."
+        ],
+        [
+            "Penny",
+            "I kind of did. The part in that awful horror movie I passed on came back around. Apparently, it\u2019s mine if I want it."
+        ],
+        [
+            "Bernadette",
+            "Are you gonna take it?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know what to do."
+        ],
+        [
+            "Amy",
+            "Maybe you\u2019ll get hit by a car and die. LOL, right?"
+        ],
+        [
+            "Scene",
+            "A coffee shop."
+        ],
+        [
+            "Raj",
+            "Hey. Emily, right?"
+        ],
+        [
+            "Emily",
+            "Yeah."
+        ],
+        [
+            "Raj",
+            "I, I don\u2019t know if you remember me."
+        ],
+        [
+            "Emily",
+            "From the dating Web site. Your friend e-mailed me because you were afraid to, then you tracked me down and acted like a lunatic?"
+        ],
+        [
+            "Raj",
+            "Yes, Rajesh Koothrappali. Look, uh, I just, I wanted to say I\u2019m sorry. Okay? You were, like, the coolest person I ever found online, and I got really nervous and I, I just blew it."
+        ],
+        [
+            "Emily",
+            "Uh, don\u2019t worry about it. And if it makes you feel any better, you\u2019re not the weirdest guy I\u2019ve met off the Internet."
+        ],
+        [
+            "Raj",
+            "Well, give me a chance, you don\u2019t even know me."
+        ],
+        [
+            "Emily",
+            "All right, here\u2019s your chance."
+        ],
+        [
+            "Raj",
+            "Ah, really? Thank you. Fate has given me a rare second chance, and I swear to Vishnu I\u2019m not gonna blow it. Or normal words followed by a charming smile."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "So, first there was PlayStation, aka PS1, then PS2, PS3 and now PS4. And that makes sense. You\u2019d think after Xbox, there\u2019d be Xbox 2. But no, next came Xbox 360. Hmm? And now, after 360, comes Xbox One. Why one? Maybe that\u2019s how many seconds of thought they put into naming it."
+        ],
+        [
+            "Amy",
+            "Can you get the butter, please?"
+        ],
+        [
+            "Sheldon",
+            "You know, however, with the Xbox One, I can control my entire entertainment system using voice commands. Up until now, I\u2019ve had to use Leonard."
+        ],
+        [
+            "Amy",
+            "Then get the other one. Pass the butter."
+        ],
+        [
+            "Sheldon",
+            "Get? Hang on. I don\u2019t feel like you\u2019re taking this dilemma seriously."
+        ],
+        [
+            "Amy",
+            "Fine, Sheldon. You have my undivided attention."
+        ],
+        [
+            "Sheldon",
+            "Okay, now, the PS4 is more angular and sleek-looking."
+        ],
+        [
+            "Amy",
+            "No way."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, it\u2019s true. But the larger size of the Xbox One may keep it from overheating."
+        ],
+        [
+            "Amy",
+            "Well, you wouldn\u2019t want your gaming system to overheat."
+        ],
+        [
+            "Sheldon",
+            "No, see? Well, you absolutely would not. And furthermore, the Xbox One now comes with a Kinect included."
+        ],
+        [
+            "Amy",
+            "Included?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Not sold separately. Although the PS4 uses cool new GDDR5 RAM, while the Xbox One is still using the conventional DDR3 memory."
+        ],
+        [
+            "Amy",
+            "Why would they still be using DDR3? Are they nuts?"
+        ],
+        [
+            "Sheldon",
+            "See? That\u2019s what I thought. But then they go and throw in an ESRAM buffer."
+        ],
+        [
+            "Amy",
+            "Whoa, whoa. Wait a second. Who\u2019s they?"
+        ],
+        [
+            "Sheldon",
+            "Xbox."
+        ],
+        [
+            "Amy",
+            "You\u2019re kidding."
+        ],
+        [
+            "Sheldon",
+            "No, I am not. And this ESRAM buffer should totally bridge the 100-gigabit-per-second bandwidth gap between the two RAM types."
+        ],
+        [
+            "Amy",
+            "This is a nightmare. How will you ever make a decision?"
+        ],
+        [
+            "Scene",
+            "Sheldon You see? I don\u2019t know. What should I do?"
+        ],
+        [
+            "Amy",
+            "Please pass the butter!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Okay, it\u2019s not me, right? This script is terrible."
+        ],
+        [
+            "Leonard: Yeah. I had higher hopes for a movie called Serial Ape-ist 2",
+            "Monkey See, Monkey Kill. You know, it\u2019s still possible for you to be good in a bad movie."
+        ],
+        [
+            "Penny",
+            "Okay. (Reading) Sometimes I feel like I can control the killer gorilla instinct inside of me, but then I see these bananas and I just want to eat them and then kill people. What am I gonna do?"
+        ],
+        [
+            "Leonard",
+            "Well, for starters, I wouldn\u2019t eat the bananas."
+        ],
+        [
+            "Penny",
+            "No, come on. This is serious."
+        ],
+        [
+            "Leonard",
+            "Uh, uh, does it at least pay well?"
+        ],
+        [
+            "Penny",
+            "Less than I was making at The Cheesecake Factory."
+        ],
+        [
+            "Leonard",
+            "What does your agent think?"
+        ],
+        [
+            "Penny",
+            "She\u2019s thinking of taking a job at The Cheesecake Factory."
+        ],
+        [
+            "Leonard",
+            "You know what, why don\u2019t you just do it? You\u2019ll go have fun for a few weeks, make some money, and who knows what it might lead to?"
+        ],
+        [
+            "Penny",
+            "Okay, look, here, page 58. I oil-wrestle an orang-utan in a bikini."
+        ],
+        [
+            "Leonard",
+            "Just to clarify, which one of you is wearing the bikini?"
+        ],
+        [
+            "Penny",
+            "Both of us."
+        ],
+        [
+            "Leonard",
+            "So it\u2019s a family film."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. "
+        ],
+        [
+            "Sheldon",
+            "Thank you again for dinner."
+        ],
+        [
+            "Amy",
+            "You\u2019re welcome."
+        ],
+        [
+            "Sheldon",
+            "Good night."
+        ],
+        [
+            "Amy",
+            "Uh, it\u2019s date night. Aren\u2019t you, uh, forgetting something?"
+        ],
+        [
+            "Sheldon",
+            "Oh, of course. (They kiss) Did I mention the PS4 controllers light up?"
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Well, they do."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "And then after coffee, we went for a walk and she told me she always thought people from India were exotic and mysterious. So, with my mouth, I said, we\u2019re just like anybody else, but with my eyes, I said, straight up, Red, hop on my flying carpet."
+        ],
+        [
+            "Leonard",
+            "So, are you gonna see her again?"
+        ],
+        [
+            "Raj",
+            "Yeah, we have plans this weekend. And if it\u2019s a clear night, I\u2019m gonna lay some romantic astronomy on her."
+        ],
+        [
+            "Penny",
+            "Okay, like what? Show me."
+        ],
+        [
+            "Raj",
+            "I can\u2019t do that to Leonard. This is some powerful panty-dropping stuff."
+        ],
+        [
+            "Leonard",
+            "You have my blessing. Go for it."
+        ],
+        [
+            "Raj",
+            "Okay. Penny, two of the brightest stars in the night sky are Altair and Vega. And it is said they were deeply in love but forever separated by the celestial river of the Milky Way."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s sad."
+        ],
+        [
+            "Raj",
+            "It is. But once a year, on the seventh day of the seventh month, Vega cries so hard that all the magpies in the world fly up and create a bridge with their wings so the two lovers can be together for a single night of passion."
+        ],
+        [
+            "Penny",
+            "Wow."
+        ],
+        [
+            "Leonard",
+            "Okay, that\u2019s enough."
+        ],
+        [
+            "Sheldon",
+            "Quick poll, PS4 or Xbox One? Raj?"
+        ],
+        [
+            "Raj",
+            "Uh, Xbox One."
+        ],
+        [
+            "Sheldon",
+            "Penny?"
+        ],
+        [
+            "Penny",
+            "Huh?"
+        ],
+        [
+            "Sheldon",
+            "Leonard?"
+        ],
+        [
+            "Leonard",
+            "PS4."
+        ],
+        [
+            "Sheldon",
+            "Wolowitz?"
+        ],
+        [
+            "Howard",
+            "Both great."
+        ],
+        [
+            "Sheldon",
+            "Bernadette?"
+        ],
+        [
+            "Bernadette",
+            "I like the Wii."
+        ],
+        [
+            "Sheldon",
+            "Thanks, Grandma."
+        ],
+        [
+            "Raj",
+            "Oh, my goodness."
+        ],
+        [
+            "Leonard",
+            "What\u2019s up?"
+        ],
+        [
+            "Raj",
+            "I just got an e-mail from my ex-girlfriend Lucy. She misses me and wants to get together."
+        ],
+        [
+            "Leonard",
+            "Two women at the same time? Nice job, playa."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Leonard",
+            "Was it the two women thing or the playa? It was the playa."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Raj",
+            "What am I supposed to do? How am I supposed to choose between Emily and Lucy?"
+        ],
+        [
+            "Howard",
+            "Why do you have to choose? Date both of them."
+        ],
+        [
+            "Raj",
+            "I can\u2019t date two women at once. Zero women, that\u2019s my sweet spot."
+        ],
+        [
+            "Penny",
+            "Unless you\u2019re sleeping with one of them, seeing other people isn\u2019t a big deal."
+        ],
+        [
+            "Raj",
+            "But what if one of them asks me what I was up to the night before and I was with the other one? Then, what, do I lie?"
+        ],
+        [
+            "Bernadette",
+            "What do you mean, yes?"
+        ],
+        [
+            "Howard",
+            "What do you mean, yes?"
+        ],
+        [
+            "Bernadette",
+            "Were you seeing other women when we started dating?"
+        ],
+        [
+            "Howard",
+            "No. Were you seeing other men?"
+        ],
+        [
+            "Bernadette",
+            "No."
+        ],
+        [
+            "Leonard",
+            "Were you seeing other men?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Leonard",
+            "Aren\u2019t you gonna ask me?"
+        ],
+        [
+            "Penny",
+            "Come on, really?"
+        ],
+        [
+            "Scene",
+            "A coffee shop."
+        ],
+        [
+            "Leonard",
+            "Thank you so much for letting us pick your brain."
+        ],
+        [
+            "Wil Wheaton",
+            "Yeah, happy to help. So, what\u2019s going on?"
+        ],
+        [
+            "Penny",
+            "Well, I\u2019m having an impossible time getting my career off the ground, and I got offered a role in this crappy horror movie, and I just don\u2019t know if I should take it."
+        ],
+        [
+            "Wil",
+            "Well, I have certainly taken some jobs that I\u2019ve been embarrassed by."
+        ],
+        [
+            "Penny",
+            "I wouldn\u2019t exactly call Star Trek embarrassing."
+        ],
+        [
+            "Wil",
+            "I wasn\u2019t."
+        ],
+        [
+            "Penny",
+            "Me, either."
+        ],
+        [
+            "Leonard",
+            "So, what do you think, is there a professional downside to doing it?"
+        ],
+        [
+            "Wil",
+            "Well, it\u2019s tricky. You want to take projects that you\u2019re excited about, but sometimes you also have to pay the bills. When you\u2019re on the set working on something that you just know in your heart is bad, not Star Trek."
+        ],
+        [
+            "Penny",
+            "Yeah, beam me up. I love it."
+        ],
+        [
+            "Wil",
+            "Anyway, those jobs can be soul-crushing."
+        ],
+        [
+            "Penny",
+            "That\u2019s what I\u2019m afraid of."
+        ],
+        [
+            "Wil",
+            "So, I was in Stand By Me when I was a kid, and it was a huge success. The terrible movies I did came after that. I mean, imagine how that feels."
+        ],
+        [
+            "Leonard",
+            "Sounds rough."
+        ],
+        [
+            "Wil",
+            "I\u2019m telling you, this business is brutal. To this day, I hate going on auditions. Okay, I walk in, and I can just feel them thinking, he was such a cute kid, what happened to him? And then I don\u2019t get the job, and I can never find out why. Honestly, I get so depressed, there are entire weeks that I can\u2019t even get out of bed."
+        ],
+        [
+            "Leonard",
+            "Okay, this was helpful."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Raj",
+            "Any news on your co-worker who\u2019s in the hospital?"
+        ],
+        [
+            "Bernadette",
+            "Poor thing, she was in surgery for 18 hours. She\u2019s alive, but she\u2019s still in critical condition."
+        ],
+        [
+            "Raj",
+            "Oh, no."
+        ],
+        [
+            "Bernadette",
+            "The one bit of good news is they put her in a medically induced coma before she read the card. So, you know, silver linings."
+        ],
+        [
+            "Howard",
+            "Were you like this when I married you?"
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "Did he help you make a decision about the movie?"
+        ],
+        [
+            "Penny",
+            "No. Did you figure out what you\u2019re gonna do about the two girls?"
+        ],
+        [
+            "Raj",
+            "As a matter of fact, I did. I\u2019ve spent so many years living in fear, saying no to new experiences, but from now on, I\u2019m gonna say yes, yes to love, yes to adventure, yes to life. Whatever it may be, the answer\u2019s going to be yes."
+        ],
+        [
+            "Howard",
+            "He\u2019s gonna die alone, right?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Bernadette",
+            "Yes."
+        ],
+        [
+            "Scene",
+            "An electrical store."
+        ],
+        [
+            "Amy",
+            "I\u2019m proud of you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "You know, I\u2019m proud of me, too. I\u2019ve done all my research, I conducted an informal poll, and I\u2019ve arrived at the rock-solid certainty I\u2019ve made the right choice."
+        ],
+        [
+            "Amy",
+            "Well, that\u2019s got to be a good feeling."
+        ],
+        [
+            "Sheldon",
+            "Oh, it is. Although."
+        ],
+        [
+            "Amy",
+            "Oh, crap."
+        ],
+        [
+            "Sheldon",
+            "I had the same feeling when I made my dad buy a Betamax instead of a VHS."
+        ],
+        [
+            "Amy",
+            "You were just a little kid."
+        ],
+        [
+            "Sheldon",
+            "Yeah, a little kid who picked the wrong format to record The MacNeil/Lehrer Report. Now I also was certain that HD DVD would win out over Blu-ray."
+        ],
+        [
+            "Amy",
+            "How old were you then?"
+        ],
+        [
+            "Sheldon",
+            "Old enough to know better. You know, and now that I think about it, I stood in front of a case of iPods and I bought a Zune."
+        ],
+        [
+            "Amy",
+            "What\u2019s a Zune?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, exactly. It\u2019s an MP3 player brought to us by the makers of Xbox."
+        ],
+        [
+            "Amy",
+            "No, what are you doing? No, no, pick that back up. You know it\u2019s good. You did the research."
+        ],
+        [
+            "Sheldon",
+            "But what if I\u2019m wrong?"
+        ],
+        [
+            "Amy",
+            "You know what? How about I buy it for you? How about I buy you both?"
+        ],
+        [
+            "Sheldon",
+            "You know I only have one slot available in my entertainment centre."
+        ],
+        [
+            "Amy",
+            "Then I\u2019ll buy you a new entertainment centre."
+        ],
+        [
+            "Sheldon",
+            "Well, yeah, okay, sure. But which one?"
+        ],
+        [
+            "Amy",
+            "How about this? I\u2019ve heard that if you flip a coin, it will tell you how you actually feel. Because you\u2019ll either be disappointed or excited by the outcome."
+        ],
+        [
+            "Sheldon",
+            "Interesting."
+        ],
+        [
+            "Amy",
+            "So, heads it\u2019s PS4, tails it\u2019s Xbox One."
+        ],
+        [
+            "Sheldon",
+            "All right, I\u2019ll try."
+        ],
+        [
+            "Amy",
+            "What is it?"
+        ],
+        [
+            "Sheldon",
+            "A quarter."
+        ],
+        [
+            "Amy",
+            "Could have given it back to me. That was a choice."
+        ],
+        [
+            "Scene",
+            "A restaurant."
+        ],
+        [
+            "Raj",
+            "You look, you look really pretty tonight."
+        ],
+        [
+            "Emily",
+            "Thanks. I love that jacket."
+        ],
+        [
+            "Raj",
+            "Thank you. Thanks, thanks. I\u2019m sorry. I can\u2019t do this. My, my ex-girlfriend e-mailed me, and I\u2019m seeing her Saturday, And I\u2019m glad you like it, it\u2019s from J. Crew."
+        ],
+        [
+            "Emily",
+            "I don\u2019t understand."
+        ],
+        [
+            "Raj",
+            "My friends told me it was okay to see more than one person at a time, but it, it feels like I\u2019m being deceitful."
+        ],
+        [
+            "Emily",
+            "Are you getting back together with her?"
+        ],
+        [
+            "Raj",
+            "No. I, I have no idea. What would you do?"
+        ],
+        [
+            "Emily",
+            "Uh, usually on first dates, I talk about music and stuff, but I was promised weird, so let\u2019s do this. How serious were you two?"
+        ],
+        [
+            "Raj",
+            "Well, to be honest, we only went on four dates, hugged twice, kissed once, and there was a handshake loaded with sexual innuendo."
+        ],
+        [
+            "Emily",
+            "Wait, so, a girl you never slept with sent you an e-mail and you felt so guilty about it that you had to tell me?"
+        ],
+        [
+            "Raj",
+            "Yeah."
+        ],
+        [
+            "Emily",
+            "That\u2019s kind of adorable."
+        ],
+        [
+            "Raj",
+            "Are you, are you sure? Because this is the part of the night where I\u2019ve said something stupid and the girl usually leaves."
+        ],
+        [
+            "Emily",
+            "I\u2019m still here."
+        ],
+        [
+            "Raj",
+            "Yeah, but now you make me wonder what\u2019s wrong with you."
+        ],
+        [
+            "Emily",
+            "We just met. You don\u2019t need to tell me about other people you\u2019re seeing."
+        ],
+        [
+            "Raj",
+            "Really? Because I\u2019m dating two women is basically the only cool thing I can say about myself."
+        ],
+        [
+            "Scene",
+            "The electrical store."
+        ],
+        [
+            "Sheldon",
+            "On the one hand, the Xbox One has a better camera, but the PS4 has a removable hard drive. Thoughts?"
+        ],
+        [
+            "Amy",
+            "I can\u2019t feel my legs."
+        ],
+        [
+            "Store assistant",
+            "Oh, I\u2019m sorry, guys, but the store closed five minutes ago."
+        ],
+        [
+            "Sheldon",
+            "But I haven\u2019t decided yet."
+        ],
+        [
+            "Store assistant",
+            "You\u2019ll have to come back tomorrow. The registers are closed."
+        ],
+        [
+            "Amy",
+            "Let\u2019s get you some food. You, You\u2019ll feel better after you eat."
+        ],
+        [
+            "Sheldon",
+            "Okay."
+        ],
+        [
+            "Amy",
+            "What-what do you want, like, Thai food? A burger?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know. Hey, look, a quarter."
+        ],
+        [
+            "Scene",
+            "A film set. Penny is being fitted with gorilla hands."
+        ],
+        [
+            "Costume guy",
+            "How\u2019s that feel?"
+        ],
+        [
+            "Penny",
+            "Great. Not like regret at all."
+        ],
+        [
+            "Wil",
+            "Penny? We\u2019re working together. Awesome."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-19-the-indecision-amalgamation/"
+}

@@ -1,0 +1,2154 @@
+{
+    "Season": 7,
+    "Episode": 3,
+    "Title": "the scavenger vortex",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The Cheesecake Factory"
+            ],
+            [
+                32,
+                "Credits sequence."
+            ],
+            [
+                33,
+                "The apartment."
+            ],
+            [
+                58,
+                "Penny\u2019s apartment. (Montage with scenes in the apartment and Leonard\u2019s bedroom) "
+            ],
+            [
+                63,
+                "Raj"
+            ],
+            [
+                87,
+                "Leonard\u2019s car."
+            ],
+            [
+                94,
+                "Howard\u2019s car."
+            ],
+            [
+                109,
+                "The comic book store."
+            ],
+            [
+                143,
+                "The geology lab at the University. "
+            ],
+            [
+                156,
+                "Howard\u2019s car."
+            ],
+            [
+                161,
+                "Leonard\u2019s car."
+            ],
+            [
+                165,
+                "Bernadette"
+            ],
+            [
+                176,
+                "Howard\u2019s car."
+            ],
+            [
+                181,
+                "Penny\u2019s car."
+            ],
+            [
+                185,
+                "The geology lab."
+            ],
+            [
+                190,
+                "The apartment stairwell. Leonard is lowering himself down the lift shaft."
+            ],
+            [
+                198,
+                "Penny\u2019s car. "
+            ],
+            [
+                201,
+                "Leonard\u2019s car."
+            ],
+            [
+                204,
+                "Howard\u2019s car."
+            ],
+            [
+                207,
+                "The laundry room."
+            ],
+            [
+                237,
+                "Penny"
+            ],
+            [
+                239,
+                "The stairwell."
+            ],
+            [
+                256,
+                "Sheldon"
+            ],
+            [
+                257,
+                "The Cheesecake Factory, karaoke night."
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "So, couldn\u2019t help but notice none of you RSVP\u2019d to my murder mystery dinner party."
+            ],
+            [
+                3,
+                "No, you weren\u2019t because it was a week ago and nobody came. So, if you want to solve the mystery of who stabbed Koothrappali in the back with the weapon of indifference, it was all of you."
+            ],
+            [
+                8,
+                "Don\u2019t worry, I can take a hint. No more murder mystery parties."
+            ],
+            [
+                12,
+                "Because I\u2019ve got something even better planned."
+            ],
+            [
+                16,
+                "Just hear me out. I\u2019m going to make you guys a scavenger hunt like they have at M.I.T."
+            ],
+            [
+                27,
+                "So, uh, who\u2019s in?"
+            ],
+            [
+                38,
+                "Okay, everybody. Who\u2019s ready for a scavenger hunt?"
+            ],
+            [
+                40,
+                "Any questions?"
+            ],
+            [
+                46,
+                "Okay, guys, go ahead and divide yourselves into teams of two."
+            ],
+            [
+                110,
+                "Oh, hey, thanks for letting me use the comic book store as part of the scavenger hunt."
+            ],
+            [
+                112,
+                "Oh, congratulations. You\u2019re the first team to arrive."
+            ],
+            [
+                114,
+                "Your next puzzle is a riddle. And who better to give it to you than The Riddler?"
+            ],
+            [
+                118,
+                "Good riddle, huh?"
+            ],
+            [
+                120,
+                "I invited you to my murder mystery party."
+            ],
+            [
+                122,
+                "Oh."
+            ],
+            [
+                243,
+                "Oh, yes, Leonard. Yes, it was."
+            ],
+            [
+                245,
+                "Yes, exactly. Where is the coin? Why don\u2019t you look in your pockets? I slipped them in there earlier today."
+            ],
+            [
+                247,
+                "Don\u2019t you see? When we\u2019re all having fun together, we\u2019re already winners. Oh, look. See? Even I\u2019m a winner."
+            ],
+            [
+                251,
+                "Well, I thought\u2026 Come on, I didn\u2019t want anyone to feel bad at the end of the game. And some of those puzzles were really hard and I didn\u2019t know who was gonna get Penny."
+            ],
+            [
+                253,
+                "Okay, okay, that-that came out wrong, but you have to admit, you all had a wonderful time."
+            ],
+            [
+                255,
+                "I just wanted to do something beautiful."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Oh, yeah. We were meaning to do that."
+            ],
+            [
+                9,
+                "Great. "
+            ],
+            [
+                13,
+                "Aw."
+            ],
+            [
+                18,
+                "We did them at Princeton, too."
+            ],
+            [
+                23,
+                "Oh, these are a little different. There\u2019s a tradition at elite universities\u2026"
+            ],
+            [
+                25,
+                "A tradition of hunts full of puzzles that rely on logic and obscure knowledge, science."
+            ],
+            [
+                28,
+                "I think it sounds fun."
+            ],
+            [
+                34,
+                "What\u2019s all this?"
+            ],
+            [
+                36,
+                "You really think he\u2019s gonna send us to a bowling alley?"
+            ],
+            [
+                42,
+                "It\u2019s not funny."
+            ],
+            [
+                44,
+                "Ha-ha."
+            ],
+            [
+                48,
+                "Couples sounds great. Or we could mix things up. Maybe pick names out of a hat. Whatever."
+            ],
+            [
+                50,
+                "I just said, couples sound great."
+            ],
+            [
+                52,
+                "All right, let\u2019s, let\u2019s do couples. I want to."
+            ],
+            [
+                75,
+                "Stop yelling at me."
+            ],
+            [
+                88,
+                "Do you think Penny\u2019s mad at me?"
+            ],
+            [
+                90,
+                "No, because I didn\u2019t want her on my team."
+            ],
+            [
+                92,
+                "Geez, I never realized you were so competitive."
+            ],
+            [
+                116,
+                "I have asthma. Back off."
+            ],
+            [
+                127,
+                "Hey, Penny, I just wanted to say good luck, and I hope there\u2019s no hard feelings."
+            ],
+            [
+                129,
+                "Relax, it\u2019s a hard puzzle. It\u2019s gonna take a while to solve."
+            ],
+            [
+                139,
+                "Wait, I got it. I got it/"
+            ],
+            [
+                141,
+                "You\u2019re really mean, you know that?"
+            ],
+            [
+                162,
+                "Um, I\u2019m okay with you driving my car. I\u2019m not okay with you flying my car."
+            ],
+            [
+                164,
+                "Uh-huh. Like death?"
+            ],
+            [
+                166,
+                "Penny\u2019s not answering my texts."
+            ],
+            [
+                168,
+                "This stupid game is why she\u2019s mad in the first place. I\u2019m telling her I\u2019m quitting."
+            ],
+            [
+                170,
+                "Why?"
+            ],
+            [
+                172,
+                "What does she think I am?"
+            ],
+            [
+                174,
+                "I can\u2019t believe she would say that about me."
+            ],
+            [
+                191,
+                "Call me a lady part. We\u2019ll see about that."
+            ],
+            [
+                193,
+                "Almost."
+            ],
+            [
+                195,
+                "Got it."
+            ],
+            [
+                197,
+                "Yeah, Penny might be onto something."
+            ],
+            [
+                202,
+                "To the tar pits."
+            ],
+            [
+                214,
+                "The clue must be in the bag."
+            ],
+            [
+                216,
+                "It\u2019s just a bunch of pants."
+            ],
+            [
+                218,
+                "Well, why would you want to be on someone\u2019s team who you like to call a, I can\u2019t even say it in front of Sheldon."
+            ],
+            [
+                220,
+                "You know exactly what I\u2019m talking about."
+            ],
+            [
+                222,
+                "Why would you do that?"
+            ],
+            [
+                227,
+                "Hey, I am every bit as much of a man as Penny. Now, let\u2019s do this."
+            ],
+            [
+                231,
+                "This one is, too."
+            ],
+            [
+                242,
+                "Wasn\u2019t the answer Sheldon\u2019s spot?"
+            ],
+            [
+                248,
+                "Are you kidding me?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                4,
+                "I don\u2019t think thatqualifies as a mystery, we all knew what we were doing."
+            ],
+            [
+                10,
+                "Thank you."
+            ],
+            [
+                15,
+                "Come on."
+            ],
+            [
+                20,
+                "That\u2019s amusing, I was going to say that about M.I.T., but it works for Princeton, too."
+            ],
+            [
+                31,
+                "I\u2019m sorry. Are we really doing this or are we tricking Koothrappali again like with the dinner party?"
+            ],
+            [
+                35,
+                "Oh, everything I could possibly need to win the scavenger hunt."
+            ],
+            [
+                37,
+                "Well, if he does, do you know how filthy those rental balls are? They might as well stand on the corner and give away free rectal exams."
+            ],
+            [
+                39,
+                "He is a born showman."
+            ],
+            [
+                43,
+                "No, Oh, it actually is if you get the joke. It\u2019s based on the premise that Princeton isn\u2019t a very good school. "
+            ],
+            [
+                45,
+                "Oh, see? Now he gets it."
+            ],
+            [
+                54,
+                "Really? The only time I\u2019m ever picked first for a team and I\u2019m stuck with the liability?"
+            ],
+            [
+                60,
+                "Yes, and do you know what the odds are I\u2019d pick your name?"
+            ],
+            [
+                62,
+                "It\u2019s not hard, one in five. Now you know why I\u2019m pouting."
+            ],
+            [
+                64,
+                "What are you doing? You have to start with the edges."
+            ],
+            [
+                66,
+                "Yeah, well, take them apart and start with the edges. And stop wasting time."
+            ],
+            [
+                78,
+                "But we haven\u2019t finished the puzzle."
+            ],
+            [
+                80,
+                "You think you know the answer. But it could be a trick. What if when the puzzle\u2019s complete, there\u2019s a sign in the window that says go to the train store?"
+            ],
+            [
+                82,
+                "Well, I hope you\u2019re wrong. I really want to go to the train store."
+            ],
+            [
+                86,
+                "It\u2019s the comic book store."
+            ],
+            [
+                124,
+                "It is a marathon, not a sprint."
+            ],
+            [
+                126,
+                "Not with a bowling ball on their back."
+            ],
+            [
+                131,
+                "Got it."
+            ],
+            [
+                133,
+                "I thought we were the Lightning Sharks."
+            ],
+            [
+                145,
+                "The next clue must be hidden under one of these rocks."
+            ],
+            [
+                147,
+                "Oh, simple, the \u2018arrah, \u2018arrah in the riddle mean Jan Arrah, a member of the Legion of Superheroes, known as Element Lad. And then the word He, it wasn\u2019t the masculine pronoun, but rather H e, the abbreviation for helium. See where I\u2019m going with this?"
+            ],
+            [
+                149,
+                "Nice try. Now, Element Lad\u2019s ability is the power to transmute chemical elements. Helium has an atomic number of two. If you multiply that by the atomic number of N, nitrogen, you get 14, which is the atomic number of? I\u2019m just funnin\u2019 you, silicon. And that is the most common element in the Earth\u2019s surface. So that narrowed it down to the geology lab or the chemistry lab."
+            ],
+            [
+                151,
+                "And I\u2019m sure your parents are proud. Now, finally, the line in this room the thing you\u2019ll see was an obvious reference to Fantastic Four member The Thing, who\u2019s made entirely of\u2026"
+            ],
+            [
+                153,
+                "Those are map coordinates. Got \u2019em. Let\u2019s go."
+            ],
+            [
+                155,
+                "No one likes a know-it-all, Penny."
+            ],
+            [
+                182,
+                "Okay, another 30 feet."
+            ],
+            [
+                184,
+                "Yes. Yes. My brain is better than everybody\u2019s."
+            ],
+            [
+                199,
+                "To the planetarium."
+            ],
+            [
+                209,
+                "It\u2019s dirty laundry. You\u2019re up."
+            ],
+            [
+                211,
+                "Because you\u2019ve been training for this your whole life. You live in a pile of dirty laundry."
+            ],
+            [
+                224,
+                "I\u2019m not a child. I know the word ninny."
+            ],
+            [
+                228,
+                "Wait, it\u2019s not all pants, there\u2019s one shirt."
+            ],
+            [
+                230,
+                "Hey, that\u2019s my shirt."
+            ],
+            [
+                232,
+                "No, no, that\u2019s not mine. It has a big spot on it."
+            ],
+            [
+                236,
+                "Oh, that\u2019s clever."
+            ],
+            [
+                238,
+                "Be there in a minute. I just have to pre-soak these."
+            ]
+        ],
+        "Amy": [
+            [
+                5,
+                "We\u2019re sorry, Rajesh. "
+            ],
+            [
+                21,
+                "Scavenger hunts at Harvard were really tough. I always got stuck on the first challenge, trying to find someone to be on a team with me. I guess that story\u2019s more sad than funny."
+            ],
+            [
+                29,
+                "Yeah, me, too."
+            ],
+            [
+                55,
+                "Stop that. Penny is not a liability."
+            ],
+            [
+                57,
+                "Maybe we pick names out of a hat."
+            ],
+            [
+                68,
+                "I did them all the time as a kid. As my mom used to say, when you\u2019re doing a puzzle, it\u2019s like having a thousand friends. She was full of fun lies like that."
+            ],
+            [
+                70,
+                "I\u2019m sorry you got stuck with me. I bet you wanted to be with Bernadette."
+            ],
+            [
+                72,
+                "No."
+            ],
+            [
+                95,
+                "I think this is the first time we\u2019ve ever actually been alone together."
+            ],
+            [
+                97,
+                "Well, off the top of my head, I\u2019d say we don\u2019t have a lot in common except for the people we\u2019re involved with. Plus, when we first met, Penny warned me never to get into a car alone with you."
+            ],
+            [
+                99,
+                "Such as?"
+            ],
+            [
+                101,
+                "Uh, let\u2019s see. I like harps, Little House on the Prairie, medieval poetry, medieval literature\u2026"
+            ],
+            [
+                103,
+                "Great. Sheldon never lets me listen to music in the car. He doesn\u2019t want to be mistaken for a gang member. "
+            ],
+            [
+                105,
+                "Beatles, boring. Eminem, scary. Weird Al? How old are you? Neil Diamond?"
+            ],
+            [
+                107,
+                "I love Neil Diamond."
+            ],
+            [
+                113,
+                "Yes, it\u2019s not a ruse to make fun of me. It\u2019s a real game and I\u2019m winning it."
+            ],
+            [
+                135,
+                "Oh, oh, that\u2019s good. Then this would be"
+            ],
+            [
+                137,
+                "To the Neil Mobile."
+            ],
+            [
+                158,
+                "They\u2019re coming to America. "
+            ],
+            [
+                160,
+                "They\u2019re coming to America\u2026 \u266a"
+            ],
+            [
+                178,
+                "Today!"
+            ],
+            [
+                187,
+                "Ain\u2019t no big surprise."
+            ],
+            [
+                189,
+                "And I\u2019ll tell you some lies. "
+            ],
+            [
+                205,
+                "There\u2019s a Neil Diamond concert next month."
+            ],
+            [
+                259,
+                "She got the way to groove me."
+            ],
+            [
+                261,
+                "She got the way to move me, honey."
+            ]
+        ],
+        "Bernadette": [
+            [
+                6,
+                "Maybe we can do it next week."
+            ],
+            [
+                47,
+                "Should we just do couples?"
+            ],
+            [
+                74,
+                "Faster, faster, faster! Do you not know that word? It means more fast!"
+            ],
+            [
+                76,
+                "Hey, you\u2019ll know when I\u2019m yelling at you."
+            ],
+            [
+                84,
+                "Come on, numb nuts, it\u2019s the comic book store."
+            ],
+            [
+                89,
+                "Because you\u2019re in the right lane behind a bus and you won\u2019t go around it? I\u2019m sure she finds it charming."
+            ],
+            [
+                91,
+                "I\u2019m starting to think she dodged a bullet. The slowest bullet in the world."
+            ],
+            [
+                93,
+                "Yeah, I know. Its, it\u2019s probably because I grew up with five brothers and sisters so I had to fight for every\u2026 Oh, my God, you did not just slow down for a bird, you know they fly, right?"
+            ],
+            [
+                115,
+                "Go, go, go, go, go, go, go, go, go, go, go, go, go, go, go! How am I faster than you? I\u2019m in heels and I stopped to take a phone call."
+            ],
+            [
+                128,
+                "Hey, Romeo. Repair your relationship on your own time."
+            ],
+            [
+                138,
+                "I knew it, we\u2019re gonna lose."
+            ],
+            [
+                140,
+                "Congratulations, you got it last. "
+            ],
+            [
+                163,
+                "Don\u2019t sweat it, my dad\u2019s a cop. He can fix things."
+            ],
+            [
+                167,
+                "Who cares? Focus on the game."
+            ],
+            [
+                169,
+                "No. Quitting would be the worst thing for your relationship."
+            ],
+            [
+                171,
+                "Because it would make you seem like something she already thinks you are. "
+            ],
+            [
+                173,
+                "How do I put this? She\u2019s been known to call you a name that usually applies to a lady part. Or a cat. Or a willow."
+            ],
+            [
+                175,
+                "If you\u2019re gonna cry about it there\u2019s tissues in my purse. Unless you got some in yours. Big willow."
+            ],
+            [
+                192,
+                "Can you reach the clue?"
+            ],
+            [
+                194,
+                "Hurry, Sheldon and Penny were right behind us in the bowling alley."
+            ],
+            [
+                196,
+                "Great, climb back up. Come on."
+            ],
+            [
+                203,
+                "Let\u2019s go."
+            ],
+            [
+                212,
+                "They\u2019re here first. This is because you made me slow down for that blind guy."
+            ],
+            [
+                221,
+                "No, she doesn\u2019t. I just made that up."
+            ],
+            [
+                223,
+                "Because you were about to quit like a big, Sheldon, cover your ears."
+            ],
+            [
+                226,
+                "Wish I had a man like her on my team."
+            ],
+            [
+                234,
+                "Maybe the spot\u2019s the clue."
+            ],
+            [
+                240,
+                "Stop her, Leonard, stop her."
+            ],
+            [
+                244,
+                "Then where\u2019s the coin?"
+            ],
+            [
+                250,
+                "You suck so hard."
+            ]
+        ],
+        "Howard": [
+            [
+                7,
+                "Whoa, whoa, we\u2019re not that sorry."
+            ],
+            [
+                11,
+                "Hallelujah."
+            ],
+            [
+                14,
+                "Why?"
+            ],
+            [
+                17,
+                "Oh, I loved those. I did them every year there."
+            ],
+            [
+                19,
+                "Oh, that\u2019s cute. Like it\u2019s a real college."
+            ],
+            [
+                24,
+                "And Princeton."
+            ],
+            [
+                41,
+                "Yes, to be fair, do people who went to Princeton get a head start?"
+            ],
+            [
+                67,
+                "Wow, you\u2019re really good at puzzles."
+            ],
+            [
+                69,
+                "If it makes you feel any better, my mom\u2019s just full of pound cake."
+            ],
+            [
+                71,
+                "Have you ever played a game with Bernadette?"
+            ],
+            [
+                73,
+                "Have you ever gone into a steel cage with a wolverine?"
+            ],
+            [
+                83,
+                "It\u2019s the comic book store. Let\u2019s go."
+            ],
+            [
+                96,
+                "Huh, I guess you\u2019re right. Wonder why that is?"
+            ],
+            [
+                98,
+                "Yeah. You know, I bet you and I have more in common than we think."
+            ],
+            [
+                100,
+                "I don\u2019t know. Tell me some things you like."
+            ],
+            [
+                102,
+                "Hey, how about some music?"
+            ],
+            [
+                104,
+                "Find something you like."
+            ],
+            [
+                106,
+                "Yeah, I love Neil Diamond."
+            ],
+            [
+                117,
+                "Riddle me this. Arrah, Arrah, and gather round, the work of this hero is legion-bound. He multiplies N by the number of He, and in this room the thing you\u2019ll see."
+            ],
+            [
+                134,
+                "Hey, you know what this could mean"
+            ],
+            [
+                136,
+                "That\u2019s it. "
+            ],
+            [
+                157,
+                "On the boats and on the planes. "
+            ],
+            [
+                159,
+                "Never looking back again. "
+            ],
+            [
+                177,
+                "They\u2019re coming to America, They\u2019re coming to America."
+            ],
+            [
+                179,
+                "Today!"
+            ],
+            [
+                186,
+                "Love on the rocks. "
+            ],
+            [
+                188,
+                "Just pour me a drink."
+            ],
+            [
+                206,
+                "Let\u2019s go."
+            ],
+            [
+                258,
+                "Hey, she got the way to move me, Cherry,"
+            ],
+            [
+                260,
+                "Cherry, baby"
+            ],
+            [
+                263,
+                "Cherry"
+            ]
+        ],
+        "Penny": [
+            [
+                22,
+                "I love scavenger hunts. My friends and I had them all the time."
+            ],
+            [
+                26,
+                "Oh, in ours we would just run around town looking for a store that would sell us beer."
+            ],
+            [
+                49,
+                "Whoa, whoa, whoa. Why don\u2019t you just admit you don\u2019t want to be on a team with me."
+            ],
+            [
+                51,
+                "Mm-hmm, yeah, you don\u2019t think I\u2019m smart enough. You think I\u2019m gonna be a liability. Even though I totally just used the word liability correctly in a sentence. Yeah."
+            ],
+            [
+                53,
+                "No, no. Let\u2019s mix things up. I choose Sheldon, and we\u2019re gonna kick your ass!"
+            ],
+            [
+                56,
+                "Thank you. Do you want to be on my team?"
+            ],
+            [
+                59,
+                "All right, hurry up and close the door so they can\u2019t hear us. Would you stop pouting? So, you picked my name. Get over it."
+            ],
+            [
+                61,
+                "No."
+            ],
+            [
+                65,
+                "Well, there\u2019s no right way, Sheldon. I already found a few pieces that fit."
+            ],
+            [
+                77,
+                "Ooh, ooh, it\u2019s the comic book store. All right, come on, that\u2019s where we have to go."
+            ],
+            [
+                79,
+                "But, it, it doesn\u2019t matter. We know the answer, come on."
+            ],
+            [
+                81,
+                "Okay, it\u2019s not gonna say that."
+            ],
+            [
+                85,
+                "It\u2019s the comic book store, it\u2019s the comic book store, it\u2019s the comic book store."
+            ],
+            [
+                123,
+                "Ugh, we\u2019re the last ones here, hurry up."
+            ],
+            [
+                125,
+                "People run in a marathon."
+            ],
+            [
+                130,
+                "Riddle me this\u2026"
+            ],
+            [
+                132,
+                "Hey, Princeton, look at that, Team Community College Night School is in the lead."
+            ],
+            [
+                144,
+                "Aha. Okay, let\u2019s see. To continue on your quest, leave no stone unturned. Ooh."
+            ],
+            [
+                146,
+                "Oh. Okay. Sheldon, I, I\u2019ve got to ask, how did you figure out that it was the geology lab?"
+            ],
+            [
+                148,
+                "Yes."
+            ],
+            [
+                150,
+                "Wow. I can drink a beer underwater."
+            ],
+            [
+                152,
+                "Shut up. I solved it."
+            ],
+            [
+                154,
+                "Well, wait. Don\u2019t you want to know how I figured it out?"
+            ],
+            [
+                183,
+                "Okay. Oh, it\u2019s a bowling alley."
+            ],
+            [
+                200,
+                "Let\u2019s go."
+            ],
+            [
+                208,
+                "Three bags, no one\u2019s opened \u2019em. we\u2019re the first ones here."
+            ],
+            [
+                210,
+                "What? Why me?"
+            ],
+            [
+                213,
+                "Okay, the clue must be in the bag."
+            ],
+            [
+                215,
+                "It\u2019s just a bunch of pants."
+            ],
+            [
+                217,
+                "You know, I\u2019m surprised you want to copy my answers since I\u2019m not even smart enough to be on your team. "
+            ],
+            [
+                219,
+                "What are you talking about?"
+            ],
+            [
+                225,
+                "Yeah, well, you should have quit \u2019cause I\u2019m still gonna beat your ass."
+            ],
+            [
+                229,
+                "Oh."
+            ],
+            [
+                233,
+                "But wait. So does this one."
+            ],
+            [
+                235,
+                "Sheldon\u2019s spot. The coin is in your spot."
+            ],
+            [
+                241,
+                "Well, where the hell\u2019s the coin?"
+            ],
+            [
+                246,
+                "I don\u2019t get it."
+            ],
+            [
+                249,
+                "That is the stupidest thing I\u2019ve ever heard. "
+            ],
+            [
+                252,
+                "Run."
+            ],
+            [
+                254,
+                "Run to India."
+            ]
+        ],
+        "Various": [
+            [
+                30,
+                "I\u2019m in, let\u2019s do it."
+            ]
+        ],
+        "Both": [
+            [
+                108,
+                "Sweet Caroline, bum-ba-da, good times never seemed so good, so good, so good, so good. I\u2019ve been inclined\u2026"
+            ]
+        ],
+        "Stuart": [
+            [
+                111,
+                "Oh, my pleasure. Always happy to help out with fun things that I wasn\u2019t invited to be a part of."
+            ],
+            [
+                119,
+                "Yeah. So when you guys plan fun activities, does my name even come up, or\u2026?"
+            ],
+            [
+                121,
+                "No, you didn\u2019t. "
+            ],
+            [
+                142,
+                "So no one\u2019s gonna buy anything."
+            ]
+        ],
+        "Together": [
+            [
+                180,
+                "Today! Today!"
+            ],
+            [
+                262,
+                "She got the way to groove me. She got the way to move me."
+            ],
+            [
+                264,
+                "She got the way to groove me, yeah!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The Cheesecake Factory"
+        ],
+        [
+            "Raj",
+            "So, couldn\u2019t help but notice none of you RSVP\u2019d to my murder mystery dinner party."
+        ],
+        [
+            "Leonard",
+            "Oh, yeah. We were meaning to do that."
+        ],
+        [
+            "Raj",
+            "No, you weren\u2019t because it was a week ago and nobody came. So, if you want to solve the mystery of who stabbed Koothrappali in the back with the weapon of indifference, it was all of you."
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t think thatqualifies as a mystery, we all knew what we were doing."
+        ],
+        [
+            "Amy",
+            "We\u2019re sorry, Rajesh. "
+        ],
+        [
+            "Bernadette",
+            "Maybe we can do it next week."
+        ],
+        [
+            "Howard",
+            "Whoa, whoa, we\u2019re not that sorry."
+        ],
+        [
+            "Raj",
+            "Don\u2019t worry, I can take a hint. No more murder mystery parties."
+        ],
+        [
+            "Leonard",
+            "Great. "
+        ],
+        [
+            "Sheldon",
+            "Thank you."
+        ],
+        [
+            "Howard",
+            "Hallelujah."
+        ],
+        [
+            "Raj",
+            "Because I\u2019ve got something even better planned."
+        ],
+        [
+            "Leonard",
+            "Aw."
+        ],
+        [
+            "Howard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "Come on."
+        ],
+        [
+            "Raj",
+            "Just hear me out. I\u2019m going to make you guys a scavenger hunt like they have at M.I.T."
+        ],
+        [
+            "Howard",
+            "Oh, I loved those. I did them every year there."
+        ],
+        [
+            "Leonard",
+            "We did them at Princeton, too."
+        ],
+        [
+            "Howard",
+            "Oh, that\u2019s cute. Like it\u2019s a real college."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s amusing, I was going to say that about M.I.T., but it works for Princeton, too."
+        ],
+        [
+            "Amy",
+            "Scavenger hunts at Harvard were really tough. I always got stuck on the first challenge, trying to find someone to be on a team with me. I guess that story\u2019s more sad than funny."
+        ],
+        [
+            "Penny",
+            "I love scavenger hunts. My friends and I had them all the time."
+        ],
+        [
+            "Leonard",
+            "Oh, these are a little different. There\u2019s a tradition at elite universities\u2026"
+        ],
+        [
+            "Howard",
+            "And Princeton."
+        ],
+        [
+            "Leonard",
+            "A tradition of hunts full of puzzles that rely on logic and obscure knowledge, science."
+        ],
+        [
+            "Penny",
+            "Oh, in ours we would just run around town looking for a store that would sell us beer."
+        ],
+        [
+            "Raj",
+            "So, uh, who\u2019s in?"
+        ],
+        [
+            "Leonard",
+            "I think it sounds fun."
+        ],
+        [
+            "Amy",
+            "Yeah, me, too."
+        ],
+        [
+            "Various",
+            "I\u2019m in, let\u2019s do it."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. Are we really doing this or are we tricking Koothrappali again like with the dinner party?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "What\u2019s all this?"
+        ],
+        [
+            "Sheldon",
+            "Oh, everything I could possibly need to win the scavenger hunt."
+        ],
+        [
+            "Leonard",
+            "You really think he\u2019s gonna send us to a bowling alley?"
+        ],
+        [
+            "Sheldon",
+            "Well, if he does, do you know how filthy those rental balls are? They might as well stand on the corner and give away free rectal exams."
+        ],
+        [
+            "Raj",
+            "Okay, everybody. Who\u2019s ready for a scavenger hunt?"
+        ],
+        [
+            "Sheldon",
+            "He is a born showman."
+        ],
+        [
+            "Raj",
+            "Any questions?"
+        ],
+        [
+            "Howard",
+            "Yes, to be fair, do people who went to Princeton get a head start?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s not funny."
+        ],
+        [
+            "Sheldon",
+            "No, Oh, it actually is if you get the joke. It\u2019s based on the premise that Princeton isn\u2019t a very good school. "
+        ],
+        [
+            "Leonard",
+            "Ha-ha."
+        ],
+        [
+            "Sheldon",
+            "Oh, see? Now he gets it."
+        ],
+        [
+            "Raj",
+            "Okay, guys, go ahead and divide yourselves into teams of two."
+        ],
+        [
+            "Bernadette",
+            "Should we just do couples?"
+        ],
+        [
+            "Leonard",
+            "Couples sounds great. Or we could mix things up. Maybe pick names out of a hat. Whatever."
+        ],
+        [
+            "Penny",
+            "Whoa, whoa, whoa. Why don\u2019t you just admit you don\u2019t want to be on a team with me."
+        ],
+        [
+            "Leonard",
+            "I just said, couples sound great."
+        ],
+        [
+            "Penny",
+            "Mm-hmm, yeah, you don\u2019t think I\u2019m smart enough. You think I\u2019m gonna be a liability. Even though I totally just used the word liability correctly in a sentence. Yeah."
+        ],
+        [
+            "Leonard",
+            "All right, let\u2019s, let\u2019s do couples. I want to."
+        ],
+        [
+            "Penny",
+            "No, no. Let\u2019s mix things up. I choose Sheldon, and we\u2019re gonna kick your ass!"
+        ],
+        [
+            "Sheldon",
+            "Really? The only time I\u2019m ever picked first for a team and I\u2019m stuck with the liability?"
+        ],
+        [
+            "Amy",
+            "Stop that. Penny is not a liability."
+        ],
+        [
+            "Penny",
+            "Thank you. Do you want to be on my team?"
+        ],
+        [
+            "Amy",
+            "Maybe we pick names out of a hat."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. (Montage with scenes in the apartment and Leonard\u2019s bedroom) "
+        ],
+        [
+            "Penny",
+            "All right, hurry up and close the door so they can\u2019t hear us. Would you stop pouting? So, you picked my name. Get over it."
+        ],
+        [
+            "Sheldon",
+            "Yes, and do you know what the odds are I\u2019d pick your name?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not hard, one in five. Now you know why I\u2019m pouting."
+        ],
+        [
+            "Scene",
+            "Raj"
+        ],
+        [
+            "Sheldon",
+            "What are you doing? You have to start with the edges."
+        ],
+        [
+            "Penny",
+            "Well, there\u2019s no right way, Sheldon. I already found a few pieces that fit."
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, take them apart and start with the edges. And stop wasting time."
+        ],
+        [
+            "Howard",
+            "Wow, you\u2019re really good at puzzles."
+        ],
+        [
+            "Amy",
+            "I did them all the time as a kid. As my mom used to say, when you\u2019re doing a puzzle, it\u2019s like having a thousand friends. She was full of fun lies like that."
+        ],
+        [
+            "Howard",
+            "If it makes you feel any better, my mom\u2019s just full of pound cake."
+        ],
+        [
+            "Amy",
+            "I\u2019m sorry you got stuck with me. I bet you wanted to be with Bernadette."
+        ],
+        [
+            "Howard",
+            "Have you ever played a game with Bernadette?"
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Howard",
+            "Have you ever gone into a steel cage with a wolverine?"
+        ],
+        [
+            "Bernadette",
+            "Faster, faster, faster! Do you not know that word? It means more fast!"
+        ],
+        [
+            "Leonard",
+            "Stop yelling at me."
+        ],
+        [
+            "Bernadette",
+            "Hey, you\u2019ll know when I\u2019m yelling at you."
+        ],
+        [
+            "Penny",
+            "Ooh, ooh, it\u2019s the comic book store. All right, come on, that\u2019s where we have to go."
+        ],
+        [
+            "Sheldon",
+            "But we haven\u2019t finished the puzzle."
+        ],
+        [
+            "Penny",
+            "But, it, it doesn\u2019t matter. We know the answer, come on."
+        ],
+        [
+            "Sheldon",
+            "You think you know the answer. But it could be a trick. What if when the puzzle\u2019s complete, there\u2019s a sign in the window that says go to the train store?"
+        ],
+        [
+            "Penny",
+            "Okay, it\u2019s not gonna say that."
+        ],
+        [
+            "Sheldon",
+            "Well, I hope you\u2019re wrong. I really want to go to the train store."
+        ],
+        [
+            "Howard",
+            "It\u2019s the comic book store. Let\u2019s go."
+        ],
+        [
+            "Bernadette",
+            "Come on, numb nuts, it\u2019s the comic book store."
+        ],
+        [
+            "Penny",
+            "It\u2019s the comic book store, it\u2019s the comic book store, it\u2019s the comic book store."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s the comic book store."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Leonard",
+            "Do you think Penny\u2019s mad at me?"
+        ],
+        [
+            "Bernadette",
+            "Because you\u2019re in the right lane behind a bus and you won\u2019t go around it? I\u2019m sure she finds it charming."
+        ],
+        [
+            "Leonard",
+            "No, because I didn\u2019t want her on my team."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m starting to think she dodged a bullet. The slowest bullet in the world."
+        ],
+        [
+            "Leonard",
+            "Geez, I never realized you were so competitive."
+        ],
+        [
+            "Bernadette",
+            "Yeah, I know. Its, it\u2019s probably because I grew up with five brothers and sisters so I had to fight for every\u2026 Oh, my God, you did not just slow down for a bird, you know they fly, right?"
+        ],
+        [
+            "Scene",
+            "Howard\u2019s car."
+        ],
+        [
+            "Amy",
+            "I think this is the first time we\u2019ve ever actually been alone together."
+        ],
+        [
+            "Howard",
+            "Huh, I guess you\u2019re right. Wonder why that is?"
+        ],
+        [
+            "Amy",
+            "Well, off the top of my head, I\u2019d say we don\u2019t have a lot in common except for the people we\u2019re involved with. Plus, when we first met, Penny warned me never to get into a car alone with you."
+        ],
+        [
+            "Howard",
+            "Yeah. You know, I bet you and I have more in common than we think."
+        ],
+        [
+            "Amy",
+            "Such as?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. Tell me some things you like."
+        ],
+        [
+            "Amy",
+            "Uh, let\u2019s see. I like harps, Little House on the Prairie, medieval poetry, medieval literature\u2026"
+        ],
+        [
+            "Howard",
+            "Hey, how about some music?"
+        ],
+        [
+            "Amy",
+            "Great. Sheldon never lets me listen to music in the car. He doesn\u2019t want to be mistaken for a gang member. "
+        ],
+        [
+            "Howard",
+            "Find something you like."
+        ],
+        [
+            "Amy",
+            "Beatles, boring. Eminem, scary. Weird Al? How old are you? Neil Diamond?"
+        ],
+        [
+            "Howard",
+            "Yeah, I love Neil Diamond."
+        ],
+        [
+            "Amy",
+            "I love Neil Diamond."
+        ],
+        [
+            "Both",
+            "Sweet Caroline, bum-ba-da, good times never seemed so good, so good, so good, so good. I\u2019ve been inclined\u2026"
+        ],
+        [
+            "Scene",
+            "The comic book store."
+        ],
+        [
+            "Raj",
+            "Oh, hey, thanks for letting me use the comic book store as part of the scavenger hunt."
+        ],
+        [
+            "Stuart",
+            "Oh, my pleasure. Always happy to help out with fun things that I wasn\u2019t invited to be a part of."
+        ],
+        [
+            "Raj",
+            "Oh, congratulations. You\u2019re the first team to arrive."
+        ],
+        [
+            "Amy",
+            "Yes, it\u2019s not a ruse to make fun of me. It\u2019s a real game and I\u2019m winning it."
+        ],
+        [
+            "Raj",
+            "Your next puzzle is a riddle. And who better to give it to you than The Riddler?"
+        ],
+        [
+            "Bernadette",
+            "Go, go, go, go, go, go, go, go, go, go, go, go, go, go, go! How am I faster than you? I\u2019m in heels and I stopped to take a phone call."
+        ],
+        [
+            "Leonard",
+            "I have asthma. Back off."
+        ],
+        [
+            "Howard",
+            "Riddle me this. Arrah, Arrah, and gather round, the work of this hero is legion-bound. He multiplies N by the number of He, and in this room the thing you\u2019ll see."
+        ],
+        [
+            "Raj",
+            "Good riddle, huh?"
+        ],
+        [
+            "Stuart",
+            "Yeah. So when you guys plan fun activities, does my name even come up, or\u2026?"
+        ],
+        [
+            "Raj",
+            "I invited you to my murder mystery party."
+        ],
+        [
+            "Stuart",
+            "No, you didn\u2019t. "
+        ],
+        [
+            "Raj",
+            "Oh."
+        ],
+        [
+            "Penny",
+            "Ugh, we\u2019re the last ones here, hurry up."
+        ],
+        [
+            "Sheldon",
+            "It is a marathon, not a sprint."
+        ],
+        [
+            "Penny",
+            "People run in a marathon."
+        ],
+        [
+            "Sheldon",
+            "Not with a bowling ball on their back."
+        ],
+        [
+            "Leonard",
+            "Hey, Penny, I just wanted to say good luck, and I hope there\u2019s no hard feelings."
+        ],
+        [
+            "Bernadette",
+            "Hey, Romeo. Repair your relationship on your own time."
+        ],
+        [
+            "Leonard",
+            "Relax, it\u2019s a hard puzzle. It\u2019s gonna take a while to solve."
+        ],
+        [
+            "Penny",
+            "Riddle me this\u2026"
+        ],
+        [
+            "Sheldon",
+            "Got it."
+        ],
+        [
+            "Penny",
+            "Hey, Princeton, look at that, Team Community College Night School is in the lead."
+        ],
+        [
+            "Sheldon",
+            "I thought we were the Lightning Sharks."
+        ],
+        [
+            "Howard",
+            "Hey, you know what this could mean"
+        ],
+        [
+            "Amy",
+            "Oh, oh, that\u2019s good. Then this would be"
+        ],
+        [
+            "Howard",
+            "That\u2019s it. "
+        ],
+        [
+            "Amy",
+            "To the Neil Mobile."
+        ],
+        [
+            "Bernadette",
+            "I knew it, we\u2019re gonna lose."
+        ],
+        [
+            "Leonard",
+            "Wait, I got it. I got it/"
+        ],
+        [
+            "Bernadette",
+            "Congratulations, you got it last. "
+        ],
+        [
+            "Leonard",
+            "You\u2019re really mean, you know that?"
+        ],
+        [
+            "Stuart",
+            "So no one\u2019s gonna buy anything."
+        ],
+        [
+            "Scene",
+            "The geology lab at the University. "
+        ],
+        [
+            "Penny",
+            "Aha. Okay, let\u2019s see. To continue on your quest, leave no stone unturned. Ooh."
+        ],
+        [
+            "Sheldon",
+            "The next clue must be hidden under one of these rocks."
+        ],
+        [
+            "Penny",
+            "Oh. Okay. Sheldon, I, I\u2019ve got to ask, how did you figure out that it was the geology lab?"
+        ],
+        [
+            "Sheldon",
+            "Oh, simple, the \u2018arrah, \u2018arrah in the riddle mean Jan Arrah, a member of the Legion of Superheroes, known as Element Lad. And then the word He, it wasn\u2019t the masculine pronoun, but rather H e, the abbreviation for helium. See where I\u2019m going with this?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Nice try. Now, Element Lad\u2019s ability is the power to transmute chemical elements. Helium has an atomic number of two. If you multiply that by the atomic number of N, nitrogen, you get 14, which is the atomic number of? I\u2019m just funnin\u2019 you, silicon. And that is the most common element in the Earth\u2019s surface. So that narrowed it down to the geology lab or the chemistry lab."
+        ],
+        [
+            "Penny",
+            "Wow. I can drink a beer underwater."
+        ],
+        [
+            "Sheldon",
+            "And I\u2019m sure your parents are proud. Now, finally, the line in this room the thing you\u2019ll see was an obvious reference to Fantastic Four member The Thing, who\u2019s made entirely of\u2026"
+        ],
+        [
+            "Penny",
+            "Shut up. I solved it."
+        ],
+        [
+            "Sheldon",
+            "Those are map coordinates. Got \u2019em. Let\u2019s go."
+        ],
+        [
+            "Penny",
+            "Well, wait. Don\u2019t you want to know how I figured it out?"
+        ],
+        [
+            "Sheldon",
+            "No one likes a know-it-all, Penny."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s car."
+        ],
+        [
+            "Howard",
+            "On the boats and on the planes. "
+        ],
+        [
+            "Amy",
+            "They\u2019re coming to America. "
+        ],
+        [
+            "Howard",
+            "Never looking back again. "
+        ],
+        [
+            "Amy",
+            "They\u2019re coming to America\u2026 \u266a"
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Leonard",
+            "Um, I\u2019m okay with you driving my car. I\u2019m not okay with you flying my car."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t sweat it, my dad\u2019s a cop. He can fix things."
+        ],
+        [
+            "Leonard",
+            "Uh-huh. Like death?"
+        ],
+        [
+            "Scene",
+            "Bernadette"
+        ],
+        [
+            "Leonard",
+            "Penny\u2019s not answering my texts."
+        ],
+        [
+            "Bernadette",
+            "Who cares? Focus on the game."
+        ],
+        [
+            "Leonard",
+            "This stupid game is why she\u2019s mad in the first place. I\u2019m telling her I\u2019m quitting."
+        ],
+        [
+            "Bernadette",
+            "No. Quitting would be the worst thing for your relationship."
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Bernadette",
+            "Because it would make you seem like something she already thinks you are. "
+        ],
+        [
+            "Leonard",
+            "What does she think I am?"
+        ],
+        [
+            "Bernadette",
+            "How do I put this? She\u2019s been known to call you a name that usually applies to a lady part. Or a cat. Or a willow."
+        ],
+        [
+            "Leonard",
+            "I can\u2019t believe she would say that about me."
+        ],
+        [
+            "Bernadette",
+            "If you\u2019re gonna cry about it there\u2019s tissues in my purse. Unless you got some in yours. Big willow."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s car."
+        ],
+        [
+            "Howard",
+            "They\u2019re coming to America, They\u2019re coming to America."
+        ],
+        [
+            "Amy",
+            "Today!"
+        ],
+        [
+            "Howard",
+            "Today!"
+        ],
+        [
+            "Together",
+            "Today! Today!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car."
+        ],
+        [
+            "Sheldon",
+            "Okay, another 30 feet."
+        ],
+        [
+            "Penny",
+            "Okay. Oh, it\u2019s a bowling alley."
+        ],
+        [
+            "Sheldon",
+            "Yes. Yes. My brain is better than everybody\u2019s."
+        ],
+        [
+            "Scene",
+            "The geology lab."
+        ],
+        [
+            "Howard",
+            "Love on the rocks. "
+        ],
+        [
+            "Amy",
+            "Ain\u2019t no big surprise."
+        ],
+        [
+            "Howard",
+            "Just pour me a drink."
+        ],
+        [
+            "Amy",
+            "And I\u2019ll tell you some lies. "
+        ],
+        [
+            "Scene",
+            "The apartment stairwell. Leonard is lowering himself down the lift shaft."
+        ],
+        [
+            "Leonard",
+            "Call me a lady part. We\u2019ll see about that."
+        ],
+        [
+            "Bernadette",
+            "Can you reach the clue?"
+        ],
+        [
+            "Leonard",
+            "Almost."
+        ],
+        [
+            "Bernadette",
+            "Hurry, Sheldon and Penny were right behind us in the bowling alley."
+        ],
+        [
+            "Leonard",
+            "Got it."
+        ],
+        [
+            "Bernadette",
+            "Great, climb back up. Come on."
+        ],
+        [
+            "Leonard",
+            "Yeah, Penny might be onto something."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car. "
+        ],
+        [
+            "Sheldon",
+            "To the planetarium."
+        ],
+        [
+            "Penny",
+            "Let\u2019s go."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Leonard",
+            "To the tar pits."
+        ],
+        [
+            "Bernadette",
+            "Let\u2019s go."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s car."
+        ],
+        [
+            "Amy",
+            "There\u2019s a Neil Diamond concert next month."
+        ],
+        [
+            "Howard",
+            "Let\u2019s go."
+        ],
+        [
+            "Scene",
+            "The laundry room."
+        ],
+        [
+            "Penny",
+            "Three bags, no one\u2019s opened \u2019em. we\u2019re the first ones here."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s dirty laundry. You\u2019re up."
+        ],
+        [
+            "Penny",
+            "What? Why me?"
+        ],
+        [
+            "Sheldon",
+            "Because you\u2019ve been training for this your whole life. You live in a pile of dirty laundry."
+        ],
+        [
+            "Bernadette",
+            "They\u2019re here first. This is because you made me slow down for that blind guy."
+        ],
+        [
+            "Penny",
+            "Okay, the clue must be in the bag."
+        ],
+        [
+            "Leonard",
+            "The clue must be in the bag."
+        ],
+        [
+            "Penny",
+            "It\u2019s just a bunch of pants."
+        ],
+        [
+            "Leonard",
+            "It\u2019s just a bunch of pants."
+        ],
+        [
+            "Penny",
+            "You know, I\u2019m surprised you want to copy my answers since I\u2019m not even smart enough to be on your team. "
+        ],
+        [
+            "Leonard",
+            "Well, why would you want to be on someone\u2019s team who you like to call a, I can\u2019t even say it in front of Sheldon."
+        ],
+        [
+            "Penny",
+            "What are you talking about?"
+        ],
+        [
+            "Leonard",
+            "You know exactly what I\u2019m talking about."
+        ],
+        [
+            "Bernadette",
+            "No, she doesn\u2019t. I just made that up."
+        ],
+        [
+            "Leonard",
+            "Why would you do that?"
+        ],
+        [
+            "Bernadette",
+            "Because you were about to quit like a big, Sheldon, cover your ears."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not a child. I know the word ninny."
+        ],
+        [
+            "Penny",
+            "Yeah, well, you should have quit \u2019cause I\u2019m still gonna beat your ass."
+        ],
+        [
+            "Bernadette",
+            "Wish I had a man like her on my team."
+        ],
+        [
+            "Leonard",
+            "Hey, I am every bit as much of a man as Penny. Now, let\u2019s do this."
+        ],
+        [
+            "Sheldon",
+            "Wait, it\u2019s not all pants, there\u2019s one shirt."
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Sheldon",
+            "Hey, that\u2019s my shirt."
+        ],
+        [
+            "Leonard",
+            "This one is, too."
+        ],
+        [
+            "Sheldon",
+            "No, no, that\u2019s not mine. It has a big spot on it."
+        ],
+        [
+            "Penny",
+            "But wait. So does this one."
+        ],
+        [
+            "Bernadette",
+            "Maybe the spot\u2019s the clue."
+        ],
+        [
+            "Penny",
+            "Sheldon\u2019s spot. The coin is in your spot."
+        ],
+        [
+            "Sheldon",
+            "Oh, that\u2019s clever."
+        ],
+        [
+            "Scene",
+            "Penny"
+        ],
+        [
+            "Sheldon",
+            "Be there in a minute. I just have to pre-soak these."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Bernadette",
+            "Stop her, Leonard, stop her."
+        ],
+        [
+            "Penny",
+            "Well, where the hell\u2019s the coin?"
+        ],
+        [
+            "Leonard",
+            "Wasn\u2019t the answer Sheldon\u2019s spot?"
+        ],
+        [
+            "Raj",
+            "Oh, yes, Leonard. Yes, it was."
+        ],
+        [
+            "Bernadette",
+            "Then where\u2019s the coin?"
+        ],
+        [
+            "Raj",
+            "Yes, exactly. Where is the coin? Why don\u2019t you look in your pockets? I slipped them in there earlier today."
+        ],
+        [
+            "Penny",
+            "I don\u2019t get it."
+        ],
+        [
+            "Raj",
+            "Don\u2019t you see? When we\u2019re all having fun together, we\u2019re already winners. Oh, look. See? Even I\u2019m a winner."
+        ],
+        [
+            "Leonard",
+            "Are you kidding me?"
+        ],
+        [
+            "Penny",
+            "That is the stupidest thing I\u2019ve ever heard. "
+        ],
+        [
+            "Bernadette",
+            "You suck so hard."
+        ],
+        [
+            "Raj",
+            "Well, I thought\u2026 Come on, I didn\u2019t want anyone to feel bad at the end of the game. And some of those puzzles were really hard and I didn\u2019t know who was gonna get Penny."
+        ],
+        [
+            "Penny",
+            "Run."
+        ],
+        [
+            "Raj",
+            "Okay, okay, that-that came out wrong, but you have to admit, you all had a wonderful time."
+        ],
+        [
+            "Penny",
+            "Run to India."
+        ],
+        [
+            "Raj",
+            "I just wanted to do something beautiful."
+        ],
+        [
+            "Scene",
+            "Sheldon"
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory, karaoke night."
+        ],
+        [
+            "Howard",
+            "Hey, she got the way to move me, Cherry,"
+        ],
+        [
+            "Amy",
+            "She got the way to groove me."
+        ],
+        [
+            "Howard",
+            "Cherry, baby"
+        ],
+        [
+            "Amy",
+            "She got the way to move me, honey."
+        ],
+        [
+            "Together",
+            "She got the way to groove me. She got the way to move me."
+        ],
+        [
+            "Howard",
+            "Cherry"
+        ],
+        [
+            "Together",
+            "She got the way to groove me, yeah!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-03-the-scavenger-vortex/"
+}

@@ -1,0 +1,2096 @@
+{
+    "Season": 3,
+    "Episode": 22,
+    "Title": "the staircase implementation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Penny\u2019s apartment."
+            ],
+            [
+                29,
+                "Moments later."
+            ],
+            [
+                233,
+                "The apartment. "
+            ],
+            [
+                249,
+                "Penny\u2019s apartment."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Okay, Babydoll Pink, let\u2019s see if you can cover up the fact that I got my dad\u2019s feet."
+            ],
+            [
+                12,
+                "Hang on."
+            ],
+            [
+                14,
+                "Uh, well, you can try, but the people across the hall are being very noisy."
+            ],
+            [
+                16,
+                "Apparently, the one fella tried to adjust the thermostat, then the other fella went bat-crap crazy."
+            ],
+            [
+                18,
+                "Well, not as nuts as the guy who chooses to live with him."
+            ],
+            [
+                20,
+                "Oh, I do not believe that."
+            ],
+            [
+                30,
+                "So Sheldon\u2019s last roommate tried to warn you off?"
+            ],
+            [
+                32,
+                "Well, yeah, he\u2019d been living with Sheldon."
+            ],
+            [
+                95,
+                "Okay, and after all that, you just moved in?"
+            ],
+            [
+                104,
+                "Why on earth did you agree to all that?"
+            ],
+            [
+                106,
+                "Well, I\u2019m sorry, Leonard, it\u2019s very hard to feel sympathy for you."
+            ],
+            [
+                119,
+                "Oh, my God."
+            ],
+            [
+                121,
+                "A little bit. Okay. Let me get this straight. You move in with this guy, he makes you sign a ridiculous roommate agreement, then he walks into your bedroom while you\u2019re doing this Joyce Kim, and you still stay?"
+            ],
+            [
+                123,
+                "Why not?"
+            ],
+            [
+                125,
+                "What does that have to do with Joyce Kim?"
+            ],
+            [
+                127,
+                "So, what, that\u2019s it? You\u2019ve stayed with Sheldon all this time because he kept you from going to federal prison?"
+            ],
+            [
+                129,
+                "Oh, yeah, I\u2019m wondering about that. You said it was working when you moved in."
+            ],
+            [
+                153,
+                "Okay, what does all this have to do with the elevator?"
+            ],
+            [
+                187,
+                "Okay, how do you know he said that? You left the room."
+            ],
+            [
+                189,
+                "Fine. Go ahead. (Flashback to Howard\u2019s bedroom.)"
+            ],
+            [
+                203,
+                "So, why was it his lucky day?"
+            ],
+            [
+                205,
+                "What were you doing with rocket fuel in your apartment?"
+            ],
+            [
+                207,
+                "Are we ever going to get to the elevator?"
+            ],
+            [
+                229,
+                "Okay, so, basically, you\u2019re the reason I have to walk up and down three flights of stairs every day?"
+            ],
+            [
+                231,
+                "Excuse me, I was in high school. Studying, keeping my nose clean, doing volunteer work for the community. (Flashback. Penny is in her bedroom, sitting on the bed with a guy, looking at a pregnancy tester.)"
+            ]
+        ],
+        "Leonard (voice off)": [
+            [
+                2,
+                "It\u2019s just two degrees, Sheldon. I just want to turn up the thermostat two degrees!"
+            ],
+            [
+                4,
+                "Yes, if we lived in a teakettle."
+            ],
+            [
+                6,
+                "Aw, screw the roommate agreement!"
+            ],
+            [
+                8,
+                "You know what, go to Hell and set their thermostat."
+            ],
+            [
+                251,
+                "You\u2019re not even watching!"
+            ],
+            [
+                253,
+                "Oh, so the dialogue offends you?"
+            ],
+            [
+                255,
+                "You\u2019re insane, you know that?!"
+            ]
+        ],
+        "Sheldon: (voice off)": [
+            [
+                3,
+                "Let me point out that two degrees can be the difference between water and steam."
+            ],
+            [
+                5,
+                "This is the temperature you agreed to in the roommate agreement."
+            ],
+            [
+                7,
+                "No, you don\u2019t screw the roommate agreement. The roommate agreement screws you."
+            ],
+            [
+                9,
+                "I don\u2019t have to go to Hell. At 73 degrees, I\u2019m there already!"
+            ]
+        ],
+        "Penny (after a knock on the door)": [
+            [
+                10,
+                "Who is it?"
+            ]
+        ],
+        "Leonard": [
+            [
+                11,
+                "Leonard."
+            ],
+            [
+                13,
+                "Can I sleep on your couch tonight?"
+            ],
+            [
+                15,
+                "You heard that, huh?"
+            ],
+            [
+                17,
+                "So you agree, he\u2019s nuts."
+            ],
+            [
+                19,
+                "Believe it or not, he was worse when I met him."
+            ],
+            [
+                28,
+                "That should have been my first clue."
+            ],
+            [
+                31,
+                "For all I knew, he was the crazy one. He had this really deranged look."
+            ],
+            [
+                33,
+                "Sure, it makes sense now. (Flashback. Past Leonard is getting out of the lift). Anyway, I went upstairs and knocked on the door."
+            ],
+            [
+                37,
+                "In retrospect, that was clue number two."
+            ],
+            [
+                105,
+                "It was the best apartment I\u2019d seen, the rent was very reasonable and after you\u2019ve passed the first three barriers you kind of want to take it all the way."
+            ],
+            [
+                107,
+                "Okay, how about this? Let me tell you about the first time I brought a girl over. (Flashback to Leonard\u2019s bedroom.)"
+            ],
+            [
+                120,
+                "Do I get some sympathy now?"
+            ],
+            [
+                122,
+                "Actually, I couldn\u2019t get too mad at him about Joyce Kim."
+            ],
+            [
+                124,
+                "Well, I was doing some government research at the time, you know, military, rocket fuel. It\u2019s kind of secret."
+            ],
+            [
+                126,
+                "As it turns out, she was a North Korean spy. Luckily, Sheldon drove her out before I revealed anything important. Which I\u2019m not saying I would have."
+            ],
+            [
+                128,
+                "That was part of it. The other part is what happened with the elevator."
+            ],
+            [
+                130,
+                "It was, but one night, Sheldon came home from work\u2026 (Flashback, the apartment. The settee has now appeared. Leonard, Howard and Raj are playing a video game.)"
+            ],
+            [
+                154,
+                "I\u2019m getting to it. (Back to flashback.)"
+            ],
+            [
+                188,
+                "Hey, do you want me to finish working on your man feet or not?"
+            ],
+            [
+                204,
+                "Well, it turns out I had a little rocket fuel in the apartment."
+            ],
+            [
+                206,
+                "Mm, Joyce Kim was kind of curious about what I did for a living, and I was going to kind of show it to her. It\u2019s not important. The point is, the guys and I went back to the apartment."
+            ],
+            [
+                208,
+                "Yeah, we\u2019re really close. Uh, uh, we\u2019re at the apartment. (Flashback.)"
+            ],
+            [
+                228,
+                "Not only did Sheldon save my life, he didn\u2019t rat me out to the landlord. Or the police. Or Homeland Security."
+            ],
+            [
+                230,
+                "So I did something stupid. I\u2019m sure you did stupid things when you were younger. What were you doing seven years ago?"
+            ],
+            [
+                236,
+                "Hey."
+            ],
+            [
+                238,
+                "Oh, uh, clear nail polish. I had a mani-pedi. Men can get those. Anyway, I may owe you an apology."
+            ],
+            [
+                240,
+                "I did agree to the thermostat setting, and I shouldn\u2019t have tried to change it."
+            ],
+            [
+                242,
+                "Okay, I\u2019m sorry."
+            ],
+            [
+                244,
+                "So, we\u2019re good?"
+            ],
+            [
+                246,
+                "Never mind. Okay if I watch some TV?"
+            ]
+        ],
+        "Leonard: You are so naive. Just like I was seven years ago. (Flasback": [
+            [
+                21,
+                "The lobby) I\u2019d just started at the university."
+            ]
+        ],
+        "Past Leonard": [
+            [
+                22,
+                "Excuse me, I\u2019m looking for Sheldon Cooper\u2019s apartment."
+            ],
+            [
+                24,
+                "Yeah."
+            ],
+            [
+                26,
+                "What?"
+            ],
+            [
+                35,
+                "Dr. Cooper?"
+            ],
+            [
+                39,
+                "I\u2019m Leonard Hofstadter. I called you about the apartment. You said\u2026"
+            ],
+            [
+                41,
+                "What?"
+            ],
+            [
+                43,
+                "Uh, radon?"
+            ],
+            [
+                45,
+                "Telling you? Telling you."
+            ],
+            [
+                47,
+                "Oh, uh, well, that\u2019s tricky. Um, well, uh, Original Series over Next Generation, but Picard over Kirk."
+            ],
+            [
+                51,
+                "I don\u2019t understand, their, their existence is conditional?"
+            ],
+            [
+                53,
+                "There\u2019s three?"
+            ],
+            [
+                55,
+                "Okay."
+            ],
+            [
+                57,
+                "What\u2019s the difference?"
+            ],
+            [
+                59,
+                "Can you do that?"
+            ],
+            [
+                61,
+                "Uh, yeah, experimental physics."
+            ],
+            [
+                63,
+                "What is that?"
+            ],
+            [
+                65,
+                "Yes."
+            ],
+            [
+                67,
+                "A car, yeah."
+            ],
+            [
+                69,
+                "Well, can\u2019t you drive?"
+            ],
+            [
+                71,
+                "Okay, I suppose I could drive you. Well that\u2019s a point in my favour, right?"
+            ],
+            [
+                73,
+                "Come on, I just asked."
+            ],
+            [
+                75,
+                "Uh, I\u2019m gonna go with preserving the knowledge."
+            ],
+            [
+                77,
+                "Oh, good. I passed the barriers."
+            ],
+            [
+                79,
+                "Uh, I guess."
+            ],
+            [
+                81,
+                "When I have to."
+            ],
+            [
+                83,
+                "I, I\u2019m sorry, uh, in the morning. Around eight."
+            ],
+            [
+                85,
+                "Fine. I\u2019ll take it."
+            ],
+            [
+                87,
+                "Is this it?"
+            ],
+            [
+                89,
+                "So where do you sleep?"
+            ],
+            [
+                91,
+                "If people don\u2019t go in there, and you\u2019re people, and\u2026 You are people, aren\u2019t you? Making a joke."
+            ],
+            [
+                93,
+                "On occasion."
+            ],
+            [
+                98,
+                "Does that really need to be in the agreement?"
+            ],
+            [
+                100,
+                "We have a flag?"
+            ],
+            [
+                102,
+                "Okay."
+            ],
+            [
+                109,
+                "Shh. Just pretend we\u2019re not here."
+            ],
+            [
+                111,
+                "I\u2019m sure he\u2019ll go away."
+            ],
+            [
+                113,
+                "What do you want? I didn\u2019t say come in!"
+            ],
+            [
+                115,
+                "I didn\u2019t even know her 12 hours ago."
+            ],
+            [
+                117,
+                "But, Joyce, come on."
+            ],
+            [
+                132,
+                "Hey, Sheldon. This is Howard and Raj. They work at the university, too."
+            ],
+            [
+                137,
+                "Yeah, not a good idea."
+            ],
+            [
+                142,
+                "Oh, well, there were some people on the first floor moving out, and they sold it to me for a hundred dollars. Howard and Raj helped me bring it up."
+            ],
+            [
+                144,
+                "They\u2019re lawn chairs. And there was no place for company."
+            ],
+            [
+                146,
+                "According to the roommate agreement, I\u2019m entitled to allocate 50% of the cubic footage of the common areas."
+            ],
+            [
+                148,
+                "I did notify you."
+            ],
+            [
+                150,
+                "What am I doing in your spam folder?"
+            ],
+            [
+                163,
+                "Ooh, it\u2019s time for Babylon 5!"
+            ],
+            [
+                165,
+                "Why not?"
+            ],
+            [
+                167,
+                "I like it."
+            ],
+            [
+                170,
+                "There you go\u2013 three against one."
+            ],
+            [
+                172,
+                "But I said no to that."
+            ],
+            [
+                180,
+                "We can fix that. Let\u2019s leave."
+            ],
+            [
+                194,
+                "That your dad?"
+            ],
+            [
+                196,
+                "Oh, man. Is that a two-stage rocket?"
+            ],
+            [
+                200,
+                "Oh, this just might be your lucky day."
+            ],
+            [
+                209,
+                "The trick is to mix it into Tovex in order to create a combustible gel that will generate over 8,000 kilonewtons of thrust."
+            ],
+            [
+                213,
+                "Excuse me, but I\u2019ve been working on this a long time. Trust me, it\u2019ll work."
+            ],
+            [
+                215,
+                "There\u2019s no mistake."
+            ],
+            [
+                217,
+                "Well, I\u2019ve adjusted the formula."
+            ],
+            [
+                219,
+                "Okay, I\u2019ve had it with you. You might be an expert on theoretical physics and science-fiction programs and where to sit on a freaking couch, but this is applied physics. And when it comes to applied physic\u2026 uh-oh."
+            ],
+            [
+                221,
+                "A bad thing. A very bad thing. Get the door. Get the door! Get the door! Get the door! Get the door!"
+            ],
+            [
+                223,
+                "Oh. Right."
+            ],
+            [
+                226,
+                "What\u2019d you do that for? I had plenty of time. (Elevator explodes.)"
+            ]
+        ],
+        "Man with a box": [
+            [
+                23,
+                "Oh, I bet you\u2019re here to check out the room for rent."
+            ]
+        ],
+        "Man": [
+            [
+                25,
+                "Run away, dude."
+            ],
+            [
+                27,
+                "Run fast, run far. (End of flashback.)"
+            ]
+        ],
+        "Large Black Transvestite": [
+            [
+                34,
+                "Yeah?"
+            ]
+        ],
+        "Transvestite": [
+            [
+                36,
+                "No, you want the crazy guy across the hall."
+            ]
+        ],
+        "Past Sheldon": [
+            [
+                38,
+                "Yes?"
+            ],
+            [
+                40,
+                "I know what I said. I know what you said. I know what my mother said on March 5, 1992. What is the sixth noble gas?"
+            ],
+            [
+                42,
+                "You said you\u2019re a scientist. What is the sixth noble gas?"
+            ],
+            [
+                44,
+                "Are you asking me or telling me?"
+            ],
+            [
+                46,
+                "All right, next question. Kirk or Picard?"
+            ],
+            [
+                48,
+                "Correct. You\u2019ve passed the first barrier to roommate-hood. You may enter."
+            ],
+            [
+                50,
+                "That depends."
+            ],
+            [
+                52,
+                "No, but your ability to perceive their existence is conditional on you passing the second and third barriers."
+            ],
+            [
+                54,
+                "Each more daunting than the last. Have a seat."
+            ],
+            [
+                56,
+                "No! That\u2019s where I sit!"
+            ],
+            [
+                58,
+                "This seat is ideally located both in relation to the heat source in the winter and a cross breeze in the summer. It also faces the television at a direct angle allowing me to immerse myself in entertainment or game play without being subjected to conversation. As a result, I\u2019ve placed it in a state of eternal dibs."
+            ],
+            [
+                60,
+                "Cathedra mea, regulae meae. That\u2019s Latin for my chair, my rules. Now, you said on the phone that your area of study is physics."
+            ],
+            [
+                62,
+                "Hmm."
+            ],
+            [
+                64,
+                "Doesn\u2019t concern you. You\u2019ll be going to the university every day?"
+            ],
+            [
+                66,
+                "And you have a vehicle?"
+            ],
+            [
+                68,
+                "And you\u2019ll be willing to drive me?"
+            ],
+            [
+                70,
+                "I can. I choose not to."
+            ],
+            [
+                72,
+                "Why don\u2019t you let me do this."
+            ],
+            [
+                74,
+                "Last question. In a post-apocalyptic world, which task would you assign the highest priority? Locating a sustainable food source, re-establishing a functioning government, procreating, or preserving the knowledge of mankind?"
+            ],
+            [
+                76,
+                "That\u2019s correct. FYI, I would have accepted any answer other than procreating. Come, I\u2019ll show you the rest of the apartment."
+            ],
+            [
+                78,
+                "The second barrier. Don\u2019t get cocky. This is the bathroom. Are you fairly regular?"
+            ],
+            [
+                80,
+                "This isn\u2019t going to work if you\u2019re guessing. When do you evacuate your bowels?"
+            ],
+            [
+                82,
+                "When you have to? I\u2019m sorry, I don\u2019t rent to hippies."
+            ],
+            [
+                84,
+                "I can\u2019t give you eight. I can give you seven thirty."
+            ],
+            [
+                86,
+                "Third barrier passed. You have won the right to see your room. Huzzah!"
+            ],
+            [
+                88,
+                "No, this is my room. People don\u2019t go in my room."
+            ],
+            [
+                90,
+                "I don\u2019t understand."
+            ],
+            [
+                92,
+                "Do you do this often?"
+            ],
+            [
+                94,
+                "Your room. You may want to repaint. (End of Flashback)"
+            ],
+            [
+                97,
+                "Roommates agree that Friday nights shall be reserved for watching Joss Whedon\u2019s brilliant new series Firefly."
+            ],
+            [
+                99,
+                "We might as well settle it now, it\u2019s going to be on for years. Initial here. All right, that\u2019s television and movies. Section nine, miscellany. The apartment\u2019s flag is a gold lion rampant on a field of azure."
+            ],
+            [
+                101,
+                "Never fly it upside down unless the apartment\u2019s in distress. And next, if either of us ever invents time travel, we agree our first stop will be this meeting today in precisely five seconds."
+            ],
+            [
+                103,
+                "Well that\u2019s disappointing. (End of flashback.)"
+            ],
+            [
+                108,
+                "(Knock, knock, knock) Leonard?"
+            ],
+            [
+                110,
+                "(Knock, knock, knock) Leonard?Leonard?"
+            ],
+            [
+                112,
+                "I\u2019m just going to keep knocking till you answer. (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+            ],
+            [
+                114,
+                "You asked what I wanted. I wanted to come in. I\u2019m here because you violated our roommate agreement. Specifically, section eight, visitors, subsection C, females, paragraph four, coitus. Roommates shall give each other 12 hours notice of impending coitus.\u201d"
+            ],
+            [
+                118,
+                "12 hours? (End of flashback.)"
+            ],
+            [
+                131,
+                "What is going on here?"
+            ],
+            [
+                135,
+                "I\u2019ll get to you later. What are you sitting on?"
+            ],
+            [
+                141,
+                "Explain the couch."
+            ],
+            [
+                143,
+                "But what\u2019s wrong with the furniture we have?"
+            ],
+            [
+                145,
+                "Did it occur to you that was by design?"
+            ],
+            [
+                147,
+                "But you didn\u2019t notify me by e-mail, so this is still a breach."
+            ],
+            [
+                149,
+                "Oh, you did, did you? Oh, drat! Hoisted by my own spam filter."
+            ],
+            [
+                151,
+                "I put you there after you forwarded me a picture of a cat playing the piano, entitled this is funny."
+            ],
+            [
+                155,
+                "I assure you, you\u2019ll be sorry you wasted your money on an iPod when Microsoft comes out with theirs."
+            ],
+            [
+                157,
+                "Yes."
+            ],
+            [
+                159,
+                "It\u2019s not an assumption. Change seats with me."
+            ],
+            [
+                161,
+                "I don\u2019t like this spot. I have to keep turning my head."
+            ],
+            [
+                164,
+                "We don\u2019t watch Babylon 5 in this apartment."
+            ],
+            [
+                166,
+                "Because no one likes Babylon 5."
+            ],
+            [
+                171,
+                "They don\u2019t get a vote. It\u2019s one against one. And according to the roommate agreement, all ties will be settled by me."
+            ],
+            [
+                173,
+                "And I said yes. And I settle all ties. Change seats with me."
+            ],
+            [
+                175,
+                "There\u2019s a draft on my neck over here."
+            ],
+            [
+                177,
+                "You\u2019re protected by your turtleneck."
+            ],
+            [
+                179,
+                "Hmm, I\u2019m still not comfortable. Of course. There\u2019s too many people here."
+            ],
+            [
+                182,
+                "Wait. Let me get my jacket."
+            ],
+            [
+                184,
+                "Why not?"
+            ],
+            [
+                186,
+                "Oh. Well, in that case, I don\u2019t need my jacket. And for the record, the correct syntax is I\u2019m the guy from whom you\u2019re trying to get away. Oh, yes, this is definitely going to be my spot. (End of flashback.)"
+            ],
+            [
+                212,
+                "Won\u2019t work."
+            ],
+            [
+                214,
+                "You don\u2019t see your mistake, do you?"
+            ],
+            [
+                216,
+                "This is for a full-scale rocket, not a model."
+            ],
+            [
+                218,
+                "Not correctly."
+            ],
+            [
+                225,
+                "Give me that. (Takes the rocket fuel. Puts it in elevator. Presses button and jumps out.)"
+            ],
+            [
+                227,
+                "You\u2019re welcome. (End of flashback.)"
+            ]
+        ],
+        "Past Leonard (Enters apartment. It is bare except for two lawn chairs, a television and some whiteboards)": [
+            [
+                49,
+                "Oh, this is pretty nice. Uh, the bedrooms are back there?"
+            ]
+        ],
+        "Leonard: No, I didn\u2019t just move in. First we had to iron out a few details. (Flashback": [
+            [
+                96,
+                "The apartment)"
+            ]
+        ],
+        "Joyce Kim": [
+            [
+                116,
+                "That\u2019s it! I\u2019m out of here!"
+            ]
+        ],
+        "Past Howard": [
+            [
+                133,
+                "Hey."
+            ],
+            [
+                136,
+                "I can\u2019t speak for these guys, but I\u2019m sitting on my tushie. It\u2019s a joke."
+            ],
+            [
+                139,
+                "Right."
+            ],
+            [
+                158,
+                "And you just assume you\u2019re always right?"
+            ],
+            [
+                169,
+                "So do I."
+            ],
+            [
+                174,
+                "Why?"
+            ],
+            [
+                176,
+                "So, I get the draft?"
+            ],
+            [
+                178,
+                "Fine. And it\u2019s a dickey."
+            ],
+            [
+                181,
+                "Yeah, we can go over to my place."
+            ],
+            [
+                183,
+                "You\u2019re not going with us."
+            ],
+            [
+                191,
+                "I don\u2019t have playdates! I have colleagues!"
+            ],
+            [
+                193,
+                "No, but if you keep screaming, maybe they\u2019ll hear you!"
+            ],
+            [
+                195,
+                "She grows any more hair on her face, yes."
+            ],
+            [
+                197,
+                "Three. I designed the engine myself."
+            ],
+            [
+                199,
+                "Oh, probably, if I could get my hands on that new fuel the government\u2019s been working on."
+            ],
+            [
+                202,
+                "I haven\u2019t seen your Oreos! Just take your bath without them! (End of flashback.)"
+            ],
+            [
+                210,
+                "Nice."
+            ],
+            [
+                220,
+                "What\u2019s happening?"
+            ],
+            [
+                222,
+                "You\u2019re waiting for the elevator?"
+            ]
+        ],
+        "Past Raj": [
+            [
+                134,
+                "Hey."
+            ],
+            [
+                138,
+                "Tushie is buttocks, right?"
+            ],
+            [
+                140,
+                "Hilarious."
+            ],
+            [
+                152,
+                "Oh, yeah, I saw that. That was hilarious. (End of flashback.)"
+            ],
+            [
+                156,
+                "Okay, do you have an opinion about everything?"
+            ],
+            [
+                160,
+                "Why?"
+            ],
+            [
+                162,
+                "Fine."
+            ],
+            [
+                168,
+                "Me, too."
+            ],
+            [
+                185,
+                "You\u2019re the guy we\u2019re trying to get away from."
+            ],
+            [
+                198,
+                "Cool. Can it break Mach 1?"
+            ],
+            [
+                211,
+                "Cool."
+            ],
+            [
+                224,
+                "Wait. It\u2019s here."
+            ]
+        ],
+        "Mrs Wolowitz": [
+            [
+                190,
+                "Howard, are you having a playdate?"
+            ],
+            [
+                192,
+                "Do their parents know they\u2019re here?"
+            ],
+            [
+                201,
+                "Howard, what happened to the Oreos I left on the counter?!"
+            ]
+        ],
+        "Past Penny": [
+            [
+                232,
+                "Not pregnant. Yes!"
+            ]
+        ],
+        "Sheldon": [
+            [
+                235,
+                "Oh, Ubuntu, you are my favourite Linux-based operating system."
+            ],
+            [
+                237,
+                "Hello. Why do I smell methacrylate?"
+            ],
+            [
+                239,
+                "There\u2019s doubt?"
+            ],
+            [
+                241,
+                "That\u2019s not an apology, simply an acknowledgement that I was right."
+            ],
+            [
+                243,
+                "There you go."
+            ],
+            [
+                245,
+                "Good what?"
+            ],
+            [
+                247,
+                "Go ahead."
+            ]
+        ],
+        "Television voice": [
+            [
+                248,
+                "Up next Babylon 5."
+            ]
+        ],
+        "Sheldon (voice off)": [
+            [
+                252,
+                "I can hear it!"
+            ],
+            [
+                254,
+                "I would hardly call that dialogue!"
+            ],
+            [
+                256,
+                "Don\u2019t make me turn that flag upside down, \u2019cause you know I\u2019ll do it!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "Okay, Babydoll Pink, let\u2019s see if you can cover up the fact that I got my dad\u2019s feet."
+        ],
+        [
+            "Leonard (voice off)",
+            "It\u2019s just two degrees, Sheldon. I just want to turn up the thermostat two degrees!"
+        ],
+        [
+            "Sheldon: (voice off)",
+            "Let me point out that two degrees can be the difference between water and steam."
+        ],
+        [
+            "Leonard (voice off)",
+            "Yes, if we lived in a teakettle."
+        ],
+        [
+            "Sheldon: (voice off)",
+            "This is the temperature you agreed to in the roommate agreement."
+        ],
+        [
+            "Leonard (voice off)",
+            "Aw, screw the roommate agreement!"
+        ],
+        [
+            "Sheldon: (voice off)",
+            "No, you don\u2019t screw the roommate agreement. The roommate agreement screws you."
+        ],
+        [
+            "Leonard (voice off)",
+            "You know what, go to Hell and set their thermostat."
+        ],
+        [
+            "Sheldon: (voice off)",
+            "I don\u2019t have to go to Hell. At 73 degrees, I\u2019m there already!"
+        ],
+        [
+            "Penny (after a knock on the door)",
+            "Who is it?"
+        ],
+        [
+            "Leonard",
+            "Leonard."
+        ],
+        [
+            "Penny",
+            "Hang on."
+        ],
+        [
+            "Leonard",
+            "Can I sleep on your couch tonight?"
+        ],
+        [
+            "Penny",
+            "Uh, well, you can try, but the people across the hall are being very noisy."
+        ],
+        [
+            "Leonard",
+            "You heard that, huh?"
+        ],
+        [
+            "Penny",
+            "Apparently, the one fella tried to adjust the thermostat, then the other fella went bat-crap crazy."
+        ],
+        [
+            "Leonard",
+            "So you agree, he\u2019s nuts."
+        ],
+        [
+            "Penny",
+            "Well, not as nuts as the guy who chooses to live with him."
+        ],
+        [
+            "Leonard",
+            "Believe it or not, he was worse when I met him."
+        ],
+        [
+            "Penny",
+            "Oh, I do not believe that."
+        ],
+        [
+            "Leonard: You are so naive. Just like I was seven years ago. (Flasback",
+            "The lobby) I\u2019d just started at the university."
+        ],
+        [
+            "Past Leonard",
+            "Excuse me, I\u2019m looking for Sheldon Cooper\u2019s apartment."
+        ],
+        [
+            "Man with a box",
+            "Oh, I bet you\u2019re here to check out the room for rent."
+        ],
+        [
+            "Past Leonard",
+            "Yeah."
+        ],
+        [
+            "Man",
+            "Run away, dude."
+        ],
+        [
+            "Past Leonard",
+            "What?"
+        ],
+        [
+            "Man",
+            "Run fast, run far. (End of flashback.)"
+        ],
+        [
+            "Leonard",
+            "That should have been my first clue."
+        ],
+        [
+            "Scene",
+            "Moments later."
+        ],
+        [
+            "Penny",
+            "So Sheldon\u2019s last roommate tried to warn you off?"
+        ],
+        [
+            "Leonard",
+            "For all I knew, he was the crazy one. He had this really deranged look."
+        ],
+        [
+            "Penny",
+            "Well, yeah, he\u2019d been living with Sheldon."
+        ],
+        [
+            "Leonard",
+            "Sure, it makes sense now. (Flashback. Past Leonard is getting out of the lift). Anyway, I went upstairs and knocked on the door."
+        ],
+        [
+            "Large Black Transvestite",
+            "Yeah?"
+        ],
+        [
+            "Past Leonard",
+            "Dr. Cooper?"
+        ],
+        [
+            "Transvestite",
+            "No, you want the crazy guy across the hall."
+        ],
+        [
+            "Leonard",
+            "In retrospect, that was clue number two."
+        ],
+        [
+            "Past Sheldon",
+            "Yes?"
+        ],
+        [
+            "Past Leonard",
+            "I\u2019m Leonard Hofstadter. I called you about the apartment. You said\u2026"
+        ],
+        [
+            "Past Sheldon",
+            "I know what I said. I know what you said. I know what my mother said on March 5, 1992. What is the sixth noble gas?"
+        ],
+        [
+            "Past Leonard",
+            "What?"
+        ],
+        [
+            "Past Sheldon",
+            "You said you\u2019re a scientist. What is the sixth noble gas?"
+        ],
+        [
+            "Past Leonard",
+            "Uh, radon?"
+        ],
+        [
+            "Past Sheldon",
+            "Are you asking me or telling me?"
+        ],
+        [
+            "Past Leonard",
+            "Telling you? Telling you."
+        ],
+        [
+            "Past Sheldon",
+            "All right, next question. Kirk or Picard?"
+        ],
+        [
+            "Past Leonard",
+            "Oh, uh, well, that\u2019s tricky. Um, well, uh, Original Series over Next Generation, but Picard over Kirk."
+        ],
+        [
+            "Past Sheldon",
+            "Correct. You\u2019ve passed the first barrier to roommate-hood. You may enter."
+        ],
+        [
+            "Past Leonard (Enters apartment. It is bare except for two lawn chairs, a television and some whiteboards)",
+            "Oh, this is pretty nice. Uh, the bedrooms are back there?"
+        ],
+        [
+            "Past Sheldon",
+            "That depends."
+        ],
+        [
+            "Past Leonard",
+            "I don\u2019t understand, their, their existence is conditional?"
+        ],
+        [
+            "Past Sheldon",
+            "No, but your ability to perceive their existence is conditional on you passing the second and third barriers."
+        ],
+        [
+            "Past Leonard",
+            "There\u2019s three?"
+        ],
+        [
+            "Past Sheldon",
+            "Each more daunting than the last. Have a seat."
+        ],
+        [
+            "Past Leonard",
+            "Okay."
+        ],
+        [
+            "Past Sheldon",
+            "No! That\u2019s where I sit!"
+        ],
+        [
+            "Past Leonard",
+            "What\u2019s the difference?"
+        ],
+        [
+            "Past Sheldon",
+            "This seat is ideally located both in relation to the heat source in the winter and a cross breeze in the summer. It also faces the television at a direct angle allowing me to immerse myself in entertainment or game play without being subjected to conversation. As a result, I\u2019ve placed it in a state of eternal dibs."
+        ],
+        [
+            "Past Leonard",
+            "Can you do that?"
+        ],
+        [
+            "Past Sheldon",
+            "Cathedra mea, regulae meae. That\u2019s Latin for my chair, my rules. Now, you said on the phone that your area of study is physics."
+        ],
+        [
+            "Past Leonard",
+            "Uh, yeah, experimental physics."
+        ],
+        [
+            "Past Sheldon",
+            "Hmm."
+        ],
+        [
+            "Past Leonard",
+            "What is that?"
+        ],
+        [
+            "Past Sheldon",
+            "Doesn\u2019t concern you. You\u2019ll be going to the university every day?"
+        ],
+        [
+            "Past Leonard",
+            "Yes."
+        ],
+        [
+            "Past Sheldon",
+            "And you have a vehicle?"
+        ],
+        [
+            "Past Leonard",
+            "A car, yeah."
+        ],
+        [
+            "Past Sheldon",
+            "And you\u2019ll be willing to drive me?"
+        ],
+        [
+            "Past Leonard",
+            "Well, can\u2019t you drive?"
+        ],
+        [
+            "Past Sheldon",
+            "I can. I choose not to."
+        ],
+        [
+            "Past Leonard",
+            "Okay, I suppose I could drive you. Well that\u2019s a point in my favour, right?"
+        ],
+        [
+            "Past Sheldon",
+            "Why don\u2019t you let me do this."
+        ],
+        [
+            "Past Leonard",
+            "Come on, I just asked."
+        ],
+        [
+            "Past Sheldon",
+            "Last question. In a post-apocalyptic world, which task would you assign the highest priority? Locating a sustainable food source, re-establishing a functioning government, procreating, or preserving the knowledge of mankind?"
+        ],
+        [
+            "Past Leonard",
+            "Uh, I\u2019m gonna go with preserving the knowledge."
+        ],
+        [
+            "Past Sheldon",
+            "That\u2019s correct. FYI, I would have accepted any answer other than procreating. Come, I\u2019ll show you the rest of the apartment."
+        ],
+        [
+            "Past Leonard",
+            "Oh, good. I passed the barriers."
+        ],
+        [
+            "Past Sheldon",
+            "The second barrier. Don\u2019t get cocky. This is the bathroom. Are you fairly regular?"
+        ],
+        [
+            "Past Leonard",
+            "Uh, I guess."
+        ],
+        [
+            "Past Sheldon",
+            "This isn\u2019t going to work if you\u2019re guessing. When do you evacuate your bowels?"
+        ],
+        [
+            "Past Leonard",
+            "When I have to."
+        ],
+        [
+            "Past Sheldon",
+            "When you have to? I\u2019m sorry, I don\u2019t rent to hippies."
+        ],
+        [
+            "Past Leonard",
+            "I, I\u2019m sorry, uh, in the morning. Around eight."
+        ],
+        [
+            "Past Sheldon",
+            "I can\u2019t give you eight. I can give you seven thirty."
+        ],
+        [
+            "Past Leonard",
+            "Fine. I\u2019ll take it."
+        ],
+        [
+            "Past Sheldon",
+            "Third barrier passed. You have won the right to see your room. Huzzah!"
+        ],
+        [
+            "Past Leonard",
+            "Is this it?"
+        ],
+        [
+            "Past Sheldon",
+            "No, this is my room. People don\u2019t go in my room."
+        ],
+        [
+            "Past Leonard",
+            "So where do you sleep?"
+        ],
+        [
+            "Past Sheldon",
+            "I don\u2019t understand."
+        ],
+        [
+            "Past Leonard",
+            "If people don\u2019t go in there, and you\u2019re people, and\u2026 You are people, aren\u2019t you? Making a joke."
+        ],
+        [
+            "Past Sheldon",
+            "Do you do this often?"
+        ],
+        [
+            "Past Leonard",
+            "On occasion."
+        ],
+        [
+            "Past Sheldon",
+            "Your room. You may want to repaint. (End of Flashback)"
+        ],
+        [
+            "Penny",
+            "Okay, and after all that, you just moved in?"
+        ],
+        [
+            "Leonard: No, I didn\u2019t just move in. First we had to iron out a few details. (Flashback",
+            "The apartment)"
+        ],
+        [
+            "Past Sheldon",
+            "Roommates agree that Friday nights shall be reserved for watching Joss Whedon\u2019s brilliant new series Firefly."
+        ],
+        [
+            "Past Leonard",
+            "Does that really need to be in the agreement?"
+        ],
+        [
+            "Past Sheldon",
+            "We might as well settle it now, it\u2019s going to be on for years. Initial here. All right, that\u2019s television and movies. Section nine, miscellany. The apartment\u2019s flag is a gold lion rampant on a field of azure."
+        ],
+        [
+            "Past Leonard",
+            "We have a flag?"
+        ],
+        [
+            "Past Sheldon",
+            "Never fly it upside down unless the apartment\u2019s in distress. And next, if either of us ever invents time travel, we agree our first stop will be this meeting today in precisely five seconds."
+        ],
+        [
+            "Past Leonard",
+            "Okay."
+        ],
+        [
+            "Past Sheldon",
+            "Well that\u2019s disappointing. (End of flashback.)"
+        ],
+        [
+            "Penny",
+            "Why on earth did you agree to all that?"
+        ],
+        [
+            "Leonard",
+            "It was the best apartment I\u2019d seen, the rent was very reasonable and after you\u2019ve passed the first three barriers you kind of want to take it all the way."
+        ],
+        [
+            "Penny",
+            "Well, I\u2019m sorry, Leonard, it\u2019s very hard to feel sympathy for you."
+        ],
+        [
+            "Leonard",
+            "Okay, how about this? Let me tell you about the first time I brought a girl over. (Flashback to Leonard\u2019s bedroom.)"
+        ],
+        [
+            "Past Sheldon",
+            "(Knock, knock, knock) Leonard?"
+        ],
+        [
+            "Past Leonard",
+            "Shh. Just pretend we\u2019re not here."
+        ],
+        [
+            "Past Sheldon",
+            "(Knock, knock, knock) Leonard?Leonard?"
+        ],
+        [
+            "Past Leonard",
+            "I\u2019m sure he\u2019ll go away."
+        ],
+        [
+            "Past Sheldon",
+            "I\u2019m just going to keep knocking till you answer. (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+        ],
+        [
+            "Past Leonard",
+            "What do you want? I didn\u2019t say come in!"
+        ],
+        [
+            "Past Sheldon",
+            "You asked what I wanted. I wanted to come in. I\u2019m here because you violated our roommate agreement. Specifically, section eight, visitors, subsection C, females, paragraph four, coitus. Roommates shall give each other 12 hours notice of impending coitus.\u201d"
+        ],
+        [
+            "Past Leonard",
+            "I didn\u2019t even know her 12 hours ago."
+        ],
+        [
+            "Joyce Kim",
+            "That\u2019s it! I\u2019m out of here!"
+        ],
+        [
+            "Past Leonard",
+            "But, Joyce, come on."
+        ],
+        [
+            "Past Sheldon",
+            "12 hours? (End of flashback.)"
+        ],
+        [
+            "Penny",
+            "Oh, my God."
+        ],
+        [
+            "Leonard",
+            "Do I get some sympathy now?"
+        ],
+        [
+            "Penny",
+            "A little bit. Okay. Let me get this straight. You move in with this guy, he makes you sign a ridiculous roommate agreement, then he walks into your bedroom while you\u2019re doing this Joyce Kim, and you still stay?"
+        ],
+        [
+            "Leonard",
+            "Actually, I couldn\u2019t get too mad at him about Joyce Kim."
+        ],
+        [
+            "Penny",
+            "Why not?"
+        ],
+        [
+            "Leonard",
+            "Well, I was doing some government research at the time, you know, military, rocket fuel. It\u2019s kind of secret."
+        ],
+        [
+            "Penny",
+            "What does that have to do with Joyce Kim?"
+        ],
+        [
+            "Leonard",
+            "As it turns out, she was a North Korean spy. Luckily, Sheldon drove her out before I revealed anything important. Which I\u2019m not saying I would have."
+        ],
+        [
+            "Penny",
+            "So, what, that\u2019s it? You\u2019ve stayed with Sheldon all this time because he kept you from going to federal prison?"
+        ],
+        [
+            "Leonard",
+            "That was part of it. The other part is what happened with the elevator."
+        ],
+        [
+            "Penny",
+            "Oh, yeah, I\u2019m wondering about that. You said it was working when you moved in."
+        ],
+        [
+            "Leonard",
+            "It was, but one night, Sheldon came home from work\u2026 (Flashback, the apartment. The settee has now appeared. Leonard, Howard and Raj are playing a video game.)"
+        ],
+        [
+            "Past Sheldon",
+            "What is going on here?"
+        ],
+        [
+            "Past Leonard",
+            "Hey, Sheldon. This is Howard and Raj. They work at the university, too."
+        ],
+        [
+            "Past Howard",
+            "Hey."
+        ],
+        [
+            "Past Raj",
+            "Hey."
+        ],
+        [
+            "Past Sheldon",
+            "I\u2019ll get to you later. What are you sitting on?"
+        ],
+        [
+            "Past Howard",
+            "I can\u2019t speak for these guys, but I\u2019m sitting on my tushie. It\u2019s a joke."
+        ],
+        [
+            "Past Leonard",
+            "Yeah, not a good idea."
+        ],
+        [
+            "Past Raj",
+            "Tushie is buttocks, right?"
+        ],
+        [
+            "Past Howard",
+            "Right."
+        ],
+        [
+            "Past Raj",
+            "Hilarious."
+        ],
+        [
+            "Past Sheldon",
+            "Explain the couch."
+        ],
+        [
+            "Past Leonard",
+            "Oh, well, there were some people on the first floor moving out, and they sold it to me for a hundred dollars. Howard and Raj helped me bring it up."
+        ],
+        [
+            "Past Sheldon",
+            "But what\u2019s wrong with the furniture we have?"
+        ],
+        [
+            "Past Leonard",
+            "They\u2019re lawn chairs. And there was no place for company."
+        ],
+        [
+            "Past Sheldon",
+            "Did it occur to you that was by design?"
+        ],
+        [
+            "Past Leonard",
+            "According to the roommate agreement, I\u2019m entitled to allocate 50% of the cubic footage of the common areas."
+        ],
+        [
+            "Past Sheldon",
+            "But you didn\u2019t notify me by e-mail, so this is still a breach."
+        ],
+        [
+            "Past Leonard",
+            "I did notify you."
+        ],
+        [
+            "Past Sheldon",
+            "Oh, you did, did you? Oh, drat! Hoisted by my own spam filter."
+        ],
+        [
+            "Past Leonard",
+            "What am I doing in your spam folder?"
+        ],
+        [
+            "Past Sheldon",
+            "I put you there after you forwarded me a picture of a cat playing the piano, entitled this is funny."
+        ],
+        [
+            "Past Raj",
+            "Oh, yeah, I saw that. That was hilarious. (End of flashback.)"
+        ],
+        [
+            "Penny",
+            "Okay, what does all this have to do with the elevator?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m getting to it. (Back to flashback.)"
+        ],
+        [
+            "Past Sheldon",
+            "I assure you, you\u2019ll be sorry you wasted your money on an iPod when Microsoft comes out with theirs."
+        ],
+        [
+            "Past Raj",
+            "Okay, do you have an opinion about everything?"
+        ],
+        [
+            "Past Sheldon",
+            "Yes."
+        ],
+        [
+            "Past Howard",
+            "And you just assume you\u2019re always right?"
+        ],
+        [
+            "Past Sheldon",
+            "It\u2019s not an assumption. Change seats with me."
+        ],
+        [
+            "Past Raj",
+            "Why?"
+        ],
+        [
+            "Past Sheldon",
+            "I don\u2019t like this spot. I have to keep turning my head."
+        ],
+        [
+            "Past Raj",
+            "Fine."
+        ],
+        [
+            "Past Leonard",
+            "Ooh, it\u2019s time for Babylon 5!"
+        ],
+        [
+            "Past Sheldon",
+            "We don\u2019t watch Babylon 5 in this apartment."
+        ],
+        [
+            "Past Leonard",
+            "Why not?"
+        ],
+        [
+            "Past Sheldon",
+            "Because no one likes Babylon 5."
+        ],
+        [
+            "Past Leonard",
+            "I like it."
+        ],
+        [
+            "Past Raj",
+            "Me, too."
+        ],
+        [
+            "Past Howard",
+            "So do I."
+        ],
+        [
+            "Past Leonard",
+            "There you go\u2013 three against one."
+        ],
+        [
+            "Past Sheldon",
+            "They don\u2019t get a vote. It\u2019s one against one. And according to the roommate agreement, all ties will be settled by me."
+        ],
+        [
+            "Past Leonard",
+            "But I said no to that."
+        ],
+        [
+            "Past Sheldon",
+            "And I said yes. And I settle all ties. Change seats with me."
+        ],
+        [
+            "Past Howard",
+            "Why?"
+        ],
+        [
+            "Past Sheldon",
+            "There\u2019s a draft on my neck over here."
+        ],
+        [
+            "Past Howard",
+            "So, I get the draft?"
+        ],
+        [
+            "Past Sheldon",
+            "You\u2019re protected by your turtleneck."
+        ],
+        [
+            "Past Howard",
+            "Fine. And it\u2019s a dickey."
+        ],
+        [
+            "Past Sheldon",
+            "Hmm, I\u2019m still not comfortable. Of course. There\u2019s too many people here."
+        ],
+        [
+            "Past Leonard",
+            "We can fix that. Let\u2019s leave."
+        ],
+        [
+            "Past Howard",
+            "Yeah, we can go over to my place."
+        ],
+        [
+            "Past Sheldon",
+            "Wait. Let me get my jacket."
+        ],
+        [
+            "Past Howard",
+            "You\u2019re not going with us."
+        ],
+        [
+            "Past Sheldon",
+            "Why not?"
+        ],
+        [
+            "Past Raj",
+            "You\u2019re the guy we\u2019re trying to get away from."
+        ],
+        [
+            "Past Sheldon",
+            "Oh. Well, in that case, I don\u2019t need my jacket. And for the record, the correct syntax is I\u2019m the guy from whom you\u2019re trying to get away. Oh, yes, this is definitely going to be my spot. (End of flashback.)"
+        ],
+        [
+            "Penny",
+            "Okay, how do you know he said that? You left the room."
+        ],
+        [
+            "Leonard",
+            "Hey, do you want me to finish working on your man feet or not?"
+        ],
+        [
+            "Penny",
+            "Fine. Go ahead. (Flashback to Howard\u2019s bedroom.)"
+        ],
+        [
+            "Mrs Wolowitz",
+            "Howard, are you having a playdate?"
+        ],
+        [
+            "Past Howard",
+            "I don\u2019t have playdates! I have colleagues!"
+        ],
+        [
+            "Mrs Wolowitz",
+            "Do their parents know they\u2019re here?"
+        ],
+        [
+            "Past Howard",
+            "No, but if you keep screaming, maybe they\u2019ll hear you!"
+        ],
+        [
+            "Past Leonard",
+            "That your dad?"
+        ],
+        [
+            "Past Howard",
+            "She grows any more hair on her face, yes."
+        ],
+        [
+            "Past Leonard",
+            "Oh, man. Is that a two-stage rocket?"
+        ],
+        [
+            "Past Howard",
+            "Three. I designed the engine myself."
+        ],
+        [
+            "Past Raj",
+            "Cool. Can it break Mach 1?"
+        ],
+        [
+            "Past Howard",
+            "Oh, probably, if I could get my hands on that new fuel the government\u2019s been working on."
+        ],
+        [
+            "Past Leonard",
+            "Oh, this just might be your lucky day."
+        ],
+        [
+            "Mrs Wolowitz",
+            "Howard, what happened to the Oreos I left on the counter?!"
+        ],
+        [
+            "Past Howard",
+            "I haven\u2019t seen your Oreos! Just take your bath without them! (End of flashback.)"
+        ],
+        [
+            "Penny",
+            "So, why was it his lucky day?"
+        ],
+        [
+            "Leonard",
+            "Well, it turns out I had a little rocket fuel in the apartment."
+        ],
+        [
+            "Penny",
+            "What were you doing with rocket fuel in your apartment?"
+        ],
+        [
+            "Leonard",
+            "Mm, Joyce Kim was kind of curious about what I did for a living, and I was going to kind of show it to her. It\u2019s not important. The point is, the guys and I went back to the apartment."
+        ],
+        [
+            "Penny",
+            "Are we ever going to get to the elevator?"
+        ],
+        [
+            "Leonard",
+            "Yeah, we\u2019re really close. Uh, uh, we\u2019re at the apartment. (Flashback.)"
+        ],
+        [
+            "Past Leonard",
+            "The trick is to mix it into Tovex in order to create a combustible gel that will generate over 8,000 kilonewtons of thrust."
+        ],
+        [
+            "Past Howard",
+            "Nice."
+        ],
+        [
+            "Past Raj",
+            "Cool."
+        ],
+        [
+            "Past Sheldon",
+            "Won\u2019t work."
+        ],
+        [
+            "Past Leonard",
+            "Excuse me, but I\u2019ve been working on this a long time. Trust me, it\u2019ll work."
+        ],
+        [
+            "Past Sheldon",
+            "You don\u2019t see your mistake, do you?"
+        ],
+        [
+            "Past Leonard",
+            "There\u2019s no mistake."
+        ],
+        [
+            "Past Sheldon",
+            "This is for a full-scale rocket, not a model."
+        ],
+        [
+            "Past Leonard",
+            "Well, I\u2019ve adjusted the formula."
+        ],
+        [
+            "Past Sheldon",
+            "Not correctly."
+        ],
+        [
+            "Past Leonard",
+            "Okay, I\u2019ve had it with you. You might be an expert on theoretical physics and science-fiction programs and where to sit on a freaking couch, but this is applied physics. And when it comes to applied physic\u2026 uh-oh."
+        ],
+        [
+            "Past Howard",
+            "What\u2019s happening?"
+        ],
+        [
+            "Past Leonard",
+            "A bad thing. A very bad thing. Get the door. Get the door! Get the door! Get the door! Get the door!"
+        ],
+        [
+            "Past Howard",
+            "You\u2019re waiting for the elevator?"
+        ],
+        [
+            "Past Leonard",
+            "Oh. Right."
+        ],
+        [
+            "Past Raj",
+            "Wait. It\u2019s here."
+        ],
+        [
+            "Past Sheldon",
+            "Give me that. (Takes the rocket fuel. Puts it in elevator. Presses button and jumps out.)"
+        ],
+        [
+            "Past Leonard",
+            "What\u2019d you do that for? I had plenty of time. (Elevator explodes.)"
+        ],
+        [
+            "Past Sheldon",
+            "You\u2019re welcome. (End of flashback.)"
+        ],
+        [
+            "Leonard",
+            "Not only did Sheldon save my life, he didn\u2019t rat me out to the landlord. Or the police. Or Homeland Security."
+        ],
+        [
+            "Penny",
+            "Okay, so, basically, you\u2019re the reason I have to walk up and down three flights of stairs every day?"
+        ],
+        [
+            "Leonard",
+            "So I did something stupid. I\u2019m sure you did stupid things when you were younger. What were you doing seven years ago?"
+        ],
+        [
+            "Penny",
+            "Excuse me, I was in high school. Studying, keeping my nose clean, doing volunteer work for the community. (Flashback. Penny is in her bedroom, sitting on the bed with a guy, looking at a pregnancy tester.)"
+        ],
+        [
+            "Past Penny",
+            "Not pregnant. Yes!"
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "Oh, Ubuntu, you are my favourite Linux-based operating system."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "Hello. Why do I smell methacrylate?"
+        ],
+        [
+            "Leonard",
+            "Oh, uh, clear nail polish. I had a mani-pedi. Men can get those. Anyway, I may owe you an apology."
+        ],
+        [
+            "Sheldon",
+            "There\u2019s doubt?"
+        ],
+        [
+            "Leonard",
+            "I did agree to the thermostat setting, and I shouldn\u2019t have tried to change it."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not an apology, simply an acknowledgement that I was right."
+        ],
+        [
+            "Leonard",
+            "Okay, I\u2019m sorry."
+        ],
+        [
+            "Sheldon",
+            "There you go."
+        ],
+        [
+            "Leonard",
+            "So, we\u2019re good?"
+        ],
+        [
+            "Sheldon",
+            "Good what?"
+        ],
+        [
+            "Leonard",
+            "Never mind. Okay if I watch some TV?"
+        ],
+        [
+            "Sheldon",
+            "Go ahead."
+        ],
+        [
+            "Television voice",
+            "Up next Babylon 5."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Leonard (voice off)",
+            "You\u2019re not even watching!"
+        ],
+        [
+            "Sheldon (voice off)",
+            "I can hear it!"
+        ],
+        [
+            "Leonard (voice off)",
+            "Oh, so the dialogue offends you?"
+        ],
+        [
+            "Sheldon (voice off)",
+            "I would hardly call that dialogue!"
+        ],
+        [
+            "Leonard (voice off)",
+            "You\u2019re insane, you know that?!"
+        ],
+        [
+            "Sheldon (voice off)",
+            "Don\u2019t make me turn that flag upside down, \u2019cause you know I\u2019ll do it!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-22-the-staircase-implementation/"
+}

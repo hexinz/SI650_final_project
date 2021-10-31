@@ -32,7 +32,7 @@ class Crawler():
         
         return actor, line
 
-    def craw_page_wordpress(self, url, season, episode, title):
+    def craw_page_wordpress(self, url, season, episode, title, save_file=True):
         r = requests.get(url)
         r.encoding = r.apparent_encoding
         html = r.text
@@ -43,42 +43,29 @@ class Crawler():
             'Episode': episode,
             'Title': ' '.join(title.split('-')),
             'Actor2Line': dict(list()),
-            'Actor2Profile': dict(),
             'AllLines': list(),
             'url': url,
         }
 
-        line_idx = 0
-        
         cleaned = []
 
         for p in soup.find_all('p'):
 
-
             if p.em is not None: # remove any useless em tags
                 str_p = str(p)
-                str_p.replace("<em>", "")
-                str_p.replace("</em>", "")
+                str_p = str_p.replace("<em>", "")
+                str_p = str_p.replace("</em>", "")
                 p = BeautifulSoup(str_p, 'html.parser')
 
-            print(p)
+            if p.i is not None: # remove any useless i tags
+                str_p = str(p)
+                str_p = str_p.replace("<i>", "")
+                str_p = str_p.replace("</i>", "")
+                p = BeautifulSoup(str_p, 'html.parser')
 
             if p.string is not None: # directly extractable
 
                 cleaned.append(p.string)
-        
-                # match = re.findall(actor_line_regex, p.string)
-                # 
-                # if len(match) == 1: # found perfect match
-                #     actor, line = match[0]
-                #     actors.append(actor)
-                #     lines.append(line)
-                # elif len(match) == 0: # no match found
-                #     actors.append("Scene")
-                #     lines.append(p.string.strip())
-                # else:
-                #     print("ERROR!")
-                #     exit(1)
 
             elif p.span is not None: # most annoying case, use .text attribute to get 
 
@@ -89,49 +76,11 @@ class Crawler():
 
                     cleaned.append(content)
 
-                    # match = re.findall(actor_line_regex, content)
-                 
-                    # if len(match) == 1: # found perfect match
-                    #     actor, line = match[0]
-                    #     actors.append(actor)
-                    #     lines.append(line)
-                    # elif len(match) == 0: # no match found
-                    #     actors.append("Scene")
-                    #     lines.append(span.text.strip())
-                    # else:
-                    #     print("ERROR!")
-                    #     exit(1)
-
-            elif p.i is not None:
-                #print(p)
-                #print(p.i)
-                #print(p.contents)
-
-                content = ""
-                for item in p.contents:
-                    if isinstance(item, str):
-                        content += item
-                    elif item.string is not None:
-                        content += item.string.rstrip()
-
-                cleaned.append(content)
-                # match = re.findall(actor_line_regex, content)
-                # if len(match) == 1: # found perfect match
-                #     actor, line = match[0]
-                #     actors.append(actor)
-                #     lines.append(line)
-                # elif len(match) == 0: # no match found
-                #     actors.append("Unknown")
-                #     lines.append(content)
-                # else:
-                #     print("ERROR!")
-                #     exit(1)
-
             else: # no string or em
                 print("WARNING: Give up ", p)
                 continue
 
-        for content in cleaned:
+        for line_idx, content in enumerate(cleaned):
             
             actor, line = self.matching(content)
 
@@ -143,22 +92,21 @@ class Crawler():
                 else:
                     continue
 
-            if actor == "Unknown":
-                print(f"* Unknown[ {line} ]")
-
             if actor not in transcript_dict['Actor2Line']:
                 transcript_dict['Actor2Line'][actor] = [(line_idx, line)]
             else:
                 transcript_dict['Actor2Line'][actor].append((line_idx, line))
 
-            transcript_dict['AllLines'].append(line)
-            line_idx += 1
+            transcript_dict['AllLines'].append((actor, line))
 
-        save_path = os.path.join('transcripts', 'season'+str(season), str(episode)+'-'+title+'.json')
-        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        if save_file:
+            save_path = os.path.join('transcripts', 'season'+str(season), str(episode)+'-'+title+'.json')
+            os.makedirs(os.path.dirname(save_path), exist_ok=True)
 
-        with open(save_path, 'w+') as fout:
-            json.dump(transcript_dict, fout, indent=4)
+            with open(save_path, 'w+') as fout:
+                json.dump(transcript_dict, fout, indent=4)
+
+        return transcript_dict
 
     def craw_page_fandom(self, url, season, title):
 
@@ -244,7 +192,7 @@ class Crawler():
 
 if __name__ == '__main__':
     crawler = Crawler()
-    url = 'https://bigbangtrans.wordpress.com/series-6-episode-01-the-date-night-variable/'
+    url = 'https://bigbangtrans.wordpress.com/series-9-episode-06-the-helium-insufficiency/'
     crawler.craw_page_wordpress(url, 0, 0, 'junk')
 
 

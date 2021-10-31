@@ -1,0 +1,2134 @@
+{
+    "Season": 4,
+    "Episode": 13,
+    "Title": "the love car displacement",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The Cheesecake Factory"
+            ],
+            [
+                31,
+                "Credits sequence."
+            ],
+            [
+                33,
+                "The apartment."
+            ],
+            [
+                45,
+                "Leonard\u2019s car. "
+            ],
+            [
+                61,
+                "Bernadette\u2019s car. "
+            ],
+            [
+                73,
+                "Leonard\u2019s car. "
+            ],
+            [
+                89,
+                "Bernadette\u2019s car. "
+            ],
+            [
+                99,
+                "The hotel. "
+            ],
+            [
+                124,
+                "Howard\u2019s hotel room."
+            ],
+            [
+                146,
+                "Amy\u2019s hotel room."
+            ],
+            [
+                169,
+                "Leonard\u2019s room. "
+            ],
+            [
+                197,
+                "Raj\u2019s room."
+            ],
+            [
+                204,
+                "Leonard\u2019s room. "
+            ],
+            [
+                222,
+                "A conference room."
+            ],
+            [
+                251,
+                "Bernadette\u2019s car. "
+            ],
+            [
+                253,
+                "Leonard\u2019s car. "
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Hey. So you guys ready to order?"
+            ],
+            [
+                3,
+                "Okay. So, the usual, with extra spit on Sheldon\u2019s hamburger."
+            ],
+            [
+                5,
+                "Oh, gee, Amy, I\u2019m sorry, I\u2019m actually pretty busy this weekend."
+            ],
+            [
+                8,
+                "The what?"
+            ],
+            [
+                10,
+                "Oh. Oh, okay, well, you know, like I said, I have plans, so."
+            ],
+            [
+                12,
+                "I\u2019m your best friend?"
+            ],
+            [
+                14,
+                "Oh, don\u2019t feel bad. I never read Leonard\u2019s, and I used to sleep with him."
+            ],
+            [
+                16,
+                "No, I really, I\u2019m sorry, free what? Sorry, what, what?"
+            ],
+            [
+                18,
+                "Wait, wait, just to be clear, when you guys say spa, does that mean the same thing as when regular people say it?"
+            ],
+            [
+                20,
+                "You know, it is going to be difficult, but I\u2019m going to cancel my plans so I can do this for my bestie."
+            ],
+            [
+                22,
+                "I, I wasn\u2019t going to."
+            ],
+            [
+                24,
+                "Boy, this is great. I haven\u2019t had a vacation in ages."
+            ],
+            [
+                26,
+                "You know, for a smart guy, you really seem to have a hard time grasping the concept, don\u2019t piss off the people who handle the things you eat."
+            ],
+            [
+                41,
+                "Yay!"
+            ],
+            [
+                43,
+                "Brawny?"
+            ],
+            [
+                51,
+                "So, Amy, I\u2019ve been wondering, are you and Sheldon going to be sharing a room?"
+            ],
+            [
+                55,
+                "Hey."
+            ],
+            [
+                57,
+                "Oh. Thanks."
+            ],
+            [
+                60,
+                "Terrific. Are we there yet?"
+            ],
+            [
+                80,
+                "Uh, I don\u2019t know. Are you food?"
+            ],
+            [
+                82,
+                "Well, it\u2019s a table, right? I mean, why can\u2019t there be food on it?"
+            ],
+            [
+                84,
+                "Who elected you Road Trip God?"
+            ],
+            [
+                88,
+                "I don\u2019t understand why you people just let him bully you like this. Someone should stand up to him. What\u2019s he going to do?"
+            ],
+            [
+                90,
+                "I can\u2019t believe you let him kick me out of the car."
+            ],
+            [
+                94,
+                "Should I ask?"
+            ],
+            [
+                98,
+                "Red Leader, I\u2019m really sorry."
+            ],
+            [
+                102,
+                "You know what? I missed you, too."
+            ],
+            [
+                148,
+                "Will do."
+            ],
+            [
+                150,
+                "Um, sure. What do you, what do you got in mind?"
+            ],
+            [
+                152,
+                "Um, I never really thought about it. Why?"
+            ],
+            [
+                154,
+                "Really?"
+            ],
+            [
+                156,
+                "Again, I\u2019ve never given it much thought."
+            ],
+            [
+                160,
+                "Yeah. Why, what happened?"
+            ],
+            [
+                162,
+                "Oh, yeah, that. Come on in."
+            ],
+            [
+                165,
+                "We are?"
+            ],
+            [
+                167,
+                "Oh, right, right, the blog."
+            ],
+            [
+                170,
+                "Hey, can I stay here tonight?"
+            ],
+            [
+                172,
+                "Well, Howard\u2019s a complete and total ass, Bernadette\u2019s in my bed, and no matter how much you stroke Amy\u2019s hair, she bites."
+            ],
+            [
+                174,
+                "Never mind. Can I stay here or not?"
+            ],
+            [
+                176,
+                "All right."
+            ],
+            [
+                178,
+                "Well, I\u2019m not getting in bed with him."
+            ],
+            [
+                180,
+                "We\u2019re just gonna have to make the best of this."
+            ],
+            [
+                182,
+                "Sleep."
+            ],
+            [
+                184,
+                "The what?"
+            ],
+            [
+                186,
+                "Oh, okay. Just like old times."
+            ],
+            [
+                188,
+                "Sweetie, let me put this in a way you\u2019ll understand. From the waist down, my shields are up."
+            ],
+            [
+                190,
+                "Go to sleep."
+            ],
+            [
+                193,
+                "We are not having coitus."
+            ],
+            [
+                195,
+                "Yes."
+            ],
+            [
+                205,
+                "Leonard, are you asleep?"
+            ],
+            [
+                207,
+                "I really appreciate you letting me stay here tonight."
+            ],
+            [
+                209,
+                "I know it\u2019s kinda weird."
+            ],
+            [
+                211,
+                "True dat?"
+            ],
+            [
+                213,
+                "Right. Still mad at me about that?"
+            ],
+            [
+                215,
+                "Thank you."
+            ],
+            [
+                217,
+                "Good for you."
+            ],
+            [
+                219,
+                "Good night. You know, maybe it wouldn\u2019t be the worst idea in the world to violate the Neutral Zone for just one night. Oh!"
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Since we come in every Tuesday night at six o\u2019clock and order the same exact thing, and it\u2019s now six oh eight, I believe your question not only answers itself but also stands alongside such other nonsensical queries as who let the dogs out? and, uh, How are they hanging?"
+            ],
+            [
+                6,
+                "Probably serving food that was ordered today."
+            ],
+            [
+                25,
+                "In order to take a vacation, one first has to work."
+            ],
+            [
+                28,
+                "I trust Penny will adhere to the Official California Restaurant Workers\u2019 Solemn Oath of Ethics and Cleanliness.\u201d"
+            ],
+            [
+                30,
+                "You lied to me?"
+            ],
+            [
+                35,
+                "Good morning. If I could have everyone\u2019s attention, please? I know we\u2019re all eager to get on the road to Big Sur, so if we focus, I\u2019m sure we can get through this orientation in under a half an hour. Then it\u2019s just Q&A, quiz, safety drills, pose for commemorative group photo and we\u2019re off."
+            ],
+            [
+                37,
+                "Raj? What are you doing? I don\u2019t think so. You\u2019ve had your allotted six ounces. The first bathroom break isn\u2019t until the Denny\u2019s located near Bakersfield, which is approximately two and half hours away. Remember, people, we\u2019re only as strong as our weakest bladder."
+            ],
+            [
+                39,
+                "All right. We have seven people, and two cars. In the lead car, driven by Leonard, will be myself, Amy Farrah Fowler and Penny."
+            ],
+            [
+                42,
+                "She made the case that if we break down in the middle of nowhere, your Nebraska backwoods skills and brawny hands will give us the best chance to survive in the wild."
+            ],
+            [
+                46,
+                "Red Leader to Red Five, come in. Red Leader to Red Five, come in. Howard, you promised."
+            ],
+            [
+                48,
+                "It\u2019s eleven fifteen. I\u2019m requesting your quarter-hourly location update."
+            ],
+            [
+                50,
+                "Copy that, Red Five. Radio contact is sufficient. No need to extend your middle finger."
+            ],
+            [
+                53,
+                "Indeed. Nothing sours a friendship more than over-familiarity with someone\u2019s toilet routine."
+            ],
+            [
+                75,
+                "No. Amy?"
+            ],
+            [
+                77,
+                "No."
+            ],
+            [
+                79,
+                "Amy, it\u2019s Penny\u2019s turn. Penny?"
+            ],
+            [
+                81,
+                "That\u2019s not apropos. We\u2019ve already established I\u2019m found in the periodic table."
+            ],
+            [
+                83,
+                "I knew she wasn\u2019t lead car material."
+            ],
+            [
+                85,
+                "Leonard."
+            ],
+            [
+                87,
+                "Although Road Trip God does have a certain ring to it."
+            ],
+            [
+                192,
+                "Please tell me you\u2019re not having coitus."
+            ],
+            [
+                194,
+                "Can you guarantee that it won\u2019t happen at any time during the night?"
+            ],
+            [
+                200,
+                "(Knock, knock, knock) Raj? (Knock, knock, knock) Raj? (Knock, knock, knock) Raj? I need to sleep here tonight."
+            ],
+            [
+                202,
+                "Howard is a complete and total ass, Bernadette is in Penny\u2019s bed, Amy bites, and Penny may or may not have coitus with Leonard."
+            ],
+            [
+                223,
+                "Good morning and welcome to Science and Society. I\u2019m Dr. Sheldon Cooper, BS, MS, MA, PhD, and ScD. OMG, right? Perhaps that joke was a little too hippie-dippy for this crowd. All right then, we\u2019ll begin with opening remarks. Miss Rostenkowski, would you like to start us off by discussing your assessment of science\u2019s responsibility to society?"
+            ],
+            [
+                228,
+                "Dr. Koothrappali, would you care to join the conversation?"
+            ],
+            [
+                235,
+                "Excuse me. We\u2019re not taking comments or questions from the audience just yet."
+            ],
+            [
+                239,
+                "All right, why don\u2019t we see if we can bring this back to topic."
+            ],
+            [
+                241,
+                "I guess not."
+            ],
+            [
+                246,
+                "All right, why don\u2019t we open it up to Q&A from the audience?"
+            ],
+            [
+                254,
+                "Must be out of range."
+            ],
+            [
+                260,
+                "All right, if no one\u2019s going to guess, I was spying the aluminium rims on the police car we passed a few miles back."
+            ]
+        ],
+        "Amy": [
+            [
+                4,
+                "Penny, a moment? Do you have plans this weekend?"
+            ],
+            [
+                7,
+                "That\u2019s too bad. I was hoping you could be my plus-one at the Institute of Interdisciplinary Studies\u2019 symposium on the impact of current scientific research on societal interactions."
+            ],
+            [
+                11,
+                "Shame. Since you\u2019re my best friend, I thought it would be a good bonding opportunity."
+            ],
+            [
+                13,
+                "Don\u2019t you read my blog?"
+            ],
+            [
+                15,
+                "Do you know anybody else who would appreciate an all-expense-paid spa weekend at a four-star resort in Big Sur?"
+            ],
+            [
+                21,
+                "Please don\u2019t touch my breasts."
+            ],
+            [
+                23,
+                "All right. I just want to establish boundaries."
+            ],
+            [
+                27,
+                "That does seem to be a valid principle."
+            ],
+            [
+                29,
+                "I don\u2019t believe there\u2019s any such thing."
+            ],
+            [
+                40,
+                "Yes! He had you in the other car, but I got you upgraded."
+            ],
+            [
+                52,
+                "No, we discussed it. We decided we didn\u2019t want to jeopardize our relationship by getting to know each other too well."
+            ],
+            [
+                59,
+                "Don\u2019t worry, Penny. You\u2019re my plus-one. You\u2019ll bunk with me. And FYI, travel makes me constipated, so I\u2019m the ideal hotel roommate."
+            ],
+            [
+                76,
+                "Are you usually radioactive when found in nature?"
+            ],
+            [
+                78,
+                "Are you in the lanthanoid series?"
+            ],
+            [
+                101,
+                "I missed you."
+            ],
+            [
+                149,
+                "So, girl talk?"
+            ],
+            [
+                151,
+                "Do you subscribe to the Freudian theory of penis envy?"
+            ],
+            [
+                153,
+                "Sometimes I think it might be nice to have one."
+            ],
+            [
+                155,
+                "Not for sex, for convenience. You can\u2019t deny that, by comparison, our internal plumbing is extremely high maintenance."
+            ],
+            [
+                157,
+                "We have time now. Think about it."
+            ],
+            [
+                164,
+                "Not necessary. Penny and I are perfectly comfortable sharing a bed."
+            ],
+            [
+                166,
+                "Of course, we\u2019re best friends."
+            ],
+            [
+                168,
+                "Word of warning, though. I\u2019m prone to night terrors, so if I wake up kicking and screaming, don\u2019t panic. Just pin me down and stroke my hair, and I\u2019ll be fine."
+            ],
+            [
+                227,
+                "Are we talking about women wanting penises? Because I\u2019d like to weigh in."
+            ],
+            [
+                237,
+                "Hi, bestie."
+            ],
+            [
+                255,
+                "Leonard, can I ask you a question?"
+            ],
+            [
+                257,
+                "Are you bothered by the fact that your former girlfriend left the symposium with what is probably the most beautiful man I\u2019ve ever seen in my life?"
+            ],
+            [
+                259,
+                "Because we\u2019re going 120 miles per hour."
+            ]
+        ],
+        "Leonard": [
+            [
+                9,
+                "It\u2019s an annual science conference. We\u2019ve all been invited to speak."
+            ],
+            [
+                17,
+                "I think her weekend just opened up."
+            ],
+            [
+                19,
+                "Pretty much. Except we keep our shirts on in the sauna."
+            ],
+            [
+                36,
+                "Don\u2019t worry. Just sit next to me during the quiz, and you can copy my answers."
+            ],
+            [
+                44,
+                "They\u2019re bigger than mine."
+            ],
+            [
+                54,
+                "I can vouch for that."
+            ],
+            [
+                56,
+                "Not you, him."
+            ],
+            [
+                58,
+                "Although yours was an eye-opener."
+            ],
+            [
+                74,
+                "Are you an element in the actinoid series?"
+            ],
+            [
+                86,
+                "It was a late-night vote. We were all exhausted, and he was threatening to filibuster. It\u2019s not technically Road Trip God, it\u2019s Travel Supervisor."
+            ],
+            [
+                171,
+                "Shh-shh-shh-shh. Sheldon\u2019s asleep. What\u2019s going on?"
+            ],
+            [
+                173,
+                "What?"
+            ],
+            [
+                175,
+                "Uh, sure."
+            ],
+            [
+                177,
+                "So, how do you wanna do this?"
+            ],
+            [
+                179,
+                "Yeah, it is a little like getting into Dracula\u2019s coffin."
+            ],
+            [
+                181,
+                "Okay, when you say make the best of it."
+            ],
+            [
+                183,
+                "Right. So we\u2019ll just call the middle here the Neutral Zone."
+            ],
+            [
+                185,
+                "Star Trek. You know, the Neutral Zone between the Federation and the Romulan Empire."
+            ],
+            [
+                187,
+                "Of course, sometimes the Federation and the Romulans would enter the Neutral Zone to negotiate a temporary truce."
+            ],
+            [
+                189,
+                "Got it, got it. We can do all kinds of stuff from the waist up, you know?"
+            ],
+            [
+                191,
+                "Good night."
+            ],
+            [
+                196,
+                "No."
+            ],
+            [
+                206,
+                "No."
+            ],
+            [
+                208,
+                "Sure, no problem."
+            ],
+            [
+                210,
+                "True dat."
+            ],
+            [
+                212,
+                "I\u2019ve gotten a lot more street since we broke up."
+            ],
+            [
+                214,
+                "No. No, I understand. I got too intense, you had to back off."
+            ],
+            [
+                216,
+                "I\u2019ve gotten a lot better at that, you know. I\u2019ve dated four different women since we broke up and I didn\u2019t tell any of them that I loved them and wanted to have their babies."
+            ],
+            [
+                218,
+                "Okay, good night."
+            ],
+            [
+                221,
+                "Penny\u2019s here. (Raj whispers to him) No, we don\u2019t want to watch Bridget Jones\u2019s Diary!"
+            ],
+            [
+                230,
+                "I\u2019d like to kick your little brown ass."
+            ],
+            [
+                232,
+                "Oh, I don\u2019t know. Maybe when you walk into a hotel room and you see a guy getting back together with his girlfriend, you should consider doing something other than crawling into the adjoining bed."
+            ],
+            [
+                250,
+                "No!"
+            ],
+            [
+                256,
+                "Sure."
+            ],
+            [
+                258,
+                "No. Why do you ask?"
+            ]
+        ],
+        "Howard (after Raj whispers to him)": [
+            [
+                38,
+                "Nobody cares about your Kegel exercises."
+            ],
+            [
+                123,
+                "No, it\u2019s not necessarily proportional. Shut up!"
+            ]
+        ],
+        "Howard (voice)": [
+            [
+                47,
+                "Fine. \u00a0Red Five to Red Leader. What do you want now?"
+            ]
+        ],
+        "Howard": [
+            [
+                49,
+                "Still right behind you."
+            ],
+            [
+                63,
+                "Really? You want to see the keynote?"
+            ],
+            [
+                65,
+                "Actually, I was thinking we could go straight to the room and take a nap."
+            ],
+            [
+                67,
+                "We can watch it later on C-SPAN. Besides, I was really looking forward to you and me napping together in the hotel."
+            ],
+            [
+                69,
+                "No, see, it\u2019s not\u2026"
+            ],
+            [
+                91,
+                "What could we do? He\u2019s the Travel Supervisor."
+            ],
+            [
+                93,
+                "Yeah. It\u2019s the Love Car."
+            ],
+            [
+                110,
+                "Hi. Ow. Hi."
+            ],
+            [
+                112,
+                "Yes. Bernie sure is."
+            ],
+            [
+                117,
+                "Hey, Bernie?"
+            ],
+            [
+                119,
+                "Please tell me he\u2019s your gay cousin."
+            ],
+            [
+                121,
+                "Oh! That\u2019s a relief."
+            ],
+            [
+                125,
+                "That green bag is Dr. Cooper\u2019s. Here\u2019s an extra five. Make him wait. Oh. Right to the nap, huh? Okay? Uh, so, this Glenn guy. You say you went out with him for, like, a year."
+            ],
+            [
+                127,
+                "No. I guess not. What is he, like, six-four, six-five?"
+            ],
+            [
+                129,
+                "Probably has a hard time finding a suit that fits."
+            ],
+            [
+                131,
+                "No. It\u2019s just\u2026"
+            ],
+            [
+                133,
+                "I\u2019m just thinking. If you had sex with that guy, I mean, there\u2019s nothing I can do here that will make any kind of impact."
+            ],
+            [
+                135,
+                "Yeah, great, love you, too, but, if it were a contest, I wouldn\u2019t have a chance, right?"
+            ],
+            [
+                137,
+                "Yep. Loser."
+            ],
+            [
+                139,
+                "Sorry. I just never figured that a guy like me going out with a girl like you would ever have to compete with a guy like that."
+            ],
+            [
+                141,
+                "I\u2019m\u2026 I\u2026"
+            ],
+            [
+                143,
+                "No! No, I\u2019m saying exactly the opposite."
+            ],
+            [
+                145,
+                "Yeah, let\u2019s go with that."
+            ],
+            [
+                225,
+                "Interesting. I think what you might need to know about my colleague is that though she claims her field of interest\u00a0 is tiny organisms, she certainly has spent her fair share of time around what we can assume was pretty massive weaponry."
+            ],
+            [
+                240,
+                "Let me ask you something, Bernie."
+            ],
+            [
+                242,
+                "How would you feel if you met my ex-girlfriend and she was like Angelina Jolie?"
+            ],
+            [
+                244,
+                "What, I\u2019m not hot enough for Angelina Jolie?"
+            ]
+        ],
+        "Bernadette": [
+            [
+                62,
+                "I hope we get there in time to see the keynote address."
+            ],
+            [
+                66,
+                "Really? And miss the keynote?"
+            ],
+            [
+                68,
+                "Well honey, if you\u2019re that tired, why don\u2019t you just take a nap here in the car?"
+            ],
+            [
+                70,
+                "Hang on. It\u2019s Leonard. Hi, Leonard."
+            ],
+            [
+                72,
+                "Oh. Thank you, Raj."
+            ],
+            [
+                92,
+                "Don\u2019t worry, Penny. This is a better car anyway."
+            ],
+            [
+                104,
+                "Oh, my God, Glenn!"
+            ],
+            [
+                106,
+                "Are you here for the conference?"
+            ],
+            [
+                108,
+                "Oh, good for you. Uh, Glenn, this is my boyfriend Howard."
+            ],
+            [
+                114,
+                "I\u2019ll try to catch it."
+            ],
+            [
+                116,
+                "Bye."
+            ],
+            [
+                118,
+                "Yeah?"
+            ],
+            [
+                120,
+                "No. He was one of my professors in college."
+            ],
+            [
+                122,
+                "Then we went out for a year. Come on, let\u2019s check in, so we can take that nap."
+            ],
+            [
+                126,
+                "Do we really need to talk about my old boyfriend now?"
+            ],
+            [
+                128,
+                "Six-seven."
+            ],
+            [
+                130,
+                "Is something bothering you?"
+            ],
+            [
+                132,
+                "What?"
+            ],
+            [
+                134,
+                "Howard, it\u2019s not a contest. I love you. I want to be with you."
+            ],
+            [
+                136,
+                "You can\u2019t think that way."
+            ],
+            [
+                138,
+                "Howard, stop it."
+            ],
+            [
+                140,
+                "Wait a minute, a girl like me? What\u2019s that mean?"
+            ],
+            [
+                142,
+                "Are you saying you don\u2019t think I\u2019m hot enough to go out with a guy like Glenn?"
+            ],
+            [
+                144,
+                "I\u2019m too hot to go out with a guy like Glenn?"
+            ],
+            [
+                159,
+                "Can I stay here tonight?"
+            ],
+            [
+                161,
+                "Howard\u2019s a complete and total ass."
+            ],
+            [
+                163,
+                "Thanks. I\u2019ll sleep on the floor."
+            ],
+            [
+                224,
+                "Sure. I think all branches of science have to move cautiously these days. It\u2019s not just giant nuclear weapons that can destroy the world. As a microbiologist, I can tell you even the tiniest organisms can still tear you a new one."
+            ],
+            [
+                226,
+                "I think Mr. Wolowitz needs to keep in mind that the past is the past. But he should know that I am the kind of girl who could get all the giant missiles she wants."
+            ],
+            [
+                243,
+                "Oh, come on, Howard, be realistic."
+            ],
+            [
+                249,
+                "Um, Penny, that\u2019s Glenn. Glenn, that\u2019s Penny."
+            ]
+        ],
+        "Bernadette: Yeah, it sounds fun. Super bacteria": [
+            [
+                64,
+                "global apocalypse or exciting research opportunity?"
+            ]
+        ],
+        "Leonard (voice)": [
+            [
+                71,
+                "Yeah, hi. Listen, I just got a text from Raj. He wanted me to tell you that when Howard says nap, he means sex."
+            ]
+        ],
+        "Bernadette (singing)": [
+            [
+                95,
+                "They say we\u2019re young and we don\u2019t know, we won\u2019t find out until we grow."
+            ]
+        ],
+        "Howard (singing)": [
+            [
+                96,
+                "Well, I don\u2019t know if all that\u2019s true, \u2019cause you got me, and, baby, I got you."
+            ]
+        ],
+        "Together (singing)": [
+            [
+                97,
+                "Babe, mm da-da, da-da, da-da, I got you, babe, da-da, da-da, da-da, I got you, babe\u2026"
+            ]
+        ],
+        "Howard and Bernadette (singing)": [
+            [
+                100,
+                "I got you, babe."
+            ]
+        ],
+        "Very tall and powerfully built man": [
+            [
+                103,
+                "Bernadette?"
+            ]
+        ],
+        "Glenn": [
+            [
+                105,
+                "Great to see you!"
+            ],
+            [
+                107,
+                "Yeah, I\u2019m doing a global warming panel."
+            ],
+            [
+                109,
+                "Oh. Nice to meet you."
+            ],
+            [
+                111,
+                "You\u2019re a lucky man. Bernie\u2019s a great gal."
+            ],
+            [
+                115,
+                "Oh, great. Bye."
+            ]
+        ],
+        "Glenn: Well, I got to run. The panel\u2019s tomorrow morning. It\u2019s called, Remembering Snow": [
+            [
+                113,
+                "A Look Back."
+            ]
+        ],
+        "Amy (exiting bathroom)": [
+            [
+                147,
+                "Still nothing. Remind me to try again in an hour."
+            ]
+        ],
+        "Penny (knock on door)": [
+            [
+                158,
+                "Oh, good. Hey."
+            ]
+        ],
+        "TV Announcer": [
+            [
+                198,
+                "Next on Turner Classic Movies, Bridget Jones\u2019s Diary."
+            ]
+        ],
+        "Raj": [
+            [
+                199,
+                "Oh, my God, I\u2019m crying already."
+            ],
+            [
+                201,
+                "Why?"
+            ],
+            [
+                203,
+                "Okay. Come on in."
+            ],
+            [
+                220,
+                "Hey, Leonard, Sheldon kicked me out of the room, gave me your key."
+            ],
+            [
+                229,
+                "Certainly. I\u2019d like to raise two points. Number one, I think they are talking about penises. And number two, these mimosas are kicking my little brown ass."
+            ],
+            [
+                231,
+                "What did I do?"
+            ],
+            [
+                233,
+                "I did. You said no Bridget Jones."
+            ],
+            [
+                245,
+                "I\u2019d like to weigh in here. No."
+            ]
+        ],
+        "Penny (voice)": [
+            [
+                234,
+                "We weren\u2019t getting back together! It was a one-time thing!"
+            ],
+            [
+                247,
+                "Yeah, I have a question. Is there anybody who can get me the hell out of here and back to Los Angeles tonight?"
+            ]
+        ],
+        "Penny(voice)": [
+            [
+                236,
+                "Oh, shut up, Sheldon!"
+            ],
+            [
+                238,
+                "Yeah, hi."
+            ]
+        ],
+        "Glenn (voice)": [
+            [
+                248,
+                "I\u2019m driving back to L.A. tonight."
+            ]
+        ],
+        "Sheldon (voice)": [
+            [
+                252,
+                "Red Leader to Red Five. Red Leader to Red Five. Anybody up for a little game? I spy with my little eye, a nonferrous metal. (Howard throws walkie-talkie out of window)"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The Cheesecake Factory"
+        ],
+        [
+            "Penny",
+            "Hey. So you guys ready to order?"
+        ],
+        [
+            "Sheldon",
+            "Since we come in every Tuesday night at six o\u2019clock and order the same exact thing, and it\u2019s now six oh eight, I believe your question not only answers itself but also stands alongside such other nonsensical queries as who let the dogs out? and, uh, How are they hanging?"
+        ],
+        [
+            "Penny",
+            "Okay. So, the usual, with extra spit on Sheldon\u2019s hamburger."
+        ],
+        [
+            "Amy",
+            "Penny, a moment? Do you have plans this weekend?"
+        ],
+        [
+            "Penny",
+            "Oh, gee, Amy, I\u2019m sorry, I\u2019m actually pretty busy this weekend."
+        ],
+        [
+            "Sheldon",
+            "Probably serving food that was ordered today."
+        ],
+        [
+            "Amy",
+            "That\u2019s too bad. I was hoping you could be my plus-one at the Institute of Interdisciplinary Studies\u2019 symposium on the impact of current scientific research on societal interactions."
+        ],
+        [
+            "Penny",
+            "The what?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s an annual science conference. We\u2019ve all been invited to speak."
+        ],
+        [
+            "Penny",
+            "Oh. Oh, okay, well, you know, like I said, I have plans, so."
+        ],
+        [
+            "Amy",
+            "Shame. Since you\u2019re my best friend, I thought it would be a good bonding opportunity."
+        ],
+        [
+            "Penny",
+            "I\u2019m your best friend?"
+        ],
+        [
+            "Amy",
+            "Don\u2019t you read my blog?"
+        ],
+        [
+            "Penny",
+            "Oh, don\u2019t feel bad. I never read Leonard\u2019s, and I used to sleep with him."
+        ],
+        [
+            "Amy",
+            "Do you know anybody else who would appreciate an all-expense-paid spa weekend at a four-star resort in Big Sur?"
+        ],
+        [
+            "Penny",
+            "No, I really, I\u2019m sorry, free what? Sorry, what, what?"
+        ],
+        [
+            "Leonard",
+            "I think her weekend just opened up."
+        ],
+        [
+            "Penny",
+            "Wait, wait, just to be clear, when you guys say spa, does that mean the same thing as when regular people say it?"
+        ],
+        [
+            "Leonard",
+            "Pretty much. Except we keep our shirts on in the sauna."
+        ],
+        [
+            "Penny",
+            "You know, it is going to be difficult, but I\u2019m going to cancel my plans so I can do this for my bestie."
+        ],
+        [
+            "Amy",
+            "Please don\u2019t touch my breasts."
+        ],
+        [
+            "Penny",
+            "I, I wasn\u2019t going to."
+        ],
+        [
+            "Amy",
+            "All right. I just want to establish boundaries."
+        ],
+        [
+            "Penny",
+            "Boy, this is great. I haven\u2019t had a vacation in ages."
+        ],
+        [
+            "Sheldon",
+            "In order to take a vacation, one first has to work."
+        ],
+        [
+            "Penny",
+            "You know, for a smart guy, you really seem to have a hard time grasping the concept, don\u2019t piss off the people who handle the things you eat."
+        ],
+        [
+            "Amy",
+            "That does seem to be a valid principle."
+        ],
+        [
+            "Sheldon",
+            "I trust Penny will adhere to the Official California Restaurant Workers\u2019 Solemn Oath of Ethics and Cleanliness.\u201d"
+        ],
+        [
+            "Amy",
+            "I don\u2019t believe there\u2019s any such thing."
+        ],
+        [
+            "Sheldon",
+            "You lied to me?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Good morning. If I could have everyone\u2019s attention, please? I know we\u2019re all eager to get on the road to Big Sur, so if we focus, I\u2019m sure we can get through this orientation in under a half an hour. Then it\u2019s just Q&A, quiz, safety drills, pose for commemorative group photo and we\u2019re off."
+        ],
+        [
+            "Leonard",
+            "Don\u2019t worry. Just sit next to me during the quiz, and you can copy my answers."
+        ],
+        [
+            "Sheldon",
+            "Raj? What are you doing? I don\u2019t think so. You\u2019ve had your allotted six ounces. The first bathroom break isn\u2019t until the Denny\u2019s located near Bakersfield, which is approximately two and half hours away. Remember, people, we\u2019re only as strong as our weakest bladder."
+        ],
+        [
+            "Howard (after Raj whispers to him)",
+            "Nobody cares about your Kegel exercises."
+        ],
+        [
+            "Sheldon",
+            "All right. We have seven people, and two cars. In the lead car, driven by Leonard, will be myself, Amy Farrah Fowler and Penny."
+        ],
+        [
+            "Amy",
+            "Yes! He had you in the other car, but I got you upgraded."
+        ],
+        [
+            "Penny",
+            "Yay!"
+        ],
+        [
+            "Sheldon",
+            "She made the case that if we break down in the middle of nowhere, your Nebraska backwoods skills and brawny hands will give us the best chance to survive in the wild."
+        ],
+        [
+            "Penny",
+            "Brawny?"
+        ],
+        [
+            "Leonard",
+            "They\u2019re bigger than mine."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car. "
+        ],
+        [
+            "Sheldon",
+            "Red Leader to Red Five, come in. Red Leader to Red Five, come in. Howard, you promised."
+        ],
+        [
+            "Howard (voice)",
+            "Fine. \u00a0Red Five to Red Leader. What do you want now?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s eleven fifteen. I\u2019m requesting your quarter-hourly location update."
+        ],
+        [
+            "Howard",
+            "Still right behind you."
+        ],
+        [
+            "Sheldon",
+            "Copy that, Red Five. Radio contact is sufficient. No need to extend your middle finger."
+        ],
+        [
+            "Penny",
+            "So, Amy, I\u2019ve been wondering, are you and Sheldon going to be sharing a room?"
+        ],
+        [
+            "Amy",
+            "No, we discussed it. We decided we didn\u2019t want to jeopardize our relationship by getting to know each other too well."
+        ],
+        [
+            "Sheldon",
+            "Indeed. Nothing sours a friendship more than over-familiarity with someone\u2019s toilet routine."
+        ],
+        [
+            "Leonard",
+            "I can vouch for that."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Leonard",
+            "Not you, him."
+        ],
+        [
+            "Penny",
+            "Oh. Thanks."
+        ],
+        [
+            "Leonard",
+            "Although yours was an eye-opener."
+        ],
+        [
+            "Amy",
+            "Don\u2019t worry, Penny. You\u2019re my plus-one. You\u2019ll bunk with me. And FYI, travel makes me constipated, so I\u2019m the ideal hotel roommate."
+        ],
+        [
+            "Penny",
+            "Terrific. Are we there yet?"
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car. "
+        ],
+        [
+            "Bernadette",
+            "I hope we get there in time to see the keynote address."
+        ],
+        [
+            "Howard",
+            "Really? You want to see the keynote?"
+        ],
+        [
+            "Bernadette: Yeah, it sounds fun. Super bacteria",
+            "global apocalypse or exciting research opportunity?"
+        ],
+        [
+            "Howard",
+            "Actually, I was thinking we could go straight to the room and take a nap."
+        ],
+        [
+            "Bernadette",
+            "Really? And miss the keynote?"
+        ],
+        [
+            "Howard",
+            "We can watch it later on C-SPAN. Besides, I was really looking forward to you and me napping together in the hotel."
+        ],
+        [
+            "Bernadette",
+            "Well honey, if you\u2019re that tired, why don\u2019t you just take a nap here in the car?"
+        ],
+        [
+            "Howard",
+            "No, see, it\u2019s not\u2026"
+        ],
+        [
+            "Bernadette",
+            "Hang on. It\u2019s Leonard. Hi, Leonard."
+        ],
+        [
+            "Leonard (voice)",
+            "Yeah, hi. Listen, I just got a text from Raj. He wanted me to tell you that when Howard says nap, he means sex."
+        ],
+        [
+            "Bernadette",
+            "Oh. Thank you, Raj."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car. "
+        ],
+        [
+            "Leonard",
+            "Are you an element in the actinoid series?"
+        ],
+        [
+            "Sheldon",
+            "No. Amy?"
+        ],
+        [
+            "Amy",
+            "Are you usually radioactive when found in nature?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Amy",
+            "Are you in the lanthanoid series?"
+        ],
+        [
+            "Sheldon",
+            "Amy, it\u2019s Penny\u2019s turn. Penny?"
+        ],
+        [
+            "Penny",
+            "Uh, I don\u2019t know. Are you food?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s not apropos. We\u2019ve already established I\u2019m found in the periodic table."
+        ],
+        [
+            "Penny",
+            "Well, it\u2019s a table, right? I mean, why can\u2019t there be food on it?"
+        ],
+        [
+            "Sheldon",
+            "I knew she wasn\u2019t lead car material."
+        ],
+        [
+            "Penny",
+            "Who elected you Road Trip God?"
+        ],
+        [
+            "Sheldon",
+            "Leonard."
+        ],
+        [
+            "Leonard",
+            "It was a late-night vote. We were all exhausted, and he was threatening to filibuster. It\u2019s not technically Road Trip God, it\u2019s Travel Supervisor."
+        ],
+        [
+            "Sheldon",
+            "Although Road Trip God does have a certain ring to it."
+        ],
+        [
+            "Penny",
+            "I don\u2019t understand why you people just let him bully you like this. Someone should stand up to him. What\u2019s he going to do?"
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car. "
+        ],
+        [
+            "Penny",
+            "I can\u2019t believe you let him kick me out of the car."
+        ],
+        [
+            "Howard",
+            "What could we do? He\u2019s the Travel Supervisor."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t worry, Penny. This is a better car anyway."
+        ],
+        [
+            "Howard",
+            "Yeah. It\u2019s the Love Car."
+        ],
+        [
+            "Penny",
+            "Should I ask?"
+        ],
+        [
+            "Bernadette (singing)",
+            "They say we\u2019re young and we don\u2019t know, we won\u2019t find out until we grow."
+        ],
+        [
+            "Howard (singing)",
+            "Well, I don\u2019t know if all that\u2019s true, \u2019cause you got me, and, baby, I got you."
+        ],
+        [
+            "Together (singing)",
+            "Babe, mm da-da, da-da, da-da, I got you, babe, da-da, da-da, da-da, I got you, babe\u2026"
+        ],
+        [
+            "Penny",
+            "Red Leader, I\u2019m really sorry."
+        ],
+        [
+            "Scene",
+            "The hotel. "
+        ],
+        [
+            "Howard and Bernadette (singing)",
+            "I got you, babe."
+        ],
+        [
+            "Amy",
+            "I missed you."
+        ],
+        [
+            "Penny",
+            "You know what? I missed you, too."
+        ],
+        [
+            "Very tall and powerfully built man",
+            "Bernadette?"
+        ],
+        [
+            "Bernadette",
+            "Oh, my God, Glenn!"
+        ],
+        [
+            "Glenn",
+            "Great to see you!"
+        ],
+        [
+            "Bernadette",
+            "Are you here for the conference?"
+        ],
+        [
+            "Glenn",
+            "Yeah, I\u2019m doing a global warming panel."
+        ],
+        [
+            "Bernadette",
+            "Oh, good for you. Uh, Glenn, this is my boyfriend Howard."
+        ],
+        [
+            "Glenn",
+            "Oh. Nice to meet you."
+        ],
+        [
+            "Howard",
+            "Hi. Ow. Hi."
+        ],
+        [
+            "Glenn",
+            "You\u2019re a lucky man. Bernie\u2019s a great gal."
+        ],
+        [
+            "Howard",
+            "Yes. Bernie sure is."
+        ],
+        [
+            "Glenn: Well, I got to run. The panel\u2019s tomorrow morning. It\u2019s called, Remembering Snow",
+            "A Look Back."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll try to catch it."
+        ],
+        [
+            "Glenn",
+            "Oh, great. Bye."
+        ],
+        [
+            "Bernadette",
+            "Bye."
+        ],
+        [
+            "Howard",
+            "Hey, Bernie?"
+        ],
+        [
+            "Bernadette",
+            "Yeah?"
+        ],
+        [
+            "Howard",
+            "Please tell me he\u2019s your gay cousin."
+        ],
+        [
+            "Bernadette",
+            "No. He was one of my professors in college."
+        ],
+        [
+            "Howard",
+            "Oh! That\u2019s a relief."
+        ],
+        [
+            "Bernadette",
+            "Then we went out for a year. Come on, let\u2019s check in, so we can take that nap."
+        ],
+        [
+            "Howard (after Raj whispers to him)",
+            "No, it\u2019s not necessarily proportional. Shut up!"
+        ],
+        [
+            "Scene",
+            "Howard\u2019s hotel room."
+        ],
+        [
+            "Howard",
+            "That green bag is Dr. Cooper\u2019s. Here\u2019s an extra five. Make him wait. Oh. Right to the nap, huh? Okay? Uh, so, this Glenn guy. You say you went out with him for, like, a year."
+        ],
+        [
+            "Bernadette",
+            "Do we really need to talk about my old boyfriend now?"
+        ],
+        [
+            "Howard",
+            "No. I guess not. What is he, like, six-four, six-five?"
+        ],
+        [
+            "Bernadette",
+            "Six-seven."
+        ],
+        [
+            "Howard",
+            "Probably has a hard time finding a suit that fits."
+        ],
+        [
+            "Bernadette",
+            "Is something bothering you?"
+        ],
+        [
+            "Howard",
+            "No. It\u2019s just\u2026"
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Howard",
+            "I\u2019m just thinking. If you had sex with that guy, I mean, there\u2019s nothing I can do here that will make any kind of impact."
+        ],
+        [
+            "Bernadette",
+            "Howard, it\u2019s not a contest. I love you. I want to be with you."
+        ],
+        [
+            "Howard",
+            "Yeah, great, love you, too, but, if it were a contest, I wouldn\u2019t have a chance, right?"
+        ],
+        [
+            "Bernadette",
+            "You can\u2019t think that way."
+        ],
+        [
+            "Howard",
+            "Yep. Loser."
+        ],
+        [
+            "Bernadette",
+            "Howard, stop it."
+        ],
+        [
+            "Howard",
+            "Sorry. I just never figured that a guy like me going out with a girl like you would ever have to compete with a guy like that."
+        ],
+        [
+            "Bernadette",
+            "Wait a minute, a girl like me? What\u2019s that mean?"
+        ],
+        [
+            "Howard",
+            "I\u2019m\u2026 I\u2026"
+        ],
+        [
+            "Bernadette",
+            "Are you saying you don\u2019t think I\u2019m hot enough to go out with a guy like Glenn?"
+        ],
+        [
+            "Howard",
+            "No! No, I\u2019m saying exactly the opposite."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m too hot to go out with a guy like Glenn?"
+        ],
+        [
+            "Howard",
+            "Yeah, let\u2019s go with that."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s hotel room."
+        ],
+        [
+            "Amy (exiting bathroom)",
+            "Still nothing. Remind me to try again in an hour."
+        ],
+        [
+            "Penny",
+            "Will do."
+        ],
+        [
+            "Amy",
+            "So, girl talk?"
+        ],
+        [
+            "Penny",
+            "Um, sure. What do you, what do you got in mind?"
+        ],
+        [
+            "Amy",
+            "Do you subscribe to the Freudian theory of penis envy?"
+        ],
+        [
+            "Penny",
+            "Um, I never really thought about it. Why?"
+        ],
+        [
+            "Amy",
+            "Sometimes I think it might be nice to have one."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Amy",
+            "Not for sex, for convenience. You can\u2019t deny that, by comparison, our internal plumbing is extremely high maintenance."
+        ],
+        [
+            "Penny",
+            "Again, I\u2019ve never given it much thought."
+        ],
+        [
+            "Amy",
+            "We have time now. Think about it."
+        ],
+        [
+            "Penny (knock on door)",
+            "Oh, good. Hey."
+        ],
+        [
+            "Bernadette",
+            "Can I stay here tonight?"
+        ],
+        [
+            "Penny",
+            "Yeah. Why, what happened?"
+        ],
+        [
+            "Bernadette",
+            "Howard\u2019s a complete and total ass."
+        ],
+        [
+            "Penny",
+            "Oh, yeah, that. Come on in."
+        ],
+        [
+            "Bernadette",
+            "Thanks. I\u2019ll sleep on the floor."
+        ],
+        [
+            "Amy",
+            "Not necessary. Penny and I are perfectly comfortable sharing a bed."
+        ],
+        [
+            "Penny",
+            "We are?"
+        ],
+        [
+            "Amy",
+            "Of course, we\u2019re best friends."
+        ],
+        [
+            "Penny",
+            "Oh, right, right, the blog."
+        ],
+        [
+            "Amy",
+            "Word of warning, though. I\u2019m prone to night terrors, so if I wake up kicking and screaming, don\u2019t panic. Just pin me down and stroke my hair, and I\u2019ll be fine."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s room. "
+        ],
+        [
+            "Penny",
+            "Hey, can I stay here tonight?"
+        ],
+        [
+            "Leonard",
+            "Shh-shh-shh-shh. Sheldon\u2019s asleep. What\u2019s going on?"
+        ],
+        [
+            "Penny",
+            "Well, Howard\u2019s a complete and total ass, Bernadette\u2019s in my bed, and no matter how much you stroke Amy\u2019s hair, she bites."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Penny",
+            "Never mind. Can I stay here or not?"
+        ],
+        [
+            "Leonard",
+            "Uh, sure."
+        ],
+        [
+            "Penny",
+            "All right."
+        ],
+        [
+            "Leonard",
+            "So, how do you wanna do this?"
+        ],
+        [
+            "Penny",
+            "Well, I\u2019m not getting in bed with him."
+        ],
+        [
+            "Leonard",
+            "Yeah, it is a little like getting into Dracula\u2019s coffin."
+        ],
+        [
+            "Penny",
+            "We\u2019re just gonna have to make the best of this."
+        ],
+        [
+            "Leonard",
+            "Okay, when you say make the best of it."
+        ],
+        [
+            "Penny",
+            "Sleep."
+        ],
+        [
+            "Leonard",
+            "Right. So we\u2019ll just call the middle here the Neutral Zone."
+        ],
+        [
+            "Penny",
+            "The what?"
+        ],
+        [
+            "Leonard",
+            "Star Trek. You know, the Neutral Zone between the Federation and the Romulan Empire."
+        ],
+        [
+            "Penny",
+            "Oh, okay. Just like old times."
+        ],
+        [
+            "Leonard",
+            "Of course, sometimes the Federation and the Romulans would enter the Neutral Zone to negotiate a temporary truce."
+        ],
+        [
+            "Penny",
+            "Sweetie, let me put this in a way you\u2019ll understand. From the waist down, my shields are up."
+        ],
+        [
+            "Leonard",
+            "Got it, got it. We can do all kinds of stuff from the waist up, you know?"
+        ],
+        [
+            "Penny",
+            "Go to sleep."
+        ],
+        [
+            "Leonard",
+            "Good night."
+        ],
+        [
+            "Sheldon",
+            "Please tell me you\u2019re not having coitus."
+        ],
+        [
+            "Penny",
+            "We are not having coitus."
+        ],
+        [
+            "Sheldon",
+            "Can you guarantee that it won\u2019t happen at any time during the night?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s room."
+        ],
+        [
+            "TV Announcer",
+            "Next on Turner Classic Movies, Bridget Jones\u2019s Diary."
+        ],
+        [
+            "Raj",
+            "Oh, my God, I\u2019m crying already."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Raj? (Knock, knock, knock) Raj? (Knock, knock, knock) Raj? I need to sleep here tonight."
+        ],
+        [
+            "Raj",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "Howard is a complete and total ass, Bernadette is in Penny\u2019s bed, Amy bites, and Penny may or may not have coitus with Leonard."
+        ],
+        [
+            "Raj",
+            "Okay. Come on in."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s room. "
+        ],
+        [
+            "Penny",
+            "Leonard, are you asleep?"
+        ],
+        [
+            "Leonard",
+            "No."
+        ],
+        [
+            "Penny",
+            "I really appreciate you letting me stay here tonight."
+        ],
+        [
+            "Leonard",
+            "Sure, no problem."
+        ],
+        [
+            "Penny",
+            "I know it\u2019s kinda weird."
+        ],
+        [
+            "Leonard",
+            "True dat."
+        ],
+        [
+            "Penny",
+            "True dat?"
+        ],
+        [
+            "Leonard",
+            "I\u2019ve gotten a lot more street since we broke up."
+        ],
+        [
+            "Penny",
+            "Right. Still mad at me about that?"
+        ],
+        [
+            "Leonard",
+            "No. No, I understand. I got too intense, you had to back off."
+        ],
+        [
+            "Penny",
+            "Thank you."
+        ],
+        [
+            "Leonard",
+            "I\u2019ve gotten a lot better at that, you know. I\u2019ve dated four different women since we broke up and I didn\u2019t tell any of them that I loved them and wanted to have their babies."
+        ],
+        [
+            "Penny",
+            "Good for you."
+        ],
+        [
+            "Leonard",
+            "Okay, good night."
+        ],
+        [
+            "Penny",
+            "Good night. You know, maybe it wouldn\u2019t be the worst idea in the world to violate the Neutral Zone for just one night. Oh!"
+        ],
+        [
+            "Raj",
+            "Hey, Leonard, Sheldon kicked me out of the room, gave me your key."
+        ],
+        [
+            "Leonard",
+            "Penny\u2019s here. (Raj whispers to him) No, we don\u2019t want to watch Bridget Jones\u2019s Diary!"
+        ],
+        [
+            "Scene",
+            "A conference room."
+        ],
+        [
+            "Sheldon",
+            "Good morning and welcome to Science and Society. I\u2019m Dr. Sheldon Cooper, BS, MS, MA, PhD, and ScD. OMG, right? Perhaps that joke was a little too hippie-dippy for this crowd. All right then, we\u2019ll begin with opening remarks. Miss Rostenkowski, would you like to start us off by discussing your assessment of science\u2019s responsibility to society?"
+        ],
+        [
+            "Bernadette",
+            "Sure. I think all branches of science have to move cautiously these days. It\u2019s not just giant nuclear weapons that can destroy the world. As a microbiologist, I can tell you even the tiniest organisms can still tear you a new one."
+        ],
+        [
+            "Howard",
+            "Interesting. I think what you might need to know about my colleague is that though she claims her field of interest\u00a0 is tiny organisms, she certainly has spent her fair share of time around what we can assume was pretty massive weaponry."
+        ],
+        [
+            "Bernadette",
+            "I think Mr. Wolowitz needs to keep in mind that the past is the past. But he should know that I am the kind of girl who could get all the giant missiles she wants."
+        ],
+        [
+            "Amy",
+            "Are we talking about women wanting penises? Because I\u2019d like to weigh in."
+        ],
+        [
+            "Sheldon",
+            "Dr. Koothrappali, would you care to join the conversation?"
+        ],
+        [
+            "Raj",
+            "Certainly. I\u2019d like to raise two points. Number one, I think they are talking about penises. And number two, these mimosas are kicking my little brown ass."
+        ],
+        [
+            "Leonard",
+            "I\u2019d like to kick your little brown ass."
+        ],
+        [
+            "Raj",
+            "What did I do?"
+        ],
+        [
+            "Leonard",
+            "Oh, I don\u2019t know. Maybe when you walk into a hotel room and you see a guy getting back together with his girlfriend, you should consider doing something other than crawling into the adjoining bed."
+        ],
+        [
+            "Raj",
+            "I did. You said no Bridget Jones."
+        ],
+        [
+            "Penny (voice)",
+            "We weren\u2019t getting back together! It was a one-time thing!"
+        ],
+        [
+            "Sheldon",
+            "Excuse me. We\u2019re not taking comments or questions from the audience just yet."
+        ],
+        [
+            "Penny(voice)",
+            "Oh, shut up, Sheldon!"
+        ],
+        [
+            "Amy",
+            "Hi, bestie."
+        ],
+        [
+            "Penny(voice)",
+            "Yeah, hi."
+        ],
+        [
+            "Sheldon",
+            "All right, why don\u2019t we see if we can bring this back to topic."
+        ],
+        [
+            "Howard",
+            "Let me ask you something, Bernie."
+        ],
+        [
+            "Sheldon",
+            "I guess not."
+        ],
+        [
+            "Howard",
+            "How would you feel if you met my ex-girlfriend and she was like Angelina Jolie?"
+        ],
+        [
+            "Bernadette",
+            "Oh, come on, Howard, be realistic."
+        ],
+        [
+            "Howard",
+            "What, I\u2019m not hot enough for Angelina Jolie?"
+        ],
+        [
+            "Raj",
+            "I\u2019d like to weigh in here. No."
+        ],
+        [
+            "Sheldon",
+            "All right, why don\u2019t we open it up to Q&A from the audience?"
+        ],
+        [
+            "Penny (voice)",
+            "Yeah, I have a question. Is there anybody who can get me the hell out of here and back to Los Angeles tonight?"
+        ],
+        [
+            "Glenn (voice)",
+            "I\u2019m driving back to L.A. tonight."
+        ],
+        [
+            "Bernadette",
+            "Um, Penny, that\u2019s Glenn. Glenn, that\u2019s Penny."
+        ],
+        [
+            "Leonard",
+            "No!"
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car. "
+        ],
+        [
+            "Sheldon (voice)",
+            "Red Leader to Red Five. Red Leader to Red Five. Anybody up for a little game? I spy with my little eye, a nonferrous metal. (Howard throws walkie-talkie out of window)"
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car. "
+        ],
+        [
+            "Sheldon",
+            "Must be out of range."
+        ],
+        [
+            "Amy",
+            "Leonard, can I ask you a question?"
+        ],
+        [
+            "Leonard",
+            "Sure."
+        ],
+        [
+            "Amy",
+            "Are you bothered by the fact that your former girlfriend left the symposium with what is probably the most beautiful man I\u2019ve ever seen in my life?"
+        ],
+        [
+            "Leonard",
+            "No. Why do you ask?"
+        ],
+        [
+            "Amy",
+            "Because we\u2019re going 120 miles per hour."
+        ],
+        [
+            "Sheldon",
+            "All right, if no one\u2019s going to guess, I was spying the aluminium rims on the police car we passed a few miles back."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-4-episode-13-the-love-car-displacement/"
+}

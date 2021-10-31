@@ -1,0 +1,1962 @@
+{
+    "Season": 6,
+    "Episode": 2,
+    "Title": "the decoupling fluctuation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Bernadette\u2019s apartment."
+            ],
+            [
+                32,
+                "Credits sequence."
+            ],
+            [
+                33,
+                "Cutting between the International Space Station and the apartment (the guys are on webcam)."
+            ],
+            [
+                79,
+                "The cinema."
+            ],
+            [
+                101,
+                "The apartment. Sheldon is making a sucking noise with his teeth."
+            ],
+            [
+                122,
+                "Leonard\u2019s room."
+            ],
+            [
+                128,
+                "Penny\u2019s bedroom. Sheldon is standing over Penny\u2019s bed, knocking on the wall."
+            ],
+            [
+                161,
+                "Amy\u2019s bedroom. Phone rings."
+            ],
+            [
+                168,
+                "Cutting between the International Space Station and the Bernadette\u2019s apartment."
+            ],
+            [
+                186,
+                "The apartment. The guys are playing a card game."
+            ],
+            [
+                211,
+                "Penny\u2019s apartment."
+            ],
+            [
+                225,
+                "Bernadette\u2019s apartment."
+            ],
+            [
+                235,
+                "Cutting between the International Space Station and the Bernadette\u2019s apartment."
+            ]
+        ],
+        "Bernadette": [
+            [
+                1,
+                "And the next wedding gift is a gravy boat."
+            ],
+            [
+                4,
+                "In the event of a divorce, please return to Sheldon Cooper."
+            ],
+            [
+                9,
+                "So, you actually see you and Sheldon getting married someday?"
+            ],
+            [
+                11,
+                "What about you, Penny?"
+            ],
+            [
+                13,
+                "Do you think you and Leonard might ever get married?"
+            ],
+            [
+                15,
+                "But do you think you\u2019ll ever get married?"
+            ],
+            [
+                19,
+                "It doesn\u2019t sound like it."
+            ],
+            [
+                21,
+                "Do you tell him that?"
+            ],
+            [
+                25,
+                "Are you gonna break up with him?"
+            ],
+            [
+                27,
+                "I had no idea you were unhappy."
+            ],
+            [
+                29,
+                "Oh, that\u2019s not really a fair comparison. I\u2019m basically married to a sexy Buzz Lightyear."
+            ],
+            [
+                170,
+                "There\u2019s my hubby. How\u2019s everything going up there?"
+            ],
+            [
+                172,
+                "What\u2019s wrong?"
+            ],
+            [
+                174,
+                "Howard."
+            ],
+            [
+                176,
+                "No, what are they doing?"
+            ],
+            [
+                178,
+                "Oh, Howie."
+            ],
+            [
+                180,
+                "Why don\u2019t you stand up to them?"
+            ],
+            [
+                182,
+                "I don\u2019t know. Say, being mean is lame, what\u2019s cool is being nice."
+            ],
+            [
+                184,
+                "Do you want me to call somebody at NASA?"
+            ],
+            [
+                228,
+                "Oh, sure, you had no choice."
+            ],
+            [
+                231,
+                "Don\u2019t worry. You\u2019ll have plenty of chances to break up with him. Your wedding day, your honeymoon, your 50th anniversary."
+            ],
+            [
+                237,
+                "Oh, Howie."
+            ],
+            [
+                239,
+                "Nope, this is my proud face."
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "Ooh, one gravy boat."
+            ],
+            [
+                5,
+                "One inappropriate, yet I wish I thought of that gravy boat."
+            ],
+            [
+                7,
+                "Ew, why?"
+            ],
+            [
+                12,
+                "What about me what?"
+            ],
+            [
+                14,
+                "Oh, well, you know, Leonard is great."
+            ],
+            [
+                16,
+                "He\u2019s a sweetie."
+            ],
+            [
+                18,
+                "Yeah, sure, of course I love him."
+            ],
+            [
+                20,
+                "Well, I do."
+            ],
+            [
+                22,
+                "No, he\u2019d just take it the wrong way."
+            ],
+            [
+                24,
+                "It means he is special and smart and nice and\u2026"
+            ],
+            [
+                26,
+                "No. Maybe. I don\u2019t know."
+            ],
+            [
+                28,
+                "That\u2019s the thing, I\u2019m not. I\u2019m not unhappy at all. It\u2019s just, I don\u2019t know, I, I\u2019ve been in love before, but it felt different. But maybe this is a new, better, boring kind of love. Do you ever feel that way about Howard?"
+            ],
+            [
+                30,
+                "Amy, you?"
+            ],
+            [
+                130,
+                "Oh, my God. Sheldon?"
+            ],
+            [
+                132,
+                "What are you doing in my bedroom?"
+            ],
+            [
+                134,
+                "How did you even get in, you weirdo?"
+            ],
+            [
+                136,
+                "What do you want, Sheldon?"
+            ],
+            [
+                138,
+                "Talk about what?"
+            ],
+            [
+                140,
+                "Sheldon."
+            ],
+            [
+                142,
+                "Okay, go home, crazy man."
+            ],
+            [
+                144,
+                "Okay, what did Amy tell you?"
+            ],
+            [
+                146,
+                "Okay, you listen to me. I think it\u2019s really sweet you\u2019re trying to protect your friend, but this is none of your business. Got it?"
+            ],
+            [
+                148,
+                "Of course not."
+            ],
+            [
+                150,
+                "Worst bedtime story ever."
+            ],
+            [
+                152,
+                "Okay, honey, I have a lot to figure out, and until I do, you are not to say a word to Leonard. Do you understand?"
+            ],
+            [
+                154,
+                "Get out."
+            ],
+            [
+                156,
+                "What?"
+            ],
+            [
+                158,
+                "That is the last thing I want to do."
+            ],
+            [
+                160,
+                "Get out."
+            ],
+            [
+                163,
+                "What the hell is wrong with you? You told Sheldon? Do you know what a terrible position this puts me in? (Phone beeps)"
+            ],
+            [
+                213,
+                "Really?"
+            ],
+            [
+                215,
+                "Mmm."
+            ],
+            [
+                217,
+                "Uh-huh."
+            ],
+            [
+                219,
+                "Look, there\u2019s something I need to tell you."
+            ],
+            [
+                221,
+                "I don\u2019t really know how to say this."
+            ],
+            [
+                223,
+                "Okay. Here goes."
+            ],
+            [
+                227,
+                "I didn\u2019t know what else to do. He had those big, sad eyes."
+            ],
+            [
+                229,
+                "He looked at me like this."
+            ],
+            [
+                232,
+                "Look, it\u2019s fine. We\u2019re not getting married, okay? We\u2019re keeping things, you know, homeostasis."
+            ]
+        ],
+        "Amy": [
+            [
+                3,
+                "That\u2019s from Sheldon. He told me he had it engraved."
+            ],
+            [
+                6,
+                "When I get married I\u2019m going to register at the UCLA Cadaver Lab."
+            ],
+            [
+                8,
+                "\u2018Cause I\u2019ve always wanted a whole human skeleton and they are really spendy."
+            ],
+            [
+                10,
+                "Not just someday. In exactly four years. But don\u2019t tell Sheldon. He\u2019s still a flight risk."
+            ],
+            [
+                17,
+                "You\u2019re not answering the question. Do you love him?"
+            ],
+            [
+                23,
+                "What does that mean?"
+            ],
+            [
+                31,
+                "Can\u2019t help ya, kid. Whenever I\u2019m around Sheldon, I feel like my loins are on fire. In the good way. Not the urinary tract infection way."
+            ],
+            [
+                81,
+                "Well, I like it."
+            ],
+            [
+                83,
+                "Just watch the movie."
+            ],
+            [
+                85,
+                "There might be a reason for that."
+            ],
+            [
+                87,
+                "Penny said she\u2019s not sure she wants to be Leonard\u2019s girlfriend anymore."
+            ],
+            [
+                89,
+                "So?"
+            ],
+            [
+                91,
+                "It\u2019s complicated."
+            ],
+            [
+                93,
+                "She\u2019s not sure how she feels."
+            ],
+            [
+                95,
+                "Regardless, don\u2019t say anything to Leonard."
+            ],
+            [
+                97,
+                "Yes, please, Penny will kill me."
+            ],
+            [
+                162,
+                "Hello?"
+            ],
+            [
+                164,
+                "Hang on, please. Hello?"
+            ],
+            [
+                166,
+                "I know. She\u2019s yelling at me right now."
+            ],
+            [
+                226,
+                "You slept with him?"
+            ],
+            [
+                230,
+                "Well, if that\u2019s all it takes, it\u2019s a good thing you don\u2019t have a dog."
+            ],
+            [
+                233,
+                "It\u2019s so cute when she tries."
+            ]
+        ],
+        "Raj (voice off)": [
+            [
+                34,
+                "Hey, buddy, how\u2019s it going up there?"
+            ]
+        ],
+        "Howard": [
+            [
+                35,
+                "You don\u2019t have to shout, Raj. It\u2019s not like I\u2019m an astronaut floating around in outer space. Oh, wait, I am."
+            ],
+            [
+                37,
+                "It\u2019s better. I wake up every morning and I just can\u2019t believe I\u2019m on this incredible adventure."
+            ],
+            [
+                39,
+                "Excuse me. I\u2019m talking to my friends."
+            ],
+            [
+                42,
+                "Funny. We\u2019re always giving each other a hard time up here. It\u2019s kind of like being in a frat. You know, joking, kidding around, hurting feelings."
+            ],
+            [
+                46,
+                "Yes, I read you, Sheldon."
+            ],
+            [
+                50,
+                "You\u2019re out of your mind,Sheldon."
+            ],
+            [
+                53,
+                "All right, all right. I gotta go. There\u2019s a meteor shower."
+            ],
+            [
+                55,
+                "Bye."
+            ],
+            [
+                169,
+                "Hey, Bernie."
+            ],
+            [
+                171,
+                "Oh, it\u2019s okay. Space is beautiful. Earth is beautiful. Same old, same old."
+            ],
+            [
+                173,
+                "Nothing. Everything\u2019s fine."
+            ],
+            [
+                175,
+                "The other astronauts are being mean to me."
+            ],
+            [
+                177,
+                "Well, like for instance, the other day when I was asleep, one of the guys went on a space walk and glued a big-eyed rubber alien mask to the outside of my window. When I woke up, I screamed for like nine minutes."
+            ],
+            [
+                179,
+                "You can see it if you want. It\u2019s on YouTube. Google astronaut screams for nine minutes."
+            ],
+            [
+                181,
+                "What am I supposed to say?"
+            ],
+            [
+                183,
+                "Great, I\u2019ll do that when I want to be the first guy in space to get a wedgie."
+            ],
+            [
+                185,
+                "No. My mom already tried that. It only made things worse."
+            ],
+            [
+                236,
+                "Hey, Bernie, guess what? I stood up to the other astronauts like you said and I got to tell you, last night was the first time in a week I got a good night\u2019s sleep. (On screen, Howard has a mouse face drawn on his face, and the words F.LOOPS on his forehead.)"
+            ],
+            [
+                238,
+                "What\u2019s wrong? You look upset."
+            ]
+        ],
+        "Leonard": [
+            [
+                36,
+                "So, is it everything you hoped it would be?"
+            ],
+            [
+                44,
+                "Go ahead."
+            ],
+            [
+                48,
+                "What are you doing?"
+            ],
+            [
+                63,
+                "Sheldon, you are not in charge."
+            ],
+            [
+                67,
+                "It\u2019ll be fine. Just, uh, pretend he\u2019s Wolowitz."
+            ],
+            [
+                102,
+                "What are you doing?"
+            ],
+            [
+                104,
+                "Maybe your tongue is shrinking."
+            ],
+            [
+                106,
+                "I\u2019m starting to get a sense of it. Don\u2019t worry. I\u2019ll take you to the dentist tomorrow."
+            ],
+            [
+                108,
+                "Okay."
+            ],
+            [
+                110,
+                "Why?"
+            ],
+            [
+                112,
+                "I wish there were more."
+            ],
+            [
+                114,
+                "What is it?"
+            ],
+            [
+                116,
+                "Where exactly did your mother have you tested?"
+            ],
+            [
+                118,
+                "Okay, I think I understand."
+            ],
+            [
+                120,
+                "The guy who seems like an emotionless robot is you, but your relationship with Amy is causing you to transform into a red-blooded man with sexual desires."
+            ],
+            [
+                124,
+                "What?"
+            ],
+            [
+                126,
+                "I was. Now I\u2019m having a nightmare. What do you want?"
+            ],
+            [
+                187,
+                "Gelatinous Sphere."
+            ],
+            [
+                199,
+                "Why would I be interested? I have Penny."
+            ],
+            [
+                201,
+                "You can\u2019t just replace someone you care about with some other random person."
+            ],
+            [
+                204,
+                "Yes, you walked around for a week saying, Sheldon unhappy with casting choice."
+            ],
+            [
+                206,
+                "What\u2019s your point?"
+            ],
+            [
+                208,
+                "This is ridiculous. Are we gonna play cards or not?"
+            ],
+            [
+                212,
+                "So, I had to take Sheldon to the dentist this morning."
+            ],
+            [
+                214,
+                "Yup. I told him if he didn\u2019t bite the hygienist, I\u2019d take him for ice cream."
+            ],
+            [
+                216,
+                "I didn\u2019t have to take him for ice cream."
+            ],
+            [
+                218,
+                "You okay? You seem a little distracted."
+            ],
+            [
+                220,
+                "Oh. Yeah, okay."
+            ],
+            [
+                222,
+                "Just say it."
+            ],
+            [
+                224,
+                "Mm-hmm."
+            ]
+        ],
+        "Dimitri": [
+            [
+                38,
+                "Hey, Froot Loops, did you clean the space toilet?"
+            ],
+            [
+                41,
+                "If you do good job, next time we give you brush."
+            ]
+        ],
+        "Mike": [
+            [
+                40,
+                "You know the rules, new guy scrubs the toilet."
+            ],
+            [
+                52,
+                "Come on, scrub it up, Loops."
+            ],
+            [
+                54,
+                "You want to see a meteor shower? Take a look at what Dimitri just left you in the toilet."
+            ]
+        ],
+        "Sheldon": [
+            [
+                43,
+                "Okay, my turn. Let me talk to him."
+            ],
+            [
+                45,
+                "2311 North Los Robles Avenue, Pasadena, California to International Space Station. Can you read me? Over. (Makes static noise)"
+            ],
+            [
+                47,
+                "Copy that. Over. (Static noise)"
+            ],
+            [
+                49,
+                "I am talking to a man in space. If you don\u2019t have the (static noise) then he might as well be at the Coffee Bean over on Lake Street."
+            ],
+            [
+                51,
+                "That\u2019s a negative. My mother had me tested. Over. (Static noise)"
+            ],
+            [
+                56,
+                "Over and out. (Static noise)"
+            ],
+            [
+                60,
+                "What are you doing here?"
+            ],
+            [
+                62,
+                "Excuse me. I didn\u2019t authorize this."
+            ],
+            [
+                64,
+                "That\u2019s mighty sassy for a man with a roommate performance review around the corner."
+            ],
+            [
+                66,
+                "The big deal is I was expecting us to be an intimate group of five. Now, we\u2019re going to be a faceless mass of six."
+            ],
+            [
+                68,
+                "Hmm. Do you like Raisinets?"
+            ],
+            [
+                70,
+                "At the movies, Wolowitz always eats Raisinets."
+            ],
+            [
+                72,
+                "Well, it\u2019s hardly my business what you eat, as long as it doesn\u2019t crunch during the film and it\u2019s Raisinets."
+            ],
+            [
+                74,
+                "Yuh-uh, one more question, if you\u2019re going to replace Wolowitz, I need to know a little more about you."
+            ],
+            [
+                76,
+                "Wolowitz went to MIT. What\u2019s your educational background?"
+            ],
+            [
+                78,
+                "Equally ridiculous. Let\u2019s go."
+            ],
+            [
+                80,
+                "This insistence on hand-holding is preposterous."
+            ],
+            [
+                82,
+                "Yeah, of course you do. You\u2019re a girl. You like all kinds of hippy-dippy things."
+            ],
+            [
+                84,
+                "It\u2019s not fair. Penny isn\u2019t making Leonard hold hands."
+            ],
+            [
+                86,
+                "Sweaty? Unhygienic? Looks dumb? Take your pick."
+            ],
+            [
+                88,
+                "Wrong. She just took a sip from his Diet Dr. Pepper."
+            ],
+            [
+                90,
+                "So, if she wants to end her pair-bond with Leonard, why on earth would she guzzle a witches\u2019 brew of his soda and spit?"
+            ],
+            [
+                92,
+                "String theory is complicated. That\u2019s just yucky. Don\u2019t get any ideas. All right, for the sake of argument, let\u2019s say that\u2019s true. Why doesn\u2019t Penny just end the relationship?"
+            ],
+            [
+                94,
+                "How can she not be sure how she feels? You know, when I have a feeling, I know it. Trains? Love them. Swordfish? I love them, too. They\u2019re fish with a sword for a nose."
+            ],
+            [
+                96,
+                "Now you\u2019re asking me to keep a secret from my best friend, colleague, and roommate?"
+            ],
+            [
+                98,
+                "Uh, fine. FYI, secret-keeping? Hate it. Hand-holding? Not a fan. Hammerhead shark? I love that thing. Yeah, it\u2019s another fish with a tool on its head."
+            ],
+            [
+                100,
+                "Shh, we\u2019re trying to watch the movie. This is not working out with him."
+            ],
+            [
+                103,
+                "I think I might have tartar buildup. My tongue won\u2019t go as far forward as it used to."
+            ],
+            [
+                107,
+                "Thank you. I appreciate that. You\u2019re good people, Leonard. There\u2019s something I need to tell you."
+            ],
+            [
+                109,
+                "I can\u2019t tell you."
+            ],
+            [
+                111,
+                "I can\u2019t tell you why I can\u2019t tell you. So I guess there\u2019s two things I can\u2019t tell you."
+            ],
+            [
+                113,
+                "Good night. I\u2019m sorry. This is really important."
+            ],
+            [
+                115,
+                "I like The Transformers. Do you like The Transformers?"
+            ],
+            [
+                117,
+                "Leonard, the Transformers teach us that things are not always what they appear to be. You know, like, uh, a semi truck might be an alien robot, or, uh, someone in a romantic relationship, uh, might feel differently than they appear to. Or a conversation about The Transformers might actually be about someone in this room. I\u2019m going to pause to let that sink in."
+            ],
+            [
+                119,
+                "You do?"
+            ],
+            [
+                121,
+                "That is literally the stupidest thing I\u2019ve ever heard."
+            ],
+            [
+                123,
+                "(Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+            ],
+            [
+                125,
+                "Are you sleeping?"
+            ],
+            [
+                127,
+                "Never mind. I still can\u2019t tell you."
+            ],
+            [
+                129,
+                "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Penny wakes up and screams. Sheldon also screams)"
+            ],
+            [
+                131,
+                "You frightened me."
+            ],
+            [
+                133,
+                "Yeah, well, I knocked on the front door, but you didn\u2019t hear it."
+            ],
+            [
+                135,
+                "Yeah, really? I\u2019ve seen strange men traipsing in and out of here for years, but when I do it, it\u2019s weird?"
+            ],
+            [
+                137,
+                "Oh, I was having a little trouble sleeping and I just thought, uh, seeing as you\u2019re up, we could talk."
+            ],
+            [
+                139,
+                "Oh, I don\u2019t know, uh, weather, uh, fish you could do carpentry with, why Leonard is such an attractive and desirable boyfriend. Yeah, pick one, your choice."
+            ],
+            [
+                141,
+                "Did you know that Leonard has a perfect driving record and enjoys the insurance discounts that go along with that? Hubba-hubba."
+            ],
+            [
+                143,
+                "Yeah. Did you know that while Leonard is not considered a tall fellow in our country, in today\u2019s North Korea, he\u2019s downright average. Hey, talk about a keeper."
+            ],
+            [
+                145,
+                "Oh, very well. I can\u2019t keep up this clever charade any longer. She told me that you were thinking of ending it with Leonard."
+            ],
+            [
+                147,
+                "Excuse me. This is not about protecting my friend. I\u2019m a big fan of homeostasis. Do you know what that is?"
+            ],
+            [
+                149,
+                "Homeostasis refers to a system\u2019s ability to regulate its internal environment and maintain a constant condition of properties like temperature or pH."
+            ],
+            [
+                151,
+                "My point is I don\u2019t like when things change. So, regardless of your feelings, I would like you to continue dating Leonard. And also, while we\u2019re on the subject, you recently changed your shampoo. I\u2019m not comfortable with the new scent. Please stop this madness and go back to green apple."
+            ],
+            [
+                153,
+                "I do. You clear on the shampoo issue?"
+            ],
+            [
+                155,
+                "Penny?"
+            ],
+            [
+                157,
+                "Please don\u2019t hurt my friend."
+            ],
+            [
+                159,
+                "Thank you. Coconut? What were you thinking? Are you a hula girl?"
+            ],
+            [
+                167,
+                "All right then, so we\u2019re all on the same page. Yes."
+            ],
+            [
+                190,
+                "I\u2019m sorry. Wolowitz would never play that card."
+            ],
+            [
+                192,
+                "Fairy God Monster, I win. Your desperate need for friendship makes you weak."
+            ],
+            [
+                198,
+                "Leonard? Maybe you\u2019d like to go with them to meet girls."
+            ],
+            [
+                200,
+                "Yeah, for now. But that woman has a death wish, Leonard. She talks to strangers, she pets unfamiliar dogs, and it is ridiculously easy to break into her apartment. If I were you, I\u2019d get a back-up."
+            ],
+            [
+                203,
+                "Do you remember how upset I was when they replaced Edward Norton as the Hulk?"
+            ],
+            [
+                205,
+                "But, then Mark Ruffalo was the Hulk in The Avengers, and he was even better."
+            ],
+            [
+                207,
+                "Call me a romantic. I like to think that your Mark Ruffalo is still out there somewhere."
+            ],
+            [
+                210,
+                "Yeah, settle down there, fake Wolowitz. No one likes a kiss-up."
+            ]
+        ],
+        "Raj": [
+            [
+                57,
+                "Bye, buddy!"
+            ],
+            [
+                59,
+                "Hey, Stuart, come on in."
+            ],
+            [
+                65,
+                "What\u2019s the big deal? You guys are bringing your girlfriends. I didn\u2019t want to sit by myself."
+            ],
+            [
+                188,
+                "Focused Locust."
+            ],
+            [
+                193,
+                "So, what are you guys doing later? Stuart and I were thinking of going out for a drink."
+            ],
+            [
+                195,
+                "\u2018Cause that\u2019s what we do."
+            ],
+            [
+                197,
+                "In case you didn\u2019t follow that, I\u2019m the coffee."
+            ]
+        ],
+        "Stuart (knocking and entering)": [
+            [
+                58,
+                "Hello."
+            ]
+        ],
+        "Stuart": [
+            [
+                61,
+                "Um, Raj invited me to go to the movies with you guys."
+            ],
+            [
+                69,
+                "I can take them or leave them."
+            ],
+            [
+                71,
+                "Would you feel more comfortable if I ate Raisinets?"
+            ],
+            [
+                73,
+                "Okay. Should we go?"
+            ],
+            [
+                75,
+                "All right."
+            ],
+            [
+                77,
+                "I went to art school."
+            ],
+            [
+                99,
+                "Raisinet?"
+            ],
+            [
+                189,
+                "Temple of Yip."
+            ],
+            [
+                191,
+                "All right, Lesser Demon Turtle."
+            ],
+            [
+                194,
+                "We\u2019re gonna try to meet some girls."
+            ],
+            [
+                196,
+                "Watch out, ladies, a little coffee and cream coming your way."
+            ],
+            [
+                202,
+                "No, please don\u2019t ruin this for me."
+            ],
+            [
+                209,
+                "I like Mark Ruffalo, too."
+            ]
+        ],
+        "Sheldon (measures)": [
+            [
+                105,
+                "Nope. Oh, you have no idea how annoying this is."
+            ]
+        ],
+        "Sheldon: Yeah, just a heads-up": [
+            [
+                165,
+                "Penny knows that you blabbed about Leonard. She\u2019s pretty mad."
+            ]
+        ],
+        "Penny (phone text tone)": [
+            [
+                234,
+                "It\u2019s from Leonard. Last night was amazing. You\u2019re amazing. I\u2019m so lucky to have you in my life. (They give him a hangdog look) Okay, stop it."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Bernadette\u2019s apartment."
+        ],
+        [
+            "Bernadette",
+            "And the next wedding gift is a gravy boat."
+        ],
+        [
+            "Penny",
+            "Ooh, one gravy boat."
+        ],
+        [
+            "Amy",
+            "That\u2019s from Sheldon. He told me he had it engraved."
+        ],
+        [
+            "Bernadette",
+            "In the event of a divorce, please return to Sheldon Cooper."
+        ],
+        [
+            "Penny",
+            "One inappropriate, yet I wish I thought of that gravy boat."
+        ],
+        [
+            "Amy",
+            "When I get married I\u2019m going to register at the UCLA Cadaver Lab."
+        ],
+        [
+            "Penny",
+            "Ew, why?"
+        ],
+        [
+            "Amy",
+            "\u2018Cause I\u2019ve always wanted a whole human skeleton and they are really spendy."
+        ],
+        [
+            "Bernadette",
+            "So, you actually see you and Sheldon getting married someday?"
+        ],
+        [
+            "Amy",
+            "Not just someday. In exactly four years. But don\u2019t tell Sheldon. He\u2019s still a flight risk."
+        ],
+        [
+            "Bernadette",
+            "What about you, Penny?"
+        ],
+        [
+            "Penny",
+            "What about me what?"
+        ],
+        [
+            "Bernadette",
+            "Do you think you and Leonard might ever get married?"
+        ],
+        [
+            "Penny",
+            "Oh, well, you know, Leonard is great."
+        ],
+        [
+            "Bernadette",
+            "But do you think you\u2019ll ever get married?"
+        ],
+        [
+            "Penny",
+            "He\u2019s a sweetie."
+        ],
+        [
+            "Amy",
+            "You\u2019re not answering the question. Do you love him?"
+        ],
+        [
+            "Penny",
+            "Yeah, sure, of course I love him."
+        ],
+        [
+            "Bernadette",
+            "It doesn\u2019t sound like it."
+        ],
+        [
+            "Penny",
+            "Well, I do."
+        ],
+        [
+            "Bernadette",
+            "Do you tell him that?"
+        ],
+        [
+            "Penny",
+            "No, he\u2019d just take it the wrong way."
+        ],
+        [
+            "Amy",
+            "What does that mean?"
+        ],
+        [
+            "Penny",
+            "It means he is special and smart and nice and\u2026"
+        ],
+        [
+            "Bernadette",
+            "Are you gonna break up with him?"
+        ],
+        [
+            "Penny",
+            "No. Maybe. I don\u2019t know."
+        ],
+        [
+            "Bernadette",
+            "I had no idea you were unhappy."
+        ],
+        [
+            "Penny",
+            "That\u2019s the thing, I\u2019m not. I\u2019m not unhappy at all. It\u2019s just, I don\u2019t know, I, I\u2019ve been in love before, but it felt different. But maybe this is a new, better, boring kind of love. Do you ever feel that way about Howard?"
+        ],
+        [
+            "Bernadette",
+            "Oh, that\u2019s not really a fair comparison. I\u2019m basically married to a sexy Buzz Lightyear."
+        ],
+        [
+            "Penny",
+            "Amy, you?"
+        ],
+        [
+            "Amy",
+            "Can\u2019t help ya, kid. Whenever I\u2019m around Sheldon, I feel like my loins are on fire. In the good way. Not the urinary tract infection way."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Cutting between the International Space Station and the apartment (the guys are on webcam)."
+        ],
+        [
+            "Raj (voice off)",
+            "Hey, buddy, how\u2019s it going up there?"
+        ],
+        [
+            "Howard",
+            "You don\u2019t have to shout, Raj. It\u2019s not like I\u2019m an astronaut floating around in outer space. Oh, wait, I am."
+        ],
+        [
+            "Leonard",
+            "So, is it everything you hoped it would be?"
+        ],
+        [
+            "Howard",
+            "It\u2019s better. I wake up every morning and I just can\u2019t believe I\u2019m on this incredible adventure."
+        ],
+        [
+            "Dimitri",
+            "Hey, Froot Loops, did you clean the space toilet?"
+        ],
+        [
+            "Howard",
+            "Excuse me. I\u2019m talking to my friends."
+        ],
+        [
+            "Mike",
+            "You know the rules, new guy scrubs the toilet."
+        ],
+        [
+            "Dimitri",
+            "If you do good job, next time we give you brush."
+        ],
+        [
+            "Howard",
+            "Funny. We\u2019re always giving each other a hard time up here. It\u2019s kind of like being in a frat. You know, joking, kidding around, hurting feelings."
+        ],
+        [
+            "Sheldon",
+            "Okay, my turn. Let me talk to him."
+        ],
+        [
+            "Leonard",
+            "Go ahead."
+        ],
+        [
+            "Sheldon",
+            "2311 North Los Robles Avenue, Pasadena, California to International Space Station. Can you read me? Over. (Makes static noise)"
+        ],
+        [
+            "Howard",
+            "Yes, I read you, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Copy that. Over. (Static noise)"
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "I am talking to a man in space. If you don\u2019t have the (static noise) then he might as well be at the Coffee Bean over on Lake Street."
+        ],
+        [
+            "Howard",
+            "You\u2019re out of your mind,Sheldon."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a negative. My mother had me tested. Over. (Static noise)"
+        ],
+        [
+            "Mike",
+            "Come on, scrub it up, Loops."
+        ],
+        [
+            "Howard",
+            "All right, all right. I gotta go. There\u2019s a meteor shower."
+        ],
+        [
+            "Mike",
+            "You want to see a meteor shower? Take a look at what Dimitri just left you in the toilet."
+        ],
+        [
+            "Howard",
+            "Bye."
+        ],
+        [
+            "Sheldon",
+            "Over and out. (Static noise)"
+        ],
+        [
+            "Raj",
+            "Bye, buddy!"
+        ],
+        [
+            "Stuart (knocking and entering)",
+            "Hello."
+        ],
+        [
+            "Raj",
+            "Hey, Stuart, come on in."
+        ],
+        [
+            "Sheldon",
+            "What are you doing here?"
+        ],
+        [
+            "Stuart",
+            "Um, Raj invited me to go to the movies with you guys."
+        ],
+        [
+            "Sheldon",
+            "Excuse me. I didn\u2019t authorize this."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you are not in charge."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s mighty sassy for a man with a roommate performance review around the corner."
+        ],
+        [
+            "Raj",
+            "What\u2019s the big deal? You guys are bringing your girlfriends. I didn\u2019t want to sit by myself."
+        ],
+        [
+            "Sheldon",
+            "The big deal is I was expecting us to be an intimate group of five. Now, we\u2019re going to be a faceless mass of six."
+        ],
+        [
+            "Leonard",
+            "It\u2019ll be fine. Just, uh, pretend he\u2019s Wolowitz."
+        ],
+        [
+            "Sheldon",
+            "Hmm. Do you like Raisinets?"
+        ],
+        [
+            "Stuart",
+            "I can take them or leave them."
+        ],
+        [
+            "Sheldon",
+            "At the movies, Wolowitz always eats Raisinets."
+        ],
+        [
+            "Stuart",
+            "Would you feel more comfortable if I ate Raisinets?"
+        ],
+        [
+            "Sheldon",
+            "Well, it\u2019s hardly my business what you eat, as long as it doesn\u2019t crunch during the film and it\u2019s Raisinets."
+        ],
+        [
+            "Stuart",
+            "Okay. Should we go?"
+        ],
+        [
+            "Sheldon",
+            "Yuh-uh, one more question, if you\u2019re going to replace Wolowitz, I need to know a little more about you."
+        ],
+        [
+            "Stuart",
+            "All right."
+        ],
+        [
+            "Sheldon",
+            "Wolowitz went to MIT. What\u2019s your educational background?"
+        ],
+        [
+            "Stuart",
+            "I went to art school."
+        ],
+        [
+            "Sheldon",
+            "Equally ridiculous. Let\u2019s go."
+        ],
+        [
+            "Scene",
+            "The cinema."
+        ],
+        [
+            "Sheldon",
+            "This insistence on hand-holding is preposterous."
+        ],
+        [
+            "Amy",
+            "Well, I like it."
+        ],
+        [
+            "Sheldon",
+            "Yeah, of course you do. You\u2019re a girl. You like all kinds of hippy-dippy things."
+        ],
+        [
+            "Amy",
+            "Just watch the movie."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not fair. Penny isn\u2019t making Leonard hold hands."
+        ],
+        [
+            "Amy",
+            "There might be a reason for that."
+        ],
+        [
+            "Sheldon",
+            "Sweaty? Unhygienic? Looks dumb? Take your pick."
+        ],
+        [
+            "Amy",
+            "Penny said she\u2019s not sure she wants to be Leonard\u2019s girlfriend anymore."
+        ],
+        [
+            "Sheldon",
+            "Wrong. She just took a sip from his Diet Dr. Pepper."
+        ],
+        [
+            "Amy",
+            "So?"
+        ],
+        [
+            "Sheldon",
+            "So, if she wants to end her pair-bond with Leonard, why on earth would she guzzle a witches\u2019 brew of his soda and spit?"
+        ],
+        [
+            "Amy",
+            "It\u2019s complicated."
+        ],
+        [
+            "Sheldon",
+            "String theory is complicated. That\u2019s just yucky. Don\u2019t get any ideas. All right, for the sake of argument, let\u2019s say that\u2019s true. Why doesn\u2019t Penny just end the relationship?"
+        ],
+        [
+            "Amy",
+            "She\u2019s not sure how she feels."
+        ],
+        [
+            "Sheldon",
+            "How can she not be sure how she feels? You know, when I have a feeling, I know it. Trains? Love them. Swordfish? I love them, too. They\u2019re fish with a sword for a nose."
+        ],
+        [
+            "Amy",
+            "Regardless, don\u2019t say anything to Leonard."
+        ],
+        [
+            "Sheldon",
+            "Now you\u2019re asking me to keep a secret from my best friend, colleague, and roommate?"
+        ],
+        [
+            "Amy",
+            "Yes, please, Penny will kill me."
+        ],
+        [
+            "Sheldon",
+            "Uh, fine. FYI, secret-keeping? Hate it. Hand-holding? Not a fan. Hammerhead shark? I love that thing. Yeah, it\u2019s another fish with a tool on its head."
+        ],
+        [
+            "Stuart",
+            "Raisinet?"
+        ],
+        [
+            "Sheldon",
+            "Shh, we\u2019re trying to watch the movie. This is not working out with him."
+        ],
+        [
+            "Scene",
+            "The apartment. Sheldon is making a sucking noise with his teeth."
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Sheldon",
+            "I think I might have tartar buildup. My tongue won\u2019t go as far forward as it used to."
+        ],
+        [
+            "Leonard",
+            "Maybe your tongue is shrinking."
+        ],
+        [
+            "Sheldon (measures)",
+            "Nope. Oh, you have no idea how annoying this is."
+        ],
+        [
+            "Leonard",
+            "I\u2019m starting to get a sense of it. Don\u2019t worry. I\u2019ll take you to the dentist tomorrow."
+        ],
+        [
+            "Sheldon",
+            "Thank you. I appreciate that. You\u2019re good people, Leonard. There\u2019s something I need to tell you."
+        ],
+        [
+            "Leonard",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t tell you."
+        ],
+        [
+            "Leonard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t tell you why I can\u2019t tell you. So I guess there\u2019s two things I can\u2019t tell you."
+        ],
+        [
+            "Leonard",
+            "I wish there were more."
+        ],
+        [
+            "Sheldon",
+            "Good night. I\u2019m sorry. This is really important."
+        ],
+        [
+            "Leonard",
+            "What is it?"
+        ],
+        [
+            "Sheldon",
+            "I like The Transformers. Do you like The Transformers?"
+        ],
+        [
+            "Leonard",
+            "Where exactly did your mother have you tested?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, the Transformers teach us that things are not always what they appear to be. You know, like, uh, a semi truck might be an alien robot, or, uh, someone in a romantic relationship, uh, might feel differently than they appear to. Or a conversation about The Transformers might actually be about someone in this room. I\u2019m going to pause to let that sink in."
+        ],
+        [
+            "Leonard",
+            "Okay, I think I understand."
+        ],
+        [
+            "Sheldon",
+            "You do?"
+        ],
+        [
+            "Leonard",
+            "The guy who seems like an emotionless robot is you, but your relationship with Amy is causing you to transform into a red-blooded man with sexual desires."
+        ],
+        [
+            "Sheldon",
+            "That is literally the stupidest thing I\u2019ve ever heard."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s room."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Are you sleeping?"
+        ],
+        [
+            "Leonard",
+            "I was. Now I\u2019m having a nightmare. What do you want?"
+        ],
+        [
+            "Sheldon",
+            "Never mind. I still can\u2019t tell you."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s bedroom. Sheldon is standing over Penny\u2019s bed, knocking on the wall."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Penny wakes up and screams. Sheldon also screams)"
+        ],
+        [
+            "Penny",
+            "Oh, my God. Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "You frightened me."
+        ],
+        [
+            "Penny",
+            "What are you doing in my bedroom?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, well, I knocked on the front door, but you didn\u2019t hear it."
+        ],
+        [
+            "Penny",
+            "How did you even get in, you weirdo?"
+        ],
+        [
+            "Sheldon",
+            "Yeah, really? I\u2019ve seen strange men traipsing in and out of here for years, but when I do it, it\u2019s weird?"
+        ],
+        [
+            "Penny",
+            "What do you want, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I was having a little trouble sleeping and I just thought, uh, seeing as you\u2019re up, we could talk."
+        ],
+        [
+            "Penny",
+            "Talk about what?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I don\u2019t know, uh, weather, uh, fish you could do carpentry with, why Leonard is such an attractive and desirable boyfriend. Yeah, pick one, your choice."
+        ],
+        [
+            "Penny",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Did you know that Leonard has a perfect driving record and enjoys the insurance discounts that go along with that? Hubba-hubba."
+        ],
+        [
+            "Penny",
+            "Okay, go home, crazy man."
+        ],
+        [
+            "Sheldon",
+            "Yeah. Did you know that while Leonard is not considered a tall fellow in our country, in today\u2019s North Korea, he\u2019s downright average. Hey, talk about a keeper."
+        ],
+        [
+            "Penny",
+            "Okay, what did Amy tell you?"
+        ],
+        [
+            "Sheldon",
+            "Oh, very well. I can\u2019t keep up this clever charade any longer. She told me that you were thinking of ending it with Leonard."
+        ],
+        [
+            "Penny",
+            "Okay, you listen to me. I think it\u2019s really sweet you\u2019re trying to protect your friend, but this is none of your business. Got it?"
+        ],
+        [
+            "Sheldon",
+            "Excuse me. This is not about protecting my friend. I\u2019m a big fan of homeostasis. Do you know what that is?"
+        ],
+        [
+            "Penny",
+            "Of course not."
+        ],
+        [
+            "Sheldon",
+            "Homeostasis refers to a system\u2019s ability to regulate its internal environment and maintain a constant condition of properties like temperature or pH."
+        ],
+        [
+            "Penny",
+            "Worst bedtime story ever."
+        ],
+        [
+            "Sheldon",
+            "My point is I don\u2019t like when things change. So, regardless of your feelings, I would like you to continue dating Leonard. And also, while we\u2019re on the subject, you recently changed your shampoo. I\u2019m not comfortable with the new scent. Please stop this madness and go back to green apple."
+        ],
+        [
+            "Penny",
+            "Okay, honey, I have a lot to figure out, and until I do, you are not to say a word to Leonard. Do you understand?"
+        ],
+        [
+            "Sheldon",
+            "I do. You clear on the shampoo issue?"
+        ],
+        [
+            "Penny",
+            "Get out."
+        ],
+        [
+            "Sheldon",
+            "Penny?"
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Please don\u2019t hurt my friend."
+        ],
+        [
+            "Penny",
+            "That is the last thing I want to do."
+        ],
+        [
+            "Sheldon",
+            "Thank you. Coconut? What were you thinking? Are you a hula girl?"
+        ],
+        [
+            "Penny",
+            "Get out."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s bedroom. Phone rings."
+        ],
+        [
+            "Amy",
+            "Hello?"
+        ],
+        [
+            "Penny",
+            "What the hell is wrong with you? You told Sheldon? Do you know what a terrible position this puts me in? (Phone beeps)"
+        ],
+        [
+            "Amy",
+            "Hang on, please. Hello?"
+        ],
+        [
+            "Sheldon: Yeah, just a heads-up",
+            "Penny knows that you blabbed about Leonard. She\u2019s pretty mad."
+        ],
+        [
+            "Amy",
+            "I know. She\u2019s yelling at me right now."
+        ],
+        [
+            "Sheldon",
+            "All right then, so we\u2019re all on the same page. Yes."
+        ],
+        [
+            "Scene",
+            "Cutting between the International Space Station and the Bernadette\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Hey, Bernie."
+        ],
+        [
+            "Bernadette",
+            "There\u2019s my hubby. How\u2019s everything going up there?"
+        ],
+        [
+            "Howard",
+            "Oh, it\u2019s okay. Space is beautiful. Earth is beautiful. Same old, same old."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s wrong?"
+        ],
+        [
+            "Howard",
+            "Nothing. Everything\u2019s fine."
+        ],
+        [
+            "Bernadette",
+            "Howard."
+        ],
+        [
+            "Howard",
+            "The other astronauts are being mean to me."
+        ],
+        [
+            "Bernadette",
+            "No, what are they doing?"
+        ],
+        [
+            "Howard",
+            "Well, like for instance, the other day when I was asleep, one of the guys went on a space walk and glued a big-eyed rubber alien mask to the outside of my window. When I woke up, I screamed for like nine minutes."
+        ],
+        [
+            "Bernadette",
+            "Oh, Howie."
+        ],
+        [
+            "Howard",
+            "You can see it if you want. It\u2019s on YouTube. Google astronaut screams for nine minutes."
+        ],
+        [
+            "Bernadette",
+            "Why don\u2019t you stand up to them?"
+        ],
+        [
+            "Howard",
+            "What am I supposed to say?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know. Say, being mean is lame, what\u2019s cool is being nice."
+        ],
+        [
+            "Howard",
+            "Great, I\u2019ll do that when I want to be the first guy in space to get a wedgie."
+        ],
+        [
+            "Bernadette",
+            "Do you want me to call somebody at NASA?"
+        ],
+        [
+            "Howard",
+            "No. My mom already tried that. It only made things worse."
+        ],
+        [
+            "Scene",
+            "The apartment. The guys are playing a card game."
+        ],
+        [
+            "Leonard",
+            "Gelatinous Sphere."
+        ],
+        [
+            "Raj",
+            "Focused Locust."
+        ],
+        [
+            "Stuart",
+            "Temple of Yip."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. Wolowitz would never play that card."
+        ],
+        [
+            "Stuart",
+            "All right, Lesser Demon Turtle."
+        ],
+        [
+            "Sheldon",
+            "Fairy God Monster, I win. Your desperate need for friendship makes you weak."
+        ],
+        [
+            "Raj",
+            "So, what are you guys doing later? Stuart and I were thinking of going out for a drink."
+        ],
+        [
+            "Stuart",
+            "We\u2019re gonna try to meet some girls."
+        ],
+        [
+            "Raj",
+            "\u2018Cause that\u2019s what we do."
+        ],
+        [
+            "Stuart",
+            "Watch out, ladies, a little coffee and cream coming your way."
+        ],
+        [
+            "Raj",
+            "In case you didn\u2019t follow that, I\u2019m the coffee."
+        ],
+        [
+            "Sheldon",
+            "Leonard? Maybe you\u2019d like to go with them to meet girls."
+        ],
+        [
+            "Leonard",
+            "Why would I be interested? I have Penny."
+        ],
+        [
+            "Sheldon",
+            "Yeah, for now. But that woman has a death wish, Leonard. She talks to strangers, she pets unfamiliar dogs, and it is ridiculously easy to break into her apartment. If I were you, I\u2019d get a back-up."
+        ],
+        [
+            "Leonard",
+            "You can\u2019t just replace someone you care about with some other random person."
+        ],
+        [
+            "Stuart",
+            "No, please don\u2019t ruin this for me."
+        ],
+        [
+            "Sheldon",
+            "Do you remember how upset I was when they replaced Edward Norton as the Hulk?"
+        ],
+        [
+            "Leonard",
+            "Yes, you walked around for a week saying, Sheldon unhappy with casting choice."
+        ],
+        [
+            "Sheldon",
+            "But, then Mark Ruffalo was the Hulk in The Avengers, and he was even better."
+        ],
+        [
+            "Leonard",
+            "What\u2019s your point?"
+        ],
+        [
+            "Sheldon",
+            "Call me a romantic. I like to think that your Mark Ruffalo is still out there somewhere."
+        ],
+        [
+            "Leonard",
+            "This is ridiculous. Are we gonna play cards or not?"
+        ],
+        [
+            "Stuart",
+            "I like Mark Ruffalo, too."
+        ],
+        [
+            "Sheldon",
+            "Yeah, settle down there, fake Wolowitz. No one likes a kiss-up."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Leonard",
+            "So, I had to take Sheldon to the dentist this morning."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Leonard",
+            "Yup. I told him if he didn\u2019t bite the hygienist, I\u2019d take him for ice cream."
+        ],
+        [
+            "Penny",
+            "Mmm."
+        ],
+        [
+            "Leonard",
+            "I didn\u2019t have to take him for ice cream."
+        ],
+        [
+            "Penny",
+            "Uh-huh."
+        ],
+        [
+            "Leonard",
+            "You okay? You seem a little distracted."
+        ],
+        [
+            "Penny",
+            "Look, there\u2019s something I need to tell you."
+        ],
+        [
+            "Leonard",
+            "Oh. Yeah, okay."
+        ],
+        [
+            "Penny",
+            "I don\u2019t really know how to say this."
+        ],
+        [
+            "Leonard",
+            "Just say it."
+        ],
+        [
+            "Penny",
+            "Okay. Here goes."
+        ],
+        [
+            "Leonard",
+            "Mm-hmm."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "You slept with him?"
+        ],
+        [
+            "Penny",
+            "I didn\u2019t know what else to do. He had those big, sad eyes."
+        ],
+        [
+            "Bernadette",
+            "Oh, sure, you had no choice."
+        ],
+        [
+            "Penny",
+            "He looked at me like this."
+        ],
+        [
+            "Amy",
+            "Well, if that\u2019s all it takes, it\u2019s a good thing you don\u2019t have a dog."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t worry. You\u2019ll have plenty of chances to break up with him. Your wedding day, your honeymoon, your 50th anniversary."
+        ],
+        [
+            "Penny",
+            "Look, it\u2019s fine. We\u2019re not getting married, okay? We\u2019re keeping things, you know, homeostasis."
+        ],
+        [
+            "Amy",
+            "It\u2019s so cute when she tries."
+        ],
+        [
+            "Penny (phone text tone)",
+            "It\u2019s from Leonard. Last night was amazing. You\u2019re amazing. I\u2019m so lucky to have you in my life. (They give him a hangdog look) Okay, stop it."
+        ],
+        [
+            "Scene",
+            "Cutting between the International Space Station and the Bernadette\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Hey, Bernie, guess what? I stood up to the other astronauts like you said and I got to tell you, last night was the first time in a week I got a good night\u2019s sleep. (On screen, Howard has a mouse face drawn on his face, and the words F.LOOPS on his forehead.)"
+        ],
+        [
+            "Bernadette",
+            "Oh, Howie."
+        ],
+        [
+            "Howard",
+            "What\u2019s wrong? You look upset."
+        ],
+        [
+            "Bernadette",
+            "Nope, this is my proud face."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-02-the-decoupling-fluctuation/"
+}

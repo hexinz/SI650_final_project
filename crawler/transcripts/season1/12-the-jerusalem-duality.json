@@ -1,0 +1,2006 @@
+{
+    "Season": 1,
+    "Episode": 12,
+    "Title": "the jerusalem duality",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The University cafeteria. "
+            ],
+            [
+                28,
+                "Credits sequence"
+            ],
+            [
+                29,
+                "A corridor."
+            ],
+            [
+                61,
+                "The living room of the apartment."
+            ],
+            [
+                83,
+                "The same, later that night"
+            ],
+            [
+                105,
+                "Howard\u2019s lab."
+            ],
+            [
+                128,
+                "Raj is exiting his office."
+            ],
+            [
+                131,
+                "The apartment."
+            ],
+            [
+                154,
+                "Outside Penny\u2019s apartment. "
+            ],
+            [
+                160,
+                "Sheldon\u2019s office. He is making measurements on maps. There is a knock on the door. "
+            ],
+            [
+                175,
+                "The welcoming party"
+            ],
+            [
+                236,
+                "The park. The four guys are carrying remote control rockets."
+            ]
+        ],
+        "Sheldon": [
+            [
+                1,
+                "Here\u2019s the problem with teleportation."
+            ],
+            [
+                3,
+                "Assuming the device could be invented which would identify the quantum state of matter of an individual in one location, and transmit that pattern to a distant location for reassembly, you would not have actually transported the individual. You would have destroyed him in one location, and recreated him in another."
+            ],
+            [
+                5,
+                "Personally, I would never use a transporter. Because the original Sheldon would have to be disintegrated in order to create a new Sheldon."
+            ],
+            [
+                7,
+                "No, he would be exactly the same. "
+            ],
+            [
+                9,
+                "So, you see it too."
+            ],
+            [
+                15,
+                "Not bad, I myself started graduate school at fourteen."
+            ],
+            [
+                20,
+                "Excuse me, that is my research, and it is by no means a dead end."
+            ],
+            [
+                24,
+                "You can count on us, we\u2019re on it. What the hell do you mean, dead end. "
+            ],
+            [
+                26,
+                "I sense a disturbance in the force. "
+            ],
+            [
+                36,
+                "He\u2019s not wrong. Alright, and this is my office."
+            ],
+            [
+                38,
+                "Nope. Goodbye. "
+            ],
+            [
+                40,
+                "Oh, alright, this is my desk, these are my books, this is my door, please close it behind you. Goodbye. "
+            ],
+            [
+                42,
+                "Keen observation, goodbye. "
+            ],
+            [
+                44,
+                "Leonard."
+            ],
+            [
+                46,
+                "Get him out. "
+            ],
+            [
+                51,
+                "You think I haven\u2019t considered it? You really think I haven\u2019t considered it? "
+            ],
+            [
+                53,
+                "Get him out Leonard."
+            ],
+            [
+                56,
+                "Yes, in fact I am the youngest person ever to win it. "
+            ],
+            [
+                58,
+                "Fourteen and a half."
+            ],
+            [
+                67,
+                "Fifteen years old. Dennis Kim is fifteen years old, and he\u2019s already correcting my work. Today I went from being Wolfgang Amadeus Mozart to\u2026 you know, that other guy."
+            ],
+            [
+                69,
+                "Oh, God, now even you\u2019re smarter than me."
+            ],
+            [
+                72,
+                "Why waste food. In Texas when a cow goes dry they don\u2019t keep feeding it, they just take her out and shoot her between the eyes. "
+            ],
+            [
+                75,
+                "Yes, but I assumed I would have been dead hundreds of years, and that there would be an asterisk by his name because he would be a cyborg. "
+            ],
+            [
+                77,
+                "Well of course you don\u2019t, you\u2019ve never excelled at anything. "
+            ],
+            [
+                81,
+                "Yes. That\u2019s what a rational person does when his entire life\u2019s work is invalidated by a post-pubescent Asian wunderkind. He ceases his fruitless efforts, he donates his body to scientific research, and he waits to die. "
+            ],
+            [
+                84,
+                "Hey."
+            ],
+            [
+                86,
+                "I\u2019ve decided you\u2019re right. My career is not over. "
+            ],
+            [
+                88,
+                "But, since the arrival of Dennis Kim has rendered my research pointless, I just have to find something else to focus on."
+            ],
+            [
+                90,
+                "So I\u2019ve decided, I\u2019m going to collaborate with you."
+            ],
+            [
+                92,
+                "What exactly is it you do? I know you chatter on about it all the time, but I\u2019ve never really paid attention."
+            ],
+            [
+                94,
+                "Oh, sure you do. Now, see, what\u2019s this here in the schematic, is that a laser array?"
+            ],
+            [
+                96,
+                "No. Hmmm. What happens if you use argon lasers instead of helium neon?"
+            ],
+            [
+                98,
+                "Are you sure? "
+            ],
+            [
+                100,
+                "Pretty sure\u2019s not very scientific, is this how you normally work, just hunches and guesses and stuff?"
+            ],
+            [
+                102,
+                "Alright."
+            ],
+            [
+                104,
+                "If you\u2019re concerned about sharing credit with me, you\u2019re name can go first\u2026 I\u2019m going. "
+            ],
+            [
+                109,
+                "Engineering. Where the noble semi-skilled labourers execute the vision of those who think and dream. Hello, oompah-loompahs of science."
+            ],
+            [
+                111,
+                "I just came by to say hello."
+            ],
+            [
+                113,
+                "Well, up until now I\u2019ve had better things to do. So, what are we making today? "
+            ],
+            [
+                115,
+                "Really, how does it work?"
+            ],
+            [
+                117,
+                "Uh, huh. So it\u2019s a shelf? "
+            ],
+            [
+                119,
+                "Now, I notice you\u2019re using titanium, did you give any consideration to carbon nanotubes, they\u2019re lighter, cheaper and half twice the tensile strength."
+            ],
+            [
+                121,
+                "And you also have a note from your mother that says I love you, bubbula. But neither of those is a cogent argument for titanium over nanotubes. "
+            ],
+            [
+                123,
+                "Yes."
+            ],
+            [
+                125,
+                "Did Leonard tell you to say that? "
+            ],
+            [
+                127,
+                "Huh. It can\u2019t be a coincidence. There must be some causal link I\u2019m missing."
+            ],
+            [
+                130,
+                "Curiouser and curiouser. "
+            ],
+            [
+                162,
+                "No, no, please, come in. Yeah, I think you\u2019ll appreciate this, very exciting."
+            ],
+            [
+                164,
+                "Something remarkable. Since my prospects for the Nobel Prize in physics have disappeared, thank you very much, I\u2019ve decided to refocus my efforts and use my people skills to win the Nobel Peace Prize. Look, I\u2019m going to solve the Middle-East Crisis by building an exact replica of Jerusalem in the middle of the Mexican desert. "
+            ],
+            [
+                166,
+                "You know, it\u2019s like the baseball movie, build it and they will come. "
+            ],
+            [
+                168,
+                "The Jewish people."
+            ],
+            [
+                170,
+                "We\u2019ll make it nice, put out a spread. "
+            ],
+            [
+                172,
+                "Of course he has, the oracle told us little Neo was the one. You can see the Matrix, can\u2019t you."
+            ],
+            [
+                176,
+                "I really don\u2019t understand your objections, Professor Goldfarb, why wouldn\u2019t the Senoran Desert make a perfectly good promised land?"
+            ],
+            [
+                178,
+                "We could call it Nuevo Cherusalem. "
+            ],
+            [
+                180,
+                "Said Pharoah to Moses. "
+            ],
+            [
+                197,
+                "Hey, Howard. You\u2019re a Jew. If there was another wailing wall, exactly like the one in Jerusalem, but close to taco stands and cheap prescription drugs, would you still be able to wail at it? Okay, it\u2019s definitely me. "
+            ],
+            [
+                219,
+                "Youngest till the cyborgs rise up! "
+            ],
+            [
+                243,
+                "Screw him, he was weak. "
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Lay it on me. "
+            ],
+            [
+                4,
+                "How about that. "
+            ],
+            [
+                6,
+                "Would the new Sheldon be in any way an improvement on the old Sheldon? "
+            ],
+            [
+                8,
+                "That is a problem. "
+            ],
+            [
+                13,
+                "Graduate work, very impressive."
+            ],
+            [
+                17,
+                "Advantage Kim. "
+            ],
+            [
+                23,
+                "Yes sir. "
+            ],
+            [
+                30,
+                "So, Dennis, how long have you been in America."
+            ],
+            [
+                32,
+                "No kidding, you speak English really well."
+            ],
+            [
+                34,
+                "What are you talking about? "
+            ],
+            [
+                39,
+                "Come on, Sheldon, we\u2019ve hardly shown him anything."
+            ],
+            [
+                45,
+                "Huh, yeah? "
+            ],
+            [
+                47,
+                "Come on, Dennis, I\u2019ll show you the rec centre, they\u2019ve got nautilus equipment."
+            ],
+            [
+                49,
+                "Not heavy ones. "
+            ],
+            [
+                54,
+                "Come on, Dennis, I\u2019ll show you the radiation lab."
+            ],
+            [
+                60,
+                "It\u2019s like looking into an obnoxious little mirror, isn\u2019t it? "
+            ],
+            [
+                66,
+                "Something you\u2019d like to share? A tale of woe perhaps."
+            ],
+            [
+                71,
+                "Just eat, Sheldon, you\u2019ll feel better. "
+            ],
+            [
+                74,
+                "You can\u2019t let this kid get to you. You always knew that someday someone would come along who was younger and smarter."
+            ],
+            [
+                80,
+                "Well, what are you going to do, Sheldon, give up?"
+            ],
+            [
+                85,
+                "Hey."
+            ],
+            [
+                87,
+                "Great."
+            ],
+            [
+                89,
+                "Great."
+            ],
+            [
+                91,
+                "Great. "
+            ],
+            [
+                93,
+                "Okay, well, right now I\u2019m designing an experiment to study the soft component of cosmic radiation at sea-level, but I really don\u2019t need any help. "
+            ],
+            [
+                95,
+                "Yes."
+            ],
+            [
+                97,
+                "It would blow up."
+            ],
+            [
+                99,
+                "Pretty sure."
+            ],
+            [
+                101,
+                "Okay, Sheldon, I understand that you\u2019re going through a bit of a career crisis, you\u2019re searching for some other area where you can feel valuable and productive but I need to tell you something and I want you to listen carefully. "
+            ],
+            [
+                103,
+                "Go away."
+            ],
+            [
+                133,
+                "If he were, I wouldn\u2019t be. "
+            ],
+            [
+                135,
+                "Is that even possible?"
+            ],
+            [
+                138,
+                "Like what? He\u2019ll never be able to cope with the fact that some fifteen year-old kid is smarter and more accomplished than he is. "
+            ],
+            [
+                141,
+                "Hang on, are we talking about murdering Dennis Kim? I\u2019m not saying no. "
+            ],
+            [
+                145,
+                "That won\u2019t happen, he\u2019s not interested in anything but physics."
+            ],
+            [
+                147,
+                "What?"
+            ],
+            [
+                149,
+                "Howard, he\u2019s fifteen."
+            ],
+            [
+                158,
+                "Howard, that\u2019s racist, any fifteen year-old girl will do the trick. (Penny slams door.)"
+            ],
+            [
+                182,
+                "It\u2019s take your daughter to work day. "
+            ],
+            [
+                189,
+                "Okay, so we now have a socially awkward genius in a room full of attractive age-appropriate women. "
+            ],
+            [
+                191,
+                "Does anyone else see the flaw in this plan?"
+            ],
+            [
+                193,
+                "Like what? We can\u2019t get fifteen year-old girls drunk. \u00a0"
+            ],
+            [
+                195,
+                "No, we can\u2019t. "
+            ],
+            [
+                198,
+                "Okay, we cannot leave this to chance, lets pick a girl, and figure out how to get her together with Dennis. "
+            ],
+            [
+                204,
+                "Sure. If he wants to spend a couple of years doing her homework while she drinks herself into a stupor with non-fat White Russians, while you\u2019re the one holding her head out of the toilet while she\u2019s puking and telling you she wishes more guys were like you, and they she gets into Cornell because you wrote her essay for her, and you drive up to visit her one weekend and she acts like she doesn\u2019t even know you. "
+            ],
+            [
+                207,
+                "I think that\u2019s our girl. One of us should go talk to her. "
+            ],
+            [
+                209,
+                "I can\u2019t just go up and talk to her. Howard, you talk to her. "
+            ],
+            [
+                212,
+                "Well, we\u2019re not in India. "
+            ],
+            [
+                214,
+                "Okay, that was uncalled for."
+            ],
+            [
+                225,
+                "The kid got a girl. "
+            ],
+            [
+                230,
+                "Yeah, mission accomplished. "
+            ],
+            [
+                233,
+                "Well, why do we go home alone every night, we\u2019re still smart. "
+            ],
+            [
+                238,
+                "I don\u2019t know if the ticket was so much for the launch as it was for you telling the policewoman \u201cyou have to frisk me, I have a rocket in my pants.\u201d"
+            ],
+            [
+                242,
+                "Yeah, we really ruined his life. "
+            ]
+        ],
+        "Dr Gablehouser (arriving)": [
+            [
+                10,
+                "Dr Hofstadter, Dr Cooper. "
+            ]
+        ],
+        "Together": [
+            [
+                11,
+                "Dr Gablehouser."
+            ]
+        ],
+        "Gablehouser": [
+            [
+                12,
+                "Gentlemen, I\u2019d like you to meet Dennis Kim. Dennis is a highly sought after Doctorial candidate and we\u2019re hoping to have him do his graduate work here. "
+            ],
+            [
+                14,
+                "And he\u2019s only fifteen years old."
+            ],
+            [
+                18,
+                "I thought maybe you boys could show Dennis around, let him see why we\u2019re the best physics research facility in the country."
+            ],
+            [
+                22,
+                "Dennis, we discussed this, we\u2019re in the process of updating our equipment, and we welcome your input on our research goals, and we\u2019ve agreed to look the other way if you want to use up to 20% of the grant money you attract to smuggle your grandfather out of Pyongyang. We want him here boys, make it happen."
+            ],
+            [
+                163,
+                "Oh, what are you working on?"
+            ],
+            [
+                165,
+                "To what end?"
+            ],
+            [
+                167,
+                "Who will come?"
+            ],
+            [
+                169,
+                "What if they don\u2019t come."
+            ],
+            [
+                171,
+                "Okay, well, um, speaking of spreads, we\u2019re having a small welcoming party this afternoon for Mr Kim, who\u2019s agreed to join us here at the University."
+            ],
+            [
+                173,
+                "Okay, well, uh, obviously you\u2019re very busy with your\u2026 uh, um, come Dennis. You\u2019ll have to excuse Dr Cooper, he\u2019s been under a lot of\u2026 um\u2026 he\u2019s nuts. "
+            ],
+            [
+                181,
+                "Why are all these young women here?"
+            ],
+            [
+                183,
+                "Really, I was not aware of that. "
+            ],
+            [
+                185,
+                "Hm?"
+            ],
+            [
+                188,
+                "There\u2019s the man of the hour. "
+            ],
+            [
+                216,
+                "Could I have everyone\u2019s attention please. What a wonderful occasion this is. And how fortunate that it should happen to fall on take your daughter to work day. We\u2019re here to welcome Mr Dennis Kim to our little family."
+            ],
+            [
+                218,
+                "Mr Kim was not only the valedictorian at Stamford University, he is also the youngest recipient of the prestigious Stephenson Award."
+            ],
+            [
+                220,
+                "And now, without any further ado, let me introduce the man of the hour, Mr Dennis Kim. Dennis! Dennis!"
+            ],
+            [
+                222,
+                "Would you like to tell us a little bit about your upcoming research."
+            ],
+            [
+                224,
+                "Well, uh, well, uh\u2026."
+            ]
+        ],
+        "Dennis": [
+            [
+                16,
+                "Well, I lost a year while my family was tunnelling out of North Korea. "
+            ],
+            [
+                19,
+                "I already know you\u2019re not. You don\u2019t have an open science grid computer, or a free electron laser, and the string theory research being done here is nothing but a dead end. "
+            ],
+            [
+                21,
+                "Well, obviously you don\u2019t see it yet, but trust me, you will."
+            ],
+            [
+                25,
+                "I mean, the whole landscape of false vacuums in string theory could be as large as ten to the five-hundredth power. In addition\u2026 ooh, look, chocolate milk. "
+            ],
+            [
+                31,
+                "A year and a half."
+            ],
+            [
+                33,
+                "So do you. Except for your tendency to end sentences with prepositions. "
+            ],
+            [
+                35,
+                "That. "
+            ],
+            [
+                37,
+                "Is this part of the tour? "
+            ],
+            [
+                41,
+                "Looks like you\u2019re doing work in quantum loop corrections."
+            ],
+            [
+                43,
+                "You see where you went wrong, don\u2019t you? "
+            ],
+            [
+                48,
+                "Do I look like I lift weights. "
+            ],
+            [
+                50,
+                "It\u2019s startling to me you haven\u2019t considered a Lorentz invariant field theory approach."
+            ],
+            [
+                52,
+                "Have you considered it?"
+            ],
+            [
+                55,
+                "Wow, you won the Stephenson award."
+            ],
+            [
+                57,
+                "Really, how old?"
+            ],
+            [
+                59,
+                "You were the youngest person ever to win it. "
+            ],
+            [
+                221,
+                "What? "
+            ],
+            [
+                223,
+                "Um, no thanks. I\u2019m going to the mall with Emma. "
+            ]
+        ],
+        "Leonard (in a Yoda voice)": [
+            [
+                27,
+                "A bad feeling I have about this, mmm-hmmm. "
+            ]
+        ],
+        "Penny (to Raj)": [
+            [
+                62,
+                "Mmm, this is really delicious, isn\u2019t it? (Raj looks uncomfortable, then nods.) Still can\u2019t talk to me unless you\u2019re drunk, huh? (Shakes head) Oh, sweetie, you are so damaged. "
+            ]
+        ],
+        "Howard": [
+            [
+                63,
+                "Hey, I\u2019m damaged too. How about a hug for Howie? "
+            ],
+            [
+                68,
+                "Antonio Salieri?"
+            ],
+            [
+                70,
+                "You know, Sheldon, you don\u2019t have so many friends that you can afford to start insulting them. "
+            ],
+            [
+                79,
+                "We liked Leonard."
+            ],
+            [
+                110,
+                "Sheldon, what are you doing here?"
+            ],
+            [
+                112,
+                "I\u2019ve been at this lab for three years, you\u2019ve never came by to say hello."
+            ],
+            [
+                114,
+                "A small payload support structure for a European science experimental package that\u2019s going up on the next space shuttle. "
+            ],
+            [
+                116,
+                "When this is done, it will be attached to the payload bay, and the sensor apparatus will rest on it. "
+            ],
+            [
+                118,
+                "No, you don\u2019t understand, during acceleration it needs to stay perfectly level and provide\u2026 yeah, okay, it\u2019s a shelf. "
+            ],
+            [
+                120,
+                "Sheldon, there\u2019s a diploma in my office that says I have a masters in engineering."
+            ],
+            [
+                122,
+                "Sheldon."
+            ],
+            [
+                124,
+                "Go away. "
+            ],
+            [
+                126,
+                "No, I thought of it all by myself. "
+            ],
+            [
+                137,
+                "Something\u2019s got to be done about him, Leonard."
+            ],
+            [
+                140,
+                "Then our problem would be solved. "
+            ],
+            [
+                142,
+                "We don\u2019t have to go that far, there are other means available."
+            ],
+            [
+                144,
+                "The only thing we need to do is make this Kim kid lose his focus."
+            ],
+            [
+                146,
+                "What about biology? "
+            ],
+            [
+                148,
+                "You know, biology? The one thing that can completely derail a world class mind. "
+            ],
+            [
+                150,
+                "Yeah, so, when I was fifteen I met Denise Polmerry and my grade point average fell from a 5.0 to a 1.8. "
+            ],
+            [
+                152,
+                "No, I just wasted a lot of time thinking about what it would be like if she did. "
+            ],
+            [
+                156,
+                "We need a hot fifteen year-old Asian girl with a thing for smart guys. "
+            ],
+            [
+                186,
+                "Smooth."
+            ],
+            [
+                190,
+                "All he has to do now is hook up with one of them. (The look at Dennis, who is picking his ear.)"
+            ],
+            [
+                194,
+                "Or can we?"
+            ],
+            [
+                196,
+                "I don\u2019t think you mean we can\u2019t. I think you mean we shouldn\u2019t. "
+            ],
+            [
+                200,
+                "Uh-uh. I know the type, cheerleader, student council, goes out with jocks, won\u2019t even look at anybody in the gifted programme. And if, after two years of begging, she does agree to go out with you, it turns out to be a set-up and you\u2019re in the back seat of your mom\u2019s car with your pants off while the whole football team laughs at you."
+            ],
+            [
+                202,
+                "No, I have allergies. "
+            ],
+            [
+                206,
+                "Interesting, kind of pretty, a little chubby so probably low self-esteem. "
+            ],
+            [
+                210,
+                "Oh no, she\u2019ll never go for the kid once she gets a peek at this. "
+            ],
+            [
+                227,
+                "Did anyone see how he did it?"
+            ],
+            [
+                229,
+                "He\u2019s back."
+            ],
+            [
+                232,
+                "I guess times have changed since we were young. Smart is the new sexy. "
+            ],
+            [
+                235,
+                "Yeah, let\u2019s go with that. "
+            ],
+            [
+                237,
+                "Unbelievable. Components I built are on the International Space Station, and I get a ticket for launching a model rocket in the park. "
+            ],
+            [
+                240,
+                "Wow, I almost didn\u2019t recognise him."
+            ]
+        ],
+        "Penny": [
+            [
+                64,
+                "Sure. Raj, hug Howard. "
+            ],
+            [
+                73,
+                "I\u2019m confused, did Sheldon stop giving milk? "
+            ],
+            [
+                76,
+                "So, you\u2019ve got a bit of competition, I really don\u2019t see what the big deal is. "
+            ],
+            [
+                78,
+                "I don\u2019t understand, exactly how did he get any friends in the first place? "
+            ],
+            [
+                82,
+                "You know, I\u2019m confused again, is he waiting, or do we get to shoot him between the eyes?"
+            ],
+            [
+                157,
+                "What?"
+            ]
+        ],
+        "Sheldon (dramatically)": [
+            [
+                65,
+                "Uh-uh-uh. "
+            ]
+        ],
+        "Howard (into phone)": [
+            [
+                106,
+                "It\u2019s a small brown paper bag, Ma, I\u2019m looking at it right now. (Pause.) Why would I make that up, there\u2019s no ding-dong in it. (Pause.) How are two ding-dongs tomorrow going to help me today? "
+            ],
+            [
+                108,
+                "I\u2019ll talk to you later. "
+            ]
+        ],
+        "Sheldon (entering)": [
+            [
+                107,
+                "So, this is engineering, huh? "
+            ],
+            [
+                153,
+                "Oh, good, you\u2019re all here. Look, I\u2019ve decided that if the three of you drop whatever it is you\u2019re working on and join me, we could lick cold fusion in less than a decade, twelve years tops. (They stare at him.) Go away? (They nod) Hmm. Could it be me? "
+            ]
+        ],
+        "Raj": [
+            [
+                129,
+                "Go away. (Sheldon exits)"
+            ],
+            [
+                134,
+                "Do you know what he did. He watched me work for ten minutes, and then started to design a simple piece of software that could replace me. "
+            ],
+            [
+                136,
+                "As it turns out, yes."
+            ],
+            [
+                139,
+                "Well, what if something were to happen to this boy so he was no longer a threat to Sheldon?"
+            ],
+            [
+                143,
+                "We can\u2019t send him back to North Korea. He knows how to get out. "
+            ],
+            [
+                151,
+                "She was sleeping with you?"
+            ],
+            [
+                159,
+                "It\u2019s possible she may have misunderstood us. "
+            ],
+            [
+                184,
+                "Oh, yes. There was a very official email that was sent to everyone whose insurance files indicated they had daughters between the ages of 14 and 16. "
+            ],
+            [
+                187,
+                "Thank you. "
+            ],
+            [
+                192,
+                "We need a social catalyst."
+            ],
+            [
+                199,
+                "Okay. How about that one."
+            ],
+            [
+                201,
+                "Are you crying?"
+            ],
+            [
+                203,
+                "Okay, uh, how about her? "
+            ],
+            [
+                205,
+                "Okay, so not her either. How about her?"
+            ],
+            [
+                208,
+                "I can\u2019t talk to her, you do it. "
+            ],
+            [
+                211,
+                "You know, if we were in India this would be simpler. Five minutes with her dad, twenty goats and a laptop and we\u2019d be done."
+            ],
+            [
+                213,
+                "Alright, why don\u2019t we do it your way then? We\u2019ll arrange for this girl to move in across the hall from Dennis so he can pathetically moon over her for months on end."
+            ],
+            [
+                215,
+                "You started it, dude. "
+            ],
+            [
+                226,
+                "Unbelievable."
+            ],
+            [
+                231,
+                "Forget the mission, how did that little yutz get a girl on his own?"
+            ],
+            [
+                234,
+                "Maybe we\u2019re too smart. So smart it\u2019s offputting. "
+            ],
+            [
+                239,
+                "Hey, look at that. (There is a group of youngsters on the grass, laying about. One is playing a guitar. Dennis Kim is among them. He is drinking something from a bottle in a brown paper bag.) It\u2019s Dennis Kim."
+            ],
+            [
+                241,
+                "You know, I kind of feel bad about what we did to him. (Dennis is now snogging the face off Emma)"
+            ]
+        ],
+        "Howard (entering)": [
+            [
+                132,
+                "Is he here? "
+            ]
+        ],
+        "Penny (opening door)": [
+            [
+                155,
+                "Oh, hey guys, what\u2019s up?"
+            ]
+        ],
+        "Gablehouser (entering)": [
+            [
+                161,
+                "Dr Cooper? Oh, are we interrupting?"
+            ]
+        ],
+        "Sheldon (voice off, sings to a Mexican tune)": [
+            [
+                174,
+                "Ah, la-la-la, Hava Nagila. They\u2019ll come, they\u2019ll settle and I\u2019ll win the prize\u2026"
+            ]
+        ],
+        "Goldfarb": [
+            [
+                177,
+                "Go away. "
+            ],
+            [
+                179,
+                "Please go away. "
+            ]
+        ],
+        "Sheldon (sarcastically)": [
+            [
+                217,
+                "Welcome Dennis Kim. "
+            ]
+        ],
+        "Sheldon (to Gablehouser)": [
+            [
+                228,
+                "Don\u2019t worry, I\u2019ve got this. Ladies and Gentlemen, honoured daughters. While Mr Kim, by virtue of his youth and naivety, has fallen prey to the inexplicable need for human contact, let me step in and assure you that my research will go on uninterrupted, and that social relationships will continue to baffle and repulse me. Thank you. "
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The University cafeteria. "
+        ],
+        [
+            "Sheldon",
+            "Here\u2019s the problem with teleportation."
+        ],
+        [
+            "Leonard",
+            "Lay it on me. "
+        ],
+        [
+            "Sheldon",
+            "Assuming the device could be invented which would identify the quantum state of matter of an individual in one location, and transmit that pattern to a distant location for reassembly, you would not have actually transported the individual. You would have destroyed him in one location, and recreated him in another."
+        ],
+        [
+            "Leonard",
+            "How about that. "
+        ],
+        [
+            "Sheldon",
+            "Personally, I would never use a transporter. Because the original Sheldon would have to be disintegrated in order to create a new Sheldon."
+        ],
+        [
+            "Leonard",
+            "Would the new Sheldon be in any way an improvement on the old Sheldon? "
+        ],
+        [
+            "Sheldon",
+            "No, he would be exactly the same. "
+        ],
+        [
+            "Leonard",
+            "That is a problem. "
+        ],
+        [
+            "Sheldon",
+            "So, you see it too."
+        ],
+        [
+            "Dr Gablehouser (arriving)",
+            "Dr Hofstadter, Dr Cooper. "
+        ],
+        [
+            "Together",
+            "Dr Gablehouser."
+        ],
+        [
+            "Gablehouser",
+            "Gentlemen, I\u2019d like you to meet Dennis Kim. Dennis is a highly sought after Doctorial candidate and we\u2019re hoping to have him do his graduate work here. "
+        ],
+        [
+            "Leonard",
+            "Graduate work, very impressive."
+        ],
+        [
+            "Gablehouser",
+            "And he\u2019s only fifteen years old."
+        ],
+        [
+            "Sheldon",
+            "Not bad, I myself started graduate school at fourteen."
+        ],
+        [
+            "Dennis",
+            "Well, I lost a year while my family was tunnelling out of North Korea. "
+        ],
+        [
+            "Leonard",
+            "Advantage Kim. "
+        ],
+        [
+            "Gablehouser",
+            "I thought maybe you boys could show Dennis around, let him see why we\u2019re the best physics research facility in the country."
+        ],
+        [
+            "Dennis",
+            "I already know you\u2019re not. You don\u2019t have an open science grid computer, or a free electron laser, and the string theory research being done here is nothing but a dead end. "
+        ],
+        [
+            "Sheldon",
+            "Excuse me, that is my research, and it is by no means a dead end."
+        ],
+        [
+            "Dennis",
+            "Well, obviously you don\u2019t see it yet, but trust me, you will."
+        ],
+        [
+            "Gablehouser",
+            "Dennis, we discussed this, we\u2019re in the process of updating our equipment, and we welcome your input on our research goals, and we\u2019ve agreed to look the other way if you want to use up to 20% of the grant money you attract to smuggle your grandfather out of Pyongyang. We want him here boys, make it happen."
+        ],
+        [
+            "Leonard",
+            "Yes sir. "
+        ],
+        [
+            "Sheldon",
+            "You can count on us, we\u2019re on it. What the hell do you mean, dead end. "
+        ],
+        [
+            "Dennis",
+            "I mean, the whole landscape of false vacuums in string theory could be as large as ten to the five-hundredth power. In addition\u2026 ooh, look, chocolate milk. "
+        ],
+        [
+            "Sheldon",
+            "I sense a disturbance in the force. "
+        ],
+        [
+            "Leonard (in a Yoda voice)",
+            "A bad feeling I have about this, mmm-hmmm. "
+        ],
+        [
+            "Scene",
+            "Credits sequence"
+        ],
+        [
+            "Scene",
+            "A corridor."
+        ],
+        [
+            "Leonard",
+            "So, Dennis, how long have you been in America."
+        ],
+        [
+            "Dennis",
+            "A year and a half."
+        ],
+        [
+            "Leonard",
+            "No kidding, you speak English really well."
+        ],
+        [
+            "Dennis",
+            "So do you. Except for your tendency to end sentences with prepositions. "
+        ],
+        [
+            "Leonard",
+            "What are you talking about? "
+        ],
+        [
+            "Dennis",
+            "That. "
+        ],
+        [
+            "Sheldon",
+            "He\u2019s not wrong. Alright, and this is my office."
+        ],
+        [
+            "Dennis",
+            "Is this part of the tour? "
+        ],
+        [
+            "Sheldon",
+            "Nope. Goodbye. "
+        ],
+        [
+            "Leonard",
+            "Come on, Sheldon, we\u2019ve hardly shown him anything."
+        ],
+        [
+            "Sheldon",
+            "Oh, alright, this is my desk, these are my books, this is my door, please close it behind you. Goodbye. "
+        ],
+        [
+            "Dennis",
+            "Looks like you\u2019re doing work in quantum loop corrections."
+        ],
+        [
+            "Sheldon",
+            "Keen observation, goodbye. "
+        ],
+        [
+            "Dennis",
+            "You see where you went wrong, don\u2019t you? "
+        ],
+        [
+            "Sheldon",
+            "Leonard."
+        ],
+        [
+            "Leonard",
+            "Huh, yeah? "
+        ],
+        [
+            "Sheldon",
+            "Get him out. "
+        ],
+        [
+            "Leonard",
+            "Come on, Dennis, I\u2019ll show you the rec centre, they\u2019ve got nautilus equipment."
+        ],
+        [
+            "Dennis",
+            "Do I look like I lift weights. "
+        ],
+        [
+            "Leonard",
+            "Not heavy ones. "
+        ],
+        [
+            "Dennis",
+            "It\u2019s startling to me you haven\u2019t considered a Lorentz invariant field theory approach."
+        ],
+        [
+            "Sheldon",
+            "You think I haven\u2019t considered it? You really think I haven\u2019t considered it? "
+        ],
+        [
+            "Dennis",
+            "Have you considered it?"
+        ],
+        [
+            "Sheldon",
+            "Get him out Leonard."
+        ],
+        [
+            "Leonard",
+            "Come on, Dennis, I\u2019ll show you the radiation lab."
+        ],
+        [
+            "Dennis",
+            "Wow, you won the Stephenson award."
+        ],
+        [
+            "Sheldon",
+            "Yes, in fact I am the youngest person ever to win it. "
+        ],
+        [
+            "Dennis",
+            "Really, how old?"
+        ],
+        [
+            "Sheldon",
+            "Fourteen and a half."
+        ],
+        [
+            "Dennis",
+            "You were the youngest person ever to win it. "
+        ],
+        [
+            "Leonard",
+            "It\u2019s like looking into an obnoxious little mirror, isn\u2019t it? "
+        ],
+        [
+            "Scene",
+            "The living room of the apartment."
+        ],
+        [
+            "Penny (to Raj)",
+            "Mmm, this is really delicious, isn\u2019t it? (Raj looks uncomfortable, then nods.) Still can\u2019t talk to me unless you\u2019re drunk, huh? (Shakes head) Oh, sweetie, you are so damaged. "
+        ],
+        [
+            "Howard",
+            "Hey, I\u2019m damaged too. How about a hug for Howie? "
+        ],
+        [
+            "Penny",
+            "Sure. Raj, hug Howard. "
+        ],
+        [
+            "Sheldon (dramatically)",
+            "Uh-uh-uh. "
+        ],
+        [
+            "Leonard",
+            "Something you\u2019d like to share? A tale of woe perhaps."
+        ],
+        [
+            "Sheldon",
+            "Fifteen years old. Dennis Kim is fifteen years old, and he\u2019s already correcting my work. Today I went from being Wolfgang Amadeus Mozart to\u2026 you know, that other guy."
+        ],
+        [
+            "Howard",
+            "Antonio Salieri?"
+        ],
+        [
+            "Sheldon",
+            "Oh, God, now even you\u2019re smarter than me."
+        ],
+        [
+            "Howard",
+            "You know, Sheldon, you don\u2019t have so many friends that you can afford to start insulting them. "
+        ],
+        [
+            "Leonard",
+            "Just eat, Sheldon, you\u2019ll feel better. "
+        ],
+        [
+            "Sheldon",
+            "Why waste food. In Texas when a cow goes dry they don\u2019t keep feeding it, they just take her out and shoot her between the eyes. "
+        ],
+        [
+            "Penny",
+            "I\u2019m confused, did Sheldon stop giving milk? "
+        ],
+        [
+            "Leonard",
+            "You can\u2019t let this kid get to you. You always knew that someday someone would come along who was younger and smarter."
+        ],
+        [
+            "Sheldon",
+            "Yes, but I assumed I would have been dead hundreds of years, and that there would be an asterisk by his name because he would be a cyborg. "
+        ],
+        [
+            "Penny",
+            "So, you\u2019ve got a bit of competition, I really don\u2019t see what the big deal is. "
+        ],
+        [
+            "Sheldon",
+            "Well of course you don\u2019t, you\u2019ve never excelled at anything. "
+        ],
+        [
+            "Penny",
+            "I don\u2019t understand, exactly how did he get any friends in the first place? "
+        ],
+        [
+            "Howard",
+            "We liked Leonard."
+        ],
+        [
+            "Leonard",
+            "Well, what are you going to do, Sheldon, give up?"
+        ],
+        [
+            "Sheldon",
+            "Yes. That\u2019s what a rational person does when his entire life\u2019s work is invalidated by a post-pubescent Asian wunderkind. He ceases his fruitless efforts, he donates his body to scientific research, and he waits to die. "
+        ],
+        [
+            "Penny",
+            "You know, I\u2019m confused again, is he waiting, or do we get to shoot him between the eyes?"
+        ],
+        [
+            "Scene",
+            "The same, later that night"
+        ],
+        [
+            "Sheldon",
+            "Hey."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve decided you\u2019re right. My career is not over. "
+        ],
+        [
+            "Leonard",
+            "Great."
+        ],
+        [
+            "Sheldon",
+            "But, since the arrival of Dennis Kim has rendered my research pointless, I just have to find something else to focus on."
+        ],
+        [
+            "Leonard",
+            "Great."
+        ],
+        [
+            "Sheldon",
+            "So I\u2019ve decided, I\u2019m going to collaborate with you."
+        ],
+        [
+            "Leonard",
+            "Great. "
+        ],
+        [
+            "Sheldon",
+            "What exactly is it you do? I know you chatter on about it all the time, but I\u2019ve never really paid attention."
+        ],
+        [
+            "Leonard",
+            "Okay, well, right now I\u2019m designing an experiment to study the soft component of cosmic radiation at sea-level, but I really don\u2019t need any help. "
+        ],
+        [
+            "Sheldon",
+            "Oh, sure you do. Now, see, what\u2019s this here in the schematic, is that a laser array?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "No. Hmmm. What happens if you use argon lasers instead of helium neon?"
+        ],
+        [
+            "Leonard",
+            "It would blow up."
+        ],
+        [
+            "Sheldon",
+            "Are you sure? "
+        ],
+        [
+            "Leonard",
+            "Pretty sure."
+        ],
+        [
+            "Sheldon",
+            "Pretty sure\u2019s not very scientific, is this how you normally work, just hunches and guesses and stuff?"
+        ],
+        [
+            "Leonard",
+            "Okay, Sheldon, I understand that you\u2019re going through a bit of a career crisis, you\u2019re searching for some other area where you can feel valuable and productive but I need to tell you something and I want you to listen carefully. "
+        ],
+        [
+            "Sheldon",
+            "Alright."
+        ],
+        [
+            "Leonard",
+            "Go away."
+        ],
+        [
+            "Sheldon",
+            "If you\u2019re concerned about sharing credit with me, you\u2019re name can go first\u2026 I\u2019m going. "
+        ],
+        [
+            "Scene",
+            "Howard\u2019s lab."
+        ],
+        [
+            "Howard (into phone)",
+            "It\u2019s a small brown paper bag, Ma, I\u2019m looking at it right now. (Pause.) Why would I make that up, there\u2019s no ding-dong in it. (Pause.) How are two ding-dongs tomorrow going to help me today? "
+        ],
+        [
+            "Sheldon (entering)",
+            "So, this is engineering, huh? "
+        ],
+        [
+            "Howard (into phone)",
+            "I\u2019ll talk to you later. "
+        ],
+        [
+            "Sheldon",
+            "Engineering. Where the noble semi-skilled labourers execute the vision of those who think and dream. Hello, oompah-loompahs of science."
+        ],
+        [
+            "Howard",
+            "Sheldon, what are you doing here?"
+        ],
+        [
+            "Sheldon",
+            "I just came by to say hello."
+        ],
+        [
+            "Howard",
+            "I\u2019ve been at this lab for three years, you\u2019ve never came by to say hello."
+        ],
+        [
+            "Sheldon",
+            "Well, up until now I\u2019ve had better things to do. So, what are we making today? "
+        ],
+        [
+            "Howard",
+            "A small payload support structure for a European science experimental package that\u2019s going up on the next space shuttle. "
+        ],
+        [
+            "Sheldon",
+            "Really, how does it work?"
+        ],
+        [
+            "Howard",
+            "When this is done, it will be attached to the payload bay, and the sensor apparatus will rest on it. "
+        ],
+        [
+            "Sheldon",
+            "Uh, huh. So it\u2019s a shelf? "
+        ],
+        [
+            "Howard",
+            "No, you don\u2019t understand, during acceleration it needs to stay perfectly level and provide\u2026 yeah, okay, it\u2019s a shelf. "
+        ],
+        [
+            "Sheldon",
+            "Now, I notice you\u2019re using titanium, did you give any consideration to carbon nanotubes, they\u2019re lighter, cheaper and half twice the tensile strength."
+        ],
+        [
+            "Howard",
+            "Sheldon, there\u2019s a diploma in my office that says I have a masters in engineering."
+        ],
+        [
+            "Sheldon",
+            "And you also have a note from your mother that says I love you, bubbula. But neither of those is a cogent argument for titanium over nanotubes. "
+        ],
+        [
+            "Howard",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Howard",
+            "Go away. "
+        ],
+        [
+            "Sheldon",
+            "Did Leonard tell you to say that? "
+        ],
+        [
+            "Howard",
+            "No, I thought of it all by myself. "
+        ],
+        [
+            "Sheldon",
+            "Huh. It can\u2019t be a coincidence. There must be some causal link I\u2019m missing."
+        ],
+        [
+            "Scene",
+            "Raj is exiting his office."
+        ],
+        [
+            "Raj",
+            "Go away. (Sheldon exits)"
+        ],
+        [
+            "Sheldon",
+            "Curiouser and curiouser. "
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Howard (entering)",
+            "Is he here? "
+        ],
+        [
+            "Leonard",
+            "If he were, I wouldn\u2019t be. "
+        ],
+        [
+            "Raj",
+            "Do you know what he did. He watched me work for ten minutes, and then started to design a simple piece of software that could replace me. "
+        ],
+        [
+            "Leonard",
+            "Is that even possible?"
+        ],
+        [
+            "Raj",
+            "As it turns out, yes."
+        ],
+        [
+            "Howard",
+            "Something\u2019s got to be done about him, Leonard."
+        ],
+        [
+            "Leonard",
+            "Like what? He\u2019ll never be able to cope with the fact that some fifteen year-old kid is smarter and more accomplished than he is. "
+        ],
+        [
+            "Raj",
+            "Well, what if something were to happen to this boy so he was no longer a threat to Sheldon?"
+        ],
+        [
+            "Howard",
+            "Then our problem would be solved. "
+        ],
+        [
+            "Leonard",
+            "Hang on, are we talking about murdering Dennis Kim? I\u2019m not saying no. "
+        ],
+        [
+            "Howard",
+            "We don\u2019t have to go that far, there are other means available."
+        ],
+        [
+            "Raj",
+            "We can\u2019t send him back to North Korea. He knows how to get out. "
+        ],
+        [
+            "Howard",
+            "The only thing we need to do is make this Kim kid lose his focus."
+        ],
+        [
+            "Leonard",
+            "That won\u2019t happen, he\u2019s not interested in anything but physics."
+        ],
+        [
+            "Howard",
+            "What about biology? "
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Howard",
+            "You know, biology? The one thing that can completely derail a world class mind. "
+        ],
+        [
+            "Leonard",
+            "Howard, he\u2019s fifteen."
+        ],
+        [
+            "Howard",
+            "Yeah, so, when I was fifteen I met Denise Polmerry and my grade point average fell from a 5.0 to a 1.8. "
+        ],
+        [
+            "Raj",
+            "She was sleeping with you?"
+        ],
+        [
+            "Howard",
+            "No, I just wasted a lot of time thinking about what it would be like if she did. "
+        ],
+        [
+            "Sheldon (entering)",
+            "Oh, good, you\u2019re all here. Look, I\u2019ve decided that if the three of you drop whatever it is you\u2019re working on and join me, we could lick cold fusion in less than a decade, twelve years tops. (They stare at him.) Go away? (They nod) Hmm. Could it be me? "
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s apartment. "
+        ],
+        [
+            "Penny (opening door)",
+            "Oh, hey guys, what\u2019s up?"
+        ],
+        [
+            "Howard",
+            "We need a hot fifteen year-old Asian girl with a thing for smart guys. "
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "Howard, that\u2019s racist, any fifteen year-old girl will do the trick. (Penny slams door.)"
+        ],
+        [
+            "Raj",
+            "It\u2019s possible she may have misunderstood us. "
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office. He is making measurements on maps. There is a knock on the door. "
+        ],
+        [
+            "Gablehouser (entering)",
+            "Dr Cooper? Oh, are we interrupting?"
+        ],
+        [
+            "Sheldon",
+            "No, no, please, come in. Yeah, I think you\u2019ll appreciate this, very exciting."
+        ],
+        [
+            "Gablehouser",
+            "Oh, what are you working on?"
+        ],
+        [
+            "Sheldon",
+            "Something remarkable. Since my prospects for the Nobel Prize in physics have disappeared, thank you very much, I\u2019ve decided to refocus my efforts and use my people skills to win the Nobel Peace Prize. Look, I\u2019m going to solve the Middle-East Crisis by building an exact replica of Jerusalem in the middle of the Mexican desert. "
+        ],
+        [
+            "Gablehouser",
+            "To what end?"
+        ],
+        [
+            "Sheldon",
+            "You know, it\u2019s like the baseball movie, build it and they will come. "
+        ],
+        [
+            "Gablehouser",
+            "Who will come?"
+        ],
+        [
+            "Sheldon",
+            "The Jewish people."
+        ],
+        [
+            "Gablehouser",
+            "What if they don\u2019t come."
+        ],
+        [
+            "Sheldon",
+            "We\u2019ll make it nice, put out a spread. "
+        ],
+        [
+            "Gablehouser",
+            "Okay, well, um, speaking of spreads, we\u2019re having a small welcoming party this afternoon for Mr Kim, who\u2019s agreed to join us here at the University."
+        ],
+        [
+            "Sheldon",
+            "Of course he has, the oracle told us little Neo was the one. You can see the Matrix, can\u2019t you."
+        ],
+        [
+            "Gablehouser",
+            "Okay, well, uh, obviously you\u2019re very busy with your\u2026 uh, um, come Dennis. You\u2019ll have to excuse Dr Cooper, he\u2019s been under a lot of\u2026 um\u2026 he\u2019s nuts. "
+        ],
+        [
+            "Sheldon (voice off, sings to a Mexican tune)",
+            "Ah, la-la-la, Hava Nagila. They\u2019ll come, they\u2019ll settle and I\u2019ll win the prize\u2026"
+        ],
+        [
+            "Scene",
+            "The welcoming party"
+        ],
+        [
+            "Sheldon",
+            "I really don\u2019t understand your objections, Professor Goldfarb, why wouldn\u2019t the Senoran Desert make a perfectly good promised land?"
+        ],
+        [
+            "Goldfarb",
+            "Go away. "
+        ],
+        [
+            "Sheldon",
+            "We could call it Nuevo Cherusalem. "
+        ],
+        [
+            "Goldfarb",
+            "Please go away. "
+        ],
+        [
+            "Sheldon",
+            "Said Pharoah to Moses. "
+        ],
+        [
+            "Gablehouser",
+            "Why are all these young women here?"
+        ],
+        [
+            "Leonard",
+            "It\u2019s take your daughter to work day. "
+        ],
+        [
+            "Gablehouser",
+            "Really, I was not aware of that. "
+        ],
+        [
+            "Raj",
+            "Oh, yes. There was a very official email that was sent to everyone whose insurance files indicated they had daughters between the ages of 14 and 16. "
+        ],
+        [
+            "Gablehouser",
+            "Hm?"
+        ],
+        [
+            "Howard",
+            "Smooth."
+        ],
+        [
+            "Raj",
+            "Thank you. "
+        ],
+        [
+            "Gablehouser",
+            "There\u2019s the man of the hour. "
+        ],
+        [
+            "Leonard",
+            "Okay, so we now have a socially awkward genius in a room full of attractive age-appropriate women. "
+        ],
+        [
+            "Howard",
+            "All he has to do now is hook up with one of them. (The look at Dennis, who is picking his ear.)"
+        ],
+        [
+            "Leonard",
+            "Does anyone else see the flaw in this plan?"
+        ],
+        [
+            "Raj",
+            "We need a social catalyst."
+        ],
+        [
+            "Leonard",
+            "Like what? We can\u2019t get fifteen year-old girls drunk. \u00a0"
+        ],
+        [
+            "Howard",
+            "Or can we?"
+        ],
+        [
+            "Leonard",
+            "No, we can\u2019t. "
+        ],
+        [
+            "Howard",
+            "I don\u2019t think you mean we can\u2019t. I think you mean we shouldn\u2019t. "
+        ],
+        [
+            "Sheldon",
+            "Hey, Howard. You\u2019re a Jew. If there was another wailing wall, exactly like the one in Jerusalem, but close to taco stands and cheap prescription drugs, would you still be able to wail at it? Okay, it\u2019s definitely me. "
+        ],
+        [
+            "Leonard",
+            "Okay, we cannot leave this to chance, lets pick a girl, and figure out how to get her together with Dennis. "
+        ],
+        [
+            "Raj",
+            "Okay. How about that one."
+        ],
+        [
+            "Howard",
+            "Uh-uh. I know the type, cheerleader, student council, goes out with jocks, won\u2019t even look at anybody in the gifted programme. And if, after two years of begging, she does agree to go out with you, it turns out to be a set-up and you\u2019re in the back seat of your mom\u2019s car with your pants off while the whole football team laughs at you."
+        ],
+        [
+            "Raj",
+            "Are you crying?"
+        ],
+        [
+            "Howard",
+            "No, I have allergies. "
+        ],
+        [
+            "Raj",
+            "Okay, uh, how about her? "
+        ],
+        [
+            "Leonard",
+            "Sure. If he wants to spend a couple of years doing her homework while she drinks herself into a stupor with non-fat White Russians, while you\u2019re the one holding her head out of the toilet while she\u2019s puking and telling you she wishes more guys were like you, and they she gets into Cornell because you wrote her essay for her, and you drive up to visit her one weekend and she acts like she doesn\u2019t even know you. "
+        ],
+        [
+            "Raj",
+            "Okay, so not her either. How about her?"
+        ],
+        [
+            "Howard",
+            "Interesting, kind of pretty, a little chubby so probably low self-esteem. "
+        ],
+        [
+            "Leonard",
+            "I think that\u2019s our girl. One of us should go talk to her. "
+        ],
+        [
+            "Raj",
+            "I can\u2019t talk to her, you do it. "
+        ],
+        [
+            "Leonard",
+            "I can\u2019t just go up and talk to her. Howard, you talk to her. "
+        ],
+        [
+            "Howard",
+            "Oh no, she\u2019ll never go for the kid once she gets a peek at this. "
+        ],
+        [
+            "Raj",
+            "You know, if we were in India this would be simpler. Five minutes with her dad, twenty goats and a laptop and we\u2019d be done."
+        ],
+        [
+            "Leonard",
+            "Well, we\u2019re not in India. "
+        ],
+        [
+            "Raj",
+            "Alright, why don\u2019t we do it your way then? We\u2019ll arrange for this girl to move in across the hall from Dennis so he can pathetically moon over her for months on end."
+        ],
+        [
+            "Leonard",
+            "Okay, that was uncalled for."
+        ],
+        [
+            "Raj",
+            "You started it, dude. "
+        ],
+        [
+            "Gablehouser",
+            "Could I have everyone\u2019s attention please. What a wonderful occasion this is. And how fortunate that it should happen to fall on take your daughter to work day. We\u2019re here to welcome Mr Dennis Kim to our little family."
+        ],
+        [
+            "Sheldon (sarcastically)",
+            "Welcome Dennis Kim. "
+        ],
+        [
+            "Gablehouser",
+            "Mr Kim was not only the valedictorian at Stamford University, he is also the youngest recipient of the prestigious Stephenson Award."
+        ],
+        [
+            "Sheldon",
+            "Youngest till the cyborgs rise up! "
+        ],
+        [
+            "Gablehouser",
+            "And now, without any further ado, let me introduce the man of the hour, Mr Dennis Kim. Dennis! Dennis!"
+        ],
+        [
+            "Dennis",
+            "What? "
+        ],
+        [
+            "Gablehouser",
+            "Would you like to tell us a little bit about your upcoming research."
+        ],
+        [
+            "Dennis",
+            "Um, no thanks. I\u2019m going to the mall with Emma. "
+        ],
+        [
+            "Gablehouser",
+            "Well, uh, well, uh\u2026."
+        ],
+        [
+            "Leonard",
+            "The kid got a girl. "
+        ],
+        [
+            "Raj",
+            "Unbelievable."
+        ],
+        [
+            "Howard",
+            "Did anyone see how he did it?"
+        ],
+        [
+            "Sheldon (to Gablehouser)",
+            "Don\u2019t worry, I\u2019ve got this. Ladies and Gentlemen, honoured daughters. While Mr Kim, by virtue of his youth and naivety, has fallen prey to the inexplicable need for human contact, let me step in and assure you that my research will go on uninterrupted, and that social relationships will continue to baffle and repulse me. Thank you. "
+        ],
+        [
+            "Howard",
+            "He\u2019s back."
+        ],
+        [
+            "Leonard",
+            "Yeah, mission accomplished. "
+        ],
+        [
+            "Raj",
+            "Forget the mission, how did that little yutz get a girl on his own?"
+        ],
+        [
+            "Howard",
+            "I guess times have changed since we were young. Smart is the new sexy. "
+        ],
+        [
+            "Leonard",
+            "Well, why do we go home alone every night, we\u2019re still smart. "
+        ],
+        [
+            "Raj",
+            "Maybe we\u2019re too smart. So smart it\u2019s offputting. "
+        ],
+        [
+            "Howard",
+            "Yeah, let\u2019s go with that. "
+        ],
+        [
+            "Scene",
+            "The park. The four guys are carrying remote control rockets."
+        ],
+        [
+            "Howard",
+            "Unbelievable. Components I built are on the International Space Station, and I get a ticket for launching a model rocket in the park. "
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know if the ticket was so much for the launch as it was for you telling the policewoman \u201cyou have to frisk me, I have a rocket in my pants.\u201d"
+        ],
+        [
+            "Raj",
+            "Hey, look at that. (There is a group of youngsters on the grass, laying about. One is playing a guitar. Dennis Kim is among them. He is drinking something from a bottle in a brown paper bag.) It\u2019s Dennis Kim."
+        ],
+        [
+            "Howard",
+            "Wow, I almost didn\u2019t recognise him."
+        ],
+        [
+            "Raj",
+            "You know, I kind of feel bad about what we did to him. (Dennis is now snogging the face off Emma)"
+        ],
+        [
+            "Leonard",
+            "Yeah, we really ruined his life. "
+        ],
+        [
+            "Sheldon",
+            "Screw him, he was weak. "
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-1-episode-12-the-jerusalem-duality/"
+}

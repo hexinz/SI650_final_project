@@ -1,0 +1,1958 @@
+{
+    "Season": 7,
+    "Episode": 1,
+    "Title": "the hofstadter insufficiency",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "On the deck of a ship on the North Sea, in the middle of a storm. Leonard is on a sat-phone."
+            ],
+            [
+                13,
+                "Penny\u2019s apartment door."
+            ],
+            [
+                25,
+                "Credits sequence."
+            ],
+            [
+                26,
+                "The cafeteria. "
+            ],
+            [
+                42,
+                "A hotel room."
+            ],
+            [
+                49,
+                "The apartment."
+            ],
+            [
+                65,
+                "The mixer party. "
+            ],
+            [
+                83,
+                "The hotel bar."
+            ],
+            [
+                95,
+                "The apartment."
+            ],
+            [
+                123,
+                "The hotel bar."
+            ],
+            [
+                141,
+                "The apartment."
+            ],
+            [
+                162,
+                "The mixer."
+            ],
+            [
+                170,
+                "The apartment."
+            ],
+            [
+                202,
+                "The hotel room."
+            ],
+            [
+                214,
+                "The mixer."
+            ],
+            [
+                233,
+                "A bathroom shower."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Sheldon, it\u2019s not a great time, what do you want?"
+            ],
+            [
+                3,
+                "What is it?"
+            ],
+            [
+                5,
+                "So?"
+            ],
+            [
+                7,
+                "Sheldon, I got to go inside. It\u2019s getting rough out here."
+            ],
+            [
+                9,
+                "What was what?"
+            ],
+            [
+                11,
+                "Okay, I\u2019m hanging up now. You know there\u2019s no such thing as a k\u2026 (Leonard is attacked and dragged into the sea by a huge tentacle. Sheldon wakes up in bed.)"
+            ],
+            [
+                109,
+                "Penny? Hey, it\u2019s Penny. Everybody say hi to Penny."
+            ],
+            [
+                112,
+                "Best time of my life. "
+            ],
+            [
+                114,
+                "Is it? Hey, everybody, it\u2019s five thirty in the morning!"
+            ],
+            [
+                117,
+                "Uh-oh, hang on."
+            ],
+            [
+                119,
+                "No, it\u2019s a drinking game. Whenever we see an iceberg, we take a shot!"
+            ]
+        ],
+        "Sheldon (in the apartment)": [
+            [
+                2,
+                "Hello to you, too. I\u2019m sorry, but this is important."
+            ]
+        ],
+        "Sheldon": [
+            [
+                4,
+                "Back to the Future II was in the Back to the Future III case, and Back to the Future III was, get this, in the Back to the Future II case."
+            ],
+            [
+                6,
+                "So, did you do that, or am I in the house with an intruder?"
+            ],
+            [
+                8,
+                "You\u2019re dodging the question, I knew it was you. What was that?"
+            ],
+            [
+                10,
+                "This isn\u2019t a very good connection, but it sounded like someone just released a kraken."
+            ],
+            [
+                12,
+                "No!"
+            ],
+            [
+                14,
+                "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny. "
+            ],
+            [
+                16,
+                "Um, well, I was worried that you might be missing Leonard. And that might be causing you to have bad dreams, like the kind you\u2019d get if you watched Clash of the Titans right before you went to bed."
+            ],
+            [
+                18,
+                "To be honest, I did."
+            ],
+            [
+                20,
+                "Back to the Future II was in the Back to the Future III case. Leonard did it."
+            ],
+            [
+                22,
+                "No, wait. Perhaps I should sleep here so you don\u2019t miss Leonard as much, uh, \u2019cause you\u2019re being kind of a baby about it."
+            ],
+            [
+                24,
+                "You\u2019re welcome. Good night."
+            ],
+            [
+                30,
+                "Dear Lord, you\u2019re an astronomer. Although you may have earthly woes, get your mind back on the stars. Gee, even the lowly dung beetle chooses to plot its course by using the Milky Way."
+            ],
+            [
+                32,
+                "Everything I say is true. Now, of course, the dung beetle also enjoys eating faeces, living in faeces and making little balls out of faeces, so, you know, pick and choose which aspects of its lifestyle you want to embrace."
+            ],
+            [
+                41,
+                "I want you to be happy, too, but not enough to do anything about it."
+            ],
+            [
+                50,
+                "Penny, did you ever wonder how Starfleet captains\u2026"
+            ],
+            [
+                52,
+                "Well, now that I\u2019ve piqued your interest, welcome to the exciting world of 3D chess."
+            ],
+            [
+                54,
+                "You overestimate his significance in my life."
+            ],
+            [
+                56,
+                "Do I miss how he makes a face on my toaster waffle with syrup? No. Do I miss the way he fixes the zipper on my jacket when it gets stuck? I don\u2019t think so. Do I miss how we say good night to each other through the walls of our bedroom using Morse code? (Taps out No in morse code on the table)"
+            ],
+            [
+                58,
+                "Well, I try."
+            ],
+            [
+                60,
+                "Great. I\u2019ll go first."
+            ],
+            [
+                62,
+                "By the way, how are you with zippers?"
+            ],
+            [
+                64,
+                "Well, I really need to go to the bathroom, and this one\u2019s gone all cattywampus."
+            ],
+            [
+                96,
+                "Ooh. Bad move."
+            ],
+            [
+                98,
+                "My queen can now take your rook from below."
+            ],
+            [
+                100,
+                "If I make this move, but I won\u2019t because we\u2019re having too much fun."
+            ],
+            [
+                102,
+                "We\u2019re all out of alcohol."
+            ],
+            [
+                104,
+                "Well, if you\u2019d like, we could call him. I mean that you could call him. As I\u2019ve explained, the absence of my friends does not cause me pain. As rock and roll bad boy Paul Simon once said, I am a rock, I am an i-i-i-island."
+            ],
+            [
+                106,
+                "Oh, goodie, put him on speaker phone."
+            ],
+            [
+                113,
+                "Isn\u2019t it five thirty in the morning there?"
+            ],
+            [
+                118,
+                "Are you in danger?"
+            ],
+            [
+                122,
+                "You were."
+            ],
+            [
+                143,
+                "That you\u2019re having to process your emotional pain without vodka?"
+            ],
+            [
+                145,
+                "Allow me to comfort you. At least you\u2019ve got your health."
+            ],
+            [
+                147,
+                "Um, uh, in a hundred years, you\u2019ll both be dead and it won\u2019t matter?"
+            ],
+            [
+                149,
+                "Oh, no, I don\u2019t think that\u2019s true at all."
+            ],
+            [
+                151,
+                "Well, perhaps you\u2019re obsessively picturing him engaged in drunken coitus with another woman. Is that it? Did I get it right?"
+            ],
+            [
+                153,
+                "Actually, I can\u2019t. Before Leonard left, he made me promise that I\u2019d take care of you."
+            ],
+            [
+                155,
+                "Yes."
+            ],
+            [
+                157,
+                "Plus, if I do a good job, he said he\u2019d bring me back a sailor\u2019s cap."
+            ],
+            [
+                159,
+                "Well, if it\u2019s any consolation, I\u2019m sure Leonard\u2019s tormented every moment he\u2019s away from your warm embrace and cherry lips."
+            ],
+            [
+                161,
+                "Oh, seriously?"
+            ],
+            [
+                171,
+                "Here is a hot beverage to comfort you. It\u2019s in a to-go cup. Make of that what you will."
+            ],
+            [
+                173,
+                "Well, I have been toying around with an idea for 4D chess."
+            ],
+            [
+                175,
+                "All right. In 4D chess\u2026"
+            ],
+            [
+                177,
+                "I own nine pairs of pants."
+            ],
+            [
+                179,
+                "I see. I own nine pairs of underpants."
+            ],
+            [
+                181,
+                "But I don\u2019t want to know how many underpants you own. Although, based on the floor of your bedroom, I\u2019d say it\u2019s a thousand."
+            ],
+            [
+                183,
+                "I\u2019ve seen that. Yeah. Serial Apeist. Howard found it online the day we met you."
+            ],
+            [
+                185,
+                "And it was literally the moment you walked out the door. But I see the type of personal revelations you\u2019re going for. Okay, here\u2019s one I thought I\u2019d take to the grave."
+            ],
+            [
+                187,
+                "Hmm. A while back, YouTube changed its user interface from a star-based rating system to a thumbs-up rating system. I tell people I\u2019m okay with it, but I\u2019m really not."
+            ],
+            [
+                189,
+                "Yes. Whew, I feel ten pounds lighter."
+            ],
+            [
+                191,
+                "Here\u2019s something else you don\u2019t know about me. You just hurt my feelings."
+            ],
+            [
+                193,
+                "I opened up and shared something deeply upsetting to me, and you treated it as if it were nothing."
+            ],
+            [
+                197,
+                "Your apology is accepted."
+            ],
+            [
+                199,
+                "How about a hearty handshake?"
+            ],
+            [
+                201,
+                "Now I know how you felt getting mauled by that sex-crazed gorilla."
+            ]
+        ],
+        "Penny": [
+            [
+                15,
+                "What\u2019s the matter?"
+            ],
+            [
+                17,
+                "Sweetie, did you have a bad dream?"
+            ],
+            [
+                19,
+                "Aw."
+            ],
+            [
+                21,
+                "Good night."
+            ],
+            [
+                23,
+                "You know what? That would make me feel better. Thank you."
+            ],
+            [
+                51,
+                "No."
+            ],
+            [
+                53,
+                "Why don\u2019t you just admit you only want to play this game because you always play it with Leonard and you miss him?"
+            ],
+            [
+                55,
+                "Mmm."
+            ],
+            [
+                57,
+                "Okay, I get it, I get it. You are an emotionless robot."
+            ],
+            [
+                59,
+                "All right, let\u2019s just get this stupid game over with."
+            ],
+            [
+                61,
+                "Okay."
+            ],
+            [
+                63,
+                "Why?"
+            ],
+            [
+                97,
+                "Really? Why?"
+            ],
+            [
+                99,
+                "So that means I lose, right? It\u2019s over?"
+            ],
+            [
+                101,
+                "Okay, let\u2019s take a break. "
+            ],
+            [
+                103,
+                "I wasn\u2019t going to get alcohol. Gosh, I wonder what Leonard\u2019s doing right now. I miss him so much."
+            ],
+            [
+                105,
+                "I\u2019m calling him."
+            ],
+            [
+                108,
+                "Leonard?"
+            ],
+            [
+                111,
+                "Wow, it sounds like you\u2019re having a good time."
+            ],
+            [
+                115,
+                "Uh, okay, well, we were just calling you because we were missing you."
+            ],
+            [
+                121,
+                "Leonard, Leonard? I cannot believe we were missing that jerk."
+            ],
+            [
+                142,
+                "I can\u2019t believe it. All this time I\u2019ve been doing nothing but sit around and miss that guy. And you know what the worst part is?"
+            ],
+            [
+                144,
+                "No. Yeah. But you know what the second-worst part is? He does not miss me at all."
+            ],
+            [
+                146,
+                "Really? That, that\u2019s it? That\u2019s comforting?"
+            ],
+            [
+                148,
+                "No. Come on, you\u2019re supposed to say, of course he misses you, the only reason he\u2019s partying is to cover up his pain."
+            ],
+            [
+                150,
+                "This is ridiculous. Why am I upset just because he\u2019s off having a good time?"
+            ],
+            [
+                152,
+                "Okay, that, that\u2019s great. You can stop trying to make me feel better now."
+            ],
+            [
+                154,
+                "He did?"
+            ],
+            [
+                156,
+                "Oh, that\u2019s really sweet."
+            ],
+            [
+                158,
+                "Well, now I miss him even more."
+            ],
+            [
+                160,
+                "Thanks."
+            ],
+            [
+                172,
+                "Come on. It\u2019s still early. Let\u2019s do something."
+            ],
+            [
+                174,
+                "How about we just talk?"
+            ],
+            [
+                176,
+                "No. Come on, let\u2019s talk about our lives. Tell me something about you I don\u2019t know."
+            ],
+            [
+                178,
+                "Okay, that, that\u2019s a good start, but I was thinking maybe something a little more personal."
+            ],
+            [
+                180,
+                "How about I go first?"
+            ],
+            [
+                182,
+                "Okay, look, here\u2019s something people do not know about me. When I first moved out to L.A., I did a topless scene in a low-budget horror movie about a killer gorilla. Ugh! After I did it, I felt so ashamed. Thankfully, that thing never came out."
+            ],
+            [
+                184,
+                "Oh, God."
+            ],
+            [
+                186,
+                "Okay."
+            ],
+            [
+                188,
+                "That\u2019s your big revelation?"
+            ],
+            [
+                190,
+                "Okay, you know what? I give up. I\u2019m going to bed."
+            ],
+            [
+                192,
+                "What did I do?"
+            ],
+            [
+                194,
+                "I, I didn\u2019t think it was a big deal."
+            ],
+            [
+                196,
+                "Sheldon, you are right. I\u2019m really sorry. I should\u2019ve known better."
+            ],
+            [
+                198,
+                "Thank you. How about a hug?"
+            ],
+            [
+                200,
+                "Come on."
+            ],
+            [
+                237,
+                "Aaaaaaah!"
+            ]
+        ],
+        "Raj": [
+            [
+                27,
+                "I think you\u2019d be pleased to hear that this morning in the parking garage I saw this oil stain on the ground that was shaped just like my ex-girlfriend, Lucy, and I didn\u2019t get upset at all."
+            ],
+            [
+                29,
+                "Well, you should be, \u2019cause she was looking good."
+            ],
+            [
+                31,
+                "Is that true?"
+            ],
+            [
+                34,
+                "How can I meet someone new when everywhere I look, I see Lucy\u2019s face? Tell me you don\u2019t see her smile in the crust of this chicken pot pie."
+            ],
+            [
+                36,
+                "You think you\u2019re so cool because your wife is a person?"
+            ],
+            [
+                38,
+                "You would do that for me?"
+            ],
+            [
+                40,
+                "Thanks. Oh, Sheldon, since Amy\u2019s out of town, would you like to join us?"
+            ],
+            [
+                66,
+                "Wow, your work on jellyfish neural nets sounds so interesting. "
+            ],
+            [
+                68,
+                "I will. You can download my paper on the Van Allen Belts from the university server as well."
+            ],
+            [
+                70,
+                "All right."
+            ],
+            [
+                72,
+                "Well, if you like dry, factual statements interspersed with painful moments of silence, it was bananas."
+            ],
+            [
+                74,
+                "Oh, great. There go my chances of being sexually harassed."
+            ],
+            [
+                76,
+                "That\u2019s so much better than the old, ugly ones."
+            ],
+            [
+                79,
+                "You know, I recently read a fascinating article on infidelity among penguins."
+            ],
+            [
+                81,
+                "So if the fact that your husband left you makes you feel unattractive, just remember, penguins get cheated on, and they\u2019re adorable."
+            ],
+            [
+                163,
+                "Uh, excuse me, Mrs. Davis?"
+            ],
+            [
+                165,
+                "I\u2019d like to apologize for being insensitive. And for possibly making penguins seem like jerks, because 99% of them are stand-up guys."
+            ],
+            [
+                167,
+                "You know, you, you and I, you and I have a lot in common."
+            ],
+            [
+                169,
+                "Oh, yes, I, I too am in the throes of heartbreak. Okay, fine, I\u2019ll tell you about it."
+            ],
+            [
+                216,
+                "Yeah, I can relate to being a single parent. I have a dog."
+            ],
+            [
+                218,
+                "Mrs. Davis, I, uh, I must confess, I came here tonight in a futile attempt to pick up some lonely postdoc, but instead I got to connect with you at a human level. That\u2019s a much better evening. You\u2019re a lovely person."
+            ],
+            [
+                220,
+                "No, no, no, that would be crazy. I mean, if I were hitting on you, you\u2019d know it \u2019cause you\u2019d feel uncomfortable and a little sad for me."
+            ],
+            [
+                222,
+                "Good night."
+            ],
+            [
+                224,
+                "And then some. I think we had a moment."
+            ],
+            [
+                226,
+                "Who died and made you king of moments?"
+            ],
+            [
+                228,
+                "There was."
+            ],
+            [
+                230,
+                "I will slowly seduce her until she falls helpless into my bed, hungry for the pleasure only I can give her."
+            ],
+            [
+                232,
+                "No, not a thing."
+            ]
+        ],
+        "Howard": [
+            [
+                28,
+                "I\u2019m proud of you."
+            ],
+            [
+                33,
+                "Come on, you can talk to girls now. It shouldn\u2019t be hard for you to meet someone new."
+            ],
+            [
+                35,
+                "Oh, will you stop it. Now, listen to me, there\u2019s a welcome party for incoming post-docs tonight. Go to it and meet someone who isn\u2019t made of grease or pie."
+            ],
+            [
+                37,
+                "Look, Bernie\u2019s at a neuroscience conference with Amy, I\u2019ll go with you."
+            ],
+            [
+                39,
+                "Of course. You\u2019re my friend. I want you to be happy."
+            ],
+            [
+                71,
+                "How\u2019d it go?"
+            ],
+            [
+                73,
+                "Check it out. Mrs. Davis from Human Resources is here. She\u2019s probably on the lookout for sexual harassment."
+            ],
+            [
+                75,
+                "I heard her husband left her for a hot, young undergrad."
+            ],
+            [
+                78,
+                "Mrs. Davis, nice to see you. "
+            ],
+            [
+                82,
+                "It was better when you couldn\u2019t talk to women."
+            ],
+            [
+                223,
+                "Looks like she accepted your apology."
+            ],
+            [
+                225,
+                "Oh, please, you did not have a moment."
+            ],
+            [
+                227,
+                "Okay, fine. Let\u2019s say there was a moment."
+            ],
+            [
+                229,
+                "There wasn\u2019t. But, but even if there was, what are you gonna do about it?"
+            ],
+            [
+                231,
+                "So nothing."
+            ]
+        ],
+        "Bernadette (on phone)": [
+            [
+                43,
+                "Howie, stop. I can\u2019t talk like that. Amy\u2019s right here."
+            ]
+        ],
+        "Amy (on phone)": [
+            [
+                44,
+                "Sheldon, stop. For the last time, I will not bring home bed bugs. "
+            ]
+        ],
+        "Bernadette": [
+            [
+                45,
+                "The hotel\u2019s nice. There\u2019s a pool, a gym, the bar looks like fun. "
+            ],
+            [
+                47,
+                "Aw, I love you, too. If I don\u2019t talk to you before you go to sleep, I\u2019ll meet you in dreamland."
+            ],
+            [
+                84,
+                "I was thinking of going to the lecture on posterior cingulate cortex lesions in the formation of autobiographical memory."
+            ],
+            [
+                86,
+                "To the advancement of science."
+            ],
+            [
+                88,
+                "This is fun, we never really get to talk shop with Penny around. We usually just end up talking about boys."
+            ],
+            [
+                92,
+                "Be cool."
+            ],
+            [
+                94,
+                "You\u2019re right. Thank you."
+            ],
+            [
+                125,
+                "It\u2019s fine. I thanked them again and let them know we\u2019re not available."
+            ],
+            [
+                127,
+                "Yes, it\u2019s all cool. Although, if you wanted to talk to one of them, no one would blame you."
+            ],
+            [
+                129,
+                "I don\u2019t know what I\u2019m saying."
+            ],
+            [
+                131,
+                "Boy, these drinks are strong. Hoo, mama, I\u2019m gonna be huggin\u2019 the toilet tonight."
+            ],
+            [
+                133,
+                "I just meant that you\u2019re not married and your boyfriend\u2019s kind of, Sheldon."
+            ],
+            [
+                135,
+                "Sorry. I have no point. That was a stupid thing to say. Can we please just go back to having a nice time?"
+            ],
+            [
+                137,
+                "Come on. I apologize. Can we please just let it go?"
+            ],
+            [
+                139,
+                "Thanks."
+            ],
+            [
+                203,
+                "Good night."
+            ],
+            [
+                205,
+                "Yeah, that felt nice."
+            ],
+            [
+                207,
+                "So, hypothetically, if, if we were to have gone with them, which one would you have picked?"
+            ],
+            [
+                209,
+                "Oh, good, \u2019cause I liked the tall thin one. He seemed intelligent, kind of a loner, maybe a little sexually inexperienced, like I\u2019d have to teach him a thing or two."
+            ],
+            [
+                211,
+                "Your short sexed-up guy kind of sounds like Howard."
+            ]
+        ],
+        "Amy": [
+            [
+                46,
+                "Because I looked in the bed, and there are no bugs."
+            ],
+            [
+                48,
+                "Good night. No, I will not consider sleeping in my garment bag."
+            ],
+            [
+                85,
+                "Oh, brain lesions are fascinating. Unless they\u2019re yours, then they\u2019re a drag."
+            ],
+            [
+                87,
+                "And to the sick and dying who make it possible."
+            ],
+            [
+                89,
+                "Which is fine, but it\u2019s nice to mix it up with a little intellectual conversation."
+            ],
+            [
+                91,
+                "Oh, my gosh, boys bought us drinks, boys bought us drinks. Thank you, thank you, thank you so much."
+            ],
+            [
+                93,
+                "You be cool. Guys are hitting on us, and not just to get to Penny."
+            ],
+            [
+                124,
+                "So what happened? How\u2019d it go?"
+            ],
+            [
+                126,
+                "So I can drink this without having to give up the goodies?"
+            ],
+            [
+                128,
+                "And why would no one blame me?"
+            ],
+            [
+                130,
+                "Well, it sounds like you\u2019re saying that I could do better than Sheldon."
+            ],
+            [
+                132,
+                "No, tell me, I want to know what you meant by that."
+            ],
+            [
+                134,
+                "And your husband is extremely Howard. What\u2019s your point?"
+            ],
+            [
+                136,
+                "We could, but unfortunately my brain is lesion-free and I remember that rotten thing you just said about my sweet baboo."
+            ],
+            [
+                138,
+                "Sure."
+            ],
+            [
+                140,
+                "Your husband\u2019s weird and his clothes are ridiculous."
+            ],
+            [
+                204,
+                "Mm-hmm. It was rather flattering to have strangers send us drinks."
+            ],
+            [
+                206,
+                "Maybe tomorrow morning we put on some hot pants and see if we can score us some free omelettes."
+            ],
+            [
+                208,
+                "I think I would have gone with the short one with the goofy haircut."
+            ],
+            [
+                210,
+                "Not my guy. I caught him staring at my rack. It\u2019d be nice to be with a man who wants to know what\u2019s underneath my cardigan. FYI, it\u2019s another cardigan."
+            ],
+            [
+                212,
+                "Your brainy virgin kind of sounds like Sheldon."
+            ]
+        ],
+        "Girl": [
+            [
+                67,
+                "It is. You can download my paper off the university server."
+            ],
+            [
+                69,
+                "I will."
+            ]
+        ],
+        "Mrs Davis": [
+            [
+                77,
+                "Mr. Wolowitz, Dr. Koothrappali. "
+            ],
+            [
+                80,
+                "Okay."
+            ],
+            [
+                164,
+                "What?"
+            ],
+            [
+                166,
+                "Forget about it."
+            ],
+            [
+                168,
+                "Is that right?"
+            ],
+            [
+                215,
+                "All right, Dr. Koothrappali, it\u2019s been nice talking to you, but I need to go home and relieve my babysitter."
+            ],
+            [
+                217,
+                "Yeah, it\u2019s exactly the same thing. Good night."
+            ],
+            [
+                219,
+                "Are you hitting on me?"
+            ],
+            [
+                221,
+                "You\u2019re sweet. Good night, Dr. Koothrappali."
+            ]
+        ],
+        "Waiter": [
+            [
+                90,
+                "From the two gentlemen at the bar."
+            ]
+        ],
+        "Leonard (on board boat, at a party, dancing)": [
+            [
+                107,
+                "Excuse me, ladies, my pants are buzzing. North Sea, how can I kelp you?"
+            ]
+        ],
+        "Everybody": [
+            [
+                110,
+                "Hi, Penny!"
+            ],
+            [
+                120,
+                "Berg! Berg! Berg! Berg! Berg! Berg!"
+            ]
+        ],
+        "Random voice": [
+            [
+                116,
+                "Iceberg!"
+            ]
+        ],
+        "Sheldon: It is to me": [
+            [
+                195,
+                "that\u2019s the point."
+            ]
+        ],
+        "Both": [
+            [
+                213,
+                "Good night."
+            ]
+        ],
+        "Penny (acting)": [
+            [
+                234,
+                "Ah, I\u2019m so glad the police finally caught that psychotic genetically engineered ape."
+            ]
+        ],
+        "Leonard (on ship)": [
+            [
+                235,
+                "That is my girlfriend. I swear to God."
+            ]
+        ],
+        "Everyone (on ship)": [
+            [
+                236,
+                "Leonard! Leonard! Leonard! Leonard!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "On the deck of a ship on the North Sea, in the middle of a storm. Leonard is on a sat-phone."
+        ],
+        [
+            "Leonard",
+            "Sheldon, it\u2019s not a great time, what do you want?"
+        ],
+        [
+            "Sheldon (in the apartment)",
+            "Hello to you, too. I\u2019m sorry, but this is important."
+        ],
+        [
+            "Leonard",
+            "What is it?"
+        ],
+        [
+            "Sheldon",
+            "Back to the Future II was in the Back to the Future III case, and Back to the Future III was, get this, in the Back to the Future II case."
+        ],
+        [
+            "Leonard",
+            "So?"
+        ],
+        [
+            "Sheldon",
+            "So, did you do that, or am I in the house with an intruder?"
+        ],
+        [
+            "Leonard",
+            "Sheldon, I got to go inside. It\u2019s getting rough out here."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re dodging the question, I knew it was you. What was that?"
+        ],
+        [
+            "Leonard",
+            "What was what?"
+        ],
+        [
+            "Sheldon",
+            "This isn\u2019t a very good connection, but it sounded like someone just released a kraken."
+        ],
+        [
+            "Leonard",
+            "Okay, I\u2019m hanging up now. You know there\u2019s no such thing as a k\u2026 (Leonard is attacked and dragged into the sea by a huge tentacle. Sheldon wakes up in bed.)"
+        ],
+        [
+            "Sheldon",
+            "No!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment door."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny. "
+        ],
+        [
+            "Penny",
+            "What\u2019s the matter?"
+        ],
+        [
+            "Sheldon",
+            "Um, well, I was worried that you might be missing Leonard. And that might be causing you to have bad dreams, like the kind you\u2019d get if you watched Clash of the Titans right before you went to bed."
+        ],
+        [
+            "Penny",
+            "Sweetie, did you have a bad dream?"
+        ],
+        [
+            "Sheldon",
+            "To be honest, I did."
+        ],
+        [
+            "Penny",
+            "Aw."
+        ],
+        [
+            "Sheldon",
+            "Back to the Future II was in the Back to the Future III case. Leonard did it."
+        ],
+        [
+            "Penny",
+            "Good night."
+        ],
+        [
+            "Sheldon",
+            "No, wait. Perhaps I should sleep here so you don\u2019t miss Leonard as much, uh, \u2019cause you\u2019re being kind of a baby about it."
+        ],
+        [
+            "Penny",
+            "You know what? That would make me feel better. Thank you."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re welcome. Good night."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The cafeteria. "
+        ],
+        [
+            "Raj",
+            "I think you\u2019d be pleased to hear that this morning in the parking garage I saw this oil stain on the ground that was shaped just like my ex-girlfriend, Lucy, and I didn\u2019t get upset at all."
+        ],
+        [
+            "Howard",
+            "I\u2019m proud of you."
+        ],
+        [
+            "Raj",
+            "Well, you should be, \u2019cause she was looking good."
+        ],
+        [
+            "Sheldon",
+            "Dear Lord, you\u2019re an astronomer. Although you may have earthly woes, get your mind back on the stars. Gee, even the lowly dung beetle chooses to plot its course by using the Milky Way."
+        ],
+        [
+            "Raj",
+            "Is that true?"
+        ],
+        [
+            "Sheldon",
+            "Everything I say is true. Now, of course, the dung beetle also enjoys eating faeces, living in faeces and making little balls out of faeces, so, you know, pick and choose which aspects of its lifestyle you want to embrace."
+        ],
+        [
+            "Howard",
+            "Come on, you can talk to girls now. It shouldn\u2019t be hard for you to meet someone new."
+        ],
+        [
+            "Raj",
+            "How can I meet someone new when everywhere I look, I see Lucy\u2019s face? Tell me you don\u2019t see her smile in the crust of this chicken pot pie."
+        ],
+        [
+            "Howard",
+            "Oh, will you stop it. Now, listen to me, there\u2019s a welcome party for incoming post-docs tonight. Go to it and meet someone who isn\u2019t made of grease or pie."
+        ],
+        [
+            "Raj",
+            "You think you\u2019re so cool because your wife is a person?"
+        ],
+        [
+            "Howard",
+            "Look, Bernie\u2019s at a neuroscience conference with Amy, I\u2019ll go with you."
+        ],
+        [
+            "Raj",
+            "You would do that for me?"
+        ],
+        [
+            "Howard",
+            "Of course. You\u2019re my friend. I want you to be happy."
+        ],
+        [
+            "Raj",
+            "Thanks. Oh, Sheldon, since Amy\u2019s out of town, would you like to join us?"
+        ],
+        [
+            "Sheldon",
+            "I want you to be happy, too, but not enough to do anything about it."
+        ],
+        [
+            "Scene",
+            "A hotel room."
+        ],
+        [
+            "Bernadette (on phone)",
+            "Howie, stop. I can\u2019t talk like that. Amy\u2019s right here."
+        ],
+        [
+            "Amy (on phone)",
+            "Sheldon, stop. For the last time, I will not bring home bed bugs. "
+        ],
+        [
+            "Bernadette",
+            "The hotel\u2019s nice. There\u2019s a pool, a gym, the bar looks like fun. "
+        ],
+        [
+            "Amy",
+            "Because I looked in the bed, and there are no bugs."
+        ],
+        [
+            "Bernadette",
+            "Aw, I love you, too. If I don\u2019t talk to you before you go to sleep, I\u2019ll meet you in dreamland."
+        ],
+        [
+            "Amy",
+            "Good night. No, I will not consider sleeping in my garment bag."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Penny, did you ever wonder how Starfleet captains\u2026"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Well, now that I\u2019ve piqued your interest, welcome to the exciting world of 3D chess."
+        ],
+        [
+            "Penny",
+            "Why don\u2019t you just admit you only want to play this game because you always play it with Leonard and you miss him?"
+        ],
+        [
+            "Sheldon",
+            "You overestimate his significance in my life."
+        ],
+        [
+            "Penny",
+            "Mmm."
+        ],
+        [
+            "Sheldon",
+            "Do I miss how he makes a face on my toaster waffle with syrup? No. Do I miss the way he fixes the zipper on my jacket when it gets stuck? I don\u2019t think so. Do I miss how we say good night to each other through the walls of our bedroom using Morse code? (Taps out No in morse code on the table)"
+        ],
+        [
+            "Penny",
+            "Okay, I get it, I get it. You are an emotionless robot."
+        ],
+        [
+            "Sheldon",
+            "Well, I try."
+        ],
+        [
+            "Penny",
+            "All right, let\u2019s just get this stupid game over with."
+        ],
+        [
+            "Sheldon",
+            "Great. I\u2019ll go first."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "By the way, how are you with zippers?"
+        ],
+        [
+            "Penny",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "Well, I really need to go to the bathroom, and this one\u2019s gone all cattywampus."
+        ],
+        [
+            "Scene",
+            "The mixer party. "
+        ],
+        [
+            "Raj",
+            "Wow, your work on jellyfish neural nets sounds so interesting. "
+        ],
+        [
+            "Girl",
+            "It is. You can download my paper off the university server."
+        ],
+        [
+            "Raj",
+            "I will. You can download my paper on the Van Allen Belts from the university server as well."
+        ],
+        [
+            "Girl",
+            "I will."
+        ],
+        [
+            "Raj",
+            "All right."
+        ],
+        [
+            "Howard",
+            "How\u2019d it go?"
+        ],
+        [
+            "Raj",
+            "Well, if you like dry, factual statements interspersed with painful moments of silence, it was bananas."
+        ],
+        [
+            "Howard",
+            "Check it out. Mrs. Davis from Human Resources is here. She\u2019s probably on the lookout for sexual harassment."
+        ],
+        [
+            "Raj",
+            "Oh, great. There go my chances of being sexually harassed."
+        ],
+        [
+            "Howard",
+            "I heard her husband left her for a hot, young undergrad."
+        ],
+        [
+            "Raj",
+            "That\u2019s so much better than the old, ugly ones."
+        ],
+        [
+            "Mrs Davis",
+            "Mr. Wolowitz, Dr. Koothrappali. "
+        ],
+        [
+            "Howard",
+            "Mrs. Davis, nice to see you. "
+        ],
+        [
+            "Raj",
+            "You know, I recently read a fascinating article on infidelity among penguins."
+        ],
+        [
+            "Mrs Davis",
+            "Okay."
+        ],
+        [
+            "Raj",
+            "So if the fact that your husband left you makes you feel unattractive, just remember, penguins get cheated on, and they\u2019re adorable."
+        ],
+        [
+            "Howard",
+            "It was better when you couldn\u2019t talk to women."
+        ],
+        [
+            "Scene",
+            "The hotel bar."
+        ],
+        [
+            "Bernadette",
+            "I was thinking of going to the lecture on posterior cingulate cortex lesions in the formation of autobiographical memory."
+        ],
+        [
+            "Amy",
+            "Oh, brain lesions are fascinating. Unless they\u2019re yours, then they\u2019re a drag."
+        ],
+        [
+            "Bernadette",
+            "To the advancement of science."
+        ],
+        [
+            "Amy",
+            "And to the sick and dying who make it possible."
+        ],
+        [
+            "Bernadette",
+            "This is fun, we never really get to talk shop with Penny around. We usually just end up talking about boys."
+        ],
+        [
+            "Amy",
+            "Which is fine, but it\u2019s nice to mix it up with a little intellectual conversation."
+        ],
+        [
+            "Waiter",
+            "From the two gentlemen at the bar."
+        ],
+        [
+            "Amy",
+            "Oh, my gosh, boys bought us drinks, boys bought us drinks. Thank you, thank you, thank you so much."
+        ],
+        [
+            "Bernadette",
+            "Be cool."
+        ],
+        [
+            "Amy",
+            "You be cool. Guys are hitting on us, and not just to get to Penny."
+        ],
+        [
+            "Bernadette",
+            "You\u2019re right. Thank you."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Ooh. Bad move."
+        ],
+        [
+            "Penny",
+            "Really? Why?"
+        ],
+        [
+            "Sheldon",
+            "My queen can now take your rook from below."
+        ],
+        [
+            "Penny",
+            "So that means I lose, right? It\u2019s over?"
+        ],
+        [
+            "Sheldon",
+            "If I make this move, but I won\u2019t because we\u2019re having too much fun."
+        ],
+        [
+            "Penny",
+            "Okay, let\u2019s take a break. "
+        ],
+        [
+            "Sheldon",
+            "We\u2019re all out of alcohol."
+        ],
+        [
+            "Penny",
+            "I wasn\u2019t going to get alcohol. Gosh, I wonder what Leonard\u2019s doing right now. I miss him so much."
+        ],
+        [
+            "Sheldon",
+            "Well, if you\u2019d like, we could call him. I mean that you could call him. As I\u2019ve explained, the absence of my friends does not cause me pain. As rock and roll bad boy Paul Simon once said, I am a rock, I am an i-i-i-island."
+        ],
+        [
+            "Penny",
+            "I\u2019m calling him."
+        ],
+        [
+            "Sheldon",
+            "Oh, goodie, put him on speaker phone."
+        ],
+        [
+            "Leonard (on board boat, at a party, dancing)",
+            "Excuse me, ladies, my pants are buzzing. North Sea, how can I kelp you?"
+        ],
+        [
+            "Penny",
+            "Leonard?"
+        ],
+        [
+            "Leonard",
+            "Penny? Hey, it\u2019s Penny. Everybody say hi to Penny."
+        ],
+        [
+            "Everybody",
+            "Hi, Penny!"
+        ],
+        [
+            "Penny",
+            "Wow, it sounds like you\u2019re having a good time."
+        ],
+        [
+            "Leonard",
+            "Best time of my life. "
+        ],
+        [
+            "Sheldon",
+            "Isn\u2019t it five thirty in the morning there?"
+        ],
+        [
+            "Leonard",
+            "Is it? Hey, everybody, it\u2019s five thirty in the morning!"
+        ],
+        [
+            "Penny",
+            "Uh, okay, well, we were just calling you because we were missing you."
+        ],
+        [
+            "Random voice",
+            "Iceberg!"
+        ],
+        [
+            "Leonard",
+            "Uh-oh, hang on."
+        ],
+        [
+            "Sheldon",
+            "Are you in danger?"
+        ],
+        [
+            "Leonard",
+            "No, it\u2019s a drinking game. Whenever we see an iceberg, we take a shot!"
+        ],
+        [
+            "Everybody",
+            "Berg! Berg! Berg! Berg! Berg! Berg!"
+        ],
+        [
+            "Penny",
+            "Leonard, Leonard? I cannot believe we were missing that jerk."
+        ],
+        [
+            "Sheldon",
+            "You were."
+        ],
+        [
+            "Scene",
+            "The hotel bar."
+        ],
+        [
+            "Amy",
+            "So what happened? How\u2019d it go?"
+        ],
+        [
+            "Bernadette",
+            "It\u2019s fine. I thanked them again and let them know we\u2019re not available."
+        ],
+        [
+            "Amy",
+            "So I can drink this without having to give up the goodies?"
+        ],
+        [
+            "Bernadette",
+            "Yes, it\u2019s all cool. Although, if you wanted to talk to one of them, no one would blame you."
+        ],
+        [
+            "Amy",
+            "And why would no one blame me?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know what I\u2019m saying."
+        ],
+        [
+            "Amy",
+            "Well, it sounds like you\u2019re saying that I could do better than Sheldon."
+        ],
+        [
+            "Bernadette",
+            "Boy, these drinks are strong. Hoo, mama, I\u2019m gonna be huggin\u2019 the toilet tonight."
+        ],
+        [
+            "Amy",
+            "No, tell me, I want to know what you meant by that."
+        ],
+        [
+            "Bernadette",
+            "I just meant that you\u2019re not married and your boyfriend\u2019s kind of, Sheldon."
+        ],
+        [
+            "Amy",
+            "And your husband is extremely Howard. What\u2019s your point?"
+        ],
+        [
+            "Bernadette",
+            "Sorry. I have no point. That was a stupid thing to say. Can we please just go back to having a nice time?"
+        ],
+        [
+            "Amy",
+            "We could, but unfortunately my brain is lesion-free and I remember that rotten thing you just said about my sweet baboo."
+        ],
+        [
+            "Bernadette",
+            "Come on. I apologize. Can we please just let it go?"
+        ],
+        [
+            "Amy",
+            "Sure."
+        ],
+        [
+            "Bernadette",
+            "Thanks."
+        ],
+        [
+            "Amy",
+            "Your husband\u2019s weird and his clothes are ridiculous."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "I can\u2019t believe it. All this time I\u2019ve been doing nothing but sit around and miss that guy. And you know what the worst part is?"
+        ],
+        [
+            "Sheldon",
+            "That you\u2019re having to process your emotional pain without vodka?"
+        ],
+        [
+            "Penny",
+            "No. Yeah. But you know what the second-worst part is? He does not miss me at all."
+        ],
+        [
+            "Sheldon",
+            "Allow me to comfort you. At least you\u2019ve got your health."
+        ],
+        [
+            "Penny",
+            "Really? That, that\u2019s it? That\u2019s comforting?"
+        ],
+        [
+            "Sheldon",
+            "Um, uh, in a hundred years, you\u2019ll both be dead and it won\u2019t matter?"
+        ],
+        [
+            "Penny",
+            "No. Come on, you\u2019re supposed to say, of course he misses you, the only reason he\u2019s partying is to cover up his pain."
+        ],
+        [
+            "Sheldon",
+            "Oh, no, I don\u2019t think that\u2019s true at all."
+        ],
+        [
+            "Penny",
+            "This is ridiculous. Why am I upset just because he\u2019s off having a good time?"
+        ],
+        [
+            "Sheldon",
+            "Well, perhaps you\u2019re obsessively picturing him engaged in drunken coitus with another woman. Is that it? Did I get it right?"
+        ],
+        [
+            "Penny",
+            "Okay, that, that\u2019s great. You can stop trying to make me feel better now."
+        ],
+        [
+            "Sheldon",
+            "Actually, I can\u2019t. Before Leonard left, he made me promise that I\u2019d take care of you."
+        ],
+        [
+            "Penny",
+            "He did?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s really sweet."
+        ],
+        [
+            "Sheldon",
+            "Plus, if I do a good job, he said he\u2019d bring me back a sailor\u2019s cap."
+        ],
+        [
+            "Penny",
+            "Well, now I miss him even more."
+        ],
+        [
+            "Sheldon",
+            "Well, if it\u2019s any consolation, I\u2019m sure Leonard\u2019s tormented every moment he\u2019s away from your warm embrace and cherry lips."
+        ],
+        [
+            "Penny",
+            "Thanks."
+        ],
+        [
+            "Sheldon",
+            "Oh, seriously?"
+        ],
+        [
+            "Scene",
+            "The mixer."
+        ],
+        [
+            "Raj",
+            "Uh, excuse me, Mrs. Davis?"
+        ],
+        [
+            "Mrs Davis",
+            "What?"
+        ],
+        [
+            "Raj",
+            "I\u2019d like to apologize for being insensitive. And for possibly making penguins seem like jerks, because 99% of them are stand-up guys."
+        ],
+        [
+            "Mrs Davis",
+            "Forget about it."
+        ],
+        [
+            "Raj",
+            "You know, you, you and I, you and I have a lot in common."
+        ],
+        [
+            "Mrs Davis",
+            "Is that right?"
+        ],
+        [
+            "Raj",
+            "Oh, yes, I, I too am in the throes of heartbreak. Okay, fine, I\u2019ll tell you about it."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "Here is a hot beverage to comfort you. It\u2019s in a to-go cup. Make of that what you will."
+        ],
+        [
+            "Penny",
+            "Come on. It\u2019s still early. Let\u2019s do something."
+        ],
+        [
+            "Sheldon",
+            "Well, I have been toying around with an idea for 4D chess."
+        ],
+        [
+            "Penny",
+            "How about we just talk?"
+        ],
+        [
+            "Sheldon",
+            "All right. In 4D chess\u2026"
+        ],
+        [
+            "Penny",
+            "No. Come on, let\u2019s talk about our lives. Tell me something about you I don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "I own nine pairs of pants."
+        ],
+        [
+            "Penny",
+            "Okay, that, that\u2019s a good start, but I was thinking maybe something a little more personal."
+        ],
+        [
+            "Sheldon",
+            "I see. I own nine pairs of underpants."
+        ],
+        [
+            "Penny",
+            "How about I go first?"
+        ],
+        [
+            "Sheldon",
+            "But I don\u2019t want to know how many underpants you own. Although, based on the floor of your bedroom, I\u2019d say it\u2019s a thousand."
+        ],
+        [
+            "Penny",
+            "Okay, look, here\u2019s something people do not know about me. When I first moved out to L.A., I did a topless scene in a low-budget horror movie about a killer gorilla. Ugh! After I did it, I felt so ashamed. Thankfully, that thing never came out."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve seen that. Yeah. Serial Apeist. Howard found it online the day we met you."
+        ],
+        [
+            "Penny",
+            "Oh, God."
+        ],
+        [
+            "Sheldon",
+            "And it was literally the moment you walked out the door. But I see the type of personal revelations you\u2019re going for. Okay, here\u2019s one I thought I\u2019d take to the grave."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "Hmm. A while back, YouTube changed its user interface from a star-based rating system to a thumbs-up rating system. I tell people I\u2019m okay with it, but I\u2019m really not."
+        ],
+        [
+            "Penny",
+            "That\u2019s your big revelation?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Whew, I feel ten pounds lighter."
+        ],
+        [
+            "Penny",
+            "Okay, you know what? I give up. I\u2019m going to bed."
+        ],
+        [
+            "Sheldon",
+            "Here\u2019s something else you don\u2019t know about me. You just hurt my feelings."
+        ],
+        [
+            "Penny",
+            "What did I do?"
+        ],
+        [
+            "Sheldon",
+            "I opened up and shared something deeply upsetting to me, and you treated it as if it were nothing."
+        ],
+        [
+            "Penny",
+            "I, I didn\u2019t think it was a big deal."
+        ],
+        [
+            "Sheldon: It is to me",
+            "that\u2019s the point."
+        ],
+        [
+            "Penny",
+            "Sheldon, you are right. I\u2019m really sorry. I should\u2019ve known better."
+        ],
+        [
+            "Sheldon",
+            "Your apology is accepted."
+        ],
+        [
+            "Penny",
+            "Thank you. How about a hug?"
+        ],
+        [
+            "Sheldon",
+            "How about a hearty handshake?"
+        ],
+        [
+            "Penny",
+            "Come on."
+        ],
+        [
+            "Sheldon",
+            "Now I know how you felt getting mauled by that sex-crazed gorilla."
+        ],
+        [
+            "Scene",
+            "The hotel room."
+        ],
+        [
+            "Bernadette",
+            "Good night."
+        ],
+        [
+            "Amy",
+            "Mm-hmm. It was rather flattering to have strangers send us drinks."
+        ],
+        [
+            "Bernadette",
+            "Yeah, that felt nice."
+        ],
+        [
+            "Amy",
+            "Maybe tomorrow morning we put on some hot pants and see if we can score us some free omelettes."
+        ],
+        [
+            "Bernadette",
+            "So, hypothetically, if, if we were to have gone with them, which one would you have picked?"
+        ],
+        [
+            "Amy",
+            "I think I would have gone with the short one with the goofy haircut."
+        ],
+        [
+            "Bernadette",
+            "Oh, good, \u2019cause I liked the tall thin one. He seemed intelligent, kind of a loner, maybe a little sexually inexperienced, like I\u2019d have to teach him a thing or two."
+        ],
+        [
+            "Amy",
+            "Not my guy. I caught him staring at my rack. It\u2019d be nice to be with a man who wants to know what\u2019s underneath my cardigan. FYI, it\u2019s another cardigan."
+        ],
+        [
+            "Bernadette",
+            "Your short sexed-up guy kind of sounds like Howard."
+        ],
+        [
+            "Amy",
+            "Your brainy virgin kind of sounds like Sheldon."
+        ],
+        [
+            "Both",
+            "Good night."
+        ],
+        [
+            "Scene",
+            "The mixer."
+        ],
+        [
+            "Mrs Davis",
+            "All right, Dr. Koothrappali, it\u2019s been nice talking to you, but I need to go home and relieve my babysitter."
+        ],
+        [
+            "Raj",
+            "Yeah, I can relate to being a single parent. I have a dog."
+        ],
+        [
+            "Mrs Davis",
+            "Yeah, it\u2019s exactly the same thing. Good night."
+        ],
+        [
+            "Raj",
+            "Mrs. Davis, I, uh, I must confess, I came here tonight in a futile attempt to pick up some lonely postdoc, but instead I got to connect with you at a human level. That\u2019s a much better evening. You\u2019re a lovely person."
+        ],
+        [
+            "Mrs Davis",
+            "Are you hitting on me?"
+        ],
+        [
+            "Raj",
+            "No, no, no, that would be crazy. I mean, if I were hitting on you, you\u2019d know it \u2019cause you\u2019d feel uncomfortable and a little sad for me."
+        ],
+        [
+            "Mrs Davis",
+            "You\u2019re sweet. Good night, Dr. Koothrappali."
+        ],
+        [
+            "Raj",
+            "Good night."
+        ],
+        [
+            "Howard",
+            "Looks like she accepted your apology."
+        ],
+        [
+            "Raj",
+            "And then some. I think we had a moment."
+        ],
+        [
+            "Howard",
+            "Oh, please, you did not have a moment."
+        ],
+        [
+            "Raj",
+            "Who died and made you king of moments?"
+        ],
+        [
+            "Howard",
+            "Okay, fine. Let\u2019s say there was a moment."
+        ],
+        [
+            "Raj",
+            "There was."
+        ],
+        [
+            "Howard",
+            "There wasn\u2019t. But, but even if there was, what are you gonna do about it?"
+        ],
+        [
+            "Raj",
+            "I will slowly seduce her until she falls helpless into my bed, hungry for the pleasure only I can give her."
+        ],
+        [
+            "Howard",
+            "So nothing."
+        ],
+        [
+            "Raj",
+            "No, not a thing."
+        ],
+        [
+            "Scene",
+            "A bathroom shower."
+        ],
+        [
+            "Penny (acting)",
+            "Ah, I\u2019m so glad the police finally caught that psychotic genetically engineered ape."
+        ],
+        [
+            "Leonard (on ship)",
+            "That is my girlfriend. I swear to God."
+        ],
+        [
+            "Everyone (on ship)",
+            "Leonard! Leonard! Leonard! Leonard!"
+        ],
+        [
+            "Penny",
+            "Aaaaaaah!"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-01-the-hofstadter-insufficiency/"
+}

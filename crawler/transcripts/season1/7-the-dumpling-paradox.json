@@ -1,0 +1,2426 @@
+{
+    "Season": 1,
+    "Episode": 7,
+    "Title": "the dumpling paradox",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment, the living room."
+            ],
+            [
+                32,
+                "Credit Sequence"
+            ],
+            [
+                33,
+                "Penny, Sheldon, Raj and Leonard stand in the apartment doorway. Romantic music plays from Penny\u2019s apartment door. "
+            ],
+            [
+                54,
+                "Time shift"
+            ],
+            [
+                122,
+                "(Penny turns off light and lies down on couch. Across the room, Raj is still in the kitchen, eating a sandwich. Realising everyone has forgotten about him, he quietly lets himself out. Penny hears the door close, looks worried, then moves her head to the other end of the couch.)"
+            ],
+            [
+                123,
+                "The following morning. Sheldon is in the kitchen making breakfast. He crosses to the couch, sees Penny sleeping there, looks lost. He is about to sit down on Penny when Leonard enters."
+            ],
+            [
+                180,
+                "A Chinese restaurant. "
+            ],
+            [
+                217,
+                "Outside Penny\u2019s door. Leonard knocks. "
+            ],
+            [
+                252,
+                "Outside Howard\u2019s house. "
+            ],
+            [
+                274,
+                "The apartment, Halo night. "
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "Watch this, it\u2019s really cool. Call Leonard Hofstadter."
+            ],
+            [
+                3,
+                "No. Call Leonard Hofstadter."
+            ],
+            [
+                5,
+                "No."
+            ],
+            [
+                13,
+                "If we\u2019re having anchovies on the pizza we can\u2019t take it out of bathroom time. (There is a knock on the door.)"
+            ],
+            [
+                17,
+                "See a Penny, pick her up, and all the day you\u2019ll have good luck."
+            ],
+            [
+                23,
+                "Well, is she doing it one thong at a time, or does she just throw it all in, like some sort of erotic bouillabaisse."
+            ],
+            [
+                138,
+                "Oh, yeah, sorry, I\u2019ll have it cleaned."
+            ],
+            [
+                140,
+                "In the shower. Oh, by the way, where did you get that loofah mitt, yours reaches places that mine just won\u2019t."
+            ],
+            [
+                142,
+                "More precisely we used your loofah. I exfoliated her brains out! "
+            ],
+            [
+                144,
+                "Ah, well then we\u2019ll probably need to talk about your stuffed bear collection."
+            ],
+            [
+                146,
+                "In here my lady."
+            ],
+            [
+                148,
+                "chka-chka-chka-chka-chka-chka-chka (they kiss)."
+            ],
+            [
+                159,
+                "Let me offer a little outside the box thinking here, why doesn\u2019t Christie stay with me."
+            ],
+            [
+                161,
+                "I do not, my mother lives with me. "
+            ],
+            [
+                165,
+                "So, what do you say, you wanna repair to Castle Wolowitz? "
+            ],
+            [
+                167,
+                "I\u2019m sorry, I should have mentioned this earlier, my last name is Wolowitz."
+            ],
+            [
+                171,
+                "Anything you want."
+            ],
+            [
+                173,
+                "When they perfect human cloning I\u2019m going to order twelve of those."
+            ],
+            [
+                175,
+                "Who cares, last night she pulled off her blouse and I wept!"
+            ],
+            [
+                177,
+                "Really?"
+            ],
+            [
+                179,
+                "Yay! If you\u2019ll excuse me, I have some Bar-Mizvah bonds to cash. "
+            ],
+            [
+                264,
+                "What are you guys doing here? "
+            ],
+            [
+                271,
+                "So, Halo night, huh? "
+            ],
+            [
+                275,
+                "Sheldon, you got him in your sights, fire, he\u2019s charging his plasma rifle. "
+            ],
+            [
+                286,
+                "Son of a bitch, medpack, I need a medpack! "
+            ]
+        ],
+        "Howard\u2019s phone": [
+            [
+                2,
+                "Did you say, call Helen Boxleitner?"
+            ],
+            [
+                4,
+                "Did you say, call Temple Beth Sader. "
+            ],
+            [
+                7,
+                "Calling Rajesh Koothrappali. (Raj\u2019s phone rings)."
+            ]
+        ],
+        "Leonard": [
+            [
+                6,
+                "Here, let me try. Call McFlono McFloonyloo. Heh-heh. "
+            ],
+            [
+                10,
+                "So? We\u2019ll start now."
+            ],
+            [
+                19,
+                "Sure. What\u2019s going on."
+            ],
+            [
+                25,
+                "So, if you don\u2019t like this Christie, why are you letting her stay? "
+            ],
+            [
+                28,
+                "Oh, I don\u2019t think she\u2019s a whore."
+            ],
+            [
+                36,
+                "Okay, fine, we\u2019ll just play one on one until he gets back. "
+            ],
+            [
+                38,
+                "Well the only way we can play teams at this point is if we cut Raj in half."
+            ],
+            [
+                41,
+                "Great idea."
+            ],
+            [
+                50,
+                "It\u2019s the only way we can play teams. "
+            ],
+            [
+                57,
+                "Penny, you are on fire."
+            ],
+            [
+                65,
+                "Well, to be fair, he is also a rather unpleasant winner. "
+            ],
+            [
+                67,
+                "You know, Penny, we make such a good team, maybe we could enter a couple of Halo tournaments sometime."
+            ],
+            [
+                69,
+                "I guess for you that\u2019s an option."
+            ],
+            [
+                71,
+                "Good night."
+            ],
+            [
+                74,
+                "She\u2019s an enigma, Raj. "
+            ],
+            [
+                76,
+                "She\u2019s gone, Sheldon. "
+            ],
+            [
+                80,
+                "What\u2019s wrong?"
+            ],
+            [
+                82,
+                "Are you sure?"
+            ],
+            [
+                84,
+                "No, take the couch, or my bed, I just got new pillows, hypo-allergenics. "
+            ],
+            [
+                87,
+                "Let me guess, you have a problem with this."
+            ],
+            [
+                89,
+                "It\u2019s up to you, crazy person\u2019s choice. "
+            ],
+            [
+                91,
+                "Your friendship means a lot to me as well, what else? "
+            ],
+            [
+                93,
+                "So? "
+            ],
+            [
+                95,
+                "I\u2019m sorry, are you suggesting that if we let Penny stay we might succumb to cannibalism?"
+            ],
+            [
+                97,
+                "Penny, if you promise not to chew the flesh off our bones while we sleep, you can stay. "
+            ],
+            [
+                100,
+                "I\u2019ll get you a blanket and a pillow. "
+            ],
+            [
+                104,
+                "Here you go."
+            ],
+            [
+                115,
+                "Sorry about that."
+            ],
+            [
+                117,
+                "FYI, his toothbrush is the red one in the plexiglass case under the UV light. "
+            ],
+            [
+                119,
+                "Well, sleep tight."
+            ],
+            [
+                121,
+                "Funny expression, sleep tight. It refers to the early construction of beds which featured a mattress suspended on interlocking ropes which would occasionally\u2026 sleep tight. "
+            ],
+            [
+                124,
+                "What are you doing? "
+            ],
+            [
+                126,
+                "Penny\u2019s still sleeping."
+            ],
+            [
+                128,
+                "I know, I know, look, you have a TV in your room, why don\u2019t you just have breakfast in bed? "
+            ],
+            [
+                151,
+                "Leonard. "
+            ],
+            [
+                157,
+                "Penny, you\u2019re always welcome to stay with us."
+            ],
+            [
+                160,
+                "For one thing you live with your mother."
+            ],
+            [
+                163,
+                "Sheldon you just can\u2019t dictate\u2026"
+            ],
+            [
+                174,
+                "Howard, can\u2019t you see she\u2019s using you?"
+            ],
+            [
+                182,
+                "We can\u2019t order Chinese food without Wolowitz?"
+            ],
+            [
+                184,
+                "I see a problem. "
+            ],
+            [
+                186,
+                "So, we\u2019ll just order three entrees."
+            ],
+            [
+                193,
+                "Can we get an order of dumplings, but with three instead of four."
+            ],
+            [
+                195,
+                "This isn\u2019t a substitution, it\u2019s a reduction. "
+            ],
+            [
+                197,
+                "Fine, bring us three orders of dumplings, that\u2019s twelve, we\u2019ll each have four. "
+            ],
+            [
+                201,
+                "If we have extra, we\u2019ll just take the leftovers home."
+            ],
+            [
+                203,
+                "Wolowitz is with his new girlfriend, if you had let me invite Penny then you would have had your fourth."
+            ],
+            [
+                205,
+                "We don\u2019t order egg rolls."
+            ],
+            [
+                208,
+                "Here\u2019s an idea, why don\u2019t we just go out for Indian food."
+            ],
+            [
+                215,
+                "Yeah, we can always divide soup."
+            ],
+            [
+                221,
+                "Well, with Wolowitz spending all of his time with your friend Christie, "
+            ],
+            [
+                223,
+                "Right, anyway, uh, with Wolowitz occupied elsewhere, we had something we wanted to ask you. Sheldon?"
+            ],
+            [
+                234,
+                "Sheldon, remember, we role-played this."
+            ],
+            [
+                237,
+                "Maybe we should have asked if we could go dancing with her and her girlfriend. "
+            ],
+            [
+                239,
+                "So?"
+            ],
+            [
+                241,
+                "Aaah, for God\u2019s sake, Sheldon, you are driving me crazy. "
+            ],
+            [
+                243,
+                "No, I\u2019m pretty sure my anger\u2019s with you."
+            ],
+            [
+                245,
+                "Who are you calling?"
+            ],
+            [
+                253,
+                "Sheldon, think this through, you\u2019re going to ask Howard to choose between sex and Halo."
+            ],
+            [
+                255,
+                "You\u2019re right, all sex has is nudity, orgasms and human contact. "
+            ],
+            [
+                277,
+                "Now, Raj, kill Sheldon."
+            ],
+            [
+                280,
+                "Well then start throwing grenades."
+            ],
+            [
+                283,
+                "That will do, Raj, straight for the tank."
+            ],
+            [
+                288,
+                "There\u2019s a sniper, use your rocket launcher. "
+            ],
+            [
+                291,
+                "I thought I heard something. "
+            ],
+            [
+                293,
+                "No, never mind, alright, go. "
+            ]
+        ],
+        "Raj": [
+            [
+                8,
+                "Oh, that\u2019s very impressive. And a little racist. "
+            ],
+            [
+                12,
+                "We can split it two, two and two."
+            ],
+            [
+                39,
+                "Oh, sure, cut the foreigner in half, there\u2019s a billion more where he came from. "
+            ],
+            [
+                73,
+                "What do you suppose she meant by that?"
+            ],
+            [
+                188,
+                "We could cut it into thirds. "
+            ],
+            [
+                198,
+                "That works. "
+            ],
+            [
+                207,
+                "Can we please make a decision, not only are there children starving in India, there\u2019s an Indian starving right here. "
+            ],
+            [
+                210,
+                "Uurgh."
+            ],
+            [
+                214,
+                "How about soup?"
+            ],
+            [
+                244,
+                "What\u2019s happening to us? We\u2019re falling apart. "
+            ],
+            [
+                272,
+                "I thought she was the whore of Omaha?"
+            ],
+            [
+                278,
+                "I can\u2019t see him."
+            ],
+            [
+                281,
+                "I\u2019m all out. "
+            ],
+            [
+                285,
+                "There are no rules in hell! "
+            ],
+            [
+                289,
+                "All I\u2019ve got is a needler, and I\u2019m all out of ammo. "
+            ],
+            [
+                292,
+                "What?"
+            ]
+        ],
+        "Sheldon: If we\u2019re all through playing mock the flawed technology, can we get on with Halo night, we were supposed to start at eight, it is now 8": [
+            [
+                9,
+                "06."
+            ]
+        ],
+        "Sheldon": [
+            [
+                11,
+                "Yes, first we have to decide if those lost six minutes will be coming out of game time, bathroom time or the pizza break."
+            ],
+            [
+                14,
+                "Oh, what fresh hell is this?"
+            ],
+            [
+                27,
+                "You know, I apologise for my earlier outburst, who needs Halo when we can be regaled with the delightfully folksy tale of the whore of Omaha?"
+            ],
+            [
+                31,
+                "Oh good grief."
+            ],
+            [
+                37,
+                "One on one? We don\u2019t play one on one, we play teams, not one on one. One on one!"
+            ],
+            [
+                42,
+                "Uh, no. The wheel was a great idea. Relativity was a great idea. This is a notion, and a rather sucky one at that. "
+            ],
+            [
+                44,
+                "Why? Oh, Penny, Penny, Penny."
+            ],
+            [
+                46,
+                "This is a complex battle simulation with a steep learning curve, there are myriad weapons, vehicles and strategies to master, not to mention an extremely intricate back-story."
+            ],
+            [
+                48,
+                "Mine. "
+            ],
+            [
+                51,
+                "Yes, but whoever\u2019s her partner will be hamstrung by her lack of experience and not to mention that fact that sh\u2026. (another explosion)"
+            ],
+            [
+                53,
+                "Okay, this isn\u2019t at all good sportsmanship to shoot somebody who\u2019s just respawned, you need to give them a chance to (explosion) now come on!"
+            ],
+            [
+                55,
+                "Raj, Raj, she\u2019s got me cornered, cover me."
+            ],
+            [
+                59,
+                "Okay, that\u2019s it, I don\u2019t know how, but she is cheating. No-one can be that attractive and be this skilled at a video game. "
+            ],
+            [
+                61,
+                "What?"
+            ],
+            [
+                63,
+                "You laugh now, you just wait until you need tech support. "
+            ],
+            [
+                75,
+                "And another thing, there\u2019s a certain ethic to the game, Penny, a well estab\u2026"
+            ],
+            [
+                77,
+                "Well she could have said goodbye. "
+            ],
+            [
+                79,
+                "It\u2019s called carpal tunnel syndrome, and quite frankly you deserve it. "
+            ],
+            [
+                86,
+                "Hold that thought, Leonard, a moment."
+            ],
+            [
+                88,
+                "Where do I begin? "
+            ],
+            [
+                90,
+                "Well first, we don\u2019t have house guests, frankly if I could afford the rent I\u2019d ask you to leave. "
+            ],
+            [
+                92,
+                "Well, our earthquake supplies, we have a two day, two man kit."
+            ],
+            [
+                94,
+                "So, if there is an earthquake and the three of us are trapped here, we could be out of food by tomorrow afternoon. "
+            ],
+            [
+                96,
+                "No-one ever thinks it will happen until it does. "
+            ],
+            [
+                99,
+                "He\u2019s engaging in reductio-ad-absurdum. It\u2019s the logical fallacy of extending someone\u2019s argument to ridiculous proportions and then criticising the result, and I do not appreciate it. "
+            ],
+            [
+                103,
+                "I suggest no liquids after 11pm. "
+            ],
+            [
+                106,
+                "Hmmph, wrong. "
+            ],
+            [
+                108,
+                "Your head goes on the other end."
+            ],
+            [
+                110,
+                "It\u2019s culturally universal, a bed, even a temporary bed, is always oriented with the headboard away from the door. It serves the ancient imperative of protecting oneself against marauders."
+            ],
+            [
+                112,
+                "Hm! "
+            ],
+            [
+                114,
+                "Yes. If you use my toothbrush I\u2019ll jump out that window. Please don\u2019t come to my funeral. Have a good night. "
+            ],
+            [
+                129,
+                "Because I am neither an invalid nor a woman celebrating Mother\u2019s Day. "
+            ],
+            [
+                135,
+                "Okay, this cereal has lost all its molecular integrity, I now have a bowl of shredded wheat paste."
+            ],
+            [
+                149,
+                "Well there\u2019s one beloved children\u2019s book I\u2019ll never read again."
+            ],
+            [
+                152,
+                "I\u2019m Sheldon."
+            ],
+            [
+                158,
+                "Oh, terrific, now we\u2019re running a cute little B&B."
+            ],
+            [
+                162,
+                "Well then, it\u2019s all settled, Christie will stay with Howard, Penny can go back to her apartment, and I\u2019ll watch the last 24 minutes of Doctor Who, although at this point it\u2019s more like Doctor Why Bother. "
+            ],
+            [
+                164,
+                "No more talking, everybody go. "
+            ],
+            [
+                169,
+                "I imagine there aren\u2019t many kosher corn-huskers. "
+            ],
+            [
+                181,
+                "I\u2019m sorry, we cannot do this without Wolowitz."
+            ],
+            [
+                183,
+                "Let me walk you through it, our standard is, the steamed dumpling appetizer, General So\u2019s chicken, beef with broccoli, shrimp with lobster sauce and vegetable lo-main. Do you see the problem?"
+            ],
+            [
+                185,
+                "Our entire order is predicated on four dumplings and four entrees divided among four people. "
+            ],
+            [
+                187,
+                "Fine, what do you want to eliminate, and who gets the extra dumpling. "
+            ],
+            [
+                189,
+                "Then it is no longer a dumpling, once you cut it open it is at best a very small open faced sandwich. "
+            ],
+            [
+                191,
+                "He\u2019s putting his needs ahead of the collective good. (Pointing at waiter) Where he comes from, that\u2019s punishable by death."
+            ],
+            [
+                199,
+                "No, if we fill up on dumplings we\u2019ll need to eliminate another entree. "
+            ],
+            [
+                202,
+                "And divide it how, I\u2019m telling you we cannot do this without Wolowitz. "
+            ],
+            [
+                204,
+                "Have you seen Penny eat Chinese food, she uses a fork, and she double dips her egg rolls. "
+            ],
+            [
+                206,
+                "Exactly, but we\u2019d have to if she was here."
+            ],
+            [
+                209,
+                "No."
+            ],
+            [
+                212,
+                "I\u2019ll know. "
+            ],
+            [
+                216,
+                "What about the won-tons?"
+            ],
+            [
+                219,
+                "It\u2019s Halo night."
+            ],
+            [
+                224,
+                "Yes. Penny, we would very much appreciate it if you would be the fourth member of our Halo team. I don\u2019t think I need to tell you what an honour this is. "
+            ],
+            [
+                226,
+                "You can\u2019t go out, it\u2019s Halo night. "
+            ],
+            [
+                228,
+                "You go dancing every Wednesday."
+            ],
+            [
+                230,
+                "\u00a0 Then it\u2019s not dancing night. "
+            ],
+            [
+                232,
+                "Tonight is Halo night, it\u2019s like talking to a wall. "
+            ],
+            [
+                235,
+                "Yes, but you didn\u2019t portray her as completely irrational."
+            ],
+            [
+                238,
+                "Okay, assuming we could dance, which we can\u2019t, there are three of us and two of them."
+            ],
+            [
+                240,
+                "It\u2019s the Chinese restaurant all over again. I assure you that cutting a dumpling in thirds is child\u2019s play compared with three men, each attempting to dance with 67% of a woman."
+            ],
+            [
+                242,
+                "Your anger\u2019s not with me, sir, but with basic mathematics."
+            ],
+            [
+                246,
+                "The only man who can restore any semblance of balance to our universe."
+            ],
+            [
+                254,
+                "No, I\u2019m going to ask him to choose between sex and Halo 3. As far as I know, sex has not been upgraded to include high-def graphics and enhanced weapon systems. "
+            ],
+            [
+                256,
+                "My point."
+            ],
+            [
+                265,
+                "It\u2019s Halo night. "
+            ],
+            [
+                273,
+                "Shhh! "
+            ],
+            [
+                276,
+                "I can\u2019t shoot now, I\u2019m cloaking."
+            ],
+            [
+                279,
+                "That\u2019s why the call it cloaking, dead man."
+            ],
+            [
+                284,
+                "We said no tanks."
+            ],
+            [
+                290,
+                "And now you\u2019re out of life. Why did you hit pause?"
+            ]
+        ],
+        "Leonard (opening door)": [
+            [
+                15,
+                "Hey Penny, come on in."
+            ]
+        ],
+        "Penny": [
+            [
+                16,
+                "Hey guys. "
+            ],
+            [
+                18,
+                "No you won\u2019t. Uh, can I hide out here for a while."
+            ],
+            [
+                20,
+                "Well, there\u2019s this girl I know from back in Nebraska, Christie, well anyway she called me up and she\u2019s like \u201cHey, how\u2019s California,\u201d and I\u2019m like \u201cAwesome\u201d \u2018cos, you know, it\u2019s not Nebraska, and the next thing I know she\u2019s invited herself out here to stay with me. "
+            ],
+            [
+                22,
+                "Anyway, she got here today, and she\u2019s just been in my apartment, yakkety-yakking about every guy she\u2019s slept with in Omaha, which is basically every guy in Omaha, and washing the sluttiest collection of underwear you have ever seen in my bathroom sink."
+            ],
+            [
+                24,
+                "He really needs to dial it down."
+            ],
+            [
+                26,
+                "Well, she was engaged to my cousin while she was sleeping with my brother, so she\u2019s kind of family. "
+            ],
+            [
+                29,
+                "No, yeah she\u2019s definitely a whore. I mean, she has absolutely no standards, this one time, she was at\u2026 where\u2019s Howard?"
+            ],
+            [
+                34,
+                "Ugh, I cannot believe Christie let Howard into my apartment. \u00a0\u00a0\u00a0"
+            ],
+            [
+                40,
+                "Hey, if you guys need a fourth, I\u2019ll play."
+            ],
+            [
+                43,
+                "Why?"
+            ],
+            [
+                45,
+                "Oh, what, what, what? "
+            ],
+            [
+                49,
+                "Okay, I got this, lock and load boys. "
+            ],
+            [
+                52,
+                "Ha-ha, there goes your head again."
+            ],
+            [
+                56,
+                "Cover this, suckers. Ha-ha-ha!"
+            ],
+            [
+                58,
+                "Yeah, so is Sheldon. "
+            ],
+            [
+                60,
+                "Wait, wait, Sheldon, come back, you forgot something. "
+            ],
+            [
+                62,
+                "This plasma grenade. (Explosion.) Ha! Look, it\u2019s raining you! "
+            ],
+            [
+                64,
+                "Gosh, he\u2019s kind of a sore loser, isn\u2019t he?"
+            ],
+            [
+                66,
+                "Well, it\u2019s been fun."
+            ],
+            [
+                68,
+                "Or we could just have a life. "
+            ],
+            [
+                70,
+                "Good night, Leonard."
+            ],
+            [
+                72,
+                "As usual, nice talking to you Raj (leaves.) "
+            ],
+            [
+                81,
+                "Um, well, Howard and Christie are\u2026 kind of\u2026 hooking up in my bedroom. "
+            ],
+            [
+                83,
+                "Look, I grew up on a farm, okay, from what I heard they\u2019re either having sex or Howard\u2019s caught in a milking machine. Do you mind if I stay here tonight?"
+            ],
+            [
+                85,
+                "Uh, the couch is good."
+            ],
+            [
+                98,
+                "Hu.. what?"
+            ],
+            [
+                102,
+                "How am I supposed to plan my bodily functions?"
+            ],
+            [
+                105,
+                "Thanks Leonard. (Arranges pillows on left of couch.)"
+            ],
+            [
+                107,
+                "I\u2019m listening."
+            ],
+            [
+                109,
+                "Why? "
+            ],
+            [
+                111,
+                "I\u2019ll risk it."
+            ],
+            [
+                113,
+                "Anything else I should know."
+            ],
+            [
+                116,
+                "That\u2019s okay. "
+            ],
+            [
+                118,
+                "Got it."
+            ],
+            [
+                120,
+                "Thanks. "
+            ],
+            [
+                130,
+                "Uh, what time is it?"
+            ],
+            [
+                132,
+                "I slept all day?"
+            ],
+            [
+                134,
+                "What the hell is your problem?"
+            ],
+            [
+                137,
+                "Why do you people hate sleep? Are you wearing my robe?"
+            ],
+            [
+                139,
+                "That\u2019s okay, keep it. Where\u2019s Christie."
+            ],
+            [
+                141,
+                "Y-you used my loofah?"
+            ],
+            [
+                143,
+                "You can keep that too."
+            ],
+            [
+                154,
+                "Uh, so Christie, what are your plans?"
+            ],
+            [
+                156,
+                "Yeah, no, I meant plans to find some place to live. Other than with me, not that I don\u2019t love having you, but it\u2019s\u2026 a little crowded."
+            ],
+            [
+                176,
+                "Look, Howard, I know her, okay, she\u2019ll have sex with anyone as long as they keep buying her things. "
+            ],
+            [
+                178,
+                "Yeah."
+            ],
+            [
+                220,
+                "Yeah. Okay. So?"
+            ],
+            [
+                222,
+                "She\u2019s not my friend. Friends do not get their friends care bears all sweaty. "
+            ],
+            [
+                225,
+                "Oh, that\u2019s so sweet. But I\u2019m going out dancing with a girlfriend. "
+            ],
+            [
+                227,
+                "Well, for Penny it\u2019s dancing night. "
+            ],
+            [
+                229,
+                "No."
+            ],
+            [
+                231,
+                "Look, why don\u2019t I play with you guys tomorrow?"
+            ],
+            [
+                233,
+                "Alright, now Sheldon, you and I are about to have a problem. "
+            ],
+            [
+                236,
+                "Alright fellas, I gotta go. Good luck. "
+            ],
+            [
+                287,
+                "Told yah! (They leave). "
+            ]
+        ],
+        "Sheldon: 8": [
+            [
+                21,
+                "08."
+            ]
+        ],
+        "Howard (voice off)": [
+            [
+                30,
+                "Bonjour mademoiselle, I understand you\u2019re new in town. "
+            ]
+        ],
+        "Sheldon: And I cannot believe people pay for horoscopes, but on a more serious note it\u2019s 8": [
+            [
+                35,
+                "13 and we\u2019re still not playing Halo. "
+            ]
+        ],
+        "Penny (picking up a controller, there is the sound of an explosion from the television)": [
+            [
+                47,
+                "Oh cool, whose head did I just blow off? "
+            ]
+        ],
+        "Penny (entering again)": [
+            [
+                78,
+                "Okay, I have a problem."
+            ]
+        ],
+        "Sheldon: Okay, well since I\u2019m obviously being ignored here, let\u2019s go over the morning schedule, I use the bathroom from 7 to 7": [
+            [
+                101,
+                "20, plan your ablutions and bodily functions accordingly. "
+            ]
+        ],
+        "Sheldon: Every Saturday since we have lived in this apartment, I have awakened at 6": [
+            [
+                125,
+                "15, poured myself a bowl of cereal, added a quarter cup of 2% milk, sat on this end of this couch, turned on BBC America and watched Doctor Who. "
+            ],
+            [
+                127,
+                "15, poured myself a bowl of cereal\u2026."
+            ]
+        ],
+        "Leonard: Almost 6": [
+            [
+                131,
+                "30. "
+            ]
+        ],
+        "Leonard: Oh, no, it\u2019s 6": [
+            [
+                133,
+                "30 in the morning."
+            ]
+        ],
+        "Howard (entering)": [
+            [
+                136,
+                "Ola, nerd-migos. "
+            ]
+        ],
+        "Christie (voice off)": [
+            [
+                145,
+                "Howard?"
+            ]
+        ],
+        "Christie (entering)": [
+            [
+                147,
+                "Mmmm, there\u2019s my little engine that could."
+            ]
+        ],
+        "Christie": [
+            [
+                150,
+                "Hi, Christie."
+            ],
+            [
+                153,
+                "Right, you\u2019re Howard\u2019s entourage. "
+            ],
+            [
+                155,
+                "Oh, well, Howard said he\u2019d take me shopping in Beverley Hills. "
+            ],
+            [
+                166,
+                "What is that, like a Mexican deli?"
+            ],
+            [
+                168,
+                "Oh, that\u2019s so cool. My first Jew!"
+            ],
+            [
+                170,
+                "But you\u2019re still taking me shopping, right?"
+            ],
+            [
+                172,
+                "Okay, I\u2019ll go pack my stuff."
+            ]
+        ],
+        "Waiter": [
+            [
+                190,
+                "Hi fellas. Oh, where\u2019s your annoying little friend who thinks he speaks Mandarin?"
+            ],
+            [
+                192,
+                "I come from Sacramento. "
+            ],
+            [
+                194,
+                "No substitutions."
+            ],
+            [
+                196,
+                "Okay, no reductions."
+            ],
+            [
+                200,
+                "No eliminations. "
+            ],
+            [
+                211,
+                "You are nice boys. Tell you what I\u2019m going to do. I\u2019m going to bring you the four dumplings. When I\u2019m walking over to the table, maybe I get bumped, one of the dumplings falls to the floor, no-one has to know. "
+            ],
+            [
+                213,
+                "(wanders away cursing in Mandarin.)"
+            ]
+        ],
+        "Penny (answering)": [
+            [
+                218,
+                "Oh, hey guys, what\u2019s up?"
+            ]
+        ],
+        "Howard (voice)": [
+            [
+                247,
+                "\u00a0Hi this is Howard Wolowitz."
+            ],
+            [
+                249,
+                "We can\u2019t get to the phone right now because we\u2019re having sex."
+            ],
+            [
+                251,
+                "No, I\u2019m just kidding, I\u2019ll re-record it. (beep)"
+            ],
+            [
+                259,
+                "Ladies, ladies, I\u2019m sure there\u2019s a middle ground."
+            ],
+            [
+                261,
+                "You girl\u2019s talk, I\u2019m going to take my scooter out for a little spin. "
+            ]
+        ],
+        "Christie (voice)": [
+            [
+                248,
+                "And this is Christie Van Der Bell. "
+            ],
+            [
+                250,
+                "You\u2019re not going to put that on your message are you?"
+            ],
+            [
+                267,
+                "What did you call me? "
+            ]
+        ],
+        "Christie (voice from within)": [
+            [
+                257,
+                "I\u2019m just saying, you can take the damned plastic off the couch once in a while."
+            ]
+        ],
+        "Howard\u2019s Mother (voice)": [
+            [
+                258,
+                "Why, so you and Howard can hump on it? "
+            ],
+            [
+                263,
+                "Why don\u2019t you stop butting in where you don\u2019t belong."
+            ],
+            [
+                266,
+                "He\u2019s not a man, he\u2019s a putz, and don\u2019t you take that tone with me, you gold digger."
+            ],
+            [
+                268,
+                "You heard me, and I\u2019ll tell you something else, you\u2019re barking up the wrong tree, cos as long as you\u2019re around, Howard is out of the will."
+            ],
+            [
+                270,
+                "That\u2019s right, go back to Babylon, you whore. "
+            ]
+        ],
+        "Christie and Howard\u2019s Mother together": [
+            [
+                260,
+                "Shut up Howard. "
+            ]
+        ],
+        "Christie (voice as Howard emerges through door)": [
+            [
+                262,
+                "Are you happy, you drove your own son out of the house. "
+            ]
+        ],
+        "Christie: (voice)": [
+            [
+                269,
+                "You know what, I got better offers, I\u2019m out of here. "
+            ]
+        ],
+        "Penny (entering with three other sexy women)": [
+            [
+                282,
+                "Hi guys, my friends and I got tired of dancing, so we came over to have sex with you. "
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment, the living room."
+        ],
+        [
+            "Howard",
+            "Watch this, it\u2019s really cool. Call Leonard Hofstadter."
+        ],
+        [
+            "Howard\u2019s phone",
+            "Did you say, call Helen Boxleitner?"
+        ],
+        [
+            "Howard",
+            "No. Call Leonard Hofstadter."
+        ],
+        [
+            "Howard\u2019s phone",
+            "Did you say, call Temple Beth Sader. "
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Leonard",
+            "Here, let me try. Call McFlono McFloonyloo. Heh-heh. "
+        ],
+        [
+            "Howard\u2019s phone",
+            "Calling Rajesh Koothrappali. (Raj\u2019s phone rings)."
+        ],
+        [
+            "Raj",
+            "Oh, that\u2019s very impressive. And a little racist. "
+        ],
+        [
+            "Sheldon: If we\u2019re all through playing mock the flawed technology, can we get on with Halo night, we were supposed to start at eight, it is now 8",
+            "06."
+        ],
+        [
+            "Leonard",
+            "So? We\u2019ll start now."
+        ],
+        [
+            "Sheldon",
+            "Yes, first we have to decide if those lost six minutes will be coming out of game time, bathroom time or the pizza break."
+        ],
+        [
+            "Raj",
+            "We can split it two, two and two."
+        ],
+        [
+            "Howard",
+            "If we\u2019re having anchovies on the pizza we can\u2019t take it out of bathroom time. (There is a knock on the door.)"
+        ],
+        [
+            "Sheldon",
+            "Oh, what fresh hell is this?"
+        ],
+        [
+            "Leonard (opening door)",
+            "Hey Penny, come on in."
+        ],
+        [
+            "Penny",
+            "Hey guys. "
+        ],
+        [
+            "Howard",
+            "See a Penny, pick her up, and all the day you\u2019ll have good luck."
+        ],
+        [
+            "Penny",
+            "No you won\u2019t. Uh, can I hide out here for a while."
+        ],
+        [
+            "Leonard",
+            "Sure. What\u2019s going on."
+        ],
+        [
+            "Penny",
+            "Well, there\u2019s this girl I know from back in Nebraska, Christie, well anyway she called me up and she\u2019s like \u201cHey, how\u2019s California,\u201d and I\u2019m like \u201cAwesome\u201d \u2018cos, you know, it\u2019s not Nebraska, and the next thing I know she\u2019s invited herself out here to stay with me. "
+        ],
+        [
+            "Sheldon: 8",
+            "08."
+        ],
+        [
+            "Penny",
+            "Anyway, she got here today, and she\u2019s just been in my apartment, yakkety-yakking about every guy she\u2019s slept with in Omaha, which is basically every guy in Omaha, and washing the sluttiest collection of underwear you have ever seen in my bathroom sink."
+        ],
+        [
+            "Howard",
+            "Well, is she doing it one thong at a time, or does she just throw it all in, like some sort of erotic bouillabaisse."
+        ],
+        [
+            "Penny",
+            "He really needs to dial it down."
+        ],
+        [
+            "Leonard",
+            "So, if you don\u2019t like this Christie, why are you letting her stay? "
+        ],
+        [
+            "Penny",
+            "Well, she was engaged to my cousin while she was sleeping with my brother, so she\u2019s kind of family. "
+        ],
+        [
+            "Sheldon",
+            "You know, I apologise for my earlier outburst, who needs Halo when we can be regaled with the delightfully folksy tale of the whore of Omaha?"
+        ],
+        [
+            "Leonard",
+            "Oh, I don\u2019t think she\u2019s a whore."
+        ],
+        [
+            "Penny",
+            "No, yeah she\u2019s definitely a whore. I mean, she has absolutely no standards, this one time, she was at\u2026 where\u2019s Howard?"
+        ],
+        [
+            "Howard (voice off)",
+            "Bonjour mademoiselle, I understand you\u2019re new in town. "
+        ],
+        [
+            "Sheldon",
+            "Oh good grief."
+        ],
+        [
+            "Scene",
+            "Credit Sequence"
+        ],
+        [
+            "Scene",
+            "Penny, Sheldon, Raj and Leonard stand in the apartment doorway. Romantic music plays from Penny\u2019s apartment door. "
+        ],
+        [
+            "Penny",
+            "Ugh, I cannot believe Christie let Howard into my apartment. \u00a0\u00a0\u00a0"
+        ],
+        [
+            "Sheldon: And I cannot believe people pay for horoscopes, but on a more serious note it\u2019s 8",
+            "13 and we\u2019re still not playing Halo. "
+        ],
+        [
+            "Leonard",
+            "Okay, fine, we\u2019ll just play one on one until he gets back. "
+        ],
+        [
+            "Sheldon",
+            "One on one? We don\u2019t play one on one, we play teams, not one on one. One on one!"
+        ],
+        [
+            "Leonard",
+            "Well the only way we can play teams at this point is if we cut Raj in half."
+        ],
+        [
+            "Raj",
+            "Oh, sure, cut the foreigner in half, there\u2019s a billion more where he came from. "
+        ],
+        [
+            "Penny",
+            "Hey, if you guys need a fourth, I\u2019ll play."
+        ],
+        [
+            "Leonard",
+            "Great idea."
+        ],
+        [
+            "Sheldon",
+            "Uh, no. The wheel was a great idea. Relativity was a great idea. This is a notion, and a rather sucky one at that. "
+        ],
+        [
+            "Penny",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "Why? Oh, Penny, Penny, Penny."
+        ],
+        [
+            "Penny",
+            "Oh, what, what, what? "
+        ],
+        [
+            "Sheldon",
+            "This is a complex battle simulation with a steep learning curve, there are myriad weapons, vehicles and strategies to master, not to mention an extremely intricate back-story."
+        ],
+        [
+            "Penny (picking up a controller, there is the sound of an explosion from the television)",
+            "Oh cool, whose head did I just blow off? "
+        ],
+        [
+            "Sheldon",
+            "Mine. "
+        ],
+        [
+            "Penny",
+            "Okay, I got this, lock and load boys. "
+        ],
+        [
+            "Leonard",
+            "It\u2019s the only way we can play teams. "
+        ],
+        [
+            "Sheldon",
+            "Yes, but whoever\u2019s her partner will be hamstrung by her lack of experience and not to mention that fact that sh\u2026. (another explosion)"
+        ],
+        [
+            "Penny",
+            "Ha-ha, there goes your head again."
+        ],
+        [
+            "Sheldon",
+            "Okay, this isn\u2019t at all good sportsmanship to shoot somebody who\u2019s just respawned, you need to give them a chance to (explosion) now come on!"
+        ],
+        [
+            "Scene",
+            "Time shift"
+        ],
+        [
+            "Sheldon",
+            "Raj, Raj, she\u2019s got me cornered, cover me."
+        ],
+        [
+            "Penny",
+            "Cover this, suckers. Ha-ha-ha!"
+        ],
+        [
+            "Leonard",
+            "Penny, you are on fire."
+        ],
+        [
+            "Penny",
+            "Yeah, so is Sheldon. "
+        ],
+        [
+            "Sheldon",
+            "Okay, that\u2019s it, I don\u2019t know how, but she is cheating. No-one can be that attractive and be this skilled at a video game. "
+        ],
+        [
+            "Penny",
+            "Wait, wait, Sheldon, come back, you forgot something. "
+        ],
+        [
+            "Sheldon",
+            "What?"
+        ],
+        [
+            "Penny",
+            "This plasma grenade. (Explosion.) Ha! Look, it\u2019s raining you! "
+        ],
+        [
+            "Sheldon",
+            "You laugh now, you just wait until you need tech support. "
+        ],
+        [
+            "Penny",
+            "Gosh, he\u2019s kind of a sore loser, isn\u2019t he?"
+        ],
+        [
+            "Leonard",
+            "Well, to be fair, he is also a rather unpleasant winner. "
+        ],
+        [
+            "Penny",
+            "Well, it\u2019s been fun."
+        ],
+        [
+            "Leonard",
+            "You know, Penny, we make such a good team, maybe we could enter a couple of Halo tournaments sometime."
+        ],
+        [
+            "Penny",
+            "Or we could just have a life. "
+        ],
+        [
+            "Leonard",
+            "I guess for you that\u2019s an option."
+        ],
+        [
+            "Penny",
+            "Good night, Leonard."
+        ],
+        [
+            "Leonard",
+            "Good night."
+        ],
+        [
+            "Penny",
+            "As usual, nice talking to you Raj (leaves.) "
+        ],
+        [
+            "Raj",
+            "What do you suppose she meant by that?"
+        ],
+        [
+            "Leonard",
+            "She\u2019s an enigma, Raj. "
+        ],
+        [
+            "Sheldon",
+            "And another thing, there\u2019s a certain ethic to the game, Penny, a well estab\u2026"
+        ],
+        [
+            "Leonard",
+            "She\u2019s gone, Sheldon. "
+        ],
+        [
+            "Sheldon",
+            "Well she could have said goodbye. "
+        ],
+        [
+            "Penny (entering again)",
+            "Okay, I have a problem."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s called carpal tunnel syndrome, and quite frankly you deserve it. "
+        ],
+        [
+            "Leonard",
+            "What\u2019s wrong?"
+        ],
+        [
+            "Penny",
+            "Um, well, Howard and Christie are\u2026 kind of\u2026 hooking up in my bedroom. "
+        ],
+        [
+            "Leonard",
+            "Are you sure?"
+        ],
+        [
+            "Penny",
+            "Look, I grew up on a farm, okay, from what I heard they\u2019re either having sex or Howard\u2019s caught in a milking machine. Do you mind if I stay here tonight?"
+        ],
+        [
+            "Leonard",
+            "No, take the couch, or my bed, I just got new pillows, hypo-allergenics. "
+        ],
+        [
+            "Penny",
+            "Uh, the couch is good."
+        ],
+        [
+            "Sheldon",
+            "Hold that thought, Leonard, a moment."
+        ],
+        [
+            "Leonard",
+            "Let me guess, you have a problem with this."
+        ],
+        [
+            "Sheldon",
+            "Where do I begin? "
+        ],
+        [
+            "Leonard",
+            "It\u2019s up to you, crazy person\u2019s choice. "
+        ],
+        [
+            "Sheldon",
+            "Well first, we don\u2019t have house guests, frankly if I could afford the rent I\u2019d ask you to leave. "
+        ],
+        [
+            "Leonard",
+            "Your friendship means a lot to me as well, what else? "
+        ],
+        [
+            "Sheldon",
+            "Well, our earthquake supplies, we have a two day, two man kit."
+        ],
+        [
+            "Leonard",
+            "So? "
+        ],
+        [
+            "Sheldon",
+            "So, if there is an earthquake and the three of us are trapped here, we could be out of food by tomorrow afternoon. "
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, are you suggesting that if we let Penny stay we might succumb to cannibalism?"
+        ],
+        [
+            "Sheldon",
+            "No-one ever thinks it will happen until it does. "
+        ],
+        [
+            "Leonard",
+            "Penny, if you promise not to chew the flesh off our bones while we sleep, you can stay. "
+        ],
+        [
+            "Penny",
+            "Hu.. what?"
+        ],
+        [
+            "Sheldon",
+            "He\u2019s engaging in reductio-ad-absurdum. It\u2019s the logical fallacy of extending someone\u2019s argument to ridiculous proportions and then criticising the result, and I do not appreciate it. "
+        ],
+        [
+            "Leonard",
+            "I\u2019ll get you a blanket and a pillow. "
+        ],
+        [
+            "Sheldon: Okay, well since I\u2019m obviously being ignored here, let\u2019s go over the morning schedule, I use the bathroom from 7 to 7",
+            "20, plan your ablutions and bodily functions accordingly. "
+        ],
+        [
+            "Penny",
+            "How am I supposed to plan my bodily functions?"
+        ],
+        [
+            "Sheldon",
+            "I suggest no liquids after 11pm. "
+        ],
+        [
+            "Leonard",
+            "Here you go."
+        ],
+        [
+            "Penny",
+            "Thanks Leonard. (Arranges pillows on left of couch.)"
+        ],
+        [
+            "Sheldon",
+            "Hmmph, wrong. "
+        ],
+        [
+            "Penny",
+            "I\u2019m listening."
+        ],
+        [
+            "Sheldon",
+            "Your head goes on the other end."
+        ],
+        [
+            "Penny",
+            "Why? "
+        ],
+        [
+            "Sheldon",
+            "It\u2019s culturally universal, a bed, even a temporary bed, is always oriented with the headboard away from the door. It serves the ancient imperative of protecting oneself against marauders."
+        ],
+        [
+            "Penny",
+            "I\u2019ll risk it."
+        ],
+        [
+            "Sheldon",
+            "Hm! "
+        ],
+        [
+            "Penny",
+            "Anything else I should know."
+        ],
+        [
+            "Sheldon",
+            "Yes. If you use my toothbrush I\u2019ll jump out that window. Please don\u2019t come to my funeral. Have a good night. "
+        ],
+        [
+            "Leonard",
+            "Sorry about that."
+        ],
+        [
+            "Penny",
+            "That\u2019s okay. "
+        ],
+        [
+            "Leonard",
+            "FYI, his toothbrush is the red one in the plexiglass case under the UV light. "
+        ],
+        [
+            "Penny",
+            "Got it."
+        ],
+        [
+            "Leonard",
+            "Well, sleep tight."
+        ],
+        [
+            "Penny",
+            "Thanks. "
+        ],
+        [
+            "Leonard",
+            "Funny expression, sleep tight. It refers to the early construction of beds which featured a mattress suspended on interlocking ropes which would occasionally\u2026 sleep tight. "
+        ],
+        [
+            "Scene",
+            "(Penny turns off light and lies down on couch. Across the room, Raj is still in the kitchen, eating a sandwich. Realising everyone has forgotten about him, he quietly lets himself out. Penny hears the door close, looks worried, then moves her head to the other end of the couch.)"
+        ],
+        [
+            "Scene",
+            "The following morning. Sheldon is in the kitchen making breakfast. He crosses to the couch, sees Penny sleeping there, looks lost. He is about to sit down on Penny when Leonard enters."
+        ],
+        [
+            "Leonard",
+            "What are you doing? "
+        ],
+        [
+            "Sheldon: Every Saturday since we have lived in this apartment, I have awakened at 6",
+            "15, poured myself a bowl of cereal, added a quarter cup of 2% milk, sat on this end of this couch, turned on BBC America and watched Doctor Who. "
+        ],
+        [
+            "Leonard",
+            "Penny\u2019s still sleeping."
+        ],
+        [
+            "Sheldon: Every Saturday since we have lived in this apartment, I have awakened at 6",
+            "15, poured myself a bowl of cereal\u2026."
+        ],
+        [
+            "Leonard",
+            "I know, I know, look, you have a TV in your room, why don\u2019t you just have breakfast in bed? "
+        ],
+        [
+            "Sheldon",
+            "Because I am neither an invalid nor a woman celebrating Mother\u2019s Day. "
+        ],
+        [
+            "Penny",
+            "Uh, what time is it?"
+        ],
+        [
+            "Leonard: Almost 6",
+            "30. "
+        ],
+        [
+            "Penny",
+            "I slept all day?"
+        ],
+        [
+            "Leonard: Oh, no, it\u2019s 6",
+            "30 in the morning."
+        ],
+        [
+            "Penny",
+            "What the hell is your problem?"
+        ],
+        [
+            "Sheldon",
+            "Okay, this cereal has lost all its molecular integrity, I now have a bowl of shredded wheat paste."
+        ],
+        [
+            "Howard (entering)",
+            "Ola, nerd-migos. "
+        ],
+        [
+            "Penny",
+            "Why do you people hate sleep? Are you wearing my robe?"
+        ],
+        [
+            "Howard",
+            "Oh, yeah, sorry, I\u2019ll have it cleaned."
+        ],
+        [
+            "Penny",
+            "That\u2019s okay, keep it. Where\u2019s Christie."
+        ],
+        [
+            "Howard",
+            "In the shower. Oh, by the way, where did you get that loofah mitt, yours reaches places that mine just won\u2019t."
+        ],
+        [
+            "Penny",
+            "Y-you used my loofah?"
+        ],
+        [
+            "Howard",
+            "More precisely we used your loofah. I exfoliated her brains out! "
+        ],
+        [
+            "Penny",
+            "You can keep that too."
+        ],
+        [
+            "Howard",
+            "Ah, well then we\u2019ll probably need to talk about your stuffed bear collection."
+        ],
+        [
+            "Christie (voice off)",
+            "Howard?"
+        ],
+        [
+            "Howard",
+            "In here my lady."
+        ],
+        [
+            "Christie (entering)",
+            "Mmmm, there\u2019s my little engine that could."
+        ],
+        [
+            "Howard",
+            "chka-chka-chka-chka-chka-chka-chka (they kiss)."
+        ],
+        [
+            "Sheldon",
+            "Well there\u2019s one beloved children\u2019s book I\u2019ll never read again."
+        ],
+        [
+            "Christie",
+            "Hi, Christie."
+        ],
+        [
+            "Leonard",
+            "Leonard. "
+        ],
+        [
+            "Sheldon",
+            "I\u2019m Sheldon."
+        ],
+        [
+            "Christie",
+            "Right, you\u2019re Howard\u2019s entourage. "
+        ],
+        [
+            "Penny",
+            "Uh, so Christie, what are your plans?"
+        ],
+        [
+            "Christie",
+            "Oh, well, Howard said he\u2019d take me shopping in Beverley Hills. "
+        ],
+        [
+            "Penny",
+            "Yeah, no, I meant plans to find some place to live. Other than with me, not that I don\u2019t love having you, but it\u2019s\u2026 a little crowded."
+        ],
+        [
+            "Leonard",
+            "Penny, you\u2019re always welcome to stay with us."
+        ],
+        [
+            "Sheldon",
+            "Oh, terrific, now we\u2019re running a cute little B&B."
+        ],
+        [
+            "Howard",
+            "Let me offer a little outside the box thinking here, why doesn\u2019t Christie stay with me."
+        ],
+        [
+            "Leonard",
+            "For one thing you live with your mother."
+        ],
+        [
+            "Howard",
+            "I do not, my mother lives with me. "
+        ],
+        [
+            "Sheldon",
+            "Well then, it\u2019s all settled, Christie will stay with Howard, Penny can go back to her apartment, and I\u2019ll watch the last 24 minutes of Doctor Who, although at this point it\u2019s more like Doctor Why Bother. "
+        ],
+        [
+            "Leonard",
+            "Sheldon you just can\u2019t dictate\u2026"
+        ],
+        [
+            "Sheldon",
+            "No more talking, everybody go. "
+        ],
+        [
+            "Howard",
+            "So, what do you say, you wanna repair to Castle Wolowitz? "
+        ],
+        [
+            "Christie",
+            "What is that, like a Mexican deli?"
+        ],
+        [
+            "Howard",
+            "I\u2019m sorry, I should have mentioned this earlier, my last name is Wolowitz."
+        ],
+        [
+            "Christie",
+            "Oh, that\u2019s so cool. My first Jew!"
+        ],
+        [
+            "Sheldon",
+            "I imagine there aren\u2019t many kosher corn-huskers. "
+        ],
+        [
+            "Christie",
+            "But you\u2019re still taking me shopping, right?"
+        ],
+        [
+            "Howard",
+            "Anything you want."
+        ],
+        [
+            "Christie",
+            "Okay, I\u2019ll go pack my stuff."
+        ],
+        [
+            "Howard",
+            "When they perfect human cloning I\u2019m going to order twelve of those."
+        ],
+        [
+            "Leonard",
+            "Howard, can\u2019t you see she\u2019s using you?"
+        ],
+        [
+            "Howard",
+            "Who cares, last night she pulled off her blouse and I wept!"
+        ],
+        [
+            "Penny",
+            "Look, Howard, I know her, okay, she\u2019ll have sex with anyone as long as they keep buying her things. "
+        ],
+        [
+            "Howard",
+            "Really?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Howard",
+            "Yay! If you\u2019ll excuse me, I have some Bar-Mizvah bonds to cash. "
+        ],
+        [
+            "Scene",
+            "A Chinese restaurant. "
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, we cannot do this without Wolowitz."
+        ],
+        [
+            "Leonard",
+            "We can\u2019t order Chinese food without Wolowitz?"
+        ],
+        [
+            "Sheldon",
+            "Let me walk you through it, our standard is, the steamed dumpling appetizer, General So\u2019s chicken, beef with broccoli, shrimp with lobster sauce and vegetable lo-main. Do you see the problem?"
+        ],
+        [
+            "Leonard",
+            "I see a problem. "
+        ],
+        [
+            "Sheldon",
+            "Our entire order is predicated on four dumplings and four entrees divided among four people. "
+        ],
+        [
+            "Leonard",
+            "So, we\u2019ll just order three entrees."
+        ],
+        [
+            "Sheldon",
+            "Fine, what do you want to eliminate, and who gets the extra dumpling. "
+        ],
+        [
+            "Raj",
+            "We could cut it into thirds. "
+        ],
+        [
+            "Sheldon",
+            "Then it is no longer a dumpling, once you cut it open it is at best a very small open faced sandwich. "
+        ],
+        [
+            "Waiter",
+            "Hi fellas. Oh, where\u2019s your annoying little friend who thinks he speaks Mandarin?"
+        ],
+        [
+            "Sheldon",
+            "He\u2019s putting his needs ahead of the collective good. (Pointing at waiter) Where he comes from, that\u2019s punishable by death."
+        ],
+        [
+            "Waiter",
+            "I come from Sacramento. "
+        ],
+        [
+            "Leonard",
+            "Can we get an order of dumplings, but with three instead of four."
+        ],
+        [
+            "Waiter",
+            "No substitutions."
+        ],
+        [
+            "Leonard",
+            "This isn\u2019t a substitution, it\u2019s a reduction. "
+        ],
+        [
+            "Waiter",
+            "Okay, no reductions."
+        ],
+        [
+            "Leonard",
+            "Fine, bring us three orders of dumplings, that\u2019s twelve, we\u2019ll each have four. "
+        ],
+        [
+            "Raj",
+            "That works. "
+        ],
+        [
+            "Sheldon",
+            "No, if we fill up on dumplings we\u2019ll need to eliminate another entree. "
+        ],
+        [
+            "Waiter",
+            "No eliminations. "
+        ],
+        [
+            "Leonard",
+            "If we have extra, we\u2019ll just take the leftovers home."
+        ],
+        [
+            "Sheldon",
+            "And divide it how, I\u2019m telling you we cannot do this without Wolowitz. "
+        ],
+        [
+            "Leonard",
+            "Wolowitz is with his new girlfriend, if you had let me invite Penny then you would have had your fourth."
+        ],
+        [
+            "Sheldon",
+            "Have you seen Penny eat Chinese food, she uses a fork, and she double dips her egg rolls. "
+        ],
+        [
+            "Leonard",
+            "We don\u2019t order egg rolls."
+        ],
+        [
+            "Sheldon",
+            "Exactly, but we\u2019d have to if she was here."
+        ],
+        [
+            "Raj",
+            "Can we please make a decision, not only are there children starving in India, there\u2019s an Indian starving right here. "
+        ],
+        [
+            "Leonard",
+            "Here\u2019s an idea, why don\u2019t we just go out for Indian food."
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Raj",
+            "Uurgh."
+        ],
+        [
+            "Waiter",
+            "You are nice boys. Tell you what I\u2019m going to do. I\u2019m going to bring you the four dumplings. When I\u2019m walking over to the table, maybe I get bumped, one of the dumplings falls to the floor, no-one has to know. "
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll know. "
+        ],
+        [
+            "Waiter",
+            "(wanders away cursing in Mandarin.)"
+        ],
+        [
+            "Raj",
+            "How about soup?"
+        ],
+        [
+            "Leonard",
+            "Yeah, we can always divide soup."
+        ],
+        [
+            "Sheldon",
+            "What about the won-tons?"
+        ],
+        [
+            "Scene",
+            "Outside Penny\u2019s door. Leonard knocks. "
+        ],
+        [
+            "Penny (answering)",
+            "Oh, hey guys, what\u2019s up?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s Halo night."
+        ],
+        [
+            "Penny",
+            "Yeah. Okay. So?"
+        ],
+        [
+            "Leonard",
+            "Well, with Wolowitz spending all of his time with your friend Christie, "
+        ],
+        [
+            "Penny",
+            "She\u2019s not my friend. Friends do not get their friends care bears all sweaty. "
+        ],
+        [
+            "Leonard",
+            "Right, anyway, uh, with Wolowitz occupied elsewhere, we had something we wanted to ask you. Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Penny, we would very much appreciate it if you would be the fourth member of our Halo team. I don\u2019t think I need to tell you what an honour this is. "
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s so sweet. But I\u2019m going out dancing with a girlfriend. "
+        ],
+        [
+            "Sheldon",
+            "You can\u2019t go out, it\u2019s Halo night. "
+        ],
+        [
+            "Penny",
+            "Well, for Penny it\u2019s dancing night. "
+        ],
+        [
+            "Sheldon",
+            "You go dancing every Wednesday."
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "\u00a0 Then it\u2019s not dancing night. "
+        ],
+        [
+            "Penny",
+            "Look, why don\u2019t I play with you guys tomorrow?"
+        ],
+        [
+            "Sheldon",
+            "Tonight is Halo night, it\u2019s like talking to a wall. "
+        ],
+        [
+            "Penny",
+            "Alright, now Sheldon, you and I are about to have a problem. "
+        ],
+        [
+            "Leonard",
+            "Sheldon, remember, we role-played this."
+        ],
+        [
+            "Sheldon",
+            "Yes, but you didn\u2019t portray her as completely irrational."
+        ],
+        [
+            "Penny",
+            "Alright fellas, I gotta go. Good luck. "
+        ],
+        [
+            "Leonard",
+            "Maybe we should have asked if we could go dancing with her and her girlfriend. "
+        ],
+        [
+            "Sheldon",
+            "Okay, assuming we could dance, which we can\u2019t, there are three of us and two of them."
+        ],
+        [
+            "Leonard",
+            "So?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s the Chinese restaurant all over again. I assure you that cutting a dumpling in thirds is child\u2019s play compared with three men, each attempting to dance with 67% of a woman."
+        ],
+        [
+            "Leonard",
+            "Aaah, for God\u2019s sake, Sheldon, you are driving me crazy. "
+        ],
+        [
+            "Sheldon",
+            "Your anger\u2019s not with me, sir, but with basic mathematics."
+        ],
+        [
+            "Leonard",
+            "No, I\u2019m pretty sure my anger\u2019s with you."
+        ],
+        [
+            "Raj",
+            "What\u2019s happening to us? We\u2019re falling apart. "
+        ],
+        [
+            "Leonard",
+            "Who are you calling?"
+        ],
+        [
+            "Sheldon",
+            "The only man who can restore any semblance of balance to our universe."
+        ],
+        [
+            "Howard (voice)",
+            "\u00a0Hi this is Howard Wolowitz."
+        ],
+        [
+            "Christie (voice)",
+            "And this is Christie Van Der Bell. "
+        ],
+        [
+            "Howard (voice)",
+            "We can\u2019t get to the phone right now because we\u2019re having sex."
+        ],
+        [
+            "Christie (voice)",
+            "You\u2019re not going to put that on your message are you?"
+        ],
+        [
+            "Howard (voice)",
+            "No, I\u2019m just kidding, I\u2019ll re-record it. (beep)"
+        ],
+        [
+            "Scene",
+            "Outside Howard\u2019s house. "
+        ],
+        [
+            "Leonard",
+            "Sheldon, think this through, you\u2019re going to ask Howard to choose between sex and Halo."
+        ],
+        [
+            "Sheldon",
+            "No, I\u2019m going to ask him to choose between sex and Halo 3. As far as I know, sex has not been upgraded to include high-def graphics and enhanced weapon systems. "
+        ],
+        [
+            "Leonard",
+            "You\u2019re right, all sex has is nudity, orgasms and human contact. "
+        ],
+        [
+            "Sheldon",
+            "My point."
+        ],
+        [
+            "Christie (voice from within)",
+            "I\u2019m just saying, you can take the damned plastic off the couch once in a while."
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "Why, so you and Howard can hump on it? "
+        ],
+        [
+            "Howard (voice)",
+            "Ladies, ladies, I\u2019m sure there\u2019s a middle ground."
+        ],
+        [
+            "Christie and Howard\u2019s Mother together",
+            "Shut up Howard. "
+        ],
+        [
+            "Howard (voice)",
+            "You girl\u2019s talk, I\u2019m going to take my scooter out for a little spin. "
+        ],
+        [
+            "Christie (voice as Howard emerges through door)",
+            "Are you happy, you drove your own son out of the house. "
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "Why don\u2019t you stop butting in where you don\u2019t belong."
+        ],
+        [
+            "Howard",
+            "What are you guys doing here? "
+        ],
+        [
+            "Sheldon",
+            "It\u2019s Halo night. "
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "He\u2019s not a man, he\u2019s a putz, and don\u2019t you take that tone with me, you gold digger."
+        ],
+        [
+            "Christie (voice)",
+            "What did you call me? "
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "You heard me, and I\u2019ll tell you something else, you\u2019re barking up the wrong tree, cos as long as you\u2019re around, Howard is out of the will."
+        ],
+        [
+            "Christie: (voice)",
+            "You know what, I got better offers, I\u2019m out of here. "
+        ],
+        [
+            "Howard\u2019s Mother (voice)",
+            "That\u2019s right, go back to Babylon, you whore. "
+        ],
+        [
+            "Howard",
+            "So, Halo night, huh? "
+        ],
+        [
+            "Raj",
+            "I thought she was the whore of Omaha?"
+        ],
+        [
+            "Sheldon",
+            "Shhh! "
+        ],
+        [
+            "Scene",
+            "The apartment, Halo night. "
+        ],
+        [
+            "Howard",
+            "Sheldon, you got him in your sights, fire, he\u2019s charging his plasma rifle. "
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t shoot now, I\u2019m cloaking."
+        ],
+        [
+            "Leonard",
+            "Now, Raj, kill Sheldon."
+        ],
+        [
+            "Raj",
+            "I can\u2019t see him."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s why the call it cloaking, dead man."
+        ],
+        [
+            "Leonard",
+            "Well then start throwing grenades."
+        ],
+        [
+            "Raj",
+            "I\u2019m all out. "
+        ],
+        [
+            "Penny (entering with three other sexy women)",
+            "Hi guys, my friends and I got tired of dancing, so we came over to have sex with you. "
+        ],
+        [
+            "Leonard",
+            "That will do, Raj, straight for the tank."
+        ],
+        [
+            "Sheldon",
+            "We said no tanks."
+        ],
+        [
+            "Raj",
+            "There are no rules in hell! "
+        ],
+        [
+            "Howard",
+            "Son of a bitch, medpack, I need a medpack! "
+        ],
+        [
+            "Penny",
+            "Told yah! (They leave). "
+        ],
+        [
+            "Leonard",
+            "There\u2019s a sniper, use your rocket launcher. "
+        ],
+        [
+            "Raj",
+            "All I\u2019ve got is a needler, and I\u2019m all out of ammo. "
+        ],
+        [
+            "Sheldon",
+            "And now you\u2019re out of life. Why did you hit pause?"
+        ],
+        [
+            "Leonard",
+            "I thought I heard something. "
+        ],
+        [
+            "Raj",
+            "What?"
+        ],
+        [
+            "Leonard",
+            "No, never mind, alright, go. "
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-1-episode-7-the-dumpling-paradox/"
+}

@@ -1,0 +1,2136 @@
+{
+    "Season": 10,
+    "Episode": 3,
+    "Title": "the dependence transcendence",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The new laboratory."
+            ],
+            [
+                18,
+                "to soldier through?"
+            ],
+            [
+                21,
+                "Credits sequence."
+            ],
+            [
+                22,
+                "The apartment."
+            ],
+            [
+                40,
+                "Howard and Bernadette\u2019s kitchen."
+            ],
+            [
+                59,
+                "In the university, Sheldon is asleep against a vending machine."
+            ],
+            [
+                73,
+                "Bert\u2019s apartment."
+            ],
+            [
+                82,
+                "Howard and Bernadette\u2019s spare room."
+            ],
+            [
+                97,
+                "The lab."
+            ],
+            [
+                100,
+                "uncomfortably intimate."
+            ],
+            [
+                105,
+                "Bert\u2019s apartment."
+            ],
+            [
+                122,
+                "The lab."
+            ],
+            [
+                144,
+                "Howard and Bernadette\u2019s kitchen."
+            ],
+            [
+                157,
+                "Bert\u2019s apartment. "
+            ],
+            [
+                171,
+                "The lab."
+            ],
+            [
+                183,
+                "Bernadette\u2019s car."
+            ],
+            [
+                195,
+                "The lab. "
+            ],
+            [
+                213,
+                "Bert\u2019s apartment."
+            ],
+            [
+                222,
+                "Bernadette\u2019s car. "
+            ],
+            [
+                240,
+                "Colonel Williams\u2019 office."
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "It\u2019s pretty late. You think I\u2019ve got time to run some more simulations on the cooling system?"
+            ],
+            [
+                4,
+                "What?"
+            ],
+            [
+                6,
+                "Hey, hey, hey, you\u2019re not going anywhere."
+            ],
+            [
+                9,
+                "Well, wake up, we\u2019re gonna put in a lot of late nights."
+            ],
+            [
+                11,
+                "Well, I don\u2019t know, midnight, one."
+            ],
+            [
+                13,
+                "If you\u2019re tired, have some coffee."
+            ],
+            [
+                15,
+                "I am having coffee."
+            ],
+            [
+                41,
+                "Sorry I have to work all weekend."
+            ],
+            [
+                43,
+                "Thanks again for breakfast."
+            ],
+            [
+                98,
+                "Why is it taking him so long to get a drink out of a vending machine?"
+            ],
+            [
+                104,
+                "You wanted him awake."
+            ],
+            [
+                123,
+                "Maybe we should break for lunch. What time is it?"
+            ],
+            [
+                126,
+                "Why don\u2019t you just go home?"
+            ],
+            [
+                134,
+                "You can\u2019t develop a problem that fast."
+            ],
+            [
+                137,
+                "Well, this probably won\u2019t work, but has anyone ever tried to just haul off and whup the crazy out of him?"
+            ],
+            [
+                142,
+                "No worries."
+            ],
+            [
+                182,
+                "That was painful to watch."
+            ],
+            [
+                199,
+                "No."
+            ],
+            [
+                212,
+                "When the baby gets here, you gotta teach me that."
+            ],
+            [
+                247,
+                "We\u2019ve hit a bit of a snag. We\u2019re already behind schedule."
+            ],
+            [
+                251,
+                "We, we\u2019re thinking, two years."
+            ],
+            [
+                253,
+                "That\u2019s it? You\u2019re okay with that?"
+            ],
+            [
+                256,
+                "Yes, thank you so much."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "Sure, I\u2019m still figuring out the thermo-acoustic expander."
+            ],
+            [
+                7,
+                "We only have two months to deliver this to the Air Force because of you."
+            ],
+            [
+                17,
+                "Guys, we\u2019re not gonna get anything done if we start fighting. Now, can you please try"
+            ],
+            [
+                20,
+                "It\u2019s been three and a half minutes, wake up."
+            ],
+            [
+                24,
+                "Oh, I had a good dream that when I carried you to bed, I let your head hit the wall and I laughed."
+            ],
+            [
+                26,
+                "What is this?"
+            ],
+            [
+                28,
+                "Oh, that is so nice."
+            ],
+            [
+                30,
+                "So, what are you guys gonna do today?"
+            ],
+            [
+                36,
+                "You don\u2019t think you\u2019ll be bored?"
+            ],
+            [
+                99,
+                "Oh, it\u2019s complicated. He finds pushing that little door and reaching up into the machine"
+            ],
+            [
+                102,
+                "Are you okay?"
+            ],
+            [
+                124,
+                "According to the world\u2019s worst cuckoo clock, it\u2019s two."
+            ],
+            [
+                128,
+                "What?"
+            ],
+            [
+                130,
+                "So?"
+            ],
+            [
+                132,
+                "You only had one."
+            ],
+            [
+                136,
+                "We can\u2019t afford to lose any more time."
+            ],
+            [
+                138,
+                "That\u2019s not helpful. It\u2019s fun to think about, but it\u2019s not helpful. Hey, Sheldon, we are on a serious time crunch. We can\u2019t do this without you. Can you please pull it together?"
+            ],
+            [
+                140,
+                "Thank you."
+            ],
+            [
+                172,
+                "I\u2019m gonna get some coffee. You want some?"
+            ],
+            [
+                174,
+                "Uh, okay, let\u2019s pretend you do have a problem."
+            ],
+            [
+                176,
+                "You don\u2019t."
+            ],
+            [
+                178,
+                "No, you don\u2019t. But let\u2019s say you do. And don\u2019t say you do, because you don\u2019t. Now, wouldn\u2019t you think that throwing yourself into your work would be the best way to deal with it?"
+            ],
+            [
+                180,
+                "Your problem."
+            ],
+            [
+                197,
+                "Is it about the rotational symmetries you should be figuring out or your fake caffeine problem?"
+            ],
+            [
+                201,
+                "Sheldon. We are dealing with an impossible deadline from the Air Force because of you. So have an energy drink, don\u2019t have an energy drink. Order suppositories and shove \u2019em wherever you want, I don\u2019t care."
+            ],
+            [
+                203,
+                "Right. Listen to me. We can\u2019t do anything until you do your part. So get up in front of this whiteboard and do it."
+            ],
+            [
+                205,
+                "Yes, you can."
+            ],
+            [
+                207,
+                "Seriously?"
+            ],
+            [
+                209,
+                "It\u2019s okay, we\u2019ll figure something out."
+            ],
+            [
+                211,
+                "It\u2019ll be fine. You\u2019ll see. Sheldon? Buddy? (Sheldon snores)"
+            ],
+            [
+                241,
+                "Um, I don\u2019t really know how to say this."
+            ],
+            [
+                243,
+                "Right. Sorry, sir."
+            ],
+            [
+                245,
+                "Sir."
+            ],
+            [
+                249,
+                "I understand that we\u2019re under contract, and I don\u2019t know what the consequences of violating that are, but, uh, we\u2019re not gonna be able to deliver in the time we promised."
+            ],
+            [
+                255,
+                "Thanks for understanding, sir."
+            ]
+        ],
+        "Sheldon": [
+            [
+                3,
+                "Oh, while you do that I am going to pump cerebral spinal fluid through my brain cells to remove the metabolic by-products of the day\u2019s thoughts."
+            ],
+            [
+                5,
+                "It\u2019s called sleep and it\u2019s my bedtime. Nighty-night, y\u2019all."
+            ],
+            [
+                8,
+                "I know, I was there."
+            ],
+            [
+                10,
+                "How late?"
+            ],
+            [
+                12,
+                "One o\u2019clock? I\u2019m not a raccoon."
+            ],
+            [
+                14,
+                "What? You have some coffee."
+            ],
+            [
+                16,
+                "And look how irritable it\u2019s making you!"
+            ],
+            [
+                19,
+                "Fine. (Time passing montage) I don\u2019t think I can go much longer."
+            ],
+            [
+                23,
+                "I had a bad dream that my best friend became a tyrant and forced me to stay up all night to work."
+            ],
+            [
+                29,
+                "Ow, it does hurt."
+            ],
+            [
+                32,
+                "Oh, that was never happening."
+            ],
+            [
+                38,
+                "I won\u2019t be there."
+            ],
+            [
+                61,
+                "Huh, what?"
+            ],
+            [
+                63,
+                "Oh, no, thank you, those have caffeine in them."
+            ],
+            [
+                65,
+                "I am cool. This is Yoo-hoo, chocolate milk\u2019s delicious watery cousin."
+            ],
+            [
+                67,
+                "Superheroes take performance-enhancing chemicals?"
+            ],
+            [
+                69,
+                "I am facing a great deal of work. And I do like things better when famous people also like them."
+            ],
+            [
+                71,
+                "The first one\u2019s free? Flash, how do you stay in business?"
+            ],
+            [
+                101,
+                "Gentlemen, I am ready to work. To quote The Martian, let\u2019s science the faeces out of this. That\u2019s The Martian the book and The Martian the movie, not Marvin the Martian. Although to quote Marvin the Martian, I claim this planet in the name of Mars."
+            ],
+            [
+                103,
+                "Oh, I\u2019m fantastic, never been better. I had my first energy drink and I feel great. Hey, you guys want to wrestle? We can do arm, thumb, mud, sumo. Nah, we\u2019re not fat enough, or wearing diapers."
+            ],
+            [
+                125,
+                "My head hurts and I\u2019m more tired than ever."
+            ],
+            [
+                127,
+                "No, I can do this. I just, I just need another energy drink. Oh, no."
+            ],
+            [
+                129,
+                "I want another one."
+            ],
+            [
+                131,
+                "That\u2019s a craving. That\u2019s a sign of chemical dependency."
+            ],
+            [
+                133,
+                "No, I know, but plenty of things are addictive after a single exposure. I mean, crack cocaine, nicotine, Pringles. You know once one pops one just can\u2019t stop."
+            ],
+            [
+                135,
+                "You want to bet? Oh, great, now I\u2019m addicted to gambling."
+            ],
+            [
+                139,
+                "I\u2019m sorry. Yes, of course."
+            ],
+            [
+                141,
+                "Just, please, bear with me if I display symptoms of caffeine withdrawal."
+            ],
+            [
+                143,
+                "You guys stink."
+            ],
+            [
+                173,
+                "Uh, you\u2019re really going to have caffeine in front of me when I\u2019m trying to get my life back on track?"
+            ],
+            [
+                175,
+                "I do."
+            ],
+            [
+                177,
+                "Yeah, but I do."
+            ],
+            [
+                179,
+                "With what?"
+            ],
+            [
+                181,
+                "I thought I didn\u2019t have a problem."
+            ],
+            [
+                196,
+                "Leonard, can I ask you a question?"
+            ],
+            [
+                198,
+                "Howard, can I ask you a question?"
+            ],
+            [
+                200,
+                "All right, I\u2019ll just toss this out to the room. Um, I was thinking that the best way to fight my addiction is by weaning myself off in steps. Now, I couldn\u2019t find a caffeine patch, but I did find what claims to be a mind-boosting caffeine suppository. You know, the interesting fact about the rectum\u2026"
+            ],
+            [
+                202,
+                "You don\u2019t shove them. They come with an easy-glide applicator."
+            ],
+            [
+                204,
+                "I can\u2019t."
+            ],
+            [
+                206,
+                "No, I can\u2019t figure out the math. I\u2019ve been racking my brain for days, and I\u2019ve got nothing."
+            ],
+            [
+                208,
+                "I can\u2019t do it. I\u2019m not as smart as I think I am. I\u2019m so sorry. This is all my fault."
+            ],
+            [
+                210,
+                "But what if we can\u2019t?"
+            ],
+            [
+                244,
+                "He said start with it, not end with it."
+            ],
+            [
+                248,
+                "The computations required to overcome the deployability issues are more significant than we thought."
+            ],
+            [
+                257,
+                "We, we really appreciate it."
+            ]
+        ],
+        "Penny": [
+            [
+                25,
+                "Good morning."
+            ],
+            [
+                33,
+                "Oh, I\u2019ll go. I like a party."
+            ],
+            [
+                35,
+                "It\u2019s okay, I\u2019ll still go."
+            ],
+            [
+                37,
+                "Oh, I\u2019ll have some wine and listen to people go on about crap I don\u2019t understand. I mean, how is it any different than every single day of my life?"
+            ],
+            [
+                75,
+                "Hi."
+            ],
+            [
+                79,
+                "How early are we?"
+            ],
+            [
+                81,
+                "I suddenly wish Sheldon was here."
+            ],
+            [
+                106,
+                "So should we talk to each other or mingle?"
+            ],
+            [
+                108,
+                "Yeah, I mean, I could see him eating one or two guests, but not a whole party."
+            ],
+            [
+                111,
+                "Oh, it\u2019s funny, I was just thinking the same thing about you."
+            ],
+            [
+                113,
+                "Wait, what do you mean she\u2019s her?"
+            ],
+            [
+                115,
+                "No."
+            ],
+            [
+                118,
+                "What? You tell me about your foot fungus, but this is a secret?"
+            ],
+            [
+                121,
+                "Now Sheldon\u2019s popular? What is happening?"
+            ],
+            [
+                159,
+                "You trend setter."
+            ],
+            [
+                161,
+                "Okay, okay, so Amy\u2019s cool, Sheldon\u2019s cool. Tell me about Leonard."
+            ],
+            [
+                163,
+                "Leonard Hofstadter."
+            ],
+            [
+                165,
+                "That\u2019s me, I\u2019m her. You know, he didn\u2019t trick me, he just wore me down."
+            ],
+            [
+                168,
+                "You know, I had no idea Caltech is exactly like my high school."
+            ],
+            [
+                170,
+                "Wow, you popular girls are mean."
+            ],
+            [
+                218,
+                "Well, so are you. In fact, you know what? We will never take you for granite. Did you get that? Granite? A little geology joke."
+            ],
+            [
+                220,
+                "Okay."
+            ]
+        ],
+        "Amy": [
+            [
+                27,
+                "Well, we didn\u2019t see you last night, we\u2019re not gonna see you today, so we thought we could have breakfast together."
+            ],
+            [
+                31,
+                "Well, Sheldon was supposed to go to this party with me this afternoon, but I don\u2019t think that\u2019s happening."
+            ],
+            [
+                34,
+                "Well, to be honest, it\u2019s not like a party party, it\u2019s more like a gathering where scientists of different disciplines get together to share their work and keep current on what\u2019s going on in other fields. I don\u2019t know why I called it a party, sorry."
+            ],
+            [
+                74,
+                "Hi, Bert. This is my friend, Penny."
+            ],
+            [
+                77,
+                "Bert\u2019s a geologist. "
+            ],
+            [
+                80,
+                "Oh, actually, we\u2019re an hour late."
+            ],
+            [
+                107,
+                "I don\u2019t know where everyone is."
+            ],
+            [
+                110,
+                "Okay. I feel so bad about leaving him here."
+            ],
+            [
+                116,
+                "No."
+            ],
+            [
+                119,
+                "I\u2019m sure it\u2019s just \u2019cause I\u2019m dating Sheldon."
+            ],
+            [
+                160,
+                "Just the right idea at the right time."
+            ],
+            [
+                167,
+                "And you thought this wasn\u2019t gonna be a great party."
+            ],
+            [
+                169,
+                "Well, it\u2019s not exactly like it. We\u2019re all extremely smart."
+            ],
+            [
+                214,
+                "Thank you so much, Bert. This was great."
+            ],
+            [
+                216,
+                "I think we\u2019re good."
+            ],
+            [
+                221,
+                "Bye."
+            ]
+        ],
+        "Leonard: ": [
+            [
+                39,
+                "Look at that, it is a party."
+            ]
+        ],
+        "Bernadette": [
+            [
+                42,
+                "It\u2019s okay."
+            ],
+            [
+                45,
+                "You shouldn\u2019t have made the alarm code his birthday."
+            ],
+            [
+                47,
+                "Oh, I appreciate it, but you don\u2019t have to spend your day off with me."
+            ],
+            [
+                49,
+                "Not really."
+            ],
+            [
+                51,
+                "I get enough of that when I take Howard to my grandmother\u2019s for Christmas."
+            ],
+            [
+                53,
+                "Isn\u2019t it a little early for that?"
+            ],
+            [
+                55,
+                "Oh, there\u2019s so much junk in there, it\u2019s embarrassing."
+            ],
+            [
+                57,
+                "I don\u2019t think you are."
+            ],
+            [
+                83,
+                "I don\u2019t even know where to begin."
+            ],
+            [
+                85,
+                "Oh, I was gonna start at the end. Thank God you\u2019re here."
+            ],
+            [
+                87,
+                "Sorry. I should probably keep this in case we have a girl."
+            ],
+            [
+                89,
+                "My dad built it for me."
+            ],
+            [
+                91,
+                "This was the husband and this was the wife. They\u2019d go out on adventures together. Cruises, skiing, horseback riding. That was really me just duct taping them to our dog."
+            ],
+            [
+                93,
+                "They did, but the mommy and daddy didn\u2019t like them, so they shipped them off to an orphanage I made out of a shoebox."
+            ],
+            [
+                95,
+                "Not every girl dreams about being a mom. Sometimes you think you\u2019re never gonna have kids and one day you wake up and you\u2019re pregnant. And it doesn\u2019t matter that your career\u2019s going great right now and that you and your husband never even got to go anywhere taped to a dog."
+            ],
+            [
+                145,
+                "Sorry I flipped out on you. I think it\u2019s just hormones."
+            ],
+            [
+                147,
+                "Does it really need one?"
+            ],
+            [
+                149,
+                "Well, it doubled as my dad\u2019s office, and he was a cop, so I guess the theme was bloody homicide photos."
+            ],
+            [
+                151,
+                "Are you just gonna name all the colours?"
+            ],
+            [
+                153,
+                "I don\u2019t care what colour the room is."
+            ],
+            [
+                155,
+                "Well, you\u2019re not, so just drop it. (Off) I\u2019m clearly upset. Why aren\u2019t you following me?"
+            ],
+            [
+                185,
+                "I don\u2019t know."
+            ],
+            [
+                187,
+                "Raj, why don\u2019t I care about anything?"
+            ],
+            [
+                189,
+                "It\u2019s my baby. I, I should care about nurseries and colours, and I don\u2019t. What\u2019s wrong with me?"
+            ],
+            [
+                191,
+                "I keep waiting to feel excited, but it\u2019s not happening. What if it never happens?"
+            ],
+            [
+                193,
+                "Once, I was supposed to babysit my brothers. Our neighbour found them naked in the backyard eating crickets."
+            ],
+            [
+                224,
+                "What? Why? Who are you calling? You\u2019re gonna rat me out to Howard, aren\u2019t you? You\u2019re such a snitch, no wonder I don\u2019t like you."
+            ],
+            [
+                233,
+                "Something\u2019s wrong. I don\u2019t care about any of the baby stuff every other mom is so into. Honestly, I\u2019m not even sure I like babies."
+            ],
+            [
+                235,
+                "But I thought I\u2019d be more excited."
+            ],
+            [
+                237,
+                "Thank you. I feel better now."
+            ]
+        ],
+        "Raj": [
+            [
+                44,
+                "Well, I didn\u2019t get to see you last night. It was the least I could do."
+            ],
+            [
+                46,
+                "So, what should we do today?"
+            ],
+            [
+                48,
+                "Well, I don\u2019t mind. Oh, you want go to the mall and look at baby stuff?"
+            ],
+            [
+                50,
+                "Oh, come on, we could share a pretzel and get sideways glances from racist old ladies."
+            ],
+            [
+                52,
+                "Oh, I know, why don\u2019t we get started on clearing out the baby\u2019s room?"
+            ],
+            [
+                54,
+                "You have to get to it eventually."
+            ],
+            [
+                56,
+                "How can you be embarrassed around me? I\u2019m gonna be in the room with you when you give birth."
+            ],
+            [
+                58,
+                "You didn\u2019t think I was gonna be in your kitchen this morning, yet here I am."
+            ],
+            [
+                84,
+                "Well, in The Sound of Music, Julie Andrews says let\u2019s start at the very beginning, a very good place to start."
+            ],
+            [
+                86,
+                "Well, I think the first thing we should get rid of is that tone."
+            ],
+            [
+                88,
+                "Oh, that\u2019s a nice one. Was it yours when you were little?"
+            ],
+            [
+                90,
+                "Wow, it\u2019s so cute."
+            ],
+            [
+                92,
+                "Oh, and did they have kids?"
+            ],
+            [
+                94,
+                "Yeah, that\u2019s not worrisome at all."
+            ],
+            [
+                96,
+                "I skipped spin class for this."
+            ],
+            [
+                146,
+                "I think you were mean before you were pregnant, but it\u2019s fine. So, uh, instead of cleaning out the room, why don\u2019t we just decide on a theme for the nursery?"
+            ],
+            [
+                148,
+                "Of course it does. Didn\u2019t your baby room have a theme?"
+            ],
+            [
+                150,
+                "Oh. Mine was Winnie the Pooh. But anyway, why don\u2019t we just take a step back and start with a colour? Right? There are so many amazing ones. Red, blue, green, purple."
+            ],
+            [
+                152,
+                "Well, not now."
+            ],
+            [
+                154,
+                "Okay, well, I\u2019m just trying to help you."
+            ],
+            [
+                156,
+                "Sorry. Sorry."
+            ],
+            [
+                184,
+                "So where are we going?"
+            ],
+            [
+                186,
+                "Okay. How Thelma and Louise of us."
+            ],
+            [
+                188,
+                "I\u2019m sorry?"
+            ],
+            [
+                190,
+                "Well, crime-scene photos near your crib spring to mind."
+            ],
+            [
+                192,
+                "Bernadette, come on, look, you\u2019re overthinking this, okay? You\u2019re gonna be an amazing mom. Even if you don\u2019t believe it, I know you have maternal instincts."
+            ],
+            [
+                194,
+                "Happy and well-fed. You see, that\u2019s what I\u2019m taking from that story."
+            ],
+            [
+                223,
+                "Uh, pull over."
+            ],
+            [
+                225,
+                "Whoa, I\u2019m calling my dad, okay? He\u2019s got experience dealing with pregnant ladies because he\u2019s an OBGYN. And experience with crazy ladies because of my mom."
+            ],
+            [
+                227,
+                "What? No."
+            ],
+            [
+                229,
+                "No."
+            ],
+            [
+                231,
+                "This is my friend, Bernadette. She\u2019s pregnant, and she\u2019s a bit worried, so I thought maybe you could talk to her."
+            ],
+            [
+                238,
+                "Well I don\u2019t."
+            ]
+        ],
+        "Voice": [
+            [
+                60,
+                "Psst, hey, kid."
+            ]
+        ],
+        "The Flash (the voice)": [
+            [
+                62,
+                "You look tired. Why don\u2019t you have an energy drink? Everyone\u2019s doing it."
+            ]
+        ],
+        "The Flash": [
+            [
+                64,
+                "Oh sorry, I thought you were cool."
+            ],
+            [
+                66,
+                "All right. But if you ever want to feel like you have superpowers, try one of these."
+            ],
+            [
+                68,
+                "You bet. You know why Hulk is so strong? Steroids. You know why Batman wanders around at night getting into fights? Scotch."
+            ],
+            [
+                70,
+                "Here. It\u2019s on the house."
+            ],
+            [
+                72,
+                "You want to know my secret? I bought stock in Marvel."
+            ]
+        ],
+        "Bert": [
+            [
+                76,
+                "Hey, come on in. I\u2019ll gonna go turn on some rock music. That\u2019s a geology joke. "
+            ],
+            [
+                78,
+                "And a joker."
+            ],
+            [
+                109,
+                "Well, I guess this is kind of a bust. You don\u2019t have to stay. I\u2019m gonna start cleaning up."
+            ],
+            [
+                112,
+                "Hey, listen, could you not say anything about this to the people at the university? You know, \u2019cause you\u2019re you and I\u2019m me, and it\u2019s kind of embarrassing."
+            ],
+            [
+                114,
+                "Well, you know how Amy\u2019s the coolest girl on campus, right?"
+            ],
+            [
+                117,
+                "Oh yeah, everybody thinks so."
+            ],
+            [
+                120,
+                "Mm, actually, I think Sheldon\u2019s popular because he\u2019s dating you."
+            ],
+            [
+                158,
+                "And when Amy started using a solution of chromic acid and white vinegar to clean all her lab equipment, all of a sudden, everybody was doing it."
+            ],
+            [
+                162,
+                "Who?"
+            ],
+            [
+                164,
+                "Oh, him. I guess he\u2019s all right. Apparently he tricked some hot girl into marrying him."
+            ],
+            [
+                166,
+                "It makes sense you two are friends. I mean, hot girls always stick together."
+            ],
+            [
+                215,
+                "My pleasure. You girls want to take home a two-gallon tub of potato salad?"
+            ],
+            [
+                217,
+                "Okay, well, thanks for coming by. You\u2019re nice people."
+            ],
+            [
+                219,
+                "You need to leave. I\u2019m in love with both of you now."
+            ]
+        ],
+        "Dr Koothrapalli (on facetime)": [
+            [
+                226,
+                "Hello, Rajesh. Are you calling to ask for money?"
+            ]
+        ],
+        "Dr Koothrapalli": [
+            [
+                228,
+                "Are you calling to ask for things that cost money?"
+            ],
+            [
+                230,
+                "Great. What\u2019s up?"
+            ],
+            [
+                232,
+                "Of course. What seems to be the trouble?"
+            ],
+            [
+                234,
+                "Look, some people are baby people, and some people are not baby people. It doesn\u2019t mean you won\u2019t love your own baby."
+            ],
+            [
+                236,
+                "Oh, being excited isn\u2019t a guarantee of anything. Rajesh\u2019s mother was thrilled when she was pregnant with him. After he was born, she doted on his every move. And you know what happened? He broke her heart, moved halfway around the world, and dates only poor white women. So you never know."
+            ],
+            [
+                239,
+                "Good. Bernadette, I hope you have a daughter."
+            ]
+        ],
+        "Colonel Williams": [
+            [
+                242,
+                "Well, you could try starting with sir."
+            ],
+            [
+                246,
+                "Hmm?"
+            ],
+            [
+                250,
+                "How long do you need?"
+            ],
+            [
+                252,
+                "All right."
+            ],
+            [
+                254,
+                "What, you think you\u2019re the first government contractor who isn\u2019t gonna deliver on time? We\u2019re still waiting for a big space laser Reagan ordered to beat the commies."
+            ]
+        ],
+        "Leonard (off)": [
+            [
+                258,
+                "All right, pressure\u2019s off"
+            ]
+        ],
+        "Howard (off)": [
+            [
+                259,
+                "Wanna see a movie?"
+            ]
+        ],
+        "Sheldon (off)": [
+            [
+                260,
+                "Popcorn\u2019s on me."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The new laboratory."
+        ],
+        [
+            "Howard",
+            "It\u2019s pretty late. You think I\u2019ve got time to run some more simulations on the cooling system?"
+        ],
+        [
+            "Leonard",
+            "Sure, I\u2019m still figuring out the thermo-acoustic expander."
+        ],
+        [
+            "Sheldon",
+            "Oh, while you do that I am going to pump cerebral spinal fluid through my brain cells to remove the metabolic by-products of the day\u2019s thoughts."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s called sleep and it\u2019s my bedtime. Nighty-night, y\u2019all."
+        ],
+        [
+            "Howard",
+            "Hey, hey, hey, you\u2019re not going anywhere."
+        ],
+        [
+            "Leonard",
+            "We only have two months to deliver this to the Air Force because of you."
+        ],
+        [
+            "Sheldon",
+            "I know, I was there."
+        ],
+        [
+            "Howard",
+            "Well, wake up, we\u2019re gonna put in a lot of late nights."
+        ],
+        [
+            "Sheldon",
+            "How late?"
+        ],
+        [
+            "Howard",
+            "Well, I don\u2019t know, midnight, one."
+        ],
+        [
+            "Sheldon",
+            "One o\u2019clock? I\u2019m not a raccoon."
+        ],
+        [
+            "Howard",
+            "If you\u2019re tired, have some coffee."
+        ],
+        [
+            "Sheldon",
+            "What? You have some coffee."
+        ],
+        [
+            "Howard",
+            "I am having coffee."
+        ],
+        [
+            "Sheldon",
+            "And look how irritable it\u2019s making you!"
+        ],
+        [
+            "Leonard",
+            "Guys, we\u2019re not gonna get anything done if we start fighting. Now, can you please try"
+        ],
+        [
+            "Scene",
+            "to soldier through?"
+        ],
+        [
+            "Sheldon",
+            "Fine. (Time passing montage) I don\u2019t think I can go much longer."
+        ],
+        [
+            "Leonard",
+            "It\u2019s been three and a half minutes, wake up."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "I had a bad dream that my best friend became a tyrant and forced me to stay up all night to work."
+        ],
+        [
+            "Leonard",
+            "Oh, I had a good dream that when I carried you to bed, I let your head hit the wall and I laughed."
+        ],
+        [
+            "Penny",
+            "Good morning."
+        ],
+        [
+            "Leonard",
+            "What is this?"
+        ],
+        [
+            "Amy",
+            "Well, we didn\u2019t see you last night, we\u2019re not gonna see you today, so we thought we could have breakfast together."
+        ],
+        [
+            "Leonard",
+            "Oh, that is so nice."
+        ],
+        [
+            "Sheldon",
+            "Ow, it does hurt."
+        ],
+        [
+            "Leonard",
+            "So, what are you guys gonna do today?"
+        ],
+        [
+            "Amy",
+            "Well, Sheldon was supposed to go to this party with me this afternoon, but I don\u2019t think that\u2019s happening."
+        ],
+        [
+            "Sheldon",
+            "Oh, that was never happening."
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019ll go. I like a party."
+        ],
+        [
+            "Amy",
+            "Well, to be honest, it\u2019s not like a party party, it\u2019s more like a gathering where scientists of different disciplines get together to share their work and keep current on what\u2019s going on in other fields. I don\u2019t know why I called it a party, sorry."
+        ],
+        [
+            "Penny",
+            "It\u2019s okay, I\u2019ll still go."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t think you\u2019ll be bored?"
+        ],
+        [
+            "Penny",
+            "Oh, I\u2019ll have some wine and listen to people go on about crap I don\u2019t understand. I mean, how is it any different than every single day of my life?"
+        ],
+        [
+            "Sheldon",
+            "I won\u2019t be there."
+        ],
+        [
+            "Leonard: ",
+            "Look at that, it is a party."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Howard",
+            "Sorry I have to work all weekend."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s okay."
+        ],
+        [
+            "Howard",
+            "Thanks again for breakfast."
+        ],
+        [
+            "Raj",
+            "Well, I didn\u2019t get to see you last night. It was the least I could do."
+        ],
+        [
+            "Bernadette",
+            "You shouldn\u2019t have made the alarm code his birthday."
+        ],
+        [
+            "Raj",
+            "So, what should we do today?"
+        ],
+        [
+            "Bernadette",
+            "Oh, I appreciate it, but you don\u2019t have to spend your day off with me."
+        ],
+        [
+            "Raj",
+            "Well, I don\u2019t mind. Oh, you want go to the mall and look at baby stuff?"
+        ],
+        [
+            "Bernadette",
+            "Not really."
+        ],
+        [
+            "Raj",
+            "Oh, come on, we could share a pretzel and get sideways glances from racist old ladies."
+        ],
+        [
+            "Bernadette",
+            "I get enough of that when I take Howard to my grandmother\u2019s for Christmas."
+        ],
+        [
+            "Raj",
+            "Oh, I know, why don\u2019t we get started on clearing out the baby\u2019s room?"
+        ],
+        [
+            "Bernadette",
+            "Isn\u2019t it a little early for that?"
+        ],
+        [
+            "Raj",
+            "You have to get to it eventually."
+        ],
+        [
+            "Bernadette",
+            "Oh, there\u2019s so much junk in there, it\u2019s embarrassing."
+        ],
+        [
+            "Raj",
+            "How can you be embarrassed around me? I\u2019m gonna be in the room with you when you give birth."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t think you are."
+        ],
+        [
+            "Raj",
+            "You didn\u2019t think I was gonna be in your kitchen this morning, yet here I am."
+        ],
+        [
+            "Scene",
+            "In the university, Sheldon is asleep against a vending machine."
+        ],
+        [
+            "Voice",
+            "Psst, hey, kid."
+        ],
+        [
+            "Sheldon",
+            "Huh, what?"
+        ],
+        [
+            "The Flash (the voice)",
+            "You look tired. Why don\u2019t you have an energy drink? Everyone\u2019s doing it."
+        ],
+        [
+            "Sheldon",
+            "Oh, no, thank you, those have caffeine in them."
+        ],
+        [
+            "The Flash",
+            "Oh sorry, I thought you were cool."
+        ],
+        [
+            "Sheldon",
+            "I am cool. This is Yoo-hoo, chocolate milk\u2019s delicious watery cousin."
+        ],
+        [
+            "The Flash",
+            "All right. But if you ever want to feel like you have superpowers, try one of these."
+        ],
+        [
+            "Sheldon",
+            "Superheroes take performance-enhancing chemicals?"
+        ],
+        [
+            "The Flash",
+            "You bet. You know why Hulk is so strong? Steroids. You know why Batman wanders around at night getting into fights? Scotch."
+        ],
+        [
+            "Sheldon",
+            "I am facing a great deal of work. And I do like things better when famous people also like them."
+        ],
+        [
+            "The Flash",
+            "Here. It\u2019s on the house."
+        ],
+        [
+            "Sheldon",
+            "The first one\u2019s free? Flash, how do you stay in business?"
+        ],
+        [
+            "The Flash",
+            "You want to know my secret? I bought stock in Marvel."
+        ],
+        [
+            "Scene",
+            "Bert\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "Hi, Bert. This is my friend, Penny."
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Bert",
+            "Hey, come on in. I\u2019ll gonna go turn on some rock music. That\u2019s a geology joke. "
+        ],
+        [
+            "Amy",
+            "Bert\u2019s a geologist. "
+        ],
+        [
+            "Bert",
+            "And a joker."
+        ],
+        [
+            "Penny",
+            "How early are we?"
+        ],
+        [
+            "Amy",
+            "Oh, actually, we\u2019re an hour late."
+        ],
+        [
+            "Penny",
+            "I suddenly wish Sheldon was here."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s spare room."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t even know where to begin."
+        ],
+        [
+            "Raj",
+            "Well, in The Sound of Music, Julie Andrews says let\u2019s start at the very beginning, a very good place to start."
+        ],
+        [
+            "Bernadette",
+            "Oh, I was gonna start at the end. Thank God you\u2019re here."
+        ],
+        [
+            "Raj",
+            "Well, I think the first thing we should get rid of is that tone."
+        ],
+        [
+            "Bernadette",
+            "Sorry. I should probably keep this in case we have a girl."
+        ],
+        [
+            "Raj",
+            "Oh, that\u2019s a nice one. Was it yours when you were little?"
+        ],
+        [
+            "Bernadette",
+            "My dad built it for me."
+        ],
+        [
+            "Raj",
+            "Wow, it\u2019s so cute."
+        ],
+        [
+            "Bernadette",
+            "This was the husband and this was the wife. They\u2019d go out on adventures together. Cruises, skiing, horseback riding. That was really me just duct taping them to our dog."
+        ],
+        [
+            "Raj",
+            "Oh, and did they have kids?"
+        ],
+        [
+            "Bernadette",
+            "They did, but the mommy and daddy didn\u2019t like them, so they shipped them off to an orphanage I made out of a shoebox."
+        ],
+        [
+            "Raj",
+            "Yeah, that\u2019s not worrisome at all."
+        ],
+        [
+            "Bernadette",
+            "Not every girl dreams about being a mom. Sometimes you think you\u2019re never gonna have kids and one day you wake up and you\u2019re pregnant. And it doesn\u2019t matter that your career\u2019s going great right now and that you and your husband never even got to go anywhere taped to a dog."
+        ],
+        [
+            "Raj",
+            "I skipped spin class for this."
+        ],
+        [
+            "Scene",
+            "The lab."
+        ],
+        [
+            "Howard",
+            "Why is it taking him so long to get a drink out of a vending machine?"
+        ],
+        [
+            "Leonard",
+            "Oh, it\u2019s complicated. He finds pushing that little door and reaching up into the machine"
+        ],
+        [
+            "Scene",
+            "uncomfortably intimate."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen, I am ready to work. To quote The Martian, let\u2019s science the faeces out of this. That\u2019s The Martian the book and The Martian the movie, not Marvin the Martian. Although to quote Marvin the Martian, I claim this planet in the name of Mars."
+        ],
+        [
+            "Leonard",
+            "Are you okay?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m fantastic, never been better. I had my first energy drink and I feel great. Hey, you guys want to wrestle? We can do arm, thumb, mud, sumo. Nah, we\u2019re not fat enough, or wearing diapers."
+        ],
+        [
+            "Howard",
+            "You wanted him awake."
+        ],
+        [
+            "Scene",
+            "Bert\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "So should we talk to each other or mingle?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know where everyone is."
+        ],
+        [
+            "Penny",
+            "Yeah, I mean, I could see him eating one or two guests, but not a whole party."
+        ],
+        [
+            "Bert",
+            "Well, I guess this is kind of a bust. You don\u2019t have to stay. I\u2019m gonna start cleaning up."
+        ],
+        [
+            "Amy",
+            "Okay. I feel so bad about leaving him here."
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s funny, I was just thinking the same thing about you."
+        ],
+        [
+            "Bert",
+            "Hey, listen, could you not say anything about this to the people at the university? You know, \u2019cause you\u2019re you and I\u2019m me, and it\u2019s kind of embarrassing."
+        ],
+        [
+            "Penny",
+            "Wait, what do you mean she\u2019s her?"
+        ],
+        [
+            "Bert",
+            "Well, you know how Amy\u2019s the coolest girl on campus, right?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Bert",
+            "Oh yeah, everybody thinks so."
+        ],
+        [
+            "Penny",
+            "What? You tell me about your foot fungus, but this is a secret?"
+        ],
+        [
+            "Amy",
+            "I\u2019m sure it\u2019s just \u2019cause I\u2019m dating Sheldon."
+        ],
+        [
+            "Bert",
+            "Mm, actually, I think Sheldon\u2019s popular because he\u2019s dating you."
+        ],
+        [
+            "Penny",
+            "Now Sheldon\u2019s popular? What is happening?"
+        ],
+        [
+            "Scene",
+            "The lab."
+        ],
+        [
+            "Howard",
+            "Maybe we should break for lunch. What time is it?"
+        ],
+        [
+            "Leonard",
+            "According to the world\u2019s worst cuckoo clock, it\u2019s two."
+        ],
+        [
+            "Sheldon",
+            "My head hurts and I\u2019m more tired than ever."
+        ],
+        [
+            "Howard",
+            "Why don\u2019t you just go home?"
+        ],
+        [
+            "Sheldon",
+            "No, I can do this. I just, I just need another energy drink. Oh, no."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I want another one."
+        ],
+        [
+            "Leonard",
+            "So?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a craving. That\u2019s a sign of chemical dependency."
+        ],
+        [
+            "Leonard",
+            "You only had one."
+        ],
+        [
+            "Sheldon",
+            "No, I know, but plenty of things are addictive after a single exposure. I mean, crack cocaine, nicotine, Pringles. You know once one pops one just can\u2019t stop."
+        ],
+        [
+            "Howard",
+            "You can\u2019t develop a problem that fast."
+        ],
+        [
+            "Sheldon",
+            "You want to bet? Oh, great, now I\u2019m addicted to gambling."
+        ],
+        [
+            "Leonard",
+            "We can\u2019t afford to lose any more time."
+        ],
+        [
+            "Howard",
+            "Well, this probably won\u2019t work, but has anyone ever tried to just haul off and whup the crazy out of him?"
+        ],
+        [
+            "Leonard",
+            "That\u2019s not helpful. It\u2019s fun to think about, but it\u2019s not helpful. Hey, Sheldon, we are on a serious time crunch. We can\u2019t do this without you. Can you please pull it together?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. Yes, of course."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Sheldon",
+            "Just, please, bear with me if I display symptoms of caffeine withdrawal."
+        ],
+        [
+            "Howard",
+            "No worries."
+        ],
+        [
+            "Sheldon",
+            "You guys stink."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen."
+        ],
+        [
+            "Bernadette",
+            "Sorry I flipped out on you. I think it\u2019s just hormones."
+        ],
+        [
+            "Raj",
+            "I think you were mean before you were pregnant, but it\u2019s fine. So, uh, instead of cleaning out the room, why don\u2019t we just decide on a theme for the nursery?"
+        ],
+        [
+            "Bernadette",
+            "Does it really need one?"
+        ],
+        [
+            "Raj",
+            "Of course it does. Didn\u2019t your baby room have a theme?"
+        ],
+        [
+            "Bernadette",
+            "Well, it doubled as my dad\u2019s office, and he was a cop, so I guess the theme was bloody homicide photos."
+        ],
+        [
+            "Raj",
+            "Oh. Mine was Winnie the Pooh. But anyway, why don\u2019t we just take a step back and start with a colour? Right? There are so many amazing ones. Red, blue, green, purple."
+        ],
+        [
+            "Bernadette",
+            "Are you just gonna name all the colours?"
+        ],
+        [
+            "Raj",
+            "Well, not now."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t care what colour the room is."
+        ],
+        [
+            "Raj",
+            "Okay, well, I\u2019m just trying to help you."
+        ],
+        [
+            "Bernadette",
+            "Well, you\u2019re not, so just drop it. (Off) I\u2019m clearly upset. Why aren\u2019t you following me?"
+        ],
+        [
+            "Raj",
+            "Sorry. Sorry."
+        ],
+        [
+            "Scene",
+            "Bert\u2019s apartment. "
+        ],
+        [
+            "Bert",
+            "And when Amy started using a solution of chromic acid and white vinegar to clean all her lab equipment, all of a sudden, everybody was doing it."
+        ],
+        [
+            "Penny",
+            "You trend setter."
+        ],
+        [
+            "Amy",
+            "Just the right idea at the right time."
+        ],
+        [
+            "Penny",
+            "Okay, okay, so Amy\u2019s cool, Sheldon\u2019s cool. Tell me about Leonard."
+        ],
+        [
+            "Bert",
+            "Who?"
+        ],
+        [
+            "Penny",
+            "Leonard Hofstadter."
+        ],
+        [
+            "Bert",
+            "Oh, him. I guess he\u2019s all right. Apparently he tricked some hot girl into marrying him."
+        ],
+        [
+            "Penny",
+            "That\u2019s me, I\u2019m her. You know, he didn\u2019t trick me, he just wore me down."
+        ],
+        [
+            "Bert",
+            "It makes sense you two are friends. I mean, hot girls always stick together."
+        ],
+        [
+            "Amy",
+            "And you thought this wasn\u2019t gonna be a great party."
+        ],
+        [
+            "Penny",
+            "You know, I had no idea Caltech is exactly like my high school."
+        ],
+        [
+            "Amy",
+            "Well, it\u2019s not exactly like it. We\u2019re all extremely smart."
+        ],
+        [
+            "Penny",
+            "Wow, you popular girls are mean."
+        ],
+        [
+            "Scene",
+            "The lab."
+        ],
+        [
+            "Leonard",
+            "I\u2019m gonna get some coffee. You want some?"
+        ],
+        [
+            "Sheldon",
+            "Uh, you\u2019re really going to have caffeine in front of me when I\u2019m trying to get my life back on track?"
+        ],
+        [
+            "Leonard",
+            "Uh, okay, let\u2019s pretend you do have a problem."
+        ],
+        [
+            "Sheldon",
+            "I do."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t."
+        ],
+        [
+            "Sheldon",
+            "Yeah, but I do."
+        ],
+        [
+            "Leonard",
+            "No, you don\u2019t. But let\u2019s say you do. And don\u2019t say you do, because you don\u2019t. Now, wouldn\u2019t you think that throwing yourself into your work would be the best way to deal with it?"
+        ],
+        [
+            "Sheldon",
+            "With what?"
+        ],
+        [
+            "Leonard",
+            "Your problem."
+        ],
+        [
+            "Sheldon",
+            "I thought I didn\u2019t have a problem."
+        ],
+        [
+            "Howard",
+            "That was painful to watch."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car."
+        ],
+        [
+            "Raj",
+            "So where are we going?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know."
+        ],
+        [
+            "Raj",
+            "Okay. How Thelma and Louise of us."
+        ],
+        [
+            "Bernadette",
+            "Raj, why don\u2019t I care about anything?"
+        ],
+        [
+            "Raj",
+            "I\u2019m sorry?"
+        ],
+        [
+            "Bernadette",
+            "It\u2019s my baby. I, I should care about nurseries and colours, and I don\u2019t. What\u2019s wrong with me?"
+        ],
+        [
+            "Raj",
+            "Well, crime-scene photos near your crib spring to mind."
+        ],
+        [
+            "Bernadette",
+            "I keep waiting to feel excited, but it\u2019s not happening. What if it never happens?"
+        ],
+        [
+            "Raj",
+            "Bernadette, come on, look, you\u2019re overthinking this, okay? You\u2019re gonna be an amazing mom. Even if you don\u2019t believe it, I know you have maternal instincts."
+        ],
+        [
+            "Bernadette",
+            "Once, I was supposed to babysit my brothers. Our neighbour found them naked in the backyard eating crickets."
+        ],
+        [
+            "Raj",
+            "Happy and well-fed. You see, that\u2019s what I\u2019m taking from that story."
+        ],
+        [
+            "Scene",
+            "The lab. "
+        ],
+        [
+            "Sheldon",
+            "Leonard, can I ask you a question?"
+        ],
+        [
+            "Leonard",
+            "Is it about the rotational symmetries you should be figuring out or your fake caffeine problem?"
+        ],
+        [
+            "Sheldon",
+            "Howard, can I ask you a question?"
+        ],
+        [
+            "Howard",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "All right, I\u2019ll just toss this out to the room. Um, I was thinking that the best way to fight my addiction is by weaning myself off in steps. Now, I couldn\u2019t find a caffeine patch, but I did find what claims to be a mind-boosting caffeine suppository. You know, the interesting fact about the rectum\u2026"
+        ],
+        [
+            "Leonard",
+            "Sheldon. We are dealing with an impossible deadline from the Air Force because of you. So have an energy drink, don\u2019t have an energy drink. Order suppositories and shove \u2019em wherever you want, I don\u2019t care."
+        ],
+        [
+            "Sheldon",
+            "You don\u2019t shove them. They come with an easy-glide applicator."
+        ],
+        [
+            "Leonard",
+            "Right. Listen to me. We can\u2019t do anything until you do your part. So get up in front of this whiteboard and do it."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t."
+        ],
+        [
+            "Leonard",
+            "Yes, you can."
+        ],
+        [
+            "Sheldon",
+            "No, I can\u2019t figure out the math. I\u2019ve been racking my brain for days, and I\u2019ve got nothing."
+        ],
+        [
+            "Leonard",
+            "Seriously?"
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t do it. I\u2019m not as smart as I think I am. I\u2019m so sorry. This is all my fault."
+        ],
+        [
+            "Leonard",
+            "It\u2019s okay, we\u2019ll figure something out."
+        ],
+        [
+            "Sheldon",
+            "But what if we can\u2019t?"
+        ],
+        [
+            "Leonard",
+            "It\u2019ll be fine. You\u2019ll see. Sheldon? Buddy? (Sheldon snores)"
+        ],
+        [
+            "Howard",
+            "When the baby gets here, you gotta teach me that."
+        ],
+        [
+            "Scene",
+            "Bert\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "Thank you so much, Bert. This was great."
+        ],
+        [
+            "Bert",
+            "My pleasure. You girls want to take home a two-gallon tub of potato salad?"
+        ],
+        [
+            "Amy",
+            "I think we\u2019re good."
+        ],
+        [
+            "Bert",
+            "Okay, well, thanks for coming by. You\u2019re nice people."
+        ],
+        [
+            "Penny",
+            "Well, so are you. In fact, you know what? We will never take you for granite. Did you get that? Granite? A little geology joke."
+        ],
+        [
+            "Bert",
+            "You need to leave. I\u2019m in love with both of you now."
+        ],
+        [
+            "Penny",
+            "Okay."
+        ],
+        [
+            "Amy",
+            "Bye."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car. "
+        ],
+        [
+            "Raj",
+            "Uh, pull over."
+        ],
+        [
+            "Bernadette",
+            "What? Why? Who are you calling? You\u2019re gonna rat me out to Howard, aren\u2019t you? You\u2019re such a snitch, no wonder I don\u2019t like you."
+        ],
+        [
+            "Raj",
+            "Whoa, I\u2019m calling my dad, okay? He\u2019s got experience dealing with pregnant ladies because he\u2019s an OBGYN. And experience with crazy ladies because of my mom."
+        ],
+        [
+            "Dr Koothrapalli (on facetime)",
+            "Hello, Rajesh. Are you calling to ask for money?"
+        ],
+        [
+            "Raj",
+            "What? No."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Are you calling to ask for things that cost money?"
+        ],
+        [
+            "Raj",
+            "No."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Great. What\u2019s up?"
+        ],
+        [
+            "Raj",
+            "This is my friend, Bernadette. She\u2019s pregnant, and she\u2019s a bit worried, so I thought maybe you could talk to her."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Of course. What seems to be the trouble?"
+        ],
+        [
+            "Bernadette",
+            "Something\u2019s wrong. I don\u2019t care about any of the baby stuff every other mom is so into. Honestly, I\u2019m not even sure I like babies."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Look, some people are baby people, and some people are not baby people. It doesn\u2019t mean you won\u2019t love your own baby."
+        ],
+        [
+            "Bernadette",
+            "But I thought I\u2019d be more excited."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Oh, being excited isn\u2019t a guarantee of anything. Rajesh\u2019s mother was thrilled when she was pregnant with him. After he was born, she doted on his every move. And you know what happened? He broke her heart, moved halfway around the world, and dates only poor white women. So you never know."
+        ],
+        [
+            "Bernadette",
+            "Thank you. I feel better now."
+        ],
+        [
+            "Raj",
+            "Well I don\u2019t."
+        ],
+        [
+            "Dr Koothrapalli",
+            "Good. Bernadette, I hope you have a daughter."
+        ],
+        [
+            "Scene",
+            "Colonel Williams\u2019 office."
+        ],
+        [
+            "Leonard",
+            "Um, I don\u2019t really know how to say this."
+        ],
+        [
+            "Colonel Williams",
+            "Well, you could try starting with sir."
+        ],
+        [
+            "Leonard",
+            "Right. Sorry, sir."
+        ],
+        [
+            "Sheldon",
+            "He said start with it, not end with it."
+        ],
+        [
+            "Leonard",
+            "Sir."
+        ],
+        [
+            "Colonel Williams",
+            "Hmm?"
+        ],
+        [
+            "Howard",
+            "We\u2019ve hit a bit of a snag. We\u2019re already behind schedule."
+        ],
+        [
+            "Sheldon",
+            "The computations required to overcome the deployability issues are more significant than we thought."
+        ],
+        [
+            "Leonard",
+            "I understand that we\u2019re under contract, and I don\u2019t know what the consequences of violating that are, but, uh, we\u2019re not gonna be able to deliver in the time we promised."
+        ],
+        [
+            "Colonel Williams",
+            "How long do you need?"
+        ],
+        [
+            "Howard",
+            "We, we\u2019re thinking, two years."
+        ],
+        [
+            "Colonel Williams",
+            "All right."
+        ],
+        [
+            "Howard",
+            "That\u2019s it? You\u2019re okay with that?"
+        ],
+        [
+            "Colonel Williams",
+            "What, you think you\u2019re the first government contractor who isn\u2019t gonna deliver on time? We\u2019re still waiting for a big space laser Reagan ordered to beat the commies."
+        ],
+        [
+            "Leonard",
+            "Thanks for understanding, sir."
+        ],
+        [
+            "Howard",
+            "Yes, thank you so much."
+        ],
+        [
+            "Sheldon",
+            "We, we really appreciate it."
+        ],
+        [
+            "Leonard (off)",
+            "All right, pressure\u2019s off"
+        ],
+        [
+            "Howard (off)",
+            "Wanna see a movie?"
+        ],
+        [
+            "Sheldon (off)",
+            "Popcorn\u2019s on me."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-03-the-dependence-transcendence/"
+}

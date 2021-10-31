@@ -1,0 +1,1814 @@
+{
+    "Season": 3,
+    "Episode": 14,
+    "Title": "the einstein approximation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. Sheldon is stood in the middle of the room. His whiteboard is behind him. Every few moments he turns round suddently."
+            ],
+            [
+                18,
+                "Credits sequence."
+            ],
+            [
+                19,
+                "The cafeteria."
+            ],
+            [
+                53,
+                "The stairwell."
+            ],
+            [
+                93,
+                "Leonard\u2019s bedroom."
+            ],
+            [
+                104,
+                "A children\u2019s play area."
+            ],
+            [
+                119,
+                "Leonard\u2019s bedroom. Sheldon is standing over their bed. He knocks on the wall. "
+            ],
+            [
+                151,
+                "An employment office"
+            ],
+            [
+                175,
+                "The Cheesecake Factory."
+            ],
+            [
+                189,
+                "The same, later."
+            ],
+            [
+                217,
+                "The roller disco. "
+            ],
+            [
+                220,
+                "The ball pit, presumably earlier. "
+            ],
+            [
+                222,
+                "(Sheldon once again keeps popping up his head and shouting \u201cBazinga\u201d as Leonard flails around trying to catch him.)"
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Whatcha doing?"
+            ],
+            [
+                3,
+                "Interesting. I usually just have coffee. You\u2019ve been up all night?"
+            ],
+            [
+                5,
+                "Yes."
+            ],
+            [
+                7,
+                "And you\u2019re stuck?"
+            ],
+            [
+                9,
+                "Oh, sorry, sweetie, I can\u2019t help you till I\u2019ve had my coffee."
+            ],
+            [
+                11,
+                "What is he doing now?"
+            ],
+            [
+                55,
+                "Not recently."
+            ],
+            [
+                57,
+                "For me, the worst part was when people saw us leave with them."
+            ],
+            [
+                63,
+                "Shh."
+            ],
+            [
+                65,
+                "Oh, poor baby."
+            ],
+            [
+                67,
+                "Oh, what a gentleman. Hey, Sheldon. (Steps on marbles which are all over the floor, screams and falls)"
+            ],
+            [
+                70,
+                "Oh, damn."
+            ],
+            [
+                72,
+                "Do I look okay?"
+            ],
+            [
+                74,
+                "Oh, you\u2019ve been falling all night. You\u2019re used to it."
+            ],
+            [
+                81,
+                "Toad of truth? Is that a physics thing?"
+            ],
+            [
+                95,
+                "Leonard, you\u2019re\u2026 you\u2019re giggling in your sleep."
+            ],
+            [
+                97,
+                "Well, it creeps me out."
+            ],
+            [
+                99,
+                "Just answer the phone."
+            ],
+            [
+                101,
+                "What happened?"
+            ],
+            [
+                103,
+                "Okay. Have fun."
+            ],
+            [
+                130,
+                "Sheldon, what do you want?"
+            ],
+            [
+                134,
+                "Hey, you know what, Leonard, I know I said I could handle your roommate, but I was wrong. We\u2019re going to have to break up."
+            ],
+            [
+                148,
+                "Leonard doesn\u2019t snore."
+            ],
+            [
+                176,
+                "Okay, I\u2019ll get those drinks started for you."
+            ],
+            [
+                178,
+                "Sheldon, what the hell are you doing?"
+            ],
+            [
+                180,
+                "No, wait, wait, no, wait. Wh.. what are you doing here?"
+            ],
+            [
+                182,
+                "You just, you just walked in and they hired you, just like that?"
+            ],
+            [
+                184,
+                "Sheldon, this is ridiculous."
+            ],
+            [
+                187,
+                "Sheldon, wait, this isn\u2019t even what I do. I\u2019m a waitress, not a busboy."
+            ],
+            [
+                210,
+                "Hey, guys, sorry you had to wait, but we are swamped. What\u2019s this?"
+            ],
+            [
+                212,
+                "Sheldon doesn\u2019t work here."
+            ],
+            [
+                215,
+                "Sheldon, where are you going? Aren\u2019t you going to clean this up?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "I\u2019m attempting to view my work as a fleeting peripheral image so as to engage the superior colliculus of my brain."
+            ],
+            [
+                4,
+                "Is it morning?"
+            ],
+            [
+                6,
+                "Then I\u2019ve been up all night."
+            ],
+            [
+                8,
+                "Why else would a person try to engage their superior colliculus?"
+            ],
+            [
+                13,
+                "Captain Hook\u2019s hand was eaten by a crocodile, not an alligator. If you\u2019re going to mock me, at least get your facts straight."
+            ],
+            [
+                15,
+                "I can\u2019t see it! It just won\u2019t coalesce."
+            ],
+            [
+                17,
+                "You\u2019re right. (Takes whiteboard to window and throws it out. Picks up a new one) It\u2019s a great idea, Leonard. Thank you."
+            ],
+            [
+                20,
+                "Electrons move through graphene, act as if they have no mass\u2026"
+            ],
+            [
+                23,
+                "Unit cell contains two carbon atoms. Interior angle of a hexagon is 120 degrees."
+            ],
+            [
+                33,
+                "Structure, constant structure. One atom\u2026"
+            ],
+            [
+                37,
+                "Pattern is the same as fermions, travels on the pathways, hexagonal, it\u2019s always hexagonal\u2026"
+            ],
+            [
+                40,
+                "Not lima beans, carbon atoms."
+            ],
+            [
+                43,
+                "Peas! Perfect, they can be electrons."
+            ],
+            [
+                45,
+                "Don\u2019t be ridiculous. What would I do with corn?"
+            ],
+            [
+                51,
+                "The plural of coccyx is coccyges."
+            ],
+            [
+                69,
+                "Good Lord! You\u2019re ruining everything!"
+            ],
+            [
+                76,
+                "The same thing I\u2019ve been doing for three days. Trying to figure out why electrons behave as if they have no mass when travelling through a graphene sheet."
+            ],
+            [
+                78,
+                "Well, I needed something bigger than peas, now, didn\u2019t I?"
+            ],
+            [
+                80,
+                "I don\u2019t know, two, three days. Not important. I don\u2019t need sleep, I need answers. I need to determine where in this swamp of unbalanced formulas squatteth the toad of truth."
+            ],
+            [
+                84,
+                "They lose their sensitivity to serotonin and norepinephrine."
+            ],
+            [
+                86,
+                "Impaired cognitive function."
+            ],
+            [
+                88,
+                "But I don\u2019t want to go to bed."
+            ],
+            [
+                90,
+                "Oh, all right."
+            ],
+            [
+                110,
+                "Size ratio was all wrong. Couldn\u2019t visualize it. Needed bigger carbon atoms."
+            ],
+            [
+                112,
+                "Back door has a five-pin tumbler system, single-circuit alarm. Child\u2019s play. You can start sorting protons and neutrons while I build carbon atoms."
+            ],
+            [
+                114,
+                "But I\u2019m still working."
+            ],
+            [
+                116,
+                "You can try, but you\u2019ll never catch me. (He disappears under the balls)"
+            ],
+            [
+                121,
+                "(Knock, knock, knock) Leonard and Penny. (Knock, knock, knock) Leonard and Penny."
+            ],
+            [
+                123,
+                "(Knock, knock, knock) Leonard and Penny."
+            ],
+            [
+                125,
+                "I have good news."
+            ],
+            [
+                127,
+                "Your cell phone was off."
+            ],
+            [
+                129,
+                "And that didn\u2019t work out, did it?"
+            ],
+            [
+                131,
+                "I came to tell you I\u2019ve got the answer."
+            ],
+            [
+                133,
+                "No, no, I\u2019m still hopelessly stuck on that, but I figured out how to figure it out."
+            ],
+            [
+                137,
+                "Einstein."
+            ],
+            [
+                139,
+                "Albert Einstein."
+            ],
+            [
+                141,
+                "When Albert Einstein came up with special relativity, he was working at the patent office."
+            ],
+            [
+                143,
+                "Don\u2019t be absurd. That\u2019s in Washington. You know I could never live in a city whose streets are laid out in a wheel-and-spoke pattern. No. I\u2019m going to find a similarly menial job where my basal ganglia are occupied with a routine task, freeing my prefrontal cortex to work quietly in the background on my problem."
+            ],
+            [
+                145,
+                "Of course it is. Even talking to you is sufficiently menial that I can feel the proverbial juices starting to flow."
+            ],
+            [
+                147,
+                "You\u2019re welcome. Good night to you, too. Oh, by the way, I was watching you sleep for a moment, and I noticed that your snoring seems to be worse when you\u2019re on your back."
+            ],
+            [
+                149,
+                "No, I wasn\u2019t talking to Leonard."
+            ],
+            [
+                153,
+                "A menial job. Like yours."
+            ],
+            [
+                155,
+                "I do. For thousands of years, the lowest classes of the human race have spent their lives labouring to erect monuments under the lash of their betters, until finally they dropped down and became one with the dust through which they trudged. Do you have anything like that?"
+            ],
+            [
+                157,
+                "Shouldn\u2019t you check your database?"
+            ],
+            [
+                159,
+                "You didn\u2019t really type."
+            ],
+            [
+                161,
+                "Oh, that would be good! Sawing, hammering, eating out of a lunch pail as my working-class fellows and I sit perched precariously on a girder high above the metropolis."
+            ],
+            [
+                163,
+                "I could do that."
+            ],
+            [
+                165,
+                "One question."
+            ],
+            [
+                167,
+                "What\u2019s sheetrock?"
+            ],
+            [
+                169,
+                "That seems acceptable."
+            ],
+            [
+                171,
+                "I don\u2019t drive."
+            ],
+            [
+                173,
+                "Senior theoretical particle physicist at CalTech, focusing on M theory, or, in layman\u2019s terms, string theory."
+            ],
+            [
+                179,
+                "I\u2019m trying to get these tables cleared. We\u2019re slammed."
+            ],
+            [
+                181,
+                "A reasonable question. I asked myself, what is the most mind-numbing, pedestrian job conceivable, and three answers came to mind, uh, toll booth attendant, an Apple Store genius, and what Penny does. Now, since I don\u2019t like touching other people\u2019s coins, and I refuse to contribute to the devaluation of the word genius, here I am."
+            ],
+            [
+                183,
+                "Oh, heavens, no. Since I don\u2019t need to be paid, I didn\u2019t need to be hired. I simply came in, picked up a tray, and started working for the man. Let me get that plate out of your way."
+            ],
+            [
+                185,
+                "Is it? Just a moment ago I had a minor epiphany regarding the polymer degradation phenomenon while scraping congealed nachos off a plate. Bernadette, table 10 wants their check."
+            ],
+            [
+                188,
+                "You\u2019re right. That is more menial. Hello, I\u2019m Sheldon. I\u2019ll be your server today. I don\u2019t recommend the salmon. I saw it in the kitchen."
+            ],
+            [
+                190,
+                "All right, one bacon cheeseburger, breaking two Jewish dietary restrictions simultaneously, kudos. Beer-battered fish and chips. Now, here\u2019s your tartar sauce. I also brought you salsa. It\u2019s a little unconventional, but I think you\u2019ll like it. It\u2019s zingy. And for you, Factory Burrito Grande, no cheese, no sour cream, no ugly consequences from your lactose intolerance. Bon app\u00e9tit."
+            ],
+            [
+                192,
+                "Yes."
+            ],
+            [
+                194,
+                "Of course."
+            ],
+            [
+                196,
+                "Nope."
+            ],
+            [
+                198,
+                "Yep."
+            ],
+            [
+                200,
+                "I do."
+            ],
+            [
+                216,
+                "I\u2019m sorry. I don\u2019t work here."
+            ]
+        ],
+        "Leonard": [
+            [
+                10,
+                "Penny, I told you if you don\u2019t put him in his crate at night he just runs around the apartment."
+            ],
+            [
+                12,
+                "Mmm, he\u2019s either isolating the terms of his formula and examining them individually, or looking for the alligator that swallowed his hand after Peter Pan cut it off."
+            ],
+            [
+                14,
+                "Aye, aye, Captain."
+            ],
+            [
+                16,
+                "Maybe you need a fresh start."
+            ],
+            [
+                22,
+                "Intellectually about 30 hours. Emotionally about 29 years."
+            ],
+            [
+                25,
+                "No, I think it\u2019s a firmware problem."
+            ],
+            [
+                28,
+                "I think Penny likes to skate. The four of us could double."
+            ],
+            [
+                35,
+                "Yeah, this morning he used a stick of butter as deodorant."
+            ],
+            [
+                38,
+                "I haven\u2019t seen him this stuck since he tried to figure out the third Matrix movie."
+            ],
+            [
+                42,
+                "Here, you want my peas?"
+            ],
+            [
+                46,
+                "So roller skating, should we all grab a bite to eat first?"
+            ],
+            [
+                48,
+                "Great. Your mom\u2019s not coming, right?"
+            ],
+            [
+                58,
+                "You had some nice moves out there, Howard."
+            ],
+            [
+                60,
+                "Yeah. Did you notice all the people looking at us?"
+            ],
+            [
+                64,
+                "Sorry. I\u2019m moving a little slow. I think I bruised my coccyx."
+            ],
+            [
+                66,
+                "Don\u2019t tell Koothrappali. After you."
+            ],
+            [
+                68,
+                "Oh, my God! Are you\u2026 (falls as well)"
+            ],
+            [
+                71,
+                "Are you okay?"
+            ],
+            [
+                73,
+                "Don\u2019t bark at me. I fell, too."
+            ],
+            [
+                82,
+                "No, that\u2019s a crazy thing."
+            ],
+            [
+                91,
+                "That was amazing how you handled him."
+            ],
+            [
+                96,
+                "It\u2019s not me, it\u2019s my new ringtone. The Joker from Batman."
+            ],
+            [
+                98,
+                "Me, too, but I paid three bucks for it."
+            ],
+            [
+                100,
+                "Hello. Yeah, I\u2019m Leonard Hofstadter. Yeah, yeah, he\u2019s my roommate. Oh, God, is he okay? Yeah, alright, alright, I\u2019ll be right there."
+            ],
+            [
+                102,
+                "Sheldon\u2019s escaped and is terrorizing the village."
+            ],
+            [
+                105,
+                "Hi. I\u2019m Dr. Hofstadter. Where is he?"
+            ],
+            [
+                107,
+                "Thanks for not calling the cops."
+            ],
+            [
+                109,
+                "Yeah, well, he\u2019s extra special. Hey, Shelly. What you doing?"
+            ],
+            [
+                111,
+                "Sure, sure. How did you get into this place?"
+            ],
+            [
+                113,
+                "No, I don\u2019t think so. We need to go home now."
+            ],
+            [
+                115,
+                "If you don\u2019t come out of there, I\u2019m going to have to drag you out."
+            ],
+            [
+                117,
+                "For God\u2019s sakes. Sheldon, come here!"
+            ],
+            [
+                124,
+                "What?"
+            ],
+            [
+                126,
+                "And you had to barge in here and wake us up in the middle of the night?"
+            ],
+            [
+                128,
+                "Because we didn\u2019t want to be disturbed."
+            ],
+            [
+                132,
+                "Really? You figured out the graphene problem?"
+            ],
+            [
+                135,
+                "What are you talking about?"
+            ],
+            [
+                138,
+                "Yeah, I\u2019m going to need a little more."
+            ],
+            [
+                140,
+                "Keep going."
+            ],
+            [
+                142,
+                "So, you\u2019re going to go work at the patent office?"
+            ],
+            [
+                144,
+                "Sounds like a great plan."
+            ],
+            [
+                146,
+                "Okay, well, thanks for sharing with us. Good night."
+            ],
+            [
+                150,
+                "Told you."
+            ],
+            [
+                191,
+                "Hang on. Black beans, not pinto beans?"
+            ],
+            [
+                193,
+                "Double guacamole?"
+            ],
+            [
+                195,
+                "No cilantro?"
+            ],
+            [
+                197,
+                "Lettuce shredded, not chopped?"
+            ],
+            [
+                199,
+                "You understand why I\u2019m doing this to you?"
+            ],
+            [
+                201,
+                "That\u2019ll be all. That was fun."
+            ],
+            [
+                203,
+                "I heard about this professor at MIT who melted down, bought a van, and spent the rest of his life as a mobile dog groomer."
+            ],
+            [
+                205,
+                "Only to shampoo Professor Chambourg\u2019s shih tzu."
+            ],
+            [
+                209,
+                "Yeah, that\u2019s the only thing wrong with that plan."
+            ],
+            [
+                211,
+                "Sheldon took our order."
+            ],
+            [
+                213,
+                "Well, honey, not to complain, but we were starting to think you didn\u2019t either."
+            ],
+            [
+                221,
+                "Sheldon, come here."
+            ]
+        ],
+        "Howard": [
+            [
+                21,
+                "How long has he been stuck?"
+            ],
+            [
+                24,
+                "Have you tried rebooting him?"
+            ],
+            [
+                27,
+                "Oh, that\u2019s perfect. Bernadette\u2019s been hocking me to take her roller skating."
+            ],
+            [
+                29,
+                "What could be better? We\u2019re in."
+            ],
+            [
+                31,
+                "You can come with us."
+            ],
+            [
+                34,
+                "Boy, he\u2019s really gone, isn\u2019t he?"
+            ],
+            [
+                36,
+                "I thought I smelled popcorn."
+            ],
+            [
+                44,
+                "Want my corn?"
+            ],
+            [
+                47,
+                "Good. P.F. Chang\u2019s? My mom has coupons."
+            ],
+            [
+                49,
+                "Not this time, I promise."
+            ],
+            [
+                59,
+                "Thanks. You, too."
+            ],
+            [
+                61,
+                "Not really. I was in my boogie zone."
+            ],
+            [
+                75,
+                "Sheldon, what the hell are you doing?"
+            ],
+            [
+                207,
+                "I bet if we all chipped in, we could buy Sheldon a van."
+            ],
+            [
+                218,
+                "Happy now?"
+            ]
+        ],
+        "Raj (arriving)": [
+            [
+                26,
+                "Hey, it\u2019s Disco Night at the Moonlight Roller Rink in Glendale tonight. Who\u2019s up for getting down?"
+            ]
+        ],
+        "Raj": [
+            [
+                30,
+                "Great. It\u2019s not like I brought it up because I wanted to go."
+            ],
+            [
+                32,
+                "No, it\u2019s okay. I don\u2019t have to go. I\u2019m happy just to guide you and your ladies to suitable entertainment choices. I\u2019m a walking brown Yelp.com."
+            ],
+            [
+                41,
+                "But if I don\u2019t eat my lima beans, I can\u2019t have my cookie."
+            ],
+            [
+                50,
+                "Okay, just to be clear, roller skating was my idea, and I\u2019m very unhappy that you turned it into a double date, and I hope you both fall on your asses and break your coccyxes."
+            ],
+            [
+                52,
+                "Screw you. Give me back my lima beans."
+            ],
+            [
+                202,
+                "How long can he keep this up?"
+            ],
+            [
+                204,
+                "He never went back to the university?"
+            ],
+            [
+                206,
+                "Sheesh."
+            ],
+            [
+                208,
+                "But he\u2019s afraid of dogs."
+            ],
+            [
+                219,
+                "I\u2019m on a cloud. Swing me. (Howard swings Raj several times.)"
+            ]
+        ],
+        "Raj (as Sheldon reaches out and grabs from his plate)": [
+            [
+                39,
+                "Hey, those are my lima beans!"
+            ]
+        ],
+        "Bernadette": [
+            [
+                54,
+                "Oh, my God, have you ever been so embarrassed?"
+            ],
+            [
+                56,
+                "I don\u2019t know which was lamer, their roller-skating or their disco dancing."
+            ],
+            [
+                62,
+                "When Howard tried to do the splits\u2026"
+            ],
+            [
+                77,
+                "With marbles?"
+            ],
+            [
+                79,
+                "Sheldon, when was the last time you got any sleep?"
+            ],
+            [
+                83,
+                "Okay, Sheldon. What happens to our neuroreceptors when we don\u2019t get enough REM sleep?"
+            ],
+            [
+                85,
+                "Which leads to\u2026?"
+            ],
+            [
+                87,
+                "Right, so march in there, brush your teeth and go to bed."
+            ],
+            [
+                89,
+                "I\u2019m going to count to three. One\u2026"
+            ],
+            [
+                92,
+                "I know how to deal with stubborn children. My mother used to run an illegal day care centre in our basement."
+            ],
+            [
+                186,
+                "Thanks, Sheldon."
+            ]
+        ],
+        "Security Guard": [
+            [
+                106,
+                "Ball pit."
+            ],
+            [
+                108,
+                "Oh, hey, it\u2019s no big deal. My sister\u2019s got a kid who\u2019s special."
+            ]
+        ],
+        "Sheldon (popping his head up)": [
+            [
+                118,
+                "Bazinga. (Disappears, pops up in another place) Bazinga. (And again) Bazinga. (And again) Bazinga. (And again) Bazinga."
+            ]
+        ],
+        "Leonard (Waking up as Penny screams)": [
+            [
+                122,
+                "What! What, what, what?"
+            ]
+        ],
+        "Penny (as Sheldon sits on the bed)": [
+            [
+                136,
+                "Oh."
+            ]
+        ],
+        "Employment Office Assistant": [
+            [
+                152,
+                "So, Mr. Cooper, you\u2019re looking for a job."
+            ]
+        ],
+        "Assistant": [
+            [
+                154,
+                "Why, thank you for noticing. I\u2019m Menial Employee of the Month. Do you have a particular field in mind?"
+            ],
+            [
+                156,
+                "No."
+            ],
+            [
+                160,
+                "I didn\u2019t really have to. So, how about construction?"
+            ],
+            [
+                162,
+                "No, no. This is putting up sheetrock at a housing project in Rosemead."
+            ],
+            [
+                164,
+                "Good."
+            ],
+            [
+                166,
+                "Yes?"
+            ],
+            [
+                168,
+                "Moving on. How about doing deliveries for a florist?"
+            ],
+            [
+                170,
+                "Do you have your own car?"
+            ],
+            [
+                172,
+                "Of course you don\u2019t. Mr. Cooper, let me just ask you a question. What was your last job?"
+            ],
+            [
+                174,
+                "I see. Just give me a second. Security!"
+            ]
+        ],
+        "Assistant (clicks her keyboard a few times)": [
+            [
+                158,
+                "No."
+            ]
+        ],
+        "Sheldon (appearing in an apron and carrying a tray)": [
+            [
+                177,
+                "Behind you."
+            ]
+        ],
+        "Sheldon (drops tray. A nearby table claps)": [
+            [
+                214,
+                "Is that really necessary? Good Lord. The interference pattern in the fracture. The motion of the wave through the molecular structure. I\u2019ve been looking at it all wrong. I can\u2019t consider the electrons as particles. They move through the graphene as a wave. It\u2019s a wave! The moment to applaud would be now. Troglodytes."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. Sheldon is stood in the middle of the room. His whiteboard is behind him. Every few moments he turns round suddently."
+        ],
+        [
+            "Penny",
+            "Whatcha doing?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m attempting to view my work as a fleeting peripheral image so as to engage the superior colliculus of my brain."
+        ],
+        [
+            "Penny",
+            "Interesting. I usually just have coffee. You\u2019ve been up all night?"
+        ],
+        [
+            "Sheldon",
+            "Is it morning?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Then I\u2019ve been up all night."
+        ],
+        [
+            "Penny",
+            "And you\u2019re stuck?"
+        ],
+        [
+            "Sheldon",
+            "Why else would a person try to engage their superior colliculus?"
+        ],
+        [
+            "Penny",
+            "Oh, sorry, sweetie, I can\u2019t help you till I\u2019ve had my coffee."
+        ],
+        [
+            "Leonard",
+            "Penny, I told you if you don\u2019t put him in his crate at night he just runs around the apartment."
+        ],
+        [
+            "Penny",
+            "What is he doing now?"
+        ],
+        [
+            "Leonard",
+            "Mmm, he\u2019s either isolating the terms of his formula and examining them individually, or looking for the alligator that swallowed his hand after Peter Pan cut it off."
+        ],
+        [
+            "Sheldon",
+            "Captain Hook\u2019s hand was eaten by a crocodile, not an alligator. If you\u2019re going to mock me, at least get your facts straight."
+        ],
+        [
+            "Leonard",
+            "Aye, aye, Captain."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t see it! It just won\u2019t coalesce."
+        ],
+        [
+            "Leonard",
+            "Maybe you need a fresh start."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right. (Takes whiteboard to window and throws it out. Picks up a new one) It\u2019s a great idea, Leonard. Thank you."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Sheldon",
+            "Electrons move through graphene, act as if they have no mass\u2026"
+        ],
+        [
+            "Howard",
+            "How long has he been stuck?"
+        ],
+        [
+            "Leonard",
+            "Intellectually about 30 hours. Emotionally about 29 years."
+        ],
+        [
+            "Sheldon",
+            "Unit cell contains two carbon atoms. Interior angle of a hexagon is 120 degrees."
+        ],
+        [
+            "Howard",
+            "Have you tried rebooting him?"
+        ],
+        [
+            "Leonard",
+            "No, I think it\u2019s a firmware problem."
+        ],
+        [
+            "Raj (arriving)",
+            "Hey, it\u2019s Disco Night at the Moonlight Roller Rink in Glendale tonight. Who\u2019s up for getting down?"
+        ],
+        [
+            "Howard",
+            "Oh, that\u2019s perfect. Bernadette\u2019s been hocking me to take her roller skating."
+        ],
+        [
+            "Leonard",
+            "I think Penny likes to skate. The four of us could double."
+        ],
+        [
+            "Howard",
+            "What could be better? We\u2019re in."
+        ],
+        [
+            "Raj",
+            "Great. It\u2019s not like I brought it up because I wanted to go."
+        ],
+        [
+            "Howard",
+            "You can come with us."
+        ],
+        [
+            "Raj",
+            "No, it\u2019s okay. I don\u2019t have to go. I\u2019m happy just to guide you and your ladies to suitable entertainment choices. I\u2019m a walking brown Yelp.com."
+        ],
+        [
+            "Sheldon",
+            "Structure, constant structure. One atom\u2026"
+        ],
+        [
+            "Howard",
+            "Boy, he\u2019s really gone, isn\u2019t he?"
+        ],
+        [
+            "Leonard",
+            "Yeah, this morning he used a stick of butter as deodorant."
+        ],
+        [
+            "Howard",
+            "I thought I smelled popcorn."
+        ],
+        [
+            "Sheldon",
+            "Pattern is the same as fermions, travels on the pathways, hexagonal, it\u2019s always hexagonal\u2026"
+        ],
+        [
+            "Leonard",
+            "I haven\u2019t seen him this stuck since he tried to figure out the third Matrix movie."
+        ],
+        [
+            "Raj (as Sheldon reaches out and grabs from his plate)",
+            "Hey, those are my lima beans!"
+        ],
+        [
+            "Sheldon",
+            "Not lima beans, carbon atoms."
+        ],
+        [
+            "Raj",
+            "But if I don\u2019t eat my lima beans, I can\u2019t have my cookie."
+        ],
+        [
+            "Leonard",
+            "Here, you want my peas?"
+        ],
+        [
+            "Sheldon",
+            "Peas! Perfect, they can be electrons."
+        ],
+        [
+            "Howard",
+            "Want my corn?"
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t be ridiculous. What would I do with corn?"
+        ],
+        [
+            "Leonard",
+            "So roller skating, should we all grab a bite to eat first?"
+        ],
+        [
+            "Howard",
+            "Good. P.F. Chang\u2019s? My mom has coupons."
+        ],
+        [
+            "Leonard",
+            "Great. Your mom\u2019s not coming, right?"
+        ],
+        [
+            "Howard",
+            "Not this time, I promise."
+        ],
+        [
+            "Raj",
+            "Okay, just to be clear, roller skating was my idea, and I\u2019m very unhappy that you turned it into a double date, and I hope you both fall on your asses and break your coccyxes."
+        ],
+        [
+            "Sheldon",
+            "The plural of coccyx is coccyges."
+        ],
+        [
+            "Raj",
+            "Screw you. Give me back my lima beans."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Bernadette",
+            "Oh, my God, have you ever been so embarrassed?"
+        ],
+        [
+            "Penny",
+            "Not recently."
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know which was lamer, their roller-skating or their disco dancing."
+        ],
+        [
+            "Penny",
+            "For me, the worst part was when people saw us leave with them."
+        ],
+        [
+            "Leonard",
+            "You had some nice moves out there, Howard."
+        ],
+        [
+            "Howard",
+            "Thanks. You, too."
+        ],
+        [
+            "Leonard",
+            "Yeah. Did you notice all the people looking at us?"
+        ],
+        [
+            "Howard",
+            "Not really. I was in my boogie zone."
+        ],
+        [
+            "Bernadette",
+            "When Howard tried to do the splits\u2026"
+        ],
+        [
+            "Penny",
+            "Shh."
+        ],
+        [
+            "Leonard",
+            "Sorry. I\u2019m moving a little slow. I think I bruised my coccyx."
+        ],
+        [
+            "Penny",
+            "Oh, poor baby."
+        ],
+        [
+            "Leonard",
+            "Don\u2019t tell Koothrappali. After you."
+        ],
+        [
+            "Penny",
+            "Oh, what a gentleman. Hey, Sheldon. (Steps on marbles which are all over the floor, screams and falls)"
+        ],
+        [
+            "Leonard",
+            "Oh, my God! Are you\u2026 (falls as well)"
+        ],
+        [
+            "Sheldon",
+            "Good Lord! You\u2019re ruining everything!"
+        ],
+        [
+            "Penny",
+            "Oh, damn."
+        ],
+        [
+            "Leonard",
+            "Are you okay?"
+        ],
+        [
+            "Penny",
+            "Do I look okay?"
+        ],
+        [
+            "Leonard",
+            "Don\u2019t bark at me. I fell, too."
+        ],
+        [
+            "Penny",
+            "Oh, you\u2019ve been falling all night. You\u2019re used to it."
+        ],
+        [
+            "Howard",
+            "Sheldon, what the hell are you doing?"
+        ],
+        [
+            "Sheldon",
+            "The same thing I\u2019ve been doing for three days. Trying to figure out why electrons behave as if they have no mass when travelling through a graphene sheet."
+        ],
+        [
+            "Bernadette",
+            "With marbles?"
+        ],
+        [
+            "Sheldon",
+            "Well, I needed something bigger than peas, now, didn\u2019t I?"
+        ],
+        [
+            "Bernadette",
+            "Sheldon, when was the last time you got any sleep?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know, two, three days. Not important. I don\u2019t need sleep, I need answers. I need to determine where in this swamp of unbalanced formulas squatteth the toad of truth."
+        ],
+        [
+            "Penny",
+            "Toad of truth? Is that a physics thing?"
+        ],
+        [
+            "Leonard",
+            "No, that\u2019s a crazy thing."
+        ],
+        [
+            "Bernadette",
+            "Okay, Sheldon. What happens to our neuroreceptors when we don\u2019t get enough REM sleep?"
+        ],
+        [
+            "Sheldon",
+            "They lose their sensitivity to serotonin and norepinephrine."
+        ],
+        [
+            "Bernadette",
+            "Which leads to\u2026?"
+        ],
+        [
+            "Sheldon",
+            "Impaired cognitive function."
+        ],
+        [
+            "Bernadette",
+            "Right, so march in there, brush your teeth and go to bed."
+        ],
+        [
+            "Sheldon",
+            "But I don\u2019t want to go to bed."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m going to count to three. One\u2026"
+        ],
+        [
+            "Sheldon",
+            "Oh, all right."
+        ],
+        [
+            "Leonard",
+            "That was amazing how you handled him."
+        ],
+        [
+            "Bernadette",
+            "I know how to deal with stubborn children. My mother used to run an illegal day care centre in our basement."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom."
+        ],
+        [
+            "Penny",
+            "Leonard, you\u2019re\u2026 you\u2019re giggling in your sleep."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not me, it\u2019s my new ringtone. The Joker from Batman."
+        ],
+        [
+            "Penny",
+            "Well, it creeps me out."
+        ],
+        [
+            "Leonard",
+            "Me, too, but I paid three bucks for it."
+        ],
+        [
+            "Penny",
+            "Just answer the phone."
+        ],
+        [
+            "Leonard",
+            "Hello. Yeah, I\u2019m Leonard Hofstadter. Yeah, yeah, he\u2019s my roommate. Oh, God, is he okay? Yeah, alright, alright, I\u2019ll be right there."
+        ],
+        [
+            "Penny",
+            "What happened?"
+        ],
+        [
+            "Leonard",
+            "Sheldon\u2019s escaped and is terrorizing the village."
+        ],
+        [
+            "Penny",
+            "Okay. Have fun."
+        ],
+        [
+            "Scene",
+            "A children\u2019s play area."
+        ],
+        [
+            "Leonard",
+            "Hi. I\u2019m Dr. Hofstadter. Where is he?"
+        ],
+        [
+            "Security Guard",
+            "Ball pit."
+        ],
+        [
+            "Leonard",
+            "Thanks for not calling the cops."
+        ],
+        [
+            "Security Guard",
+            "Oh, hey, it\u2019s no big deal. My sister\u2019s got a kid who\u2019s special."
+        ],
+        [
+            "Leonard",
+            "Yeah, well, he\u2019s extra special. Hey, Shelly. What you doing?"
+        ],
+        [
+            "Sheldon",
+            "Size ratio was all wrong. Couldn\u2019t visualize it. Needed bigger carbon atoms."
+        ],
+        [
+            "Leonard",
+            "Sure, sure. How did you get into this place?"
+        ],
+        [
+            "Sheldon",
+            "Back door has a five-pin tumbler system, single-circuit alarm. Child\u2019s play. You can start sorting protons and neutrons while I build carbon atoms."
+        ],
+        [
+            "Leonard",
+            "No, I don\u2019t think so. We need to go home now."
+        ],
+        [
+            "Sheldon",
+            "But I\u2019m still working."
+        ],
+        [
+            "Leonard",
+            "If you don\u2019t come out of there, I\u2019m going to have to drag you out."
+        ],
+        [
+            "Sheldon",
+            "You can try, but you\u2019ll never catch me. (He disappears under the balls)"
+        ],
+        [
+            "Leonard",
+            "For God\u2019s sakes. Sheldon, come here!"
+        ],
+        [
+            "Sheldon (popping his head up)",
+            "Bazinga. (Disappears, pops up in another place) Bazinga. (And again) Bazinga. (And again) Bazinga. (And again) Bazinga."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom. Sheldon is standing over their bed. He knocks on the wall. "
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Leonard and Penny. (Knock, knock, knock) Leonard and Penny."
+        ],
+        [
+            "Leonard (Waking up as Penny screams)",
+            "What! What, what, what?"
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Leonard and Penny."
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I have good news."
+        ],
+        [
+            "Leonard",
+            "And you had to barge in here and wake us up in the middle of the night?"
+        ],
+        [
+            "Sheldon",
+            "Your cell phone was off."
+        ],
+        [
+            "Leonard",
+            "Because we didn\u2019t want to be disturbed."
+        ],
+        [
+            "Sheldon",
+            "And that didn\u2019t work out, did it?"
+        ],
+        [
+            "Penny",
+            "Sheldon, what do you want?"
+        ],
+        [
+            "Sheldon",
+            "I came to tell you I\u2019ve got the answer."
+        ],
+        [
+            "Leonard",
+            "Really? You figured out the graphene problem?"
+        ],
+        [
+            "Sheldon",
+            "No, no, I\u2019m still hopelessly stuck on that, but I figured out how to figure it out."
+        ],
+        [
+            "Penny",
+            "Hey, you know what, Leonard, I know I said I could handle your roommate, but I was wrong. We\u2019re going to have to break up."
+        ],
+        [
+            "Leonard",
+            "What are you talking about?"
+        ],
+        [
+            "Penny (as Sheldon sits on the bed)",
+            "Oh."
+        ],
+        [
+            "Sheldon",
+            "Einstein."
+        ],
+        [
+            "Leonard",
+            "Yeah, I\u2019m going to need a little more."
+        ],
+        [
+            "Sheldon",
+            "Albert Einstein."
+        ],
+        [
+            "Leonard",
+            "Keep going."
+        ],
+        [
+            "Sheldon",
+            "When Albert Einstein came up with special relativity, he was working at the patent office."
+        ],
+        [
+            "Leonard",
+            "So, you\u2019re going to go work at the patent office?"
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t be absurd. That\u2019s in Washington. You know I could never live in a city whose streets are laid out in a wheel-and-spoke pattern. No. I\u2019m going to find a similarly menial job where my basal ganglia are occupied with a routine task, freeing my prefrontal cortex to work quietly in the background on my problem."
+        ],
+        [
+            "Leonard",
+            "Sounds like a great plan."
+        ],
+        [
+            "Sheldon",
+            "Of course it is. Even talking to you is sufficiently menial that I can feel the proverbial juices starting to flow."
+        ],
+        [
+            "Leonard",
+            "Okay, well, thanks for sharing with us. Good night."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re welcome. Good night to you, too. Oh, by the way, I was watching you sleep for a moment, and I noticed that your snoring seems to be worse when you\u2019re on your back."
+        ],
+        [
+            "Penny",
+            "Leonard doesn\u2019t snore."
+        ],
+        [
+            "Sheldon",
+            "No, I wasn\u2019t talking to Leonard."
+        ],
+        [
+            "Leonard",
+            "Told you."
+        ],
+        [
+            "Scene",
+            "An employment office"
+        ],
+        [
+            "Employment Office Assistant",
+            "So, Mr. Cooper, you\u2019re looking for a job."
+        ],
+        [
+            "Sheldon",
+            "A menial job. Like yours."
+        ],
+        [
+            "Assistant",
+            "Why, thank you for noticing. I\u2019m Menial Employee of the Month. Do you have a particular field in mind?"
+        ],
+        [
+            "Sheldon",
+            "I do. For thousands of years, the lowest classes of the human race have spent their lives labouring to erect monuments under the lash of their betters, until finally they dropped down and became one with the dust through which they trudged. Do you have anything like that?"
+        ],
+        [
+            "Assistant",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Shouldn\u2019t you check your database?"
+        ],
+        [
+            "Assistant (clicks her keyboard a few times)",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "You didn\u2019t really type."
+        ],
+        [
+            "Assistant",
+            "I didn\u2019t really have to. So, how about construction?"
+        ],
+        [
+            "Sheldon",
+            "Oh, that would be good! Sawing, hammering, eating out of a lunch pail as my working-class fellows and I sit perched precariously on a girder high above the metropolis."
+        ],
+        [
+            "Assistant",
+            "No, no. This is putting up sheetrock at a housing project in Rosemead."
+        ],
+        [
+            "Sheldon",
+            "I could do that."
+        ],
+        [
+            "Assistant",
+            "Good."
+        ],
+        [
+            "Sheldon",
+            "One question."
+        ],
+        [
+            "Assistant",
+            "Yes?"
+        ],
+        [
+            "Sheldon",
+            "What\u2019s sheetrock?"
+        ],
+        [
+            "Assistant",
+            "Moving on. How about doing deliveries for a florist?"
+        ],
+        [
+            "Sheldon",
+            "That seems acceptable."
+        ],
+        [
+            "Assistant",
+            "Do you have your own car?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t drive."
+        ],
+        [
+            "Assistant",
+            "Of course you don\u2019t. Mr. Cooper, let me just ask you a question. What was your last job?"
+        ],
+        [
+            "Sheldon",
+            "Senior theoretical particle physicist at CalTech, focusing on M theory, or, in layman\u2019s terms, string theory."
+        ],
+        [
+            "Assistant",
+            "I see. Just give me a second. Security!"
+        ],
+        [
+            "Scene",
+            "The Cheesecake Factory."
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019ll get those drinks started for you."
+        ],
+        [
+            "Sheldon (appearing in an apron and carrying a tray)",
+            "Behind you."
+        ],
+        [
+            "Penny",
+            "Sheldon, what the hell are you doing?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m trying to get these tables cleared. We\u2019re slammed."
+        ],
+        [
+            "Penny",
+            "No, wait, wait, no, wait. Wh.. what are you doing here?"
+        ],
+        [
+            "Sheldon",
+            "A reasonable question. I asked myself, what is the most mind-numbing, pedestrian job conceivable, and three answers came to mind, uh, toll booth attendant, an Apple Store genius, and what Penny does. Now, since I don\u2019t like touching other people\u2019s coins, and I refuse to contribute to the devaluation of the word genius, here I am."
+        ],
+        [
+            "Penny",
+            "You just, you just walked in and they hired you, just like that?"
+        ],
+        [
+            "Sheldon",
+            "Oh, heavens, no. Since I don\u2019t need to be paid, I didn\u2019t need to be hired. I simply came in, picked up a tray, and started working for the man. Let me get that plate out of your way."
+        ],
+        [
+            "Penny",
+            "Sheldon, this is ridiculous."
+        ],
+        [
+            "Sheldon",
+            "Is it? Just a moment ago I had a minor epiphany regarding the polymer degradation phenomenon while scraping congealed nachos off a plate. Bernadette, table 10 wants their check."
+        ],
+        [
+            "Bernadette",
+            "Thanks, Sheldon."
+        ],
+        [
+            "Penny",
+            "Sheldon, wait, this isn\u2019t even what I do. I\u2019m a waitress, not a busboy."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re right. That is more menial. Hello, I\u2019m Sheldon. I\u2019ll be your server today. I don\u2019t recommend the salmon. I saw it in the kitchen."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Sheldon",
+            "All right, one bacon cheeseburger, breaking two Jewish dietary restrictions simultaneously, kudos. Beer-battered fish and chips. Now, here\u2019s your tartar sauce. I also brought you salsa. It\u2019s a little unconventional, but I think you\u2019ll like it. It\u2019s zingy. And for you, Factory Burrito Grande, no cheese, no sour cream, no ugly consequences from your lactose intolerance. Bon app\u00e9tit."
+        ],
+        [
+            "Leonard",
+            "Hang on. Black beans, not pinto beans?"
+        ],
+        [
+            "Sheldon",
+            "Yes."
+        ],
+        [
+            "Leonard",
+            "Double guacamole?"
+        ],
+        [
+            "Sheldon",
+            "Of course."
+        ],
+        [
+            "Leonard",
+            "No cilantro?"
+        ],
+        [
+            "Sheldon",
+            "Nope."
+        ],
+        [
+            "Leonard",
+            "Lettuce shredded, not chopped?"
+        ],
+        [
+            "Sheldon",
+            "Yep."
+        ],
+        [
+            "Leonard",
+            "You understand why I\u2019m doing this to you?"
+        ],
+        [
+            "Sheldon",
+            "I do."
+        ],
+        [
+            "Leonard",
+            "That\u2019ll be all. That was fun."
+        ],
+        [
+            "Raj",
+            "How long can he keep this up?"
+        ],
+        [
+            "Leonard",
+            "I heard about this professor at MIT who melted down, bought a van, and spent the rest of his life as a mobile dog groomer."
+        ],
+        [
+            "Raj",
+            "He never went back to the university?"
+        ],
+        [
+            "Leonard",
+            "Only to shampoo Professor Chambourg\u2019s shih tzu."
+        ],
+        [
+            "Raj",
+            "Sheesh."
+        ],
+        [
+            "Howard",
+            "I bet if we all chipped in, we could buy Sheldon a van."
+        ],
+        [
+            "Raj",
+            "But he\u2019s afraid of dogs."
+        ],
+        [
+            "Leonard",
+            "Yeah, that\u2019s the only thing wrong with that plan."
+        ],
+        [
+            "Penny",
+            "Hey, guys, sorry you had to wait, but we are swamped. What\u2019s this?"
+        ],
+        [
+            "Leonard",
+            "Sheldon took our order."
+        ],
+        [
+            "Penny",
+            "Sheldon doesn\u2019t work here."
+        ],
+        [
+            "Leonard",
+            "Well, honey, not to complain, but we were starting to think you didn\u2019t either."
+        ],
+        [
+            "Sheldon (drops tray. A nearby table claps)",
+            "Is that really necessary? Good Lord. The interference pattern in the fracture. The motion of the wave through the molecular structure. I\u2019ve been looking at it all wrong. I can\u2019t consider the electrons as particles. They move through the graphene as a wave. It\u2019s a wave! The moment to applaud would be now. Troglodytes."
+        ],
+        [
+            "Penny",
+            "Sheldon, where are you going? Aren\u2019t you going to clean this up?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. I don\u2019t work here."
+        ],
+        [
+            "Scene",
+            "The roller disco. "
+        ],
+        [
+            "Howard",
+            "Happy now?"
+        ],
+        [
+            "Raj",
+            "I\u2019m on a cloud. Swing me. (Howard swings Raj several times.)"
+        ],
+        [
+            "Scene",
+            "The ball pit, presumably earlier. "
+        ],
+        [
+            "Leonard",
+            "Sheldon, come here."
+        ],
+        [
+            "Scene",
+            "(Sheldon once again keeps popping up his head and shouting \u201cBazinga\u201d as Leonard flails around trying to catch him.)"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-14-the-einstein-approximation/"
+}

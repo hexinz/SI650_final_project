@@ -1,0 +1,2104 @@
+{
+    "Season": 4,
+    "Episode": 1,
+    "Title": "the robotic manipulation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. A robotic arm is extracting some Chinese takeaway from a bag controlled by Howard."
+            ],
+            [
+                35,
+                "Credits sequence."
+            ],
+            [
+                36,
+                "A few moments later."
+            ],
+            [
+                82,
+                "The hallway."
+            ],
+            [
+                108,
+                "Howard\u2019s bedroom. Howard is being massaged by the robot hand."
+            ],
+            [
+                112,
+                "Penny\u2019s car."
+            ],
+            [
+                129,
+                "The apartment."
+            ],
+            [
+                136,
+                "Penny\u2019s car. Amy is now in the back seat."
+            ],
+            [
+                161,
+                "Howard\u2019s bedroom."
+            ],
+            [
+                190,
+                "A restaurant."
+            ],
+            [
+                223,
+                "A hospital,=."
+            ],
+            [
+                244,
+                "The stairwell. "
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "And now the kung pao chicken."
+            ],
+            [
+                5,
+                "And finally, my moo shu pork."
+            ],
+            [
+                7,
+                "Ah, there you have it, gentlemen. Our entire dinner unpacked by robot."
+            ],
+            [
+                10,
+                "Why?"
+            ],
+            [
+                15,
+                "That, dear lady, is the Wolowitz Programmable Hand, designed for extravehicular repairs on the International Space Station."
+            ],
+            [
+                17,
+                "Ask me to pass the soy sauce."
+            ],
+            [
+                19,
+                "Mostly with Asian and Jewish astronauts."
+            ],
+            [
+                21,
+                "Coming up. (Starts typing rapidly)"
+            ],
+            [
+                25,
+                "Just wait."
+            ],
+            [
+                29,
+                "Okay, here we go. Passing the soy sauce. Put out your hand."
+            ],
+            [
+                32,
+                "Hey, Sheldon?"
+            ],
+            [
+                34,
+                "No, not peace. Hang on."
+            ],
+            [
+                38,
+                "You kidding? They still think it\u2019s in a secure locker at JPL."
+            ],
+            [
+                40,
+                "Borrowed. The trick is to carry it out to your car like you own it."
+            ],
+            [
+                52,
+                "Raj and I entered Sheldon\u2019s information on a dating site, and it spit out Amy Farrah Fowler."
+            ],
+            [
+                54,
+                "Or, as we call them, Shamy."
+            ],
+            [
+                62,
+                "I\u2019m guessing that future historians will condemn us for not taking this opportunity to kill Sheldon."
+            ],
+            [
+                109,
+                "Oh, God, that feels so good. Yeah, that\u2019s the spot. Oh, baby."
+            ],
+            [
+                111,
+                "I\u2019ll eat later. I\u2019m busy! Oh, yeah. Just like a real hand. Hmm."
+            ],
+            [
+                163,
+                "Yes."
+            ],
+            [
+                165,
+                "Yes. Now, help me!"
+            ],
+            [
+                167,
+                "Not funny, Leonard."
+            ],
+            [
+                169,
+                "Please, before my mother walks in, just get this off me!"
+            ],
+            [
+                171,
+                "No, no! Don\u2019t touch, the program is paused."
+            ],
+            [
+                173,
+                "No, no! I loaded the wrong program. The hand thinks it\u2019s holding a screwdriver in outer space. If you continue the program, it\u2019s gonna start twisting."
+            ],
+            [
+                177,
+                "What? No saws! One circumcision was enough."
+            ],
+            [
+                179,
+                "Okay, I can\u2019t believe this needs to be said out loud. No pulling, no saws, no torches."
+            ],
+            [
+                181,
+                "I\u2026"
+            ],
+            [
+                183,
+                "That\u2019s great, Mom, thanks!"
+            ],
+            [
+                185,
+                "Don\u2019t come up here!"
+            ],
+            [
+                187,
+                "Yes, but that\u2019s not the point! Get me out of here."
+            ],
+            [
+                225,
+                "Don\u2019t tug. No tugging."
+            ],
+            [
+                229,
+                "I slipped and fell."
+            ],
+            [
+                231,
+                "It\u2019s a robot arm."
+            ],
+            [
+                233,
+                "I only built the arm."
+            ],
+            [
+                235,
+                "Can you please just help me?"
+            ],
+            [
+                237,
+                "You think you could be a little more discreet?"
+            ],
+            [
+                240,
+                "But it\u2019s frozen."
+            ],
+            [
+                242,
+                "No, you see, it\u2019s more complicated than that. (Nurse switches off computer) No, wait! (The hand lets go) Winnie the Pooh is out of the honey tree."
+            ]
+        ],
+        "Leonard": [
+            [
+                3,
+                "Alright."
+            ],
+            [
+                12,
+                "I don\u2019t think that\u2019s going to happen, Sheldon."
+            ],
+            [
+                22,
+                "So how\u2019s work?"
+            ],
+            [
+                24,
+                "Yeah, we all are."
+            ],
+            [
+                43,
+                "His girlfriend."
+            ],
+            [
+                47,
+                "Four months."
+            ],
+            [
+                60,
+                "Wait a minute\u2013 a child? You never see this girl. You just e-mail and text and Twitter. Now you\u2019re considering having a baby?"
+            ],
+            [
+                71,
+                "Still digging the Shamy?"
+            ],
+            [
+                131,
+                "Yeah?"
+            ],
+            [
+                133,
+                "What?"
+            ],
+            [
+                166,
+                "I\u2019d suggest a lubricant, but I have a feeling you fell on some of that as well."
+            ],
+            [
+                170,
+                "Okay, let\u2019s see."
+            ],
+            [
+                172,
+                "Well, then let\u2019s un-pause it."
+            ],
+            [
+                175,
+                "You do what you want, I\u2019m not touching another man\u2019s honey tree."
+            ],
+            [
+                178,
+                "How about an acetylene torch?"
+            ],
+            [
+                180,
+                "Well, then what do you want us to do?"
+            ],
+            [
+                188,
+                "You have any ideas, Raj?"
+            ],
+            [
+                224,
+                "Okay, come on. Almost there."
+            ],
+            [
+                227,
+                "Excuse me, could you help us out?"
+            ],
+            [
+                239,
+                "Uh, it\u2019s what controls the arm."
+            ],
+            [
+                260,
+                "Yeah, yeah, great. Howard, uh, slow down. What do you mean it happened again?"
+            ]
+        ],
+        "Raj": [
+            [
+                4,
+                "Smooth."
+            ],
+            [
+                6,
+                "Whoo-hoo!"
+            ],
+            [
+                8,
+                "And it only took 28 minutes."
+            ],
+            [
+                130,
+                "You know, there\u2019s something I\u2019ve always wondered about Aquaman."
+            ],
+            [
+                132,
+                "Where does he poop?"
+            ],
+            [
+                134,
+                "What would a toilet look like in Atlantis? How would you flush it? And when you did flush it, where would the poop go?"
+            ],
+            [
+                162,
+                "You slipped and fell into a robot hand?"
+            ],
+            [
+                164,
+                "Penis first?"
+            ],
+            [
+                168,
+                "Really? A robot hand\u2019s got a death grip on your junk, dude. That\u2019s funny, ask anyone."
+            ],
+            [
+                174,
+                "A-All right, um, how about this. When, when Winnie the Pooh got his head stuck in the honey tree, his friends all grabbed onto him and pulled and pulled."
+            ],
+            [
+                176,
+                "All right, uh, forget pulling. How about we get an electric saw and cut it off?"
+            ],
+            [
+                189,
+                "Right now, all I can think about is cookies and Hawaiian Punch."
+            ],
+            [
+                226,
+                "Next time, take your own advice."
+            ],
+            [
+                243,
+                "Now can we have cookies and Hawaiian Punch?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                9,
+                "Impressive, but we must be cautious."
+            ],
+            [
+                11,
+                "Today, it\u2019s a Chinese food retrieval robot. Tomorrow, it travels back in time and tries to kill Sarah Connor."
+            ],
+            [
+                13,
+                "No one ever does. That\u2019s why it happens."
+            ],
+            [
+                26,
+                "You realize, Penny, that the technology that went into this arm will one day make unskilled food servers such as yourself obsolete."
+            ],
+            [
+                28,
+                "I thought you broke up with her. Why is she here?"
+            ],
+            [
+                31,
+                "I wouldn\u2019t say amazing. At best, it\u2019s a modest leap forward from the basic technology that gave us Country Bear Jamboree."
+            ],
+            [
+                33,
+                "Yes? (Howard types. The hand puts up two fingers to Sheldon.) Peace?"
+            ],
+            [
+                45,
+                "She\u2019s not my girlfriend."
+            ],
+            [
+                48,
+                "She\u2019s not my girlfriend."
+            ],
+            [
+                50,
+                "She\u2019s not my girlfriend."
+            ],
+            [
+                56,
+                "All right, everyone pay attention. Yes, I have a friend named Amy Farrah Fowler. Yes, she is female. Yes, we communicate on a daily basis, but no, she is not my girlfriend."
+            ],
+            [
+                58,
+                "Well, my work in physics, her work in neurobiology, and most recently, the possibility of our having a child together."
+            ],
+            [
+                61,
+                "Amy pointed out that between the two of us, our genetic material has the potential of producing the first in a line of intellectually superior, benign overlords to guide humanity to a brighter tomorrow."
+            ],
+            [
+                64,
+                "Yes, Penny."
+            ],
+            [
+                66,
+                "Why on Earth would we have sex?"
+            ],
+            [
+                68,
+                "I\u2019m quite aware of the way humans usually reproduce, which is messy, unsanitary, and based on living next to you for three years, involves loud and unnecessary appeals to a deity."
+            ],
+            [
+                70,
+                "Yes, exactly. Consequently, if Amy and I choose to bring new life into this world, it will be accomplished clinically, with fertility experts in a lab with petri dishes. Which reminds me, you have broad hips and a certain corn-fed vigour. Is your womb available for rental?"
+            ],
+            [
+                73,
+                "You mean dating?"
+            ],
+            [
+                75,
+                "I can\u2019t date Amy."
+            ],
+            [
+                77,
+                "She\u2019s not my girlfriend."
+            ],
+            [
+                79,
+                "Oh. I hadn\u2019t considered that. I suppose she will have to have access to our progeny. And you don\u2019t think I can achieve the required intimacy via text messaging?"
+            ],
+            [
+                81,
+                "Huh. It would appear as if the phone companies have been lying to me."
+            ],
+            [
+                84,
+                "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+            ],
+            [
+                86,
+                "I know. I can see the shadow of your feet under the door."
+            ],
+            [
+                88,
+                "If you\u2019re looking for an example of a waste of time, I would refer you to the conversation we\u2019re having right now."
+            ],
+            [
+                90,
+                "I\u2019ve decided to take your advice and have arranged to go on a date with Amy Farrah Fowler."
+            ],
+            [
+                92,
+                "Wait. You have to drive me."
+            ],
+            [
+                94,
+                "You know I don\u2019t drive."
+            ],
+            [
+                96,
+                "I did. He said, and I quote, ask Penny, it was her cockamamie idea."
+            ],
+            [
+                98,
+                "Actually, I\u2019m paraphrasing. Having been raised in a Christian household, I\u2019m uncomfortable with the language he used. And to be honest, I\u2019m not entirely comfortable with cockamamie."
+            ],
+            [
+                100,
+                "Now."
+            ],
+            [
+                102,
+                "Hurry. We\u2019re going to be late."
+            ],
+            [
+                104,
+                "I\u2019m sorry. Do you have other plans?"
+            ],
+            [
+                106,
+                "So this conversation is as pointless as your door-knocking soliloquy?"
+            ],
+            [
+                113,
+                "Thank you for driving me."
+            ],
+            [
+                115,
+                "I wish you weren\u2019t wearing flip-flops. It\u2019s dangerous to drive in flip-flops."
+            ],
+            [
+                117,
+                "Sorry. I just don\u2019t want to be yet another flip-flop fatality."
+            ],
+            [
+                119,
+                "Given your community college education, I encourage you to ask me as many as possible."
+            ],
+            [
+                121,
+                "That depends. Does square-dancing with my sister at a Teens for Jesus Fourth of July Hoedown count as a date?"
+            ],
+            [
+                123,
+                "Then, this is my first date."
+            ],
+            [
+                125,
+                "I have a master\u2019s degree and two doctorates. The things I should know, I do know."
+            ],
+            [
+                127,
+                "If you know so much, how come I have a date tonight and you have nothing better to do than drive me to it?"
+            ],
+            [
+                141,
+                "Don\u2019t bother. I\u2019ve wasted many an hour tilting at that particular windmill."
+            ],
+            [
+                149,
+                "Oh, no, I wouldn\u2019t care for that. Amy?"
+            ],
+            [
+                152,
+                "No."
+            ],
+            [
+                154,
+                "All right. It was hell."
+            ],
+            [
+                158,
+                "I\u2019m sorry, how is this better than uncomfortable silence?"
+            ],
+            [
+                160,
+                "Muggles."
+            ],
+            [
+                192,
+                "Big night? The winter solstice is a big night. It\u2019s over 14 hours in Southern California."
+            ],
+            [
+                194,
+                "Thank you."
+            ],
+            [
+                197,
+                "Apparently, a semi-incestuous Teens for Jesus Fourth of July Hoedown didn\u2019t count."
+            ],
+            [
+                202,
+                "Your characterization of approximately 171 different men as a few."
+            ],
+            [
+                204,
+                "Simple extrapolation. In the three years that I\u2019ve known you, you were single for two. During that time, I saw 17 different suitors. If we work backwards, correcting for observation bias and postulate an initial dating age of 15\u2026"
+            ],
+            [
+                206,
+                "I\u2019m sorry. 16?"
+            ],
+            [
+                208,
+                "My mistake. Now, assuming the left side of a bell curve peaking around the present, that would bring the total up to 193 men. Plus or minus eight men."
+            ],
+            [
+                211,
+                "Although that number would be fairly easy to calculate."
+            ],
+            [
+                213,
+                "Based on the number of awkward encounters I\u2019ve had with strange men leaving her apartment in the morning, plus the number of times she\u2019s returned home wearing the same clothes she wore the night before\u2026"
+            ],
+            [
+                215,
+                "So we multiply 193, minus 21 men before the loss of virginity, so 172 times 0.18 gives us 30.96 sexual partners. Let\u2019s round that up to 31."
+            ],
+            [
+                219,
+                "This is an interesting topic. How many sexual encounters have you had?"
+            ],
+            [
+                221,
+                "I should think so."
+            ],
+            [
+                245,
+                "You were right. This was a very productive evening. I saw a whole new side of Amy Farrah Fowler tonight."
+            ],
+            [
+                247,
+                "I\u2019ll be happy to check the math, but numbers don\u2019t lie, Penny. In any event, now that Amy and I have spent quality time together, I feel much more confident proceeding to the next stage of our relationship."
+            ],
+            [
+                249,
+                "Using in vitro fertilization and a surrogate uterus to gift humanity with our progeny."
+            ],
+            [
+                251,
+                "In these uncertain times, doesn\u2019t humanity deserve a gift?"
+            ],
+            [
+                253,
+                "That\u2019s no threat. My mother\u2019s always wanted a grandchild."
+            ],
+            [
+                255,
+                "Curses."
+            ],
+            [
+                257,
+                "Well, it\u2019s not that late. You could still go out and look for number 32. Good night."
+            ],
+            [
+                259,
+                "I\u2019ve decided not to procreate."
+            ]
+        ],
+        "Penny (arriving)": [
+            [
+                14,
+                "Hey. Is the food here? Ooh. What\u2019s that?"
+            ]
+        ],
+        "Penny": [
+            [
+                16,
+                "Ah, cool."
+            ],
+            [
+                18,
+                "Oh, does that come up much on the space station?"
+            ],
+            [
+                20,
+                "All right. Pass the soy sauce."
+            ],
+            [
+                23,
+                "Oh, it\u2019s not bad. Kind of hungry."
+            ],
+            [
+                27,
+                "Really? They\u2019re going to make a robot that spits on your hamburger?"
+            ],
+            [
+                30,
+                "Oh ha-ha, oh. That\u2019s amazing."
+            ],
+            [
+                37,
+                "Does NASA know you\u2019re using that thing as a napkin holder?"
+            ],
+            [
+                39,
+                "You stole it?"
+            ],
+            [
+                42,
+                "Who\u2019s Amy?"
+            ],
+            [
+                44,
+                "Sheldon has a girlfriend?"
+            ],
+            [
+                46,
+                "How long has this been going on?"
+            ],
+            [
+                49,
+                "Are you telling me, for the past four months I have been asking you what\u2019s new and you never thought to go with Sheldon has a girlfriend?"
+            ],
+            [
+                51,
+                "Ah, du-du-du-du-du. How did they meet?"
+            ],
+            [
+                53,
+                "Oh, my God! Sheldon and Amy."
+            ],
+            [
+                57,
+                "Okay, well, what do you communicate about?"
+            ],
+            [
+                63,
+                "Okay, I have a question."
+            ],
+            [
+                65,
+                "You don\u2019t even like people touching you. How are you going to have sex?"
+            ],
+            [
+                67,
+                "Oh, honey, did your mom not have the talk with you? You know, when your private parts started growing?"
+            ],
+            [
+                69,
+                "Oh, God."
+            ],
+            [
+                72,
+                "Look, Sheldon, before you race off to the fertility clinic, you might want to think about, uh gee, I don\u2019t know, maybe actually spending some time with her."
+            ],
+            [
+                74,
+                "Yeah."
+            ],
+            [
+                76,
+                "Why not?"
+            ],
+            [
+                78,
+                "Okay, look, don\u2019t think of it as dating a girlfriend. Think of it as, uh, getting to know the future mother of your child."
+            ],
+            [
+                80,
+                "Probably not."
+            ],
+            [
+                85,
+                "You do realize I stand on the other side of the door waiting for you to finish knocking three times."
+            ],
+            [
+                87,
+                "Yeah, my point is it\u2019s a waste of time."
+            ],
+            [
+                89,
+                "What do you want?"
+            ],
+            [
+                91,
+                "Oh, that\u2019s great. Have fun."
+            ],
+            [
+                93,
+                "What?"
+            ],
+            [
+                95,
+                "Well, go ask Leonard."
+            ],
+            [
+                97,
+                "Leonard said cockamamie?"
+            ],
+            [
+                99,
+                "Okay, fine. When\u2019s the date?"
+            ],
+            [
+                101,
+                "Now?"
+            ],
+            [
+                103,
+                "Sheldon, did it ever occur to you that I might have other plans?"
+            ],
+            [
+                105,
+                "Well, no, not per se, but\u2026"
+            ],
+            [
+                107,
+                "Let me get my cockamamie keys."
+            ],
+            [
+                114,
+                "You\u2019re welcome."
+            ],
+            [
+                116,
+                "Sheldon."
+            ],
+            [
+                118,
+                "Can I ask you a question?"
+            ],
+            [
+                120,
+                "Yeah. Well, my question is, and I\u2019m pretty sure I know the answer, is this your first date?"
+            ],
+            [
+                122,
+                "No."
+            ],
+            [
+                124,
+                "Okay. Well, then, there\u2019s a couple of things you should probably know."
+            ],
+            [
+                126,
+                "My point is, I know more about dating than you, and if you were as smart as you think you are, you would listen to me."
+            ],
+            [
+                128,
+                "Fair point."
+            ],
+            [
+                137,
+                "So, um, Amy, Sheldon tells me you\u2019re a neuro something-or-other."
+            ],
+            [
+                139,
+                "Yeah, it\u2019s okay."
+            ],
+            [
+                142,
+                "Um, what is that scent you\u2019re wearing? It smells great."
+            ],
+            [
+                144,
+                "Ah. Well, your hair looks very nice."
+            ],
+            [
+                146,
+                "No, no, I was just giving you a compliment."
+            ],
+            [
+                148,
+                "Guys, how \u2019bout some music?"
+            ],
+            [
+                151,
+                "Okay. Uncomfortable silence it is. Hey, Sheldon, have you told Amy what it was like for you growing up in Texas?"
+            ],
+            [
+                153,
+                "Well, why don\u2019t you tell her?"
+            ],
+            [
+                155,
+                "Any follow up, Amy?"
+            ],
+            [
+                157,
+                "I myself grew up in Nebraska. Small town outside of Omaha. You know, nice place, mostly family farms, a few meth labs."
+            ],
+            [
+                159,
+                "I don\u2019t know. I was just trying something."
+            ],
+            [
+                191,
+                "Hey, here\u2019s another possible topic of conversation. This is a big night for Sheldon. Right, Sheldon?"
+            ],
+            [
+                195,
+                "No, no. My point is, uh, tonight is Sheldon\u2019s first official date. Discuss."
+            ],
+            [
+                198,
+                "So, um, Amy, what about you? Do you date much?"
+            ],
+            [
+                200,
+                "Uh, yeah, I wouldn\u2019t say many. A few. (Sheldon laugh\u2019s strangely). What\u2019s (imitates Sheldon\u2019s laugh)"
+            ],
+            [
+                203,
+                "What? Where did you get 171 men?"
+            ],
+            [
+                205,
+                "Whoa, wait, wait, wait. I did not start dating at 15."
+            ],
+            [
+                207,
+                "14."
+            ],
+            [
+                210,
+                "No."
+            ],
+            [
+                212,
+                "Oh."
+            ],
+            [
+                214,
+                "Okay, Sheldon, I think you\u2019ve made your point."
+            ],
+            [
+                216,
+                "Okay, Sheldon, you are so wrong. That is not even close to the real number. I\u2019m gonna need a drink over here."
+            ],
+            [
+                218,
+                "No! No! No. Let\u2019s just all finish our dinners, okay?"
+            ],
+            [
+                246,
+                "I did not have sex with 31 guys."
+            ],
+            [
+                248,
+                "And that is?"
+            ],
+            [
+                250,
+                "You\u2019re still on that?"
+            ],
+            [
+                252,
+                "Okay, you know what? I\u2019m gonna come at this in a whole new way. Sheldon, if you try to make a baby with Amy in a petri dish, I\u2019m gonna tell your mother on you."
+            ],
+            [
+                254,
+                "Really? Your deeply religious born-again Christian mother wants a test-tube grandbaby born out of wedlock?"
+            ],
+            [
+                256,
+                "If I\u2019d thought of that in the first place, I could\u2019ve saved myself this whole night."
+            ]
+        ],
+        "Sheldon (phone gives text alert)": [
+            [
+                41,
+                "Excuse me. Oh. Amy\u2019s at the dry cleaners, and she\u2019s made a very amusing pun. \u201cI don\u2019t care for perchloroethylene, and I don\u2019t like glycol ether.\u201d Get it? She doesn\u2019t like glycol ether. Sounds like either. (Taps in reply) L-O-L."
+            ]
+        ],
+        "Penny (squeals)": [
+            [
+                55,
+                "Shamy. I am so digging the Shamy."
+            ]
+        ],
+        "Penny (spits out drink explosively. Howard types. Robot arm hands Penny a napkin)": [
+            [
+                59,
+                "Thank you."
+            ]
+        ],
+        "Mrs Wolowitz (off)": [
+            [
+                110,
+                "Howard, dinner\u2019s ready!"
+            ],
+            [
+                182,
+                "Howard, I made cookies for you and your little friends!"
+            ],
+            [
+                184,
+                "I\u2019ll bring them up with some Hawaiian Punch!"
+            ],
+            [
+                186,
+                "Why not?! Are you ashamed of your mother?!"
+            ]
+        ],
+        "Leonard (phone rings)": [
+            [
+                135,
+                "Hold that thought. Hey, Howard, what\u2019s going on? What? Hold on, Howard, Howard, slow down. The robot hand is stuck on your what? (To Raj) You\u2019re not going to believe this."
+            ]
+        ],
+        "Amy": [
+            [
+                138,
+                "Neurobiologist. Your check engine light is on."
+            ],
+            [
+                140,
+                "But the light indicates\u2026"
+            ],
+            [
+                143,
+                "Dandruff shampoo. I have dry scalp."
+            ],
+            [
+                145,
+                "Are you a homosexual?"
+            ],
+            [
+                147,
+                "Hmm. Would have been more flattered if you were a homosexual."
+            ],
+            [
+                150,
+                "No, thank you."
+            ],
+            [
+                156,
+                "No."
+            ],
+            [
+                193,
+                "That\u2019s an amusing factoid."
+            ],
+            [
+                196,
+                "Is this true?"
+            ],
+            [
+                199,
+                "Once a year. It\u2019s a deal I made with my mother in exchange for her silence on the matter, as well as the occasional use of her George Foreman Grill that seals in the flavour without the fat. How about you, Penny? Do you go on many dates?"
+            ],
+            [
+                209,
+                "Remarkable. Did you have sexual intercourse with all of these men?"
+            ],
+            [
+                217,
+                "This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?"
+            ],
+            [
+                220,
+                "Does volunteering for a scientific experiment in which orgasm was achieved by electronically stimulating the pleasure centres of the brain count?"
+            ],
+            [
+                222,
+                "Then 128."
+            ]
+        ],
+        "Nurse": [
+            [
+                228,
+                "My, my, my. What do we have here?"
+            ],
+            [
+                230,
+                "Yeah, we get that a lot. What is this?"
+            ],
+            [
+                232,
+                "Where\u2019s the rest of the robot?"
+            ],
+            [
+                234,
+                "\u2018Cause that\u2019s all you needed, right?"
+            ],
+            [
+                236,
+                "All right, all right. Hang on, stay calm. (Over PA system)  I need an orderly with a wheelchair. I got a robot hand grasping a man\u2019s penis out here."
+            ],
+            [
+                238,
+                "I\u2019m sorry, we don\u2019t have a code for robot hand grasping a man\u2019s penis. Why is it hooked up to a computer?"
+            ],
+            [
+                241,
+                "Did you try turning it off and back on again?"
+            ]
+        ],
+        "Leonard (on phone)": [
+            [
+                258,
+                "Hey, Howard, what\u2019s up?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. A robotic arm is extracting some Chinese takeaway from a bag controlled by Howard."
+        ],
+        [
+            "Howard",
+            "And now the kung pao chicken."
+        ],
+        [
+            "Leonard",
+            "Alright."
+        ],
+        [
+            "Raj",
+            "Smooth."
+        ],
+        [
+            "Howard",
+            "And finally, my moo shu pork."
+        ],
+        [
+            "Raj",
+            "Whoo-hoo!"
+        ],
+        [
+            "Howard",
+            "Ah, there you have it, gentlemen. Our entire dinner unpacked by robot."
+        ],
+        [
+            "Raj",
+            "And it only took 28 minutes."
+        ],
+        [
+            "Sheldon",
+            "Impressive, but we must be cautious."
+        ],
+        [
+            "Howard",
+            "Why?"
+        ],
+        [
+            "Sheldon",
+            "Today, it\u2019s a Chinese food retrieval robot. Tomorrow, it travels back in time and tries to kill Sarah Connor."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t think that\u2019s going to happen, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "No one ever does. That\u2019s why it happens."
+        ],
+        [
+            "Penny (arriving)",
+            "Hey. Is the food here? Ooh. What\u2019s that?"
+        ],
+        [
+            "Howard",
+            "That, dear lady, is the Wolowitz Programmable Hand, designed for extravehicular repairs on the International Space Station."
+        ],
+        [
+            "Penny",
+            "Ah, cool."
+        ],
+        [
+            "Howard",
+            "Ask me to pass the soy sauce."
+        ],
+        [
+            "Penny",
+            "Oh, does that come up much on the space station?"
+        ],
+        [
+            "Howard",
+            "Mostly with Asian and Jewish astronauts."
+        ],
+        [
+            "Penny",
+            "All right. Pass the soy sauce."
+        ],
+        [
+            "Howard",
+            "Coming up. (Starts typing rapidly)"
+        ],
+        [
+            "Leonard",
+            "So how\u2019s work?"
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s not bad. Kind of hungry."
+        ],
+        [
+            "Leonard",
+            "Yeah, we all are."
+        ],
+        [
+            "Howard",
+            "Just wait."
+        ],
+        [
+            "Sheldon",
+            "You realize, Penny, that the technology that went into this arm will one day make unskilled food servers such as yourself obsolete."
+        ],
+        [
+            "Penny",
+            "Really? They\u2019re going to make a robot that spits on your hamburger?"
+        ],
+        [
+            "Sheldon",
+            "I thought you broke up with her. Why is she here?"
+        ],
+        [
+            "Howard",
+            "Okay, here we go. Passing the soy sauce. Put out your hand."
+        ],
+        [
+            "Penny",
+            "Oh ha-ha, oh. That\u2019s amazing."
+        ],
+        [
+            "Sheldon",
+            "I wouldn\u2019t say amazing. At best, it\u2019s a modest leap forward from the basic technology that gave us Country Bear Jamboree."
+        ],
+        [
+            "Howard",
+            "Hey, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Yes? (Howard types. The hand puts up two fingers to Sheldon.) Peace?"
+        ],
+        [
+            "Howard",
+            "No, not peace. Hang on."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "A few moments later."
+        ],
+        [
+            "Penny",
+            "Does NASA know you\u2019re using that thing as a napkin holder?"
+        ],
+        [
+            "Howard",
+            "You kidding? They still think it\u2019s in a secure locker at JPL."
+        ],
+        [
+            "Penny",
+            "You stole it?"
+        ],
+        [
+            "Howard",
+            "Borrowed. The trick is to carry it out to your car like you own it."
+        ],
+        [
+            "Sheldon (phone gives text alert)",
+            "Excuse me. Oh. Amy\u2019s at the dry cleaners, and she\u2019s made a very amusing pun. \u201cI don\u2019t care for perchloroethylene, and I don\u2019t like glycol ether.\u201d Get it? She doesn\u2019t like glycol ether. Sounds like either. (Taps in reply) L-O-L."
+        ],
+        [
+            "Penny",
+            "Who\u2019s Amy?"
+        ],
+        [
+            "Leonard",
+            "His girlfriend."
+        ],
+        [
+            "Penny",
+            "Sheldon has a girlfriend?"
+        ],
+        [
+            "Sheldon",
+            "She\u2019s not my girlfriend."
+        ],
+        [
+            "Penny",
+            "How long has this been going on?"
+        ],
+        [
+            "Leonard",
+            "Four months."
+        ],
+        [
+            "Sheldon",
+            "She\u2019s not my girlfriend."
+        ],
+        [
+            "Penny",
+            "Are you telling me, for the past four months I have been asking you what\u2019s new and you never thought to go with Sheldon has a girlfriend?"
+        ],
+        [
+            "Sheldon",
+            "She\u2019s not my girlfriend."
+        ],
+        [
+            "Penny",
+            "Ah, du-du-du-du-du. How did they meet?"
+        ],
+        [
+            "Howard",
+            "Raj and I entered Sheldon\u2019s information on a dating site, and it spit out Amy Farrah Fowler."
+        ],
+        [
+            "Penny",
+            "Oh, my God! Sheldon and Amy."
+        ],
+        [
+            "Howard",
+            "Or, as we call them, Shamy."
+        ],
+        [
+            "Penny (squeals)",
+            "Shamy. I am so digging the Shamy."
+        ],
+        [
+            "Sheldon",
+            "All right, everyone pay attention. Yes, I have a friend named Amy Farrah Fowler. Yes, she is female. Yes, we communicate on a daily basis, but no, she is not my girlfriend."
+        ],
+        [
+            "Penny",
+            "Okay, well, what do you communicate about?"
+        ],
+        [
+            "Sheldon",
+            "Well, my work in physics, her work in neurobiology, and most recently, the possibility of our having a child together."
+        ],
+        [
+            "Penny (spits out drink explosively. Howard types. Robot arm hands Penny a napkin)",
+            "Thank you."
+        ],
+        [
+            "Leonard",
+            "Wait a minute\u2013 a child? You never see this girl. You just e-mail and text and Twitter. Now you\u2019re considering having a baby?"
+        ],
+        [
+            "Sheldon",
+            "Amy pointed out that between the two of us, our genetic material has the potential of producing the first in a line of intellectually superior, benign overlords to guide humanity to a brighter tomorrow."
+        ],
+        [
+            "Howard",
+            "I\u2019m guessing that future historians will condemn us for not taking this opportunity to kill Sheldon."
+        ],
+        [
+            "Penny",
+            "Okay, I have a question."
+        ],
+        [
+            "Sheldon",
+            "Yes, Penny."
+        ],
+        [
+            "Penny",
+            "You don\u2019t even like people touching you. How are you going to have sex?"
+        ],
+        [
+            "Sheldon",
+            "Why on Earth would we have sex?"
+        ],
+        [
+            "Penny",
+            "Oh, honey, did your mom not have the talk with you? You know, when your private parts started growing?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m quite aware of the way humans usually reproduce, which is messy, unsanitary, and based on living next to you for three years, involves loud and unnecessary appeals to a deity."
+        ],
+        [
+            "Penny",
+            "Oh, God."
+        ],
+        [
+            "Sheldon",
+            "Yes, exactly. Consequently, if Amy and I choose to bring new life into this world, it will be accomplished clinically, with fertility experts in a lab with petri dishes. Which reminds me, you have broad hips and a certain corn-fed vigour. Is your womb available for rental?"
+        ],
+        [
+            "Leonard",
+            "Still digging the Shamy?"
+        ],
+        [
+            "Penny",
+            "Look, Sheldon, before you race off to the fertility clinic, you might want to think about, uh gee, I don\u2019t know, maybe actually spending some time with her."
+        ],
+        [
+            "Sheldon",
+            "You mean dating?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t date Amy."
+        ],
+        [
+            "Penny",
+            "Why not?"
+        ],
+        [
+            "Sheldon",
+            "She\u2019s not my girlfriend."
+        ],
+        [
+            "Penny",
+            "Okay, look, don\u2019t think of it as dating a girlfriend. Think of it as, uh, getting to know the future mother of your child."
+        ],
+        [
+            "Sheldon",
+            "Oh. I hadn\u2019t considered that. I suppose she will have to have access to our progeny. And you don\u2019t think I can achieve the required intimacy via text messaging?"
+        ],
+        [
+            "Penny",
+            "Probably not."
+        ],
+        [
+            "Sheldon",
+            "Huh. It would appear as if the phone companies have been lying to me."
+        ],
+        [
+            "Scene",
+            "The hallway."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+        ],
+        [
+            "Penny",
+            "You do realize I stand on the other side of the door waiting for you to finish knocking three times."
+        ],
+        [
+            "Sheldon",
+            "I know. I can see the shadow of your feet under the door."
+        ],
+        [
+            "Penny",
+            "Yeah, my point is it\u2019s a waste of time."
+        ],
+        [
+            "Sheldon",
+            "If you\u2019re looking for an example of a waste of time, I would refer you to the conversation we\u2019re having right now."
+        ],
+        [
+            "Penny",
+            "What do you want?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve decided to take your advice and have arranged to go on a date with Amy Farrah Fowler."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s great. Have fun."
+        ],
+        [
+            "Sheldon",
+            "Wait. You have to drive me."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "You know I don\u2019t drive."
+        ],
+        [
+            "Penny",
+            "Well, go ask Leonard."
+        ],
+        [
+            "Sheldon",
+            "I did. He said, and I quote, ask Penny, it was her cockamamie idea."
+        ],
+        [
+            "Penny",
+            "Leonard said cockamamie?"
+        ],
+        [
+            "Sheldon",
+            "Actually, I\u2019m paraphrasing. Having been raised in a Christian household, I\u2019m uncomfortable with the language he used. And to be honest, I\u2019m not entirely comfortable with cockamamie."
+        ],
+        [
+            "Penny",
+            "Okay, fine. When\u2019s the date?"
+        ],
+        [
+            "Sheldon",
+            "Now."
+        ],
+        [
+            "Penny",
+            "Now?"
+        ],
+        [
+            "Sheldon",
+            "Hurry. We\u2019re going to be late."
+        ],
+        [
+            "Penny",
+            "Sheldon, did it ever occur to you that I might have other plans?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. Do you have other plans?"
+        ],
+        [
+            "Penny",
+            "Well, no, not per se, but\u2026"
+        ],
+        [
+            "Sheldon",
+            "So this conversation is as pointless as your door-knocking soliloquy?"
+        ],
+        [
+            "Penny",
+            "Let me get my cockamamie keys."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom. Howard is being massaged by the robot hand."
+        ],
+        [
+            "Howard",
+            "Oh, God, that feels so good. Yeah, that\u2019s the spot. Oh, baby."
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Howard, dinner\u2019s ready!"
+        ],
+        [
+            "Howard",
+            "I\u2019ll eat later. I\u2019m busy! Oh, yeah. Just like a real hand. Hmm."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car."
+        ],
+        [
+            "Sheldon",
+            "Thank you for driving me."
+        ],
+        [
+            "Penny",
+            "You\u2019re welcome."
+        ],
+        [
+            "Sheldon",
+            "I wish you weren\u2019t wearing flip-flops. It\u2019s dangerous to drive in flip-flops."
+        ],
+        [
+            "Penny",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Sorry. I just don\u2019t want to be yet another flip-flop fatality."
+        ],
+        [
+            "Penny",
+            "Can I ask you a question?"
+        ],
+        [
+            "Sheldon",
+            "Given your community college education, I encourage you to ask me as many as possible."
+        ],
+        [
+            "Penny",
+            "Yeah. Well, my question is, and I\u2019m pretty sure I know the answer, is this your first date?"
+        ],
+        [
+            "Sheldon",
+            "That depends. Does square-dancing with my sister at a Teens for Jesus Fourth of July Hoedown count as a date?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Then, this is my first date."
+        ],
+        [
+            "Penny",
+            "Okay. Well, then, there\u2019s a couple of things you should probably know."
+        ],
+        [
+            "Sheldon",
+            "I have a master\u2019s degree and two doctorates. The things I should know, I do know."
+        ],
+        [
+            "Penny",
+            "My point is, I know more about dating than you, and if you were as smart as you think you are, you would listen to me."
+        ],
+        [
+            "Sheldon",
+            "If you know so much, how come I have a date tonight and you have nothing better to do than drive me to it?"
+        ],
+        [
+            "Penny",
+            "Fair point."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "You know, there\u2019s something I\u2019ve always wondered about Aquaman."
+        ],
+        [
+            "Leonard",
+            "Yeah?"
+        ],
+        [
+            "Raj",
+            "Where does he poop?"
+        ],
+        [
+            "Leonard",
+            "What?"
+        ],
+        [
+            "Raj",
+            "What would a toilet look like in Atlantis? How would you flush it? And when you did flush it, where would the poop go?"
+        ],
+        [
+            "Leonard (phone rings)",
+            "Hold that thought. Hey, Howard, what\u2019s going on? What? Hold on, Howard, Howard, slow down. The robot hand is stuck on your what? (To Raj) You\u2019re not going to believe this."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s car. Amy is now in the back seat."
+        ],
+        [
+            "Penny",
+            "So, um, Amy, Sheldon tells me you\u2019re a neuro something-or-other."
+        ],
+        [
+            "Amy",
+            "Neurobiologist. Your check engine light is on."
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s okay."
+        ],
+        [
+            "Amy",
+            "But the light indicates\u2026"
+        ],
+        [
+            "Sheldon",
+            "Don\u2019t bother. I\u2019ve wasted many an hour tilting at that particular windmill."
+        ],
+        [
+            "Penny",
+            "Um, what is that scent you\u2019re wearing? It smells great."
+        ],
+        [
+            "Amy",
+            "Dandruff shampoo. I have dry scalp."
+        ],
+        [
+            "Penny",
+            "Ah. Well, your hair looks very nice."
+        ],
+        [
+            "Amy",
+            "Are you a homosexual?"
+        ],
+        [
+            "Penny",
+            "No, no, I was just giving you a compliment."
+        ],
+        [
+            "Amy",
+            "Hmm. Would have been more flattered if you were a homosexual."
+        ],
+        [
+            "Penny",
+            "Guys, how \u2019bout some music?"
+        ],
+        [
+            "Sheldon",
+            "Oh, no, I wouldn\u2019t care for that. Amy?"
+        ],
+        [
+            "Amy",
+            "No, thank you."
+        ],
+        [
+            "Penny",
+            "Okay. Uncomfortable silence it is. Hey, Sheldon, have you told Amy what it was like for you growing up in Texas?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Penny",
+            "Well, why don\u2019t you tell her?"
+        ],
+        [
+            "Sheldon",
+            "All right. It was hell."
+        ],
+        [
+            "Penny",
+            "Any follow up, Amy?"
+        ],
+        [
+            "Amy",
+            "No."
+        ],
+        [
+            "Penny",
+            "I myself grew up in Nebraska. Small town outside of Omaha. You know, nice place, mostly family farms, a few meth labs."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry, how is this better than uncomfortable silence?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know. I was just trying something."
+        ],
+        [
+            "Sheldon",
+            "Muggles."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Raj",
+            "You slipped and fell into a robot hand?"
+        ],
+        [
+            "Howard",
+            "Yes."
+        ],
+        [
+            "Raj",
+            "Penis first?"
+        ],
+        [
+            "Howard",
+            "Yes. Now, help me!"
+        ],
+        [
+            "Leonard",
+            "I\u2019d suggest a lubricant, but I have a feeling you fell on some of that as well."
+        ],
+        [
+            "Howard",
+            "Not funny, Leonard."
+        ],
+        [
+            "Raj",
+            "Really? A robot hand\u2019s got a death grip on your junk, dude. That\u2019s funny, ask anyone."
+        ],
+        [
+            "Howard",
+            "Please, before my mother walks in, just get this off me!"
+        ],
+        [
+            "Leonard",
+            "Okay, let\u2019s see."
+        ],
+        [
+            "Howard",
+            "No, no! Don\u2019t touch, the program is paused."
+        ],
+        [
+            "Leonard",
+            "Well, then let\u2019s un-pause it."
+        ],
+        [
+            "Howard",
+            "No, no! I loaded the wrong program. The hand thinks it\u2019s holding a screwdriver in outer space. If you continue the program, it\u2019s gonna start twisting."
+        ],
+        [
+            "Raj",
+            "A-All right, um, how about this. When, when Winnie the Pooh got his head stuck in the honey tree, his friends all grabbed onto him and pulled and pulled."
+        ],
+        [
+            "Leonard",
+            "You do what you want, I\u2019m not touching another man\u2019s honey tree."
+        ],
+        [
+            "Raj",
+            "All right, uh, forget pulling. How about we get an electric saw and cut it off?"
+        ],
+        [
+            "Howard",
+            "What? No saws! One circumcision was enough."
+        ],
+        [
+            "Leonard",
+            "How about an acetylene torch?"
+        ],
+        [
+            "Howard",
+            "Okay, I can\u2019t believe this needs to be said out loud. No pulling, no saws, no torches."
+        ],
+        [
+            "Leonard",
+            "Well, then what do you want us to do?"
+        ],
+        [
+            "Howard",
+            "I\u2026"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Howard, I made cookies for you and your little friends!"
+        ],
+        [
+            "Howard",
+            "That\u2019s great, Mom, thanks!"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "I\u2019ll bring them up with some Hawaiian Punch!"
+        ],
+        [
+            "Howard",
+            "Don\u2019t come up here!"
+        ],
+        [
+            "Mrs Wolowitz (off)",
+            "Why not?! Are you ashamed of your mother?!"
+        ],
+        [
+            "Howard",
+            "Yes, but that\u2019s not the point! Get me out of here."
+        ],
+        [
+            "Leonard",
+            "You have any ideas, Raj?"
+        ],
+        [
+            "Raj",
+            "Right now, all I can think about is cookies and Hawaiian Punch."
+        ],
+        [
+            "Scene",
+            "A restaurant."
+        ],
+        [
+            "Penny",
+            "Hey, here\u2019s another possible topic of conversation. This is a big night for Sheldon. Right, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Big night? The winter solstice is a big night. It\u2019s over 14 hours in Southern California."
+        ],
+        [
+            "Amy",
+            "That\u2019s an amusing factoid."
+        ],
+        [
+            "Sheldon",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "No, no. My point is, uh, tonight is Sheldon\u2019s first official date. Discuss."
+        ],
+        [
+            "Amy",
+            "Is this true?"
+        ],
+        [
+            "Sheldon",
+            "Apparently, a semi-incestuous Teens for Jesus Fourth of July Hoedown didn\u2019t count."
+        ],
+        [
+            "Penny",
+            "So, um, Amy, what about you? Do you date much?"
+        ],
+        [
+            "Amy",
+            "Once a year. It\u2019s a deal I made with my mother in exchange for her silence on the matter, as well as the occasional use of her George Foreman Grill that seals in the flavour without the fat. How about you, Penny? Do you go on many dates?"
+        ],
+        [
+            "Penny",
+            "Uh, yeah, I wouldn\u2019t say many. A few. (Sheldon laugh\u2019s strangely). What\u2019s (imitates Sheldon\u2019s laugh)"
+        ],
+        [
+            "Sheldon",
+            "Your characterization of approximately 171 different men as a few."
+        ],
+        [
+            "Penny",
+            "What? Where did you get 171 men?"
+        ],
+        [
+            "Sheldon",
+            "Simple extrapolation. In the three years that I\u2019ve known you, you were single for two. During that time, I saw 17 different suitors. If we work backwards, correcting for observation bias and postulate an initial dating age of 15\u2026"
+        ],
+        [
+            "Penny",
+            "Whoa, wait, wait, wait. I did not start dating at 15."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. 16?"
+        ],
+        [
+            "Penny",
+            "14."
+        ],
+        [
+            "Sheldon",
+            "My mistake. Now, assuming the left side of a bell curve peaking around the present, that would bring the total up to 193 men. Plus or minus eight men."
+        ],
+        [
+            "Amy",
+            "Remarkable. Did you have sexual intercourse with all of these men?"
+        ],
+        [
+            "Penny",
+            "No."
+        ],
+        [
+            "Sheldon",
+            "Although that number would be fairly easy to calculate."
+        ],
+        [
+            "Penny",
+            "Oh."
+        ],
+        [
+            "Sheldon",
+            "Based on the number of awkward encounters I\u2019ve had with strange men leaving her apartment in the morning, plus the number of times she\u2019s returned home wearing the same clothes she wore the night before\u2026"
+        ],
+        [
+            "Penny",
+            "Okay, Sheldon, I think you\u2019ve made your point."
+        ],
+        [
+            "Sheldon",
+            "So we multiply 193, minus 21 men before the loss of virginity, so 172 times 0.18 gives us 30.96 sexual partners. Let\u2019s round that up to 31."
+        ],
+        [
+            "Penny",
+            "Okay, Sheldon, you are so wrong. That is not even close to the real number. I\u2019m gonna need a drink over here."
+        ],
+        [
+            "Amy",
+            "This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?"
+        ],
+        [
+            "Penny",
+            "No! No! No. Let\u2019s just all finish our dinners, okay?"
+        ],
+        [
+            "Sheldon",
+            "This is an interesting topic. How many sexual encounters have you had?"
+        ],
+        [
+            "Amy",
+            "Does volunteering for a scientific experiment in which orgasm was achieved by electronically stimulating the pleasure centres of the brain count?"
+        ],
+        [
+            "Sheldon",
+            "I should think so."
+        ],
+        [
+            "Amy",
+            "Then 128."
+        ],
+        [
+            "Scene",
+            "A hospital,=."
+        ],
+        [
+            "Leonard",
+            "Okay, come on. Almost there."
+        ],
+        [
+            "Howard",
+            "Don\u2019t tug. No tugging."
+        ],
+        [
+            "Raj",
+            "Next time, take your own advice."
+        ],
+        [
+            "Leonard",
+            "Excuse me, could you help us out?"
+        ],
+        [
+            "Nurse",
+            "My, my, my. What do we have here?"
+        ],
+        [
+            "Howard",
+            "I slipped and fell."
+        ],
+        [
+            "Nurse",
+            "Yeah, we get that a lot. What is this?"
+        ],
+        [
+            "Howard",
+            "It\u2019s a robot arm."
+        ],
+        [
+            "Nurse",
+            "Where\u2019s the rest of the robot?"
+        ],
+        [
+            "Howard",
+            "I only built the arm."
+        ],
+        [
+            "Nurse",
+            "\u2018Cause that\u2019s all you needed, right?"
+        ],
+        [
+            "Howard",
+            "Can you please just help me?"
+        ],
+        [
+            "Nurse",
+            "All right, all right. Hang on, stay calm. (Over PA system)  I need an orderly with a wheelchair. I got a robot hand grasping a man\u2019s penis out here."
+        ],
+        [
+            "Howard",
+            "You think you could be a little more discreet?"
+        ],
+        [
+            "Nurse",
+            "I\u2019m sorry, we don\u2019t have a code for robot hand grasping a man\u2019s penis. Why is it hooked up to a computer?"
+        ],
+        [
+            "Leonard",
+            "Uh, it\u2019s what controls the arm."
+        ],
+        [
+            "Howard",
+            "But it\u2019s frozen."
+        ],
+        [
+            "Nurse",
+            "Did you try turning it off and back on again?"
+        ],
+        [
+            "Howard",
+            "No, you see, it\u2019s more complicated than that. (Nurse switches off computer) No, wait! (The hand lets go) Winnie the Pooh is out of the honey tree."
+        ],
+        [
+            "Raj",
+            "Now can we have cookies and Hawaiian Punch?"
+        ],
+        [
+            "Scene",
+            "The stairwell. "
+        ],
+        [
+            "Sheldon",
+            "You were right. This was a very productive evening. I saw a whole new side of Amy Farrah Fowler tonight."
+        ],
+        [
+            "Penny",
+            "I did not have sex with 31 guys."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll be happy to check the math, but numbers don\u2019t lie, Penny. In any event, now that Amy and I have spent quality time together, I feel much more confident proceeding to the next stage of our relationship."
+        ],
+        [
+            "Penny",
+            "And that is?"
+        ],
+        [
+            "Sheldon",
+            "Using in vitro fertilization and a surrogate uterus to gift humanity with our progeny."
+        ],
+        [
+            "Penny",
+            "You\u2019re still on that?"
+        ],
+        [
+            "Sheldon",
+            "In these uncertain times, doesn\u2019t humanity deserve a gift?"
+        ],
+        [
+            "Penny",
+            "Okay, you know what? I\u2019m gonna come at this in a whole new way. Sheldon, if you try to make a baby with Amy in a petri dish, I\u2019m gonna tell your mother on you."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s no threat. My mother\u2019s always wanted a grandchild."
+        ],
+        [
+            "Penny",
+            "Really? Your deeply religious born-again Christian mother wants a test-tube grandbaby born out of wedlock?"
+        ],
+        [
+            "Sheldon",
+            "Curses."
+        ],
+        [
+            "Penny",
+            "If I\u2019d thought of that in the first place, I could\u2019ve saved myself this whole night."
+        ],
+        [
+            "Sheldon",
+            "Well, it\u2019s not that late. You could still go out and look for number 32. Good night."
+        ],
+        [
+            "Leonard (on phone)",
+            "Hey, Howard, what\u2019s up?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve decided not to procreate."
+        ],
+        [
+            "Leonard",
+            "Yeah, yeah, great. Howard, uh, slow down. What do you mean it happened again?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-4-episode-01-the-robotic-manipulation/"
+}

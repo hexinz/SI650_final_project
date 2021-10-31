@@ -1,0 +1,1952 @@
+{
+    "Season": 10,
+    "Episode": 24,
+    "Title": "the long distance dissonance",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Following a \u201cpreviously on\u201d sequence."
+            ],
+            [
+                1,
+                "Sheldon and Amy on skype."
+            ],
+            [
+                19,
+                "Credits sequence."
+            ],
+            [
+                20,
+                "The cafeteria."
+            ],
+            [
+                56,
+                "The apartment. "
+            ],
+            [
+                70,
+                "Sheldon and Amy on skype. "
+            ],
+            [
+                76,
+                "with Dr. Nowitzki."
+            ],
+            [
+                84,
+                "The apartment. "
+            ],
+            [
+                103,
+                "The comic book store. "
+            ],
+            [
+                121,
+                "The cafeteria."
+            ],
+            [
+                132,
+                "The apartment. "
+            ],
+            [
+                146,
+                "The same, later."
+            ],
+            [
+                171,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                189,
+                "The apartment. "
+            ],
+            [
+                208,
+                "The street."
+            ],
+            [
+                212,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                228,
+                "Sheldon\u2019s office. "
+            ],
+            [
+                237,
+                "Princeton. "
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "How are you settling in?"
+            ],
+            [
+                4,
+                "Now, I\u2019ve learned some fun facts about New Jersey to help you make small talk. Would you like to know the state bird or the murder rate? They\u2019re both shocking."
+            ],
+            [
+                6,
+                "Well, I\u2019m a lot less likely to see an Eastern Goldfinch or be murdered, I\u2019ll tell you that."
+            ],
+            [
+                8,
+                "I miss you, too."
+            ],
+            [
+                10,
+                "I\u2019m sorry you had to go through that."
+            ],
+            [
+                12,
+                "You know you just split an infinitive."
+            ],
+            [
+                14,
+                "I am. It is naughty to put an adverb between the word to and the verb stem."
+            ],
+            [
+                16,
+                "I\u2019m going to admonish you."
+            ],
+            [
+                18,
+                "That\u2019s the only kind of admonishing I do."
+            ],
+            [
+                32,
+                "Gentlemen. You may remember Dr. Nowitzki, She\u2019s back at Caltech for her postdoc."
+            ],
+            [
+                36,
+                "Oh, thanks. Dr. Nowitzki\u2019s going to tell me about the work she did at CERN. And she brought me this duty-free Toblerone."
+            ],
+            [
+                38,
+                "Let\u2019s sit somewhere else."
+            ],
+            [
+                45,
+                "So, tell me about your scalar dark energy experiment."
+            ],
+            [
+                47,
+                "Oh. You must be one of those dessert before dinner people."
+            ],
+            [
+                71,
+                "And get this, I saw an articulating ladder with dual-leg leveling, which delivers stability and adaptability to uneven terrain."
+            ],
+            [
+                73,
+                "Yeah. Raj made the funniest joke, he said, which is the best ladder to use to hang myself?"
+            ],
+            [
+                75,
+                "Oh, not at all. I\u2019ve had outings with Leonard and Raj in the evening, and, oh, I had lunch"
+            ],
+            [
+                78,
+                "Oh, Dr. Nowitzki is a woman. "
+            ],
+            [
+                80,
+                "Many years ago. Back when she was a grad student. She\u2019s always been a huge fan of my work, and now she\u2019s doing research at Caltech."
+            ],
+            [
+                82,
+                "Yes. I think you\u2019d like her. She\u2019s extremely intelligent, just like you. Unlike you, she\u2019s tall, blonde and used to be an Olympic swimmer."
+            ],
+            [
+                142,
+                "Hey, everybody. This is my friend, Dr. Nowitzki."
+            ],
+            [
+                145,
+                "We just went swimming."
+            ],
+            [
+                148,
+                "I was scared, but I told myself it\u2019s just a big bathtub. Then I got scared again \u2019cause there are all these strangers in my bathtub."
+            ],
+            [
+                150,
+                "Well, I was hiding from a bee, but it still counts."
+            ],
+            [
+                153,
+                "Yes, we skyped this morning and I\u2019m sure I\u2019ll check in with her before I go to sleep."
+            ],
+            [
+                155,
+                "That is true. She keeps asking how long Amy\u2019s going to be gone."
+            ],
+            [
+                157,
+                "Leonard, your wife is sitting right here. What are you doing?"
+            ],
+            [
+                160,
+                "She was part of the American team at CERN."
+            ],
+            [
+                162,
+                "Do you know, I\u2019ve corresponded with Peter Higgs. Would you like to see some of his letters?"
+            ],
+            [
+                164,
+                "I\u2019ll get them."
+            ],
+            [
+                166,
+                "Oh, fun. Like a play date."
+            ],
+            [
+                172,
+                "Here you go."
+            ],
+            [
+                174,
+                "Hmm? Oh, no, no, no. They\u2019re from many famous people. See? Oh, like this one. This is from Patrick Stewart. It says if I come to his house again, I get to meet his dogs. Oh, excuse me."
+            ],
+            [
+                176,
+                "Oh, hello, Amy."
+            ],
+            [
+                178,
+                "I miss you, too. Hey, this is good timing. Remember that Dr. Nowitzki I told you about? She\u2019s right here."
+            ],
+            [
+                184,
+                "What is Leonard doing calling you at this hour?"
+            ],
+            [
+                186,
+                "I must tell you, that seems a little inappropriate. Don\u2019t you agree?"
+            ],
+            [
+                188,
+                "See? We both think so."
+            ],
+            [
+                197,
+                "Hey, I hate to break up the party, but Amy says I\u2019m tired and have to go to bed."
+            ],
+            [
+                203,
+                "Of course."
+            ],
+            [
+                207,
+                "That was fun. It was like Mario Kart."
+            ],
+            [
+                209,
+                "Bye."
+            ],
+            [
+                211,
+                "What? Is this about Leonard and Amy? I don\u2019t like it either."
+            ],
+            [
+                214,
+                "That doesn\u2019t make any sense. She knows I have a girlfriend."
+            ],
+            [
+                216,
+                "That may be true, but Dr. Nowitzki\u2019s just a friend. In fact, I wouldn\u2019t have even noticed she\u2019s a woman if she hadn\u2019t worn that bathing suit that highlighted her bosom."
+            ],
+            [
+                218,
+                "I already do."
+            ],
+            [
+                220,
+                "Because there\u2019s only one of me, I\u2019m more valuable."
+            ],
+            [
+                222,
+                "Although, Amy\u2019s already taken me out of my package and played with me."
+            ],
+            [
+                224,
+                "Penny, look. I appreciate your concern, but I don\u2019t think that\u2019s what\u2019s happening."
+            ],
+            [
+                226,
+                "I think Dr. Nowitzki is a friendly colleague. I think you and Leonard need to see a marriage counsellor. And I need to update my r\u00e9sum\u00e9 to include swimming as a special skill."
+            ],
+            [
+                230,
+                "Uh, breakfast yes, lunch no. I did have a cough drop, but that really rides the line between sucking and eating."
+            ],
+            [
+                232,
+                "How thoughtful. Thank you."
+            ],
+            [
+                234,
+                "And I with you. Question, are you seeking a romantic relationship with me?"
+            ],
+            [
+                236,
+                "Well, that would raise a number of problems. We\u2019re colleagues. I\u2019m currently in a relation\u2026 Excuse me a moment."
+            ],
+            [
+                238,
+                "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy. Will you marry me?"
+            ]
+        ],
+        "Amy": [
+            [
+                3,
+                "Pretty well. Princeton has a beautiful campus."
+            ],
+            [
+                5,
+                "Actually, I want to hear about you. How are things at home?"
+            ],
+            [
+                7,
+                "I miss you."
+            ],
+            [
+                9,
+                "It\u2019s so strange, earlier today I ended a sentence with a preposition and you weren\u2019t there to correct my grammar."
+            ],
+            [
+                11,
+                "In fact, that\u2019s when I started to really miss you."
+            ],
+            [
+                13,
+                "Did I? Are you gonna teach me a lesson?"
+            ],
+            [
+                15,
+                "What are you gonna do about it?"
+            ],
+            [
+                17,
+                "Vigorously?"
+            ],
+            [
+                72,
+                "Sounds like a big night."
+            ],
+            [
+                74,
+                "So you\u2019re keeping busy? You\u2019re not lonely?"
+            ],
+            [
+                77,
+                "Who\u2019s he?"
+            ],
+            [
+                79,
+                "Oh. Really? Uh, when did you meet her?"
+            ],
+            [
+                81,
+                "Huge fan, you say?"
+            ],
+            [
+                83,
+                "That\u2019s terrific. I\u2019ll call you right back."
+            ],
+            [
+                86,
+                "I gave you one job. Keep an eye on him. How hard is that?"
+            ],
+            [
+                89,
+                "Why didn\u2019t you tell me?"
+            ],
+            [
+                91,
+                "Should I worry?"
+            ],
+            [
+                93,
+                "That\u2019s what you said to me when I started dating him. And then five years later, bingo bango, something happened."
+            ],
+            [
+                95,
+                "You don\u2019t get it. I\u2019ve been smacking that ketchup bottle for a long time. All she\u2019s got to do is tip it over and point it at her fries."
+            ],
+            [
+                97,
+                "I don\u2019t know. Might be the New Jersey talking, but this Nowitzki broad needs to disappear."
+            ],
+            [
+                99,
+                "Yeah, but one of those scientists is a tall, blonde Olympic swimmer."
+            ],
+            [
+                101,
+                "Nice try."
+            ],
+            [
+                175,
+                "Hello, Sheldon."
+            ],
+            [
+                177,
+                "I was missing you again."
+            ],
+            [
+                179,
+                "She\u2019s what?"
+            ],
+            [
+                181,
+                "Hi."
+            ],
+            [
+                183,
+                "Uh-huh. Hang on. (answering phone) Hello. A little late, Leonard. Sorry."
+            ],
+            [
+                185,
+                "It\u2019s not important."
+            ]
+        ],
+        "Howard": [
+            [
+                21,
+                "How\u2019s Sheldon doing with Amy gone?"
+            ],
+            [
+                25,
+                "If you\u2019d like, we can help you out."
+            ],
+            [
+                27,
+                "I mean, not me, I\u2019ve got a wife and child, but this one posts video of himself flossing on Instagram."
+            ],
+            [
+                40,
+                "A stranger just lured Sheldon away with a candy bar."
+            ],
+            [
+                42,
+                "Oh, yeah. Back before he hit puberty and grew man parts."
+            ],
+            [
+                50,
+                "Yeah. Like Bernadette used to look at me."
+            ],
+            [
+                53,
+                "Okay, the simplest explanation is usually the right one."
+            ],
+            [
+                55,
+                "That ain\u2019t Sheldon."
+            ],
+            [
+                104,
+                "It\u2019s unbelievable. Sheldon has lunch with another woman and somehow my wife yells at me."
+            ],
+            [
+                110,
+                "Guys. Focus. Should we do something about Nowitzki?"
+            ],
+            [
+                116,
+                "She\u2019s not that kind of doctor."
+            ],
+            [
+                119,
+                "Great. Anybody\u2019s better than, mmm."
+            ],
+            [
+                127,
+                "We should call Guinness, that might be a record."
+            ],
+            [
+                195,
+                "You done trying to make yourself feel better?"
+            ]
+        ],
+        "Leonard": [
+            [
+                22,
+                "Well, the last three nights I\u2019ve had to take him to get a haircut, to the train store, and to a Walgreens in Arcadia where they still have the good ibuprofen. Now ask me how I\u2019m doing with Amy gone."
+            ],
+            [
+                24,
+                "Shut up."
+            ],
+            [
+                26,
+                "Oh, that would be great."
+            ],
+            [
+                29,
+                "Great. Tonight he wants to look at ladders at Home Depot."
+            ],
+            [
+                34,
+                "Hello."
+            ],
+            [
+                37,
+                "Oh. I love those."
+            ],
+            [
+                41,
+                "Wait, isn\u2019t she the grad student that used to follow him around?"
+            ],
+            [
+                44,
+                "Knowing Sheldon, nothing."
+            ],
+            [
+                48,
+                "He just made her laugh, something\u2019s wrong."
+            ],
+            [
+                52,
+                "Ah, did you see that? She just touched his hand and he didn\u2019t swat it away. What is happening?"
+            ],
+            [
+                105,
+                "Penny laid into me, too. Apparently, I\u2019m overly fixated on premium Swiss chocolate bars."
+            ],
+            [
+                107,
+                "If I take a Lactaid a half-hour before and some Pepto right after."
+            ],
+            [
+                109,
+                "Eh, I\u2019m worth it."
+            ],
+            [
+                111,
+                "Like what?"
+            ],
+            [
+                114,
+                "No offence, Stuart, but the woman\u2019s a doctor."
+            ],
+            [
+                131,
+                "You kept walking. I think you did."
+            ],
+            [
+                134,
+                "Yeah, she\u2019s definitely going after Sheldon."
+            ],
+            [
+                147,
+                "And you actually got in a pool?"
+            ],
+            [
+                156,
+                "Uh, so, Ramona, tell us about yourself. Do you, do you have a boyfriend?"
+            ],
+            [
+                169,
+                "You think you should call Amy?"
+            ],
+            [
+                191,
+                "You got feet and legs, you do it."
+            ],
+            [
+                200,
+                "Our pleasure."
+            ]
+        ],
+        "Raj": [
+            [
+                23,
+                "How are you doing with\u2026"
+            ],
+            [
+                28,
+                "It was a tutorial. And yes, I\u2019m happy to keep Sheldon company."
+            ],
+            [
+                30,
+                "Oh, why does he need a ladder?"
+            ],
+            [
+                35,
+                "Hi. Oh, let me bring a chair for you. "
+            ],
+            [
+                39,
+                "What just happened?"
+            ],
+            [
+                43,
+                "So what do you guys think that\u2019s about?"
+            ],
+            [
+                49,
+                "Do you see the way she\u2019s looking at him?"
+            ],
+            [
+                51,
+                "I keep telling you, close the bathroom door."
+            ],
+            [
+                54,
+                "Which is?"
+            ],
+            [
+                106,
+                "Can you even eat those things?"
+            ],
+            [
+                108,
+                "Sounds like a lot of work."
+            ],
+            [
+                112,
+                "Uh, well, she\u2019s single, so if somebody else asks her out and she says yes, then we know she\u2019s not into Sheldon."
+            ],
+            [
+                118,
+                "Actually, I was going to suggest me."
+            ],
+            [
+                122,
+                "Dr. Nowitzki. Good to see you."
+            ],
+            [
+                124,
+                "May I join you?"
+            ],
+            [
+                126,
+                "Good to see you."
+            ],
+            [
+                128,
+                "She\u2019s clearly having a working lunch and preferred to eat alone."
+            ],
+            [
+                130,
+                "I could have made her very happy."
+            ],
+            [
+                135,
+                "I made a play for her and she shot me down."
+            ],
+            [
+                138,
+                "Like, really, a million?"
+            ],
+            [
+                140,
+                "Thank you."
+            ],
+            [
+                159,
+                "I think you made that very clear."
+            ],
+            [
+                194,
+                "We\u2019re being ridiculous. There\u2019s no way a woman that attractive is trying to seduce Sheldon Cooper."
+            ],
+            [
+                196,
+                "No. I haven\u2019t played the race card yet."
+            ],
+            [
+                201,
+                "Whatever."
+            ]
+        ],
+        "Leonard: He doesn\u2019t": [
+            [
+                31,
+                "he just likes looking at them. Bring a book."
+            ]
+        ],
+        "Ramona Nowitzki": [
+            [
+                33,
+                "Hello."
+            ]
+        ],
+        "Ramona": [
+            [
+                46,
+                "Not \u2019til you tell me about your latest paper on quantum loop theory."
+            ],
+            [
+                123,
+                "Good to see you, too."
+            ],
+            [
+                125,
+                "No."
+            ],
+            [
+                129,
+                "Dr. Cooper, over here."
+            ],
+            [
+                143,
+                "Hi."
+            ],
+            [
+                149,
+                "I was proud of him, a lot of people don\u2019t put their face in the water on the first day."
+            ],
+            [
+                154,
+                "Sheldon talks about her all the time. I can\u2019t wait to meet her."
+            ],
+            [
+                158,
+                "No, my work doesn\u2019t leave me a lot of time for relationships."
+            ],
+            [
+                161,
+                "I had a front row seat when they detected the Higgs boson. "
+            ],
+            [
+                163,
+                "Absolutely."
+            ],
+            [
+                165,
+                "Well, hang on, I\u2019ll come with you."
+            ],
+            [
+                173,
+                "Are these all from Peter Higgs?"
+            ],
+            [
+                180,
+                "Hello."
+            ],
+            [
+                182,
+                "So nice to meet you."
+            ],
+            [
+                187,
+                "I do."
+            ],
+            [
+                198,
+                "It was nice seeing everybody. Thank you for dinner."
+            ],
+            [
+                202,
+                "Walk me to my car?"
+            ],
+            [
+                229,
+                "Hey, did you eat yet?"
+            ],
+            [
+                231,
+                "Well, perfect. I made us sandwiches."
+            ],
+            [
+                233,
+                "Mmm. No big deal, I enjoy spending time with you."
+            ],
+            [
+                235,
+                "What if I were?"
+            ]
+        ],
+        "Penny": [
+            [
+                57,
+                "Not only did they eat together, Leonard said he made her laugh."
+            ],
+            [
+                59,
+                "Did he Purell?"
+            ],
+            [
+                61,
+                "I cannot believe Leonard mentioned the Toblerone but left that part out."
+            ],
+            [
+                65,
+                "Yeah. Do you think living with Amy has somehow stirred up Sheldon\u2019s sexual appetite?"
+            ],
+            [
+                67,
+                "All right, then we agree. He\u2019s not making any moves, it\u2019s this Dr. Ramona chick."
+            ],
+            [
+                69,
+                "Really? All I got from Leonard was the Toblerone bar had nuts."
+            ],
+            [
+                87,
+                "We thought you meant not letting him run out into traffic."
+            ],
+            [
+                92,
+                "No. Come on, it\u2019s Sheldon. Nothing is gonna happen."
+            ],
+            [
+                96,
+                "Well, what do you want us to do?"
+            ],
+            [
+                100,
+                "Come on. Looks don\u2019t matter to Sheldon. Because he only has eyes for you."
+            ],
+            [
+                102,
+                "Thanks. I was scrambling."
+            ],
+            [
+                133,
+                "Do you really think there\u2019s reason to worry?"
+            ],
+            [
+                136,
+                "All right, well, that doesn\u2019t prove anything."
+            ],
+            [
+                141,
+                "The point is this could be nothing and we are all overreacting."
+            ],
+            [
+                152,
+                "So, Sheldon, have you talked to Amy?"
+            ],
+            [
+                167,
+                "Okay, correct me if I\u2019m wrong, but isn\u2019t that exactly what we were supposed to stop from happening?"
+            ],
+            [
+                170,
+                "You got fingers and a mouth, you call her."
+            ],
+            [
+                190,
+                "All right, this is making me crazy. Somebody\u2019s got to go over there."
+            ],
+            [
+                192,
+                "Will you go with me?"
+            ],
+            [
+                199,
+                "Sure."
+            ],
+            [
+                204,
+                "We\u2019ll all go."
+            ],
+            [
+                206,
+                "Pardon. I just need to., yeah."
+            ],
+            [
+                210,
+                "We need to talk."
+            ],
+            [
+                213,
+                "Okay, I know you don\u2019t have a lot of experience with women, but Ramona seems to have a romantic interest in you."
+            ],
+            [
+                215,
+                "Well, sometimes women don\u2019t care. Sometimes it makes them want a guy even more."
+            ],
+            [
+                217,
+                "Okay. Um, let\u2019s try this. Think of yourself as one of those limited edition toys people like to collect."
+            ],
+            [
+                219,
+                "Well, then you get it."
+            ],
+            [
+                221,
+                "Right."
+            ],
+            [
+                223,
+                "Let\u2019s forget the toy thing, okay? Um, maybe\u2026"
+            ],
+            [
+                225,
+                "All right. What do you think is happening?"
+            ],
+            [
+                227,
+                "Don\u2019t look at me like that, I tried."
+            ]
+        ],
+        "Bernadette": [
+            [
+                58,
+                "That\u2019s nothing, Howie said she touched his hand."
+            ],
+            [
+                60,
+                "No."
+            ],
+            [
+                62,
+                "Should we call Amy?"
+            ],
+            [
+                64,
+                "I guess we could wait till we have more information about this girl."
+            ],
+            [
+                66,
+                "Ugh. How can you think that? Why would you even put those words together?"
+            ],
+            [
+                68,
+                "Nowitzki. I googled her, she\u2019s pretty cute."
+            ],
+            [
+                88,
+                "Which he only did once."
+            ],
+            [
+                90,
+                "We didn\u2019t want you to worry."
+            ],
+            [
+                94,
+                "Yeah, but you\u2019re gonna be back in three months."
+            ],
+            [
+                98,
+                "That\u2019s ridiculous. As far as we know, all that happened is two scientists had lunch."
+            ],
+            [
+                137,
+                "Yeah, there\u2019s a million reasons a woman would shoot Raj down."
+            ],
+            [
+                139,
+                "Fine, hundreds."
+            ],
+            [
+                151,
+                "Can I just squeeze in here?"
+            ],
+            [
+                168,
+                "I threw my body at them, what else did you want me to do?"
+            ],
+            [
+                193,
+                "To do what? Shake a can of nickels at them?"
+            ],
+            [
+                205,
+                "Excuse me."
+            ]
+        ],
+        "Penny: I don\u2019t know": [
+            [
+                63,
+                "we shouldn\u2019t worry her if it\u2019s nothing."
+            ]
+        ],
+        "Penny (answering skype)": [
+            [
+                85,
+                "Oh, hey, Amy."
+            ]
+        ],
+        "Stuart": [
+            [
+                113,
+                "I\u2019ll do it."
+            ],
+            [
+                115,
+                "So? Doctors like me. Whenever I see mine he calls in a bunch of other doctors to have a look."
+            ],
+            [
+                117,
+                "Oh. Well, her loss. I\u2019ve been called a genuine medical oddity."
+            ],
+            [
+                120,
+                "Excuse me. They took out my spleen and gallbladder, not my feelings."
+            ]
+        ],
+        "All": [
+            [
+                144,
+                "Hi."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Following a \u201cpreviously on\u201d sequence."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy on skype."
+        ],
+        [
+            "Sheldon",
+            "How are you settling in?"
+        ],
+        [
+            "Amy",
+            "Pretty well. Princeton has a beautiful campus."
+        ],
+        [
+            "Sheldon",
+            "Now, I\u2019ve learned some fun facts about New Jersey to help you make small talk. Would you like to know the state bird or the murder rate? They\u2019re both shocking."
+        ],
+        [
+            "Amy",
+            "Actually, I want to hear about you. How are things at home?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019m a lot less likely to see an Eastern Goldfinch or be murdered, I\u2019ll tell you that."
+        ],
+        [
+            "Amy",
+            "I miss you."
+        ],
+        [
+            "Sheldon",
+            "I miss you, too."
+        ],
+        [
+            "Amy",
+            "It\u2019s so strange, earlier today I ended a sentence with a preposition and you weren\u2019t there to correct my grammar."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry you had to go through that."
+        ],
+        [
+            "Amy",
+            "In fact, that\u2019s when I started to really miss you."
+        ],
+        [
+            "Sheldon",
+            "You know you just split an infinitive."
+        ],
+        [
+            "Amy",
+            "Did I? Are you gonna teach me a lesson?"
+        ],
+        [
+            "Sheldon",
+            "I am. It is naughty to put an adverb between the word to and the verb stem."
+        ],
+        [
+            "Amy",
+            "What are you gonna do about it?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m going to admonish you."
+        ],
+        [
+            "Amy",
+            "Vigorously?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s the only kind of admonishing I do."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Howard",
+            "How\u2019s Sheldon doing with Amy gone?"
+        ],
+        [
+            "Leonard",
+            "Well, the last three nights I\u2019ve had to take him to get a haircut, to the train store, and to a Walgreens in Arcadia where they still have the good ibuprofen. Now ask me how I\u2019m doing with Amy gone."
+        ],
+        [
+            "Raj",
+            "How are you doing with\u2026"
+        ],
+        [
+            "Leonard",
+            "Shut up."
+        ],
+        [
+            "Howard",
+            "If you\u2019d like, we can help you out."
+        ],
+        [
+            "Leonard",
+            "Oh, that would be great."
+        ],
+        [
+            "Howard",
+            "I mean, not me, I\u2019ve got a wife and child, but this one posts video of himself flossing on Instagram."
+        ],
+        [
+            "Raj",
+            "It was a tutorial. And yes, I\u2019m happy to keep Sheldon company."
+        ],
+        [
+            "Leonard",
+            "Great. Tonight he wants to look at ladders at Home Depot."
+        ],
+        [
+            "Raj",
+            "Oh, why does he need a ladder?"
+        ],
+        [
+            "Leonard: He doesn\u2019t",
+            "he just likes looking at them. Bring a book."
+        ],
+        [
+            "Sheldon",
+            "Gentlemen. You may remember Dr. Nowitzki, She\u2019s back at Caltech for her postdoc."
+        ],
+        [
+            "Ramona Nowitzki",
+            "Hello."
+        ],
+        [
+            "Leonard",
+            "Hello."
+        ],
+        [
+            "Raj",
+            "Hi. Oh, let me bring a chair for you. "
+        ],
+        [
+            "Sheldon",
+            "Oh, thanks. Dr. Nowitzki\u2019s going to tell me about the work she did at CERN. And she brought me this duty-free Toblerone."
+        ],
+        [
+            "Leonard",
+            "Oh. I love those."
+        ],
+        [
+            "Sheldon",
+            "Let\u2019s sit somewhere else."
+        ],
+        [
+            "Raj",
+            "What just happened?"
+        ],
+        [
+            "Howard",
+            "A stranger just lured Sheldon away with a candy bar."
+        ],
+        [
+            "Leonard",
+            "Wait, isn\u2019t she the grad student that used to follow him around?"
+        ],
+        [
+            "Howard",
+            "Oh, yeah. Back before he hit puberty and grew man parts."
+        ],
+        [
+            "Raj",
+            "So what do you guys think that\u2019s about?"
+        ],
+        [
+            "Leonard",
+            "Knowing Sheldon, nothing."
+        ],
+        [
+            "Sheldon",
+            "So, tell me about your scalar dark energy experiment."
+        ],
+        [
+            "Ramona",
+            "Not \u2019til you tell me about your latest paper on quantum loop theory."
+        ],
+        [
+            "Sheldon",
+            "Oh. You must be one of those dessert before dinner people."
+        ],
+        [
+            "Leonard",
+            "He just made her laugh, something\u2019s wrong."
+        ],
+        [
+            "Raj",
+            "Do you see the way she\u2019s looking at him?"
+        ],
+        [
+            "Howard",
+            "Yeah. Like Bernadette used to look at me."
+        ],
+        [
+            "Raj",
+            "I keep telling you, close the bathroom door."
+        ],
+        [
+            "Leonard",
+            "Ah, did you see that? She just touched his hand and he didn\u2019t swat it away. What is happening?"
+        ],
+        [
+            "Howard",
+            "Okay, the simplest explanation is usually the right one."
+        ],
+        [
+            "Raj",
+            "Which is?"
+        ],
+        [
+            "Howard",
+            "That ain\u2019t Sheldon."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Not only did they eat together, Leonard said he made her laugh."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s nothing, Howie said she touched his hand."
+        ],
+        [
+            "Penny",
+            "Did he Purell?"
+        ],
+        [
+            "Bernadette",
+            "No."
+        ],
+        [
+            "Penny",
+            "I cannot believe Leonard mentioned the Toblerone but left that part out."
+        ],
+        [
+            "Bernadette",
+            "Should we call Amy?"
+        ],
+        [
+            "Penny: I don\u2019t know",
+            "we shouldn\u2019t worry her if it\u2019s nothing."
+        ],
+        [
+            "Bernadette",
+            "I guess we could wait till we have more information about this girl."
+        ],
+        [
+            "Penny",
+            "Yeah. Do you think living with Amy has somehow stirred up Sheldon\u2019s sexual appetite?"
+        ],
+        [
+            "Bernadette",
+            "Ugh. How can you think that? Why would you even put those words together?"
+        ],
+        [
+            "Penny",
+            "All right, then we agree. He\u2019s not making any moves, it\u2019s this Dr. Ramona chick."
+        ],
+        [
+            "Bernadette",
+            "Nowitzki. I googled her, she\u2019s pretty cute."
+        ],
+        [
+            "Penny",
+            "Really? All I got from Leonard was the Toblerone bar had nuts."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy on skype. "
+        ],
+        [
+            "Sheldon",
+            "And get this, I saw an articulating ladder with dual-leg leveling, which delivers stability and adaptability to uneven terrain."
+        ],
+        [
+            "Amy",
+            "Sounds like a big night."
+        ],
+        [
+            "Sheldon",
+            "Yeah. Raj made the funniest joke, he said, which is the best ladder to use to hang myself?"
+        ],
+        [
+            "Amy",
+            "So you\u2019re keeping busy? You\u2019re not lonely?"
+        ],
+        [
+            "Sheldon",
+            "Oh, not at all. I\u2019ve had outings with Leonard and Raj in the evening, and, oh, I had lunch"
+        ],
+        [
+            "Scene",
+            "with Dr. Nowitzki."
+        ],
+        [
+            "Amy",
+            "Who\u2019s he?"
+        ],
+        [
+            "Sheldon",
+            "Oh, Dr. Nowitzki is a woman. "
+        ],
+        [
+            "Amy",
+            "Oh. Really? Uh, when did you meet her?"
+        ],
+        [
+            "Sheldon",
+            "Many years ago. Back when she was a grad student. She\u2019s always been a huge fan of my work, and now she\u2019s doing research at Caltech."
+        ],
+        [
+            "Amy",
+            "Huge fan, you say?"
+        ],
+        [
+            "Sheldon",
+            "Yes. I think you\u2019d like her. She\u2019s extremely intelligent, just like you. Unlike you, she\u2019s tall, blonde and used to be an Olympic swimmer."
+        ],
+        [
+            "Amy",
+            "That\u2019s terrific. I\u2019ll call you right back."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny (answering skype)",
+            "Oh, hey, Amy."
+        ],
+        [
+            "Amy",
+            "I gave you one job. Keep an eye on him. How hard is that?"
+        ],
+        [
+            "Penny",
+            "We thought you meant not letting him run out into traffic."
+        ],
+        [
+            "Bernadette",
+            "Which he only did once."
+        ],
+        [
+            "Amy",
+            "Why didn\u2019t you tell me?"
+        ],
+        [
+            "Bernadette",
+            "We didn\u2019t want you to worry."
+        ],
+        [
+            "Amy",
+            "Should I worry?"
+        ],
+        [
+            "Penny",
+            "No. Come on, it\u2019s Sheldon. Nothing is gonna happen."
+        ],
+        [
+            "Amy",
+            "That\u2019s what you said to me when I started dating him. And then five years later, bingo bango, something happened."
+        ],
+        [
+            "Bernadette",
+            "Yeah, but you\u2019re gonna be back in three months."
+        ],
+        [
+            "Amy",
+            "You don\u2019t get it. I\u2019ve been smacking that ketchup bottle for a long time. All she\u2019s got to do is tip it over and point it at her fries."
+        ],
+        [
+            "Penny",
+            "Well, what do you want us to do?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know. Might be the New Jersey talking, but this Nowitzki broad needs to disappear."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s ridiculous. As far as we know, all that happened is two scientists had lunch."
+        ],
+        [
+            "Amy",
+            "Yeah, but one of those scientists is a tall, blonde Olympic swimmer."
+        ],
+        [
+            "Penny",
+            "Come on. Looks don\u2019t matter to Sheldon. Because he only has eyes for you."
+        ],
+        [
+            "Amy",
+            "Nice try."
+        ],
+        [
+            "Penny",
+            "Thanks. I was scrambling."
+        ],
+        [
+            "Scene",
+            "The comic book store. "
+        ],
+        [
+            "Howard",
+            "It\u2019s unbelievable. Sheldon has lunch with another woman and somehow my wife yells at me."
+        ],
+        [
+            "Leonard",
+            "Penny laid into me, too. Apparently, I\u2019m overly fixated on premium Swiss chocolate bars."
+        ],
+        [
+            "Raj",
+            "Can you even eat those things?"
+        ],
+        [
+            "Leonard",
+            "If I take a Lactaid a half-hour before and some Pepto right after."
+        ],
+        [
+            "Raj",
+            "Sounds like a lot of work."
+        ],
+        [
+            "Leonard",
+            "Eh, I\u2019m worth it."
+        ],
+        [
+            "Howard",
+            "Guys. Focus. Should we do something about Nowitzki?"
+        ],
+        [
+            "Leonard",
+            "Like what?"
+        ],
+        [
+            "Raj",
+            "Uh, well, she\u2019s single, so if somebody else asks her out and she says yes, then we know she\u2019s not into Sheldon."
+        ],
+        [
+            "Stuart",
+            "I\u2019ll do it."
+        ],
+        [
+            "Leonard",
+            "No offence, Stuart, but the woman\u2019s a doctor."
+        ],
+        [
+            "Stuart",
+            "So? Doctors like me. Whenever I see mine he calls in a bunch of other doctors to have a look."
+        ],
+        [
+            "Howard",
+            "She\u2019s not that kind of doctor."
+        ],
+        [
+            "Stuart",
+            "Oh. Well, her loss. I\u2019ve been called a genuine medical oddity."
+        ],
+        [
+            "Raj",
+            "Actually, I was going to suggest me."
+        ],
+        [
+            "Howard",
+            "Great. Anybody\u2019s better than, mmm."
+        ],
+        [
+            "Stuart",
+            "Excuse me. They took out my spleen and gallbladder, not my feelings."
+        ],
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Raj",
+            "Dr. Nowitzki. Good to see you."
+        ],
+        [
+            "Ramona",
+            "Good to see you, too."
+        ],
+        [
+            "Raj",
+            "May I join you?"
+        ],
+        [
+            "Ramona",
+            "No."
+        ],
+        [
+            "Raj",
+            "Good to see you."
+        ],
+        [
+            "Howard",
+            "We should call Guinness, that might be a record."
+        ],
+        [
+            "Raj",
+            "She\u2019s clearly having a working lunch and preferred to eat alone."
+        ],
+        [
+            "Ramona",
+            "Dr. Cooper, over here."
+        ],
+        [
+            "Raj",
+            "I could have made her very happy."
+        ],
+        [
+            "Leonard",
+            "You kept walking. I think you did."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Do you really think there\u2019s reason to worry?"
+        ],
+        [
+            "Leonard",
+            "Yeah, she\u2019s definitely going after Sheldon."
+        ],
+        [
+            "Raj",
+            "I made a play for her and she shot me down."
+        ],
+        [
+            "Penny",
+            "All right, well, that doesn\u2019t prove anything."
+        ],
+        [
+            "Bernadette",
+            "Yeah, there\u2019s a million reasons a woman would shoot Raj down."
+        ],
+        [
+            "Raj",
+            "Like, really, a million?"
+        ],
+        [
+            "Bernadette",
+            "Fine, hundreds."
+        ],
+        [
+            "Raj",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "The point is this could be nothing and we are all overreacting."
+        ],
+        [
+            "Sheldon",
+            "Hey, everybody. This is my friend, Dr. Nowitzki."
+        ],
+        [
+            "Ramona",
+            "Hi."
+        ],
+        [
+            "All",
+            "Hi."
+        ],
+        [
+            "Sheldon",
+            "We just went swimming."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Leonard",
+            "And you actually got in a pool?"
+        ],
+        [
+            "Sheldon",
+            "I was scared, but I told myself it\u2019s just a big bathtub. Then I got scared again \u2019cause there are all these strangers in my bathtub."
+        ],
+        [
+            "Ramona",
+            "I was proud of him, a lot of people don\u2019t put their face in the water on the first day."
+        ],
+        [
+            "Sheldon",
+            "Well, I was hiding from a bee, but it still counts."
+        ],
+        [
+            "Bernadette",
+            "Can I just squeeze in here?"
+        ],
+        [
+            "Penny",
+            "So, Sheldon, have you talked to Amy?"
+        ],
+        [
+            "Sheldon",
+            "Yes, we skyped this morning and I\u2019m sure I\u2019ll check in with her before I go to sleep."
+        ],
+        [
+            "Ramona",
+            "Sheldon talks about her all the time. I can\u2019t wait to meet her."
+        ],
+        [
+            "Sheldon",
+            "That is true. She keeps asking how long Amy\u2019s going to be gone."
+        ],
+        [
+            "Leonard",
+            "Uh, so, Ramona, tell us about yourself. Do you, do you have a boyfriend?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, your wife is sitting right here. What are you doing?"
+        ],
+        [
+            "Ramona",
+            "No, my work doesn\u2019t leave me a lot of time for relationships."
+        ],
+        [
+            "Raj",
+            "I think you made that very clear."
+        ],
+        [
+            "Sheldon",
+            "She was part of the American team at CERN."
+        ],
+        [
+            "Ramona",
+            "I had a front row seat when they detected the Higgs boson. "
+        ],
+        [
+            "Sheldon",
+            "Do you know, I\u2019ve corresponded with Peter Higgs. Would you like to see some of his letters?"
+        ],
+        [
+            "Ramona",
+            "Absolutely."
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll get them."
+        ],
+        [
+            "Ramona",
+            "Well, hang on, I\u2019ll come with you."
+        ],
+        [
+            "Sheldon",
+            "Oh, fun. Like a play date."
+        ],
+        [
+            "Penny",
+            "Okay, correct me if I\u2019m wrong, but isn\u2019t that exactly what we were supposed to stop from happening?"
+        ],
+        [
+            "Bernadette",
+            "I threw my body at them, what else did you want me to do?"
+        ],
+        [
+            "Leonard",
+            "You think you should call Amy?"
+        ],
+        [
+            "Penny",
+            "You got fingers and a mouth, you call her."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Sheldon",
+            "Here you go."
+        ],
+        [
+            "Ramona",
+            "Are these all from Peter Higgs?"
+        ],
+        [
+            "Sheldon",
+            "Hmm? Oh, no, no, no. They\u2019re from many famous people. See? Oh, like this one. This is from Patrick Stewart. It says if I come to his house again, I get to meet his dogs. Oh, excuse me."
+        ],
+        [
+            "Amy",
+            "Hello, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Oh, hello, Amy."
+        ],
+        [
+            "Amy",
+            "I was missing you again."
+        ],
+        [
+            "Sheldon",
+            "I miss you, too. Hey, this is good timing. Remember that Dr. Nowitzki I told you about? She\u2019s right here."
+        ],
+        [
+            "Amy",
+            "She\u2019s what?"
+        ],
+        [
+            "Ramona",
+            "Hello."
+        ],
+        [
+            "Amy",
+            "Hi."
+        ],
+        [
+            "Ramona",
+            "So nice to meet you."
+        ],
+        [
+            "Amy",
+            "Uh-huh. Hang on. (answering phone) Hello. A little late, Leonard. Sorry."
+        ],
+        [
+            "Sheldon",
+            "What is Leonard doing calling you at this hour?"
+        ],
+        [
+            "Amy",
+            "It\u2019s not important."
+        ],
+        [
+            "Sheldon",
+            "I must tell you, that seems a little inappropriate. Don\u2019t you agree?"
+        ],
+        [
+            "Ramona",
+            "I do."
+        ],
+        [
+            "Sheldon",
+            "See? We both think so."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "All right, this is making me crazy. Somebody\u2019s got to go over there."
+        ],
+        [
+            "Leonard",
+            "You got feet and legs, you do it."
+        ],
+        [
+            "Penny",
+            "Will you go with me?"
+        ],
+        [
+            "Bernadette",
+            "To do what? Shake a can of nickels at them?"
+        ],
+        [
+            "Raj",
+            "We\u2019re being ridiculous. There\u2019s no way a woman that attractive is trying to seduce Sheldon Cooper."
+        ],
+        [
+            "Howard",
+            "You done trying to make yourself feel better?"
+        ],
+        [
+            "Raj",
+            "No. I haven\u2019t played the race card yet."
+        ],
+        [
+            "Sheldon",
+            "Hey, I hate to break up the party, but Amy says I\u2019m tired and have to go to bed."
+        ],
+        [
+            "Ramona",
+            "It was nice seeing everybody. Thank you for dinner."
+        ],
+        [
+            "Penny",
+            "Sure."
+        ],
+        [
+            "Leonard",
+            "Our pleasure."
+        ],
+        [
+            "Raj",
+            "Whatever."
+        ],
+        [
+            "Ramona",
+            "Walk me to my car?"
+        ],
+        [
+            "Sheldon",
+            "Of course."
+        ],
+        [
+            "Penny",
+            "We\u2019ll all go."
+        ],
+        [
+            "Bernadette",
+            "Excuse me."
+        ],
+        [
+            "Penny",
+            "Pardon. I just need to., yeah."
+        ],
+        [
+            "Sheldon",
+            "That was fun. It was like Mario Kart."
+        ],
+        [
+            "Scene",
+            "The street."
+        ],
+        [
+            "Sheldon",
+            "Bye."
+        ],
+        [
+            "Penny",
+            "We need to talk."
+        ],
+        [
+            "Sheldon",
+            "What? Is this about Leonard and Amy? I don\u2019t like it either."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Penny",
+            "Okay, I know you don\u2019t have a lot of experience with women, but Ramona seems to have a romantic interest in you."
+        ],
+        [
+            "Sheldon",
+            "That doesn\u2019t make any sense. She knows I have a girlfriend."
+        ],
+        [
+            "Penny",
+            "Well, sometimes women don\u2019t care. Sometimes it makes them want a guy even more."
+        ],
+        [
+            "Sheldon",
+            "That may be true, but Dr. Nowitzki\u2019s just a friend. In fact, I wouldn\u2019t have even noticed she\u2019s a woman if she hadn\u2019t worn that bathing suit that highlighted her bosom."
+        ],
+        [
+            "Penny",
+            "Okay. Um, let\u2019s try this. Think of yourself as one of those limited edition toys people like to collect."
+        ],
+        [
+            "Sheldon",
+            "I already do."
+        ],
+        [
+            "Penny",
+            "Well, then you get it."
+        ],
+        [
+            "Sheldon",
+            "Because there\u2019s only one of me, I\u2019m more valuable."
+        ],
+        [
+            "Penny",
+            "Right."
+        ],
+        [
+            "Sheldon",
+            "Although, Amy\u2019s already taken me out of my package and played with me."
+        ],
+        [
+            "Penny",
+            "Let\u2019s forget the toy thing, okay? Um, maybe\u2026"
+        ],
+        [
+            "Sheldon",
+            "Penny, look. I appreciate your concern, but I don\u2019t think that\u2019s what\u2019s happening."
+        ],
+        [
+            "Penny",
+            "All right. What do you think is happening?"
+        ],
+        [
+            "Sheldon",
+            "I think Dr. Nowitzki is a friendly colleague. I think you and Leonard need to see a marriage counsellor. And I need to update my r\u00e9sum\u00e9 to include swimming as a special skill."
+        ],
+        [
+            "Penny",
+            "Don\u2019t look at me like that, I tried."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s office. "
+        ],
+        [
+            "Ramona",
+            "Hey, did you eat yet?"
+        ],
+        [
+            "Sheldon",
+            "Uh, breakfast yes, lunch no. I did have a cough drop, but that really rides the line between sucking and eating."
+        ],
+        [
+            "Ramona",
+            "Well, perfect. I made us sandwiches."
+        ],
+        [
+            "Sheldon",
+            "How thoughtful. Thank you."
+        ],
+        [
+            "Ramona",
+            "Mmm. No big deal, I enjoy spending time with you."
+        ],
+        [
+            "Sheldon",
+            "And I with you. Question, are you seeking a romantic relationship with me?"
+        ],
+        [
+            "Ramona",
+            "What if I were?"
+        ],
+        [
+            "Sheldon",
+            "Well, that would raise a number of problems. We\u2019re colleagues. I\u2019m currently in a relation\u2026 Excuse me a moment."
+        ],
+        [
+            "Scene",
+            "Princeton. "
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy. Will you marry me?"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-24-the-long-distance-dissonance/"
+}

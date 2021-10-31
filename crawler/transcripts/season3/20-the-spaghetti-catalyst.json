@@ -1,0 +1,2092 @@
+{
+    "Season": 3,
+    "Episode": 20,
+    "Title": "the spaghetti catalyst",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The lobby."
+            ],
+            [
+                51,
+                "Credits sequence"
+            ],
+            [
+                53,
+                "A few moments later."
+            ],
+            [
+                80,
+                "The lobby."
+            ],
+            [
+                101,
+                "Penny\u2019s apartment."
+            ],
+            [
+                103,
+                "The apartment."
+            ],
+            [
+                123,
+                "Penny\u2019s apartment."
+            ],
+            [
+                147,
+                "The apartment."
+            ],
+            [
+                164,
+                "Leonard\u2019s bedroom. Leonard is asleep."
+            ],
+            [
+                192,
+                "The laundry room."
+            ],
+            [
+                221,
+                "The apartment. "
+            ],
+            [
+                247,
+                "Sheldon\u2019s bedroom."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Oh, damn, they cancelled my Visa. Oh, yay, a new MasterCard!"
+            ],
+            [
+                3,
+                "What?"
+            ],
+            [
+                5,
+                "Okay. Are, are you hoping to get it telepathically?"
+            ],
+            [
+                7,
+                "God, can we please just say no longer seeing each other?"
+            ],
+            [
+                9,
+                "Okay, here\u2019s the protocol, you and I are still friends, and you stop saying coitus."
+            ],
+            [
+                11,
+                "Really?"
+            ],
+            [
+                13,
+                "Right."
+            ],
+            [
+                15,
+                "Everyone."
+            ],
+            [
+                17,
+                "Great."
+            ],
+            [
+                19,
+                "So, how you been?"
+            ],
+            [
+                21,
+                "You\u2019re just coitusing with me, aren\u2019t you?"
+            ],
+            [
+                23,
+                "Mmm. How\u2019s Leonard doing?"
+            ],
+            [
+                25,
+                "I\u2019ll pretend I didn\u2019t hear it."
+            ],
+            [
+                27,
+                "Yep."
+            ],
+            [
+                29,
+                "Interesting. I\u2019ll have to have you over for spaghetti some night."
+            ],
+            [
+                31,
+                "Oh. Um, okay. Why don\u2019t you give me an hour and come over?"
+            ],
+            [
+                33,
+                "I don\u2019t have hot dogs."
+            ],
+            [
+                125,
+                "So, um, was Leonard okay with you coming over?"
+            ],
+            [
+                127,
+                "Well, good."
+            ],
+            [
+                129,
+                "He\u2019s been crying?"
+            ],
+            [
+                131,
+                "Oh, God, I feel terrible."
+            ],
+            [
+                133,
+                "No. Why, do you?"
+            ],
+            [
+                135,
+                "Why did you ask if I had one, too?"
+            ],
+            [
+                137,
+                "All right. So, what\u2019s new in your life?"
+            ],
+            [
+                139,
+                "Have you been running?"
+            ],
+            [
+                141,
+                "I\u2019m so glad you like it."
+            ],
+            [
+                143,
+                "Well, maybe that\u2019s \u2019cause Leonard can\u2019t cook."
+            ],
+            [
+                145,
+                "Whatever. Ooh, I\u2019m gonna get the cheesecake out of the fridge."
+            ],
+            [
+                193,
+                "Oh, um, I, I can come back."
+            ],
+            [
+                195,
+                "Yeah, I guess you\u2019re right."
+            ],
+            [
+                197,
+                "Nope."
+            ],
+            [
+                199,
+                "Oh, oh, good, because, um, his mother called me."
+            ],
+            [
+                201,
+                "Yeah, she wants me to take him shopping for sheets and towels."
+            ],
+            [
+                203,
+                "Oh, well, then you, you do it."
+            ],
+            [
+                205,
+                "Okay, you can take him for shoes."
+            ],
+            [
+                207,
+                "Well, all I know is he says they hurt his feet."
+            ],
+            [
+                209,
+                "Oh, no, no, no, a bunch of us from work are going to Disneyland next Saturday and Sheldon wants to come."
+            ],
+            [
+                211,
+                "Well, he heard me making plans on the phone. Was I going to say no?"
+            ],
+            [
+                213,
+                "We\u2019re going to Disneyland. He\u2019s going to eat junk food."
+            ],
+            [
+                215,
+                "Okay, whatever."
+            ],
+            [
+                217,
+                "All right, got it. Is there anything else?"
+            ],
+            [
+                219,
+                "What\u2019s the problem with Goofy?"
+            ],
+            [
+                224,
+                "We\u2019re home."
+            ],
+            [
+                228,
+                "How was I supposed to know that?"
+            ],
+            [
+                231,
+                "I know, I know."
+            ],
+            [
+                233,
+                "No, you already threw up once. Go put on your PJs and brush your teeth."
+            ],
+            [
+                236,
+                "Just go."
+            ],
+            [
+                239,
+                "You\u2019re welcome, sweetie."
+            ],
+            [
+                241,
+                "Oh, um, I should probably get going."
+            ],
+            [
+                243,
+                "Yep, okay."
+            ],
+            [
+                246,
+                "Sheldon\u2019s churro on my shoes."
+            ],
+            [
+                248,
+                "He\u2019s such an angel when he\u2019s asleep."
+            ],
+            [
+                250,
+                "I think we can do it."
+            ],
+            [
+                252,
+                "No, be friends. You and me."
+            ],
+            [
+                254,
+                "Good. I\u2019m glad."
+            ],
+            [
+                256,
+                "Good night, Leonard."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Uh-oh."
+            ],
+            [
+                4,
+                "I was going to get my mail."
+            ],
+            [
+                6,
+                "I think you mean telekinetically. And no, I just wasn\u2019t sure of the proper protocol now that you and Leonard are no longer having coitus."
+            ],
+            [
+                8,
+                "Well, we could if it were true. But as you live in the same building, you see each other all the time. The variable which has changed is the coitus."
+            ],
+            [
+                10,
+                "Good, good. I\u2019m glad we\u2019re still friends."
+            ],
+            [
+                12,
+                "Oh, yes. It was a lot of work to accommodate you in my life. I\u2019d hate for that effort to have been in vain."
+            ],
+            [
+                14,
+                "Just to be clear do I have to stop saying coitus with everyone or just you?"
+            ],
+            [
+                16,
+                "Harsh terms. But all right, I\u2019ll just substitute intercourse."
+            ],
+            [
+                18,
+                "Or fornication. Yeah. But that has judgmental overtones, so I\u2019ll hold that in reserve."
+            ],
+            [
+                20,
+                "Well, my existence is a continuum, so I\u2019ve been what I am at each point in the implied time period."
+            ],
+            [
+                22,
+                "Bazinga."
+            ],
+            [
+                24,
+                "He seems all right. Although he does spend a disturbing amount of time looking at photographs of you and smelling the pillow you slept on. Oh, but now that I think of it, he asked me not to tell you that."
+            ],
+            [
+                26,
+                "I\u2019d rather you pretend I didn\u2019t say it. I see you bought Mama Italia marinara spaghetti sauce."
+            ],
+            [
+                28,
+                "That\u2019s the sauce my mother uses. She likes cooking Italian because according to her, that\u2019s what the Romans made Jesus eat."
+            ],
+            [
+                30,
+                "I\u2019m hungry now."
+            ],
+            [
+                32,
+                "Will you cut up hot dogs into little chunks and mix them in with the sauce?"
+            ],
+            [
+                34,
+                "Oh, it\u2019s all right, I do. Oh! You\u2019re in for what my mother calls a real Eye-talian treat. (Enters apartment)."
+            ],
+            [
+                36,
+                "I was talking with Penny."
+            ],
+            [
+                40,
+                "Is he making any progress? Because I\u2019d like to erase Ben Affleck as Daredevil."
+            ],
+            [
+                42,
+                "Which one picks last?"
+            ],
+            [
+                44,
+                "Well, usually I\u2019m on the team that picks last. Unless there\u2019s a kid in a wheelchair."
+            ],
+            [
+                46,
+                "Well, of course I\u2019m hungry. And as I have no plans to eat with any other team, I will consume my tangerine chicken with the appropriate gusto. Mm, mm, mm!"
+            ],
+            [
+                48,
+                "Just out of curiosity, do we still have hot dogs?"
+            ],
+            [
+                50,
+                "Just making dinner conversation. Go, Team Leonard!"
+            ],
+            [
+                58,
+                "Certainly. It\u2019s not like I have to moderate my food intake because I\u2019m planning on eating again very shortly. Mm, mm, mm!"
+            ],
+            [
+                66,
+                "Excuse me, I\u2019m thirsty, so I\u2019m going to go to the refrigerator and get myself a refreshing beverage."
+            ],
+            [
+                69,
+                "Ah, I do so love beverages. Now I think I\u2019ll take my after-dinner walk."
+            ],
+            [
+                72,
+                "I read a study online that walking after a meal not only aids in digestion, but increases serotonin, and you know me, if there\u2019s one thing I like more than a refreshing beverage, it\u2019s serotonin. Bye-bye."
+            ],
+            [
+                74,
+                "Oh, that\u2019s not necessary. You can go first."
+            ],
+            [
+                76,
+                "I can\u2019t think of a reason why not."
+            ],
+            [
+                78,
+                "Hold on. Nope, no reason."
+            ],
+            [
+                81,
+                "All right, say hello to your mother for me."
+            ],
+            [
+                83,
+                "What?"
+            ],
+            [
+                85,
+                "I didn\u2019t say outside."
+            ],
+            [
+                87,
+                "No, of course not. That would be odd and suspicious behavior."
+            ],
+            [
+                90,
+                "Which way are you going?"
+            ],
+            [
+                92,
+                "I\u2019m going the other way. Bye."
+            ],
+            [
+                94,
+                "No. I mean, I have no idea what you smell."
+            ],
+            [
+                96,
+                "Perhaps you\u2019re getting a brain tumour."
+            ],
+            [
+                98,
+                "I shall. Have a nice scoot."
+            ],
+            [
+                100,
+                "Oh. Hello, doggie. Nice doggie. I bet you think you smell hot dogs. Look, a cat!"
+            ],
+            [
+                102,
+                "(Knock, knock, knock) Penny, (knock, knock, knock) Penny. (Long pause, knock, knock, knock) Penny. (Penny opens door. A dishevelled Sheldon is holding up one hot dog.) Here. I had to trade the others for my life."
+            ],
+            [
+                124,
+                "Mmm, mmm, mmm. That\u2019s Eye-talian."
+            ],
+            [
+                126,
+                "Oh, yes. In fact, he said, I\u2019m fine, I don\u2019t care. And he in no way said it in a manner which would lead one to believe that he was covering up feelings of anguish and betrayal."
+            ],
+            [
+                128,
+                "I\u2019m also pleased to report that he\u2019s all cried out over you."
+            ],
+            [
+                130,
+                "Oh, I believe that was something else I wasn\u2019t supposed to mention."
+            ],
+            [
+                132,
+                "Do you have a stomach ache, too?"
+            ],
+            [
+                134,
+                "No."
+            ],
+            [
+                136,
+                "Just making polite dinner conversation. Your turn."
+            ],
+            [
+                138,
+                "Well, my new shoes are not made for running."
+            ],
+            [
+                140,
+                "No. It\u2019s just a suspicion I have. Mmm, mmm, mmm."
+            ],
+            [
+                142,
+                "I do. Leonard never cooks for me."
+            ],
+            [
+                144,
+                "You can\u2019t cook and you made me this."
+            ],
+            [
+                146,
+                "Oh, Lord, I\u2019m in Jewish hell."
+            ],
+            [
+                152,
+                "I told you, walking."
+            ],
+            [
+                154,
+                "I got lost."
+            ],
+            [
+                156,
+                "Satellites are down. Solar flares."
+            ],
+            [
+                158,
+                "Yes, there are."
+            ],
+            [
+                160,
+                "I\u2019m sorry. I misspoke. What I meant to say was my battery died."
+            ],
+            [
+                165,
+                "(Knock, knock, knock) Leonard, (knock, knock, knock) Leonard, (knock, knock, knock) Leonard."
+            ],
+            [
+                167,
+                "Thanks for seeing me on such short notice."
+            ],
+            [
+                169,
+                "Maybe this isn\u2019t a good time."
+            ],
+            [
+                171,
+                "Do you really think death threats are an appropriate way to begin this conversation? Sometimes your lack of social skills astonishes me."
+            ],
+            [
+                173,
+                "You may want to sit down."
+            ],
+            [
+                175,
+                "Point taken. You may want to sit up."
+            ],
+            [
+                177,
+                "I\u2019ve been seeing Penny behind your back."
+            ],
+            [
+                179,
+                "We had dinner last night. She made me spaghetti with little hot dogs cut up in it. Well, little hot dog. I gave up the other five hot dogs to a real dog. A real, big dog. A hell hound. Tangential to the primary story. How about I circle back to it?"
+            ],
+            [
+                181,
+                "I told you, she made spaghetti with little hot dogs. I like spaghetti with little hot dogs."
+            ],
+            [
+                183,
+                "I didn\u2019t want to upset you. Howard made it very clear that my allegiance should be to male comrades before women who sell their bodies for money."
+            ],
+            [
+                185,
+                "Yes, but I rephrased it to avoid offending the hos."
+            ],
+            [
+                187,
+                "Oh. Well, so the emotional turmoil that\u2019s been keeping me from achieving REM sleep was entirely unjustified?"
+            ],
+            [
+                189,
+                "Well then as my meemaw would say, looks like we butchered a pig, but nobody wanted bacon."
+            ],
+            [
+                191,
+                "And now, as promised, the tangent. Sheldon and the Hell Hound, or How I Lost My Hot Dogs."
+            ],
+            [
+                226,
+                "We stayed for the California Adventure water show. It was pure Disney magic."
+            ],
+            [
+                229,
+                "It\u2019s all right. I\u2019ll see it again with you."
+            ],
+            [
+                232,
+                "I can still eat."
+            ],
+            [
+                234,
+                "Okay, but just don\u2019t fight"
+            ],
+            [
+                238,
+                "Thank you, Penny."
+            ]
+        ],
+        "Leonard": [
+            [
+                35,
+                "Hey, where you been?"
+            ],
+            [
+                38,
+                "No, no, it\u2019s fine. I don\u2019t care. I\u2019m over it."
+            ],
+            [
+                45,
+                "Sheldon, I got you your tangerine chicken. I hope you\u2019re hungry."
+            ],
+            [
+                47,
+                "Okay."
+            ],
+            [
+                49,
+                "I don\u2019t know. Why?"
+            ],
+            [
+                57,
+                "Do you want the last dumpling, Sheldon?"
+            ],
+            [
+                59,
+                "So, you guys want to do something tonight?"
+            ],
+            [
+                61,
+                "What about you, Raj?"
+            ],
+            [
+                63,
+                "I never stopped hanging out with you."
+            ],
+            [
+                67,
+                "You know what? I\u2019ll just spend the evening alone."
+            ],
+            [
+                70,
+                "Since when do you take after-dinner walks?"
+            ],
+            [
+                105,
+                "Yeah?"
+            ],
+            [
+                107,
+                "Where you going with this, Raj?"
+            ],
+            [
+                109,
+                "So, go."
+            ],
+            [
+                111,
+                "And you think my presence will help with that?"
+            ],
+            [
+                113,
+                "I\u2019m not going out tonight, Raj."
+            ],
+            [
+                115,
+                "Very much."
+            ],
+            [
+                117,
+                "Don\u2019t worry. You\u2019ll meet a girl someday."
+            ],
+            [
+                119,
+                "Yes, you will, and she\u2019ll be beautiful, and kind and sexy and funny and everything you ever wanted in a woman."
+            ],
+            [
+                121,
+                "I do, and you\u2019ll fall hopelessly in love and give her your heart. And she\u2019ll take it and grind it into pathetic, little pieces."
+            ],
+            [
+                149,
+                "I\u2019m pretty sure Martha Stewart never got naked with a room full of big, fat Japanese guys."
+            ],
+            [
+                151,
+                "Hey, where you been?"
+            ],
+            [
+                153,
+                "For an hour and a half?"
+            ],
+            [
+                155,
+                "How could you get lost? Your phone has GPS."
+            ],
+            [
+                161,
+                "What the hell was that about?"
+            ],
+            [
+                163,
+                "Oh, we really need to get you a girl."
+            ],
+            [
+                166,
+                "Oh, just come in!"
+            ],
+            [
+                168,
+                "What do you want, Sheldon?"
+            ],
+            [
+                170,
+                "Tell me why you woke me up or I swear to God I will kill you."
+            ],
+            [
+                172,
+                "What do you want?"
+            ],
+            [
+                174,
+                "I\u2019m in bed!"
+            ],
+            [
+                176,
+                "Sheldon!"
+            ],
+            [
+                178,
+                "Okay, when you say seeing Penny, what exactly does that mean?"
+            ],
+            [
+                180,
+                "Fine. Why did you have dinner with Penny?"
+            ],
+            [
+                182,
+                "Then why did you have Chinese food with us?"
+            ],
+            [
+                184,
+                "Is it possible he said Bros before Hos?"
+            ],
+            [
+                186,
+                "Sheldon, I don\u2019t care if you want to be friends with Penny."
+            ],
+            [
+                188,
+                "Yes."
+            ],
+            [
+                190,
+                "I guess not."
+            ],
+            [
+                194,
+                "D-don\u2019t be silly. We\u2019re neighbours, we\u2019re going to run into each other, may as well get used to it."
+            ],
+            [
+                196,
+                "You used to it yet?"
+            ],
+            [
+                198,
+                "Me neither. Oh, Sheldon seemed think that I would be upset about you hanging out with him. But I just want you to know it\u2019s fine."
+            ],
+            [
+                200,
+                "His mother?"
+            ],
+            [
+                202,
+                "I was going to do that."
+            ],
+            [
+                204,
+                "No, I don\u2019t want to do it. You can do it."
+            ],
+            [
+                206,
+                "I just took him for shoes."
+            ],
+            [
+                208,
+                "Fine. I\u2019ll take him for shoes next Saturday."
+            ],
+            [
+                210,
+                "You\u2019re taking him to Disneyland?"
+            ],
+            [
+                212,
+                "All right. But let me know if you\u2019re going to stuff him with junk food. I don\u2019t want to bring home a nice dinner for him and see it go to waste."
+            ],
+            [
+                214,
+                "All I\u2019m saying is give me a heads-up."
+            ],
+            [
+                216,
+                "And don\u2019t let him go on Space Mountain after he eats. He\u2019ll say he can handle it, but I promise you\u2019ll end up with churro puke on your shoes."
+            ],
+            [
+                218,
+                "Yeah, don\u2019t let Goofy near him. He\u2019ll have nightmares and I\u2019ll have to deal with it."
+            ],
+            [
+                220,
+                "Wish I knew. He\u2019s fine with Pluto."
+            ],
+            [
+                225,
+                "It\u2019s ten o\u2019clock, where have you been?"
+            ],
+            [
+                227,
+                "I was going to see that with him."
+            ],
+            [
+                230,
+                "And I have food here. You said you were going to call."
+            ],
+            [
+                235,
+                "We\u2019re not fighting."
+            ],
+            [
+                237,
+                "Aren\u2019t you going to thank Penny for taking you to Disneyland?"
+            ],
+            [
+                240,
+                "Want a cup of coffee?"
+            ],
+            [
+                242,
+                "Come on. It\u2019s just a cup of coffee."
+            ],
+            [
+                245,
+                "What am I smelling?"
+            ],
+            [
+                249,
+                "Yeah. Shame he has to wake up."
+            ],
+            [
+                251,
+                "Smother Sheldon in his sleep? Wouldn\u2019t that be wrong?"
+            ],
+            [
+                253,
+                "Oh. Sure. Absolutely."
+            ],
+            [
+                255,
+                "Here\u2019s an idea. I\u2019m just throwing it out there, friends who have sex."
+            ],
+            [
+                257,
+                "Kidding. Just a couple of friends goofin\u2019 around."
+            ]
+        ],
+        "Howard": [
+            [
+                37,
+                "What\u2019s wrong with you? You can\u2019t hang out with your roommate\u2019s ex. That\u2019s totally uncool."
+            ],
+            [
+                41,
+                "So would Ben Affleck. The point is, in a situation like this you got to pick sides. You\u2019re either on Team Leonard or Team Penny."
+            ],
+            [
+                43,
+                "What?"
+            ],
+            [
+                54,
+                "Oh, God, this is good."
+            ],
+            [
+                56,
+                "Jews don\u2019t have hell. We have acid reflux."
+            ],
+            [
+                60,
+                "Nah, I can\u2019t. I got to pick up my mom from her water aerobics class. 18 overweight women flapping their arm fat in a swimming pool. Looks like the manatee tank at Sea World."
+            ],
+            [
+                65,
+                "I wish you were Aquaman. Then I could send you to scoop my mom out of the old lady tank."
+            ],
+            [
+                71,
+                "Yeah, since when do you take walks?"
+            ],
+            [
+                73,
+                "Hold on. I\u2019ll walk down with you."
+            ],
+            [
+                75,
+                "Or we could go together."
+            ],
+            [
+                77,
+                "Let\u2019s go."
+            ],
+            [
+                82,
+                "Okay."
+            ],
+            [
+                84,
+                "You said you were going for a walk."
+            ],
+            [
+                86,
+                "So what, you\u2019re just gonna walk up and down the stairs?"
+            ],
+            [
+                89,
+                "Which way are you going?"
+            ],
+            [
+                91,
+                "I parked my scooter down the block."
+            ],
+            [
+                93,
+                "Bye. Actually, I\u2019m this way. Do I smell hot dogs?"
+            ],
+            [
+                95,
+                "I definitely smell raw hot dog."
+            ],
+            [
+                97,
+                "All right, have a nice walk."
+            ],
+            [
+                99,
+                "You might want to stand back. I\u2019m sitting on top of 13 horses here."
+            ],
+            [
+                223,
+                "Well, that\u2019s it. We\u2019re officially out of things to talk about."
+            ]
+        ],
+        "Raj": [
+            [
+                39,
+                "Yeah, he\u2019s over it, that\u2019s why he\u2019s been whining all day about trying to invent that memory-wiper gizmo from Men in Black."
+            ],
+            [
+                55,
+                "Let me ask you a question. Do you believe you\u2019re going to go to hell for eating sweet and sour pork?"
+            ],
+            [
+                62,
+                "Oh, there it is, now that you don\u2019t have a girlfriend, you want to hang out with me again."
+            ],
+            [
+                64,
+                "Oh, please, we all know I\u2019m the friend you call when you have no other options. If we were the Justice League, I\u2019d be Aquaman."
+            ],
+            [
+                68,
+                "What, suddenly I\u2019m not good enough for you?"
+            ],
+            [
+                79,
+                "I\u2019ve missed you."
+            ],
+            [
+                104,
+                "Hey, Leonard?"
+            ],
+            [
+                106,
+                "I haven\u2019t had sex in a year."
+            ],
+            [
+                108,
+                "Don\u2019t flatter yourself, dude. I want to go out and meet a woman."
+            ],
+            [
+                110,
+                "Well, I need a wingman. I don\u2019t want to come off like a lonely loser."
+            ],
+            [
+                112,
+                "Well, I do. Next to you, I\u2019ll look like a catch."
+            ],
+            [
+                114,
+                "All right. Would you mind if I went to your room and downloaded some Asian pornography?"
+            ],
+            [
+                116,
+                "Doesn\u2019t have to be Asian."
+            ],
+            [
+                118,
+                "No, I won\u2019t."
+            ],
+            [
+                120,
+                "You really think so?"
+            ],
+            [
+                122,
+                "But we\u2019ll have sex first, right?"
+            ],
+            [
+                148,
+                "Look at this. Do you think she\u2019s really doing that or is it PhotoShop?"
+            ],
+            [
+                150,
+                "You don\u2019t know that. Prison changes people."
+            ],
+            [
+                157,
+                "There are no solar flares right now."
+            ],
+            [
+                159,
+                "Dude, I\u2019m an astrophysicist. If there were solar flares, I\u2019d be all up in it."
+            ],
+            [
+                162,
+                "I don\u2019t know. Do you think this is really Hillary Clinton doing it with Oprah?"
+            ],
+            [
+                222,
+                "Hey, do you think the elastic woman in The Incredibles needs to use birth control or can she just be a diaphragm?"
+            ]
+        ],
+        "Woman\u2019s voice": [
+            [
+                88,
+                "Here Bubbles. Here boy."
+            ]
+        ],
+        "Howard (to Raj, who has whispered to him)": [
+            [
+                244,
+                "Oh, yeah, the whole thing seems a little twisted to me, too."
+            ]
+        ],
+        "Sheldon (in his sleep)": [
+            [
+                258,
+                "No, Goofy, no."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The lobby."
+        ],
+        [
+            "Penny",
+            "Oh, damn, they cancelled my Visa. Oh, yay, a new MasterCard!"
+        ],
+        [
+            "Sheldon",
+            "Uh-oh."
+        ],
+        [
+            "Penny",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I was going to get my mail."
+        ],
+        [
+            "Penny",
+            "Okay. Are, are you hoping to get it telepathically?"
+        ],
+        [
+            "Sheldon",
+            "I think you mean telekinetically. And no, I just wasn\u2019t sure of the proper protocol now that you and Leonard are no longer having coitus."
+        ],
+        [
+            "Penny",
+            "God, can we please just say no longer seeing each other?"
+        ],
+        [
+            "Sheldon",
+            "Well, we could if it were true. But as you live in the same building, you see each other all the time. The variable which has changed is the coitus."
+        ],
+        [
+            "Penny",
+            "Okay, here\u2019s the protocol, you and I are still friends, and you stop saying coitus."
+        ],
+        [
+            "Sheldon",
+            "Good, good. I\u2019m glad we\u2019re still friends."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Sheldon",
+            "Oh, yes. It was a lot of work to accommodate you in my life. I\u2019d hate for that effort to have been in vain."
+        ],
+        [
+            "Penny",
+            "Right."
+        ],
+        [
+            "Sheldon",
+            "Just to be clear do I have to stop saying coitus with everyone or just you?"
+        ],
+        [
+            "Penny",
+            "Everyone."
+        ],
+        [
+            "Sheldon",
+            "Harsh terms. But all right, I\u2019ll just substitute intercourse."
+        ],
+        [
+            "Penny",
+            "Great."
+        ],
+        [
+            "Sheldon",
+            "Or fornication. Yeah. But that has judgmental overtones, so I\u2019ll hold that in reserve."
+        ],
+        [
+            "Penny",
+            "So, how you been?"
+        ],
+        [
+            "Sheldon",
+            "Well, my existence is a continuum, so I\u2019ve been what I am at each point in the implied time period."
+        ],
+        [
+            "Penny",
+            "You\u2019re just coitusing with me, aren\u2019t you?"
+        ],
+        [
+            "Sheldon",
+            "Bazinga."
+        ],
+        [
+            "Penny",
+            "Mmm. How\u2019s Leonard doing?"
+        ],
+        [
+            "Sheldon",
+            "He seems all right. Although he does spend a disturbing amount of time looking at photographs of you and smelling the pillow you slept on. Oh, but now that I think of it, he asked me not to tell you that."
+        ],
+        [
+            "Penny",
+            "I\u2019ll pretend I didn\u2019t hear it."
+        ],
+        [
+            "Sheldon",
+            "I\u2019d rather you pretend I didn\u2019t say it. I see you bought Mama Italia marinara spaghetti sauce."
+        ],
+        [
+            "Penny",
+            "Yep."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s the sauce my mother uses. She likes cooking Italian because according to her, that\u2019s what the Romans made Jesus eat."
+        ],
+        [
+            "Penny",
+            "Interesting. I\u2019ll have to have you over for spaghetti some night."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m hungry now."
+        ],
+        [
+            "Penny",
+            "Oh. Um, okay. Why don\u2019t you give me an hour and come over?"
+        ],
+        [
+            "Sheldon",
+            "Will you cut up hot dogs into little chunks and mix them in with the sauce?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t have hot dogs."
+        ],
+        [
+            "Sheldon",
+            "Oh, it\u2019s all right, I do. Oh! You\u2019re in for what my mother calls a real Eye-talian treat. (Enters apartment)."
+        ],
+        [
+            "Leonard",
+            "Hey, where you been?"
+        ],
+        [
+            "Sheldon",
+            "I was talking with Penny."
+        ],
+        [
+            "Howard",
+            "What\u2019s wrong with you? You can\u2019t hang out with your roommate\u2019s ex. That\u2019s totally uncool."
+        ],
+        [
+            "Leonard",
+            "No, no, it\u2019s fine. I don\u2019t care. I\u2019m over it."
+        ],
+        [
+            "Raj",
+            "Yeah, he\u2019s over it, that\u2019s why he\u2019s been whining all day about trying to invent that memory-wiper gizmo from Men in Black."
+        ],
+        [
+            "Sheldon",
+            "Is he making any progress? Because I\u2019d like to erase Ben Affleck as Daredevil."
+        ],
+        [
+            "Howard",
+            "So would Ben Affleck. The point is, in a situation like this you got to pick sides. You\u2019re either on Team Leonard or Team Penny."
+        ],
+        [
+            "Sheldon",
+            "Which one picks last?"
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "Well, usually I\u2019m on the team that picks last. Unless there\u2019s a kid in a wheelchair."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I got you your tangerine chicken. I hope you\u2019re hungry."
+        ],
+        [
+            "Sheldon",
+            "Well, of course I\u2019m hungry. And as I have no plans to eat with any other team, I will consume my tangerine chicken with the appropriate gusto. Mm, mm, mm!"
+        ],
+        [
+            "Leonard",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "Just out of curiosity, do we still have hot dogs?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. Why?"
+        ],
+        [
+            "Sheldon",
+            "Just making dinner conversation. Go, Team Leonard!"
+        ],
+        [
+            "Scene",
+            "Credits sequence"
+        ],
+        [
+            "Scene",
+            "A few moments later."
+        ],
+        [
+            "Howard",
+            "Oh, God, this is good."
+        ],
+        [
+            "Raj",
+            "Let me ask you a question. Do you believe you\u2019re going to go to hell for eating sweet and sour pork?"
+        ],
+        [
+            "Howard",
+            "Jews don\u2019t have hell. We have acid reflux."
+        ],
+        [
+            "Leonard",
+            "Do you want the last dumpling, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Certainly. It\u2019s not like I have to moderate my food intake because I\u2019m planning on eating again very shortly. Mm, mm, mm!"
+        ],
+        [
+            "Leonard",
+            "So, you guys want to do something tonight?"
+        ],
+        [
+            "Howard",
+            "Nah, I can\u2019t. I got to pick up my mom from her water aerobics class. 18 overweight women flapping their arm fat in a swimming pool. Looks like the manatee tank at Sea World."
+        ],
+        [
+            "Leonard",
+            "What about you, Raj?"
+        ],
+        [
+            "Raj",
+            "Oh, there it is, now that you don\u2019t have a girlfriend, you want to hang out with me again."
+        ],
+        [
+            "Leonard",
+            "I never stopped hanging out with you."
+        ],
+        [
+            "Raj",
+            "Oh, please, we all know I\u2019m the friend you call when you have no other options. If we were the Justice League, I\u2019d be Aquaman."
+        ],
+        [
+            "Howard",
+            "I wish you were Aquaman. Then I could send you to scoop my mom out of the old lady tank."
+        ],
+        [
+            "Sheldon",
+            "Excuse me, I\u2019m thirsty, so I\u2019m going to go to the refrigerator and get myself a refreshing beverage."
+        ],
+        [
+            "Leonard",
+            "You know what? I\u2019ll just spend the evening alone."
+        ],
+        [
+            "Raj",
+            "What, suddenly I\u2019m not good enough for you?"
+        ],
+        [
+            "Sheldon",
+            "Ah, I do so love beverages. Now I think I\u2019ll take my after-dinner walk."
+        ],
+        [
+            "Leonard",
+            "Since when do you take after-dinner walks?"
+        ],
+        [
+            "Howard",
+            "Yeah, since when do you take walks?"
+        ],
+        [
+            "Sheldon",
+            "I read a study online that walking after a meal not only aids in digestion, but increases serotonin, and you know me, if there\u2019s one thing I like more than a refreshing beverage, it\u2019s serotonin. Bye-bye."
+        ],
+        [
+            "Howard",
+            "Hold on. I\u2019ll walk down with you."
+        ],
+        [
+            "Sheldon",
+            "Oh, that\u2019s not necessary. You can go first."
+        ],
+        [
+            "Howard",
+            "Or we could go together."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t think of a reason why not."
+        ],
+        [
+            "Howard",
+            "Let\u2019s go."
+        ],
+        [
+            "Sheldon",
+            "Hold on. Nope, no reason."
+        ],
+        [
+            "Raj",
+            "I\u2019ve missed you."
+        ],
+        [
+            "Scene",
+            "The lobby."
+        ],
+        [
+            "Sheldon",
+            "All right, say hello to your mother for me."
+        ],
+        [
+            "Howard",
+            "Okay."
+        ],
+        [
+            "Sheldon",
+            "What?"
+        ],
+        [
+            "Howard",
+            "You said you were going for a walk."
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t say outside."
+        ],
+        [
+            "Howard",
+            "So what, you\u2019re just gonna walk up and down the stairs?"
+        ],
+        [
+            "Sheldon",
+            "No, of course not. That would be odd and suspicious behavior."
+        ],
+        [
+            "Woman\u2019s voice",
+            "Here Bubbles. Here boy."
+        ],
+        [
+            "Howard",
+            "Which way are you going?"
+        ],
+        [
+            "Sheldon",
+            "Which way are you going?"
+        ],
+        [
+            "Howard",
+            "I parked my scooter down the block."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m going the other way. Bye."
+        ],
+        [
+            "Howard",
+            "Bye. Actually, I\u2019m this way. Do I smell hot dogs?"
+        ],
+        [
+            "Sheldon",
+            "No. I mean, I have no idea what you smell."
+        ],
+        [
+            "Howard",
+            "I definitely smell raw hot dog."
+        ],
+        [
+            "Sheldon",
+            "Perhaps you\u2019re getting a brain tumour."
+        ],
+        [
+            "Howard",
+            "All right, have a nice walk."
+        ],
+        [
+            "Sheldon",
+            "I shall. Have a nice scoot."
+        ],
+        [
+            "Howard",
+            "You might want to stand back. I\u2019m sitting on top of 13 horses here."
+        ],
+        [
+            "Sheldon",
+            "Oh. Hello, doggie. Nice doggie. I bet you think you smell hot dogs. Look, a cat!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Penny, (knock, knock, knock) Penny. (Long pause, knock, knock, knock) Penny. (Penny opens door. A dishevelled Sheldon is holding up one hot dog.) Here. I had to trade the others for my life."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Hey, Leonard?"
+        ],
+        [
+            "Leonard",
+            "Yeah?"
+        ],
+        [
+            "Raj",
+            "I haven\u2019t had sex in a year."
+        ],
+        [
+            "Leonard",
+            "Where you going with this, Raj?"
+        ],
+        [
+            "Raj",
+            "Don\u2019t flatter yourself, dude. I want to go out and meet a woman."
+        ],
+        [
+            "Leonard",
+            "So, go."
+        ],
+        [
+            "Raj",
+            "Well, I need a wingman. I don\u2019t want to come off like a lonely loser."
+        ],
+        [
+            "Leonard",
+            "And you think my presence will help with that?"
+        ],
+        [
+            "Raj",
+            "Well, I do. Next to you, I\u2019ll look like a catch."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not going out tonight, Raj."
+        ],
+        [
+            "Raj",
+            "All right. Would you mind if I went to your room and downloaded some Asian pornography?"
+        ],
+        [
+            "Leonard",
+            "Very much."
+        ],
+        [
+            "Raj",
+            "Doesn\u2019t have to be Asian."
+        ],
+        [
+            "Leonard",
+            "Don\u2019t worry. You\u2019ll meet a girl someday."
+        ],
+        [
+            "Raj",
+            "No, I won\u2019t."
+        ],
+        [
+            "Leonard",
+            "Yes, you will, and she\u2019ll be beautiful, and kind and sexy and funny and everything you ever wanted in a woman."
+        ],
+        [
+            "Raj",
+            "You really think so?"
+        ],
+        [
+            "Leonard",
+            "I do, and you\u2019ll fall hopelessly in love and give her your heart. And she\u2019ll take it and grind it into pathetic, little pieces."
+        ],
+        [
+            "Raj",
+            "But we\u2019ll have sex first, right?"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "Mmm, mmm, mmm. That\u2019s Eye-talian."
+        ],
+        [
+            "Penny",
+            "So, um, was Leonard okay with you coming over?"
+        ],
+        [
+            "Sheldon",
+            "Oh, yes. In fact, he said, I\u2019m fine, I don\u2019t care. And he in no way said it in a manner which would lead one to believe that he was covering up feelings of anguish and betrayal."
+        ],
+        [
+            "Penny",
+            "Well, good."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m also pleased to report that he\u2019s all cried out over you."
+        ],
+        [
+            "Penny",
+            "He\u2019s been crying?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I believe that was something else I wasn\u2019t supposed to mention."
+        ],
+        [
+            "Penny",
+            "Oh, God, I feel terrible."
+        ],
+        [
+            "Sheldon",
+            "Do you have a stomach ache, too?"
+        ],
+        [
+            "Penny",
+            "No. Why, do you?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Penny",
+            "Why did you ask if I had one, too?"
+        ],
+        [
+            "Sheldon",
+            "Just making polite dinner conversation. Your turn."
+        ],
+        [
+            "Penny",
+            "All right. So, what\u2019s new in your life?"
+        ],
+        [
+            "Sheldon",
+            "Well, my new shoes are not made for running."
+        ],
+        [
+            "Penny",
+            "Have you been running?"
+        ],
+        [
+            "Sheldon",
+            "No. It\u2019s just a suspicion I have. Mmm, mmm, mmm."
+        ],
+        [
+            "Penny",
+            "I\u2019m so glad you like it."
+        ],
+        [
+            "Sheldon",
+            "I do. Leonard never cooks for me."
+        ],
+        [
+            "Penny",
+            "Well, maybe that\u2019s \u2019cause Leonard can\u2019t cook."
+        ],
+        [
+            "Sheldon",
+            "You can\u2019t cook and you made me this."
+        ],
+        [
+            "Penny",
+            "Whatever. Ooh, I\u2019m gonna get the cheesecake out of the fridge."
+        ],
+        [
+            "Sheldon",
+            "Oh, Lord, I\u2019m in Jewish hell."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Look at this. Do you think she\u2019s really doing that or is it PhotoShop?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m pretty sure Martha Stewart never got naked with a room full of big, fat Japanese guys."
+        ],
+        [
+            "Raj",
+            "You don\u2019t know that. Prison changes people."
+        ],
+        [
+            "Leonard",
+            "Hey, where you been?"
+        ],
+        [
+            "Sheldon",
+            "I told you, walking."
+        ],
+        [
+            "Leonard",
+            "For an hour and a half?"
+        ],
+        [
+            "Sheldon",
+            "I got lost."
+        ],
+        [
+            "Leonard",
+            "How could you get lost? Your phone has GPS."
+        ],
+        [
+            "Sheldon",
+            "Satellites are down. Solar flares."
+        ],
+        [
+            "Raj",
+            "There are no solar flares right now."
+        ],
+        [
+            "Sheldon",
+            "Yes, there are."
+        ],
+        [
+            "Raj",
+            "Dude, I\u2019m an astrophysicist. If there were solar flares, I\u2019d be all up in it."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. I misspoke. What I meant to say was my battery died."
+        ],
+        [
+            "Leonard",
+            "What the hell was that about?"
+        ],
+        [
+            "Raj",
+            "I don\u2019t know. Do you think this is really Hillary Clinton doing it with Oprah?"
+        ],
+        [
+            "Leonard",
+            "Oh, we really need to get you a girl."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s bedroom. Leonard is asleep."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Leonard, (knock, knock, knock) Leonard, (knock, knock, knock) Leonard."
+        ],
+        [
+            "Leonard",
+            "Oh, just come in!"
+        ],
+        [
+            "Sheldon",
+            "Thanks for seeing me on such short notice."
+        ],
+        [
+            "Leonard",
+            "What do you want, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Maybe this isn\u2019t a good time."
+        ],
+        [
+            "Leonard",
+            "Tell me why you woke me up or I swear to God I will kill you."
+        ],
+        [
+            "Sheldon",
+            "Do you really think death threats are an appropriate way to begin this conversation? Sometimes your lack of social skills astonishes me."
+        ],
+        [
+            "Leonard",
+            "What do you want?"
+        ],
+        [
+            "Sheldon",
+            "You may want to sit down."
+        ],
+        [
+            "Leonard",
+            "I\u2019m in bed!"
+        ],
+        [
+            "Sheldon",
+            "Point taken. You may want to sit up."
+        ],
+        [
+            "Leonard",
+            "Sheldon!"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ve been seeing Penny behind your back."
+        ],
+        [
+            "Leonard",
+            "Okay, when you say seeing Penny, what exactly does that mean?"
+        ],
+        [
+            "Sheldon",
+            "We had dinner last night. She made me spaghetti with little hot dogs cut up in it. Well, little hot dog. I gave up the other five hot dogs to a real dog. A real, big dog. A hell hound. Tangential to the primary story. How about I circle back to it?"
+        ],
+        [
+            "Leonard",
+            "Fine. Why did you have dinner with Penny?"
+        ],
+        [
+            "Sheldon",
+            "I told you, she made spaghetti with little hot dogs. I like spaghetti with little hot dogs."
+        ],
+        [
+            "Leonard",
+            "Then why did you have Chinese food with us?"
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t want to upset you. Howard made it very clear that my allegiance should be to male comrades before women who sell their bodies for money."
+        ],
+        [
+            "Leonard",
+            "Is it possible he said Bros before Hos?"
+        ],
+        [
+            "Sheldon",
+            "Yes, but I rephrased it to avoid offending the hos."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I don\u2019t care if you want to be friends with Penny."
+        ],
+        [
+            "Sheldon",
+            "Oh. Well, so the emotional turmoil that\u2019s been keeping me from achieving REM sleep was entirely unjustified?"
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "Well then as my meemaw would say, looks like we butchered a pig, but nobody wanted bacon."
+        ],
+        [
+            "Leonard",
+            "I guess not."
+        ],
+        [
+            "Sheldon",
+            "And now, as promised, the tangent. Sheldon and the Hell Hound, or How I Lost My Hot Dogs."
+        ],
+        [
+            "Scene",
+            "The laundry room."
+        ],
+        [
+            "Penny",
+            "Oh, um, I, I can come back."
+        ],
+        [
+            "Leonard",
+            "D-don\u2019t be silly. We\u2019re neighbours, we\u2019re going to run into each other, may as well get used to it."
+        ],
+        [
+            "Penny",
+            "Yeah, I guess you\u2019re right."
+        ],
+        [
+            "Leonard",
+            "You used to it yet?"
+        ],
+        [
+            "Penny",
+            "Nope."
+        ],
+        [
+            "Leonard",
+            "Me neither. Oh, Sheldon seemed think that I would be upset about you hanging out with him. But I just want you to know it\u2019s fine."
+        ],
+        [
+            "Penny",
+            "Oh, oh, good, because, um, his mother called me."
+        ],
+        [
+            "Leonard",
+            "His mother?"
+        ],
+        [
+            "Penny",
+            "Yeah, she wants me to take him shopping for sheets and towels."
+        ],
+        [
+            "Leonard",
+            "I was going to do that."
+        ],
+        [
+            "Penny",
+            "Oh, well, then you, you do it."
+        ],
+        [
+            "Leonard",
+            "No, I don\u2019t want to do it. You can do it."
+        ],
+        [
+            "Penny",
+            "Okay, you can take him for shoes."
+        ],
+        [
+            "Leonard",
+            "I just took him for shoes."
+        ],
+        [
+            "Penny",
+            "Well, all I know is he says they hurt his feet."
+        ],
+        [
+            "Leonard",
+            "Fine. I\u2019ll take him for shoes next Saturday."
+        ],
+        [
+            "Penny",
+            "Oh, no, no, no, a bunch of us from work are going to Disneyland next Saturday and Sheldon wants to come."
+        ],
+        [
+            "Leonard",
+            "You\u2019re taking him to Disneyland?"
+        ],
+        [
+            "Penny",
+            "Well, he heard me making plans on the phone. Was I going to say no?"
+        ],
+        [
+            "Leonard",
+            "All right. But let me know if you\u2019re going to stuff him with junk food. I don\u2019t want to bring home a nice dinner for him and see it go to waste."
+        ],
+        [
+            "Penny",
+            "We\u2019re going to Disneyland. He\u2019s going to eat junk food."
+        ],
+        [
+            "Leonard",
+            "All I\u2019m saying is give me a heads-up."
+        ],
+        [
+            "Penny",
+            "Okay, whatever."
+        ],
+        [
+            "Leonard",
+            "And don\u2019t let him go on Space Mountain after he eats. He\u2019ll say he can handle it, but I promise you\u2019ll end up with churro puke on your shoes."
+        ],
+        [
+            "Penny",
+            "All right, got it. Is there anything else?"
+        ],
+        [
+            "Leonard",
+            "Yeah, don\u2019t let Goofy near him. He\u2019ll have nightmares and I\u2019ll have to deal with it."
+        ],
+        [
+            "Penny",
+            "What\u2019s the problem with Goofy?"
+        ],
+        [
+            "Leonard",
+            "Wish I knew. He\u2019s fine with Pluto."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "Hey, do you think the elastic woman in The Incredibles needs to use birth control or can she just be a diaphragm?"
+        ],
+        [
+            "Howard",
+            "Well, that\u2019s it. We\u2019re officially out of things to talk about."
+        ],
+        [
+            "Penny",
+            "We\u2019re home."
+        ],
+        [
+            "Leonard",
+            "It\u2019s ten o\u2019clock, where have you been?"
+        ],
+        [
+            "Sheldon",
+            "We stayed for the California Adventure water show. It was pure Disney magic."
+        ],
+        [
+            "Leonard",
+            "I was going to see that with him."
+        ],
+        [
+            "Penny",
+            "How was I supposed to know that?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s all right. I\u2019ll see it again with you."
+        ],
+        [
+            "Leonard",
+            "And I have food here. You said you were going to call."
+        ],
+        [
+            "Penny",
+            "I know, I know."
+        ],
+        [
+            "Sheldon",
+            "I can still eat."
+        ],
+        [
+            "Penny",
+            "No, you already threw up once. Go put on your PJs and brush your teeth."
+        ],
+        [
+            "Sheldon",
+            "Okay, but just don\u2019t fight"
+        ],
+        [
+            "Leonard",
+            "We\u2019re not fighting."
+        ],
+        [
+            "Penny",
+            "Just go."
+        ],
+        [
+            "Leonard",
+            "Aren\u2019t you going to thank Penny for taking you to Disneyland?"
+        ],
+        [
+            "Sheldon",
+            "Thank you, Penny."
+        ],
+        [
+            "Penny",
+            "You\u2019re welcome, sweetie."
+        ],
+        [
+            "Leonard",
+            "Want a cup of coffee?"
+        ],
+        [
+            "Penny",
+            "Oh, um, I should probably get going."
+        ],
+        [
+            "Leonard",
+            "Come on. It\u2019s just a cup of coffee."
+        ],
+        [
+            "Penny",
+            "Yep, okay."
+        ],
+        [
+            "Howard (to Raj, who has whispered to him)",
+            "Oh, yeah, the whole thing seems a little twisted to me, too."
+        ],
+        [
+            "Leonard",
+            "What am I smelling?"
+        ],
+        [
+            "Penny",
+            "Sheldon\u2019s churro on my shoes."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s bedroom."
+        ],
+        [
+            "Penny",
+            "He\u2019s such an angel when he\u2019s asleep."
+        ],
+        [
+            "Leonard",
+            "Yeah. Shame he has to wake up."
+        ],
+        [
+            "Penny",
+            "I think we can do it."
+        ],
+        [
+            "Leonard",
+            "Smother Sheldon in his sleep? Wouldn\u2019t that be wrong?"
+        ],
+        [
+            "Penny",
+            "No, be friends. You and me."
+        ],
+        [
+            "Leonard",
+            "Oh. Sure. Absolutely."
+        ],
+        [
+            "Penny",
+            "Good. I\u2019m glad."
+        ],
+        [
+            "Leonard",
+            "Here\u2019s an idea. I\u2019m just throwing it out there, friends who have sex."
+        ],
+        [
+            "Penny",
+            "Good night, Leonard."
+        ],
+        [
+            "Leonard",
+            "Kidding. Just a couple of friends goofin\u2019 around."
+        ],
+        [
+            "Sheldon (in his sleep)",
+            "No, Goofy, no."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-3-episode-20-the-spaghetti-catalyst/"
+}

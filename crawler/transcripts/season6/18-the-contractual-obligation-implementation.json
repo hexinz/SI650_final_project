@@ -1,0 +1,1316 @@
+{
+    "Season": 6,
+    "Episode": 18,
+    "Title": "the contractual obligation implementation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment\u00a0"
+            ],
+            [
+                25,
+                "Credits sequence."
+            ],
+            [
+                26,
+                "The apartment."
+            ],
+            [
+                42,
+                "Penny\u2019s apartment."
+            ],
+            [
+                67,
+                "A school hallway."
+            ],
+            [
+                77,
+                "Bernadette\u2019s car."
+            ],
+            [
+                96,
+                "A library."
+            ],
+            [
+                105,
+                "A classroom."
+            ],
+            [
+                108,
+                "Later."
+            ],
+            [
+                119,
+                "The library."
+            ],
+            [
+                129,
+                "The classroom."
+            ],
+            [
+                141,
+                "The library."
+            ],
+            [
+                145,
+                "Howard and Bernadette\u2019s apartment."
+            ],
+            [
+                151,
+                "Penny\u2019s apartment."
+            ],
+            [
+                155,
+                "The apartment."
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Look, I know you guys don\u2019t want to do this, but we have no choice. So, you can either bitch and whine or we can just get it over with."
+            ],
+            [
+                4,
+                "Yeah, well, it\u2019s in our contract to serve on a university committee. And frankly, this is one I believe in. Okay, here we go. Encouraging more women to pursue a career in the sciences."
+            ],
+            [
+                7,
+                "Helping women? Y"
+            ],
+            [
+                9,
+                "Oh, like yesterday, when you made me drive you to the dry cleaners, the pharmacy and the post office?"
+            ],
+            [
+                11,
+                "You don\u2019t think it\u2019s worthwhile to try to get more women working in science."
+            ],
+            [
+                13,
+                "You mean where they were advanced enough to invent an interstellar warp drive, but a black lady still answered the space phone?"
+            ],
+            [
+                16,
+                "Yes, I know, you\u2019re too smart for this."
+            ],
+            [
+                18,
+                "Got it. All right, I\u2019m thinking one way to counter bias in the peer-review process, is for papers to be submitted under gender-neutral names. Like S. Smith instead of Samantha Smith."
+            ],
+            [
+                21,
+                "Guys, please don\u2019t make this a school project where I\u2019m the smart kid doing all the work while the slackers sit back and watch."
+            ],
+            [
+                27,
+                "Guys, our topic is encouraging women in science, can you at least play a less sexist game"
+            ],
+            [
+                31,
+                "Sheldon, you\u2019re always saying how much smarter you are than me. Spend five seconds and come up with one idea on how to get more women into science."
+            ],
+            [
+                33,
+                "That\u2019s actually good. Why didn\u2019t I think of that?"
+            ],
+            [
+                35,
+                "I wonder if there\u2019s a way we could give the idea a trial run."
+            ],
+            [
+                37,
+                "That\u2019s great, try to set up something for the three of us to go over there."
+            ],
+            [
+                68,
+                "It\u2019s nice of your old school to let us try out our science talk on some female students."
+            ],
+            [
+                72,
+                "And now you\u2019re also an astronaut."
+            ],
+            [
+                106,
+                "Okay, who\u2019s ready for some science? Me, too. Okay, I am Dr. Leonard Hofstadter. I am here with my friends Dr. Cooper and real-life astronaut Howard Wolowitz, and we are going to show you girls how cool a job in science can be. How cool, you ask? Well, how about negative 273 degrees, \u2019cause that\u2019s the temperature at which entropy reaches its minimum value. Did I just learn something new and have fun doing it? What? All right. So now let\u2019s bring out theoretical physicist Dr. Sheldon Cooper."
+            ],
+            [
+                116,
+                "Alright, alright. Boy, we are learning a lot here, huh? Thank you, astronaut Howard. Um, I am what\u2019s called an experimental physicist, which is super-fun, because I get to test theories and work with lasers. Yes?"
+            ],
+            [
+                118,
+                "Uh, excellent question. Um, I suppose I\u2019ve always been into science, you know. My mother and father are scientists, so I was kind of led in that direction. Uh, pushed might be a better way to describe it. To be honest with you guys, when I was your age, I wanted to be a rap star. Like Snoop Dogg, but with a healthy respect for the police. Yeah, no, sure, you laugh. Just like my mother did. After I confided, I was derided and chided, my moms and I collided. She said my dreams were misguided. That\u2019s just a little freestyle."
+            ],
+            [
+                130,
+                "I never wanted to play the cello. How do you meet girls playing the cello? Hey, you want to come over to my house and listen to me play an instrument that sounds like a suicidal bumblebee?"
+            ],
+            [
+                152,
+                "Hey, how was your\u2026 what?"
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "I got whine."
+            ],
+            [
+                5,
+                "Come on, if I was any good at convincing women to do stuff, I wouldn\u2019t have spent so much of my twenties in the shower."
+            ],
+            [
+                14,
+                "Oh, I did spend a lot of my shower time with Lieutenant Uhura."
+            ],
+            [
+                20,
+                "Van Nuys pole-dancer D.D. Melons. All right, I think we\u2019ve really helped women today. Let\u2019s fire up the old Xbox."
+            ],
+            [
+                23,
+                "So, you think I\u2019m one of the smarter kids?"
+            ],
+            [
+                29,
+                "Not to mention she has mammary glands that could nurse a family of 30. And have enough milk left over to open a Baskin Robbins."
+            ],
+            [
+                36,
+                "Maybe I could call my old middle school, see if we can talk to some of the female students."
+            ],
+            [
+                39,
+                "What exactly are you looking up?"
+            ],
+            [
+                69,
+                "Well, they\u2019re actually pretty excited. I\u2019m their most famous alum. If you don\u2019t count the serial killer who ate all those prostitutes."
+            ],
+            [
+                71,
+                "Yeah, last time I was here, I was just a scrawny little nerd."
+            ],
+            [
+                73,
+                "So many memories. I mean, how many times in these hallways was I tripped, punched and spit on? Oh, look, here\u2019s my old locker. I have a masters in engineering and I still can\u2019t figure out how Scott Kapinski got me and my briefcase to fit in there. (Kid bumps into him) Hey."
+            ],
+            [
+                75,
+                "Nothing."
+            ],
+            [
+                109,
+                "The thing to remember is you can go to outer space, too. I mean, look at me. I went to this very school. Those desks you\u2019re sitting in, I was once superglued to one of them."
+            ],
+            [
+                111,
+                "No, but I did go to the International Space Station."
+            ],
+            [
+                113,
+                "No, but I was in the rocket. I didn\u2019t actually\u2026"
+            ],
+            [
+                115,
+                "No, I\u2019m an American hero. Your uncle brings people nuts, okay?"
+            ],
+            [
+                131,
+                "Quick, pull the fire alarm. Let\u2019s get out of here."
+            ],
+            [
+                146,
+                "Bernie, I\u2019m home. You have fun today?"
+            ],
+            [
+                148,
+                "Please be Cinderella. Please be Cinderella."
+            ],
+            [
+                150,
+                "Milady."
+            ]
+        ],
+        "Sheldon": [
+            [
+                3,
+                "I got the B word."
+            ],
+            [
+                6,
+                "If you ask me, this whole thing is a waste of our time."
+            ],
+            [
+                8,
+                "Helping anyone. People should take care of themselves."
+            ],
+            [
+                10,
+                "I\u2019m not saying people can\u2019t use tools. Even an otter picks up a rock when he wants a clam."
+            ],
+            [
+                12,
+                "I think that\u2019s incredibly sexist of you. I believe in a gender-blind society like in Star Trek, where women and men of all races and creeds work side by side as equals."
+            ],
+            [
+                15,
+                "Howard\u2019s disturbing recollections aside, I don\u2019t appreciate being forced to do banal committee work."
+            ],
+            [
+                17,
+                "Exactly. It\u2019s like asking the Human Torch to heat up your frozen burrito."
+            ],
+            [
+                19,
+                "I suppose there is a history of professional women using their initials so as not to be pre-judged. Harry Potter\u2019s J.K. Rowling, uh, Star Trek\u2019s D.C. Fontana."
+            ],
+            [
+                22,
+                "We\u2019re not. This time you\u2019re the smart kid doing all the work while the even smarter kids sit back and watch."
+            ],
+            [
+                24,
+                "No, you\u2019re a tool I was using to make my point."
+            ],
+            [
+                28,
+                "How is it sexist? My character wields a battle axe as well as any man."
+            ],
+            [
+                30,
+                "Mother, warrior-princess, franchise owner, I hear glass ceilings shattering all over town."
+            ],
+            [
+                32,
+                "All your ideas address the issue at a university level. By then it\u2019s too late. You need to design an outreach program that targets girls at the middle school level and sets them on an academic track towards the hard sciences."
+            ],
+            [
+                34,
+                "Some people are otters, some people are rocks."
+            ],
+            [
+                38,
+                "Oh, hold on. While I\u2019m comfortable speaking about science, I\u2019m not sure I know how to spark the interest of schoolchildren. Better Google it."
+            ],
+            [
+                40,
+                "How do I get 12-year-old girls excited."
+            ],
+            [
+                70,
+                "This must feel pretty good for you, coming back to your alma mater as an astronaut."
+            ],
+            [
+                76,
+                "Smart. We don\u2019t want any problems."
+            ],
+            [
+                107,
+                "Hello, female children. Allow me to inspire you with a story about a great female scientist. Polish-born, French-educated Madame Curie. Co-discoverer of radioactivity, she was a hero of science, until her hair fell out, her vomit and stool became filled with blood, and she was poisoned to death by her own discovery. With a little hard work, I see no reason why that can\u2019t happen to any of you. Are we done? Can we go?"
+            ],
+            [
+                132,
+                "Uh, hello again. Um, yeah, I don\u2019t know if women in general have been actively discouraged from pursuing the sciences, but it\u2019s clear you young women here, today, have been. While I was listening to my colleagues waste your time, it occurred to me that it might be much more meaningful to hear about women in science from actual women in science, and, uh, I happen to know two brilliant examples who have agreed to speak to you on the phone right now. Uh, Dr. Rostenkowski, Dr. Fowler, are you there?"
+            ],
+            [
+                134,
+                "Thank you for taking time out of your very busy schedule to enlighten these young women."
+            ],
+            [
+                157,
+                "Heard you the first time."
+            ]
+        ],
+        "Leonard and Howard (together)": [
+            [
+                41,
+                "No!"
+            ]
+        ],
+        "Raj": [
+            [
+                43,
+                "Thanks again for letting me crash girls\u2019 night."
+            ],
+            [
+                45,
+                "Anyway, I was hoping I could, uh, pick your brains a little. I\u2019m supposed to take Lucy out Friday and I need a killer first date."
+            ],
+            [
+                47,
+                "Uh, Lucy has some, uh, social anxiety issues. Maybe we could start with something simpler."
+            ],
+            [
+                50,
+                "Mm, Disneyland? I don\u2019t know. With all the crowds and the weird characters walking around, just reminds me too much of India."
+            ],
+            [
+                61,
+                "Excuse me, I thought we were trying to solve my problem?"
+            ],
+            [
+                63,
+                "I am a man who can\u2019t talk to women, trying to figure out how to go on a romantic date with a girl who suffers from such crippling social anxiety she can\u2019t be around other people."
+            ],
+            [
+                97,
+                "Excuse me, I\u2019m meeting a girl here. It\u2019s kind of our first date."
+            ],
+            [
+                99,
+                "She and I are both a little awkward in social situations, so this seemed like a good idea."
+            ],
+            [
+                101,
+                "No, you can\u2019t join us. Just go, go climb back up whatever beanstalk you came down from."
+            ],
+            [
+                144,
+                "I\u2019m counting that as foreplay."
+            ]
+        ],
+        "Penny": [
+            [
+                44,
+                "Are you kidding? You brought fancy wine and made fondue. I\u2019ve slept with guys for less. It\u2019s a joke. Based on real events."
+            ],
+            [
+                49,
+                "Yeah, but you just have to remember, that ride is shorter than you think and they take a picture of you at the end, so make sure you got your clothes back on. It\u2019s a joke. Based on real events."
+            ],
+            [
+                53,
+                "So, blow off work, go on a weekday."
+            ],
+            [
+                55,
+                "It\u2019s more like how girls end up at a Best Western hotel with a 34-year-old guy named Luther."
+            ],
+            [
+                57,
+                "I can laugh about it now."
+            ],
+            [
+                59,
+                "I\u2019m in."
+            ],
+            [
+                62,
+                "Oh, yeah, right. Wait, what was your problem again?"
+            ],
+            [
+                64,
+                "Yeah, that\u2019s a toughie."
+            ],
+            [
+                82,
+                "I work at the Cheesecake Factory, I said bye."
+            ],
+            [
+                86,
+                "You\u2019re kidding, right? We\u2019re not just gonna get drunk and go on rides?"
+            ],
+            [
+                88,
+                "All right, whatever. How does it work?"
+            ],
+            [
+                90,
+                "Guess it would be fun to be Cinderella."
+            ],
+            [
+                92,
+                "Yeah."
+            ],
+            [
+                139,
+                "Unless you want to be Cinderella."
+            ],
+            [
+                153,
+                "I can explain. I played hooky with the girls, then we all went to Disneyland and got\u2026 What are you doing?"
+            ]
+        ],
+        "Amy": [
+            [
+                46,
+                "Well, evolutionary biology says that women are attracted to a man who is steady n the face of danger, so I recommend an unsafe environment. Seedy bar on the wrong side of the tracks, picnic near a lunatic asylum, a wine tasting on Skid Row."
+            ],
+            [
+                51,
+                "I haven\u2019t been to Disneyland since I was a kid. We should definitely go one weekend."
+            ],
+            [
+                54,
+                "Hooky? I\u2019ve never played hooky in my life. My mom said that\u2019s how girls end up addicted to reefer and jazz music."
+            ],
+            [
+                60,
+                "Me, too."
+            ],
+            [
+                66,
+                "Hmm. We doing just Disney or California Adventure, too?"
+            ],
+            [
+                78,
+                "I can\u2019t believe I ditched work for Disneyland."
+            ],
+            [
+                80,
+                "Oh, I was very clever, I did it in stages. At seven o\u2019clock last night, I called about a problem at the lab and casually mentioned I was going out for seafood. At nine thirty, I called and told him that one of my scallops tasted weird. At eleven thirty, I called and said I was throwing up like a fire hose. At twelve forty-five, I called and made nothing but dry heaving sounds, and now I\u2019m going to Disneyland."
+            ],
+            [
+                83,
+                "So, what are we gonna do first?"
+            ],
+            [
+                85,
+                "Ooh, that sounds like fun."
+            ],
+            [
+                87,
+                "Come on, do it with us."
+            ],
+            [
+                91,
+                "Oh, I want to be Cinderella, too."
+            ],
+            [
+                94,
+                "Then how do we decide?"
+            ],
+            [
+                135,
+                "It\u2019s our pleasure. I\u2019m Dr. Fowler, and I\u2019m a neuroscientist."
+            ],
+            [
+                137,
+                "The world of science needs more women, but from a young age, we girls are encouraged to care more about the way we look than about the power of our minds."
+            ],
+            [
+                156,
+                "Sheldon, all Snow White needs is one little kiss to wake up."
+            ]
+        ],
+        "Bernadette": [
+            [
+                48,
+                "Why don\u2019t you take her to Disneyland? You go on Space Mountain, you\u2019re in the dark, she\u2019s holding onto you."
+            ],
+            [
+                52,
+                "Weekends are too crowded."
+            ],
+            [
+                56,
+                "Joke?"
+            ],
+            [
+                58,
+                "So, what do you say? This Friday we ditch work and go to Disneyland?"
+            ],
+            [
+                65,
+                "Let\u2019s think."
+            ],
+            [
+                79,
+                "What did you tell your boss?"
+            ],
+            [
+                81,
+                "Penny, what did you say?"
+            ],
+            [
+                84,
+                "I don\u2019t know about you guys, but I\u2019m gonna make a beeline for the place that gives you a princess makeover."
+            ],
+            [
+                89,
+                "Okay, so, you pick your princess, Sleeping Beauty, Snow White, Cinderella, they give you hair, makeup, the works."
+            ],
+            [
+                93,
+                "We can\u2019t all be Cinderella."
+            ],
+            [
+                95,
+                "Well, it\u2019s simple. This was my idea. I\u2019m driving. I\u2019m Cinderella. You bitches got a problem with that, we could stop the car right now."
+            ],
+            [
+                136,
+                "And I\u2019m Dr. Rostenkowski Wolowitz, and I\u2019m a microbiologist."
+            ],
+            [
+                138,
+                "That\u2019s true. Every one of you has the capacity to be anything you want to be."
+            ],
+            [
+                140,
+                "Come at me. See what happens."
+            ],
+            [
+                147,
+                "Yes, and I have a surprise for you."
+            ],
+            [
+                149,
+                "Well, hello, Prince Charming."
+            ]
+        ],
+        "Kid": [
+            [
+                74,
+                "What?"
+            ]
+        ],
+        "Man": [
+            [
+                98,
+                "In a library?"
+            ],
+            [
+                100,
+                "People say I\u2019m a little awkward, too. May I join you?"
+            ]
+        ],
+        "Man (to Lucy)": [
+            [
+                102,
+                "You can do better."
+            ]
+        ],
+        "Lucy": [
+            [
+                103,
+                "Oh, we\u2019re eating here? (Reading) We\u2019re having a texting date? (By text) I love that."
+            ]
+        ],
+        "Raj (by text)": [
+            [
+                104,
+                "As you\u2019re reading, it will help to remember I have an adorable accent."
+            ],
+            [
+                120,
+                "My dad\u2019s a gynaecologist in India, so if you\u2019re over there and need a check up, as he likes to say, he\u2019s at your cervix."
+            ],
+            [
+                122,
+                "That\u2019s a fitting pun-ishment. I still don\u2019t know what you do for a living."
+            ],
+            [
+                124,
+                "Anything I might have seen?"
+            ],
+            [
+                126,
+                "No, never. What is porn?"
+            ],
+            [
+                128,
+                "Ooh, fun. I love prom. The romance, the gowns, it\u2019s like a fairy tale come to life. Sorry. Autocorrect. That was supposed to say, I like sports."
+            ],
+            [
+                142,
+                "This was really fun."
+            ]
+        ],
+        "Girl": [
+            [
+                110,
+                "Did you go to the moon?"
+            ],
+            [
+                112,
+                "Did you fly the rocket?"
+            ],
+            [
+                114,
+                "So you just flew around? That\u2019s kind of like my uncle. He\u2019s a flight attendant."
+            ]
+        ],
+        "Girl 2": [
+            [
+                117,
+                "How did you decide to become a scientist?"
+            ]
+        ],
+        "Lucy(by text)": [
+            [
+                121,
+                "That\u2019s terrible. Your dad should be sent to the pun-itentiary."
+            ]
+        ],
+        "Lucy (by text)": [
+            [
+                123,
+                "Web design."
+            ],
+            [
+                125,
+                "I don\u2019t know. You ever look at porn Web sites?"
+            ],
+            [
+                127,
+                "Sorry. Autocorrect. That was supposed to say prom Web sites."
+            ]
+        ],
+        "Amy (voice)": [
+            [
+                133,
+                "We\u2019re here."
+            ]
+        ],
+        "Lucy ": [
+            [
+                143,
+                "My battery\u2019s dying, so I\u2019m just gonna talk. Thanks for today. I\u2019ve been trying to do more things that scare me, and coming here was definitely one of them. But it was also really nice. So thanks, and, um, I\u2019m gonna go. Maybe I could do one more scary thing before I go and give you a kiss good-bye? You know, if that\u2019s okay. Okay. Panic attack. Maybe next time."
+            ]
+        ],
+        "Leonard (undressing)": [
+            [
+                154,
+                "Disneyland. Go on, I\u2019m listening."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment\u00a0"
+        ],
+        [
+            "Leonard",
+            "Look, I know you guys don\u2019t want to do this, but we have no choice. So, you can either bitch and whine or we can just get it over with."
+        ],
+        [
+            "Howard",
+            "I got whine."
+        ],
+        [
+            "Sheldon",
+            "I got the B word."
+        ],
+        [
+            "Leonard",
+            "Yeah, well, it\u2019s in our contract to serve on a university committee. And frankly, this is one I believe in. Okay, here we go. Encouraging more women to pursue a career in the sciences."
+        ],
+        [
+            "Howard",
+            "Come on, if I was any good at convincing women to do stuff, I wouldn\u2019t have spent so much of my twenties in the shower."
+        ],
+        [
+            "Sheldon",
+            "If you ask me, this whole thing is a waste of our time."
+        ],
+        [
+            "Leonard",
+            "Helping women? Y"
+        ],
+        [
+            "Sheldon",
+            "Helping anyone. People should take care of themselves."
+        ],
+        [
+            "Leonard",
+            "Oh, like yesterday, when you made me drive you to the dry cleaners, the pharmacy and the post office?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not saying people can\u2019t use tools. Even an otter picks up a rock when he wants a clam."
+        ],
+        [
+            "Leonard",
+            "You don\u2019t think it\u2019s worthwhile to try to get more women working in science."
+        ],
+        [
+            "Sheldon",
+            "I think that\u2019s incredibly sexist of you. I believe in a gender-blind society like in Star Trek, where women and men of all races and creeds work side by side as equals."
+        ],
+        [
+            "Leonard",
+            "You mean where they were advanced enough to invent an interstellar warp drive, but a black lady still answered the space phone?"
+        ],
+        [
+            "Howard",
+            "Oh, I did spend a lot of my shower time with Lieutenant Uhura."
+        ],
+        [
+            "Sheldon",
+            "Howard\u2019s disturbing recollections aside, I don\u2019t appreciate being forced to do banal committee work."
+        ],
+        [
+            "Leonard",
+            "Yes, I know, you\u2019re too smart for this."
+        ],
+        [
+            "Sheldon",
+            "Exactly. It\u2019s like asking the Human Torch to heat up your frozen burrito."
+        ],
+        [
+            "Leonard",
+            "Got it. All right, I\u2019m thinking one way to counter bias in the peer-review process, is for papers to be submitted under gender-neutral names. Like S. Smith instead of Samantha Smith."
+        ],
+        [
+            "Sheldon",
+            "I suppose there is a history of professional women using their initials so as not to be pre-judged. Harry Potter\u2019s J.K. Rowling, uh, Star Trek\u2019s D.C. Fontana."
+        ],
+        [
+            "Howard",
+            "Van Nuys pole-dancer D.D. Melons. All right, I think we\u2019ve really helped women today. Let\u2019s fire up the old Xbox."
+        ],
+        [
+            "Leonard",
+            "Guys, please don\u2019t make this a school project where I\u2019m the smart kid doing all the work while the slackers sit back and watch."
+        ],
+        [
+            "Sheldon",
+            "We\u2019re not. This time you\u2019re the smart kid doing all the work while the even smarter kids sit back and watch."
+        ],
+        [
+            "Howard",
+            "So, you think I\u2019m one of the smarter kids?"
+        ],
+        [
+            "Sheldon",
+            "No, you\u2019re a tool I was using to make my point."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Guys, our topic is encouraging women in science, can you at least play a less sexist game"
+        ],
+        [
+            "Sheldon",
+            "How is it sexist? My character wields a battle axe as well as any man."
+        ],
+        [
+            "Howard",
+            "Not to mention she has mammary glands that could nurse a family of 30. And have enough milk left over to open a Baskin Robbins."
+        ],
+        [
+            "Sheldon",
+            "Mother, warrior-princess, franchise owner, I hear glass ceilings shattering all over town."
+        ],
+        [
+            "Leonard",
+            "Sheldon, you\u2019re always saying how much smarter you are than me. Spend five seconds and come up with one idea on how to get more women into science."
+        ],
+        [
+            "Sheldon",
+            "All your ideas address the issue at a university level. By then it\u2019s too late. You need to design an outreach program that targets girls at the middle school level and sets them on an academic track towards the hard sciences."
+        ],
+        [
+            "Leonard",
+            "That\u2019s actually good. Why didn\u2019t I think of that?"
+        ],
+        [
+            "Sheldon",
+            "Some people are otters, some people are rocks."
+        ],
+        [
+            "Leonard",
+            "I wonder if there\u2019s a way we could give the idea a trial run."
+        ],
+        [
+            "Howard",
+            "Maybe I could call my old middle school, see if we can talk to some of the female students."
+        ],
+        [
+            "Leonard",
+            "That\u2019s great, try to set up something for the three of us to go over there."
+        ],
+        [
+            "Sheldon",
+            "Oh, hold on. While I\u2019m comfortable speaking about science, I\u2019m not sure I know how to spark the interest of schoolchildren. Better Google it."
+        ],
+        [
+            "Howard",
+            "What exactly are you looking up?"
+        ],
+        [
+            "Sheldon",
+            "How do I get 12-year-old girls excited."
+        ],
+        [
+            "Leonard and Howard (together)",
+            "No!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Raj",
+            "Thanks again for letting me crash girls\u2019 night."
+        ],
+        [
+            "Penny",
+            "Are you kidding? You brought fancy wine and made fondue. I\u2019ve slept with guys for less. It\u2019s a joke. Based on real events."
+        ],
+        [
+            "Raj",
+            "Anyway, I was hoping I could, uh, pick your brains a little. I\u2019m supposed to take Lucy out Friday and I need a killer first date."
+        ],
+        [
+            "Amy",
+            "Well, evolutionary biology says that women are attracted to a man who is steady n the face of danger, so I recommend an unsafe environment. Seedy bar on the wrong side of the tracks, picnic near a lunatic asylum, a wine tasting on Skid Row."
+        ],
+        [
+            "Raj",
+            "Uh, Lucy has some, uh, social anxiety issues. Maybe we could start with something simpler."
+        ],
+        [
+            "Bernadette",
+            "Why don\u2019t you take her to Disneyland? You go on Space Mountain, you\u2019re in the dark, she\u2019s holding onto you."
+        ],
+        [
+            "Penny",
+            "Yeah, but you just have to remember, that ride is shorter than you think and they take a picture of you at the end, so make sure you got your clothes back on. It\u2019s a joke. Based on real events."
+        ],
+        [
+            "Raj",
+            "Mm, Disneyland? I don\u2019t know. With all the crowds and the weird characters walking around, just reminds me too much of India."
+        ],
+        [
+            "Amy",
+            "I haven\u2019t been to Disneyland since I was a kid. We should definitely go one weekend."
+        ],
+        [
+            "Bernadette",
+            "Weekends are too crowded."
+        ],
+        [
+            "Penny",
+            "So, blow off work, go on a weekday."
+        ],
+        [
+            "Amy",
+            "Hooky? I\u2019ve never played hooky in my life. My mom said that\u2019s how girls end up addicted to reefer and jazz music."
+        ],
+        [
+            "Penny",
+            "It\u2019s more like how girls end up at a Best Western hotel with a 34-year-old guy named Luther."
+        ],
+        [
+            "Bernadette",
+            "Joke?"
+        ],
+        [
+            "Penny",
+            "I can laugh about it now."
+        ],
+        [
+            "Bernadette",
+            "So, what do you say? This Friday we ditch work and go to Disneyland?"
+        ],
+        [
+            "Penny",
+            "I\u2019m in."
+        ],
+        [
+            "Amy",
+            "Me, too."
+        ],
+        [
+            "Raj",
+            "Excuse me, I thought we were trying to solve my problem?"
+        ],
+        [
+            "Penny",
+            "Oh, yeah, right. Wait, what was your problem again?"
+        ],
+        [
+            "Raj",
+            "I am a man who can\u2019t talk to women, trying to figure out how to go on a romantic date with a girl who suffers from such crippling social anxiety she can\u2019t be around other people."
+        ],
+        [
+            "Penny",
+            "Yeah, that\u2019s a toughie."
+        ],
+        [
+            "Bernadette",
+            "Let\u2019s think."
+        ],
+        [
+            "Amy",
+            "Hmm. We doing just Disney or California Adventure, too?"
+        ],
+        [
+            "Scene",
+            "A school hallway."
+        ],
+        [
+            "Leonard",
+            "It\u2019s nice of your old school to let us try out our science talk on some female students."
+        ],
+        [
+            "Howard",
+            "Well, they\u2019re actually pretty excited. I\u2019m their most famous alum. If you don\u2019t count the serial killer who ate all those prostitutes."
+        ],
+        [
+            "Sheldon",
+            "This must feel pretty good for you, coming back to your alma mater as an astronaut."
+        ],
+        [
+            "Howard",
+            "Yeah, last time I was here, I was just a scrawny little nerd."
+        ],
+        [
+            "Leonard",
+            "And now you\u2019re also an astronaut."
+        ],
+        [
+            "Howard",
+            "So many memories. I mean, how many times in these hallways was I tripped, punched and spit on? Oh, look, here\u2019s my old locker. I have a masters in engineering and I still can\u2019t figure out how Scott Kapinski got me and my briefcase to fit in there. (Kid bumps into him) Hey."
+        ],
+        [
+            "Kid",
+            "What?"
+        ],
+        [
+            "Howard",
+            "Nothing."
+        ],
+        [
+            "Sheldon",
+            "Smart. We don\u2019t want any problems."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car."
+        ],
+        [
+            "Amy",
+            "I can\u2019t believe I ditched work for Disneyland."
+        ],
+        [
+            "Bernadette",
+            "What did you tell your boss?"
+        ],
+        [
+            "Amy",
+            "Oh, I was very clever, I did it in stages. At seven o\u2019clock last night, I called about a problem at the lab and casually mentioned I was going out for seafood. At nine thirty, I called and told him that one of my scallops tasted weird. At eleven thirty, I called and said I was throwing up like a fire hose. At twelve forty-five, I called and made nothing but dry heaving sounds, and now I\u2019m going to Disneyland."
+        ],
+        [
+            "Bernadette",
+            "Penny, what did you say?"
+        ],
+        [
+            "Penny",
+            "I work at the Cheesecake Factory, I said bye."
+        ],
+        [
+            "Amy",
+            "So, what are we gonna do first?"
+        ],
+        [
+            "Bernadette",
+            "I don\u2019t know about you guys, but I\u2019m gonna make a beeline for the place that gives you a princess makeover."
+        ],
+        [
+            "Amy",
+            "Ooh, that sounds like fun."
+        ],
+        [
+            "Penny",
+            "You\u2019re kidding, right? We\u2019re not just gonna get drunk and go on rides?"
+        ],
+        [
+            "Amy",
+            "Come on, do it with us."
+        ],
+        [
+            "Penny",
+            "All right, whatever. How does it work?"
+        ],
+        [
+            "Bernadette",
+            "Okay, so, you pick your princess, Sleeping Beauty, Snow White, Cinderella, they give you hair, makeup, the works."
+        ],
+        [
+            "Penny",
+            "Guess it would be fun to be Cinderella."
+        ],
+        [
+            "Amy",
+            "Oh, I want to be Cinderella, too."
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "We can\u2019t all be Cinderella."
+        ],
+        [
+            "Amy",
+            "Then how do we decide?"
+        ],
+        [
+            "Bernadette",
+            "Well, it\u2019s simple. This was my idea. I\u2019m driving. I\u2019m Cinderella. You bitches got a problem with that, we could stop the car right now."
+        ],
+        [
+            "Scene",
+            "A library."
+        ],
+        [
+            "Raj",
+            "Excuse me, I\u2019m meeting a girl here. It\u2019s kind of our first date."
+        ],
+        [
+            "Man",
+            "In a library?"
+        ],
+        [
+            "Raj",
+            "She and I are both a little awkward in social situations, so this seemed like a good idea."
+        ],
+        [
+            "Man",
+            "People say I\u2019m a little awkward, too. May I join you?"
+        ],
+        [
+            "Raj",
+            "No, you can\u2019t join us. Just go, go climb back up whatever beanstalk you came down from."
+        ],
+        [
+            "Man (to Lucy)",
+            "You can do better."
+        ],
+        [
+            "Lucy",
+            "Oh, we\u2019re eating here? (Reading) We\u2019re having a texting date? (By text) I love that."
+        ],
+        [
+            "Raj (by text)",
+            "As you\u2019re reading, it will help to remember I have an adorable accent."
+        ],
+        [
+            "Scene",
+            "A classroom."
+        ],
+        [
+            "Leonard",
+            "Okay, who\u2019s ready for some science? Me, too. Okay, I am Dr. Leonard Hofstadter. I am here with my friends Dr. Cooper and real-life astronaut Howard Wolowitz, and we are going to show you girls how cool a job in science can be. How cool, you ask? Well, how about negative 273 degrees, \u2019cause that\u2019s the temperature at which entropy reaches its minimum value. Did I just learn something new and have fun doing it? What? All right. So now let\u2019s bring out theoretical physicist Dr. Sheldon Cooper."
+        ],
+        [
+            "Sheldon",
+            "Hello, female children. Allow me to inspire you with a story about a great female scientist. Polish-born, French-educated Madame Curie. Co-discoverer of radioactivity, she was a hero of science, until her hair fell out, her vomit and stool became filled with blood, and she was poisoned to death by her own discovery. With a little hard work, I see no reason why that can\u2019t happen to any of you. Are we done? Can we go?"
+        ],
+        [
+            "Scene",
+            "Later."
+        ],
+        [
+            "Howard",
+            "The thing to remember is you can go to outer space, too. I mean, look at me. I went to this very school. Those desks you\u2019re sitting in, I was once superglued to one of them."
+        ],
+        [
+            "Girl",
+            "Did you go to the moon?"
+        ],
+        [
+            "Howard",
+            "No, but I did go to the International Space Station."
+        ],
+        [
+            "Girl",
+            "Did you fly the rocket?"
+        ],
+        [
+            "Howard",
+            "No, but I was in the rocket. I didn\u2019t actually\u2026"
+        ],
+        [
+            "Girl",
+            "So you just flew around? That\u2019s kind of like my uncle. He\u2019s a flight attendant."
+        ],
+        [
+            "Howard",
+            "No, I\u2019m an American hero. Your uncle brings people nuts, okay?"
+        ],
+        [
+            "Leonard",
+            "Alright, alright. Boy, we are learning a lot here, huh? Thank you, astronaut Howard. Um, I am what\u2019s called an experimental physicist, which is super-fun, because I get to test theories and work with lasers. Yes?"
+        ],
+        [
+            "Girl 2",
+            "How did you decide to become a scientist?"
+        ],
+        [
+            "Leonard",
+            "Uh, excellent question. Um, I suppose I\u2019ve always been into science, you know. My mother and father are scientists, so I was kind of led in that direction. Uh, pushed might be a better way to describe it. To be honest with you guys, when I was your age, I wanted to be a rap star. Like Snoop Dogg, but with a healthy respect for the police. Yeah, no, sure, you laugh. Just like my mother did. After I confided, I was derided and chided, my moms and I collided. She said my dreams were misguided. That\u2019s just a little freestyle."
+        ],
+        [
+            "Scene",
+            "The library."
+        ],
+        [
+            "Raj (by text)",
+            "My dad\u2019s a gynaecologist in India, so if you\u2019re over there and need a check up, as he likes to say, he\u2019s at your cervix."
+        ],
+        [
+            "Lucy(by text)",
+            "That\u2019s terrible. Your dad should be sent to the pun-itentiary."
+        ],
+        [
+            "Raj (by text)",
+            "That\u2019s a fitting pun-ishment. I still don\u2019t know what you do for a living."
+        ],
+        [
+            "Lucy (by text)",
+            "Web design."
+        ],
+        [
+            "Raj (by text)",
+            "Anything I might have seen?"
+        ],
+        [
+            "Lucy (by text)",
+            "I don\u2019t know. You ever look at porn Web sites?"
+        ],
+        [
+            "Raj (by text)",
+            "No, never. What is porn?"
+        ],
+        [
+            "Lucy (by text)",
+            "Sorry. Autocorrect. That was supposed to say prom Web sites."
+        ],
+        [
+            "Raj (by text)",
+            "Ooh, fun. I love prom. The romance, the gowns, it\u2019s like a fairy tale come to life. Sorry. Autocorrect. That was supposed to say, I like sports."
+        ],
+        [
+            "Scene",
+            "The classroom."
+        ],
+        [
+            "Leonard",
+            "I never wanted to play the cello. How do you meet girls playing the cello? Hey, you want to come over to my house and listen to me play an instrument that sounds like a suicidal bumblebee?"
+        ],
+        [
+            "Howard",
+            "Quick, pull the fire alarm. Let\u2019s get out of here."
+        ],
+        [
+            "Sheldon",
+            "Uh, hello again. Um, yeah, I don\u2019t know if women in general have been actively discouraged from pursuing the sciences, but it\u2019s clear you young women here, today, have been. While I was listening to my colleagues waste your time, it occurred to me that it might be much more meaningful to hear about women in science from actual women in science, and, uh, I happen to know two brilliant examples who have agreed to speak to you on the phone right now. Uh, Dr. Rostenkowski, Dr. Fowler, are you there?"
+        ],
+        [
+            "Amy (voice)",
+            "We\u2019re here."
+        ],
+        [
+            "Sheldon",
+            "Thank you for taking time out of your very busy schedule to enlighten these young women."
+        ],
+        [
+            "Amy",
+            "It\u2019s our pleasure. I\u2019m Dr. Fowler, and I\u2019m a neuroscientist."
+        ],
+        [
+            "Bernadette",
+            "And I\u2019m Dr. Rostenkowski Wolowitz, and I\u2019m a microbiologist."
+        ],
+        [
+            "Amy",
+            "The world of science needs more women, but from a young age, we girls are encouraged to care more about the way we look than about the power of our minds."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s true. Every one of you has the capacity to be anything you want to be."
+        ],
+        [
+            "Penny",
+            "Unless you want to be Cinderella."
+        ],
+        [
+            "Bernadette",
+            "Come at me. See what happens."
+        ],
+        [
+            "Scene",
+            "The library."
+        ],
+        [
+            "Raj (by text)",
+            "This was really fun."
+        ],
+        [
+            "Lucy ",
+            "My battery\u2019s dying, so I\u2019m just gonna talk. Thanks for today. I\u2019ve been trying to do more things that scare me, and coming here was definitely one of them. But it was also really nice. So thanks, and, um, I\u2019m gonna go. Maybe I could do one more scary thing before I go and give you a kiss good-bye? You know, if that\u2019s okay. Okay. Panic attack. Maybe next time."
+        ],
+        [
+            "Raj",
+            "I\u2019m counting that as foreplay."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s apartment."
+        ],
+        [
+            "Howard",
+            "Bernie, I\u2019m home. You have fun today?"
+        ],
+        [
+            "Bernadette",
+            "Yes, and I have a surprise for you."
+        ],
+        [
+            "Howard",
+            "Please be Cinderella. Please be Cinderella."
+        ],
+        [
+            "Bernadette",
+            "Well, hello, Prince Charming."
+        ],
+        [
+            "Howard",
+            "Milady."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Leonard",
+            "Hey, how was your\u2026 what?"
+        ],
+        [
+            "Penny",
+            "I can explain. I played hooky with the girls, then we all went to Disneyland and got\u2026 What are you doing?"
+        ],
+        [
+            "Leonard (undressing)",
+            "Disneyland. Go on, I\u2019m listening."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Sheldon, all Snow White needs is one little kiss to wake up."
+        ],
+        [
+            "Sheldon",
+            "Heard you the first time."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-6-episode-18-the-contractual-obligation-implementation/"
+}

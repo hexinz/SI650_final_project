@@ -1,0 +1,2042 @@
+{
+    "Season": 7,
+    "Episode": 18,
+    "Title": "the mommy observation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                38,
+                "Credits sequence."
+            ],
+            [
+                39,
+                "The apartment."
+            ],
+            [
+                61,
+                "A hire car."
+            ],
+            [
+                70,
+                "The apartment. "
+            ],
+            [
+                94,
+                "Sheldon\u2019s childhood home."
+            ],
+            [
+                103,
+                "A bar in Texas."
+            ],
+            [
+                118,
+                "The apartment."
+            ],
+            [
+                145,
+                "Sheldon\u2019s childhood home."
+            ],
+            [
+                175,
+                "The apartment."
+            ],
+            [
+                195,
+                "Sheldon\u2019s old bedroom."
+            ],
+            [
+                211,
+                "Mrs Cooper\u2019s living room."
+            ],
+            [
+                229,
+                "The apartment."
+            ],
+            [
+                249,
+                "In front of the building, 20 years later."
+            ]
+        ],
+        "Amy": [
+            [
+                1,
+                "Should you really be sitting in Sheldon\u2019s spot?"
+            ],
+            [
+                10,
+                "Oh, hi."
+            ],
+            [
+                18,
+                "I don\u2019t know."
+            ],
+            [
+                32,
+                "I\u2019m leaving."
+            ],
+            [
+                35,
+                "Yeah, it\u2019s Bloom."
+            ],
+            [
+                46,
+                "I think it might be fun to be someone else tonight."
+            ],
+            [
+                48,
+                "Oh, ugh."
+            ],
+            [
+                53,
+                "According to Wikipedia, Sherlock Holmes came first."
+            ],
+            [
+                74,
+                "Hey, I found something. It looks like a little man with a briefcase."
+            ],
+            [
+                81,
+                "That is so sweet."
+            ],
+            [
+                85,
+                "What\u2019s it for?"
+            ],
+            [
+                125,
+                "But why?"
+            ],
+            [
+                127,
+                "Hey, I won the Nobel Prize in physiology, then I used the money to buy Stuart\u2019s comic book store, and close it down so Sheldon would pay attention to me. Not the worst idea."
+            ],
+            [
+                133,
+                "What does your card say, Bernadette?"
+            ],
+            [
+                141,
+                "Dun, dun, dun. He started it."
+            ],
+            [
+                179,
+                "I\u2019m surprised you guys never talked about this stuff."
+            ],
+            [
+                181,
+                "Actually, our relationship agreement covers a wide array of scenarios, including career changes, financial instability, intelligent dog uprising. FYI, we plan on selling out the human race hard."
+            ],
+            [
+                189,
+                "Excuse me?"
+            ],
+            [
+                232,
+                "It actually was kind of fun."
+            ],
+            [
+                234,
+                "Yeah."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "He\u2019s in Texas, he\u2019ll never know."
+            ],
+            [
+                5,
+                "Have you heard from Howard?"
+            ],
+            [
+                12,
+                "Hey, Stuart!"
+            ],
+            [
+                14,
+                "Good. Sheldon\u2019s out of town, so we can do whatever we want. We even ordered from the Thai place he doesn\u2019t like."
+            ],
+            [
+                20,
+                "Stuart? Are you okay?"
+            ],
+            [
+                24,
+                "Stuart?"
+            ],
+            [
+                26,
+                "Well, it\u2019s too late."
+            ],
+            [
+                28,
+                "He\u2019s been murdered by someone in this room."
+            ],
+            [
+                31,
+                "Welcome to another classic Koothrappali murder mystery dinner."
+            ],
+            [
+                33,
+                "You can\u2019t leave. You\u2019re a suspect in the mysterious murder of Stuart Bloom."
+            ],
+            [
+                41,
+                "Lame characters with silly ac\u2026, what kind of actress are you?"
+            ],
+            [
+                43,
+                "Thank you."
+            ],
+            [
+                47,
+                "Actually, you\u2019re all just gonna be yourselves."
+            ],
+            [
+                50,
+                "Very good, Bernadette. You are a regular Byomkesh Bakshi."
+            ],
+            [
+                52,
+                "Or is Sherlock Holmes the English Byomkesh Bakshi?"
+            ],
+            [
+                54,
+                "Great, everyone\u2019s a Byomkesh Bakshi. Now, here are some secret facts about each of you, including whether you are the murderer. Throughout the game, feel free to ask each other questions to uncover clues."
+            ],
+            [
+                56,
+                "Any question but that."
+            ],
+            [
+                72,
+                "I can\u2019t tell you that. But perhaps the killer dropped a fun and imaginative clue somewhere in the apartment."
+            ],
+            [
+                76,
+                "Well, unlike that, my games are much more fun."
+            ],
+            [
+                78,
+                "Well, I guess it goes back to when I was a fat kid in India, and didn\u2019t have any friends."
+            ],
+            [
+                80,
+                "Yeah, I was. I was 200 pounds by the time I was in middle school. Kids were mean. Cows may be sacred there, but it doesn\u2019t help if you look like one. Anyway, I was pretty lonely, so I had to make up my own stories and games, and I promised myself if I ever made any friends that, that I would play those games with them."
+            ],
+            [
+                83,
+                "No, I was svelte as a gazelle. A gazelle blessed with a flair for storytelling."
+            ],
+            [
+                87,
+                "From the future? How fun and imaginative."
+            ],
+            [
+                89,
+                "Correct."
+            ],
+            [
+                91,
+                "Does the smart-ass know that Terminator was actually ripped off from an Outer Limits script called Demon With a Glass Hand, by Harlan Ellison?"
+            ],
+            [
+                119,
+                "Okay, murder suspects, Leonard has found the time machine the killer must\u2019ve used. You\u2019re all inside it, and we hurtle through the very fabric of time. And welcome to 20 years in the future. Hey, you guys just time-travelled. Stop looking so bored."
+            ],
+            [
+                122,
+                "Fine, just try not to look too alive."
+            ],
+            [
+                126,
+                "Perhaps this will help. Here are some facts about yourselves in the future that might contain a clue."
+            ],
+            [
+                132,
+                "Oh, no. In this game, as your careers both took off, you drifted apart. Kind of like how future me lost touch with you guys after I became boy toy for the wrinkled, but still flexible, Madonna."
+            ],
+            [
+                142,
+                "Okay, okay, guys, new back stories. Uh, Penny and Leonard, you two lovebirds are super successful and living in New York. Uh, you\u2019re an actress, you\u2019re a professor and you have three beautiful kids."
+            ],
+            [
+                176,
+                "Can we please get back to the game?"
+            ],
+            [
+                193,
+                "Oh, come on."
+            ],
+            [
+                231,
+                "I\u2019m not pouting, I\u2019m brooding. Which is how sexy men pout."
+            ],
+            [
+                233,
+                "You\u2019re just saying that."
+            ],
+            [
+                236,
+                "Thank you. I thought it was inspired."
+            ],
+            [
+                246,
+                "And it\u2019s done."
+            ]
+        ],
+        "Penny": [
+            [
+                3,
+                "I wouldn\u2019t be so sure about that."
+            ],
+            [
+                7,
+                "Sheldon didn\u2019t heckle him?"
+            ],
+            [
+                16,
+                "Disgusting. Do not tell him."
+            ],
+            [
+                23,
+                "Oh, my God, you guys need to do something!"
+            ],
+            [
+                29,
+                "Oh, my God."
+            ],
+            [
+                36,
+                "Are you really gonna lie on the floor and pretend to be dead all night?"
+            ],
+            [
+                40,
+                "Are you gonna make us pretend to be a bunch of lame characters with silly accents?"
+            ],
+            [
+                42,
+                "You\u2019re right, I\u2019m sorry. Sounds like fun."
+            ],
+            [
+                44,
+                "That kind of actress. This sucks."
+            ],
+            [
+                55,
+                "Got it. Hey, who\u2019s the murderer?"
+            ],
+            [
+                57,
+                "Sorry. Hey, who\u2019s not the murderer?"
+            ],
+            [
+                73,
+                "Ooh, I\u2019m gonna check the fridge, and see if there are any clues inside a beer."
+            ],
+            [
+                77,
+                "Okay, can I ask you something? Why do you like making us do this stuff?"
+            ],
+            [
+                93,
+                "I\u2019m gonna need another clue."
+            ],
+            [
+                120,
+                "Well, my beer isn\u2019t flat and my rack\u2019s not saggy. So far, the future\u2019s great."
+            ],
+            [
+                128,
+                "Hey, I\u2019m a famous actress living in London."
+            ],
+            [
+                130,
+                "Hmm."
+            ],
+            [
+                135,
+                "Of course not. If I became a famous actress and had to move, you would just come with me."
+            ],
+            [
+                137,
+                "Yeah, but if I become a successful actress, we wouldn\u2019t need the money."
+            ],
+            [
+                140,
+                "So, wait, if my career took me somewhere else, you might not go?"
+            ],
+            [
+                144,
+                "Really? You think I\u2019m putting this body through three kids?"
+            ],
+            [
+                178,
+                "Okay, if you do something cool in science, you might change the world. If I become a famous actress, I\u2019m not gonna tell you why movie stars are the best. They just are."
+            ],
+            [
+                182,
+                "In 20 years, who knows what\u2019ll happen with any of us?"
+            ],
+            [
+                184,
+                "You do?"
+            ],
+            [
+                187,
+                "That\u2019s so sweet."
+            ],
+            [
+                190,
+                "Ah-da-da-da-da, let the dead man talk. So, why do you think that?"
+            ],
+            [
+                192,
+                "Aw, Stuart. Now I feel bad for murdering you."
+            ],
+            [
+                230,
+                "Oh, come on, don\u2019t pout. I\u2019m sorry I ruined your game."
+            ],
+            [
+                239,
+                "Definitely."
+            ],
+            [
+                242,
+                "I love it."
+            ],
+            [
+                244,
+                "Yeah, me, too."
+            ],
+            [
+                247,
+                "Yup, we\u2019re all in."
+            ]
+        ],
+        "Leonard": [
+            [
+                4,
+                "Yeah, he has a very sensitive butt. Well, it\u2019s true. Once I saw him sit on a bunch of loose change and add it up."
+            ],
+            [
+                17,
+                "What do you guys want to do tonight?"
+            ],
+            [
+                22,
+                "Oh, my God, Stuart?"
+            ],
+            [
+                25,
+                "Calling 911."
+            ],
+            [
+                27,
+                "What do you mean it\u2019s too late?"
+            ],
+            [
+                30,
+                "Oh, come on."
+            ],
+            [
+                45,
+                "Come on, guys. Raj put a lot of effort into this. And that\u2019s great. It\u2019s not sad, it\u2019s great."
+            ],
+            [
+                75,
+                "Oh, no, no. That\u2019s Clarence Darrow. It\u2019s from a game Sheldon made up called Chutes and Lawyers. You slide down a chute and then work your way back up through the appellate system."
+            ],
+            [
+                82,
+                "I\u2019ve seen old pictures of you. You were never a fat kid."
+            ],
+            [
+                88,
+                "So one of us came back from the future to murder Stuart?"
+            ],
+            [
+                90,
+                "Does the gazelle with a flair for storytelling know he\u2019s just ripping off Terminator?"
+            ],
+            [
+                92,
+                "Oh, does the gazelle know that according to Harlan Ellison, it was not ripped off from Demon With a Glass Hand, but was ripped off from another Outer Limits script he wrote called The Soldier?"
+            ],
+            [
+                129,
+                "Hmm, I\u2019m a professor at Stanford."
+            ],
+            [
+                134,
+                "Uh, uh, uh, hang on. Do you think we\u2019d really drift apart if we both became successful?"
+            ],
+            [
+                136,
+                "But if I get a chance to be a tenured professor, I might not have that much choice in where I end up."
+            ],
+            [
+                138,
+                "Well, you don\u2019t go into science for the money."
+            ],
+            [
+                143,
+                "Great."
+            ],
+            [
+                177,
+                "In a minute. I don\u2019t understand why any success you have in acting is more important than any I have in science."
+            ],
+            [
+                180,
+                "Like you and Sheldon have everything figured out?"
+            ],
+            [
+                186,
+                "Aw."
+            ],
+            [
+                237,
+                "It was. By Terminator."
+            ],
+            [
+                243,
+                "Putting it in my phone right now."
+            ],
+            [
+                248,
+                "All right, I\u2019ll see you guys in 20 years."
+            ]
+        ],
+        "Bernadette": [
+            [
+                6,
+                "I did. His talk at NASA went great."
+            ],
+            [
+                8,
+                "No, in fact, he was so well-behaved, Howie bought him a Buzz Aldrin bobble head and astronaut ice cream."
+            ],
+            [
+                11,
+                "Hi, Stuart."
+            ],
+            [
+                19,
+                "Well, I told Howie if I wasn\u2019t busy, I\u2019d spend the night at his mom\u2019s. So for God\u2019s sake, think of something."
+            ],
+            [
+                34,
+                "I didn\u2019t know his last name was Bloom."
+            ],
+            [
+                49,
+                "All right, if I\u2019m doing this, I\u2019m playing to win, so just to be clear, if we\u2019re ourselves, that means one of us killed Stuart?"
+            ],
+            [
+                51,
+                "What is that, like, the Indian Sherlock Holmes?"
+            ],
+            [
+                59,
+                "What do you care? You\u2019re dead."
+            ],
+            [
+                71,
+                "So, what happens next?"
+            ],
+            [
+                79,
+                "I didn\u2019t know you were fat."
+            ],
+            [
+                84,
+                "Hey, what about this? It looks like a receipt."
+            ],
+            [
+                86,
+                "For a cup of coffee. But it\u2019s dated 20 years from now."
+            ],
+            [
+                124,
+                "So one of us went back in time to kill Stuart?"
+            ],
+            [
+                131,
+                "So I guess you two are making it work long distance."
+            ],
+            [
+                139,
+                "Speak for yourself. Last month, my company both invented and cured Restless Eye Syndrome. Ka-ching, ya blinky chumps."
+            ],
+            [
+                188,
+                "What the hell?"
+            ],
+            [
+                194,
+                "Penny did it, I win. Suck it, jackasses."
+            ],
+            [
+                235,
+                "I liked the time travel element."
+            ],
+            [
+                238,
+                "Well, I hope 20 years from now, we really are all still together and still friends."
+            ],
+            [
+                241,
+                "Aw."
+            ]
+        ],
+        "Stuart": [
+            [
+                9,
+                "Hey, guys."
+            ],
+            [
+                13,
+                "How\u2019s it going?"
+            ],
+            [
+                15,
+                "Oh, how is it?"
+            ],
+            [
+                21,
+                "No, I don\u2019t feel so\u2026"
+            ],
+            [
+                37,
+                "What do you think I was gonna do at home?"
+            ],
+            [
+                58,
+                "Bernadette, can you not stand so close to me?"
+            ],
+            [
+                60,
+                "Suit yourself. But I can kind of see up your skirt."
+            ],
+            [
+                121,
+                "Hey, can I go to the bathroom?"
+            ],
+            [
+                123,
+                "That\u2019s my jam."
+            ],
+            [
+                183,
+                "I think you and Leonard will be together."
+            ],
+            [
+                185,
+                "Yeah. I think you\u2019re the best couple I know."
+            ],
+            [
+                191,
+                "Uh, well, I feel like you guys make each other better. Penny brought Leonard out of his shell. And it seems like Leonard makes Penny think more deeply about the world. I don\u2019t know. Together, you two kind of make one awesome person."
+            ],
+            [
+                245,
+                "My phone doesn\u2019t have a calendar. So I\u2019ll just write it on my hand."
+            ],
+            [
+                250,
+                "I knew it."
+            ]
+        ],
+        "Sheldon": [
+            [
+                62,
+                "Thank you for my bobble head."
+            ],
+            [
+                64,
+                "It wasn\u2019t easy. Was it Buzz?"
+            ],
+            [
+                66,
+                "I already am. I\u2019m bringing the gift of knowledge."
+            ],
+            [
+                68,
+                "Despite what her Bible says, recent archaeological studies indicate that although camels are referenced in the Old Testament, they didn\u2019t exist in the Middle East until hundreds of years later."
+            ],
+            [
+                96,
+                "But if we show up and you\u2019re holding them, she\u2019ll think they\u2019re only from you."
+            ],
+            [
+                98,
+                "Yes, but now that I\u2019ve seen what the gift of me with flowers and pie looks like, there\u2019s no going back. Boy, I can\u2019t wait to see the look on her face. We\u2019re leaving right now."
+            ],
+            [
+                100,
+                "Nothing."
+            ],
+            [
+                102,
+                "I saw my mommy with a naked man and she was trying to be a mommy again."
+            ],
+            [
+                105,
+                "I\u2019m not nearly drunk enough. Okay. Do you have any idea what it\u2019s like to see your mother ravaging someone?"
+            ],
+            [
+                107,
+                "No. I wanted to surprise her. What am I supposed to say to her after something like this?"
+            ],
+            [
+                109,
+                "No."
+            ],
+            [
+                111,
+                "I have to. How can we ever hope to have a healthy relationship if I don\u2019t tell her how disappointed I am, and that I\u2019ll never forgive her?"
+            ],
+            [
+                113,
+                "No, I\u2019m just going to tell her I\u2019m coming so she can give that good time Charlie the heave-ho."
+            ],
+            [
+                115,
+                "Yeah, maybe you better, I took a pretty big sip."
+            ],
+            [
+                117,
+                "I beg to differ. I used to live in those genitals. And if someone wants to move into my old room, I should at least get a vote."
+            ],
+            [
+                146,
+                "Okay, let\u2019s do this."
+            ],
+            [
+                148,
+                "You, aren\u2019t you gonna come with me?"
+            ],
+            [
+                150,
+                "(Knock, knock, knock) Mother? (Knock, knock, knock) Mother? (Knock, knock, knock) Mother?"
+            ],
+            [
+                152,
+                "I saw you having naked sex."
+            ],
+            [
+                154,
+                "Earlier, I came here to surprise you. I looked in the window and I saw you with a man."
+            ],
+            [
+                156,
+                "Can you recommend a surface you haven\u2019t had coitus on?"
+            ],
+            [
+                158,
+                "Who was he?"
+            ],
+            [
+                160,
+                "How long have you been involved with him?"
+            ],
+            [
+                162,
+                "And of those few months, how long have you been a demented sex pervert?"
+            ],
+            [
+                164,
+                "Perhaps not. But it is a way to speak to a woman who quoted the Bible to me my whole life, and then desecrates one of Ethan Allen\u2019s finest sofas."
+            ],
+            [
+                166,
+                "Or what?"
+            ],
+            [
+                168,
+                "That\u2019s ridiculous. I am a grown man. I am a professional scientist. And I currently occupy the moral high ground."
+            ],
+            [
+                170,
+                "But I occupy the moral high ground."
+            ],
+            [
+                172,
+                "But I\u2019m a professional scientist."
+            ],
+            [
+                174,
+                "I\u2019m a grown man."
+            ],
+            [
+                197,
+                "Apparently any man is welcome in this house. Why not you? I thought you were waiting in the car."
+            ],
+            [
+                199,
+                "No. I\u2019m not sure how we\u2019re going to get past this."
+            ],
+            [
+                201,
+                "Howard, we\u2019ve all seen your mother naked. That woman needs to learn how to tie a robe."
+            ],
+            [
+                203,
+                "I didn\u2019t know she did."
+            ],
+            [
+                205,
+                "What did you do?"
+            ],
+            [
+                207,
+                "I\u2019m sorry. Although, based on your story, you absolutely were the reason why."
+            ],
+            [
+                209,
+                "You may have a point. I love my mother. Even if she fornicates like a demonic weasel."
+            ],
+            [
+                212,
+                "Hello."
+            ],
+            [
+                214,
+                "I am."
+            ],
+            [
+                216,
+                "I think what most upsets me about it, Mother, is the hypocrisy. Doesn\u2019t this contradict all the religious rules you\u2019ve been espousing your whole life?"
+            ],
+            [
+                218,
+                "Then why are you doing it?"
+            ],
+            [
+                220,
+                "Well, this is confusing for me. But I don\u2019t want to stand in the way of your happiness. So, I\u2019ll condemn you internally while maintaining an outward appearance of acceptance."
+            ],
+            [
+                222,
+                "Mother, if you\u2019re going to conduct your life in this fashion, then I should let you know that the world has changed since you were a young woman. You know, it\u2019s not all sock hops, soda jerks and segregation anymore."
+            ],
+            [
+                224,
+                "My point is that you\u2019re going to need to be careful. You used to be protected by your pre-Enlightenment mythology, but now you\u2019re going to need a stronger friend named latex."
+            ],
+            [
+                226,
+                "Well, someone has to."
+            ],
+            [
+                228,
+                "No, don\u2019t look to Him. He\u2019s mad at you right now."
+            ]
+        ],
+        "Howard": [
+            [
+                63,
+                "Thank you for not making fun of me during my speech."
+            ],
+            [
+                65,
+                "We can\u2019t show up to your mom\u2019s empty-handed. We should bring something."
+            ],
+            [
+                67,
+                "Oh, boy."
+            ],
+            [
+                69,
+                "I was gonna say we pick up a cake or a pie. But an insult to her faith is always thoughtful."
+            ],
+            [
+                95,
+                "Okay, give me the flowers and pie."
+            ],
+            [
+                97,
+                "They are only from me. You said the gift of you was enough."
+            ],
+            [
+                99,
+                "What\u2019s wrong?"
+            ],
+            [
+                101,
+                "What? Sheldon, tell me what\u2019s going on."
+            ],
+            [
+                104,
+                "You ready to talk about it?"
+            ],
+            [
+                106,
+                "Does a brisket count? I\u2019m sorry, buddy, that\u2019s rough. But didn\u2019t she know we were coming?"
+            ],
+            [
+                108,
+                "Well, did she see you in the window?"
+            ],
+            [
+                110,
+                "Then don\u2019t say anything."
+            ],
+            [
+                112,
+                "Well, don\u2019t do it on the phone."
+            ],
+            [
+                114,
+                "That\u2019s some tough talk, I may need to cut you off."
+            ],
+            [
+                116,
+                "Look, she\u2019s a grown woman. And, and your dad\u2019s been gone a long time. Maybe this is none of your business."
+            ],
+            [
+                147,
+                "Good luck."
+            ],
+            [
+                149,
+                "While you confront your mother about her sex life? I\u2019d rather go back to that bar in ass-less chaps."
+            ],
+            [
+                196,
+                "Hey, can I come in?"
+            ],
+            [
+                198,
+                "That was an hour ago, Sheldon. A Jew sits in front of a house in Texas that long, For Sale signs start to go up. I take it things didn\u2019t go smoothly with your mom."
+            ],
+            [
+                200,
+                "You know, I, I sort of went through something like this myself."
+            ],
+            [
+                202,
+                "I\u2019m talking about when my mom started seeing someone a couple of years after my dad left."
+            ],
+            [
+                204,
+                "Yeah, she was dating this guy, and I was kind of a jerk to her about it."
+            ],
+            [
+                206,
+                "Well, let\u2019s just say it was the most vicious bar mitzvah speech in the history of Temple Beth El. Anyway, she broke up with him. And she\u2019s basically been alone ever since. She never said it, but I always felt I was the reason why."
+            ],
+            [
+                208,
+                "All I\u2019m saying is you might not want to get in the way of your mom\u2019s happiness."
+            ],
+            [
+                210,
+                "And the healing begins."
+            ]
+        ],
+        "Mrs Cooper": [
+            [
+                151,
+                "Shelly, I\u2019m so glad you\u2019re here."
+            ],
+            [
+                153,
+                "What are you talking about?"
+            ],
+            [
+                155,
+                "Oh, Shelly, I\u2019m so sorry. Come in. Um, maybe we should sit down and talk about this."
+            ],
+            [
+                157,
+                "That\u2019s not funny. Maybe we should sit at the table. Well, I\u2019m sure that, uh, you have a lot of questions."
+            ],
+            [
+                159,
+                "His name is Ron. I met him at my prayer group."
+            ],
+            [
+                161,
+                "A few months."
+            ],
+            [
+                163,
+                "That is no way to speak to your mother."
+            ],
+            [
+                165,
+                "I will give you one opportunity, young man, to apologize."
+            ],
+            [
+                167,
+                "Or I will send you to your room."
+            ],
+            [
+                169,
+                "Go to your room."
+            ],
+            [
+                171,
+                "Go to your room."
+            ],
+            [
+                213,
+                "Hello. Are you ready to discuss this calmly, like adults?"
+            ],
+            [
+                215,
+                "Shelly, I\u2019m sorry that you saw what you saw. I know that this is hard for you."
+            ],
+            [
+                217,
+                "You\u2019re right, it does, and it\u2019s something that I\u2019m struggling with these days."
+            ],
+            [
+                219,
+                "Because I\u2019m not perfect, Shelly. And that man\u2019s booty is."
+            ],
+            [
+                221,
+                "That is very Christian of you."
+            ],
+            [
+                223,
+                "How old do you think I am?"
+            ],
+            [
+                225,
+                "Are you having the sex talk with me?"
+            ],
+            [
+                227,
+                "Oh, dear Lord."
+            ]
+        ],
+        "Mrs": [
+            [
+                173,
+                "Go to your room!"
+            ]
+        ],
+        "Leonard: Of course. Well, hey, how about this? Whether we\u2019re friends, not friends, scattered around the world, no matter what, let\u2019s all promise to meet in front of this building exactly 20 years from tonight at 8": [
+            [
+                240,
+                "00 p.m. and have dinner like we always do."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Amy",
+            "Should you really be sitting in Sheldon\u2019s spot?"
+        ],
+        [
+            "Raj",
+            "He\u2019s in Texas, he\u2019ll never know."
+        ],
+        [
+            "Penny",
+            "I wouldn\u2019t be so sure about that."
+        ],
+        [
+            "Leonard",
+            "Yeah, he has a very sensitive butt. Well, it\u2019s true. Once I saw him sit on a bunch of loose change and add it up."
+        ],
+        [
+            "Raj",
+            "Have you heard from Howard?"
+        ],
+        [
+            "Bernadette",
+            "I did. His talk at NASA went great."
+        ],
+        [
+            "Penny",
+            "Sheldon didn\u2019t heckle him?"
+        ],
+        [
+            "Bernadette",
+            "No, in fact, he was so well-behaved, Howie bought him a Buzz Aldrin bobble head and astronaut ice cream."
+        ],
+        [
+            "Stuart",
+            "Hey, guys."
+        ],
+        [
+            "Amy",
+            "Oh, hi."
+        ],
+        [
+            "Bernadette",
+            "Hi, Stuart."
+        ],
+        [
+            "Raj",
+            "Hey, Stuart!"
+        ],
+        [
+            "Stuart",
+            "How\u2019s it going?"
+        ],
+        [
+            "Raj",
+            "Good. Sheldon\u2019s out of town, so we can do whatever we want. We even ordered from the Thai place he doesn\u2019t like."
+        ],
+        [
+            "Stuart",
+            "Oh, how is it?"
+        ],
+        [
+            "Penny",
+            "Disgusting. Do not tell him."
+        ],
+        [
+            "Leonard",
+            "What do you guys want to do tonight?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know."
+        ],
+        [
+            "Bernadette",
+            "Well, I told Howie if I wasn\u2019t busy, I\u2019d spend the night at his mom\u2019s. So for God\u2019s sake, think of something."
+        ],
+        [
+            "Raj",
+            "Stuart? Are you okay?"
+        ],
+        [
+            "Stuart",
+            "No, I don\u2019t feel so\u2026"
+        ],
+        [
+            "Leonard",
+            "Oh, my God, Stuart?"
+        ],
+        [
+            "Penny",
+            "Oh, my God, you guys need to do something!"
+        ],
+        [
+            "Raj",
+            "Stuart?"
+        ],
+        [
+            "Leonard",
+            "Calling 911."
+        ],
+        [
+            "Raj",
+            "Well, it\u2019s too late."
+        ],
+        [
+            "Leonard",
+            "What do you mean it\u2019s too late?"
+        ],
+        [
+            "Raj",
+            "He\u2019s been murdered by someone in this room."
+        ],
+        [
+            "Penny",
+            "Oh, my God."
+        ],
+        [
+            "Leonard",
+            "Oh, come on."
+        ],
+        [
+            "Raj",
+            "Welcome to another classic Koothrappali murder mystery dinner."
+        ],
+        [
+            "Amy",
+            "I\u2019m leaving."
+        ],
+        [
+            "Raj",
+            "You can\u2019t leave. You\u2019re a suspect in the mysterious murder of Stuart Bloom."
+        ],
+        [
+            "Bernadette",
+            "I didn\u2019t know his last name was Bloom."
+        ],
+        [
+            "Amy",
+            "Yeah, it\u2019s Bloom."
+        ],
+        [
+            "Penny",
+            "Are you really gonna lie on the floor and pretend to be dead all night?"
+        ],
+        [
+            "Stuart",
+            "What do you think I was gonna do at home?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Are you gonna make us pretend to be a bunch of lame characters with silly accents?"
+        ],
+        [
+            "Raj",
+            "Lame characters with silly ac\u2026, what kind of actress are you?"
+        ],
+        [
+            "Penny",
+            "You\u2019re right, I\u2019m sorry. Sounds like fun."
+        ],
+        [
+            "Raj",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "That kind of actress. This sucks."
+        ],
+        [
+            "Leonard",
+            "Come on, guys. Raj put a lot of effort into this. And that\u2019s great. It\u2019s not sad, it\u2019s great."
+        ],
+        [
+            "Amy",
+            "I think it might be fun to be someone else tonight."
+        ],
+        [
+            "Raj",
+            "Actually, you\u2019re all just gonna be yourselves."
+        ],
+        [
+            "Amy",
+            "Oh, ugh."
+        ],
+        [
+            "Bernadette",
+            "All right, if I\u2019m doing this, I\u2019m playing to win, so just to be clear, if we\u2019re ourselves, that means one of us killed Stuart?"
+        ],
+        [
+            "Raj",
+            "Very good, Bernadette. You are a regular Byomkesh Bakshi."
+        ],
+        [
+            "Bernadette",
+            "What is that, like, the Indian Sherlock Holmes?"
+        ],
+        [
+            "Raj",
+            "Or is Sherlock Holmes the English Byomkesh Bakshi?"
+        ],
+        [
+            "Amy",
+            "According to Wikipedia, Sherlock Holmes came first."
+        ],
+        [
+            "Raj",
+            "Great, everyone\u2019s a Byomkesh Bakshi. Now, here are some secret facts about each of you, including whether you are the murderer. Throughout the game, feel free to ask each other questions to uncover clues."
+        ],
+        [
+            "Penny",
+            "Got it. Hey, who\u2019s the murderer?"
+        ],
+        [
+            "Raj",
+            "Any question but that."
+        ],
+        [
+            "Penny",
+            "Sorry. Hey, who\u2019s not the murderer?"
+        ],
+        [
+            "Stuart",
+            "Bernadette, can you not stand so close to me?"
+        ],
+        [
+            "Bernadette",
+            "What do you care? You\u2019re dead."
+        ],
+        [
+            "Stuart",
+            "Suit yourself. But I can kind of see up your skirt."
+        ],
+        [
+            "Scene",
+            "A hire car."
+        ],
+        [
+            "Sheldon",
+            "Thank you for my bobble head."
+        ],
+        [
+            "Howard",
+            "Thank you for not making fun of me during my speech."
+        ],
+        [
+            "Sheldon",
+            "It wasn\u2019t easy. Was it Buzz?"
+        ],
+        [
+            "Howard",
+            "We can\u2019t show up to your mom\u2019s empty-handed. We should bring something."
+        ],
+        [
+            "Sheldon",
+            "I already am. I\u2019m bringing the gift of knowledge."
+        ],
+        [
+            "Howard",
+            "Oh, boy."
+        ],
+        [
+            "Sheldon",
+            "Despite what her Bible says, recent archaeological studies indicate that although camels are referenced in the Old Testament, they didn\u2019t exist in the Middle East until hundreds of years later."
+        ],
+        [
+            "Howard",
+            "I was gonna say we pick up a cake or a pie. But an insult to her faith is always thoughtful."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Bernadette",
+            "So, what happens next?"
+        ],
+        [
+            "Raj",
+            "I can\u2019t tell you that. But perhaps the killer dropped a fun and imaginative clue somewhere in the apartment."
+        ],
+        [
+            "Penny",
+            "Ooh, I\u2019m gonna check the fridge, and see if there are any clues inside a beer."
+        ],
+        [
+            "Amy",
+            "Hey, I found something. It looks like a little man with a briefcase."
+        ],
+        [
+            "Leonard",
+            "Oh, no, no. That\u2019s Clarence Darrow. It\u2019s from a game Sheldon made up called Chutes and Lawyers. You slide down a chute and then work your way back up through the appellate system."
+        ],
+        [
+            "Raj",
+            "Well, unlike that, my games are much more fun."
+        ],
+        [
+            "Penny",
+            "Okay, can I ask you something? Why do you like making us do this stuff?"
+        ],
+        [
+            "Raj",
+            "Well, I guess it goes back to when I was a fat kid in India, and didn\u2019t have any friends."
+        ],
+        [
+            "Bernadette",
+            "I didn\u2019t know you were fat."
+        ],
+        [
+            "Raj",
+            "Yeah, I was. I was 200 pounds by the time I was in middle school. Kids were mean. Cows may be sacred there, but it doesn\u2019t help if you look like one. Anyway, I was pretty lonely, so I had to make up my own stories and games, and I promised myself if I ever made any friends that, that I would play those games with them."
+        ],
+        [
+            "Amy",
+            "That is so sweet."
+        ],
+        [
+            "Leonard",
+            "I\u2019ve seen old pictures of you. You were never a fat kid."
+        ],
+        [
+            "Raj",
+            "No, I was svelte as a gazelle. A gazelle blessed with a flair for storytelling."
+        ],
+        [
+            "Bernadette",
+            "Hey, what about this? It looks like a receipt."
+        ],
+        [
+            "Amy",
+            "What\u2019s it for?"
+        ],
+        [
+            "Bernadette",
+            "For a cup of coffee. But it\u2019s dated 20 years from now."
+        ],
+        [
+            "Raj",
+            "From the future? How fun and imaginative."
+        ],
+        [
+            "Leonard",
+            "So one of us came back from the future to murder Stuart?"
+        ],
+        [
+            "Raj",
+            "Correct."
+        ],
+        [
+            "Leonard",
+            "Does the gazelle with a flair for storytelling know he\u2019s just ripping off Terminator?"
+        ],
+        [
+            "Raj",
+            "Does the smart-ass know that Terminator was actually ripped off from an Outer Limits script called Demon With a Glass Hand, by Harlan Ellison?"
+        ],
+        [
+            "Leonard",
+            "Oh, does the gazelle know that according to Harlan Ellison, it was not ripped off from Demon With a Glass Hand, but was ripped off from another Outer Limits script he wrote called The Soldier?"
+        ],
+        [
+            "Penny",
+            "I\u2019m gonna need another clue."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s childhood home."
+        ],
+        [
+            "Howard",
+            "Okay, give me the flowers and pie."
+        ],
+        [
+            "Sheldon",
+            "But if we show up and you\u2019re holding them, she\u2019ll think they\u2019re only from you."
+        ],
+        [
+            "Howard",
+            "They are only from me. You said the gift of you was enough."
+        ],
+        [
+            "Sheldon",
+            "Yes, but now that I\u2019ve seen what the gift of me with flowers and pie looks like, there\u2019s no going back. Boy, I can\u2019t wait to see the look on her face. We\u2019re leaving right now."
+        ],
+        [
+            "Howard",
+            "What\u2019s wrong?"
+        ],
+        [
+            "Sheldon",
+            "Nothing."
+        ],
+        [
+            "Howard",
+            "What? Sheldon, tell me what\u2019s going on."
+        ],
+        [
+            "Sheldon",
+            "I saw my mommy with a naked man and she was trying to be a mommy again."
+        ],
+        [
+            "Scene",
+            "A bar in Texas."
+        ],
+        [
+            "Howard",
+            "You ready to talk about it?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m not nearly drunk enough. Okay. Do you have any idea what it\u2019s like to see your mother ravaging someone?"
+        ],
+        [
+            "Howard",
+            "Does a brisket count? I\u2019m sorry, buddy, that\u2019s rough. But didn\u2019t she know we were coming?"
+        ],
+        [
+            "Sheldon",
+            "No. I wanted to surprise her. What am I supposed to say to her after something like this?"
+        ],
+        [
+            "Howard",
+            "Well, did she see you in the window?"
+        ],
+        [
+            "Sheldon",
+            "No."
+        ],
+        [
+            "Howard",
+            "Then don\u2019t say anything."
+        ],
+        [
+            "Sheldon",
+            "I have to. How can we ever hope to have a healthy relationship if I don\u2019t tell her how disappointed I am, and that I\u2019ll never forgive her?"
+        ],
+        [
+            "Howard",
+            "Well, don\u2019t do it on the phone."
+        ],
+        [
+            "Sheldon",
+            "No, I\u2019m just going to tell her I\u2019m coming so she can give that good time Charlie the heave-ho."
+        ],
+        [
+            "Howard",
+            "That\u2019s some tough talk, I may need to cut you off."
+        ],
+        [
+            "Sheldon",
+            "Yeah, maybe you better, I took a pretty big sip."
+        ],
+        [
+            "Howard",
+            "Look, she\u2019s a grown woman. And, and your dad\u2019s been gone a long time. Maybe this is none of your business."
+        ],
+        [
+            "Sheldon",
+            "I beg to differ. I used to live in those genitals. And if someone wants to move into my old room, I should at least get a vote."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Okay, murder suspects, Leonard has found the time machine the killer must\u2019ve used. You\u2019re all inside it, and we hurtle through the very fabric of time. And welcome to 20 years in the future. Hey, you guys just time-travelled. Stop looking so bored."
+        ],
+        [
+            "Penny",
+            "Well, my beer isn\u2019t flat and my rack\u2019s not saggy. So far, the future\u2019s great."
+        ],
+        [
+            "Stuart",
+            "Hey, can I go to the bathroom?"
+        ],
+        [
+            "Raj",
+            "Fine, just try not to look too alive."
+        ],
+        [
+            "Stuart",
+            "That\u2019s my jam."
+        ],
+        [
+            "Bernadette",
+            "So one of us went back in time to kill Stuart?"
+        ],
+        [
+            "Amy",
+            "But why?"
+        ],
+        [
+            "Raj",
+            "Perhaps this will help. Here are some facts about yourselves in the future that might contain a clue."
+        ],
+        [
+            "Amy",
+            "Hey, I won the Nobel Prize in physiology, then I used the money to buy Stuart\u2019s comic book store, and close it down so Sheldon would pay attention to me. Not the worst idea."
+        ],
+        [
+            "Penny",
+            "Hey, I\u2019m a famous actress living in London."
+        ],
+        [
+            "Leonard",
+            "Hmm, I\u2019m a professor at Stanford."
+        ],
+        [
+            "Penny",
+            "Hmm."
+        ],
+        [
+            "Bernadette",
+            "So I guess you two are making it work long distance."
+        ],
+        [
+            "Raj",
+            "Oh, no. In this game, as your careers both took off, you drifted apart. Kind of like how future me lost touch with you guys after I became boy toy for the wrinkled, but still flexible, Madonna."
+        ],
+        [
+            "Amy",
+            "What does your card say, Bernadette?"
+        ],
+        [
+            "Leonard",
+            "Uh, uh, uh, hang on. Do you think we\u2019d really drift apart if we both became successful?"
+        ],
+        [
+            "Penny",
+            "Of course not. If I became a famous actress and had to move, you would just come with me."
+        ],
+        [
+            "Leonard",
+            "But if I get a chance to be a tenured professor, I might not have that much choice in where I end up."
+        ],
+        [
+            "Penny",
+            "Yeah, but if I become a successful actress, we wouldn\u2019t need the money."
+        ],
+        [
+            "Leonard",
+            "Well, you don\u2019t go into science for the money."
+        ],
+        [
+            "Bernadette",
+            "Speak for yourself. Last month, my company both invented and cured Restless Eye Syndrome. Ka-ching, ya blinky chumps."
+        ],
+        [
+            "Penny",
+            "So, wait, if my career took me somewhere else, you might not go?"
+        ],
+        [
+            "Amy",
+            "Dun, dun, dun. He started it."
+        ],
+        [
+            "Raj",
+            "Okay, okay, guys, new back stories. Uh, Penny and Leonard, you two lovebirds are super successful and living in New York. Uh, you\u2019re an actress, you\u2019re a professor and you have three beautiful kids."
+        ],
+        [
+            "Leonard",
+            "Great."
+        ],
+        [
+            "Penny",
+            "Really? You think I\u2019m putting this body through three kids?"
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s childhood home."
+        ],
+        [
+            "Sheldon",
+            "Okay, let\u2019s do this."
+        ],
+        [
+            "Howard",
+            "Good luck."
+        ],
+        [
+            "Sheldon",
+            "You, aren\u2019t you gonna come with me?"
+        ],
+        [
+            "Howard",
+            "While you confront your mother about her sex life? I\u2019d rather go back to that bar in ass-less chaps."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Mother? (Knock, knock, knock) Mother? (Knock, knock, knock) Mother?"
+        ],
+        [
+            "Mrs Cooper",
+            "Shelly, I\u2019m so glad you\u2019re here."
+        ],
+        [
+            "Sheldon",
+            "I saw you having naked sex."
+        ],
+        [
+            "Mrs Cooper",
+            "What are you talking about?"
+        ],
+        [
+            "Sheldon",
+            "Earlier, I came here to surprise you. I looked in the window and I saw you with a man."
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, Shelly, I\u2019m so sorry. Come in. Um, maybe we should sit down and talk about this."
+        ],
+        [
+            "Sheldon",
+            "Can you recommend a surface you haven\u2019t had coitus on?"
+        ],
+        [
+            "Mrs Cooper",
+            "That\u2019s not funny. Maybe we should sit at the table. Well, I\u2019m sure that, uh, you have a lot of questions."
+        ],
+        [
+            "Sheldon",
+            "Who was he?"
+        ],
+        [
+            "Mrs Cooper",
+            "His name is Ron. I met him at my prayer group."
+        ],
+        [
+            "Sheldon",
+            "How long have you been involved with him?"
+        ],
+        [
+            "Mrs Cooper",
+            "A few months."
+        ],
+        [
+            "Sheldon",
+            "And of those few months, how long have you been a demented sex pervert?"
+        ],
+        [
+            "Mrs Cooper",
+            "That is no way to speak to your mother."
+        ],
+        [
+            "Sheldon",
+            "Perhaps not. But it is a way to speak to a woman who quoted the Bible to me my whole life, and then desecrates one of Ethan Allen\u2019s finest sofas."
+        ],
+        [
+            "Mrs Cooper",
+            "I will give you one opportunity, young man, to apologize."
+        ],
+        [
+            "Sheldon",
+            "Or what?"
+        ],
+        [
+            "Mrs Cooper",
+            "Or I will send you to your room."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s ridiculous. I am a grown man. I am a professional scientist. And I currently occupy the moral high ground."
+        ],
+        [
+            "Mrs Cooper",
+            "Go to your room."
+        ],
+        [
+            "Sheldon",
+            "But I occupy the moral high ground."
+        ],
+        [
+            "Mrs Cooper",
+            "Go to your room."
+        ],
+        [
+            "Sheldon",
+            "But I\u2019m a professional scientist."
+        ],
+        [
+            "Mrs",
+            "Go to your room!"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m a grown man."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Raj",
+            "Can we please get back to the game?"
+        ],
+        [
+            "Leonard",
+            "In a minute. I don\u2019t understand why any success you have in acting is more important than any I have in science."
+        ],
+        [
+            "Penny",
+            "Okay, if you do something cool in science, you might change the world. If I become a famous actress, I\u2019m not gonna tell you why movie stars are the best. They just are."
+        ],
+        [
+            "Amy",
+            "I\u2019m surprised you guys never talked about this stuff."
+        ],
+        [
+            "Leonard",
+            "Like you and Sheldon have everything figured out?"
+        ],
+        [
+            "Amy",
+            "Actually, our relationship agreement covers a wide array of scenarios, including career changes, financial instability, intelligent dog uprising. FYI, we plan on selling out the human race hard."
+        ],
+        [
+            "Penny",
+            "In 20 years, who knows what\u2019ll happen with any of us?"
+        ],
+        [
+            "Stuart",
+            "I think you and Leonard will be together."
+        ],
+        [
+            "Penny",
+            "You do?"
+        ],
+        [
+            "Stuart",
+            "Yeah. I think you\u2019re the best couple I know."
+        ],
+        [
+            "Leonard",
+            "Aw."
+        ],
+        [
+            "Penny",
+            "That\u2019s so sweet."
+        ],
+        [
+            "Bernadette",
+            "What the hell?"
+        ],
+        [
+            "Amy",
+            "Excuse me?"
+        ],
+        [
+            "Penny",
+            "Ah-da-da-da-da, let the dead man talk. So, why do you think that?"
+        ],
+        [
+            "Stuart",
+            "Uh, well, I feel like you guys make each other better. Penny brought Leonard out of his shell. And it seems like Leonard makes Penny think more deeply about the world. I don\u2019t know. Together, you two kind of make one awesome person."
+        ],
+        [
+            "Penny",
+            "Aw, Stuart. Now I feel bad for murdering you."
+        ],
+        [
+            "Raj",
+            "Oh, come on."
+        ],
+        [
+            "Bernadette",
+            "Penny did it, I win. Suck it, jackasses."
+        ],
+        [
+            "Scene",
+            "Sheldon\u2019s old bedroom."
+        ],
+        [
+            "Howard",
+            "Hey, can I come in?"
+        ],
+        [
+            "Sheldon",
+            "Apparently any man is welcome in this house. Why not you? I thought you were waiting in the car."
+        ],
+        [
+            "Howard",
+            "That was an hour ago, Sheldon. A Jew sits in front of a house in Texas that long, For Sale signs start to go up. I take it things didn\u2019t go smoothly with your mom."
+        ],
+        [
+            "Sheldon",
+            "No. I\u2019m not sure how we\u2019re going to get past this."
+        ],
+        [
+            "Howard",
+            "You know, I, I sort of went through something like this myself."
+        ],
+        [
+            "Sheldon",
+            "Howard, we\u2019ve all seen your mother naked. That woman needs to learn how to tie a robe."
+        ],
+        [
+            "Howard",
+            "I\u2019m talking about when my mom started seeing someone a couple of years after my dad left."
+        ],
+        [
+            "Sheldon",
+            "I didn\u2019t know she did."
+        ],
+        [
+            "Howard",
+            "Yeah, she was dating this guy, and I was kind of a jerk to her about it."
+        ],
+        [
+            "Sheldon",
+            "What did you do?"
+        ],
+        [
+            "Howard",
+            "Well, let\u2019s just say it was the most vicious bar mitzvah speech in the history of Temple Beth El. Anyway, she broke up with him. And she\u2019s basically been alone ever since. She never said it, but I always felt I was the reason why."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m sorry. Although, based on your story, you absolutely were the reason why."
+        ],
+        [
+            "Howard",
+            "All I\u2019m saying is you might not want to get in the way of your mom\u2019s happiness."
+        ],
+        [
+            "Sheldon",
+            "You may have a point. I love my mother. Even if she fornicates like a demonic weasel."
+        ],
+        [
+            "Howard",
+            "And the healing begins."
+        ],
+        [
+            "Scene",
+            "Mrs Cooper\u2019s living room."
+        ],
+        [
+            "Sheldon",
+            "Hello."
+        ],
+        [
+            "Mrs Cooper",
+            "Hello. Are you ready to discuss this calmly, like adults?"
+        ],
+        [
+            "Sheldon",
+            "I am."
+        ],
+        [
+            "Mrs Cooper",
+            "Shelly, I\u2019m sorry that you saw what you saw. I know that this is hard for you."
+        ],
+        [
+            "Sheldon",
+            "I think what most upsets me about it, Mother, is the hypocrisy. Doesn\u2019t this contradict all the religious rules you\u2019ve been espousing your whole life?"
+        ],
+        [
+            "Mrs Cooper",
+            "You\u2019re right, it does, and it\u2019s something that I\u2019m struggling with these days."
+        ],
+        [
+            "Sheldon",
+            "Then why are you doing it?"
+        ],
+        [
+            "Mrs Cooper",
+            "Because I\u2019m not perfect, Shelly. And that man\u2019s booty is."
+        ],
+        [
+            "Sheldon",
+            "Well, this is confusing for me. But I don\u2019t want to stand in the way of your happiness. So, I\u2019ll condemn you internally while maintaining an outward appearance of acceptance."
+        ],
+        [
+            "Mrs Cooper",
+            "That is very Christian of you."
+        ],
+        [
+            "Sheldon",
+            "Mother, if you\u2019re going to conduct your life in this fashion, then I should let you know that the world has changed since you were a young woman. You know, it\u2019s not all sock hops, soda jerks and segregation anymore."
+        ],
+        [
+            "Mrs Cooper",
+            "How old do you think I am?"
+        ],
+        [
+            "Sheldon",
+            "My point is that you\u2019re going to need to be careful. You used to be protected by your pre-Enlightenment mythology, but now you\u2019re going to need a stronger friend named latex."
+        ],
+        [
+            "Mrs Cooper",
+            "Are you having the sex talk with me?"
+        ],
+        [
+            "Sheldon",
+            "Well, someone has to."
+        ],
+        [
+            "Mrs Cooper",
+            "Oh, dear Lord."
+        ],
+        [
+            "Sheldon",
+            "No, don\u2019t look to Him. He\u2019s mad at you right now."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Oh, come on, don\u2019t pout. I\u2019m sorry I ruined your game."
+        ],
+        [
+            "Raj",
+            "I\u2019m not pouting, I\u2019m brooding. Which is how sexy men pout."
+        ],
+        [
+            "Amy",
+            "It actually was kind of fun."
+        ],
+        [
+            "Raj",
+            "You\u2019re just saying that."
+        ],
+        [
+            "Amy",
+            "Yeah."
+        ],
+        [
+            "Bernadette",
+            "I liked the time travel element."
+        ],
+        [
+            "Raj",
+            "Thank you. I thought it was inspired."
+        ],
+        [
+            "Leonard",
+            "It was. By Terminator."
+        ],
+        [
+            "Bernadette",
+            "Well, I hope 20 years from now, we really are all still together and still friends."
+        ],
+        [
+            "Penny",
+            "Definitely."
+        ],
+        [
+            "Leonard: Of course. Well, hey, how about this? Whether we\u2019re friends, not friends, scattered around the world, no matter what, let\u2019s all promise to meet in front of this building exactly 20 years from tonight at 8",
+            "00 p.m. and have dinner like we always do."
+        ],
+        [
+            "Bernadette",
+            "Aw."
+        ],
+        [
+            "Penny",
+            "I love it."
+        ],
+        [
+            "Leonard",
+            "Putting it in my phone right now."
+        ],
+        [
+            "Penny",
+            "Yeah, me, too."
+        ],
+        [
+            "Stuart",
+            "My phone doesn\u2019t have a calendar. So I\u2019ll just write it on my hand."
+        ],
+        [
+            "Raj",
+            "And it\u2019s done."
+        ],
+        [
+            "Penny",
+            "Yup, we\u2019re all in."
+        ],
+        [
+            "Leonard",
+            "All right, I\u2019ll see you guys in 20 years."
+        ],
+        [
+            "Scene",
+            "In front of the building, 20 years later."
+        ],
+        [
+            "Stuart",
+            "I knew it."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-7-episode-18-the-mommy-observation/"
+}

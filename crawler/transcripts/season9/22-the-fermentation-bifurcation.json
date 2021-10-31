@@ -1,0 +1,2264 @@
+{
+    "Season": 9,
+    "Episode": 22,
+    "Title": "the fermentation bifurcation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment"
+            ],
+            [
+                33,
+                "Credits sequence."
+            ],
+            [
+                34,
+                "Howard\u2019s workshop"
+            ],
+            [
+                56,
+                "Raj\u2019s apartment."
+            ],
+            [
+                67,
+                "The apartment."
+            ],
+            [
+                88,
+                "The wine tasting."
+            ],
+            [
+                114,
+                "The apartment."
+            ],
+            [
+                128,
+                "The wine tasting."
+            ],
+            [
+                165,
+                "The apartment."
+            ],
+            [
+                173,
+                "The wine tasting."
+            ],
+            [
+                187,
+                "The apartment. "
+            ],
+            [
+                205,
+                "The wine tasting."
+            ],
+            [
+                218,
+                "The toilets."
+            ],
+            [
+                232,
+                "The apartment."
+            ],
+            [
+                248,
+                "The wine tasting. "
+            ],
+            [
+                268,
+                "The apartment."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Oh, hey, if you guys are free this weekend, I won a night of wine tasting from work."
+            ],
+            [
+                3,
+                "Mm-hmm."
+            ],
+            [
+                9,
+                "All right, well, let me know if you guys want to go."
+            ],
+            [
+                17,
+                "The little choo-choo for toddlers?"
+            ],
+            [
+                23,
+                "Yeah, give her a break from, well, come on."
+            ],
+            [
+                68,
+                "Hey, you ready to go?"
+            ],
+            [
+                70,
+                "What are you doing?"
+            ],
+            [
+                72,
+                "You actually smell the wine?"
+            ],
+            [
+                74,
+                "Are your sinuses acting up?"
+            ],
+            [
+                76,
+                "Hey, are you still hanging out with Bernadette tonight?"
+            ],
+            [
+                78,
+                "Oh, good for you."
+            ],
+            [
+                80,
+                "No honey baked ham in a hot tub, got it."
+            ],
+            [
+                86,
+                "Okay, we\u2019re leaving, love you, bye."
+            ],
+            [
+                102,
+                "You guys been here long?"
+            ],
+            [
+                110,
+                "Oh, yeah."
+            ],
+            [
+                112,
+                "Uh, I don\u2019t know."
+            ],
+            [
+                130,
+                "Ah, there\u2019s definitely some oak."
+            ],
+            [
+                136,
+                "Oh. Zack, hi. You guys remember Zack."
+            ],
+            [
+                141,
+                "We did."
+            ],
+            [
+                144,
+                "Yes."
+            ],
+            [
+                180,
+                "E equals MC squared. Yeah. E is for energy, M for mass, and C for the speed of light."
+            ],
+            [
+                182,
+                "Oh, Leonard mumbles it when he wants sex to last longer."
+            ],
+            [
+                256,
+                "Uh, you know, I\u2019m not really around that much. Amy knows much more than I do."
+            ],
+            [
+                265,
+                "We didn\u2019t."
+            ]
+        ],
+        "Leonard": [
+            [
+                2,
+                "That sounds fun."
+            ],
+            [
+                4,
+                "How come scientists don\u2019t win free stuff like salespeople do?"
+            ],
+            [
+                11,
+                "I\u2019m sure that would pair nicely with your fried nuggets of chicken."
+            ],
+            [
+                29,
+                "The difference is she\u2019s bringing life into the world, and you suck it out."
+            ],
+            [
+                36,
+                "Sure. I\u2019d like to meet her."
+            ],
+            [
+                40,
+                "Does this mean Emily\u2019s not in the picture anymore?"
+            ],
+            [
+                42,
+                "Okay, help me out. How are you doing this? Do they know about each other?"
+            ],
+            [
+                45,
+                "Who\u2019s Frank and Alicia?"
+            ],
+            [
+                49,
+                "All right, here goes nothing."
+            ],
+            [
+                51,
+                "Fine. Preliminary trial of the infinite persistence gyroscopic navigational system, phase one commencing."
+            ],
+            [
+                55,
+                "Good, it\u2019s not just me."
+            ],
+            [
+                69,
+                "Hang on."
+            ],
+            [
+                71,
+                "Oh, I found a scratch-and-sniff book about wine tasting. It teaches the different flavour notes to look for."
+            ],
+            [
+                73,
+                "I mostly just smell my nasal spray."
+            ],
+            [
+                75,
+                "Since my preschool got a bunny."
+            ],
+            [
+                82,
+                "Okay, have fun."
+            ],
+            [
+                84,
+                "We\u2019re leaving now!"
+            ],
+            [
+                99,
+                "Hey."
+            ],
+            [
+                107,
+                "Oh, so I shouldn\u2019t ask her how she feels about being a member of your harem?"
+            ],
+            [
+                132,
+                "I smell nothing."
+            ],
+            [
+                134,
+                "Just a whole lot of Afrin."
+            ],
+            [
+                142,
+                "Yeah, mm-hmm."
+            ],
+            [
+                146,
+                "Thanks."
+            ],
+            [
+                149,
+                "But we won\u2019t bore you with the details."
+            ],
+            [
+                155,
+                "What\u2019s neat is that they can maintain angular momentum indefinitely."
+            ],
+            [
+                160,
+                "And I doubt the military would be interested in our little guidance system."
+            ],
+            [
+                163,
+                "Way better."
+            ],
+            [
+                174,
+                "I have to admit, I\u2019ve been worried about the military applications since we started talking about this."
+            ],
+            [
+                176,
+                "Why didn\u2019t you say something?"
+            ],
+            [
+                185,
+                "Would you like a glass of wine?"
+            ],
+            [
+                219,
+                "Maybe we should take a step back."
+            ],
+            [
+                221,
+                "No, I mean re-evaluate what we\u2019re doing with the guidance system."
+            ],
+            [
+                223,
+                "What good is money gonna do if we inadvertently bring about Armageddon?"
+            ],
+            [
+                225,
+                "How?"
+            ],
+            [
+                227,
+                "Very funny."
+            ],
+            [
+                229,
+                "Well, not really."
+            ],
+            [
+                231,
+                "Not a lot. I just couldn\u2019t start until you walked away."
+            ],
+            [
+                257,
+                "I don\u2019t think you have anything to worry about. Raj is a terrific guy, loyal to a fault."
+            ],
+            [
+                269,
+                "Morning."
+            ],
+            [
+                271,
+                "Ugh. Too much wine."
+            ],
+            [
+                273,
+                "Hey, did you ever think about the military applications for the guidance system?"
+            ],
+            [
+                275,
+                "Does it bother you?"
+            ],
+            [
+                277,
+                "Who are these people?"
+            ]
+        ],
+        "Howard": [
+            [
+                5,
+                "\u2018Cause we\u2019re not in it for the stuff. We\u2019re in it for the groupies."
+            ],
+            [
+                19,
+                "Well, we\u2019re out. Bernie can\u2019t drink \u2019cause she\u2019s pregnant. And she\u2019s pregnant because we had sex. And we had sex because, well, come on."
+            ],
+            [
+                21,
+                "You sure?"
+            ],
+            [
+                32,
+                "I bet you\u2019d like a drink right now."
+            ],
+            [
+                47,
+                "Okay. Everything\u2019s hooked up. We\u2019re ready."
+            ],
+            [
+                54,
+                "Actually, it\u2019s making me dizzy."
+            ],
+            [
+                89,
+                "Hey. Where is everybody?"
+            ],
+            [
+                91,
+                "Oh. Cool."
+            ],
+            [
+                93,
+                "You know, I don\u2019t remember the last time it was just you and me hanging out."
+            ],
+            [
+                95,
+                "Oh, yeah, and we said we should do it more often. And, and, and, and, and here we are."
+            ],
+            [
+                97,
+                "I know. What are they gonna talk about?"
+            ],
+            [
+                100,
+                "Oh, good."
+            ],
+            [
+                103,
+                "No, two minutes."
+            ],
+            [
+                105,
+                "Where\u2019s Claire?"
+            ],
+            [
+                133,
+                "Really? Nothing?"
+            ],
+            [
+                137,
+                "Yeah, hey, buddy."
+            ],
+            [
+                148,
+                "We\u2019ve actually been working on a prototype for a navigation system we invented."
+            ],
+            [
+                152,
+                "Yeah, you know, the boxer who grew a moustache and became a scientist."
+            ],
+            [
+                154,
+                "Well, we\u2019re using quantum vortices to replace gyroscopes in guidance systems."
+            ],
+            [
+                157,
+                "You could put it in a satellite or a rocket, and it\u2019ll run forever."
+            ],
+            [
+                159,
+                "Yeah, but we didn\u2019t create it for weapons."
+            ],
+            [
+                162,
+                "A lot."
+            ],
+            [
+                175,
+                "Me, too."
+            ],
+            [
+                177,
+                "Same reason I don\u2019t talk about ass cancer. It\u2019s not a pleasant topic."
+            ],
+            [
+                220,
+                "Take a step back? I\u2019m not a young man any more."
+            ],
+            [
+                222,
+                "But I got a baby on the way. I got to make some money."
+            ],
+            [
+                224,
+                "Okay, let me stop you right there. We absolutely know our invention will not be used to destroy the world."
+            ],
+            [
+                226,
+                "Because no one from the future has come back to kill us."
+            ],
+            [
+                228,
+                "You got something better?"
+            ],
+            [
+                230,
+                "Okay, then. Geez, how much wine did you drink?"
+            ],
+            [
+                258,
+                "Yeah. He still has an AOL address."
+            ]
+        ],
+        "Sheldon": [
+            [
+                6,
+                "Personally, I find the notion of external rewards demeaning. I pursue science for the intrinsic joy of discovery."
+            ],
+            [
+                8,
+                "I also say don\u2019t contradict me in front of my friends, but that you don\u2019t remember."
+            ],
+            [
+                13,
+                "Wine again? Yeah, no, thank you. I like my grapes the old-fashioned way, in a juice box."
+            ],
+            [
+                15,
+                "I shouldn\u2019t have to see my girlfriend get groped in public by another man."
+            ],
+            [
+                24,
+                "Well, Bernadette, looks like Saturday night, it\u2019s you and me."
+            ],
+            [
+                26,
+                "Well, it makes perfect sense. Because you\u2019re an expectant mother, you can\u2019t drink alcohol. I don\u2019t like to. You can\u2019t have sushi. I don\u2019t like to. You can\u2019t go in hot tubs. I consider them vats of sweaty people soup."
+            ],
+            [
+                28,
+                "Oh, come on. Roller coasters, caffeine, runny eggs, I\u2019ve been avoiding these things all my life. And now, because you\u2019re pregnant, you have to."
+            ],
+            [
+                31,
+                "Well, little lady, you\u2019ve heard of party hearty, get ready to party hardly."
+            ],
+            [
+                38,
+                "Oh, but I won\u2019t be there."
+            ],
+            [
+                44,
+                "You know, it\u2019s like how I play Warlords of Ka\u2019a with you and Elder Sign with Frank and Alicia."
+            ],
+            [
+                46,
+                "You, you and I spend a lot of time together. Can there be a little mystery between us?"
+            ],
+            [
+                48,
+                "I am going to record this for posterity."
+            ],
+            [
+                50,
+                "Here goes nothing? This is the initial test of our prototype. Can we give it a little more gravitas?"
+            ],
+            [
+                52,
+                "Eh, maybe it\u2019s your voice. I\u2019m gonna see if I can get James Earl Jones to do it in post."
+            ],
+            [
+                77,
+                "Yes. And we\u2019re going to prove that we don\u2019t need alcohol to enjoy ourselves."
+            ],
+            [
+                79,
+                "Or caffeine, tobacco, sushi, soft cheese, processed meats and jacuzzis, which can all be harmful to an unborn baby."
+            ],
+            [
+                81,
+                "Oh, no bubble baths either. They can increase the risk of a urinary tract infection."
+            ],
+            [
+                83,
+                "Oh, and no swordfish, king mackerel, shark or tilefish, which are all high in mercury."
+            ],
+            [
+                85,
+                "Oh, and no contact with guinea pigs or hamsters or their droppings, uh, no-no cat litter boxes, no paint fumes."
+            ],
+            [
+                87,
+                "Boy, do I love restrictions."
+            ],
+            [
+                116,
+                "Oh, the bubbles tickle my nose. I\u2019ll just open this now so it can get nice and flat before we drink it."
+            ],
+            [
+                118,
+                "Oh, I have quite the evening planned. Our foetus-friendly festival of fun begins with an in-depth look at the world of model trains, and then we\u2019ll kick things up a notch and explore all the different ways that you can make toast."
+            ],
+            [
+                120,
+                "You\u2019ve heard of French toast?"
+            ],
+            [
+                122,
+                "Cinnamon toast?"
+            ],
+            [
+                124,
+                "Melba toast?"
+            ],
+            [
+                126,
+                "You get where I\u2019m going here?"
+            ],
+            [
+                166,
+                "H-O gauge trains are 1/87th scale. N gauge are 1/160th scale. And that brings us to Z gauge, at a, you could easily swallow it, don\u2019t ask how I know, 1 to 220."
+            ],
+            [
+                168,
+                "When I was five, I ingested a Z gauge locomotive. I spent the next three days saying, I think I can pass it, I think I can pass it, I think I can pass it."
+            ],
+            [
+                170,
+                "What an interesting question. When I was a child, life was confusing and chaotic for me, and trains represented order. I could line them up, categorize them, control them. I guess you could say that they gave me a sense of calm in a world that didn\u2019t."
+            ],
+            [
+                172,
+                "Well, other than when they\u2019re chugging through your bowels, these things are magic."
+            ],
+            [
+                188,
+                "And last but not least, this is one that I like to call Star Wars Toast because it has a light side and a dark side. All righty, it\u2019s time for Dungeons & Dragons."
+            ],
+            [
+                190,
+                "You\u2019re gonna enjoy this. I designed it especially for you."
+            ],
+            [
+                192,
+                "Oh, I have a feeling that once you start, you\u2019re not gonna want to or be allowed to stop."
+            ],
+            [
+                194,
+                "Ready?"
+            ],
+            [
+                196,
+                "Your name is Bernatrix. You are a warrior queen. You\u2019re strong, beautiful and tall."
+            ],
+            [
+                198,
+                "I think you\u2019re gonna like a lot of things I have in store. For example, in this world, only the men get pregnant, so your husband is home trying not to pee when he laughs."
+            ],
+            [
+                200,
+                "You\u2019re parched and weary from battle. You stand in front of a tavern that serves the coldest, most delicious ale in all the realm."
+            ],
+            [
+                202,
+                "What do you do?"
+            ],
+            [
+                204,
+                "He wants to see I.D."
+            ],
+            [
+                233,
+                "The Hell Prawn lunges out of the hot spring. You block it with your shield. Do you attack?"
+            ],
+            [
+                235,
+                "Three giant red ones and they never blink. It\u2019s unsettling."
+            ],
+            [
+                237,
+                "Good choice. Critical hit. Your sword goes through its eye into its tiny brain. With its final dying gasp, it says, you have reduced me to a pile of sushi. Enjoy me with this packet of soy sauce. It\u2019s low sodium. Aaaah."
+            ],
+            [
+                239,
+                "Using your sword, you prepare a beautiful sushi dinner. You slip into the hot spring and enjoy the warm water on your aching joints. As you happily close your eyes, you recall the incredible evening you\u2019ve had and notice that your feet and ankles are smaller than they\u2019ve ever been. The end."
+            ],
+            [
+                241,
+                "Oh, the fun doesn\u2019t stop. You\u2019re still going home with a goodie bag full of toast."
+            ],
+            [
+                243,
+                "I can understand that. From the moment people realized I was a genius, I\u2019ve been Sheldon the Genius. Although I\u2019ve never really wanted a break from that, so I suppose I don\u2019t understand. Which is ironic \u2019cause, you know, genius."
+            ],
+            [
+                245,
+                "You\u2019re welcome. And any time you need a break from being Bernadette the Pregnant, Bernatrix the Warrior Queen is here waiting."
+            ],
+            [
+                247,
+                "Well, mind you now, that offer\u2019s only good until the third trimester. I can\u2019t risk getting amniotic fluid on my spot."
+            ],
+            [
+                270,
+                "Morning."
+            ],
+            [
+                272,
+                "Oh, I overdid it myself last night. Hair of the dog."
+            ],
+            [
+                274,
+                "Of course."
+            ],
+            [
+                276,
+                "No, it did at first, but then I talked it through with Frank and Alicia, and they really helped put things into perspective."
+            ],
+            [
+                278,
+                "Leonard, friends are like toilet paper. It\u2019s good to have extras under the sink."
+            ]
+        ],
+        "Amy": [
+            [
+                7,
+                "But you always say that you want to win a Nobel Prize."
+            ],
+            [
+                12,
+                "Well, it sounds like a nice night. We should go."
+            ],
+            [
+                14,
+                "Well, I\u2019m going. You couldn\u2019t stop me from getting a massage at the mall, and you\u2019re not stopping me now."
+            ],
+            [
+                16,
+                "And I shouldn\u2019t have to see my boyfriend riding on a train for children around the mall."
+            ],
+            [
+                18,
+                "And now you know why I needed the massage."
+            ],
+            [
+                90,
+                "Oh, we\u2019re the first ones here."
+            ],
+            [
+                92,
+                "Yeah. Cool."
+            ],
+            [
+                94,
+                "Oh, I do. It was three years ago."
+            ],
+            [
+                96,
+                "So, Sheldon and Bernadette are hanging out."
+            ],
+            [
+                98,
+                "I don\u2019t know. I really don\u2019t know."
+            ],
+            [
+                101,
+                "Oh, thank God."
+            ],
+            [
+                104,
+                "But yes."
+            ],
+            [
+                109,
+                "Hey, Penny, isn\u2019t that your old boyfriend Zack?"
+            ],
+            [
+                111,
+                "Are you gonna say hi to him?"
+            ],
+            [
+                129,
+                "I\u2019m getting an earthy note."
+            ],
+            [
+                138,
+                "Hello."
+            ],
+            [
+                151,
+                "Mike deGrasse Tyson?"
+            ],
+            [
+                179,
+                "It\u2019s true. Even Einstein\u2019s theory of relativity was later applied to the development of nuclear weapons."
+            ],
+            [
+                181,
+                "How do you know that?"
+            ],
+            [
+                206,
+                "So, Claire, we\u2019ve heard so many wonderful things about you."
+            ],
+            [
+                208,
+                "Uh, mostly Penny\u2019s heard them."
+            ],
+            [
+                266,
+                "You just did."
+            ]
+        ],
+        "Raj": [
+            [
+                10,
+                "I would love to. I do enjoy the complexity of an aged Pinot noir."
+            ],
+            [
+                35,
+                "Hey, you think it\u2019d be okay if I brought Claire to the wine tasting?"
+            ],
+            [
+                37,
+                "Oh, that\u2019s great. I\u2019ve been wanting her to meet you guys, too, so this seems like the perfect opportunity."
+            ],
+            [
+                39,
+                "Funny how that worked out."
+            ],
+            [
+                41,
+                "No, I\u2019m still dating her."
+            ],
+            [
+                43,
+                "They know that we\u2019re not exclusive, and we just don\u2019t ask too many questions."
+            ],
+            [
+                53,
+                "It\u2019s, it\u2019s beautiful."
+            ],
+            [
+                58,
+                "Hey, Claire."
+            ],
+            [
+                60,
+                "Hi, yeah. Um, I was wondering, if you\u2019re free Saturday night, all my friends are going to a wine tasting."
+            ],
+            [
+                62,
+                "Why would it be too big a step?"
+            ],
+            [
+                64,
+                "Nothing to worry about. People meet people all the time, and it isn\u2019t weird. I met Bon Jovi once, which you\u2019d think might be weird. Turns out, total sweetheart."
+            ],
+            [
+                66,
+                "Boy, it wasn\u2019t this hard with Bon Jovi. I said you rock, he said, thanks, man, and that was that."
+            ],
+            [
+                106,
+                "Oh, she\u2019s meeting us here. Hey, guys, do me a favour and don\u2019t ask too many questions about the relationship. We\u2019re just keeping it casual."
+            ],
+            [
+                108,
+                "Yeah, I know you\u2019re teasing, but watch out for karma."
+            ],
+            [
+                113,
+                "Hey, while you decide, who was better in bed, big hot Zack or wheezy little Leonard? Neener neener."
+            ],
+            [
+                131,
+                "Also, uh, cherries?"
+            ],
+            [
+                139,
+                "Hey."
+            ],
+            [
+                178,
+                "You can\u2019t let this stop you. Almost any scientific advancement can be used for destructive purposes."
+            ],
+            [
+                184,
+                "Hey, Claire. Good, you\u2019re here. Guys, this is my friend Claire. We\u2019re casually dating, and there\u2019s no need for any further questions about it."
+            ],
+            [
+                186,
+                "I said no questions."
+            ],
+            [
+                210,
+                "Zack, this is my friend Claire."
+            ],
+            [
+                212,
+                "Uh, she\u2019s seeing me."
+            ],
+            [
+                214,
+                "We\u2019re just keeping it casual."
+            ],
+            [
+                249,
+                "Hey, dude, you\u2019re killing me with Claire."
+            ],
+            [
+                251,
+                "I mean, come on, look at you. You\u2019re classically handsome, you\u2019ve got a swimmer\u2019s body. Next to you, I look like me."
+            ],
+            [
+                253,
+                "Yeah, okay, just do me a favour and stop talking about how great Claire is."
+            ],
+            [
+                260,
+                "Don\u2019t listen to him. He says crazy things all the time. Uh, watch. Marco."
+            ],
+            [
+                262,
+                "So, uh, what are you guys talking about?"
+            ],
+            [
+                264,
+                "Why would you do that? I specifically asked you not to do that."
+            ]
+        ],
+        "Bernadette": [
+            [
+                20,
+                "It\u2019s okay, you should go."
+            ],
+            [
+                22,
+                "Of course."
+            ],
+            [
+                25,
+                "Me? How? Why?"
+            ],
+            [
+                27,
+                "Gee, Sheldon, I don\u2019t know."
+            ],
+            [
+                30,
+                "I guess we could give it a try."
+            ],
+            [
+                115,
+                "I brought sparkling cider."
+            ],
+            [
+                117,
+                "So what do you want to do tonight?"
+            ],
+            [
+                119,
+                "There\u2019s more than one?"
+            ],
+            [
+                121,
+                "Yeah."
+            ],
+            [
+                123,
+                "Yeah."
+            ],
+            [
+                125,
+                "Yeah."
+            ],
+            [
+                127,
+                "Yeah."
+            ],
+            [
+                167,
+                "I\u2019m sorry, I have to ask."
+            ],
+            [
+                169,
+                "What is it about trains that you like so much?"
+            ],
+            [
+                171,
+                "That\u2019s lovely, Sheldon."
+            ],
+            [
+                189,
+                "Dungeons & Dragons? That sounds about right."
+            ],
+            [
+                191,
+                "Okay, but just for a little bit."
+            ],
+            [
+                193,
+                "All right."
+            ],
+            [
+                195,
+                "You bet."
+            ],
+            [
+                197,
+                "Oh. I like the idea of being tall."
+            ],
+            [
+                199,
+                "This is getting fun. What\u2019s next?"
+            ],
+            [
+                201,
+                "Oh, I haven\u2019t had a drink in months."
+            ],
+            [
+                203,
+                "I storm in, slam my sword down, and say, barkeep, bring me the strongest ale you have and serve it in the skull of a goblin."
+            ],
+            [
+                234,
+                "Does it have eyes?"
+            ],
+            [
+                236,
+                "I stab it in the middle eye."
+            ],
+            [
+                238,
+                "Okay, I guess I should eat the Hell Prawn."
+            ],
+            [
+                240,
+                "Wow, this night turned out to be so much more fun than I thought."
+            ],
+            [
+                242,
+                "Thank you for this. You know, ever since people found out I\u2019m having a baby, I feel like I became Pregnant Bernadette. It was nice to take a little break tonight."
+            ],
+            [
+                244,
+                "Well, thanks again."
+            ],
+            [
+                246,
+                "I might just take you up on that."
+            ]
+        ],
+        "Claire (on phone)": [
+            [
+                57,
+                "Hello."
+            ]
+        ],
+        "Claire": [
+            [
+                59,
+                "Hey, what\u2019s up?"
+            ],
+            [
+                61,
+                "Sure, I guess. If you don\u2019t think meeting your friends is too big a step."
+            ],
+            [
+                63,
+                "I don\u2019t know. I just don\u2019t want things to get weird."
+            ],
+            [
+                65,
+                "Okay, but you and I have been keeping things casual. Uh, will you introduce me as your friend or as your girlfriend? What if I like them and they don\u2019t like me? What if they like me and I don\u2019t like them?"
+            ],
+            [
+                183,
+                "Hey, Raj."
+            ],
+            [
+                207,
+                "Really? Like what?"
+            ],
+            [
+                216,
+                "I don\u2019t know. Ask him."
+            ],
+            [
+                255,
+                "So, I got to ask, does Raj bring around other girls?"
+            ],
+            [
+                263,
+                "Your friends were just telling me about all the other girls you\u2019re dating."
+            ]
+        ],
+        "Zack": [
+            [
+                135,
+                "Penny?"
+            ],
+            [
+                140,
+                "Hey, did you two get married?"
+            ],
+            [
+                143,
+                "To each other?"
+            ],
+            [
+                145,
+                "Cool. \u2018Cause other than when you broke up with him and dated me, then broke up with me, and then dated me one more time before going back to him, I was always rooting for you two."
+            ],
+            [
+                147,
+                "So how\u2019s the science world? What are you guys up to?"
+            ],
+            [
+                150,
+                "Are you kidding? I love science. Einstein, Stephen Hawking, Mike deGrasse Tyson."
+            ],
+            [
+                153,
+                "So what\u2019s your invention?"
+            ],
+            [
+                156,
+                "Angular momentum. I was wondering about that."
+            ],
+            [
+                158,
+                "Cool. Could it be used for missiles and war stuff?"
+            ],
+            [
+                161,
+                "Is it better than the one they use now?"
+            ],
+            [
+                164,
+                "Huh. You sure you guys are smart?"
+            ],
+            [
+                209,
+                "Boy, you get some dirty looks over there when you ask for ice."
+            ],
+            [
+                211,
+                "You\u2019re hot. You seeing anybody?"
+            ],
+            [
+                213,
+                "Why\u2019d you say she\u2019s your friend?"
+            ],
+            [
+                215,
+                "Why is he being casual with you? You seem great."
+            ],
+            [
+                217,
+                "Why are you being casual with her? She seems great."
+            ],
+            [
+                250,
+                "What are you talking about?"
+            ],
+            [
+                252,
+                "Oh, man, I didn\u2019t mean to do that. But I do appreciate you recognizing my swimmer\u2019s body. Which, incidentally, I got from playing Marco Polo at the YMCA."
+            ],
+            [
+                254,
+                "Anything for you, my little foreign friend."
+            ],
+            [
+                259,
+                "I see what you\u2019re saying. She\u2019s not so great."
+            ],
+            [
+                261,
+                "Polo."
+            ],
+            [
+                267,
+                "Wow. Maybe none of you guys are smart."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment"
+        ],
+        [
+            "Penny",
+            "Oh, hey, if you guys are free this weekend, I won a night of wine tasting from work."
+        ],
+        [
+            "Leonard",
+            "That sounds fun."
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Leonard",
+            "How come scientists don\u2019t win free stuff like salespeople do?"
+        ],
+        [
+            "Howard",
+            "\u2018Cause we\u2019re not in it for the stuff. We\u2019re in it for the groupies."
+        ],
+        [
+            "Sheldon",
+            "Personally, I find the notion of external rewards demeaning. I pursue science for the intrinsic joy of discovery."
+        ],
+        [
+            "Amy",
+            "But you always say that you want to win a Nobel Prize."
+        ],
+        [
+            "Sheldon",
+            "I also say don\u2019t contradict me in front of my friends, but that you don\u2019t remember."
+        ],
+        [
+            "Penny",
+            "All right, well, let me know if you guys want to go."
+        ],
+        [
+            "Raj",
+            "I would love to. I do enjoy the complexity of an aged Pinot noir."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sure that would pair nicely with your fried nuggets of chicken."
+        ],
+        [
+            "Amy",
+            "Well, it sounds like a nice night. We should go."
+        ],
+        [
+            "Sheldon",
+            "Wine again? Yeah, no, thank you. I like my grapes the old-fashioned way, in a juice box."
+        ],
+        [
+            "Amy",
+            "Well, I\u2019m going. You couldn\u2019t stop me from getting a massage at the mall, and you\u2019re not stopping me now."
+        ],
+        [
+            "Sheldon",
+            "I shouldn\u2019t have to see my girlfriend get groped in public by another man."
+        ],
+        [
+            "Amy",
+            "And I shouldn\u2019t have to see my boyfriend riding on a train for children around the mall."
+        ],
+        [
+            "Penny",
+            "The little choo-choo for toddlers?"
+        ],
+        [
+            "Amy",
+            "And now you know why I needed the massage."
+        ],
+        [
+            "Howard",
+            "Well, we\u2019re out. Bernie can\u2019t drink \u2019cause she\u2019s pregnant. And she\u2019s pregnant because we had sex. And we had sex because, well, come on."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s okay, you should go."
+        ],
+        [
+            "Howard",
+            "You sure?"
+        ],
+        [
+            "Bernadette",
+            "Of course."
+        ],
+        [
+            "Penny",
+            "Yeah, give her a break from, well, come on."
+        ],
+        [
+            "Sheldon",
+            "Well, Bernadette, looks like Saturday night, it\u2019s you and me."
+        ],
+        [
+            "Bernadette",
+            "Me? How? Why?"
+        ],
+        [
+            "Sheldon",
+            "Well, it makes perfect sense. Because you\u2019re an expectant mother, you can\u2019t drink alcohol. I don\u2019t like to. You can\u2019t have sushi. I don\u2019t like to. You can\u2019t go in hot tubs. I consider them vats of sweaty people soup."
+        ],
+        [
+            "Bernadette",
+            "Gee, Sheldon, I don\u2019t know."
+        ],
+        [
+            "Sheldon",
+            "Oh, come on. Roller coasters, caffeine, runny eggs, I\u2019ve been avoiding these things all my life. And now, because you\u2019re pregnant, you have to."
+        ],
+        [
+            "Leonard",
+            "The difference is she\u2019s bringing life into the world, and you suck it out."
+        ],
+        [
+            "Bernadette",
+            "I guess we could give it a try."
+        ],
+        [
+            "Sheldon",
+            "Well, little lady, you\u2019ve heard of party hearty, get ready to party hardly."
+        ],
+        [
+            "Howard",
+            "I bet you\u2019d like a drink right now."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s workshop"
+        ],
+        [
+            "Raj",
+            "Hey, you think it\u2019d be okay if I brought Claire to the wine tasting?"
+        ],
+        [
+            "Leonard",
+            "Sure. I\u2019d like to meet her."
+        ],
+        [
+            "Raj",
+            "Oh, that\u2019s great. I\u2019ve been wanting her to meet you guys, too, so this seems like the perfect opportunity."
+        ],
+        [
+            "Sheldon",
+            "Oh, but I won\u2019t be there."
+        ],
+        [
+            "Raj",
+            "Funny how that worked out."
+        ],
+        [
+            "Leonard",
+            "Does this mean Emily\u2019s not in the picture anymore?"
+        ],
+        [
+            "Raj",
+            "No, I\u2019m still dating her."
+        ],
+        [
+            "Leonard",
+            "Okay, help me out. How are you doing this? Do they know about each other?"
+        ],
+        [
+            "Raj",
+            "They know that we\u2019re not exclusive, and we just don\u2019t ask too many questions."
+        ],
+        [
+            "Sheldon",
+            "You know, it\u2019s like how I play Warlords of Ka\u2019a with you and Elder Sign with Frank and Alicia."
+        ],
+        [
+            "Leonard",
+            "Who\u2019s Frank and Alicia?"
+        ],
+        [
+            "Sheldon",
+            "You, you and I spend a lot of time together. Can there be a little mystery between us?"
+        ],
+        [
+            "Howard",
+            "Okay. Everything\u2019s hooked up. We\u2019re ready."
+        ],
+        [
+            "Sheldon",
+            "I am going to record this for posterity."
+        ],
+        [
+            "Leonard",
+            "All right, here goes nothing."
+        ],
+        [
+            "Sheldon",
+            "Here goes nothing? This is the initial test of our prototype. Can we give it a little more gravitas?"
+        ],
+        [
+            "Leonard",
+            "Fine. Preliminary trial of the infinite persistence gyroscopic navigational system, phase one commencing."
+        ],
+        [
+            "Sheldon",
+            "Eh, maybe it\u2019s your voice. I\u2019m gonna see if I can get James Earl Jones to do it in post."
+        ],
+        [
+            "Raj",
+            "It\u2019s, it\u2019s beautiful."
+        ],
+        [
+            "Howard",
+            "Actually, it\u2019s making me dizzy."
+        ],
+        [
+            "Leonard",
+            "Good, it\u2019s not just me."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment."
+        ],
+        [
+            "Claire (on phone)",
+            "Hello."
+        ],
+        [
+            "Raj",
+            "Hey, Claire."
+        ],
+        [
+            "Claire",
+            "Hey, what\u2019s up?"
+        ],
+        [
+            "Raj",
+            "Hi, yeah. Um, I was wondering, if you\u2019re free Saturday night, all my friends are going to a wine tasting."
+        ],
+        [
+            "Claire",
+            "Sure, I guess. If you don\u2019t think meeting your friends is too big a step."
+        ],
+        [
+            "Raj",
+            "Why would it be too big a step?"
+        ],
+        [
+            "Claire",
+            "I don\u2019t know. I just don\u2019t want things to get weird."
+        ],
+        [
+            "Raj",
+            "Nothing to worry about. People meet people all the time, and it isn\u2019t weird. I met Bon Jovi once, which you\u2019d think might be weird. Turns out, total sweetheart."
+        ],
+        [
+            "Claire",
+            "Okay, but you and I have been keeping things casual. Uh, will you introduce me as your friend or as your girlfriend? What if I like them and they don\u2019t like me? What if they like me and I don\u2019t like them?"
+        ],
+        [
+            "Raj",
+            "Boy, it wasn\u2019t this hard with Bon Jovi. I said you rock, he said, thanks, man, and that was that."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "Hey, you ready to go?"
+        ],
+        [
+            "Leonard",
+            "Hang on."
+        ],
+        [
+            "Penny",
+            "What are you doing?"
+        ],
+        [
+            "Leonard",
+            "Oh, I found a scratch-and-sniff book about wine tasting. It teaches the different flavour notes to look for."
+        ],
+        [
+            "Penny",
+            "You actually smell the wine?"
+        ],
+        [
+            "Leonard",
+            "I mostly just smell my nasal spray."
+        ],
+        [
+            "Penny",
+            "Are your sinuses acting up?"
+        ],
+        [
+            "Leonard",
+            "Since my preschool got a bunny."
+        ],
+        [
+            "Penny",
+            "Hey, are you still hanging out with Bernadette tonight?"
+        ],
+        [
+            "Sheldon",
+            "Yes. And we\u2019re going to prove that we don\u2019t need alcohol to enjoy ourselves."
+        ],
+        [
+            "Penny",
+            "Oh, good for you."
+        ],
+        [
+            "Sheldon",
+            "Or caffeine, tobacco, sushi, soft cheese, processed meats and jacuzzis, which can all be harmful to an unborn baby."
+        ],
+        [
+            "Penny",
+            "No honey baked ham in a hot tub, got it."
+        ],
+        [
+            "Sheldon",
+            "Oh, no bubble baths either. They can increase the risk of a urinary tract infection."
+        ],
+        [
+            "Leonard",
+            "Okay, have fun."
+        ],
+        [
+            "Sheldon",
+            "Oh, and no swordfish, king mackerel, shark or tilefish, which are all high in mercury."
+        ],
+        [
+            "Leonard",
+            "We\u2019re leaving now!"
+        ],
+        [
+            "Sheldon",
+            "Oh, and no contact with guinea pigs or hamsters or their droppings, uh, no-no cat litter boxes, no paint fumes."
+        ],
+        [
+            "Penny",
+            "Okay, we\u2019re leaving, love you, bye."
+        ],
+        [
+            "Sheldon",
+            "Boy, do I love restrictions."
+        ],
+        [
+            "Scene",
+            "The wine tasting."
+        ],
+        [
+            "Howard",
+            "Hey. Where is everybody?"
+        ],
+        [
+            "Amy",
+            "Oh, we\u2019re the first ones here."
+        ],
+        [
+            "Howard",
+            "Oh. Cool."
+        ],
+        [
+            "Amy",
+            "Yeah. Cool."
+        ],
+        [
+            "Howard",
+            "You know, I don\u2019t remember the last time it was just you and me hanging out."
+        ],
+        [
+            "Amy",
+            "Oh, I do. It was three years ago."
+        ],
+        [
+            "Howard",
+            "Oh, yeah, and we said we should do it more often. And, and, and, and, and here we are."
+        ],
+        [
+            "Amy",
+            "So, Sheldon and Bernadette are hanging out."
+        ],
+        [
+            "Howard",
+            "I know. What are they gonna talk about?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know. I really don\u2019t know."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "Oh, good."
+        ],
+        [
+            "Amy",
+            "Oh, thank God."
+        ],
+        [
+            "Penny",
+            "You guys been here long?"
+        ],
+        [
+            "Howard",
+            "No, two minutes."
+        ],
+        [
+            "Amy",
+            "But yes."
+        ],
+        [
+            "Howard",
+            "Where\u2019s Claire?"
+        ],
+        [
+            "Raj",
+            "Oh, she\u2019s meeting us here. Hey, guys, do me a favour and don\u2019t ask too many questions about the relationship. We\u2019re just keeping it casual."
+        ],
+        [
+            "Leonard",
+            "Oh, so I shouldn\u2019t ask her how she feels about being a member of your harem?"
+        ],
+        [
+            "Raj",
+            "Yeah, I know you\u2019re teasing, but watch out for karma."
+        ],
+        [
+            "Amy",
+            "Hey, Penny, isn\u2019t that your old boyfriend Zack?"
+        ],
+        [
+            "Penny",
+            "Oh, yeah."
+        ],
+        [
+            "Amy",
+            "Are you gonna say hi to him?"
+        ],
+        [
+            "Penny",
+            "Uh, I don\u2019t know."
+        ],
+        [
+            "Raj",
+            "Hey, while you decide, who was better in bed, big hot Zack or wheezy little Leonard? Neener neener."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Bernadette",
+            "I brought sparkling cider."
+        ],
+        [
+            "Sheldon",
+            "Oh, the bubbles tickle my nose. I\u2019ll just open this now so it can get nice and flat before we drink it."
+        ],
+        [
+            "Bernadette",
+            "So what do you want to do tonight?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I have quite the evening planned. Our foetus-friendly festival of fun begins with an in-depth look at the world of model trains, and then we\u2019ll kick things up a notch and explore all the different ways that you can make toast."
+        ],
+        [
+            "Bernadette",
+            "There\u2019s more than one?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019ve heard of French toast?"
+        ],
+        [
+            "Bernadette",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "Cinnamon toast?"
+        ],
+        [
+            "Bernadette",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "Melba toast?"
+        ],
+        [
+            "Bernadette",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "You get where I\u2019m going here?"
+        ],
+        [
+            "Bernadette",
+            "Yeah."
+        ],
+        [
+            "Scene",
+            "The wine tasting."
+        ],
+        [
+            "Amy",
+            "I\u2019m getting an earthy note."
+        ],
+        [
+            "Penny",
+            "Ah, there\u2019s definitely some oak."
+        ],
+        [
+            "Raj",
+            "Also, uh, cherries?"
+        ],
+        [
+            "Leonard",
+            "I smell nothing."
+        ],
+        [
+            "Howard",
+            "Really? Nothing?"
+        ],
+        [
+            "Leonard",
+            "Just a whole lot of Afrin."
+        ],
+        [
+            "Zack",
+            "Penny?"
+        ],
+        [
+            "Penny",
+            "Oh. Zack, hi. You guys remember Zack."
+        ],
+        [
+            "Howard",
+            "Yeah, hey, buddy."
+        ],
+        [
+            "Amy",
+            "Hello."
+        ],
+        [
+            "Raj",
+            "Hey."
+        ],
+        [
+            "Zack",
+            "Hey, did you two get married?"
+        ],
+        [
+            "Penny",
+            "We did."
+        ],
+        [
+            "Leonard",
+            "Yeah, mm-hmm."
+        ],
+        [
+            "Zack",
+            "To each other?"
+        ],
+        [
+            "Penny",
+            "Yes."
+        ],
+        [
+            "Zack",
+            "Cool. \u2018Cause other than when you broke up with him and dated me, then broke up with me, and then dated me one more time before going back to him, I was always rooting for you two."
+        ],
+        [
+            "Leonard",
+            "Thanks."
+        ],
+        [
+            "Zack",
+            "So how\u2019s the science world? What are you guys up to?"
+        ],
+        [
+            "Howard",
+            "We\u2019ve actually been working on a prototype for a navigation system we invented."
+        ],
+        [
+            "Leonard",
+            "But we won\u2019t bore you with the details."
+        ],
+        [
+            "Zack",
+            "Are you kidding? I love science. Einstein, Stephen Hawking, Mike deGrasse Tyson."
+        ],
+        [
+            "Amy",
+            "Mike deGrasse Tyson?"
+        ],
+        [
+            "Howard",
+            "Yeah, you know, the boxer who grew a moustache and became a scientist."
+        ],
+        [
+            "Zack",
+            "So what\u2019s your invention?"
+        ],
+        [
+            "Howard",
+            "Well, we\u2019re using quantum vortices to replace gyroscopes in guidance systems."
+        ],
+        [
+            "Leonard",
+            "What\u2019s neat is that they can maintain angular momentum indefinitely."
+        ],
+        [
+            "Zack",
+            "Angular momentum. I was wondering about that."
+        ],
+        [
+            "Howard",
+            "You could put it in a satellite or a rocket, and it\u2019ll run forever."
+        ],
+        [
+            "Zack",
+            "Cool. Could it be used for missiles and war stuff?"
+        ],
+        [
+            "Howard",
+            "Yeah, but we didn\u2019t create it for weapons."
+        ],
+        [
+            "Leonard",
+            "And I doubt the military would be interested in our little guidance system."
+        ],
+        [
+            "Zack",
+            "Is it better than the one they use now?"
+        ],
+        [
+            "Howard",
+            "A lot."
+        ],
+        [
+            "Leonard",
+            "Way better."
+        ],
+        [
+            "Zack",
+            "Huh. You sure you guys are smart?"
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "H-O gauge trains are 1/87th scale. N gauge are 1/160th scale. And that brings us to Z gauge, at a, you could easily swallow it, don\u2019t ask how I know, 1 to 220."
+        ],
+        [
+            "Bernadette",
+            "I\u2019m sorry, I have to ask."
+        ],
+        [
+            "Sheldon",
+            "When I was five, I ingested a Z gauge locomotive. I spent the next three days saying, I think I can pass it, I think I can pass it, I think I can pass it."
+        ],
+        [
+            "Bernadette",
+            "What is it about trains that you like so much?"
+        ],
+        [
+            "Sheldon",
+            "What an interesting question. When I was a child, life was confusing and chaotic for me, and trains represented order. I could line them up, categorize them, control them. I guess you could say that they gave me a sense of calm in a world that didn\u2019t."
+        ],
+        [
+            "Bernadette",
+            "That\u2019s lovely, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Well, other than when they\u2019re chugging through your bowels, these things are magic."
+        ],
+        [
+            "Scene",
+            "The wine tasting."
+        ],
+        [
+            "Leonard",
+            "I have to admit, I\u2019ve been worried about the military applications since we started talking about this."
+        ],
+        [
+            "Howard",
+            "Me, too."
+        ],
+        [
+            "Leonard",
+            "Why didn\u2019t you say something?"
+        ],
+        [
+            "Howard",
+            "Same reason I don\u2019t talk about ass cancer. It\u2019s not a pleasant topic."
+        ],
+        [
+            "Raj",
+            "You can\u2019t let this stop you. Almost any scientific advancement can be used for destructive purposes."
+        ],
+        [
+            "Amy",
+            "It\u2019s true. Even Einstein\u2019s theory of relativity was later applied to the development of nuclear weapons."
+        ],
+        [
+            "Penny",
+            "E equals MC squared. Yeah. E is for energy, M for mass, and C for the speed of light."
+        ],
+        [
+            "Amy",
+            "How do you know that?"
+        ],
+        [
+            "Penny",
+            "Oh, Leonard mumbles it when he wants sex to last longer."
+        ],
+        [
+            "Claire",
+            "Hey, Raj."
+        ],
+        [
+            "Raj",
+            "Hey, Claire. Good, you\u2019re here. Guys, this is my friend Claire. We\u2019re casually dating, and there\u2019s no need for any further questions about it."
+        ],
+        [
+            "Leonard",
+            "Would you like a glass of wine?"
+        ],
+        [
+            "Raj",
+            "I said no questions."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "And last but not least, this is one that I like to call Star Wars Toast because it has a light side and a dark side. All righty, it\u2019s time for Dungeons & Dragons."
+        ],
+        [
+            "Bernadette",
+            "Dungeons & Dragons? That sounds about right."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re gonna enjoy this. I designed it especially for you."
+        ],
+        [
+            "Bernadette",
+            "Okay, but just for a little bit."
+        ],
+        [
+            "Sheldon",
+            "Oh, I have a feeling that once you start, you\u2019re not gonna want to or be allowed to stop."
+        ],
+        [
+            "Bernadette",
+            "All right."
+        ],
+        [
+            "Sheldon",
+            "Ready?"
+        ],
+        [
+            "Bernadette",
+            "You bet."
+        ],
+        [
+            "Sheldon",
+            "Your name is Bernatrix. You are a warrior queen. You\u2019re strong, beautiful and tall."
+        ],
+        [
+            "Bernadette",
+            "Oh. I like the idea of being tall."
+        ],
+        [
+            "Sheldon",
+            "I think you\u2019re gonna like a lot of things I have in store. For example, in this world, only the men get pregnant, so your husband is home trying not to pee when he laughs."
+        ],
+        [
+            "Bernadette",
+            "This is getting fun. What\u2019s next?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re parched and weary from battle. You stand in front of a tavern that serves the coldest, most delicious ale in all the realm."
+        ],
+        [
+            "Bernadette",
+            "Oh, I haven\u2019t had a drink in months."
+        ],
+        [
+            "Sheldon",
+            "What do you do?"
+        ],
+        [
+            "Bernadette",
+            "I storm in, slam my sword down, and say, barkeep, bring me the strongest ale you have and serve it in the skull of a goblin."
+        ],
+        [
+            "Sheldon",
+            "He wants to see I.D."
+        ],
+        [
+            "Scene",
+            "The wine tasting."
+        ],
+        [
+            "Amy",
+            "So, Claire, we\u2019ve heard so many wonderful things about you."
+        ],
+        [
+            "Claire",
+            "Really? Like what?"
+        ],
+        [
+            "Amy",
+            "Uh, mostly Penny\u2019s heard them."
+        ],
+        [
+            "Zack",
+            "Boy, you get some dirty looks over there when you ask for ice."
+        ],
+        [
+            "Raj",
+            "Zack, this is my friend Claire."
+        ],
+        [
+            "Zack",
+            "You\u2019re hot. You seeing anybody?"
+        ],
+        [
+            "Raj",
+            "Uh, she\u2019s seeing me."
+        ],
+        [
+            "Zack",
+            "Why\u2019d you say she\u2019s your friend?"
+        ],
+        [
+            "Raj",
+            "We\u2019re just keeping it casual."
+        ],
+        [
+            "Zack",
+            "Why is he being casual with you? You seem great."
+        ],
+        [
+            "Claire",
+            "I don\u2019t know. Ask him."
+        ],
+        [
+            "Zack",
+            "Why are you being casual with her? She seems great."
+        ],
+        [
+            "Scene",
+            "The toilets."
+        ],
+        [
+            "Leonard",
+            "Maybe we should take a step back."
+        ],
+        [
+            "Howard",
+            "Take a step back? I\u2019m not a young man any more."
+        ],
+        [
+            "Leonard",
+            "No, I mean re-evaluate what we\u2019re doing with the guidance system."
+        ],
+        [
+            "Howard",
+            "But I got a baby on the way. I got to make some money."
+        ],
+        [
+            "Leonard",
+            "What good is money gonna do if we inadvertently bring about Armageddon?"
+        ],
+        [
+            "Howard",
+            "Okay, let me stop you right there. We absolutely know our invention will not be used to destroy the world."
+        ],
+        [
+            "Leonard",
+            "How?"
+        ],
+        [
+            "Howard",
+            "Because no one from the future has come back to kill us."
+        ],
+        [
+            "Leonard",
+            "Very funny."
+        ],
+        [
+            "Howard",
+            "You got something better?"
+        ],
+        [
+            "Leonard",
+            "Well, not really."
+        ],
+        [
+            "Howard",
+            "Okay, then. Geez, how much wine did you drink?"
+        ],
+        [
+            "Leonard",
+            "Not a lot. I just couldn\u2019t start until you walked away."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Sheldon",
+            "The Hell Prawn lunges out of the hot spring. You block it with your shield. Do you attack?"
+        ],
+        [
+            "Bernadette",
+            "Does it have eyes?"
+        ],
+        [
+            "Sheldon",
+            "Three giant red ones and they never blink. It\u2019s unsettling."
+        ],
+        [
+            "Bernadette",
+            "I stab it in the middle eye."
+        ],
+        [
+            "Sheldon",
+            "Good choice. Critical hit. Your sword goes through its eye into its tiny brain. With its final dying gasp, it says, you have reduced me to a pile of sushi. Enjoy me with this packet of soy sauce. It\u2019s low sodium. Aaaah."
+        ],
+        [
+            "Bernadette",
+            "Okay, I guess I should eat the Hell Prawn."
+        ],
+        [
+            "Sheldon",
+            "Using your sword, you prepare a beautiful sushi dinner. You slip into the hot spring and enjoy the warm water on your aching joints. As you happily close your eyes, you recall the incredible evening you\u2019ve had and notice that your feet and ankles are smaller than they\u2019ve ever been. The end."
+        ],
+        [
+            "Bernadette",
+            "Wow, this night turned out to be so much more fun than I thought."
+        ],
+        [
+            "Sheldon",
+            "Oh, the fun doesn\u2019t stop. You\u2019re still going home with a goodie bag full of toast."
+        ],
+        [
+            "Bernadette",
+            "Thank you for this. You know, ever since people found out I\u2019m having a baby, I feel like I became Pregnant Bernadette. It was nice to take a little break tonight."
+        ],
+        [
+            "Sheldon",
+            "I can understand that. From the moment people realized I was a genius, I\u2019ve been Sheldon the Genius. Although I\u2019ve never really wanted a break from that, so I suppose I don\u2019t understand. Which is ironic \u2019cause, you know, genius."
+        ],
+        [
+            "Bernadette",
+            "Well, thanks again."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re welcome. And any time you need a break from being Bernadette the Pregnant, Bernatrix the Warrior Queen is here waiting."
+        ],
+        [
+            "Bernadette",
+            "I might just take you up on that."
+        ],
+        [
+            "Sheldon",
+            "Well, mind you now, that offer\u2019s only good until the third trimester. I can\u2019t risk getting amniotic fluid on my spot."
+        ],
+        [
+            "Scene",
+            "The wine tasting. "
+        ],
+        [
+            "Raj",
+            "Hey, dude, you\u2019re killing me with Claire."
+        ],
+        [
+            "Zack",
+            "What are you talking about?"
+        ],
+        [
+            "Raj",
+            "I mean, come on, look at you. You\u2019re classically handsome, you\u2019ve got a swimmer\u2019s body. Next to you, I look like me."
+        ],
+        [
+            "Zack",
+            "Oh, man, I didn\u2019t mean to do that. But I do appreciate you recognizing my swimmer\u2019s body. Which, incidentally, I got from playing Marco Polo at the YMCA."
+        ],
+        [
+            "Raj",
+            "Yeah, okay, just do me a favour and stop talking about how great Claire is."
+        ],
+        [
+            "Zack",
+            "Anything for you, my little foreign friend."
+        ],
+        [
+            "Claire",
+            "So, I got to ask, does Raj bring around other girls?"
+        ],
+        [
+            "Penny",
+            "Uh, you know, I\u2019m not really around that much. Amy knows much more than I do."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t think you have anything to worry about. Raj is a terrific guy, loyal to a fault."
+        ],
+        [
+            "Howard",
+            "Yeah. He still has an AOL address."
+        ],
+        [
+            "Zack",
+            "I see what you\u2019re saying. She\u2019s not so great."
+        ],
+        [
+            "Raj",
+            "Don\u2019t listen to him. He says crazy things all the time. Uh, watch. Marco."
+        ],
+        [
+            "Zack",
+            "Polo."
+        ],
+        [
+            "Raj",
+            "So, uh, what are you guys talking about?"
+        ],
+        [
+            "Claire",
+            "Your friends were just telling me about all the other girls you\u2019re dating."
+        ],
+        [
+            "Raj",
+            "Why would you do that? I specifically asked you not to do that."
+        ],
+        [
+            "Penny",
+            "We didn\u2019t."
+        ],
+        [
+            "Amy",
+            "You just did."
+        ],
+        [
+            "Zack",
+            "Wow. Maybe none of you guys are smart."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Morning."
+        ],
+        [
+            "Sheldon",
+            "Morning."
+        ],
+        [
+            "Leonard",
+            "Ugh. Too much wine."
+        ],
+        [
+            "Sheldon",
+            "Oh, I overdid it myself last night. Hair of the dog."
+        ],
+        [
+            "Leonard",
+            "Hey, did you ever think about the military applications for the guidance system?"
+        ],
+        [
+            "Sheldon",
+            "Of course."
+        ],
+        [
+            "Leonard",
+            "Does it bother you?"
+        ],
+        [
+            "Sheldon",
+            "No, it did at first, but then I talked it through with Frank and Alicia, and they really helped put things into perspective."
+        ],
+        [
+            "Leonard",
+            "Who are these people?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, friends are like toilet paper. It\u2019s good to have extras under the sink."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-9-episode-22-the-fermentation-bifurcation/"
+}

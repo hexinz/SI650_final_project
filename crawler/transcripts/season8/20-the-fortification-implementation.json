@@ -1,0 +1,2062 @@
+{
+    "Season": 8,
+    "Episode": 20,
+    "Title": "the fortification implementation",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The cafeteria."
+            ],
+            [
+                17,
+                "Credits sequence."
+            ],
+            [
+                18,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                27,
+                "Penny\u2019s apartment."
+            ],
+            [
+                42,
+                "The apartment. "
+            ],
+            [
+                53,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                70,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                107,
+                "The apartment. "
+            ],
+            [
+                121,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                145,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                171,
+                "The apartment. Including fort."
+            ],
+            [
+                180,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                194,
+                "Penny\u2019s apartment. "
+            ],
+            [
+                212,
+                "Mrs Wolowitz\u2019s house."
+            ],
+            [
+                217,
+                "The fort."
+            ],
+            [
+                238,
+                "The apartment. "
+            ]
+        ],
+        "Raj": [
+            [
+                1,
+                "You\u2019re wrong."
+            ],
+            [
+                3,
+                "Yes, you are."
+            ],
+            [
+                6,
+                "The guy who invented it says it\u2019s jif."
+            ],
+            [
+                20,
+                "Hey, I got you a little gift."
+            ],
+            [
+                22,
+                "You know me. I\u2019m from India. I can\u2019t resist children begging. So, how\u2019s it going with the title to the house?"
+            ],
+            [
+                24,
+                "Wow, so you\u2019re not curious at all?"
+            ],
+            [
+                26,
+                "Hmm. What if he\u2019s in prison? What if he\u2019s a spy? What if he\u2019s in a Beatles cover band? I\u2019m just saying, if he\u2019s got your nose and haircut, he\u2019d make a killer Ringo."
+            ],
+            [
+                54,
+                "So, Bernadette, have you thought about how you\u2019re going to redecorate this place?"
+            ],
+            [
+                56,
+                "You know, if you knocked out this wall, it would give you an open floor plan, and then, it\u2019s a little scary, but could be fun, indoor fire pit."
+            ],
+            [
+                128,
+                "Enough chitchat. How do we know you are who you say you are?"
+            ],
+            [
+                130,
+                "Okay, you got me there. You here looking for money?"
+            ],
+            [
+                132,
+                "A kidney, cornea, piece of his liver?"
+            ],
+            [
+                134,
+                "You\u2019re in a Beatles cover band and you need Howard to replace your dad as Ringo."
+            ],
+            [
+                136,
+                "Okay, but something smells fishy. And not just because you work around sea animals. That actually sounds interesting, and I\u2019d like to learn more about it. Hey, you okay?"
+            ],
+            [
+                138,
+                "I get it. What do you want to do?"
+            ],
+            [
+                140,
+                "All right, I\u2019ve got your back."
+            ],
+            [
+                143,
+                "Listen, dude, it\u2019s time for you to hit the road."
+            ],
+            [
+                193,
+                "But technically, yes."
+            ]
+        ],
+        "Howard": [
+            [
+                2,
+                "No, I\u2019m not."
+            ],
+            [
+                4,
+                "No, I\u2019m not. Settle this. Those little animated pictures on the Internet, are they called gifs or jifs?"
+            ],
+            [
+                7,
+                "I\u2019m sorry, do you mean the guy or the juy?"
+            ],
+            [
+                9,
+                "Something happened different from the way you wanted it."
+            ],
+            [
+                12,
+                "Yeah, I bet you anything it\u2019s just \u2019cause you\u2019re a pain in the ass."
+            ],
+            [
+                23,
+                "Great, it\u2019s all done. The lawyer tracked down my father and got him to sign it over. I didn\u2019t have to meet him, I didn\u2019t have to talk to him, I don\u2019t even know where he is."
+            ],
+            [
+                25,
+                "Nope."
+            ],
+            [
+                57,
+                "Hey, I grew up in this house, okay? No one\u2019s knocking anything down."
+            ],
+            [
+                61,
+                "Yes."
+            ],
+            [
+                63,
+                "Wuh, uh, who\u2019s your father?"
+            ],
+            [
+                65,
+                "Sam Wolowitz is my father."
+            ],
+            [
+                67,
+                "Well, wait, so if we have the same father, are, are you saying you\u2019re my half-brother?"
+            ],
+            [
+                69,
+                "Bernadette, weird things are happening out here."
+            ],
+            [
+                122,
+                "You know what, I\u2019m being a bad host. Let me get some more coffee."
+            ],
+            [
+                124,
+                "No, I got it."
+            ],
+            [
+                137,
+                "Not really. This guy shows up out of the blue, and now I have a brother? My father has another family?"
+            ],
+            [
+                139,
+                "I don\u2019t know. I, I\u2019d just like him to go away. I can\u2019t deal with this."
+            ],
+            [
+                141,
+                "Thank you. Come on. And I\u2019d like to point out, this wall just provided a lot of privacy."
+            ],
+            [
+                144,
+                "Hey, hey, the young man asked a good question."
+            ],
+            [
+                181,
+                "I\u2019m surprised you could hear me with this Thin Mint in your ear. Yeah, pretty cool, huh?"
+            ],
+            [
+                185,
+                "Well, I hope I get to see you again."
+            ],
+            [
+                188,
+                "Hey, I threw out the first pitch at an Angels game."
+            ],
+            [
+                192,
+                "That\u2019s not what she meant."
+            ],
+            [
+                214,
+                "It was actually just a mechanical hand."
+            ],
+            [
+                216,
+                "You are my brother."
+            ]
+        ],
+        "Leonard": [
+            [
+                5,
+                "Well, the G stands for graphics. That\u2019s a hard G, so I\u2019d say gif."
+            ],
+            [
+                11,
+                "Oh, Sheldon, I\u2019m sure it\u2019s not because they don\u2019t think you\u2019re an elite scientist."
+            ],
+            [
+                14,
+                "Look, you can spend the rest of the day being bitter about this."
+            ],
+            [
+                16,
+                "I was gonna say or, but why bother?"
+            ],
+            [
+                30,
+                "Well, you picked a good one to start. Wil\u2019s had lots of great guests. Jonathan Frakes, Brent Spiner, Michael Dorn, Gates McFadden."
+            ],
+            [
+                32,
+                "Yes."
+            ],
+            [
+                37,
+                "This is exciting."
+            ],
+            [
+                73,
+                "Psst."
+            ],
+            [
+                75,
+                "I, I didn\u2019t want to interrupt."
+            ],
+            [
+                77,
+                "Really?"
+            ],
+            [
+                79,
+                "Hey, great."
+            ],
+            [
+                86,
+                "Oh, if she was with an Indian guy dressed like a banana, that was just my friends, Howard and Raj."
+            ],
+            [
+                90,
+                "It really is."
+            ],
+            [
+                101,
+                "You have a new job."
+            ],
+            [
+                103,
+                "I don\u2019t think you can do both."
+            ],
+            [
+                106,
+                "Stay out of it, Kevin Smith."
+            ],
+            [
+                147,
+                "No, no, no. We\u2019re not fighting, we\u2019re just having a conversation."
+            ],
+            [
+                149,
+                "Give me back that juice."
+            ],
+            [
+                151,
+                "Well, what if you get it?"
+            ],
+            [
+                153,
+                "From a Kevin Smith movie?"
+            ],
+            [
+                159,
+                "I\u2019m just trying to protect you. How many times did I see you get your heart broken trying to make it as an actress?"
+            ],
+            [
+                161,
+                "I\u2019m always excited for you. I\u2019m excited that you found this new job where you\u2019re making decent money."
+            ],
+            [
+                163,
+                "Wait, twice?"
+            ],
+            [
+                165,
+                "Like, times two twice?"
+            ],
+            [
+                167,
+                "I went to school for half my life. I have a doctorate. I\u2019m still paying off college loans."
+            ],
+            [
+                169,
+                "Wil, can we just turn off the podcast for a little bit?"
+            ],
+            [
+                195,
+                "Hang on, if you\u2019re making all this money, where is it?"
+            ],
+            [
+                197,
+                "What does that mean, under your bed?"
+            ],
+            [
+                199,
+                "Wait a minute, you have a guy?"
+            ],
+            [
+                201,
+                "Why would I have a guy? I don\u2019t have any money."
+            ],
+            [
+                204,
+                "Wil, I\u2019m begging you, just please turn that off."
+            ],
+            [
+                207,
+                "Great, you\u2019re not only more successful than me, now you\u2019re more mature."
+            ],
+            [
+                209,
+                "That would be great, thank you."
+            ],
+            [
+                211,
+                "Yes, it is, Wil."
+            ],
+            [
+                239,
+                "Hello? What is this?"
+            ],
+            [
+                241,
+                "Are those my sheets?"
+            ],
+            [
+                243,
+                "Okay. Well, you kids have fun. I\u2019m gonna go to sleep."
+            ],
+            [
+                245,
+                "Yeah, I\u2019m good."
+            ],
+            [
+                247,
+                "Okay, fine. Sheldon, may I please visit your fort?"
+            ],
+            [
+                249,
+                "Thank you."
+            ]
+        ],
+        "Sheldon": [
+            [
+                8,
+                "Well, I\u2019ll give you three guesses why I\u2019m so irritated."
+            ],
+            [
+                10,
+                "I guess news travels fast. It\u2019s true, a select group of scientists was invited to a weekend symposium at a former home of Richard Feynman, and I wasn\u2019t included."
+            ],
+            [
+                13,
+                "You\u2019re just saying that to make me feel better."
+            ],
+            [
+                15,
+                "Agreed."
+            ],
+            [
+                44,
+                "Sure. It\u2019s not like I was invited to Richard Feynman\u2019s house and have anything better to do."
+            ],
+            [
+                46,
+                "I don\u2019t know the future. Do you think there\u2019s a chance that an asteroid could hit the Earth, destroying Feynman\u2019s house and everyone in it?"
+            ],
+            [
+                48,
+                "Then buckle up, you\u2019re in for a cranky night."
+            ],
+            [
+                50,
+                "You know I just put that in because of uterus stuff."
+            ],
+            [
+                52,
+                "I was afraid you might bring this up, so I have a work-around. There you go. As far as you\u2019re concerned, I\u2019m smiling. Although, I must admit, I\u2019m smiling a little bit at the moment because this loophole is so brilliant."
+            ],
+            [
+                108,
+                "Do you think there comes a point in life when it stops feeling bad to be left out of things?"
+            ],
+            [
+                110,
+                "You know what? I used to be a fan of evolution, but I\u2019ve since evolved, and now I think it\u2019s dumb."
+            ],
+            [
+                112,
+                "Hey, look at that. Even in your example, you\u2019re all by yourself."
+            ],
+            [
+                114,
+                "I can just picture them all right now at Feynman\u2019s house, probably discussing Schrodinger and at the same time, not discussing Schrodinger. See? They\u2019re missing out on hilarious jokes like that."
+            ],
+            [
+                116,
+                "It reminds me of when my stupid brother and sister would build forts in the living room and wouldn\u2019t let me in. I hated that so much."
+            ],
+            [
+                118,
+                "Isn\u2019t that a little juvenile?"
+            ],
+            [
+                120,
+                "I\u2019ll get the blankets. You Google how to have childlike fun."
+            ],
+            [
+                173,
+                "Wonderful. I just finished hanging the lights."
+            ],
+            [
+                175,
+                "Yes, oh, but enter through the side. Batman is a load-bearing blanket."
+            ],
+            [
+                177,
+                "I know. This isn\u2019t the printout. This is my real face."
+            ],
+            [
+                179,
+                "Roughing it? Okay. Everything looks so big from down here. This must be how Leonard feels."
+            ],
+            [
+                218,
+                "Okay, so the final four forts in the first annual best fort ever contest, or fort off, are, Fort Knox, Fort Ticonderoga, Fort Sumter and Fort Cozy McBlanket."
+            ],
+            [
+                220,
+                "Mm-hmm."
+            ],
+            [
+                222,
+                "Wait, no. We haven\u2019t picked a winner."
+            ],
+            [
+                224,
+                "Well, of course we do. Fort Knox doesn\u2019t have a secret physics lending library."
+            ],
+            [
+                226,
+                "Well, wait. What if, just this once, we suspend the date night parameters and you stay later?"
+            ],
+            [
+                228,
+                "That\u2019s a big step."
+            ],
+            [
+                230,
+                "Very well. I will agree to a family-friendly, G-rated, boy-girl sleepover."
+            ],
+            [
+                232,
+                "G-rated, with a warning for families with babies and toddlers."
+            ],
+            [
+                234,
+                "Do you need to borrow a toothbrush or pajamas?"
+            ],
+            [
+                236,
+                "It would, but you know how much I admire preparedness. How did you know we\u2019d be in the living room?"
+            ],
+            [
+                240,
+                "We built a fort."
+            ],
+            [
+                244,
+                "Well, Leonard, don\u2019t you want to see the inside of the fort?"
+            ],
+            [
+                246,
+                "Oh, come on. I really wanted to tell someone they can\u2019t come in."
+            ],
+            [
+                248,
+                "I want to say no, but it\u2019s too glorious. Get in here."
+            ],
+            [
+                251,
+                "Not there. That\u2019s my spot."
+            ]
+        ],
+        "Bernadette": [
+            [
+                19,
+                "Hey, Raj."
+            ],
+            [
+                21,
+                "Oh, that\u2019s a lot of Girl Scout Cookies."
+            ],
+            [
+                55,
+                "You know, I\u2019m thinking ripping up the carpets, maybe lose the wallpaper, all new light fixtures."
+            ],
+            [
+                58,
+                "Okay, okay. When he\u2019s at Comic-Con, I\u2019m bringing in a wrecking ball."
+            ],
+            [
+                123,
+                "Oh, let me do it, Howard."
+            ],
+            [
+                125,
+                "So, Josh, what do you do?"
+            ],
+            [
+                127,
+                "Oh, how nice. I loved Finding Nemo."
+            ],
+            [
+                135,
+                "Why don\u2019t you help with the coffee?"
+            ],
+            [
+                183,
+                "Howie, have you noticed how often people say that when you start to do magic?"
+            ],
+            [
+                187,
+                "Keep dreaming."
+            ],
+            [
+                190,
+                "He did it with a robot."
+            ]
+        ],
+        "Wil Wheaton": [
+            [
+                28,
+                "Thanks again for agreeing to do this."
+            ]
+        ],
+        "Penny": [
+            [
+                29,
+                "Oh, it\u2019s cool, I\u2019ve never been on a podcast before."
+            ],
+            [
+                31,
+                "Those are Star Trek people."
+            ],
+            [
+                33,
+                "I only figured that out because I\u2019ve never heard of any of them."
+            ],
+            [
+                35,
+                "Sorry."
+            ],
+            [
+                38,
+                "Yeah, so, how many people listen?"
+            ],
+            [
+                40,
+                "What? A few thousand people listen to you talk about nerd stuff?"
+            ],
+            [
+                82,
+                "Okay, well, I\u2019ll apologize for the first time, but the other nine are on you."
+            ],
+            [
+                84,
+                "Really?"
+            ],
+            [
+                89,
+                "Hey, Kevin. It\u2019s really exciting to talk to you."
+            ],
+            [
+                92,
+                "Oh, wow. I wish it was better."
+            ],
+            [
+                95,
+                "Aw."
+            ],
+            [
+                98,
+                "Seriously?"
+            ],
+            [
+                100,
+                "Oh, my, I would love that."
+            ],
+            [
+                102,
+                "Well, maybe I can do both."
+            ],
+            [
+                104,
+                "I don\u2019t think I asked you."
+            ],
+            [
+                150,
+                "What is the harm if I audition?"
+            ],
+            [
+                152,
+                "I don\u2019t know, I make a movie, become rich and famous, win an Oscar, a Golden Globe and live an incredibly wonderful life."
+            ],
+            [
+                158,
+                "Thanks a lot."
+            ],
+            [
+                160,
+                "Okay, instead of protecting me, why don\u2019t you try being excited when something good happens?"
+            ],
+            [
+                162,
+                "Decent? I make twice what you make."
+            ],
+            [
+                164,
+                "Yeah."
+            ],
+            [
+                168,
+                "Well, how much do you owe? Maybe I can help you out."
+            ],
+            [
+                196,
+                "In a safe place."
+            ],
+            [
+                198,
+                "No, it means a diversified portfolio of stocks and bonds. I\u2019m not overly conservative. I\u2019m young, so my guy said I can afford to take some risks."
+            ],
+            [
+                200,
+                "Don\u2019t you have a guy?"
+            ],
+            [
+                202,
+                "Oh, sweetie, you should really get some money."
+            ],
+            [
+                206,
+                "Leonard, why are you making such a big deal out of this? So our roles have changed a bit over the last couple years. This is the way life is. And I\u2019m sure in time they\u2019ll change again."
+            ],
+            [
+                208,
+                "Okay, look, would it make you feel better if I did something dumb like sneak out of work one day to go audition for a Kevin Smith movie?"
+            ]
+        ],
+        "Wil": [
+            [
+                34,
+                "I deserve that. I invited you on my show and I drove here."
+            ],
+            [
+                36,
+                "Okay, so, this is basically gonna be just like a little talk show. Uh, we\u2019re gonna take some calls, we\u2019ll talk about what it was like on the set of Serial Ape-ist 2. It should be really fun."
+            ],
+            [
+                39,
+                "Most people download it later, but usually a few thousand people listen live."
+            ],
+            [
+                41,
+                "Again, right in the ears, straight to the feelings."
+            ],
+            [
+                72,
+                "Uh, spoiler alert, after the monkey sees, it kills."
+            ],
+            [
+                74,
+                "I\u2019ve just been handed a note. I\u2019m going to read it. Wil, do you want more Diet Coke? Also, we have juice."
+            ],
+            [
+                76,
+                "Uh, that voice you just heard belongs to Leonard, Penny\u2019s fianc\u00e9. Uh, Leonard, why don\u2019t you grab some headphones and join us?"
+            ],
+            [
+                78,
+                "Yeah."
+            ],
+            [
+                80,
+                "So, while Leonard gets set up, let\u2019s take a call. Hello, caller, you are on with Penny and Wil from Serial Ape-ist 2."
+            ],
+            [
+                83,
+                "Thanks a lot, caller. You know that the movie actually has a little bit of a cult following."
+            ],
+            [
+                85,
+                "Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character."
+            ],
+            [
+                87,
+                "All right, it\u2019s time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he\u2019s the guy who directed Clerks. Hello, Kevin Smith."
+            ],
+            [
+                93,
+                "Oh, don\u2019t worry about it. Have you seen some of Kevin\u2019s films?"
+            ],
+            [
+                96,
+                "You know, I\u2019m in the movie, too."
+            ],
+            [
+                146,
+                "So, for those of you just tuning in, we are listening to a really fun fight between my co-star\u2026"
+            ],
+            [
+                148,
+                "All right. We\u2019re listening to a really fun conversation between my co-star from Serial Ape-ist 2 and her fianc\u00e9, who doesn\u2019t believe women should have dreams."
+            ],
+            [
+                155,
+                "Don\u2019t you listen to him, buddy. You\u2019re awesome. You\u2019re one of the greatest directors of our time."
+            ],
+            [
+                157,
+                "And that was Kevin Smith."
+            ],
+            [
+                166,
+                "For those of you at home, Leonard just found out his fianc\u00e9e makes way more money than he does. Let\u2019s listen."
+            ],
+            [
+                170,
+                "For those of you at home, I am shaking my head no."
+            ],
+            [
+                203,
+                "For those of you listening at home, how great is this?"
+            ],
+            [
+                205,
+                "Sure. And we\u2019re back."
+            ],
+            [
+                210,
+                "I\u2019m just gonna jump in here real quick. Leonard, a moment ago, you were dead set against Penny resuming her acting career, but now you\u2019re all for it. Is it fair to say that she played you like a violin?"
+            ]
+        ],
+        "Amy": [
+            [
+                43,
+                "Can you please pass the salt?"
+            ],
+            [
+                45,
+                "Is this how the rest of the night\u2019s going to be?"
+            ],
+            [
+                47,
+                "No, Sheldon."
+            ],
+            [
+                49,
+                "According to the codicil of the Relationship Agreement which you insisted upon, we\u2019re not allowed to pout or be moody on date night."
+            ],
+            [
+                51,
+                "Well, it applies to you, too."
+            ],
+            [
+                109,
+                "Probably not. It\u2019s an evolutionary advantage to be included in group activities."
+            ],
+            [
+                111,
+                "Being left out is a terrible feeling. No one understands that better than I do."
+            ],
+            [
+                113,
+                "When there was a lice epidemic at my school, everybody got it except me. I tried to fool everyone by sprinkling sugar in my hair, but I just got attacked by bees."
+            ],
+            [
+                115,
+                "And at the same time, not."
+            ],
+            [
+                117,
+                "You know, there\u2019s nothing I can do about getting you invited to the symposium, but if you wanted, we could build a fort."
+            ],
+            [
+                119,
+                "More juvenile than this?"
+            ],
+            [
+                172,
+                "How\u2019s it going, Sheldon?"
+            ],
+            [
+                174,
+                "Can I come in?"
+            ],
+            [
+                176,
+                "Amazing."
+            ],
+            [
+                178,
+                "What are we doing? This is a fort. Let\u2019s sit on the floor."
+            ],
+            [
+                219,
+                "I\u2019d say, Knox over Ticonderoga, \u2019cause it\u2019s got the gold."
+            ],
+            [
+                221,
+                "And McBlanket over Sumter \u2019cause it has a higher thread count. Oh. Ten o\u2019clock. Date night\u2019s over."
+            ],
+            [
+                223,
+                "We both know this one\u2019s gonna win."
+            ],
+            [
+                225,
+                "Come on, I\u2019ll help you take this down."
+            ],
+            [
+                227,
+                "Well, as long as we\u2019re suspending the parameters, I could stay really late and we could have our first sleepover."
+            ],
+            [
+                229,
+                "It\u2019s a big fort."
+            ],
+            [
+                231,
+                "PG. Some scenes may be too intense for younger viewers."
+            ],
+            [
+                233,
+                "You got yourself a sleepover."
+            ],
+            [
+                235,
+                "Would it alarm you to know that I hid those things here two years ago just in case this ever came up?"
+            ],
+            [
+                237,
+                "Who says this is the only one I hid?"
+            ],
+            [
+                242,
+                "Yes, they are."
+            ],
+            [
+                250,
+                "Okay, have a seat on the floor."
+            ]
+        ],
+        "Howard (answering door)": [
+            [
+                59,
+                "Can I help you?"
+            ]
+        ],
+        "Guy at door": [
+            [
+                60,
+                "Hi. Are you Howard Wolowitz?"
+            ]
+        ],
+        "Guy": [
+            [
+                62,
+                "Um, this is a little weird, but a lawyer was trying to contact my father, because his name was still on the title for this house."
+            ],
+            [
+                64,
+                "Sam Wolowitz."
+            ],
+            [
+                66,
+                "I know."
+            ],
+            [
+                68,
+                "I think so."
+            ]
+        ],
+        "Penny: I think I started to suspect it was a bad movie when I looked at the script and saw the title, Serial Ape-ist 2": [
+            [
+                71,
+                "Monkey See, Monkey Kill."
+            ]
+        ],
+        "Caller": [
+            [
+                81,
+                "I don\u2019t have a question. I just want to say I\u2019m a big fan of the movie. I\u2019ve seen it, like, ten times."
+            ]
+        ],
+        "Kevn": [
+            [
+                88,
+                "Hey, man, yo, is everything okay, Wil? \u2018Cause it\u2019s been, like, two minutes and you haven\u2019t even brought up Stand By Me."
+            ]
+        ],
+        "Kevin": [
+            [
+                91,
+                "Oh, you guys are very sweet. So, Penny, listen, I saw your movie."
+            ],
+            [
+                94,
+                "You\u2019re cruisin\u2019 for a beatin\u2019, Wheaton. Anyway, man, I dug the ape movie, Penny. And I thought you were, like, really great in it."
+            ],
+            [
+                97,
+                "Yeah, whatever. Penny. Penny, how come you\u2019re not in more stuff, man? I\u2019d cast you in a minute."
+            ],
+            [
+                99,
+                "Oh, yeah, man. I\u2019m actually in pre-production on a movie right now. Way different than anything I\u2019ve ever done before. It\u2019s called Clerks 3. You should come over and read for a part."
+            ],
+            [
+                105,
+                "Yeah, you tell him, Penny."
+            ],
+            [
+                154,
+                "Oh, I\u2019m hanging up now."
+            ],
+            [
+                156,
+                "I don\u2019t have a part for you, Wheaton."
+            ]
+        ],
+        "Josh": [
+            [
+                126,
+                "I\u2019m studying oceanography down in San Diego."
+            ],
+            [
+                129,
+                "Why would I lie?"
+            ],
+            [
+                131,
+                "No."
+            ],
+            [
+                133,
+                "No."
+            ],
+            [
+                142,
+                "I can\u2019t believe my brother\u2019s an astronaut. That\u2019s amazing. What was it like?"
+            ],
+            [
+                182,
+                "Yeah. Anyway, I should probably get going."
+            ],
+            [
+                184,
+                "Sorry, I have a long drive."
+            ],
+            [
+                186,
+                "I hope so, too. I\u2019ve always dreamed of having a brother to play catch with."
+            ],
+            [
+                189,
+                "Wow."
+            ],
+            [
+                191,
+                "You had sex with a robot?"
+            ],
+            [
+                213,
+                "So, I have to ask, was the robot sexy?"
+            ],
+            [
+                215,
+                "\u2018Cause that\u2019s all you need, right?"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The cafeteria."
+        ],
+        [
+            "Raj",
+            "You\u2019re wrong."
+        ],
+        [
+            "Howard",
+            "No, I\u2019m not."
+        ],
+        [
+            "Raj",
+            "Yes, you are."
+        ],
+        [
+            "Howard",
+            "No, I\u2019m not. Settle this. Those little animated pictures on the Internet, are they called gifs or jifs?"
+        ],
+        [
+            "Leonard",
+            "Well, the G stands for graphics. That\u2019s a hard G, so I\u2019d say gif."
+        ],
+        [
+            "Raj",
+            "The guy who invented it says it\u2019s jif."
+        ],
+        [
+            "Howard",
+            "I\u2019m sorry, do you mean the guy or the juy?"
+        ],
+        [
+            "Sheldon",
+            "Well, I\u2019ll give you three guesses why I\u2019m so irritated."
+        ],
+        [
+            "Howard",
+            "Something happened different from the way you wanted it."
+        ],
+        [
+            "Sheldon",
+            "I guess news travels fast. It\u2019s true, a select group of scientists was invited to a weekend symposium at a former home of Richard Feynman, and I wasn\u2019t included."
+        ],
+        [
+            "Leonard",
+            "Oh, Sheldon, I\u2019m sure it\u2019s not because they don\u2019t think you\u2019re an elite scientist."
+        ],
+        [
+            "Howard",
+            "Yeah, I bet you anything it\u2019s just \u2019cause you\u2019re a pain in the ass."
+        ],
+        [
+            "Sheldon",
+            "You\u2019re just saying that to make me feel better."
+        ],
+        [
+            "Leonard",
+            "Look, you can spend the rest of the day being bitter about this."
+        ],
+        [
+            "Sheldon",
+            "Agreed."
+        ],
+        [
+            "Leonard",
+            "I was gonna say or, but why bother?"
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Bernadette",
+            "Hey, Raj."
+        ],
+        [
+            "Raj",
+            "Hey, I got you a little gift."
+        ],
+        [
+            "Bernadette",
+            "Oh, that\u2019s a lot of Girl Scout Cookies."
+        ],
+        [
+            "Raj",
+            "You know me. I\u2019m from India. I can\u2019t resist children begging. So, how\u2019s it going with the title to the house?"
+        ],
+        [
+            "Howard",
+            "Great, it\u2019s all done. The lawyer tracked down my father and got him to sign it over. I didn\u2019t have to meet him, I didn\u2019t have to talk to him, I don\u2019t even know where he is."
+        ],
+        [
+            "Raj",
+            "Wow, so you\u2019re not curious at all?"
+        ],
+        [
+            "Howard",
+            "Nope."
+        ],
+        [
+            "Raj",
+            "Hmm. What if he\u2019s in prison? What if he\u2019s a spy? What if he\u2019s in a Beatles cover band? I\u2019m just saying, if he\u2019s got your nose and haircut, he\u2019d make a killer Ringo."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Wil Wheaton",
+            "Thanks again for agreeing to do this."
+        ],
+        [
+            "Penny",
+            "Oh, it\u2019s cool, I\u2019ve never been on a podcast before."
+        ],
+        [
+            "Leonard",
+            "Well, you picked a good one to start. Wil\u2019s had lots of great guests. Jonathan Frakes, Brent Spiner, Michael Dorn, Gates McFadden."
+        ],
+        [
+            "Penny",
+            "Those are Star Trek people."
+        ],
+        [
+            "Leonard",
+            "Yes."
+        ],
+        [
+            "Penny",
+            "I only figured that out because I\u2019ve never heard of any of them."
+        ],
+        [
+            "Wil",
+            "I deserve that. I invited you on my show and I drove here."
+        ],
+        [
+            "Penny",
+            "Sorry."
+        ],
+        [
+            "Wil",
+            "Okay, so, this is basically gonna be just like a little talk show. Uh, we\u2019re gonna take some calls, we\u2019ll talk about what it was like on the set of Serial Ape-ist 2. It should be really fun."
+        ],
+        [
+            "Leonard",
+            "This is exciting."
+        ],
+        [
+            "Penny",
+            "Yeah, so, how many people listen?"
+        ],
+        [
+            "Wil",
+            "Most people download it later, but usually a few thousand people listen live."
+        ],
+        [
+            "Penny",
+            "What? A few thousand people listen to you talk about nerd stuff?"
+        ],
+        [
+            "Wil",
+            "Again, right in the ears, straight to the feelings."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Amy",
+            "Can you please pass the salt?"
+        ],
+        [
+            "Sheldon",
+            "Sure. It\u2019s not like I was invited to Richard Feynman\u2019s house and have anything better to do."
+        ],
+        [
+            "Amy",
+            "Is this how the rest of the night\u2019s going to be?"
+        ],
+        [
+            "Sheldon",
+            "I don\u2019t know the future. Do you think there\u2019s a chance that an asteroid could hit the Earth, destroying Feynman\u2019s house and everyone in it?"
+        ],
+        [
+            "Amy",
+            "No, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Then buckle up, you\u2019re in for a cranky night."
+        ],
+        [
+            "Amy",
+            "According to the codicil of the Relationship Agreement which you insisted upon, we\u2019re not allowed to pout or be moody on date night."
+        ],
+        [
+            "Sheldon",
+            "You know I just put that in because of uterus stuff."
+        ],
+        [
+            "Amy",
+            "Well, it applies to you, too."
+        ],
+        [
+            "Sheldon",
+            "I was afraid you might bring this up, so I have a work-around. There you go. As far as you\u2019re concerned, I\u2019m smiling. Although, I must admit, I\u2019m smiling a little bit at the moment because this loophole is so brilliant."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Raj",
+            "So, Bernadette, have you thought about how you\u2019re going to redecorate this place?"
+        ],
+        [
+            "Bernadette",
+            "You know, I\u2019m thinking ripping up the carpets, maybe lose the wallpaper, all new light fixtures."
+        ],
+        [
+            "Raj",
+            "You know, if you knocked out this wall, it would give you an open floor plan, and then, it\u2019s a little scary, but could be fun, indoor fire pit."
+        ],
+        [
+            "Howard",
+            "Hey, I grew up in this house, okay? No one\u2019s knocking anything down."
+        ],
+        [
+            "Bernadette",
+            "Okay, okay. When he\u2019s at Comic-Con, I\u2019m bringing in a wrecking ball."
+        ],
+        [
+            "Howard (answering door)",
+            "Can I help you?"
+        ],
+        [
+            "Guy at door",
+            "Hi. Are you Howard Wolowitz?"
+        ],
+        [
+            "Howard",
+            "Yes."
+        ],
+        [
+            "Guy",
+            "Um, this is a little weird, but a lawyer was trying to contact my father, because his name was still on the title for this house."
+        ],
+        [
+            "Howard",
+            "Wuh, uh, who\u2019s your father?"
+        ],
+        [
+            "Guy",
+            "Sam Wolowitz."
+        ],
+        [
+            "Howard",
+            "Sam Wolowitz is my father."
+        ],
+        [
+            "Guy",
+            "I know."
+        ],
+        [
+            "Howard",
+            "Well, wait, so if we have the same father, are, are you saying you\u2019re my half-brother?"
+        ],
+        [
+            "Guy",
+            "I think so."
+        ],
+        [
+            "Howard",
+            "Bernadette, weird things are happening out here."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Penny: I think I started to suspect it was a bad movie when I looked at the script and saw the title, Serial Ape-ist 2",
+            "Monkey See, Monkey Kill."
+        ],
+        [
+            "Wil",
+            "Uh, spoiler alert, after the monkey sees, it kills."
+        ],
+        [
+            "Leonard",
+            "Psst."
+        ],
+        [
+            "Wil",
+            "I\u2019ve just been handed a note. I\u2019m going to read it. Wil, do you want more Diet Coke? Also, we have juice."
+        ],
+        [
+            "Leonard",
+            "I, I didn\u2019t want to interrupt."
+        ],
+        [
+            "Wil",
+            "Uh, that voice you just heard belongs to Leonard, Penny\u2019s fianc\u00e9. Uh, Leonard, why don\u2019t you grab some headphones and join us?"
+        ],
+        [
+            "Leonard",
+            "Really?"
+        ],
+        [
+            "Wil",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "Hey, great."
+        ],
+        [
+            "Wil",
+            "So, while Leonard gets set up, let\u2019s take a call. Hello, caller, you are on with Penny and Wil from Serial Ape-ist 2."
+        ],
+        [
+            "Caller",
+            "I don\u2019t have a question. I just want to say I\u2019m a big fan of the movie. I\u2019ve seen it, like, ten times."
+        ],
+        [
+            "Penny",
+            "Okay, well, I\u2019ll apologize for the first time, but the other nine are on you."
+        ],
+        [
+            "Wil",
+            "Thanks a lot, caller. You know that the movie actually has a little bit of a cult following."
+        ],
+        [
+            "Penny",
+            "Really?"
+        ],
+        [
+            "Wil",
+            "Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character."
+        ],
+        [
+            "Leonard",
+            "Oh, if she was with an Indian guy dressed like a banana, that was just my friends, Howard and Raj."
+        ],
+        [
+            "Wil",
+            "All right, it\u2019s time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he\u2019s the guy who directed Clerks. Hello, Kevin Smith."
+        ],
+        [
+            "Kevn",
+            "Hey, man, yo, is everything okay, Wil? \u2018Cause it\u2019s been, like, two minutes and you haven\u2019t even brought up Stand By Me."
+        ],
+        [
+            "Penny",
+            "Hey, Kevin. It\u2019s really exciting to talk to you."
+        ],
+        [
+            "Leonard",
+            "It really is."
+        ],
+        [
+            "Kevin",
+            "Oh, you guys are very sweet. So, Penny, listen, I saw your movie."
+        ],
+        [
+            "Penny",
+            "Oh, wow. I wish it was better."
+        ],
+        [
+            "Wil",
+            "Oh, don\u2019t worry about it. Have you seen some of Kevin\u2019s films?"
+        ],
+        [
+            "Kevin",
+            "You\u2019re cruisin\u2019 for a beatin\u2019, Wheaton. Anyway, man, I dug the ape movie, Penny. And I thought you were, like, really great in it."
+        ],
+        [
+            "Penny",
+            "Aw."
+        ],
+        [
+            "Wil",
+            "You know, I\u2019m in the movie, too."
+        ],
+        [
+            "Kevin",
+            "Yeah, whatever. Penny. Penny, how come you\u2019re not in more stuff, man? I\u2019d cast you in a minute."
+        ],
+        [
+            "Penny",
+            "Seriously?"
+        ],
+        [
+            "Kevin",
+            "Oh, yeah, man. I\u2019m actually in pre-production on a movie right now. Way different than anything I\u2019ve ever done before. It\u2019s called Clerks 3. You should come over and read for a part."
+        ],
+        [
+            "Penny",
+            "Oh, my, I would love that."
+        ],
+        [
+            "Leonard",
+            "You have a new job."
+        ],
+        [
+            "Penny",
+            "Well, maybe I can do both."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t think you can do both."
+        ],
+        [
+            "Penny",
+            "I don\u2019t think I asked you."
+        ],
+        [
+            "Kevin",
+            "Yeah, you tell him, Penny."
+        ],
+        [
+            "Leonard",
+            "Stay out of it, Kevin Smith."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "Do you think there comes a point in life when it stops feeling bad to be left out of things?"
+        ],
+        [
+            "Amy",
+            "Probably not. It\u2019s an evolutionary advantage to be included in group activities."
+        ],
+        [
+            "Sheldon",
+            "You know what? I used to be a fan of evolution, but I\u2019ve since evolved, and now I think it\u2019s dumb."
+        ],
+        [
+            "Amy",
+            "Being left out is a terrible feeling. No one understands that better than I do."
+        ],
+        [
+            "Sheldon",
+            "Hey, look at that. Even in your example, you\u2019re all by yourself."
+        ],
+        [
+            "Amy",
+            "When there was a lice epidemic at my school, everybody got it except me. I tried to fool everyone by sprinkling sugar in my hair, but I just got attacked by bees."
+        ],
+        [
+            "Sheldon",
+            "I can just picture them all right now at Feynman\u2019s house, probably discussing Schrodinger and at the same time, not discussing Schrodinger. See? They\u2019re missing out on hilarious jokes like that."
+        ],
+        [
+            "Amy",
+            "And at the same time, not."
+        ],
+        [
+            "Sheldon",
+            "It reminds me of when my stupid brother and sister would build forts in the living room and wouldn\u2019t let me in. I hated that so much."
+        ],
+        [
+            "Amy",
+            "You know, there\u2019s nothing I can do about getting you invited to the symposium, but if you wanted, we could build a fort."
+        ],
+        [
+            "Sheldon",
+            "Isn\u2019t that a little juvenile?"
+        ],
+        [
+            "Amy",
+            "More juvenile than this?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll get the blankets. You Google how to have childlike fun."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Howard",
+            "You know what, I\u2019m being a bad host. Let me get some more coffee."
+        ],
+        [
+            "Bernadette",
+            "Oh, let me do it, Howard."
+        ],
+        [
+            "Howard",
+            "No, I got it."
+        ],
+        [
+            "Bernadette",
+            "So, Josh, what do you do?"
+        ],
+        [
+            "Josh",
+            "I\u2019m studying oceanography down in San Diego."
+        ],
+        [
+            "Bernadette",
+            "Oh, how nice. I loved Finding Nemo."
+        ],
+        [
+            "Raj",
+            "Enough chitchat. How do we know you are who you say you are?"
+        ],
+        [
+            "Josh",
+            "Why would I lie?"
+        ],
+        [
+            "Raj",
+            "Okay, you got me there. You here looking for money?"
+        ],
+        [
+            "Josh",
+            "No."
+        ],
+        [
+            "Raj",
+            "A kidney, cornea, piece of his liver?"
+        ],
+        [
+            "Josh",
+            "No."
+        ],
+        [
+            "Raj",
+            "You\u2019re in a Beatles cover band and you need Howard to replace your dad as Ringo."
+        ],
+        [
+            "Bernadette",
+            "Why don\u2019t you help with the coffee?"
+        ],
+        [
+            "Raj",
+            "Okay, but something smells fishy. And not just because you work around sea animals. That actually sounds interesting, and I\u2019d like to learn more about it. Hey, you okay?"
+        ],
+        [
+            "Howard",
+            "Not really. This guy shows up out of the blue, and now I have a brother? My father has another family?"
+        ],
+        [
+            "Raj",
+            "I get it. What do you want to do?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. I, I\u2019d just like him to go away. I can\u2019t deal with this."
+        ],
+        [
+            "Raj",
+            "All right, I\u2019ve got your back."
+        ],
+        [
+            "Howard",
+            "Thank you. Come on. And I\u2019d like to point out, this wall just provided a lot of privacy."
+        ],
+        [
+            "Josh",
+            "I can\u2019t believe my brother\u2019s an astronaut. That\u2019s amazing. What was it like?"
+        ],
+        [
+            "Raj",
+            "Listen, dude, it\u2019s time for you to hit the road."
+        ],
+        [
+            "Howard",
+            "Hey, hey, the young man asked a good question."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Wil",
+            "So, for those of you just tuning in, we are listening to a really fun fight between my co-star\u2026"
+        ],
+        [
+            "Leonard",
+            "No, no, no. We\u2019re not fighting, we\u2019re just having a conversation."
+        ],
+        [
+            "Wil",
+            "All right. We\u2019re listening to a really fun conversation between my co-star from Serial Ape-ist 2 and her fianc\u00e9, who doesn\u2019t believe women should have dreams."
+        ],
+        [
+            "Leonard",
+            "Give me back that juice."
+        ],
+        [
+            "Penny",
+            "What is the harm if I audition?"
+        ],
+        [
+            "Leonard",
+            "Well, what if you get it?"
+        ],
+        [
+            "Penny",
+            "I don\u2019t know, I make a movie, become rich and famous, win an Oscar, a Golden Globe and live an incredibly wonderful life."
+        ],
+        [
+            "Leonard",
+            "From a Kevin Smith movie?"
+        ],
+        [
+            "Kevin",
+            "Oh, I\u2019m hanging up now."
+        ],
+        [
+            "Wil",
+            "Don\u2019t you listen to him, buddy. You\u2019re awesome. You\u2019re one of the greatest directors of our time."
+        ],
+        [
+            "Kevin",
+            "I don\u2019t have a part for you, Wheaton."
+        ],
+        [
+            "Wil",
+            "And that was Kevin Smith."
+        ],
+        [
+            "Penny",
+            "Thanks a lot."
+        ],
+        [
+            "Leonard",
+            "I\u2019m just trying to protect you. How many times did I see you get your heart broken trying to make it as an actress?"
+        ],
+        [
+            "Penny",
+            "Okay, instead of protecting me, why don\u2019t you try being excited when something good happens?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m always excited for you. I\u2019m excited that you found this new job where you\u2019re making decent money."
+        ],
+        [
+            "Penny",
+            "Decent? I make twice what you make."
+        ],
+        [
+            "Leonard",
+            "Wait, twice?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "Like, times two twice?"
+        ],
+        [
+            "Wil",
+            "For those of you at home, Leonard just found out his fianc\u00e9e makes way more money than he does. Let\u2019s listen."
+        ],
+        [
+            "Leonard",
+            "I went to school for half my life. I have a doctorate. I\u2019m still paying off college loans."
+        ],
+        [
+            "Penny",
+            "Well, how much do you owe? Maybe I can help you out."
+        ],
+        [
+            "Leonard",
+            "Wil, can we just turn off the podcast for a little bit?"
+        ],
+        [
+            "Wil",
+            "For those of you at home, I am shaking my head no."
+        ],
+        [
+            "Scene",
+            "The apartment. Including fort."
+        ],
+        [
+            "Amy",
+            "How\u2019s it going, Sheldon?"
+        ],
+        [
+            "Sheldon",
+            "Wonderful. I just finished hanging the lights."
+        ],
+        [
+            "Amy",
+            "Can I come in?"
+        ],
+        [
+            "Sheldon",
+            "Yes, oh, but enter through the side. Batman is a load-bearing blanket."
+        ],
+        [
+            "Amy",
+            "Amazing."
+        ],
+        [
+            "Sheldon",
+            "I know. This isn\u2019t the printout. This is my real face."
+        ],
+        [
+            "Amy",
+            "What are we doing? This is a fort. Let\u2019s sit on the floor."
+        ],
+        [
+            "Sheldon",
+            "Roughing it? Okay. Everything looks so big from down here. This must be how Leonard feels."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Howard",
+            "I\u2019m surprised you could hear me with this Thin Mint in your ear. Yeah, pretty cool, huh?"
+        ],
+        [
+            "Josh",
+            "Yeah. Anyway, I should probably get going."
+        ],
+        [
+            "Bernadette",
+            "Howie, have you noticed how often people say that when you start to do magic?"
+        ],
+        [
+            "Josh",
+            "Sorry, I have a long drive."
+        ],
+        [
+            "Howard",
+            "Well, I hope I get to see you again."
+        ],
+        [
+            "Josh",
+            "I hope so, too. I\u2019ve always dreamed of having a brother to play catch with."
+        ],
+        [
+            "Bernadette",
+            "Keep dreaming."
+        ],
+        [
+            "Howard",
+            "Hey, I threw out the first pitch at an Angels game."
+        ],
+        [
+            "Josh",
+            "Wow."
+        ],
+        [
+            "Bernadette",
+            "He did it with a robot."
+        ],
+        [
+            "Josh",
+            "You had sex with a robot?"
+        ],
+        [
+            "Howard",
+            "That\u2019s not what she meant."
+        ],
+        [
+            "Raj",
+            "But technically, yes."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment. "
+        ],
+        [
+            "Leonard",
+            "Hang on, if you\u2019re making all this money, where is it?"
+        ],
+        [
+            "Penny",
+            "In a safe place."
+        ],
+        [
+            "Leonard",
+            "What does that mean, under your bed?"
+        ],
+        [
+            "Penny",
+            "No, it means a diversified portfolio of stocks and bonds. I\u2019m not overly conservative. I\u2019m young, so my guy said I can afford to take some risks."
+        ],
+        [
+            "Leonard",
+            "Wait a minute, you have a guy?"
+        ],
+        [
+            "Penny",
+            "Don\u2019t you have a guy?"
+        ],
+        [
+            "Leonard",
+            "Why would I have a guy? I don\u2019t have any money."
+        ],
+        [
+            "Penny",
+            "Oh, sweetie, you should really get some money."
+        ],
+        [
+            "Wil",
+            "For those of you listening at home, how great is this?"
+        ],
+        [
+            "Leonard",
+            "Wil, I\u2019m begging you, just please turn that off."
+        ],
+        [
+            "Wil",
+            "Sure. And we\u2019re back."
+        ],
+        [
+            "Penny",
+            "Leonard, why are you making such a big deal out of this? So our roles have changed a bit over the last couple years. This is the way life is. And I\u2019m sure in time they\u2019ll change again."
+        ],
+        [
+            "Leonard",
+            "Great, you\u2019re not only more successful than me, now you\u2019re more mature."
+        ],
+        [
+            "Penny",
+            "Okay, look, would it make you feel better if I did something dumb like sneak out of work one day to go audition for a Kevin Smith movie?"
+        ],
+        [
+            "Leonard",
+            "That would be great, thank you."
+        ],
+        [
+            "Wil",
+            "I\u2019m just gonna jump in here real quick. Leonard, a moment ago, you were dead set against Penny resuming her acting career, but now you\u2019re all for it. Is it fair to say that she played you like a violin?"
+        ],
+        [
+            "Leonard",
+            "Yes, it is, Wil."
+        ],
+        [
+            "Scene",
+            "Mrs Wolowitz\u2019s house."
+        ],
+        [
+            "Josh",
+            "So, I have to ask, was the robot sexy?"
+        ],
+        [
+            "Howard",
+            "It was actually just a mechanical hand."
+        ],
+        [
+            "Josh",
+            "\u2018Cause that\u2019s all you need, right?"
+        ],
+        [
+            "Howard",
+            "You are my brother."
+        ],
+        [
+            "Scene",
+            "The fort."
+        ],
+        [
+            "Sheldon",
+            "Okay, so the final four forts in the first annual best fort ever contest, or fort off, are, Fort Knox, Fort Ticonderoga, Fort Sumter and Fort Cozy McBlanket."
+        ],
+        [
+            "Amy",
+            "I\u2019d say, Knox over Ticonderoga, \u2019cause it\u2019s got the gold."
+        ],
+        [
+            "Sheldon",
+            "Mm-hmm."
+        ],
+        [
+            "Amy",
+            "And McBlanket over Sumter \u2019cause it has a higher thread count. Oh. Ten o\u2019clock. Date night\u2019s over."
+        ],
+        [
+            "Sheldon",
+            "Wait, no. We haven\u2019t picked a winner."
+        ],
+        [
+            "Amy",
+            "We both know this one\u2019s gonna win."
+        ],
+        [
+            "Sheldon",
+            "Well, of course we do. Fort Knox doesn\u2019t have a secret physics lending library."
+        ],
+        [
+            "Amy",
+            "Come on, I\u2019ll help you take this down."
+        ],
+        [
+            "Sheldon",
+            "Well, wait. What if, just this once, we suspend the date night parameters and you stay later?"
+        ],
+        [
+            "Amy",
+            "Well, as long as we\u2019re suspending the parameters, I could stay really late and we could have our first sleepover."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s a big step."
+        ],
+        [
+            "Amy",
+            "It\u2019s a big fort."
+        ],
+        [
+            "Sheldon",
+            "Very well. I will agree to a family-friendly, G-rated, boy-girl sleepover."
+        ],
+        [
+            "Amy",
+            "PG. Some scenes may be too intense for younger viewers."
+        ],
+        [
+            "Sheldon",
+            "G-rated, with a warning for families with babies and toddlers."
+        ],
+        [
+            "Amy",
+            "You got yourself a sleepover."
+        ],
+        [
+            "Sheldon",
+            "Do you need to borrow a toothbrush or pajamas?"
+        ],
+        [
+            "Amy",
+            "Would it alarm you to know that I hid those things here two years ago just in case this ever came up?"
+        ],
+        [
+            "Sheldon",
+            "It would, but you know how much I admire preparedness. How did you know we\u2019d be in the living room?"
+        ],
+        [
+            "Amy",
+            "Who says this is the only one I hid?"
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Hello? What is this?"
+        ],
+        [
+            "Sheldon",
+            "We built a fort."
+        ],
+        [
+            "Leonard",
+            "Are those my sheets?"
+        ],
+        [
+            "Amy",
+            "Yes, they are."
+        ],
+        [
+            "Leonard",
+            "Okay. Well, you kids have fun. I\u2019m gonna go to sleep."
+        ],
+        [
+            "Sheldon",
+            "Well, Leonard, don\u2019t you want to see the inside of the fort?"
+        ],
+        [
+            "Leonard",
+            "Yeah, I\u2019m good."
+        ],
+        [
+            "Sheldon",
+            "Oh, come on. I really wanted to tell someone they can\u2019t come in."
+        ],
+        [
+            "Leonard",
+            "Okay, fine. Sheldon, may I please visit your fort?"
+        ],
+        [
+            "Sheldon",
+            "I want to say no, but it\u2019s too glorious. Get in here."
+        ],
+        [
+            "Leonard",
+            "Thank you."
+        ],
+        [
+            "Amy",
+            "Okay, have a seat on the floor."
+        ],
+        [
+            "Sheldon",
+            "Not there. That\u2019s my spot."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-20-the-fortification-implementation/"
+}

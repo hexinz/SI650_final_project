@@ -1,0 +1,2120 @@
+{
+    "Season": 10,
+    "Episode": 18,
+    "Title": "the escape hatch identification",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment."
+            ],
+            [
+                4,
+                "Howard and Bernadette\u2019s bedroom."
+            ],
+            [
+                12,
+                "Sheldon and Amy\u2019s bedroom."
+            ],
+            [
+                15,
+                "The apartment. "
+            ],
+            [
+                20,
+                "Howard and Bernadette\u2019s bedroom."
+            ],
+            [
+                26,
+                "Sheldon and Amy\u2019s bedroom. "
+            ],
+            [
+                29,
+                "Credits sequence."
+            ],
+            [
+                30,
+                "Raj\u2019s apartment. "
+            ],
+            [
+                59,
+                "The lobby."
+            ],
+            [
+                92,
+                "The apartment. "
+            ],
+            [
+                101,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                132,
+                "Sheldon and Amy\u2019s apartment. "
+            ],
+            [
+                151,
+                "The apartment. "
+            ],
+            [
+                168,
+                "The apartment. "
+            ],
+            [
+                182,
+                "Howard and Bernadette\u2019s bedroom."
+            ],
+            [
+                196,
+                "Sheldon and Amy\u2019s bedroom."
+            ],
+            [
+                208,
+                "Howard and Bernadette\u2019s living room."
+            ],
+            [
+                216,
+                "Sheldon and Amy\u2019s bedroom. "
+            ],
+            [
+                219,
+                "Howard and Bernadette\u2019s living room. "
+            ],
+            [
+                226,
+                "The apartment. "
+            ],
+            [
+                240,
+                "Howard and Bernadette\u2019s living room."
+            ],
+            [
+                257,
+                "Sheldon and Amy\u2019s apartment. "
+            ]
+        ],
+        "Leonard": [
+            [
+                1,
+                "Aw, man, did you see this post from Raj?"
+            ],
+            [
+                3,
+                "No. He can\u2019t afford his apartment, and he\u2019s asking if anyone knows of a cheap place to live. I want to say India, but it seems mean."
+            ],
+            [
+                16,
+                "We do have Sheldon\u2019s old room. If he really needs a place to stay, I guess we should offer it to him."
+            ],
+            [
+                18,
+                "Am I still a good friend if I wait and hope that Howard offers him a place to live first?"
+            ],
+            [
+                37,
+                "Hey, buddy, you still looking for a place to live?"
+            ],
+            [
+                39,
+                "You know, we have the extra bedroom, and if you need it, it\u2019s yours."
+            ],
+            [
+                41,
+                "It\u2019s the least we can do."
+            ],
+            [
+                49,
+                "I don\u2019t have a loofah."
+            ],
+            [
+                60,
+                "Hey."
+            ],
+            [
+                67,
+                "Yeah, for a little while."
+            ],
+            [
+                73,
+                "And I think it\u2019s nice that you\u2019re taking whatever medication Amy\u2019s clearly giving you."
+            ],
+            [
+                76,
+                "Just when I thought you couldn\u2019t get any hotter."
+            ],
+            [
+                79,
+                "Do not adjust the dosage. You nailed it."
+            ],
+            [
+                100,
+                "I don\u2019t know. Yours looks like he has worms."
+            ],
+            [
+                108,
+                "Hey. "
+            ],
+            [
+                110,
+                "Perfect timing. Food\u2019s ready."
+            ],
+            [
+                154,
+                "You didn\u2019t do anything, it\u2019s Sheldon. That\u2019d make a nice needlepoint pillow."
+            ],
+            [
+                164,
+                "I don\u2019t know who you talked to, but that wasn\u2019t my mother."
+            ],
+            [
+                170,
+                "Why are you saying we have marital problems? We don\u2019t have marital problems."
+            ],
+            [
+                172,
+                "Look, just because we took our friend in does not mean that Penny and I are afraid to be alone."
+            ],
+            [
+                177,
+                "Well, now that you point it out\u2026"
+            ],
+            [
+                179,
+                "We do seem to keep finding room mates."
+            ],
+            [
+                228,
+                "Did you know Raj moved out last night?"
+            ],
+            [
+                230,
+                "Leonard and Penny, I\u2019m sorry for all the trouble I\u2019ve caused. I went to stay at Howard\u2019s. PS Cinnamon\u2019s with me, but if you feel like messing with Sheldon, tell him she\u2019s loose in the building."
+            ],
+            [
+                232,
+                "Should we go bring him back?"
+            ],
+            [
+                234,
+                "Oh, that was just because my mother got in my head. It\u2019s like being possessed, but instead of Satan it\u2019s, actually, it\u2019s the same thing."
+            ],
+            [
+                236,
+                "Well, great."
+            ],
+            [
+                238,
+                "Just one second. Help, Cinnamon\u2019s loose in the building."
+            ],
+            [
+                244,
+                "You are not a burden, and we want you to come back and stay with us."
+            ]
+        ],
+        "Penny": [
+            [
+                2,
+                "What? Is it another video of him and his dog Lady-and-the-Tramping some spaghetti?"
+            ],
+            [
+                17,
+                "You\u2019re a good friend."
+            ],
+            [
+                19,
+                "You\u2019re an even better husband."
+            ],
+            [
+                57,
+                "Hey, pal, you want to live here or not?"
+            ],
+            [
+                63,
+                "What\u2019s it for?"
+            ],
+            [
+                65,
+                "Yeah, it\u2019s yours."
+            ],
+            [
+                69,
+                "She\u2019ll be in her crate, it\u2019s not a big deal."
+            ],
+            [
+                75,
+                "Well, it\u2019s like that science thing. For every action, you have a gigantic and annoying reaction."
+            ],
+            [
+                77,
+                "Mm-hmm."
+            ],
+            [
+                94,
+                "Raj, you don\u2019t have to serve us."
+            ],
+            [
+                109,
+                "Hi."
+            ],
+            [
+                112,
+                "Wait, is anything gonna jump out of that."
+            ],
+            [
+                153,
+                "You didn\u2019t do anything. It\u2019s Sheldon."
+            ],
+            [
+                155,
+                "So, relax. We\u2019re happy to have you."
+            ],
+            [
+                157,
+                "Do you actually pay for that haircut?"
+            ],
+            [
+                166,
+                "What are you talking about? We\u2019re fine."
+            ],
+            [
+                173,
+                "Yeah, this is a special circumstance."
+            ],
+            [
+                175,
+                "Yeah, well, a circumstance can happen twice and still be special."
+            ],
+            [
+                178,
+                "Are you kidding me?"
+            ],
+            [
+                180,
+                "Now you\u2019re taking her side?"
+            ],
+            [
+                227,
+                "Morning."
+            ],
+            [
+                229,
+                "What? Why?"
+            ],
+            [
+                231,
+                "I feel terrible."
+            ],
+            [
+                233,
+                "Well, you\u2019re the one worried having someone live with us is a sign of problems."
+            ],
+            [
+                235,
+                "All right, so we\u2019ll ask him to come back."
+            ],
+            [
+                237,
+                "Don\u2019t you want to get dressed first?"
+            ],
+            [
+                241,
+                "We\u2019re so sorry if we made you feel uncomfortable. We really weren\u2019t fighting about you."
+            ],
+            [
+                246,
+                "More reasons for you to stay."
+            ],
+            [
+                253,
+                "Then it\u2019s settled."
+            ]
+        ],
+        "Bernadette": [
+            [
+                5,
+                "What\u2019s so funny?"
+            ],
+            [
+                7,
+                "Don\u2019t post that, be supportive."
+            ],
+            [
+                9,
+                "We\u2019re smart. I\u2019m sure we can think of something."
+            ],
+            [
+                11,
+                "Oh, we\u2019re smarter than that."
+            ],
+            [
+                22,
+                "Where would he stay? We already have Stuart."
+            ],
+            [
+                24,
+                "That sounds awful."
+            ],
+            [
+                97,
+                "Not for you, box of towels."
+            ],
+            [
+                187,
+                "It\u2019s fine. It\u2019s just Raj. You can hit him with the bat, but it\u2019s fine."
+            ],
+            [
+                192,
+                "Don\u2019t do that. We\u2019ll make up the couch for you and figure out something in the morning."
+            ],
+            [
+                248,
+                "You know she\u2019s at my parents\u2019 house, right?"
+            ],
+            [
+                251,
+                "Just not in our bedroom, you dumbass. "
+            ],
+            [
+                255,
+                "Good. Nobody needs a mooch living in their house forever."
+            ]
+        ],
+        "Howard": [
+            [
+                6,
+                "Raj is looking for a cheap place to live, and I wrote India."
+            ],
+            [
+                8,
+                "Maybe you should be supportive of my hilarious jokes. Fine, what should we do?"
+            ],
+            [
+                10,
+                "You want to let him live here?"
+            ],
+            [
+                21,
+                "I know if the roles were reversed, he would do it for me."
+            ],
+            [
+                23,
+                "Well, we can make some space in the garage. Maybe put a cot out there, get him a space heater, maybe a hot plate."
+            ],
+            [
+                25,
+                "Let\u2019s hope he thinks so, too."
+            ],
+            [
+                32,
+                "Hey, uh, so we\u2019ve been talking, and if you need a place to stay, we\u2019d be happy to fix up the garage for you."
+            ],
+            [
+                34,
+                "I know it\u2019s not ideal, but you\u2019d have plenty of space for your furniture, and there\u2019s this cool button that makes an entire wall go up and down."
+            ],
+            [
+                36,
+                "It is our pleasure. (beep, beep, beep) Hey, can you hold on one sec? Hello?"
+            ],
+            [
+                43,
+                "Well, there\u2019s a sink out there, that takes care of half your problems."
+            ],
+            [
+                45,
+                "Yeah. We barely use it, so it\u2019ll be like it\u2019s yours."
+            ],
+            [
+                47,
+                "What?"
+            ],
+            [
+                51,
+                "I don\u2019t know. Why are you asking all these questions?"
+            ],
+            [
+                53,
+                "Great. Go live there."
+            ],
+            [
+                55,
+                "I just didn\u2019t want you to feel bad about it. Unless Leonard\u2019s apartment also has a raccoon that chews its way in on cold nights, go there."
+            ],
+            [
+                96,
+                "It was really no problem."
+            ],
+            [
+                99,
+                "Hey, look at that. You\u2019ve got a Raj, we\u2019ve got a Stuart. Maybe we should take them both to the park and let them run around together."
+            ],
+            [
+                116,
+                "He also never had sex in that room. That\u2019s something else to look forward to."
+            ],
+            [
+                184,
+                "What are you doing here?"
+            ],
+            [
+                190,
+                "I\u2019ll say it again. India."
+            ],
+            [
+                195,
+                "Never should\u2019ve had all these kids so close together."
+            ],
+            [
+                250,
+                "If you ever want to change things up, you\u2019re always welcome here."
+            ]
+        ],
+        "Sheldon": [
+            [
+                13,
+                "I know our apartment\u2019s small, but I think we can make room."
+            ],
+            [
+                28,
+                "Wow. I\u2019m starting to think you didn\u2019t mean it when you said you wanted to spruce up the place."
+            ],
+            [
+                62,
+                "Hi, uh, Penny, this circular is addressed to occupant, but with our apartment switch, it\u2019s unclear whether it\u2019s yours or mine."
+            ],
+            [
+                64,
+                "Roofing."
+            ],
+            [
+                66,
+                "Okay, thanks. Just throw it out. Speaking of occupants, I\u2019m given to understand Raj will be moving into my old room."
+            ],
+            [
+                68,
+                "What about his dog?"
+            ],
+            [
+                70,
+                "I suppose that\u2019s acceptable."
+            ],
+            [
+                72,
+                "If real dogs gave me buttons, I\u2019d like them, too. Well, I think it\u2019s very nice that you\u2019re helping out our friend."
+            ],
+            [
+                74,
+                "And what is that supposed to mean?"
+            ],
+            [
+                78,
+                "If you\u2019re implying that I\u2019d have some problem with him moving into my room, you\u2019re wrong. Raj is in a difficult financial situation, and I\u2019m glad that he\u2019s making changes to improve it."
+            ],
+            [
+                83,
+                "Oh, I\u2019m outraged. "
+            ],
+            [
+                85,
+                "Well, that\u2019s been my room since before I met Leonard, and now someone else is going to be living in it. And that someone else is not me. And you know how I feel about people who aren\u2019t me. "
+            ],
+            [
+                87,
+                "Wrong. We were standing outside my room in the hallway."
+            ],
+            [
+                89,
+                "I realize it\u2019s irrational, but with Raj moving in there, I\u2019m feeling a bit replaced."
+            ],
+            [
+                91,
+                "Yes, probably. But until we know for sure, how can I feel better?"
+            ],
+            [
+                103,
+                "All set."
+            ],
+            [
+                105,
+                "A housewarming gift for Raj."
+            ],
+            [
+                107,
+                "It\u2019s nothing like that. I just, I thought about Raj\u2019s situation, and I had a change of heart. You know, and regarding your gift, you said surprise me, and, boy, did I. Hello."
+            ],
+            [
+                111,
+                "Uh, wait, before we eat, I have a little welcome to the building gift for Raj."
+            ],
+            [
+                115,
+                "Well, I had some of my best ideas in that room, and I\u2019m sure you will, too."
+            ],
+            [
+                118,
+                "Well, I know this is a difficult time for you. You\u2019re losing your apartment, you\u2019re in debt, and you just, you must be humiliated."
+            ],
+            [
+                120,
+                "Oh, good grief. She is such a stickler for citing sources. Those were Amy\u2019s words."
+            ],
+            [
+                122,
+                "I know, I know, good grief was originally said by Charlie Brown, geez."
+            ],
+            [
+                124,
+                "Can you believe this guy?"
+            ],
+            [
+                126,
+                "I thought that was gonna break the other way."
+            ],
+            [
+                128,
+                "Fine. You took my room. You turned my friends against me. I hope you\u2019re happy."
+            ],
+            [
+                130,
+                "How come he can say it and I can\u2019t?"
+            ],
+            [
+                134,
+                "Honestly, I\u2019ve been better. Do you have time? Leonard says you\u2019re very busy these days."
+            ],
+            [
+                136,
+                "Well, our friend Raj moved into my old room, and it\u2019s brought up a lot of negative feelings for me."
+            ],
+            [
+                138,
+                "Beverley, you know I hold you in high esteem. Can we skip the part where you pretend not to know the answer, and get to the part where you tell me the answer?"
+            ],
+            [
+                140,
+                "I have."
+            ],
+            [
+                142,
+                "I hadn\u2019t thought about that."
+            ],
+            [
+                149,
+                "I had no idea all our relationships were such a disaster. Boy, you\u2019re good."
+            ],
+            [
+                159,
+                "Hey, Raj, I owe you an apology. Look, could you please put your dog on a leash?"
+            ],
+            [
+                161,
+                "Well, then at least hold her still so I can pretend she\u2019s stuffed. Raj, I let my emotions get the best of me, and I unfairly took it out on you."
+            ],
+            [
+                163,
+                "No, I can\u2019t take all the credit. I spoke with Leonard\u2019s mother, and she made me feel better."
+            ],
+            [
+                165,
+                "Beverly pointed out that I\u2019m experiencing insecurities in my relationship with Amy, in the same way that Leonard and Penny are in their relationship."
+            ],
+            [
+                167,
+                "Yes, you\u2019re fine as long as you have a buffer living with you to distract from your marital problems. It used to be me. Now it\u2019s Raj and his attack Tribble. Anyway, I\u2019m sorry for everything. Oh, and FYI, if you cry while they\u2019re fighting, they\u2019ll take you to McDonald\u2019s."
+            ],
+            [
+                198,
+                "I can\u2019t sleep."
+            ],
+            [
+                200,
+                "Beverley believes I unconsciously consider my old room an escape hatch."
+            ],
+            [
+                202,
+                "Yes. I don\u2019t care for unconscious thoughts. My brain and I are best friends. It should tell me everything. "
+            ],
+            [
+                204,
+                "What if she\u2019s correct? Doesn\u2019t that say something troubling about us?"
+            ],
+            [
+                206,
+                "That is true. Did you know I figured out in which order I would eat all my friends in the event of an apocalypse?"
+            ],
+            [
+                217,
+                "Penny would be the entree. Then Leonard\u2019s basically a cheese course. And because I love you, you\u2019re dessert."
+            ],
+            [
+                258,
+                "You know what? I\u2019m proud of us. Yeah, with Penny and Leonard taking in Raj, and Stuart living with Howard and Bernadette, we\u2019re the only couple of our social group who doesn\u2019t need to fill the holes in their relationship with a third party."
+            ]
+        ],
+        "Amy": [
+            [
+                14,
+                "No, Sheldon. We are not getting a life-size Spider-Man statue."
+            ],
+            [
+                27,
+                "For the last time, no Hulk, no Batman, no life-size statues."
+            ],
+            [
+                61,
+                "Hi."
+            ],
+            [
+                71,
+                "Well, Sheldon\u2019s getting a little better with dogs. He even took a picture with Pluto at Disneyland."
+            ],
+            [
+                80,
+                "Don\u2019t listen to them. What\u2019s weird is that Penny almost got a science fact right."
+            ],
+            [
+                82,
+                "But you are, aren\u2019t you?"
+            ],
+            [
+                84,
+                "Talk to me. Tell me what\u2019s going on."
+            ],
+            [
+                86,
+                "There are a lot of memories wrapped up in that room. For me, too. The first time you told me you loved me was in that room."
+            ],
+            [
+                88,
+                "And there is the love of which I speak."
+            ],
+            [
+                90,
+                "Well, this isn\u2019t an easy time for him. He\u2019s losing his apartment, he\u2019s in debt, he\u2019s probably humiliated."
+            ],
+            [
+                102,
+                "You ready to go?"
+            ],
+            [
+                104,
+                "What\u2019s that?"
+            ],
+            [
+                106,
+                "Well, a bunch of fake snakes better not spring out of it, \u2019cause that was a lousy anniversary present."
+            ],
+            [
+                113,
+                "No. I already asked."
+            ],
+            [
+                119,
+                "Sheldon."
+            ],
+            [
+                121,
+                "Sheldon."
+            ],
+            [
+                127,
+                "Come on, Sheldon. Maybe we should just eat at our place."
+            ],
+            [
+                131,
+                "Just keep walking."
+            ],
+            [
+                143,
+                "And don\u2019t start thinking about it now."
+            ],
+            [
+                145,
+                "That\u2019s not true."
+            ],
+            [
+                147,
+                "This isn\u2019t about me and Sheldon. This is about Rajesh moving in with Leonard and Penny."
+            ],
+            [
+                197,
+                "You okay?"
+            ],
+            [
+                199,
+                "What\u2019s wrong?"
+            ],
+            [
+                201,
+                "Is that bothering you?"
+            ],
+            [
+                203,
+                "I mean, how it relates to our relationship, not the bromance between you and your brain."
+            ],
+            [
+                205,
+                "I don\u2019t know. I just think you\u2019re the kind of person who likes a contingency plan."
+            ],
+            [
+                207,
+                "You need to stop hanging out with your brain so much. It\u2019s not a good influence."
+            ],
+            [
+                218,
+                "I want to say aw, but I\u2019m gonna say ew."
+            ],
+            [
+                259,
+                "Yup, we\u2019re killin\u2019 it."
+            ]
+        ],
+        "Raj (answering phone)": [
+            [
+                31,
+                "Hello."
+            ]
+        ],
+        "Raj": [
+            [
+                33,
+                "That would be amazing. I was literally just looking at my moving boxes, trying to pick one to live in."
+            ],
+            [
+                35,
+                "I cannot thank you enough."
+            ],
+            [
+                38,
+                "Uh, yeah. Why do you ask?"
+            ],
+            [
+                40,
+                "Oh, my God, that\u2019s so generous."
+            ],
+            [
+                42,
+                "I really appreciate it. Uh, can you hold on one second? Hey, so, Howard, what\u2019s the bathroom situation gonna be?"
+            ],
+            [
+                44,
+                "But I can use the downstairs bathroom, right?"
+            ],
+            [
+                46,
+                "Cool, cool, yeah, yeah, hold on one second."
+            ],
+            [
+                48,
+                "Hey, what\u2019s it like sharing a bathroom with Penny? Is there hair everywhere? Does she use your loofah?"
+            ],
+            [
+                50,
+                "Okay, well, if I move in, you can\u2019t use mine. Hold on a second. Hey, Howard, uh, how\u2019s the Wi-Fi in the garage?"
+            ],
+            [
+                52,
+                "Well, to be honest, Leonard\u2019s on the other line, and he offered me their spare bedroom."
+            ],
+            [
+                54,
+                "But you made the garage sound so fun. "
+            ],
+            [
+                56,
+                "One second. Okay, I think we\u2019re close. How do you feel about a mini-fridge in my room?"
+            ],
+            [
+                58,
+                "Oh, uh, hi, Penny. Yes, please."
+            ],
+            [
+                93,
+                "Can I get anyone anything at all?"
+            ],
+            [
+                95,
+                "It\u2019s the least I can do for helping me carry my stuff up."
+            ],
+            [
+                98,
+                "Anyway, thanks again."
+            ],
+            [
+                114,
+                "Thank you, Sheldon. It\u2019s a blank notebook. "
+            ],
+            [
+                117,
+                "This means a lot."
+            ],
+            [
+                123,
+                "You\u2019re right, I am humiliated. Thanks for pointing it out. You\u2019re such a jerk."
+            ],
+            [
+                129,
+                "What do I have to be happy about? My life\u2019s a wreck."
+            ],
+            [
+                152,
+                "Maybe moving in was a bad idea. I haven\u2019t been here one day, I\u2019m already causing problems."
+            ],
+            [
+                156,
+                "Thank you, but how do I know you\u2019re not saying that just to be nice?"
+            ],
+            [
+                158,
+                "That\u2019ll do it."
+            ],
+            [
+                160,
+                "Sheldon, she\u2019s fine."
+            ],
+            [
+                162,
+                "Thank you. I appreciate that."
+            ],
+            [
+                183,
+                "Howard? Howard? It\u2019s me, it\u2019s just me. "
+            ],
+            [
+                185,
+                "Well, I texted you, but you didn\u2019t respond. Leonard and Penny were arguing."
+            ],
+            [
+                189,
+                "I\u2019m sorry, guys. Sheldon was upset, Leonard and Penny were fighting, I just wanted to go some place where I wasn\u2019t causing problems."
+            ],
+            [
+                191,
+                "Can I just stay in the garage?"
+            ],
+            [
+                193,
+                "Thank you."
+            ],
+            [
+                210,
+                "Well, didn\u2019t think this is where my life would be."
+            ],
+            [
+                212,
+                "You know, we\u2019re both down on our luck. Maybe you and I should try to get a place together."
+            ],
+            [
+                214,
+                "Wouldn\u2019t you feel better about yourself if you were more independent?"
+            ],
+            [
+                220,
+                "No, you see, I\u2019m doing this so I can stop being spoiled and, you know, grow as a person."
+            ],
+            [
+                222,
+                "Don\u2019t you even feel a little bad sponging off your friends?"
+            ],
+            [
+                224,
+                "Well, no offence, but I didn\u2019t go to art school. I have a PhD in astrophysics."
+            ],
+            [
+                242,
+                "I just never want to be a burden on my friends."
+            ],
+            [
+                245,
+                "But I also upset Sheldon, and he\u2019s not gonna want to come over if I\u2019m there."
+            ],
+            [
+                252,
+                "I appreciate it, but I think staying with Leonard and Penny makes more sense for everyone."
+            ],
+            [
+                254,
+                "And just so you know, it\u2019s only temporary. I\u2019m not gonna get too comfortable."
+            ]
+        ],
+        "Sheldon: I mean, it\u2019s unfair": [
+            [
+                81,
+                "people just assume I\u2019m going to be upset by Raj moving into my old room."
+            ]
+        ],
+        "Everyone": [
+            [
+                125,
+                "Yes."
+            ]
+        ],
+        "Beverley (on skype)": [
+            [
+                133,
+                "Hello, Sheldon. What a pleasant surprise. How are you?"
+            ],
+            [
+                169,
+                "Hello, Leonard."
+            ]
+        ],
+        "Beverley": [
+            [
+                135,
+                "Oh, I just say that because he prattles. What\u2019s going on?"
+            ],
+            [
+                137,
+                "Mm. Well, what do you think the loss of your room represents?"
+            ],
+            [
+                139,
+                "Very well, but, uh, if you don\u2019t mind, I\u2019d still like to pause for effect. Now, you\u2019ve recently moved in with Dr. Fowler, yes?"
+            ],
+            [
+                141,
+                "Clearly, your old room represents an escape hatch, and without it, you\u2019re forced to confront the terrifying reality of being trapped in a relationship with Amy forever."
+            ],
+            [
+                144,
+                "Hello, Amy. Your defensiveness may indicate similar insecurities about your relationship with Sheldon."
+            ],
+            [
+                146,
+                "She said defensively."
+            ],
+            [
+                148,
+                "Interesting. They\u2019ve found a need to take yet another room mate. Seems they\u2019re avoiding some harsh realities themselves."
+            ],
+            [
+                150,
+                "That is the word on the street, dear."
+            ],
+            [
+                171,
+                "I see. You must be yelling at me out of wedded bliss."
+            ],
+            [
+                174,
+                "Sheldon mentioned you tried to get your brother to live with you, as well."
+            ],
+            [
+                176,
+                "Do you agree with that?"
+            ],
+            [
+                181,
+                "Dear, I would never come between you and Leonard. That\u2019s for your parade of room mates to do."
+            ]
+        ],
+        "Stuart": [
+            [
+                186,
+                "Not on my watch."
+            ],
+            [
+                188,
+                "And if my heart stops, just let me go."
+            ],
+            [
+                194,
+                "Come on, I\u2019ll get you some sheets. Then I\u2019ll see if I can beat my high score on the blood pressure machine."
+            ],
+            [
+                209,
+                "If you\u2019re looking for spare change, I already cleaned it out."
+            ],
+            [
+                211,
+                "Me, either. I\u2019m in a bedroom and you\u2019re on a couch. I\u2019m actually winning."
+            ],
+            [
+                213,
+                "Okay, listen to me. There is no reason to leave here. This is great. Everyone\u2019s nice. It\u2019s comfortable. If all goes according to plan, this is my retirement home."
+            ],
+            [
+                215,
+                "Better than I feel in their steam shower? I don\u2019t think so."
+            ],
+            [
+                221,
+                "Good for you. This sandwich has six dollars worth of ham in it."
+            ],
+            [
+                223,
+                "Hey, look, I went to art college, I tried to make it as a graphic artist, a comic book artist, and you know what I got for my efforts? A visible rib cage. I\u2019m not kidding. You could see my heart beating."
+            ],
+            [
+                225,
+                "Oh, great, it\u2019ll be easier for you to look up at the stars without a roof over your head."
+            ],
+            [
+                243,
+                "Me, either. Don\u2019t want to be a burden. Hey, is that the baby? I\u2019ll go check."
+            ],
+            [
+                247,
+                "Halley\u2019s fine."
+            ],
+            [
+                249,
+                "And she\u2019s having the time of her life."
+            ],
+            [
+                256,
+                "Hey, that\u2019s no way to talk about your baby."
+            ]
+        ],
+        "Sheldon (off)": [
+            [
+                239,
+                "Amy, quick, lock the door."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Leonard",
+            "Aw, man, did you see this post from Raj?"
+        ],
+        [
+            "Penny",
+            "What? Is it another video of him and his dog Lady-and-the-Tramping some spaghetti?"
+        ],
+        [
+            "Leonard",
+            "No. He can\u2019t afford his apartment, and he\u2019s asking if anyone knows of a cheap place to live. I want to say India, but it seems mean."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bedroom."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s so funny?"
+        ],
+        [
+            "Howard",
+            "Raj is looking for a cheap place to live, and I wrote India."
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t post that, be supportive."
+        ],
+        [
+            "Howard",
+            "Maybe you should be supportive of my hilarious jokes. Fine, what should we do?"
+        ],
+        [
+            "Bernadette",
+            "We\u2019re smart. I\u2019m sure we can think of something."
+        ],
+        [
+            "Howard",
+            "You want to let him live here?"
+        ],
+        [
+            "Bernadette",
+            "Oh, we\u2019re smarter than that."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s bedroom."
+        ],
+        [
+            "Sheldon",
+            "I know our apartment\u2019s small, but I think we can make room."
+        ],
+        [
+            "Amy",
+            "No, Sheldon. We are not getting a life-size Spider-Man statue."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "We do have Sheldon\u2019s old room. If he really needs a place to stay, I guess we should offer it to him."
+        ],
+        [
+            "Penny",
+            "You\u2019re a good friend."
+        ],
+        [
+            "Leonard",
+            "Am I still a good friend if I wait and hope that Howard offers him a place to live first?"
+        ],
+        [
+            "Penny",
+            "You\u2019re an even better husband."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bedroom."
+        ],
+        [
+            "Howard",
+            "I know if the roles were reversed, he would do it for me."
+        ],
+        [
+            "Bernadette",
+            "Where would he stay? We already have Stuart."
+        ],
+        [
+            "Howard",
+            "Well, we can make some space in the garage. Maybe put a cot out there, get him a space heater, maybe a hot plate."
+        ],
+        [
+            "Bernadette",
+            "That sounds awful."
+        ],
+        [
+            "Howard",
+            "Let\u2019s hope he thinks so, too."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s bedroom. "
+        ],
+        [
+            "Amy",
+            "For the last time, no Hulk, no Batman, no life-size statues."
+        ],
+        [
+            "Sheldon",
+            "Wow. I\u2019m starting to think you didn\u2019t mean it when you said you wanted to spruce up the place."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "Raj\u2019s apartment. "
+        ],
+        [
+            "Raj (answering phone)",
+            "Hello."
+        ],
+        [
+            "Howard",
+            "Hey, uh, so we\u2019ve been talking, and if you need a place to stay, we\u2019d be happy to fix up the garage for you."
+        ],
+        [
+            "Raj",
+            "That would be amazing. I was literally just looking at my moving boxes, trying to pick one to live in."
+        ],
+        [
+            "Howard",
+            "I know it\u2019s not ideal, but you\u2019d have plenty of space for your furniture, and there\u2019s this cool button that makes an entire wall go up and down."
+        ],
+        [
+            "Raj",
+            "I cannot thank you enough."
+        ],
+        [
+            "Howard",
+            "It is our pleasure. (beep, beep, beep) Hey, can you hold on one sec? Hello?"
+        ],
+        [
+            "Leonard",
+            "Hey, buddy, you still looking for a place to live?"
+        ],
+        [
+            "Raj",
+            "Uh, yeah. Why do you ask?"
+        ],
+        [
+            "Leonard",
+            "You know, we have the extra bedroom, and if you need it, it\u2019s yours."
+        ],
+        [
+            "Raj",
+            "Oh, my God, that\u2019s so generous."
+        ],
+        [
+            "Leonard",
+            "It\u2019s the least we can do."
+        ],
+        [
+            "Raj",
+            "I really appreciate it. Uh, can you hold on one second? Hey, so, Howard, what\u2019s the bathroom situation gonna be?"
+        ],
+        [
+            "Howard",
+            "Well, there\u2019s a sink out there, that takes care of half your problems."
+        ],
+        [
+            "Raj",
+            "But I can use the downstairs bathroom, right?"
+        ],
+        [
+            "Howard",
+            "Yeah. We barely use it, so it\u2019ll be like it\u2019s yours."
+        ],
+        [
+            "Raj",
+            "Cool, cool, yeah, yeah, hold on one second."
+        ],
+        [
+            "Howard",
+            "What?"
+        ],
+        [
+            "Raj",
+            "Hey, what\u2019s it like sharing a bathroom with Penny? Is there hair everywhere? Does she use your loofah?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t have a loofah."
+        ],
+        [
+            "Raj",
+            "Okay, well, if I move in, you can\u2019t use mine. Hold on a second. Hey, Howard, uh, how\u2019s the Wi-Fi in the garage?"
+        ],
+        [
+            "Howard",
+            "I don\u2019t know. Why are you asking all these questions?"
+        ],
+        [
+            "Raj",
+            "Well, to be honest, Leonard\u2019s on the other line, and he offered me their spare bedroom."
+        ],
+        [
+            "Howard",
+            "Great. Go live there."
+        ],
+        [
+            "Raj",
+            "But you made the garage sound so fun. "
+        ],
+        [
+            "Howard",
+            "I just didn\u2019t want you to feel bad about it. Unless Leonard\u2019s apartment also has a raccoon that chews its way in on cold nights, go there."
+        ],
+        [
+            "Raj",
+            "One second. Okay, I think we\u2019re close. How do you feel about a mini-fridge in my room?"
+        ],
+        [
+            "Penny",
+            "Hey, pal, you want to live here or not?"
+        ],
+        [
+            "Raj",
+            "Oh, uh, hi, Penny. Yes, please."
+        ],
+        [
+            "Scene",
+            "The lobby."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Amy",
+            "Hi."
+        ],
+        [
+            "Sheldon",
+            "Hi, uh, Penny, this circular is addressed to occupant, but with our apartment switch, it\u2019s unclear whether it\u2019s yours or mine."
+        ],
+        [
+            "Penny",
+            "What\u2019s it for?"
+        ],
+        [
+            "Sheldon",
+            "Roofing."
+        ],
+        [
+            "Penny",
+            "Yeah, it\u2019s yours."
+        ],
+        [
+            "Sheldon",
+            "Okay, thanks. Just throw it out. Speaking of occupants, I\u2019m given to understand Raj will be moving into my old room."
+        ],
+        [
+            "Leonard",
+            "Yeah, for a little while."
+        ],
+        [
+            "Sheldon",
+            "What about his dog?"
+        ],
+        [
+            "Penny",
+            "She\u2019ll be in her crate, it\u2019s not a big deal."
+        ],
+        [
+            "Sheldon",
+            "I suppose that\u2019s acceptable."
+        ],
+        [
+            "Amy",
+            "Well, Sheldon\u2019s getting a little better with dogs. He even took a picture with Pluto at Disneyland."
+        ],
+        [
+            "Sheldon",
+            "If real dogs gave me buttons, I\u2019d like them, too. Well, I think it\u2019s very nice that you\u2019re helping out our friend."
+        ],
+        [
+            "Leonard",
+            "And I think it\u2019s nice that you\u2019re taking whatever medication Amy\u2019s clearly giving you."
+        ],
+        [
+            "Sheldon",
+            "And what is that supposed to mean?"
+        ],
+        [
+            "Penny",
+            "Well, it\u2019s like that science thing. For every action, you have a gigantic and annoying reaction."
+        ],
+        [
+            "Leonard",
+            "Just when I thought you couldn\u2019t get any hotter."
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Sheldon",
+            "If you\u2019re implying that I\u2019d have some problem with him moving into my room, you\u2019re wrong. Raj is in a difficult financial situation, and I\u2019m glad that he\u2019s making changes to improve it."
+        ],
+        [
+            "Leonard",
+            "Do not adjust the dosage. You nailed it."
+        ],
+        [
+            "Amy",
+            "Don\u2019t listen to them. What\u2019s weird is that Penny almost got a science fact right."
+        ],
+        [
+            "Sheldon: I mean, it\u2019s unfair",
+            "people just assume I\u2019m going to be upset by Raj moving into my old room."
+        ],
+        [
+            "Amy",
+            "But you are, aren\u2019t you?"
+        ],
+        [
+            "Sheldon",
+            "Oh, I\u2019m outraged. "
+        ],
+        [
+            "Amy",
+            "Talk to me. Tell me what\u2019s going on."
+        ],
+        [
+            "Sheldon",
+            "Well, that\u2019s been my room since before I met Leonard, and now someone else is going to be living in it. And that someone else is not me. And you know how I feel about people who aren\u2019t me. "
+        ],
+        [
+            "Amy",
+            "There are a lot of memories wrapped up in that room. For me, too. The first time you told me you loved me was in that room."
+        ],
+        [
+            "Sheldon",
+            "Wrong. We were standing outside my room in the hallway."
+        ],
+        [
+            "Amy",
+            "And there is the love of which I speak."
+        ],
+        [
+            "Sheldon",
+            "I realize it\u2019s irrational, but with Raj moving in there, I\u2019m feeling a bit replaced."
+        ],
+        [
+            "Amy",
+            "Well, this isn\u2019t an easy time for him. He\u2019s losing his apartment, he\u2019s in debt, he\u2019s probably humiliated."
+        ],
+        [
+            "Sheldon",
+            "Yes, probably. But until we know for sure, how can I feel better?"
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "Can I get anyone anything at all?"
+        ],
+        [
+            "Penny",
+            "Raj, you don\u2019t have to serve us."
+        ],
+        [
+            "Raj",
+            "It\u2019s the least I can do for helping me carry my stuff up."
+        ],
+        [
+            "Howard",
+            "It was really no problem."
+        ],
+        [
+            "Bernadette",
+            "Not for you, box of towels."
+        ],
+        [
+            "Raj",
+            "Anyway, thanks again."
+        ],
+        [
+            "Howard",
+            "Hey, look at that. You\u2019ve got a Raj, we\u2019ve got a Stuart. Maybe we should take them both to the park and let them run around together."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. Yours looks like he has worms."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "You ready to go?"
+        ],
+        [
+            "Sheldon",
+            "All set."
+        ],
+        [
+            "Amy",
+            "What\u2019s that?"
+        ],
+        [
+            "Sheldon",
+            "A housewarming gift for Raj."
+        ],
+        [
+            "Amy",
+            "Well, a bunch of fake snakes better not spring out of it, \u2019cause that was a lousy anniversary present."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s nothing like that. I just, I thought about Raj\u2019s situation, and I had a change of heart. You know, and regarding your gift, you said surprise me, and, boy, did I. Hello."
+        ],
+        [
+            "Leonard",
+            "Hey. "
+        ],
+        [
+            "Penny",
+            "Hi."
+        ],
+        [
+            "Leonard",
+            "Perfect timing. Food\u2019s ready."
+        ],
+        [
+            "Sheldon",
+            "Uh, wait, before we eat, I have a little welcome to the building gift for Raj."
+        ],
+        [
+            "Penny",
+            "Wait, is anything gonna jump out of that."
+        ],
+        [
+            "Amy",
+            "No. I already asked."
+        ],
+        [
+            "Raj",
+            "Thank you, Sheldon. It\u2019s a blank notebook. "
+        ],
+        [
+            "Sheldon",
+            "Well, I had some of my best ideas in that room, and I\u2019m sure you will, too."
+        ],
+        [
+            "Howard",
+            "He also never had sex in that room. That\u2019s something else to look forward to."
+        ],
+        [
+            "Raj",
+            "This means a lot."
+        ],
+        [
+            "Sheldon",
+            "Well, I know this is a difficult time for you. You\u2019re losing your apartment, you\u2019re in debt, and you just, you must be humiliated."
+        ],
+        [
+            "Amy",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Oh, good grief. She is such a stickler for citing sources. Those were Amy\u2019s words."
+        ],
+        [
+            "Amy",
+            "Sheldon."
+        ],
+        [
+            "Sheldon",
+            "I know, I know, good grief was originally said by Charlie Brown, geez."
+        ],
+        [
+            "Raj",
+            "You\u2019re right, I am humiliated. Thanks for pointing it out. You\u2019re such a jerk."
+        ],
+        [
+            "Sheldon",
+            "Can you believe this guy?"
+        ],
+        [
+            "Everyone",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "I thought that was gonna break the other way."
+        ],
+        [
+            "Amy",
+            "Come on, Sheldon. Maybe we should just eat at our place."
+        ],
+        [
+            "Sheldon",
+            "Fine. You took my room. You turned my friends against me. I hope you\u2019re happy."
+        ],
+        [
+            "Raj",
+            "What do I have to be happy about? My life\u2019s a wreck."
+        ],
+        [
+            "Sheldon",
+            "How come he can say it and I can\u2019t?"
+        ],
+        [
+            "Amy",
+            "Just keep walking."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Beverley (on skype)",
+            "Hello, Sheldon. What a pleasant surprise. How are you?"
+        ],
+        [
+            "Sheldon",
+            "Honestly, I\u2019ve been better. Do you have time? Leonard says you\u2019re very busy these days."
+        ],
+        [
+            "Beverley",
+            "Oh, I just say that because he prattles. What\u2019s going on?"
+        ],
+        [
+            "Sheldon",
+            "Well, our friend Raj moved into my old room, and it\u2019s brought up a lot of negative feelings for me."
+        ],
+        [
+            "Beverley",
+            "Mm. Well, what do you think the loss of your room represents?"
+        ],
+        [
+            "Sheldon",
+            "Beverley, you know I hold you in high esteem. Can we skip the part where you pretend not to know the answer, and get to the part where you tell me the answer?"
+        ],
+        [
+            "Beverley",
+            "Very well, but, uh, if you don\u2019t mind, I\u2019d still like to pause for effect. Now, you\u2019ve recently moved in with Dr. Fowler, yes?"
+        ],
+        [
+            "Sheldon",
+            "I have."
+        ],
+        [
+            "Beverley",
+            "Clearly, your old room represents an escape hatch, and without it, you\u2019re forced to confront the terrifying reality of being trapped in a relationship with Amy forever."
+        ],
+        [
+            "Sheldon",
+            "I hadn\u2019t thought about that."
+        ],
+        [
+            "Amy",
+            "And don\u2019t start thinking about it now."
+        ],
+        [
+            "Beverley",
+            "Hello, Amy. Your defensiveness may indicate similar insecurities about your relationship with Sheldon."
+        ],
+        [
+            "Amy",
+            "That\u2019s not true."
+        ],
+        [
+            "Beverley",
+            "She said defensively."
+        ],
+        [
+            "Amy",
+            "This isn\u2019t about me and Sheldon. This is about Rajesh moving in with Leonard and Penny."
+        ],
+        [
+            "Beverley",
+            "Interesting. They\u2019ve found a need to take yet another room mate. Seems they\u2019re avoiding some harsh realities themselves."
+        ],
+        [
+            "Sheldon",
+            "I had no idea all our relationships were such a disaster. Boy, you\u2019re good."
+        ],
+        [
+            "Beverley",
+            "That is the word on the street, dear."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Raj",
+            "Maybe moving in was a bad idea. I haven\u2019t been here one day, I\u2019m already causing problems."
+        ],
+        [
+            "Penny",
+            "You didn\u2019t do anything. It\u2019s Sheldon."
+        ],
+        [
+            "Leonard",
+            "You didn\u2019t do anything, it\u2019s Sheldon. That\u2019d make a nice needlepoint pillow."
+        ],
+        [
+            "Penny",
+            "So, relax. We\u2019re happy to have you."
+        ],
+        [
+            "Raj",
+            "Thank you, but how do I know you\u2019re not saying that just to be nice?"
+        ],
+        [
+            "Penny",
+            "Do you actually pay for that haircut?"
+        ],
+        [
+            "Raj",
+            "That\u2019ll do it."
+        ],
+        [
+            "Sheldon",
+            "Hey, Raj, I owe you an apology. Look, could you please put your dog on a leash?"
+        ],
+        [
+            "Raj",
+            "Sheldon, she\u2019s fine."
+        ],
+        [
+            "Sheldon",
+            "Well, then at least hold her still so I can pretend she\u2019s stuffed. Raj, I let my emotions get the best of me, and I unfairly took it out on you."
+        ],
+        [
+            "Raj",
+            "Thank you. I appreciate that."
+        ],
+        [
+            "Sheldon",
+            "No, I can\u2019t take all the credit. I spoke with Leonard\u2019s mother, and she made me feel better."
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know who you talked to, but that wasn\u2019t my mother."
+        ],
+        [
+            "Sheldon",
+            "Beverly pointed out that I\u2019m experiencing insecurities in my relationship with Amy, in the same way that Leonard and Penny are in their relationship."
+        ],
+        [
+            "Penny",
+            "What are you talking about? We\u2019re fine."
+        ],
+        [
+            "Sheldon",
+            "Yes, you\u2019re fine as long as you have a buffer living with you to distract from your marital problems. It used to be me. Now it\u2019s Raj and his attack Tribble. Anyway, I\u2019m sorry for everything. Oh, and FYI, if you cry while they\u2019re fighting, they\u2019ll take you to McDonald\u2019s."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Beverley (on skype)",
+            "Hello, Leonard."
+        ],
+        [
+            "Leonard",
+            "Why are you saying we have marital problems? We don\u2019t have marital problems."
+        ],
+        [
+            "Beverley",
+            "I see. You must be yelling at me out of wedded bliss."
+        ],
+        [
+            "Leonard",
+            "Look, just because we took our friend in does not mean that Penny and I are afraid to be alone."
+        ],
+        [
+            "Penny",
+            "Yeah, this is a special circumstance."
+        ],
+        [
+            "Beverley",
+            "Sheldon mentioned you tried to get your brother to live with you, as well."
+        ],
+        [
+            "Penny",
+            "Yeah, well, a circumstance can happen twice and still be special."
+        ],
+        [
+            "Beverley",
+            "Do you agree with that?"
+        ],
+        [
+            "Leonard",
+            "Well, now that you point it out\u2026"
+        ],
+        [
+            "Penny",
+            "Are you kidding me?"
+        ],
+        [
+            "Leonard",
+            "We do seem to keep finding room mates."
+        ],
+        [
+            "Penny",
+            "Now you\u2019re taking her side?"
+        ],
+        [
+            "Beverley",
+            "Dear, I would never come between you and Leonard. That\u2019s for your parade of room mates to do."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s bedroom."
+        ],
+        [
+            "Raj",
+            "Howard? Howard? It\u2019s me, it\u2019s just me. "
+        ],
+        [
+            "Howard",
+            "What are you doing here?"
+        ],
+        [
+            "Raj",
+            "Well, I texted you, but you didn\u2019t respond. Leonard and Penny were arguing."
+        ],
+        [
+            "Stuart",
+            "Not on my watch."
+        ],
+        [
+            "Bernadette",
+            "It\u2019s fine. It\u2019s just Raj. You can hit him with the bat, but it\u2019s fine."
+        ],
+        [
+            "Stuart",
+            "And if my heart stops, just let me go."
+        ],
+        [
+            "Raj",
+            "I\u2019m sorry, guys. Sheldon was upset, Leonard and Penny were fighting, I just wanted to go some place where I wasn\u2019t causing problems."
+        ],
+        [
+            "Howard",
+            "I\u2019ll say it again. India."
+        ],
+        [
+            "Raj",
+            "Can I just stay in the garage?"
+        ],
+        [
+            "Bernadette",
+            "Don\u2019t do that. We\u2019ll make up the couch for you and figure out something in the morning."
+        ],
+        [
+            "Raj",
+            "Thank you."
+        ],
+        [
+            "Stuart",
+            "Come on, I\u2019ll get you some sheets. Then I\u2019ll see if I can beat my high score on the blood pressure machine."
+        ],
+        [
+            "Howard",
+            "Never should\u2019ve had all these kids so close together."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s bedroom."
+        ],
+        [
+            "Amy",
+            "You okay?"
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t sleep."
+        ],
+        [
+            "Amy",
+            "What\u2019s wrong?"
+        ],
+        [
+            "Sheldon",
+            "Beverley believes I unconsciously consider my old room an escape hatch."
+        ],
+        [
+            "Amy",
+            "Is that bothering you?"
+        ],
+        [
+            "Sheldon",
+            "Yes. I don\u2019t care for unconscious thoughts. My brain and I are best friends. It should tell me everything. "
+        ],
+        [
+            "Amy",
+            "I mean, how it relates to our relationship, not the bromance between you and your brain."
+        ],
+        [
+            "Sheldon",
+            "What if she\u2019s correct? Doesn\u2019t that say something troubling about us?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t know. I just think you\u2019re the kind of person who likes a contingency plan."
+        ],
+        [
+            "Sheldon",
+            "That is true. Did you know I figured out in which order I would eat all my friends in the event of an apocalypse?"
+        ],
+        [
+            "Amy",
+            "You need to stop hanging out with your brain so much. It\u2019s not a good influence."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s living room."
+        ],
+        [
+            "Stuart",
+            "If you\u2019re looking for spare change, I already cleaned it out."
+        ],
+        [
+            "Raj",
+            "Well, didn\u2019t think this is where my life would be."
+        ],
+        [
+            "Stuart",
+            "Me, either. I\u2019m in a bedroom and you\u2019re on a couch. I\u2019m actually winning."
+        ],
+        [
+            "Raj",
+            "You know, we\u2019re both down on our luck. Maybe you and I should try to get a place together."
+        ],
+        [
+            "Stuart",
+            "Okay, listen to me. There is no reason to leave here. This is great. Everyone\u2019s nice. It\u2019s comfortable. If all goes according to plan, this is my retirement home."
+        ],
+        [
+            "Raj",
+            "Wouldn\u2019t you feel better about yourself if you were more independent?"
+        ],
+        [
+            "Stuart",
+            "Better than I feel in their steam shower? I don\u2019t think so."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s bedroom. "
+        ],
+        [
+            "Sheldon",
+            "Penny would be the entree. Then Leonard\u2019s basically a cheese course. And because I love you, you\u2019re dessert."
+        ],
+        [
+            "Amy",
+            "I want to say aw, but I\u2019m gonna say ew."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s living room. "
+        ],
+        [
+            "Raj",
+            "No, you see, I\u2019m doing this so I can stop being spoiled and, you know, grow as a person."
+        ],
+        [
+            "Stuart",
+            "Good for you. This sandwich has six dollars worth of ham in it."
+        ],
+        [
+            "Raj",
+            "Don\u2019t you even feel a little bad sponging off your friends?"
+        ],
+        [
+            "Stuart",
+            "Hey, look, I went to art college, I tried to make it as a graphic artist, a comic book artist, and you know what I got for my efforts? A visible rib cage. I\u2019m not kidding. You could see my heart beating."
+        ],
+        [
+            "Raj",
+            "Well, no offence, but I didn\u2019t go to art school. I have a PhD in astrophysics."
+        ],
+        [
+            "Stuart",
+            "Oh, great, it\u2019ll be easier for you to look up at the stars without a roof over your head."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Morning."
+        ],
+        [
+            "Leonard",
+            "Did you know Raj moved out last night?"
+        ],
+        [
+            "Penny",
+            "What? Why?"
+        ],
+        [
+            "Leonard",
+            "Leonard and Penny, I\u2019m sorry for all the trouble I\u2019ve caused. I went to stay at Howard\u2019s. PS Cinnamon\u2019s with me, but if you feel like messing with Sheldon, tell him she\u2019s loose in the building."
+        ],
+        [
+            "Penny",
+            "I feel terrible."
+        ],
+        [
+            "Leonard",
+            "Should we go bring him back?"
+        ],
+        [
+            "Penny",
+            "Well, you\u2019re the one worried having someone live with us is a sign of problems."
+        ],
+        [
+            "Leonard",
+            "Oh, that was just because my mother got in my head. It\u2019s like being possessed, but instead of Satan it\u2019s, actually, it\u2019s the same thing."
+        ],
+        [
+            "Penny",
+            "All right, so we\u2019ll ask him to come back."
+        ],
+        [
+            "Leonard",
+            "Well, great."
+        ],
+        [
+            "Penny",
+            "Don\u2019t you want to get dressed first?"
+        ],
+        [
+            "Leonard",
+            "Just one second. Help, Cinnamon\u2019s loose in the building."
+        ],
+        [
+            "Sheldon (off)",
+            "Amy, quick, lock the door."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s living room."
+        ],
+        [
+            "Penny",
+            "We\u2019re so sorry if we made you feel uncomfortable. We really weren\u2019t fighting about you."
+        ],
+        [
+            "Raj",
+            "I just never want to be a burden on my friends."
+        ],
+        [
+            "Stuart",
+            "Me, either. Don\u2019t want to be a burden. Hey, is that the baby? I\u2019ll go check."
+        ],
+        [
+            "Leonard",
+            "You are not a burden, and we want you to come back and stay with us."
+        ],
+        [
+            "Raj",
+            "But I also upset Sheldon, and he\u2019s not gonna want to come over if I\u2019m there."
+        ],
+        [
+            "Penny",
+            "More reasons for you to stay."
+        ],
+        [
+            "Stuart",
+            "Halley\u2019s fine."
+        ],
+        [
+            "Bernadette",
+            "You know she\u2019s at my parents\u2019 house, right?"
+        ],
+        [
+            "Stuart",
+            "And she\u2019s having the time of her life."
+        ],
+        [
+            "Howard",
+            "If you ever want to change things up, you\u2019re always welcome here."
+        ],
+        [
+            "Bernadette",
+            "Just not in our bedroom, you dumbass. "
+        ],
+        [
+            "Raj",
+            "I appreciate it, but I think staying with Leonard and Penny makes more sense for everyone."
+        ],
+        [
+            "Penny",
+            "Then it\u2019s settled."
+        ],
+        [
+            "Raj",
+            "And just so you know, it\u2019s only temporary. I\u2019m not gonna get too comfortable."
+        ],
+        [
+            "Bernadette",
+            "Good. Nobody needs a mooch living in their house forever."
+        ],
+        [
+            "Stuart",
+            "Hey, that\u2019s no way to talk about your baby."
+        ],
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment. "
+        ],
+        [
+            "Sheldon",
+            "You know what? I\u2019m proud of us. Yeah, with Penny and Leonard taking in Raj, and Stuart living with Howard and Bernadette, we\u2019re the only couple of our social group who doesn\u2019t need to fill the holes in their relationship with a third party."
+        ],
+        [
+            "Amy",
+            "Yup, we\u2019re killin\u2019 it."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-18-the-escape-hatch-identification/"
+}

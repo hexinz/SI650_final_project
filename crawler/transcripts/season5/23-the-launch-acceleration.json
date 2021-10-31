@@ -1,0 +1,1782 @@
+{
+    "Season": 5,
+    "Episode": 23,
+    "Title": "the launch acceleration",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Howard\u2019s laboratory. The phone rings. Howard puts it on speaker."
+            ],
+            [
+                6,
+                "Credits sequence."
+            ],
+            [
+                7,
+                "A suit shop."
+            ],
+            [
+                38,
+                "Penny\u2019s door."
+            ],
+            [
+                59,
+                "Amy\u2019s apartment."
+            ],
+            [
+                89,
+                "Penny\u2019s apartment."
+            ],
+            [
+                105,
+                "Howard\u2019s bedroom."
+            ],
+            [
+                131,
+                "The apartment. Sheldon and Leonard are playing three dimensional chess."
+            ],
+            [
+                157,
+                "Bernadette\u2019s father\u2019s house."
+            ],
+            [
+                194,
+                "The stairwell."
+            ]
+        ],
+        "Howard": [
+            [
+                1,
+                "Howard Wolowitz."
+            ],
+            [
+                3,
+                "Yes, yes, I\u2019ve been doing my push-ups. I\u2019m still stuck at nine, but that\u2019s going all the way down with no one holding me."
+            ],
+            [
+                19,
+                "Well, that\u2019s it. My orders have been rescinded. I am officially no go to space."
+            ],
+            [
+                21,
+                "Why?"
+            ],
+            [
+                23,
+                "Yeah, so?"
+            ],
+            [
+                25,
+                "Well, their technology isn\u2019t that bad."
+            ],
+            [
+                27,
+                "All right, well, whatever. I wasn\u2019t worried."
+            ],
+            [
+                29,
+                "Let me explain the difference between you and me. You watch Star Trek. I live it."
+            ],
+            [
+                31,
+                "Make all the jokes you want, but there\u2019s only one of us here brave enough to almost do what I almost did."
+            ],
+            [
+                106,
+                "Hey, I was thinking. For our first dance at the wedding, what if we learn the final number from Dirty Dancing?"
+            ],
+            [
+                108,
+                "No, come on. How cool would that be? Me running into your arms, you lifting me up into the air."
+            ],
+            [
+                110,
+                "Yeah, well, why wouldn\u2019t I be? You know, I\u2019m marrying the girl of my dreams, and I finally got my mother to agree not to come on our honeymoon. (Phone rings) Oh, hang on. Oh, it\u2019s NASA. Wolowitz. Oh! Hi, Dave. What\u2019s up? No kidding. Really? Well, that\u2019s great news. Great, great news. All right, I\u2019ll watch my e-mail for the details. Okay, talk soon."
+            ],
+            [
+                112,
+                "It looks like I\u2019m going into space after all."
+            ],
+            [
+                114,
+                "Uh-huh, wonderful. Yay."
+            ],
+            [
+                116,
+                "Th-They did. But NASA really wants my telescope up on the space station, so they\u2019re putting me on an earlier launch."
+            ],
+            [
+                118,
+                "A week from Friday."
+            ],
+            [
+                120,
+                "You\u2019re right. I, I can\u2019t go to space. I have to get married, and no one can say that\u2019s not a good reason. I\u2019ll call him back."
+            ],
+            [
+                122,
+                "Well, too bad, you already did. It\u2019s a done deal. Oh, well. But I forgive you."
+            ],
+            [
+                124,
+                "But what about all the plans and the guests?"
+            ],
+            [
+                126,
+                "You\u2019re right, he is! Your dad\u2019s gonna be furious. There\u2019s no way he\u2019s gonna let us postpone this wedding. Well, we tried."
+            ],
+            [
+                128,
+                "No. I, uh, I should talk to him, man to man."
+            ],
+            [
+                130,
+                "We can only hope\u2026 that he doesn\u2019t."
+            ],
+            [
+                158,
+                "Mr. Rostenkowski, are you busy?"
+            ],
+            [
+                160,
+                "Family pictures, or\u2026 holy crap, that\u2019s a dead person."
+            ],
+            [
+                162,
+                "I\u2019m not sure."
+            ],
+            [
+                164,
+                "How about that. Anyway, sir, I need to talk to you about something."
+            ],
+            [
+                166,
+                "No, thank you. I\u2019m allergic."
+            ],
+            [
+                168,
+                "From nuts?"
+            ],
+            [
+                170,
+                "Nice story. Anyway, the reason I wanted to talk to you is NASA has moved up my launch to the International Space Station."
+            ],
+            [
+                172,
+                "So, the date is going to conflict with me marrying your daughter. Now, I know what you\u2019re going to say, I made a commitment to Bernadette and to your family and I\u2019ve got a hell of a lot of nerve coming in here and demanding that we postpone this thing. Well, message heard and understood. Mission cancelled. Thank you."
+            ],
+            [
+                174,
+                "I\u2019m sorry. May I be excused?"
+            ],
+            [
+                176,
+                "I\u2019m sorry, I didn\u2019t know, is this going to\u2026 Well, I should sit\u2026 May I be seat\u2026 Well, I\u2019ll just sit."
+            ],
+            [
+                178,
+                "I\u2019m aware of that, sir."
+            ],
+            [
+                180,
+                "Uh-huh."
+            ],
+            [
+                182,
+                "Right, right."
+            ],
+            [
+                184,
+                "Oh, I am. And just so you know, I\u2019d still be an astronaut, even if I didn\u2019t go to space. I\u2019ve got an I.D. Card and a NASA golf shirt."
+            ],
+            [
+                186,
+                "But what about the wedding and all the money you put down for the reception?"
+            ],
+            [
+                188,
+                "Um, okay."
+            ],
+            [
+                190,
+                "All right, look, I\u2019m gonna level with you. I\u2019m terrified about going into space. What if I don\u2019t make it back?"
+            ],
+            [
+                192,
+                "You really think so?"
+            ]
+        ],
+        "Voice": [
+            [
+                2,
+                "Hey, Howard. Dave Roeger here at NASA. We need to talk about your upcoming mission."
+            ]
+        ],
+        "Roeger": [
+            [
+                4,
+                "That\u2019s great, uh, but that\u2019s not why I called. We\u2019ve run into a bit of a snafu. Your Soyuz capsule failed the pressurization test, so bottom line, mission\u2019s been scrubbed."
+            ]
+        ],
+        "Howard (Picks up receiver)": [
+            [
+                5,
+                "You\u2019re kidding. So what does that mean? Uh-huh. Uh-huh. Boy, I got to tell you, I\u2019m really disappointed. This was my dream ever since I was a little kid. Okay, well, uh, thanks for the call. Yep, you, too. (Puts down phone.) Yes! Thank you! Oh! Oh! I\u2019m not gonna die in space! I\u2019m gonna die the way God intended, in my late 50s, with a heart full of pastrami."
+            ]
+        ],
+        "Sheldon (off)": [
+            [
+                8,
+                "I\u2019m going to need a larger shirt. This one\u2019s a little tight under the arms."
+            ]
+        ],
+        "Assistant": [
+            [
+                9,
+                "Okay."
+            ],
+            [
+                16,
+                "Why don\u2019t you slip this on?"
+            ],
+            [
+                35,
+                "Uh, where\u2019s he going?"
+            ]
+        ],
+        "Leonard": [
+            [
+                10,
+                "Do you think maybe it\u2019s tight because you\u2019re wearing long underwear?"
+            ],
+            [
+                12,
+                "All right, let me rephrase the question. Why are you wearing long underwear?"
+            ],
+            [
+                20,
+                "I\u2019m sorry, Howard, but I got to tell you, I\u2019m a little relieved you\u2019re not going."
+            ],
+            [
+                22,
+                "Come on, you were gonna go up in a rocket designed in the 1960s by the Russians."
+            ],
+            [
+                24,
+                "When was the last time you were at Best Buy and you heard someone say, ooh, check out this Blu-ray player, it must be good, it was built in Russia\u201d?"
+            ],
+            [
+                33,
+                "You must be burning up."
+            ],
+            [
+                36,
+                "He keeps emergency Purell in the car."
+            ],
+            [
+                40,
+                "Before I come in, you should know, I have gas. (Holds up gas canister) "
+            ],
+            [
+                42,
+                "Check it out. It\u2019s the gas I use in my free-electron laser to support high voltages. But it also has an interesting secondary use. Here. Breathe this in."
+            ],
+            [
+                44,
+                "Just try it."
+            ],
+            [
+                48,
+                "I have never been more attracted to a woman who sounds like a man in my life."
+            ],
+            [
+                50,
+                "Mm-hmm."
+            ],
+            [
+                52,
+                "Oh, great."
+            ],
+            [
+                54,
+                "And I promise, after waiting four months, fast is what you\u2019re gonna get."
+            ],
+            [
+                56,
+                "So we won\u2019t let it get weird."
+            ],
+            [
+                58,
+                "What about (inhales gas, in low voice) Cookies!"
+            ],
+            [
+                90,
+                "I\u2019m sorry. I did, I crossed a line. I didn\u2019t mean to!"
+            ],
+            [
+                92,
+                "I don\u2019t know, it just came out. People say weird things during sex all the time."
+            ],
+            [
+                94,
+                "It was the heat of the moment."
+            ],
+            [
+                96,
+                "I\u2019m sorry. Just, just give me another chance."
+            ],
+            [
+                98,
+                "Again, I\u2019m sorry. You know, with Howard and Bernadette getting married, I got caught up in a little wedding fever. I take it back."
+            ],
+            [
+                100,
+                "Okay, at some point, we\u2019ll look back and this is going to be a funny story. Why don\u2019t we just start doing that now?"
+            ],
+            [
+                102,
+                "No. Hey, do you remember that time when I proposed to you in bed? And you were all, like, what are you doing? That was so funny. So funny."
+            ],
+            [
+                104,
+                "Give it a minute. Is that a little smile I see there? I should go."
+            ],
+            [
+                133,
+                "Sheldon, knight takes bishop. You all right?"
+            ],
+            [
+                135,
+                "Are you? You left your queen exposed from above, you trapped your knight in the corner, and you keep sighing and saying, why me?"
+            ],
+            [
+                137,
+                "We got you that book last year. Wasn\u2019t everything in there?"
+            ],
+            [
+                139,
+                "Well, if it makes you feel any better, I screwed things up pretty good with Penny."
+            ],
+            [
+                141,
+                "I guess we are. So, what\u2019s going on?"
+            ],
+            [
+                143,
+                "I\u2019m sorry, that must be very difficult for you."
+            ],
+            [
+                145,
+                "Shame on her."
+            ],
+            [
+                147,
+                "She\u2019s good."
+            ],
+            [
+                149,
+                "You mean, like in bed or in the shower?"
+            ],
+            [
+                151,
+                "Well, if you had a physical relationship, I\u2019d say propose during sex. Turns out that\u2019s a real mood killer."
+            ],
+            [
+                153,
+                "Yeah."
+            ],
+            [
+                155,
+                "Pretty much."
+            ],
+            [
+                196,
+                "Hey. Off to work?"
+            ],
+            [
+                198,
+                "Have a nice night."
+            ],
+            [
+                200,
+                "Penny, just, wait. I\u2019ve been thinking about what I said when we were in bed the other night."
+            ],
+            [
+                202,
+                "I noticed you never answered me."
+            ],
+            [
+                204,
+                "Uh, follow-up. Are we still dating?"
+            ],
+            [
+                206,
+                "Is it still weird \u2019cause I proposed?"
+            ],
+            [
+                208,
+                "I have a couple more quick questions. Do you want to call me from the car?"
+            ],
+            [
+                210,
+                "I played that pretty well. (Enters apartment. Amy, dressed as a Vulcan starfleet officer, is examining Sheldon.)"
+            ],
+            [
+                212,
+                "What are you doing?"
+            ]
+        ],
+        "Sheldon": [
+            [
+                11,
+                "Yes, of course that\u2019s why it\u2019s tight."
+            ],
+            [
+                13,
+                "You\u2019re kidding. Shouldn\u2019t the question be why aren\u2019t you?"
+            ],
+            [
+                15,
+                "Leonard, these rental tuxedos have been worn by hundreds of sweaty strangers. I don\u2019t like my own sweat touching my skin, how do you think I feel about theirs?"
+            ],
+            [
+                17,
+                "Said the hangman offering a noose."
+            ],
+            [
+                32,
+                "Ah, much better."
+            ],
+            [
+                34,
+                "A little. But not more than your urethras will be after whatever\u2019s in those pants swims up them. Well, I cut quite the dashing, yet hygienic figure, don\u2019t I? I look like the Flash about to get married. Oh! A tissue! A tissue! Oh, good Lord!"
+            ],
+            [
+                37,
+                "Keys! Keys! Keys!"
+            ],
+            [
+                60,
+                "(Knock, knock, knock) Amy? (Knock, knock, knock) Amy? (Knock, knock, knock) Amy?"
+            ],
+            [
+                62,
+                "It\u2019s not an accident. I waited outside your door for twenty minutes."
+            ],
+            [
+                64,
+                "I must say, I was surprised you chose to spend our date night in your apartment. As I mentioned, the Pasadena City Council is debating longer crosswalk times, and later, the LEGO store is having a midnight madness sale. You ask anyone, that\u2019s a hot date."
+            ],
+            [
+                66,
+                "What can be more special than having an adequate amount of time to cross the street on your way to buy a tiny LEGO Indiana Jones?"
+            ],
+            [
+                68,
+                "Oh, dear Lord. Two years ago, we didn\u2019t even know each other, and now I\u2019m in your apartment after dark. How much faster can this thing go?"
+            ],
+            [
+                70,
+                "Oh, you brain monkeys kill me. Dip away."
+            ],
+            [
+                72,
+                "And how do you propose to do that? Uh, hope you\u2019re not thinking about some sort of LSD thought control. Because there\u2019s only one mind-expanding drug that this man enjoys, and that\u2019s called school."
+            ],
+            [
+                74,
+                "Well, seems what\u2019s on the menu tonight is malarkey with a big side of poppycock."
+            ],
+            [
+                76,
+                "Super Mario Bros. theme?"
+            ],
+            [
+                78,
+                "I see what you\u2019re doing. You\u2019re attempting to build on the work of Ebbinghaus by triggering an involuntary memory of me playing that game, admittedly the happiest 600 hours of my childhood, but it won\u2019t work."
+            ],
+            [
+                80,
+                "Da-da-da da-da dum, boink, boink."
+            ],
+            [
+                82,
+                "You know I don\u2019t drink."
+            ],
+            [
+                84,
+                "I love strawberry Quik. It\u2019s my favourite pink fluid, narrowly beating out Pepto-Bismol."
+            ],
+            [
+                86,
+                "Spaghetti with little pieces of hot dog cut up in it!"
+            ],
+            [
+                88,
+                "Oh yummy, yummy! We should do this more often. Uh-oh."
+            ],
+            [
+                132,
+                "Bishop to queen four, level two. Check."
+            ],
+            [
+                134,
+                "I\u2019m fine."
+            ],
+            [
+                136,
+                "Very well. Can I ask you a question about women?"
+            ],
+            [
+                138,
+                "No, I\u2019m having a relationship problem with Amy. And by the way, that book gave me nightmares."
+            ],
+            [
+                140,
+                "Look at us, Leonard, engaging in the social convention of men bellyaching about their ol\u2019 ladies."
+            ],
+            [
+                142,
+                "Believe it or not, Amy has embarked on a campaign to increase my feelings for her by making me happy."
+            ],
+            [
+                144,
+                "It\u2019s awful. This morning, she arranged for me to be an Amtrak junior conductor for the day. It, it\u2019s usually only open to children. She got them to make an exception."
+            ],
+            [
+                146,
+                "They let me blow the whistle, Leonard."
+            ],
+            [
+                148,
+                "I know. And it gets worse. Her efforts are causing me to have affectionate feelings for her at inappropriate times."
+            ],
+            [
+                150,
+                "No! Would you please stop referencing that infernal book? For example, this morning, I was calculating the random motion of virtual particles in a vacuum, when suddenly the particles morphed into an image of Amy\u2019s dandruff gently cascading down onto her pale, slightly hunched shoulders. Oh, what has that vixen done to me, Leonard? And how do I make it stop?"
+            ],
+            [
+                152,
+                "I assume we\u2019re talking about you now?"
+            ],
+            [
+                154,
+                "So, that\u2019s how this works? I complain, and then you complain, and no one offers any solutions?"
+            ],
+            [
+                156,
+                "Well, no wonder the women are winning."
+            ],
+            [
+                214,
+                "I\u2019m in hell, Leonard. Don\u2019t stop."
+            ]
+        ],
+        "Leonard: No, it should be": [
+            [
+                14,
+                "why are you?"
+            ]
+        ],
+        "Raj": [
+            [
+                18,
+                "Well, that wasn\u2019t as entertaining as when he rents bowling shoes, but it was right up there."
+            ],
+            [
+                26,
+                "When you come back to Earth in a Soyuz capsule, you free-fall from space at 500 miles per hour, and the only thing that slows you down is a little parachute that pops out right before you crash into the ground. And the whole thing was designed by the same brilliant minds who were unable to capture Rocky and Bullwinkle."
+            ],
+            [
+                28,
+                "You weren\u2019t?"
+            ],
+            [
+                30,
+                "Oh, please. I don\u2019t remember the episode of Star Trek where the guy never goes to space and brags about it in a tuxedo store."
+            ]
+        ],
+        "Penny": [
+            [
+                39,
+                "Hey, you."
+            ],
+            [
+                41,
+                "For the record, not your worst opening line."
+            ],
+            [
+                43,
+                "B-Before I do it, if you\u2019re a cop you have tell me, right?"
+            ],
+            [
+                45,
+                "Okay. (In weirdly low voice) What\u2019s it supposed to\u2026 Oh, my God, this is so freaky!"
+            ],
+            [
+                47,
+                "Okay. Me, me, me. Ready? (Low voice) Leonard, I am your father."
+            ],
+            [
+                49,
+                "Oh, Mm. Hey, you know how we\u2019ve been taking things slow?"
+            ],
+            [
+                51,
+                "Well, I\u2019ve been thinking, and maybe I\u2019m ready to take things a little faster."
+            ],
+            [
+                53,
+                "Mm-hmm."
+            ],
+            [
+                55,
+                "You know, just-just one thing. Look, we\u2019re in a really great place right now, and I don\u2019t want to do anything that will make stuff all weird again."
+            ],
+            [
+                57,
+                "Okay. Oh, and just a heads-up, mm, since the last time you saw me naked, I got a Cookie Monster tattoo. The acceptable responses when you see it are awesome or nothing."
+            ],
+            [
+                91,
+                "Who says something like that right in the middle of sex?"
+            ],
+            [
+                93,
+                "Okay, well, they sure as hell don\u2019t say that."
+            ],
+            [
+                95,
+                "No, the heat of the moment is, ooh, yeah, just like that, not will you marry me?"
+            ],
+            [
+                97,
+                "Why, so you can crawl under the covers and go, hey, baby, want to go look for houses in neighbourhoods with good schools?"
+            ],
+            [
+                99,
+                "You can\u2019t take something like that back. I mean, what are we even supposed to do now?"
+            ],
+            [
+                101,
+                "You\u2019re kidding."
+            ],
+            [
+                103,
+                "It\u2019s not funny."
+            ],
+            [
+                195,
+                "Hey."
+            ],
+            [
+                197,
+                "Yeah."
+            ],
+            [
+                199,
+                "Okay, you, too."
+            ],
+            [
+                201,
+                "Yeah, I\u2019ve been thinking about it, too."
+            ],
+            [
+                203,
+                "You\u2019re right. (Kisses him) No."
+            ],
+            [
+                205,
+                "Yep."
+            ],
+            [
+                207,
+                "Yep."
+            ],
+            [
+                209,
+                "No!"
+            ]
+        ],
+        "Leonard (in low voice)": [
+            [
+                46,
+                "You\u2019re a mean one Mr. Grinch."
+            ]
+        ],
+        "Amy": [
+            [
+                61,
+                "Seven o\u2019clock, right on time."
+            ],
+            [
+                63,
+                "Well, dinner\u2019s almost ready."
+            ],
+            [
+                65,
+                "Tempting choices, but I have something special planned for tonight."
+            ],
+            [
+                67,
+                "With our friends moving forward in their relationships, I\u2019ve decided that we should make progress in ours as well."
+            ],
+            [
+                69,
+                "I had a feeling you\u2019d be reluctant, which is why I\u2019m going to dip into my neurobiological bag of tricks."
+            ],
+            [
+                71,
+                "I have devised an experiment that I believe will increase your feelings for me in an accelerated time frame."
+            ],
+            [
+                73,
+                "Human beings form emotional attachments as they grow up. In your case, to your mother, superheroes, et cetera. I\u2019m going to attempt an experiment that will get you to transfer those feelings to me."
+            ],
+            [
+                75,
+                "We\u2019ll see. Let\u2019s start with a little romantic dinner music, shall we?"
+            ],
+            [
+                77,
+                "Yes."
+            ],
+            [
+                79,
+                "Fine. There\u2019s no reason we still can\u2019t have a lovely dinner. Why don\u2019t you have a seat."
+            ],
+            [
+                81,
+                "May I offer you something to drink?"
+            ],
+            [
+                83,
+                "Not even strawberry Quik?"
+            ],
+            [
+                85,
+                "Oh, I know. I think it will go nicely with what I have prepared for dinner."
+            ],
+            [
+                87,
+                "Just like your mommy used to make."
+            ],
+            [
+                211,
+                "Hello, Leonard."
+            ],
+            [
+                213,
+                "We\u2019re playing doctor. Star Trek style."
+            ]
+        ],
+        "Bernadette": [
+            [
+                107,
+                "You\u2019re kidding."
+            ],
+            [
+                109,
+                "Oh, you\u2019re in a good mood."
+            ],
+            [
+                111,
+                "What\u2019s so great?"
+            ],
+            [
+                113,
+                "Oh, Howie, that\u2019s wonderful!"
+            ],
+            [
+                115,
+                "What happened? I thought they cancelled your mission."
+            ],
+            [
+                117,
+                "When?"
+            ],
+            [
+                119,
+                "What? We\u2019re getting married that Sunday."
+            ],
+            [
+                121,
+                "Wait. I don\u2019t want to be the one who stands in your way."
+            ],
+            [
+                123,
+                "No. That\u2019s not how I want to start our marriage, killing your dream. We\u2019ll have the wedding when you get back."
+            ],
+            [
+                125,
+                "We\u2019ll call them. Although my dad\u2019s gonna go a little nutso over losing his deposits."
+            ],
+            [
+                127,
+                "I\u2019ll talk to him. He won\u2019t say no to his little girl."
+            ],
+            [
+                129,
+                "But, Howie, my dad can be a bully. He\u2019s gonna make you cancel your space flight."
+            ]
+        ],
+        "Mr. Rostenkowski": [
+            [
+                159,
+                "I\u2019m just looking at some old pictures. Come on in."
+            ],
+            [
+                161,
+                "Last murder case before I retired. How many bodies do you see there? Careful, it\u2019s a trick question."
+            ],
+            [
+                163,
+                "Nah, you\u2019ll never get it. It\u2019s a fraction."
+            ],
+            [
+                165,
+                "Walnut?"
+            ],
+            [
+                167,
+                "Oh, sure. My partner used to have that. He\u2019s dead now."
+            ],
+            [
+                169,
+                "Nah, his wife shot him. But she was nuts, so in a way."
+            ],
+            [
+                171,
+                "Yeah, so?"
+            ],
+            [
+                173,
+                "Where are you going?"
+            ],
+            [
+                175,
+                "No, you may not. Let me tell you something. When I first met you\u2026 You just gonna stand there?"
+            ],
+            [
+                177,
+                "When I first met you, I didn\u2019t like you."
+            ],
+            [
+                179,
+                "But then you and I had some time together."
+            ],
+            [
+                181,
+                "It did not get better."
+            ],
+            [
+                183,
+                "That silly Beatle haircut and you riding around on a red Vespa, and you still living at home with your mother. To be honest, I thought Bernadette chose you to punish me. But then I heard about your astronaut thing, and I realized I judged you too fast. Maybe you are the right guy for my little girl."
+            ],
+            [
+                185,
+                "No, no, you got to go. You can\u2019t turn down an opportunity like this."
+            ],
+            [
+                187,
+                "You let me worry about that. You go up to that space station, and you make me proud."
+            ],
+            [
+                189,
+                "You got a problem with that?"
+            ],
+            [
+                191,
+                "It\u2019s gonna be okay, son."
+            ],
+            [
+                193,
+                "Of course. A pretty girl like Bernadette, she\u2019ll find a new guy."
+            ]
+        ],
+        "Teleplay": [
+            [
+                215,
+                "Bill Prady, Steve Holland & Maria Ferrari"
+            ]
+        ],
+        "Story": [
+            [
+                216,
+                "Chuck Lorre, Steven Molaro & Jim Reynolds"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Howard\u2019s laboratory. The phone rings. Howard puts it on speaker."
+        ],
+        [
+            "Howard",
+            "Howard Wolowitz."
+        ],
+        [
+            "Voice",
+            "Hey, Howard. Dave Roeger here at NASA. We need to talk about your upcoming mission."
+        ],
+        [
+            "Howard",
+            "Yes, yes, I\u2019ve been doing my push-ups. I\u2019m still stuck at nine, but that\u2019s going all the way down with no one holding me."
+        ],
+        [
+            "Roeger",
+            "That\u2019s great, uh, but that\u2019s not why I called. We\u2019ve run into a bit of a snafu. Your Soyuz capsule failed the pressurization test, so bottom line, mission\u2019s been scrubbed."
+        ],
+        [
+            "Howard (Picks up receiver)",
+            "You\u2019re kidding. So what does that mean? Uh-huh. Uh-huh. Boy, I got to tell you, I\u2019m really disappointed. This was my dream ever since I was a little kid. Okay, well, uh, thanks for the call. Yep, you, too. (Puts down phone.) Yes! Thank you! Oh! Oh! I\u2019m not gonna die in space! I\u2019m gonna die the way God intended, in my late 50s, with a heart full of pastrami."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "A suit shop."
+        ],
+        [
+            "Sheldon (off)",
+            "I\u2019m going to need a larger shirt. This one\u2019s a little tight under the arms."
+        ],
+        [
+            "Assistant",
+            "Okay."
+        ],
+        [
+            "Leonard",
+            "Do you think maybe it\u2019s tight because you\u2019re wearing long underwear?"
+        ],
+        [
+            "Sheldon",
+            "Yes, of course that\u2019s why it\u2019s tight."
+        ],
+        [
+            "Leonard",
+            "All right, let me rephrase the question. Why are you wearing long underwear?"
+        ],
+        [
+            "Sheldon",
+            "You\u2019re kidding. Shouldn\u2019t the question be why aren\u2019t you?"
+        ],
+        [
+            "Leonard: No, it should be",
+            "why are you?"
+        ],
+        [
+            "Sheldon",
+            "Leonard, these rental tuxedos have been worn by hundreds of sweaty strangers. I don\u2019t like my own sweat touching my skin, how do you think I feel about theirs?"
+        ],
+        [
+            "Assistant",
+            "Why don\u2019t you slip this on?"
+        ],
+        [
+            "Sheldon",
+            "Said the hangman offering a noose."
+        ],
+        [
+            "Raj",
+            "Well, that wasn\u2019t as entertaining as when he rents bowling shoes, but it was right up there."
+        ],
+        [
+            "Howard",
+            "Well, that\u2019s it. My orders have been rescinded. I am officially no go to space."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, Howard, but I got to tell you, I\u2019m a little relieved you\u2019re not going."
+        ],
+        [
+            "Howard",
+            "Why?"
+        ],
+        [
+            "Leonard",
+            "Come on, you were gonna go up in a rocket designed in the 1960s by the Russians."
+        ],
+        [
+            "Howard",
+            "Yeah, so?"
+        ],
+        [
+            "Leonard",
+            "When was the last time you were at Best Buy and you heard someone say, ooh, check out this Blu-ray player, it must be good, it was built in Russia\u201d?"
+        ],
+        [
+            "Howard",
+            "Well, their technology isn\u2019t that bad."
+        ],
+        [
+            "Raj",
+            "When you come back to Earth in a Soyuz capsule, you free-fall from space at 500 miles per hour, and the only thing that slows you down is a little parachute that pops out right before you crash into the ground. And the whole thing was designed by the same brilliant minds who were unable to capture Rocky and Bullwinkle."
+        ],
+        [
+            "Howard",
+            "All right, well, whatever. I wasn\u2019t worried."
+        ],
+        [
+            "Raj",
+            "You weren\u2019t?"
+        ],
+        [
+            "Howard",
+            "Let me explain the difference between you and me. You watch Star Trek. I live it."
+        ],
+        [
+            "Raj",
+            "Oh, please. I don\u2019t remember the episode of Star Trek where the guy never goes to space and brags about it in a tuxedo store."
+        ],
+        [
+            "Howard",
+            "Make all the jokes you want, but there\u2019s only one of us here brave enough to almost do what I almost did."
+        ],
+        [
+            "Sheldon",
+            "Ah, much better."
+        ],
+        [
+            "Leonard",
+            "You must be burning up."
+        ],
+        [
+            "Sheldon",
+            "A little. But not more than your urethras will be after whatever\u2019s in those pants swims up them. Well, I cut quite the dashing, yet hygienic figure, don\u2019t I? I look like the Flash about to get married. Oh! A tissue! A tissue! Oh, good Lord!"
+        ],
+        [
+            "Assistant",
+            "Uh, where\u2019s he going?"
+        ],
+        [
+            "Leonard",
+            "He keeps emergency Purell in the car."
+        ],
+        [
+            "Sheldon",
+            "Keys! Keys! Keys!"
+        ],
+        [
+            "Scene",
+            "Penny\u2019s door."
+        ],
+        [
+            "Penny",
+            "Hey, you."
+        ],
+        [
+            "Leonard",
+            "Before I come in, you should know, I have gas. (Holds up gas canister) "
+        ],
+        [
+            "Penny",
+            "For the record, not your worst opening line."
+        ],
+        [
+            "Leonard",
+            "Check it out. It\u2019s the gas I use in my free-electron laser to support high voltages. But it also has an interesting secondary use. Here. Breathe this in."
+        ],
+        [
+            "Penny",
+            "B-Before I do it, if you\u2019re a cop you have tell me, right?"
+        ],
+        [
+            "Leonard",
+            "Just try it."
+        ],
+        [
+            "Penny",
+            "Okay. (In weirdly low voice) What\u2019s it supposed to\u2026 Oh, my God, this is so freaky!"
+        ],
+        [
+            "Leonard (in low voice)",
+            "You\u2019re a mean one Mr. Grinch."
+        ],
+        [
+            "Penny",
+            "Okay. Me, me, me. Ready? (Low voice) Leonard, I am your father."
+        ],
+        [
+            "Leonard",
+            "I have never been more attracted to a woman who sounds like a man in my life."
+        ],
+        [
+            "Penny",
+            "Oh, Mm. Hey, you know how we\u2019ve been taking things slow?"
+        ],
+        [
+            "Leonard",
+            "Mm-hmm."
+        ],
+        [
+            "Penny",
+            "Well, I\u2019ve been thinking, and maybe I\u2019m ready to take things a little faster."
+        ],
+        [
+            "Leonard",
+            "Oh, great."
+        ],
+        [
+            "Penny",
+            "Mm-hmm."
+        ],
+        [
+            "Leonard",
+            "And I promise, after waiting four months, fast is what you\u2019re gonna get."
+        ],
+        [
+            "Penny",
+            "You know, just-just one thing. Look, we\u2019re in a really great place right now, and I don\u2019t want to do anything that will make stuff all weird again."
+        ],
+        [
+            "Leonard",
+            "So we won\u2019t let it get weird."
+        ],
+        [
+            "Penny",
+            "Okay. Oh, and just a heads-up, mm, since the last time you saw me naked, I got a Cookie Monster tattoo. The acceptable responses when you see it are awesome or nothing."
+        ],
+        [
+            "Leonard",
+            "What about (inhales gas, in low voice) Cookies!"
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Sheldon",
+            "(Knock, knock, knock) Amy? (Knock, knock, knock) Amy? (Knock, knock, knock) Amy?"
+        ],
+        [
+            "Amy",
+            "Seven o\u2019clock, right on time."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not an accident. I waited outside your door for twenty minutes."
+        ],
+        [
+            "Amy",
+            "Well, dinner\u2019s almost ready."
+        ],
+        [
+            "Sheldon",
+            "I must say, I was surprised you chose to spend our date night in your apartment. As I mentioned, the Pasadena City Council is debating longer crosswalk times, and later, the LEGO store is having a midnight madness sale. You ask anyone, that\u2019s a hot date."
+        ],
+        [
+            "Amy",
+            "Tempting choices, but I have something special planned for tonight."
+        ],
+        [
+            "Sheldon",
+            "What can be more special than having an adequate amount of time to cross the street on your way to buy a tiny LEGO Indiana Jones?"
+        ],
+        [
+            "Amy",
+            "With our friends moving forward in their relationships, I\u2019ve decided that we should make progress in ours as well."
+        ],
+        [
+            "Sheldon",
+            "Oh, dear Lord. Two years ago, we didn\u2019t even know each other, and now I\u2019m in your apartment after dark. How much faster can this thing go?"
+        ],
+        [
+            "Amy",
+            "I had a feeling you\u2019d be reluctant, which is why I\u2019m going to dip into my neurobiological bag of tricks."
+        ],
+        [
+            "Sheldon",
+            "Oh, you brain monkeys kill me. Dip away."
+        ],
+        [
+            "Amy",
+            "I have devised an experiment that I believe will increase your feelings for me in an accelerated time frame."
+        ],
+        [
+            "Sheldon",
+            "And how do you propose to do that? Uh, hope you\u2019re not thinking about some sort of LSD thought control. Because there\u2019s only one mind-expanding drug that this man enjoys, and that\u2019s called school."
+        ],
+        [
+            "Amy",
+            "Human beings form emotional attachments as they grow up. In your case, to your mother, superheroes, et cetera. I\u2019m going to attempt an experiment that will get you to transfer those feelings to me."
+        ],
+        [
+            "Sheldon",
+            "Well, seems what\u2019s on the menu tonight is malarkey with a big side of poppycock."
+        ],
+        [
+            "Amy",
+            "We\u2019ll see. Let\u2019s start with a little romantic dinner music, shall we?"
+        ],
+        [
+            "Sheldon",
+            "Super Mario Bros. theme?"
+        ],
+        [
+            "Amy",
+            "Yes."
+        ],
+        [
+            "Sheldon",
+            "I see what you\u2019re doing. You\u2019re attempting to build on the work of Ebbinghaus by triggering an involuntary memory of me playing that game, admittedly the happiest 600 hours of my childhood, but it won\u2019t work."
+        ],
+        [
+            "Amy",
+            "Fine. There\u2019s no reason we still can\u2019t have a lovely dinner. Why don\u2019t you have a seat."
+        ],
+        [
+            "Sheldon",
+            "Da-da-da da-da dum, boink, boink."
+        ],
+        [
+            "Amy",
+            "May I offer you something to drink?"
+        ],
+        [
+            "Sheldon",
+            "You know I don\u2019t drink."
+        ],
+        [
+            "Amy",
+            "Not even strawberry Quik?"
+        ],
+        [
+            "Sheldon",
+            "I love strawberry Quik. It\u2019s my favourite pink fluid, narrowly beating out Pepto-Bismol."
+        ],
+        [
+            "Amy",
+            "Oh, I know. I think it will go nicely with what I have prepared for dinner."
+        ],
+        [
+            "Sheldon",
+            "Spaghetti with little pieces of hot dog cut up in it!"
+        ],
+        [
+            "Amy",
+            "Just like your mommy used to make."
+        ],
+        [
+            "Sheldon",
+            "Oh yummy, yummy! We should do this more often. Uh-oh."
+        ],
+        [
+            "Scene",
+            "Penny\u2019s apartment."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry. I did, I crossed a line. I didn\u2019t mean to!"
+        ],
+        [
+            "Penny",
+            "Who says something like that right in the middle of sex?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know, it just came out. People say weird things during sex all the time."
+        ],
+        [
+            "Penny",
+            "Okay, well, they sure as hell don\u2019t say that."
+        ],
+        [
+            "Leonard",
+            "It was the heat of the moment."
+        ],
+        [
+            "Penny",
+            "No, the heat of the moment is, ooh, yeah, just like that, not will you marry me?"
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry. Just, just give me another chance."
+        ],
+        [
+            "Penny",
+            "Why, so you can crawl under the covers and go, hey, baby, want to go look for houses in neighbourhoods with good schools?"
+        ],
+        [
+            "Leonard",
+            "Again, I\u2019m sorry. You know, with Howard and Bernadette getting married, I got caught up in a little wedding fever. I take it back."
+        ],
+        [
+            "Penny",
+            "You can\u2019t take something like that back. I mean, what are we even supposed to do now?"
+        ],
+        [
+            "Leonard",
+            "Okay, at some point, we\u2019ll look back and this is going to be a funny story. Why don\u2019t we just start doing that now?"
+        ],
+        [
+            "Penny",
+            "You\u2019re kidding."
+        ],
+        [
+            "Leonard",
+            "No. Hey, do you remember that time when I proposed to you in bed? And you were all, like, what are you doing? That was so funny. So funny."
+        ],
+        [
+            "Penny",
+            "It\u2019s not funny."
+        ],
+        [
+            "Leonard",
+            "Give it a minute. Is that a little smile I see there? I should go."
+        ],
+        [
+            "Scene",
+            "Howard\u2019s bedroom."
+        ],
+        [
+            "Howard",
+            "Hey, I was thinking. For our first dance at the wedding, what if we learn the final number from Dirty Dancing?"
+        ],
+        [
+            "Bernadette",
+            "You\u2019re kidding."
+        ],
+        [
+            "Howard",
+            "No, come on. How cool would that be? Me running into your arms, you lifting me up into the air."
+        ],
+        [
+            "Bernadette",
+            "Oh, you\u2019re in a good mood."
+        ],
+        [
+            "Howard",
+            "Yeah, well, why wouldn\u2019t I be? You know, I\u2019m marrying the girl of my dreams, and I finally got my mother to agree not to come on our honeymoon. (Phone rings) Oh, hang on. Oh, it\u2019s NASA. Wolowitz. Oh! Hi, Dave. What\u2019s up? No kidding. Really? Well, that\u2019s great news. Great, great news. All right, I\u2019ll watch my e-mail for the details. Okay, talk soon."
+        ],
+        [
+            "Bernadette",
+            "What\u2019s so great?"
+        ],
+        [
+            "Howard",
+            "It looks like I\u2019m going into space after all."
+        ],
+        [
+            "Bernadette",
+            "Oh, Howie, that\u2019s wonderful!"
+        ],
+        [
+            "Howard",
+            "Uh-huh, wonderful. Yay."
+        ],
+        [
+            "Bernadette",
+            "What happened? I thought they cancelled your mission."
+        ],
+        [
+            "Howard",
+            "Th-They did. But NASA really wants my telescope up on the space station, so they\u2019re putting me on an earlier launch."
+        ],
+        [
+            "Bernadette",
+            "When?"
+        ],
+        [
+            "Howard",
+            "A week from Friday."
+        ],
+        [
+            "Bernadette",
+            "What? We\u2019re getting married that Sunday."
+        ],
+        [
+            "Howard",
+            "You\u2019re right. I, I can\u2019t go to space. I have to get married, and no one can say that\u2019s not a good reason. I\u2019ll call him back."
+        ],
+        [
+            "Bernadette",
+            "Wait. I don\u2019t want to be the one who stands in your way."
+        ],
+        [
+            "Howard",
+            "Well, too bad, you already did. It\u2019s a done deal. Oh, well. But I forgive you."
+        ],
+        [
+            "Bernadette",
+            "No. That\u2019s not how I want to start our marriage, killing your dream. We\u2019ll have the wedding when you get back."
+        ],
+        [
+            "Howard",
+            "But what about all the plans and the guests?"
+        ],
+        [
+            "Bernadette",
+            "We\u2019ll call them. Although my dad\u2019s gonna go a little nutso over losing his deposits."
+        ],
+        [
+            "Howard",
+            "You\u2019re right, he is! Your dad\u2019s gonna be furious. There\u2019s no way he\u2019s gonna let us postpone this wedding. Well, we tried."
+        ],
+        [
+            "Bernadette",
+            "I\u2019ll talk to him. He won\u2019t say no to his little girl."
+        ],
+        [
+            "Howard",
+            "No. I, uh, I should talk to him, man to man."
+        ],
+        [
+            "Bernadette",
+            "But, Howie, my dad can be a bully. He\u2019s gonna make you cancel your space flight."
+        ],
+        [
+            "Howard",
+            "We can only hope\u2026 that he doesn\u2019t."
+        ],
+        [
+            "Scene",
+            "The apartment. Sheldon and Leonard are playing three dimensional chess."
+        ],
+        [
+            "Sheldon",
+            "Bishop to queen four, level two. Check."
+        ],
+        [
+            "Leonard",
+            "Sheldon, knight takes bishop. You all right?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m fine."
+        ],
+        [
+            "Leonard",
+            "Are you? You left your queen exposed from above, you trapped your knight in the corner, and you keep sighing and saying, why me?"
+        ],
+        [
+            "Sheldon",
+            "Very well. Can I ask you a question about women?"
+        ],
+        [
+            "Leonard",
+            "We got you that book last year. Wasn\u2019t everything in there?"
+        ],
+        [
+            "Sheldon",
+            "No, I\u2019m having a relationship problem with Amy. And by the way, that book gave me nightmares."
+        ],
+        [
+            "Leonard",
+            "Well, if it makes you feel any better, I screwed things up pretty good with Penny."
+        ],
+        [
+            "Sheldon",
+            "Look at us, Leonard, engaging in the social convention of men bellyaching about their ol\u2019 ladies."
+        ],
+        [
+            "Leonard",
+            "I guess we are. So, what\u2019s going on?"
+        ],
+        [
+            "Sheldon",
+            "Believe it or not, Amy has embarked on a campaign to increase my feelings for her by making me happy."
+        ],
+        [
+            "Leonard",
+            "I\u2019m sorry, that must be very difficult for you."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s awful. This morning, she arranged for me to be an Amtrak junior conductor for the day. It, it\u2019s usually only open to children. She got them to make an exception."
+        ],
+        [
+            "Leonard",
+            "Shame on her."
+        ],
+        [
+            "Sheldon",
+            "They let me blow the whistle, Leonard."
+        ],
+        [
+            "Leonard",
+            "She\u2019s good."
+        ],
+        [
+            "Sheldon",
+            "I know. And it gets worse. Her efforts are causing me to have affectionate feelings for her at inappropriate times."
+        ],
+        [
+            "Leonard",
+            "You mean, like in bed or in the shower?"
+        ],
+        [
+            "Sheldon",
+            "No! Would you please stop referencing that infernal book? For example, this morning, I was calculating the random motion of virtual particles in a vacuum, when suddenly the particles morphed into an image of Amy\u2019s dandruff gently cascading down onto her pale, slightly hunched shoulders. Oh, what has that vixen done to me, Leonard? And how do I make it stop?"
+        ],
+        [
+            "Leonard",
+            "Well, if you had a physical relationship, I\u2019d say propose during sex. Turns out that\u2019s a real mood killer."
+        ],
+        [
+            "Sheldon",
+            "I assume we\u2019re talking about you now?"
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Sheldon",
+            "So, that\u2019s how this works? I complain, and then you complain, and no one offers any solutions?"
+        ],
+        [
+            "Leonard",
+            "Pretty much."
+        ],
+        [
+            "Sheldon",
+            "Well, no wonder the women are winning."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s father\u2019s house."
+        ],
+        [
+            "Howard",
+            "Mr. Rostenkowski, are you busy?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "I\u2019m just looking at some old pictures. Come on in."
+        ],
+        [
+            "Howard",
+            "Family pictures, or\u2026 holy crap, that\u2019s a dead person."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Last murder case before I retired. How many bodies do you see there? Careful, it\u2019s a trick question."
+        ],
+        [
+            "Howard",
+            "I\u2019m not sure."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Nah, you\u2019ll never get it. It\u2019s a fraction."
+        ],
+        [
+            "Howard",
+            "How about that. Anyway, sir, I need to talk to you about something."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Walnut?"
+        ],
+        [
+            "Howard",
+            "No, thank you. I\u2019m allergic."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Oh, sure. My partner used to have that. He\u2019s dead now."
+        ],
+        [
+            "Howard",
+            "From nuts?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Nah, his wife shot him. But she was nuts, so in a way."
+        ],
+        [
+            "Howard",
+            "Nice story. Anyway, the reason I wanted to talk to you is NASA has moved up my launch to the International Space Station."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Yeah, so?"
+        ],
+        [
+            "Howard",
+            "So, the date is going to conflict with me marrying your daughter. Now, I know what you\u2019re going to say, I made a commitment to Bernadette and to your family and I\u2019ve got a hell of a lot of nerve coming in here and demanding that we postpone this thing. Well, message heard and understood. Mission cancelled. Thank you."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Where are you going?"
+        ],
+        [
+            "Howard",
+            "I\u2019m sorry. May I be excused?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "No, you may not. Let me tell you something. When I first met you\u2026 You just gonna stand there?"
+        ],
+        [
+            "Howard",
+            "I\u2019m sorry, I didn\u2019t know, is this going to\u2026 Well, I should sit\u2026 May I be seat\u2026 Well, I\u2019ll just sit."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "When I first met you, I didn\u2019t like you."
+        ],
+        [
+            "Howard",
+            "I\u2019m aware of that, sir."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "But then you and I had some time together."
+        ],
+        [
+            "Howard",
+            "Uh-huh."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "It did not get better."
+        ],
+        [
+            "Howard",
+            "Right, right."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "That silly Beatle haircut and you riding around on a red Vespa, and you still living at home with your mother. To be honest, I thought Bernadette chose you to punish me. But then I heard about your astronaut thing, and I realized I judged you too fast. Maybe you are the right guy for my little girl."
+        ],
+        [
+            "Howard",
+            "Oh, I am. And just so you know, I\u2019d still be an astronaut, even if I didn\u2019t go to space. I\u2019ve got an I.D. Card and a NASA golf shirt."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "No, no, you got to go. You can\u2019t turn down an opportunity like this."
+        ],
+        [
+            "Howard",
+            "But what about the wedding and all the money you put down for the reception?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "You let me worry about that. You go up to that space station, and you make me proud."
+        ],
+        [
+            "Howard",
+            "Um, okay."
+        ],
+        [
+            "Mr. Rostenkowski",
+            "You got a problem with that?"
+        ],
+        [
+            "Howard",
+            "All right, look, I\u2019m gonna level with you. I\u2019m terrified about going into space. What if I don\u2019t make it back?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "It\u2019s gonna be okay, son."
+        ],
+        [
+            "Howard",
+            "You really think so?"
+        ],
+        [
+            "Mr. Rostenkowski",
+            "Of course. A pretty girl like Bernadette, she\u2019ll find a new guy."
+        ],
+        [
+            "Scene",
+            "The stairwell."
+        ],
+        [
+            "Penny",
+            "Hey."
+        ],
+        [
+            "Leonard",
+            "Hey. Off to work?"
+        ],
+        [
+            "Penny",
+            "Yeah."
+        ],
+        [
+            "Leonard",
+            "Have a nice night."
+        ],
+        [
+            "Penny",
+            "Okay, you, too."
+        ],
+        [
+            "Leonard",
+            "Penny, just, wait. I\u2019ve been thinking about what I said when we were in bed the other night."
+        ],
+        [
+            "Penny",
+            "Yeah, I\u2019ve been thinking about it, too."
+        ],
+        [
+            "Leonard",
+            "I noticed you never answered me."
+        ],
+        [
+            "Penny",
+            "You\u2019re right. (Kisses him) No."
+        ],
+        [
+            "Leonard",
+            "Uh, follow-up. Are we still dating?"
+        ],
+        [
+            "Penny",
+            "Yep."
+        ],
+        [
+            "Leonard",
+            "Is it still weird \u2019cause I proposed?"
+        ],
+        [
+            "Penny",
+            "Yep."
+        ],
+        [
+            "Leonard",
+            "I have a couple more quick questions. Do you want to call me from the car?"
+        ],
+        [
+            "Penny",
+            "No!"
+        ],
+        [
+            "Leonard",
+            "I played that pretty well. (Enters apartment. Amy, dressed as a Vulcan starfleet officer, is examining Sheldon.)"
+        ],
+        [
+            "Amy",
+            "Hello, Leonard."
+        ],
+        [
+            "Leonard",
+            "What are you doing?"
+        ],
+        [
+            "Amy",
+            "We\u2019re playing doctor. Star Trek style."
+        ],
+        [
+            "Sheldon",
+            "I\u2019m in hell, Leonard. Don\u2019t stop."
+        ],
+        [
+            "Teleplay",
+            "Bill Prady, Steve Holland & Maria Ferrari"
+        ],
+        [
+            "Story",
+            "Chuck Lorre, Steven Molaro & Jim Reynolds"
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-5-episode-23-the-launch-acceleration/"
+}

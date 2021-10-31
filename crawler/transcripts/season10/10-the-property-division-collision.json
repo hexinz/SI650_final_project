@@ -1,0 +1,2130 @@
+{
+    "Season": 10,
+    "Episode": 10,
+    "Title": "the property division collision",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "Sheldon and Amy\u2019s apartment."
+            ],
+            [
+                14,
+                "At the apartment door. "
+            ],
+            [
+                16,
+                "Credits sequence."
+            ],
+            [
+                17,
+                "The apartment. "
+            ],
+            [
+                42,
+                "Howard and Bernadette\u2019s kitchen. "
+            ],
+            [
+                65,
+                "The apartment. "
+            ],
+            [
+                100,
+                "Howard and Bernadette\u2019s dining room."
+            ],
+            [
+                118,
+                "The apartment. "
+            ],
+            [
+                135,
+                "Howard and Bernadette\u2019s dining room. "
+            ],
+            [
+                152,
+                "The laundry room."
+            ],
+            [
+                158,
+                "Howard and Bernadett\u2019s house. "
+            ],
+            [
+                172,
+                "The stairwell. "
+            ],
+            [
+                190,
+                "Howard and Bernadette\u2019s living room. "
+            ],
+            [
+                206,
+                "The apartment."
+            ],
+            [
+                237,
+                "The apartment. "
+            ],
+            [
+                244,
+                "Howard and Bernadette\u2019s living room. "
+            ]
+        ],
+        "Amy": [
+            [
+                1,
+                "If we\u2019re going to be staying in this apartment, would you be interested in doing a little redecorating?"
+            ],
+            [
+                3,
+                "Great, what\u2019d you have in mind?"
+            ],
+            [
+                5,
+                "Well, how about we start a little smaller? Like moving the furniture around."
+            ],
+            [
+                7,
+                "Look, we can\u2019t just throw away Penny\u2019s stuff, but we can ask if she wants any of it back."
+            ],
+            [
+                9,
+                "Well, I\u2019m sure she misses this one. I mean, it\u2019s the greatest gift I\u2019ve ever given anybody."
+            ],
+            [
+                11,
+                "It may have appreciated in value. The artist killed himself shortly after painting that."
+            ],
+            [
+                13,
+                "I can\u2019t wait to see the look on her face when I give it to her again."
+            ],
+            [
+                24,
+                "Well, it would be selfish of me to keep it."
+            ],
+            [
+                26,
+                "And you."
+            ],
+            [
+                28,
+                "To give to you."
+            ],
+            [
+                30,
+                "So do you."
+            ],
+            [
+                77,
+                "Thank you?"
+            ],
+            [
+                87,
+                "Sheldon, you\u2019re, you\u2019re being a little selfish. Why don\u2019t you let Leonard keep a few things?"
+            ],
+            [
+                99,
+                "I don\u2019t think you do, but all right."
+            ],
+            [
+                133,
+                "I\u2019ve got the Neosporin. Who got hurt?"
+            ],
+            [
+                224,
+                "I think he might be right. Also, who is that?"
+            ],
+            [
+                230,
+                "So, no one\u2019s gonna tell me? Okay."
+            ]
+        ],
+        "Sheldon": [
+            [
+                2,
+                "Oh, actually, I would."
+            ],
+            [
+                4,
+                "Let\u2019s take every single thing from the other apartment and put it in here."
+            ],
+            [
+                6,
+                "You know, I have always thought that this couch would look fantastic on the curb in front of the building."
+            ],
+            [
+                8,
+                "You know, I wonder how she feels about all this artwork."
+            ],
+            [
+                10,
+                "It truly does capture the beauty of your friendship with Penny."
+            ],
+            [
+                12,
+                "Yeah, it seems only right that she have it back."
+            ],
+            [
+                15,
+                "Look, it\u2019s the same smile she has in the painting."
+            ],
+            [
+                18,
+                "Yeah, there\u2019s hooks in the closet, I can hang it right now."
+            ],
+            [
+                20,
+                "What happened to them?"
+            ],
+            [
+                33,
+                "You know, Leonard, the more I think about it, there are a number of mutually owned items in this apartment that you and I should go through. Uh, for example, who gets our beloved sword, Longclaw?"
+            ],
+            [
+                35,
+                "That seems fair, we did just give you the painting."
+            ],
+            [
+                37,
+                "Wonderful, Longclaw is mine. And how about you keep our avocado plant?"
+            ],
+            [
+                39,
+                "Although, Amy and I did just move in together, and a plant is a lovely housewarming gift."
+            ],
+            [
+                41,
+                "Oh, we got a sword and a plant, our apartment\u2019s really shaping up."
+            ],
+            [
+                66,
+                "Oh. Remember when we got this at Comic-Con?"
+            ],
+            [
+                69,
+                "It\u2019s one of a kind."
+            ],
+            [
+                71,
+                "Well, Leonard, you know, who should keep this? On the one hand, I love Mr. Spock more than you do. On the other hand, I care more about clocks than you do."
+            ],
+            [
+                73,
+                "I\u2019ll be right across the hall. You\u2019ll probably be able to hear it."
+            ],
+            [
+                75,
+                "Thank you."
+            ],
+            [
+                78,
+                "Oh, now, what about our 3-D chess set?"
+            ],
+            [
+                80,
+                "Well, no, I just didn\u2019t think you\u2019d want a physical reminder of a game you never managed to win. As a kindness, I should probably take all the games."
+            ],
+            [
+                82,
+                "Are you sure? These items represent our shared times together."
+            ],
+            [
+                86,
+                "For a man so good at predicting my moves, how come you stink at 3-D chess?"
+            ],
+            [
+                88,
+                "It\u2019s not my fault I\u2019m bad at sharing, I skipped kindergarten."
+            ],
+            [
+                90,
+                "Yeah, take whatever you want."
+            ],
+            [
+                92,
+                "But you don\u2019t even like flags."
+            ],
+            [
+                94,
+                "But I designed it."
+            ],
+            [
+                96,
+                "But you don\u2019t even understand its symbolism."
+            ],
+            [
+                98,
+                "Come along, Amy. I know when I\u2019m not wanted."
+            ],
+            [
+                128,
+                "Well, powder me in sugar and call me a doughnut, if it isn\u2019t Leonard Hofstadter."
+            ],
+            [
+                130,
+                "If it\u2019s like your 3-D chess game, then you\u2019re out of your length, width and depth. Amy, get the Neosporin, somebody just got burned."
+            ],
+            [
+                132,
+                "All right, I tried. That should be the title of your autobiography. Ooh, a second-degree burn."
+            ],
+            [
+                134,
+                "It\u2019s a good thing you\u2019re cute."
+            ],
+            [
+                154,
+                "What do you think you\u2019re doing?"
+            ],
+            [
+                156,
+                "This is the level you\u2019re stooping to."
+            ],
+            [
+                181,
+                "So, there are fresh linens on the bed and, oh, well, now, I see you\u2019ve met Theodore. Theodore, these are your new room mates, Leonard and Penny. They\u2019re very honest, but I would not leave cash lying around."
+            ],
+            [
+                183,
+                "My room is paid up until the end of the month, so I can do with it whatever I please, which includes renting it out for a dollar a night."
+            ],
+            [
+                185,
+                "Anyway, I\u2019ll leave you be. I have to, oh, oh, he\u2019s expecting a newspaper in the morning. Apparently, they still make them."
+            ],
+            [
+                187,
+                "That\u2019s true, but had I done something under the line, there wouldn\u2019t be a man in your kitchen who can\u2019t produce a single form of ID."
+            ],
+            [
+                189,
+                "And now you know as much about him as I do."
+            ],
+            [
+                215,
+                "Will you keep it down? What kind of vengeful bed and breakfast do you think I\u2019m running?"
+            ],
+            [
+                217,
+                "I\u2019m being awful? You\u2019re the one who went out of your way to hurt me."
+            ],
+            [
+                219,
+                "Dividing our belongings is difficult."
+            ],
+            [
+                225,
+                "I have to admit, leaving you to move in with Amy has been harder than I thought it would be."
+            ],
+            [
+                231,
+                "Leonard, I would like us to stop fighting about our possessions."
+            ],
+            [
+                233,
+                "In fact, I want you to keep the apartment flag, and I\u2019m not just saying that because it touched your genitals."
+            ],
+            [
+                235,
+                "I do. And to show you that there are no hard feelings, I am willing to rub my genitals on it as well."
+            ]
+        ],
+        "Penny": [
+            [
+                19,
+                "Oh, no, no, those hooks are gone."
+            ],
+            [
+                21,
+                "Uh, we ran out of candy on Halloween, I was just giving everything away."
+            ],
+            [
+                23,
+                "Amy wants me to have it."
+            ],
+            [
+                25,
+                "But it\u2019s a picture of you."
+            ],
+            [
+                27,
+                "But you commissioned it."
+            ],
+            [
+                29,
+                "But you like it so much."
+            ],
+            [
+                31,
+                "I seem to be losing."
+            ],
+            [
+                34,
+                "Why don\u2019t you keep it?"
+            ],
+            [
+                36,
+                "Yeah, I don\u2019t need anything around that I can stab myself with."
+            ],
+            [
+                70,
+                "So if it breaks there\u2019d be none of it?"
+            ],
+            [
+                76,
+                "Thank you."
+            ],
+            [
+                84,
+                "Leonard."
+            ],
+            [
+                120,
+                "Uh, hang on. I don\u2019t think so, I\u2019m clicking on one weird trick for a flat belly, but I\u2019m still seeing celebrities who look like their pets."
+            ],
+            [
+                122,
+                "Are you sure?"
+            ],
+            [
+                124,
+                "What a jerk."
+            ],
+            [
+                126,
+                "Well, my go-to move is usually sleep with the person\u2019s boyfriend, but I kind of feel like I\u2019m already doing that."
+            ],
+            [
+                173,
+                "I think I\u2019m gonna go for a run, you want to come?"
+            ],
+            [
+                178,
+                "What, what are you doing in our apartment?"
+            ],
+            [
+                186,
+                "All right, Sheldon, this is over the line."
+            ],
+            [
+                207,
+                "What do you think? Should we go to a hotel?"
+            ],
+            [
+                209,
+                "Okay, I\u2019ll go to a hotel. Text me in the morning if you\u2019re still alive."
+            ],
+            [
+                229,
+                "We\u2019re good, thank you."
+            ],
+            [
+                238,
+                "Little lower to the left. A little more."
+            ],
+            [
+                240,
+                "No, still hideous."
+            ],
+            [
+                242,
+                "Yeah, you\u2019d think that, but after a while it starts showing up in your dreams."
+            ]
+        ],
+        "Leonard": [
+            [
+                22,
+                "Hey, guys, what are you, oh, that\u2019s here, cool."
+            ],
+            [
+                32,
+                "Yes, you do."
+            ],
+            [
+                38,
+                "Sounds right, a limited edition collectible worth hundreds of dollars and a thing that grew out of a thing we fished from the trash."
+            ],
+            [
+                40,
+                "Fine, take the plant."
+            ],
+            [
+                67,
+                "Oh, yeah. The Mr. Spock cuckoo clock."
+            ],
+            [
+                72,
+                "So you think you should keep it?"
+            ],
+            [
+                74,
+                "Keep the clock, Sheldon."
+            ],
+            [
+                79,
+                "Let me guess, you want it."
+            ],
+            [
+                81,
+                "You know what, Sheldon, take it. In fact, you can have everything, I really don\u2019t care."
+            ],
+            [
+                83,
+                "Well, now they\u2019re yours."
+            ],
+            [
+                85,
+                "Well, you know what\u2019s gonna happen, he\u2019s just gonna come up with some reason why everything should be his."
+            ],
+            [
+                89,
+                "You know what? There is one thing I would like."
+            ],
+            [
+                91,
+                "I would like to keep the official flag of our apartment."
+            ],
+            [
+                93,
+                "Yeah, I like this one."
+            ],
+            [
+                95,
+                "But you made me order it because you were too well-known in the flag community and they\u2019d jack up the price."
+            ],
+            [
+                97,
+                "Oh, I do. The, the field of blue represents you being miserable, and the lion sticking its tongue out means I\u2019m happy about it."
+            ],
+            [
+                119,
+                "Is the Wi-Fi working for you?"
+            ],
+            [
+                121,
+                "Oh, I knew it, Sheldon changed the password."
+            ],
+            [
+                123,
+                "Well, the new network name is ha ha ha, now I\u2019ve got you, so it\u2019s either Sheldon or Gargamel from The Smurfs."
+            ],
+            [
+                125,
+                "You\u2019re good at revenge, how do we get him back?"
+            ],
+            [
+                127,
+                "Sheldon, I know what you did, now change the password back."
+            ],
+            [
+                129,
+                "Sheldon, I\u2019m warning you, I can play this game, too."
+            ],
+            [
+                131,
+                "All right, I tried."
+            ],
+            [
+                153,
+                "Hey."
+            ],
+            [
+                155,
+                "Separating my delicates."
+            ],
+            [
+                157,
+                "No. This is the level I am stooping to. I believe that is flag to crotch four, checkmate. Easy-peasy, ooh, so breezy."
+            ],
+            [
+                174,
+                "No, last time that old lady in the park kept screaming, watch out, he\u2019s right behind you. Hello?"
+            ],
+            [
+                176,
+                "Uh, can I help you?"
+            ],
+            [
+                180,
+                "Unbelievable. Okay, uh, I don\u2019t know what he told you, but you can\u2019t stay here."
+            ],
+            [
+                182,
+                "Sheldon, what do you think you\u2019re doing? "
+            ],
+            [
+                208,
+                "And just leave him here alone?"
+            ],
+            [
+                210,
+                "Uh, Theodore, how long are you planning to stay exactly?"
+            ],
+            [
+                212,
+                "This is ridiculous."
+            ],
+            [
+                214,
+                "Sheldon, get out here."
+            ],
+            [
+                216,
+                "We lived together 13 years. How can you be so awful to me?"
+            ],
+            [
+                218,
+                "Because you were being selfish."
+            ],
+            [
+                220,
+                "Why? I said I didn\u2019t care."
+            ],
+            [
+                222,
+                "Yeah, thanks, but nobody asked you."
+            ],
+            [
+                226,
+                "Well, for me, too. It\u2019s not the same with you gone."
+            ],
+            [
+                228,
+                "No. "
+            ],
+            [
+                232,
+                "Well, I\u2019d like that, too. "
+            ],
+            [
+                234,
+                "You promise?"
+            ],
+            [
+                239,
+                "Good?"
+            ],
+            [
+                241,
+                "Well, I\u2019m sure at some point, we won\u2019t even notice it\u2019s there."
+            ]
+        ],
+        "Bernadette": [
+            [
+                43,
+                "Stuart, you didn\u2019t have to get us a baby gift."
+            ],
+            [
+                45,
+                "A foot massage?"
+            ],
+            [
+                48,
+                "How come this one\u2019s on the back of an eviction notice?"
+            ],
+            [
+                50,
+                "Stuart, we\u2019d love to help you out, but this a bad time, we\u2019re about to have a baby."
+            ],
+            [
+                52,
+                "Thank you, but I\u2019m not really sure."
+            ],
+            [
+                55,
+                "I guess you could stay for a few days and we\u2019ll see how it goes."
+            ],
+            [
+                59,
+                "Hmm. Actually I just did that this morning."
+            ],
+            [
+                61,
+                "I did that, too."
+            ],
+            [
+                63,
+                "Howard just did that."
+            ],
+            [
+                101,
+                "Stuart, you cooked?"
+            ],
+            [
+                103,
+                "There\u2019s only three people in this house, and you\u2019d still be my fifth guess."
+            ],
+            [
+                107,
+                "You have a Batsuit."
+            ],
+            [
+                137,
+                "Yeah, we\u2019ve been meaning to do that."
+            ],
+            [
+                141,
+                "Thank you again for cooking. It\u2019s getting tough for me to be on my feet all day."
+            ],
+            [
+                151,
+                "Do something, Batman."
+            ],
+            [
+                192,
+                "Great, go with the giraffes."
+            ],
+            [
+                194,
+                "Yeah, you\u2019re probably right, go with the zebras."
+            ],
+            [
+                197,
+                "Hey, could you please go to the market for me?"
+            ],
+            [
+                199,
+                "Howie, they\u2019ve been doing everything for you."
+            ],
+            [
+                201,
+                "Please just go to the store."
+            ],
+            [
+                205,
+                "Take Raj. Stuart is supposed to paint my toenails."
+            ],
+            [
+                252,
+                "I think I\u2019m in labour."
+            ],
+            [
+                259,
+                "I love you, too."
+            ]
+        ],
+        "Stuart": [
+            [
+                44,
+                "Oh. Just homemade coupons for things you might need help with before the baby gets here. Going to the grocery store, driving you to the doctor, if you\u2019re not in a hurry I can dig you a koi pond."
+            ],
+            [
+                46,
+                "And that\u2019s not me being creepy, that\u2019s for either of you."
+            ],
+            [
+                49,
+                "Oh, yeah. Uh, now that you mention it, can I live here?"
+            ],
+            [
+                51,
+                "Or is that why this is a great time? Think about it, when that baby comes you\u2019re gonna need all the help you can get."
+            ],
+            [
+                54,
+                "That woman didn\u2019t get heat rash once with me on powder patrol."
+            ],
+            [
+                56,
+                "Thank you. And it\u2019s only temporary, just till I get back on my feet, or the baby goes off to college, whichever happens first."
+            ],
+            [
+                58,
+                "Well, uh, my car broke down in your driveway, so I\u2019m gonna say now. But I am ready to be helpful. In fact, I\u2019m gonna go vacuum."
+            ],
+            [
+                60,
+                "Okay, then I\u2019ll dust."
+            ],
+            [
+                62,
+                "Then I\u2019ll check the batteries in the smoke detectors."
+            ],
+            [
+                105,
+                "You guys relax, I\u2019ll get it. Have some bread while it\u2019s still warm."
+            ],
+            [
+                109,
+                "Hey, Raj."
+            ],
+            [
+                111,
+                "Oh, I\u2019m living here again."
+            ],
+            [
+                113,
+                "No, I needed a place to stay and, with the baby coming, I figured they could use some extra help."
+            ],
+            [
+                115,
+                "Anyway, come on in, dinner\u2019s ready."
+            ],
+            [
+                117,
+                "Oh, okay. Well, if Bernadette wants her ankles to swell up even more, she can have that."
+            ],
+            [
+                138,
+                "Oh, I know a CPR instructor who\u2019ll come to the house."
+            ],
+            [
+                140,
+                "I\u2019ll give him a call. We met when I was sleeping on the beach and he thought I was dead."
+            ],
+            [
+                142,
+                "You just kick back and relax, I\u2019ve got it all under control."
+            ],
+            [
+                144,
+                "I\u2019m sorry, you mumbled something?"
+            ],
+            [
+                146,
+                "Well, you know what they say, it takes a village."
+            ],
+            [
+                148,
+                "I noticed the village couldn\u2019t find time to put the crib together."
+            ],
+            [
+                150,
+                "You mean the one with the empty beer bottles in the sandbox? We\u2019ll pass, thank you."
+            ],
+            [
+                159,
+                "Hey, what\u2019s up?"
+            ],
+            [
+                161,
+                "Ooh, sorry, I already did it."
+            ],
+            [
+                163,
+                "Oh, yeah, I read about that on WhoGivesACrap.com"
+            ],
+            [
+                165,
+                "Because I love Howard and Bernadette and if I want to keep mooching off them, I need to be helpful."
+            ],
+            [
+                167,
+                "Why can\u2019t there be four wheels?"
+            ],
+            [
+                169,
+                "Look, just come in and help me build a baby swing."
+            ],
+            [
+                171,
+                "If you\u2019re hungry you can eat your take-out, nobody touched it."
+            ],
+            [
+                193,
+                "Although the high contrast of zebra stripes might provide better stimulus for a developing baby."
+            ],
+            [
+                195,
+                "Good choice, boss."
+            ],
+            [
+                247,
+                "Why do you get to do it? I\u2019m the artist."
+            ],
+            [
+                249,
+                "Just because I look sickly doesn\u2019t mean I\u2019m starving."
+            ],
+            [
+                254,
+                "I\u2019ll get the hospital bag."
+            ],
+            [
+                256,
+                "Meet you outside in 2 minutes."
+            ],
+            [
+                260,
+                "Are we hugging or having a baby? Let\u2019s go."
+            ]
+        ],
+        "Howard": [
+            [
+                47,
+                "This is very nice Stuart, thank you."
+            ],
+            [
+                53,
+                "Hang on, maybe it\u2019s not the worst idea. I mean, he did do a good job taking care of my mother."
+            ],
+            [
+                57,
+                "When would you move in?"
+            ],
+            [
+                64,
+                "Yeah, let him do it."
+            ],
+            [
+                102,
+                "How did you know it wasn\u2019t me?"
+            ],
+            [
+                106,
+                "It\u2019s like we have a butler. If I had a Batsuit I\u2019d be Bruce Wayne."
+            ],
+            [
+                108,
+                "It\u2019s pajamas, there\u2019s no cape."
+            ],
+            [
+                139,
+                "That\u2019d be great."
+            ],
+            [
+                198,
+                "Get Stuart or Raj to do it."
+            ],
+            [
+                200,
+                "Mm, I know. It\u2019s really making me lose respect for both of them."
+            ],
+            [
+                202,
+                "Fine. Who wants to drive me to the store?"
+            ],
+            [
+                245,
+                "Hey, tomorrow who wants to paint the nursery?"
+            ],
+            [
+                251,
+                "Guys, you heard her, go see what she wants."
+            ],
+            [
+                253,
+                "Oh, oh, okay, okay, uh, uh, uh, I can do this. We have a plan. Somebody please tell me the plan."
+            ],
+            [
+                258,
+                "I love you."
+            ]
+        ],
+        "Mr Spock Cuckoo Clock": [
+            [
+                68,
+                "Live long and prosper. Live long and prosper. Live long and prosper. Live long and prosper."
+            ]
+        ],
+        "Howard (door bell rings)": [
+            [
+                104,
+                "That\u2019s Raj."
+            ]
+        ],
+        "Raj": [
+            [
+                110,
+                "Hey, Stuart. What are you doing here?"
+            ],
+            [
+                112,
+                "Do, uh, Howard and Bernadette know? Or is it like a possum in the walls kind of thing?"
+            ],
+            [
+                114,
+                "Okay, cool."
+            ],
+            [
+                116,
+                "Oh, but I bought Chinese takeout."
+            ],
+            [
+                136,
+                "So, I was reading how it\u2019s a good idea for new parents to take an infant CPR class."
+            ],
+            [
+                143,
+                "Although it was already under control."
+            ],
+            [
+                145,
+                "It\u2019s just that they\u2019ve had plenty of help."
+            ],
+            [
+                147,
+                "Well, they already had a village."
+            ],
+            [
+                149,
+                "Yeah, well, maybe the village was too busy checking out the local Montessori school for the new arrival."
+            ],
+            [
+                160,
+                "I\u2019m here to put the crib together."
+            ],
+            [
+                162,
+                "Well I don\u2019t know if you realize this, but I bought that crib."
+            ],
+            [
+                164,
+                "Why are you being like this?"
+            ],
+            [
+                166,
+                "Hey, this pregnancy had an emotionally-needy third wheel way before you came along."
+            ],
+            [
+                168,
+                "Is this what you do when I\u2019m not here, make really good points?"
+            ],
+            [
+                170,
+                "Thank you."
+            ],
+            [
+                191,
+                "Oh, hey, Bernadette, the swing comes with two different mobiles. The giraffes are pretty cute, what do you think?"
+            ],
+            [
+                196,
+                "At least my nose is naturally brown."
+            ],
+            [
+                246,
+                "I\u2019ll do it."
+            ],
+            [
+                248,
+                "Just because you\u2019re starving doesn\u2019t make you an artist."
+            ],
+            [
+                255,
+                "I\u2019ll pull the van up."
+            ],
+            [
+                257,
+                "Team Baby, go."
+            ]
+        ],
+        "Strange old man": [
+            [
+                175,
+                "Hey, how you doing?"
+            ],
+            [
+                177,
+                "I don\u2019t think so, but you\u2019re sweet for asking."
+            ],
+            [
+                179,
+                "Oh, I rented a room from your neighbour, the tall guy dressed like a little boy."
+            ]
+        ],
+        "Theodore": [
+            [
+                184,
+                "It\u2019s like the \u201940s again."
+            ],
+            [
+                188,
+                "Oh, oh, I have a receipt from a blood bank. I\u2019m O-negative."
+            ],
+            [
+                211,
+                "Oh, thanks to the coins I found in your couch, a day longer than I thought."
+            ],
+            [
+                213,
+                "I like the painting. Is that your mom?"
+            ],
+            [
+                221,
+                "Excuse me. It\u2019s none of my business, but it sounds like a lot of this anger is coming from love."
+            ],
+            [
+                223,
+                "Well, I\u2019m just gonna keep on talking. Seems like, with Sheldon moving out, you\u2019re in a new phase of your lives and it\u2019s easier to fight than to face the feelings that you have for one another."
+            ],
+            [
+                227,
+                "If you\u2019re looking for a new guy to live with."
+            ],
+            [
+                236,
+                "Well if we\u2019re rubbing genitals on things, that\u2019s where I shine."
+            ],
+            [
+                243,
+                "I think it brings the room together."
+            ]
+        ],
+        "Raj (off)": [
+            [
+                203,
+                "Me"
+            ]
+        ],
+        "Stuart (off)": [
+            [
+                204,
+                "I\u2019ll do it."
+            ]
+        ],
+        "Bernadette (off)": [
+            [
+                250,
+                "Howard!"
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "Sheldon and Amy\u2019s apartment."
+        ],
+        [
+            "Amy",
+            "If we\u2019re going to be staying in this apartment, would you be interested in doing a little redecorating?"
+        ],
+        [
+            "Sheldon",
+            "Oh, actually, I would."
+        ],
+        [
+            "Amy",
+            "Great, what\u2019d you have in mind?"
+        ],
+        [
+            "Sheldon",
+            "Let\u2019s take every single thing from the other apartment and put it in here."
+        ],
+        [
+            "Amy",
+            "Well, how about we start a little smaller? Like moving the furniture around."
+        ],
+        [
+            "Sheldon",
+            "You know, I have always thought that this couch would look fantastic on the curb in front of the building."
+        ],
+        [
+            "Amy",
+            "Look, we can\u2019t just throw away Penny\u2019s stuff, but we can ask if she wants any of it back."
+        ],
+        [
+            "Sheldon",
+            "You know, I wonder how she feels about all this artwork."
+        ],
+        [
+            "Amy",
+            "Well, I\u2019m sure she misses this one. I mean, it\u2019s the greatest gift I\u2019ve ever given anybody."
+        ],
+        [
+            "Sheldon",
+            "It truly does capture the beauty of your friendship with Penny."
+        ],
+        [
+            "Amy",
+            "It may have appreciated in value. The artist killed himself shortly after painting that."
+        ],
+        [
+            "Sheldon",
+            "Yeah, it seems only right that she have it back."
+        ],
+        [
+            "Amy",
+            "I can\u2019t wait to see the look on her face when I give it to her again."
+        ],
+        [
+            "Scene",
+            "At the apartment door. "
+        ],
+        [
+            "Sheldon",
+            "Look, it\u2019s the same smile she has in the painting."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "Yeah, there\u2019s hooks in the closet, I can hang it right now."
+        ],
+        [
+            "Penny",
+            "Oh, no, no, those hooks are gone."
+        ],
+        [
+            "Sheldon",
+            "What happened to them?"
+        ],
+        [
+            "Penny",
+            "Uh, we ran out of candy on Halloween, I was just giving everything away."
+        ],
+        [
+            "Leonard",
+            "Hey, guys, what are you, oh, that\u2019s here, cool."
+        ],
+        [
+            "Penny",
+            "Amy wants me to have it."
+        ],
+        [
+            "Amy",
+            "Well, it would be selfish of me to keep it."
+        ],
+        [
+            "Penny",
+            "But it\u2019s a picture of you."
+        ],
+        [
+            "Amy",
+            "And you."
+        ],
+        [
+            "Penny",
+            "But you commissioned it."
+        ],
+        [
+            "Amy",
+            "To give to you."
+        ],
+        [
+            "Penny",
+            "But you like it so much."
+        ],
+        [
+            "Amy",
+            "So do you."
+        ],
+        [
+            "Penny",
+            "I seem to be losing."
+        ],
+        [
+            "Leonard",
+            "Yes, you do."
+        ],
+        [
+            "Sheldon",
+            "You know, Leonard, the more I think about it, there are a number of mutually owned items in this apartment that you and I should go through. Uh, for example, who gets our beloved sword, Longclaw?"
+        ],
+        [
+            "Penny",
+            "Why don\u2019t you keep it?"
+        ],
+        [
+            "Sheldon",
+            "That seems fair, we did just give you the painting."
+        ],
+        [
+            "Penny",
+            "Yeah, I don\u2019t need anything around that I can stab myself with."
+        ],
+        [
+            "Sheldon",
+            "Wonderful, Longclaw is mine. And how about you keep our avocado plant?"
+        ],
+        [
+            "Leonard",
+            "Sounds right, a limited edition collectible worth hundreds of dollars and a thing that grew out of a thing we fished from the trash."
+        ],
+        [
+            "Sheldon",
+            "Although, Amy and I did just move in together, and a plant is a lovely housewarming gift."
+        ],
+        [
+            "Leonard",
+            "Fine, take the plant."
+        ],
+        [
+            "Sheldon",
+            "Oh, we got a sword and a plant, our apartment\u2019s really shaping up."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s kitchen. "
+        ],
+        [
+            "Bernadette",
+            "Stuart, you didn\u2019t have to get us a baby gift."
+        ],
+        [
+            "Stuart",
+            "Oh. Just homemade coupons for things you might need help with before the baby gets here. Going to the grocery store, driving you to the doctor, if you\u2019re not in a hurry I can dig you a koi pond."
+        ],
+        [
+            "Bernadette",
+            "A foot massage?"
+        ],
+        [
+            "Stuart",
+            "And that\u2019s not me being creepy, that\u2019s for either of you."
+        ],
+        [
+            "Howard",
+            "This is very nice Stuart, thank you."
+        ],
+        [
+            "Bernadette",
+            "How come this one\u2019s on the back of an eviction notice?"
+        ],
+        [
+            "Stuart",
+            "Oh, yeah. Uh, now that you mention it, can I live here?"
+        ],
+        [
+            "Bernadette",
+            "Stuart, we\u2019d love to help you out, but this a bad time, we\u2019re about to have a baby."
+        ],
+        [
+            "Stuart",
+            "Or is that why this is a great time? Think about it, when that baby comes you\u2019re gonna need all the help you can get."
+        ],
+        [
+            "Bernadette",
+            "Thank you, but I\u2019m not really sure."
+        ],
+        [
+            "Howard",
+            "Hang on, maybe it\u2019s not the worst idea. I mean, he did do a good job taking care of my mother."
+        ],
+        [
+            "Stuart",
+            "That woman didn\u2019t get heat rash once with me on powder patrol."
+        ],
+        [
+            "Bernadette",
+            "I guess you could stay for a few days and we\u2019ll see how it goes."
+        ],
+        [
+            "Stuart",
+            "Thank you. And it\u2019s only temporary, just till I get back on my feet, or the baby goes off to college, whichever happens first."
+        ],
+        [
+            "Howard",
+            "When would you move in?"
+        ],
+        [
+            "Stuart",
+            "Well, uh, my car broke down in your driveway, so I\u2019m gonna say now. But I am ready to be helpful. In fact, I\u2019m gonna go vacuum."
+        ],
+        [
+            "Bernadette",
+            "Hmm. Actually I just did that this morning."
+        ],
+        [
+            "Stuart",
+            "Okay, then I\u2019ll dust."
+        ],
+        [
+            "Bernadette",
+            "I did that, too."
+        ],
+        [
+            "Stuart",
+            "Then I\u2019ll check the batteries in the smoke detectors."
+        ],
+        [
+            "Bernadette",
+            "Howard just did that."
+        ],
+        [
+            "Howard",
+            "Yeah, let him do it."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Sheldon",
+            "Oh. Remember when we got this at Comic-Con?"
+        ],
+        [
+            "Leonard",
+            "Oh, yeah. The Mr. Spock cuckoo clock."
+        ],
+        [
+            "Mr Spock Cuckoo Clock",
+            "Live long and prosper. Live long and prosper. Live long and prosper. Live long and prosper."
+        ],
+        [
+            "Sheldon",
+            "It\u2019s one of a kind."
+        ],
+        [
+            "Penny",
+            "So if it breaks there\u2019d be none of it?"
+        ],
+        [
+            "Sheldon",
+            "Well, Leonard, you know, who should keep this? On the one hand, I love Mr. Spock more than you do. On the other hand, I care more about clocks than you do."
+        ],
+        [
+            "Leonard",
+            "So you think you should keep it?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019ll be right across the hall. You\u2019ll probably be able to hear it."
+        ],
+        [
+            "Leonard",
+            "Keep the clock, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "Thank you."
+        ],
+        [
+            "Penny",
+            "Thank you."
+        ],
+        [
+            "Amy",
+            "Thank you?"
+        ],
+        [
+            "Sheldon",
+            "Oh, now, what about our 3-D chess set?"
+        ],
+        [
+            "Leonard",
+            "Let me guess, you want it."
+        ],
+        [
+            "Sheldon",
+            "Well, no, I just didn\u2019t think you\u2019d want a physical reminder of a game you never managed to win. As a kindness, I should probably take all the games."
+        ],
+        [
+            "Leonard",
+            "You know what, Sheldon, take it. In fact, you can have everything, I really don\u2019t care."
+        ],
+        [
+            "Sheldon",
+            "Are you sure? These items represent our shared times together."
+        ],
+        [
+            "Leonard",
+            "Well, now they\u2019re yours."
+        ],
+        [
+            "Penny",
+            "Leonard."
+        ],
+        [
+            "Leonard",
+            "Well, you know what\u2019s gonna happen, he\u2019s just gonna come up with some reason why everything should be his."
+        ],
+        [
+            "Sheldon",
+            "For a man so good at predicting my moves, how come you stink at 3-D chess?"
+        ],
+        [
+            "Amy",
+            "Sheldon, you\u2019re, you\u2019re being a little selfish. Why don\u2019t you let Leonard keep a few things?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s not my fault I\u2019m bad at sharing, I skipped kindergarten."
+        ],
+        [
+            "Leonard",
+            "You know what? There is one thing I would like."
+        ],
+        [
+            "Sheldon",
+            "Yeah, take whatever you want."
+        ],
+        [
+            "Leonard",
+            "I would like to keep the official flag of our apartment."
+        ],
+        [
+            "Sheldon",
+            "But you don\u2019t even like flags."
+        ],
+        [
+            "Leonard",
+            "Yeah, I like this one."
+        ],
+        [
+            "Sheldon",
+            "But I designed it."
+        ],
+        [
+            "Leonard",
+            "But you made me order it because you were too well-known in the flag community and they\u2019d jack up the price."
+        ],
+        [
+            "Sheldon",
+            "But you don\u2019t even understand its symbolism."
+        ],
+        [
+            "Leonard",
+            "Oh, I do. The, the field of blue represents you being miserable, and the lion sticking its tongue out means I\u2019m happy about it."
+        ],
+        [
+            "Sheldon",
+            "Come along, Amy. I know when I\u2019m not wanted."
+        ],
+        [
+            "Amy",
+            "I don\u2019t think you do, but all right."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s dining room."
+        ],
+        [
+            "Bernadette",
+            "Stuart, you cooked?"
+        ],
+        [
+            "Howard",
+            "How did you know it wasn\u2019t me?"
+        ],
+        [
+            "Bernadette",
+            "There\u2019s only three people in this house, and you\u2019d still be my fifth guess."
+        ],
+        [
+            "Howard (door bell rings)",
+            "That\u2019s Raj."
+        ],
+        [
+            "Stuart",
+            "You guys relax, I\u2019ll get it. Have some bread while it\u2019s still warm."
+        ],
+        [
+            "Howard",
+            "It\u2019s like we have a butler. If I had a Batsuit I\u2019d be Bruce Wayne."
+        ],
+        [
+            "Bernadette",
+            "You have a Batsuit."
+        ],
+        [
+            "Howard",
+            "It\u2019s pajamas, there\u2019s no cape."
+        ],
+        [
+            "Stuart",
+            "Hey, Raj."
+        ],
+        [
+            "Raj",
+            "Hey, Stuart. What are you doing here?"
+        ],
+        [
+            "Stuart",
+            "Oh, I\u2019m living here again."
+        ],
+        [
+            "Raj",
+            "Do, uh, Howard and Bernadette know? Or is it like a possum in the walls kind of thing?"
+        ],
+        [
+            "Stuart",
+            "No, I needed a place to stay and, with the baby coming, I figured they could use some extra help."
+        ],
+        [
+            "Raj",
+            "Okay, cool."
+        ],
+        [
+            "Stuart",
+            "Anyway, come on in, dinner\u2019s ready."
+        ],
+        [
+            "Raj",
+            "Oh, but I bought Chinese takeout."
+        ],
+        [
+            "Stuart",
+            "Oh, okay. Well, if Bernadette wants her ankles to swell up even more, she can have that."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Leonard",
+            "Is the Wi-Fi working for you?"
+        ],
+        [
+            "Penny",
+            "Uh, hang on. I don\u2019t think so, I\u2019m clicking on one weird trick for a flat belly, but I\u2019m still seeing celebrities who look like their pets."
+        ],
+        [
+            "Leonard",
+            "Oh, I knew it, Sheldon changed the password."
+        ],
+        [
+            "Penny",
+            "Are you sure?"
+        ],
+        [
+            "Leonard",
+            "Well, the new network name is ha ha ha, now I\u2019ve got you, so it\u2019s either Sheldon or Gargamel from The Smurfs."
+        ],
+        [
+            "Penny",
+            "What a jerk."
+        ],
+        [
+            "Leonard",
+            "You\u2019re good at revenge, how do we get him back?"
+        ],
+        [
+            "Penny",
+            "Well, my go-to move is usually sleep with the person\u2019s boyfriend, but I kind of feel like I\u2019m already doing that."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I know what you did, now change the password back."
+        ],
+        [
+            "Sheldon",
+            "Well, powder me in sugar and call me a doughnut, if it isn\u2019t Leonard Hofstadter."
+        ],
+        [
+            "Leonard",
+            "Sheldon, I\u2019m warning you, I can play this game, too."
+        ],
+        [
+            "Sheldon",
+            "If it\u2019s like your 3-D chess game, then you\u2019re out of your length, width and depth. Amy, get the Neosporin, somebody just got burned."
+        ],
+        [
+            "Leonard",
+            "All right, I tried."
+        ],
+        [
+            "Sheldon",
+            "All right, I tried. That should be the title of your autobiography. Ooh, a second-degree burn."
+        ],
+        [
+            "Amy",
+            "I\u2019ve got the Neosporin. Who got hurt?"
+        ],
+        [
+            "Sheldon",
+            "It\u2019s a good thing you\u2019re cute."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s dining room. "
+        ],
+        [
+            "Raj",
+            "So, I was reading how it\u2019s a good idea for new parents to take an infant CPR class."
+        ],
+        [
+            "Bernadette",
+            "Yeah, we\u2019ve been meaning to do that."
+        ],
+        [
+            "Stuart",
+            "Oh, I know a CPR instructor who\u2019ll come to the house."
+        ],
+        [
+            "Howard",
+            "That\u2019d be great."
+        ],
+        [
+            "Stuart",
+            "I\u2019ll give him a call. We met when I was sleeping on the beach and he thought I was dead."
+        ],
+        [
+            "Bernadette",
+            "Thank you again for cooking. It\u2019s getting tough for me to be on my feet all day."
+        ],
+        [
+            "Stuart",
+            "You just kick back and relax, I\u2019ve got it all under control."
+        ],
+        [
+            "Raj",
+            "Although it was already under control."
+        ],
+        [
+            "Stuart",
+            "I\u2019m sorry, you mumbled something?"
+        ],
+        [
+            "Raj",
+            "It\u2019s just that they\u2019ve had plenty of help."
+        ],
+        [
+            "Stuart",
+            "Well, you know what they say, it takes a village."
+        ],
+        [
+            "Raj",
+            "Well, they already had a village."
+        ],
+        [
+            "Stuart",
+            "I noticed the village couldn\u2019t find time to put the crib together."
+        ],
+        [
+            "Raj",
+            "Yeah, well, maybe the village was too busy checking out the local Montessori school for the new arrival."
+        ],
+        [
+            "Stuart",
+            "You mean the one with the empty beer bottles in the sandbox? We\u2019ll pass, thank you."
+        ],
+        [
+            "Bernadette",
+            "Do something, Batman."
+        ],
+        [
+            "Scene",
+            "The laundry room."
+        ],
+        [
+            "Leonard",
+            "Hey."
+        ],
+        [
+            "Sheldon",
+            "What do you think you\u2019re doing?"
+        ],
+        [
+            "Leonard",
+            "Separating my delicates."
+        ],
+        [
+            "Sheldon",
+            "This is the level you\u2019re stooping to."
+        ],
+        [
+            "Leonard",
+            "No. This is the level I am stooping to. I believe that is flag to crotch four, checkmate. Easy-peasy, ooh, so breezy."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadett\u2019s house. "
+        ],
+        [
+            "Stuart",
+            "Hey, what\u2019s up?"
+        ],
+        [
+            "Raj",
+            "I\u2019m here to put the crib together."
+        ],
+        [
+            "Stuart",
+            "Ooh, sorry, I already did it."
+        ],
+        [
+            "Raj",
+            "Well I don\u2019t know if you realize this, but I bought that crib."
+        ],
+        [
+            "Stuart",
+            "Oh, yeah, I read about that on WhoGivesACrap.com"
+        ],
+        [
+            "Raj",
+            "Why are you being like this?"
+        ],
+        [
+            "Stuart",
+            "Because I love Howard and Bernadette and if I want to keep mooching off them, I need to be helpful."
+        ],
+        [
+            "Raj",
+            "Hey, this pregnancy had an emotionally-needy third wheel way before you came along."
+        ],
+        [
+            "Stuart",
+            "Why can\u2019t there be four wheels?"
+        ],
+        [
+            "Raj",
+            "Is this what you do when I\u2019m not here, make really good points?"
+        ],
+        [
+            "Stuart",
+            "Look, just come in and help me build a baby swing."
+        ],
+        [
+            "Raj",
+            "Thank you."
+        ],
+        [
+            "Stuart",
+            "If you\u2019re hungry you can eat your take-out, nobody touched it."
+        ],
+        [
+            "Scene",
+            "The stairwell. "
+        ],
+        [
+            "Penny",
+            "I think I\u2019m gonna go for a run, you want to come?"
+        ],
+        [
+            "Leonard",
+            "No, last time that old lady in the park kept screaming, watch out, he\u2019s right behind you. Hello?"
+        ],
+        [
+            "Strange old man",
+            "Hey, how you doing?"
+        ],
+        [
+            "Leonard",
+            "Uh, can I help you?"
+        ],
+        [
+            "Strange old man",
+            "I don\u2019t think so, but you\u2019re sweet for asking."
+        ],
+        [
+            "Penny",
+            "What, what are you doing in our apartment?"
+        ],
+        [
+            "Strange old man",
+            "Oh, I rented a room from your neighbour, the tall guy dressed like a little boy."
+        ],
+        [
+            "Leonard",
+            "Unbelievable. Okay, uh, I don\u2019t know what he told you, but you can\u2019t stay here."
+        ],
+        [
+            "Sheldon",
+            "So, there are fresh linens on the bed and, oh, well, now, I see you\u2019ve met Theodore. Theodore, these are your new room mates, Leonard and Penny. They\u2019re very honest, but I would not leave cash lying around."
+        ],
+        [
+            "Leonard",
+            "Sheldon, what do you think you\u2019re doing? "
+        ],
+        [
+            "Sheldon",
+            "My room is paid up until the end of the month, so I can do with it whatever I please, which includes renting it out for a dollar a night."
+        ],
+        [
+            "Theodore",
+            "It\u2019s like the \u201940s again."
+        ],
+        [
+            "Sheldon",
+            "Anyway, I\u2019ll leave you be. I have to, oh, oh, he\u2019s expecting a newspaper in the morning. Apparently, they still make them."
+        ],
+        [
+            "Penny",
+            "All right, Sheldon, this is over the line."
+        ],
+        [
+            "Sheldon",
+            "That\u2019s true, but had I done something under the line, there wouldn\u2019t be a man in your kitchen who can\u2019t produce a single form of ID."
+        ],
+        [
+            "Theodore",
+            "Oh, oh, I have a receipt from a blood bank. I\u2019m O-negative."
+        ],
+        [
+            "Sheldon",
+            "And now you know as much about him as I do."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s living room. "
+        ],
+        [
+            "Raj",
+            "Oh, hey, Bernadette, the swing comes with two different mobiles. The giraffes are pretty cute, what do you think?"
+        ],
+        [
+            "Bernadette",
+            "Great, go with the giraffes."
+        ],
+        [
+            "Stuart",
+            "Although the high contrast of zebra stripes might provide better stimulus for a developing baby."
+        ],
+        [
+            "Bernadette",
+            "Yeah, you\u2019re probably right, go with the zebras."
+        ],
+        [
+            "Stuart",
+            "Good choice, boss."
+        ],
+        [
+            "Raj",
+            "At least my nose is naturally brown."
+        ],
+        [
+            "Bernadette",
+            "Hey, could you please go to the market for me?"
+        ],
+        [
+            "Howard",
+            "Get Stuart or Raj to do it."
+        ],
+        [
+            "Bernadette",
+            "Howie, they\u2019ve been doing everything for you."
+        ],
+        [
+            "Howard",
+            "Mm, I know. It\u2019s really making me lose respect for both of them."
+        ],
+        [
+            "Bernadette",
+            "Please just go to the store."
+        ],
+        [
+            "Howard",
+            "Fine. Who wants to drive me to the store?"
+        ],
+        [
+            "Raj (off)",
+            "Me"
+        ],
+        [
+            "Stuart (off)",
+            "I\u2019ll do it."
+        ],
+        [
+            "Bernadette",
+            "Take Raj. Stuart is supposed to paint my toenails."
+        ],
+        [
+            "Scene",
+            "The apartment."
+        ],
+        [
+            "Penny",
+            "What do you think? Should we go to a hotel?"
+        ],
+        [
+            "Leonard",
+            "And just leave him here alone?"
+        ],
+        [
+            "Penny",
+            "Okay, I\u2019ll go to a hotel. Text me in the morning if you\u2019re still alive."
+        ],
+        [
+            "Leonard",
+            "Uh, Theodore, how long are you planning to stay exactly?"
+        ],
+        [
+            "Theodore",
+            "Oh, thanks to the coins I found in your couch, a day longer than I thought."
+        ],
+        [
+            "Leonard",
+            "This is ridiculous."
+        ],
+        [
+            "Theodore",
+            "I like the painting. Is that your mom?"
+        ],
+        [
+            "Leonard",
+            "Sheldon, get out here."
+        ],
+        [
+            "Sheldon",
+            "Will you keep it down? What kind of vengeful bed and breakfast do you think I\u2019m running?"
+        ],
+        [
+            "Leonard",
+            "We lived together 13 years. How can you be so awful to me?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m being awful? You\u2019re the one who went out of your way to hurt me."
+        ],
+        [
+            "Leonard",
+            "Because you were being selfish."
+        ],
+        [
+            "Sheldon",
+            "Dividing our belongings is difficult."
+        ],
+        [
+            "Leonard",
+            "Why? I said I didn\u2019t care."
+        ],
+        [
+            "Theodore",
+            "Excuse me. It\u2019s none of my business, but it sounds like a lot of this anger is coming from love."
+        ],
+        [
+            "Leonard",
+            "Yeah, thanks, but nobody asked you."
+        ],
+        [
+            "Theodore",
+            "Well, I\u2019m just gonna keep on talking. Seems like, with Sheldon moving out, you\u2019re in a new phase of your lives and it\u2019s easier to fight than to face the feelings that you have for one another."
+        ],
+        [
+            "Amy",
+            "I think he might be right. Also, who is that?"
+        ],
+        [
+            "Sheldon",
+            "I have to admit, leaving you to move in with Amy has been harder than I thought it would be."
+        ],
+        [
+            "Leonard",
+            "Well, for me, too. It\u2019s not the same with you gone."
+        ],
+        [
+            "Theodore",
+            "If you\u2019re looking for a new guy to live with."
+        ],
+        [
+            "Leonard",
+            "No. "
+        ],
+        [
+            "Penny",
+            "We\u2019re good, thank you."
+        ],
+        [
+            "Amy",
+            "So, no one\u2019s gonna tell me? Okay."
+        ],
+        [
+            "Sheldon",
+            "Leonard, I would like us to stop fighting about our possessions."
+        ],
+        [
+            "Leonard",
+            "Well, I\u2019d like that, too. "
+        ],
+        [
+            "Sheldon",
+            "In fact, I want you to keep the apartment flag, and I\u2019m not just saying that because it touched your genitals."
+        ],
+        [
+            "Leonard",
+            "You promise?"
+        ],
+        [
+            "Sheldon",
+            "I do. And to show you that there are no hard feelings, I am willing to rub my genitals on it as well."
+        ],
+        [
+            "Theodore",
+            "Well if we\u2019re rubbing genitals on things, that\u2019s where I shine."
+        ],
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Little lower to the left. A little more."
+        ],
+        [
+            "Leonard",
+            "Good?"
+        ],
+        [
+            "Penny",
+            "No, still hideous."
+        ],
+        [
+            "Leonard",
+            "Well, I\u2019m sure at some point, we won\u2019t even notice it\u2019s there."
+        ],
+        [
+            "Penny",
+            "Yeah, you\u2019d think that, but after a while it starts showing up in your dreams."
+        ],
+        [
+            "Theodore",
+            "I think it brings the room together."
+        ],
+        [
+            "Scene",
+            "Howard and Bernadette\u2019s living room. "
+        ],
+        [
+            "Howard",
+            "Hey, tomorrow who wants to paint the nursery?"
+        ],
+        [
+            "Raj",
+            "I\u2019ll do it."
+        ],
+        [
+            "Stuart",
+            "Why do you get to do it? I\u2019m the artist."
+        ],
+        [
+            "Raj",
+            "Just because you\u2019re starving doesn\u2019t make you an artist."
+        ],
+        [
+            "Stuart",
+            "Just because I look sickly doesn\u2019t mean I\u2019m starving."
+        ],
+        [
+            "Bernadette (off)",
+            "Howard!"
+        ],
+        [
+            "Howard",
+            "Guys, you heard her, go see what she wants."
+        ],
+        [
+            "Bernadette",
+            "I think I\u2019m in labour."
+        ],
+        [
+            "Howard",
+            "Oh, oh, okay, okay, uh, uh, uh, I can do this. We have a plan. Somebody please tell me the plan."
+        ],
+        [
+            "Stuart",
+            "I\u2019ll get the hospital bag."
+        ],
+        [
+            "Raj",
+            "I\u2019ll pull the van up."
+        ],
+        [
+            "Stuart",
+            "Meet you outside in 2 minutes."
+        ],
+        [
+            "Raj",
+            "Team Baby, go."
+        ],
+        [
+            "Howard",
+            "I love you."
+        ],
+        [
+            "Bernadette",
+            "I love you, too."
+        ],
+        [
+            "Stuart",
+            "Are we hugging or having a baby? Let\u2019s go."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-10-episode-10-the-property-division-collision/"
+}

@@ -1,0 +1,1914 @@
+{
+    "Season": 8,
+    "Episode": 11,
+    "Title": "the clean room infiltration",
+    "Actor2Line": {
+        "Scene": [
+            [
+                0,
+                "The apartment. "
+            ],
+            [
+                23,
+                "Credits sequence."
+            ],
+            [
+                24,
+                "The University clean room."
+            ],
+            [
+                43,
+                "Amy\u2019s apartment. "
+            ],
+            [
+                65,
+                "Bernadette\u2019s car."
+            ],
+            [
+                88,
+                "The clean room. "
+            ],
+            [
+                108,
+                "Amy\u2019s apartment."
+            ],
+            [
+                116,
+                "The clean room."
+            ],
+            [
+                131,
+                "A shopping mall."
+            ],
+            [
+                138,
+                "Amy\u2019s apartment. "
+            ],
+            [
+                145,
+                "Santa\u2019s grotto. "
+            ],
+            [
+                152,
+                "The clean room."
+            ],
+            [
+                184,
+                "The same, later."
+            ],
+            [
+                200,
+                "Leonard\u2019s car."
+            ],
+            [
+                202,
+                "Amy\u2019s apartment. "
+            ],
+            [
+                229,
+                "The same, later."
+            ]
+        ],
+        "Penny": [
+            [
+                1,
+                "Hey, how are things going with your parents?"
+            ],
+            [
+                4,
+                "You know what? That was almost on topic. I\u2019m gonna say good job, Sheldon."
+            ],
+            [
+                21,
+                "Me, too."
+            ],
+            [
+                44,
+                "So, Dr. Koothrappali, long flight?"
+            ],
+            [
+                46,
+                "Oh, that\u2019s rough."
+            ],
+            [
+                50,
+                "Oh, great. Everything\u2019s good."
+            ],
+            [
+                52,
+                "Yes, we did."
+            ],
+            [
+                62,
+                "You\u2019re just gonna leave him here?"
+            ],
+            [
+                109,
+                "So, if you don\u2019t mind me asking, do you think you might start dating again?"
+            ],
+            [
+                111,
+                "No, but if things don\u2019t work out with me and Leonard, I\u2019ll give you a call. Wait. How much do you talk about Star Trek?"
+            ],
+            [
+                113,
+                "Like what?"
+            ],
+            [
+                115,
+                "Sorry. She\u2019s taken, too."
+            ],
+            [
+                140,
+                "Certainly doesn\u2019t feel like it, does it?"
+            ],
+            [
+                142,
+                "Oh, I guess that\u2019s where Raj gets it from."
+            ],
+            [
+                144,
+                "Hey, you know, Raj is dating a doctor who works a lot. Him and his mom have a type. You, you got to laugh at that, right? No? All right."
+            ],
+            [
+                190,
+                "It\u2019s kind of boring. Although it did get exciting for a minute when Amy inhaled a wool ball. How much longer do you think you\u2019ll be?"
+            ],
+            [
+                192,
+                "Honey, it\u2019s Christmas Eve. Who even knows you\u2019re in there?"
+            ],
+            [
+                194,
+                "So erase them and walk out."
+            ],
+            [
+                212,
+                "Oh, Sheldon, we didn\u2019t bring any."
+            ],
+            [
+                231,
+                "Of course it is."
+            ]
+        ],
+        "Raj": [
+            [
+                2,
+                "Not great. They hired divorce attorneys."
+            ],
+            [
+                8,
+                "Anyway, Dad\u2019s gonna be here in town, so I won\u2019t be able to do Christmas dinner this year."
+            ],
+            [
+                10,
+                "That would be nice."
+            ],
+            [
+                17,
+                "Amy, good luck getting these guys excited about a dinner with a theme. I gave up when no one cared about my Tom Hanks-giving."
+            ],
+            [
+                22,
+                "You guys suck."
+            ],
+            [
+                48,
+                "Can we please talk about anything else?"
+            ],
+            [
+                54,
+                "Dad."
+            ],
+            [
+                58,
+                "There\u2019s been a problem with an experiment. A bird got into the clean room."
+            ],
+            [
+                60,
+                "Uh, no. You had a long flight. You stay here and relax."
+            ],
+            [
+                64,
+                "Yup. Bye."
+            ],
+            [
+                105,
+                "Hey, what\u2019s going on?"
+            ],
+            [
+                107,
+                "Should have put it in the bag first."
+            ],
+            [
+                119,
+                "Hey."
+            ],
+            [
+                121,
+                "Okay."
+            ],
+            [
+                123,
+                "Actually."
+            ],
+            [
+                126,
+                "All I\u2019m gonna say is you guys need to stop this right now. It. it\u2019s bad enough that my parents are fighting, now I have to hear the two of you? And who cares who\u2019s smarter? If it\u2019s Leonard or me or, you know, it\u2019s Christmas, let\u2019s say it\u2019s Howard."
+            ],
+            [
+                128,
+                "No, you\u2019re the one who let him in."
+            ],
+            [
+                130,
+                "Come on."
+            ],
+            [
+                159,
+                "Uh, you have to take the pin out."
+            ],
+            [
+                162,
+                "What did you do?"
+            ],
+            [
+                166,
+                "Dude, it\u2019s not breathing."
+            ],
+            [
+                168,
+                "What do you mean, not again?"
+            ],
+            [
+                173,
+                "I\u2019ll do it."
+            ],
+            [
+                176,
+                "Don\u2019t blow too hard. If you pop him, I will vomit."
+            ],
+            [
+                181,
+                "It\u2019s a Christmas miracle."
+            ],
+            [
+                183,
+                "Someone should really close that loading door."
+            ],
+            [
+                185,
+                "Well, that\u2019s that. The room\u2019s compromised. They\u2019ll have to change all the filters, probably shut it down for weeks."
+            ],
+            [
+                188,
+                "Yeah, just leave me out of it. You know if they come here and see crap everywhere, they\u2019re just gonna blame the Indian guy."
+            ],
+            [
+                203,
+                "Mmm. Amy, that pudding was delicious."
+            ],
+            [
+                233,
+                "If you people think this is better than Tom Hanks-giving, you\u2019re all crazy."
+            ]
+        ],
+        "Sheldon": [
+            [
+                3,
+                "You know, speaking of attorneys, if I ever needed a lawyer, I would not hire She-Hulk."
+            ],
+            [
+                7,
+                "Yes, but she\u2019s the only monster at the firm. Between you, me and the wall, I think she\u2019s an affirmative action hire."
+            ],
+            [
+                12,
+                "Ugh. English pudding. You get yourself all excited for pudding, and here comes a cake with raisins in it. I\u2019m not going."
+            ],
+            [
+                14,
+                "Why do you hate me?"
+            ],
+            [
+                16,
+                "Well, you call it love, but it has a lot of raisins in it."
+            ],
+            [
+                67,
+                "Yeah, I appreciate the ride."
+            ],
+            [
+                69,
+                "Because in the last ten minutes, Santa came to town, kissed Mommy and ran Grandma over with a reindeer. I had a drunk uncle who did all those things. Nobody sings songs about him."
+            ],
+            [
+                71,
+                "My uncle was accused of that, too. It turned out to be legal in Oklahoma."
+            ],
+            [
+                73,
+                "Oh, we\u2019re not exchanging gifts."
+            ],
+            [
+                75,
+                "Why should I? She knows that I don\u2019t like Christmas, and yet, every year, she forces me to celebrate it. Not only am I going to this foolish dinner against my will, at the Christmas tree lot, there was mistletoe, and she kissed me under it in public. Like we were the stars of a Tijuana sex show."
+            ],
+            [
+                77,
+                "Yes, and she\u2019s not taking my feelings into account at all. Maybe it\u2019s time I teach her a lesson."
+            ],
+            [
+                79,
+                "Hmm. It\u2019d have to be something heinous, something that makes her as miserable as she\u2019s making me. Oh, I\u2019ve got it. This is good."
+            ],
+            [
+                81,
+                "I\u2019m going to buy her a present."
+            ],
+            [
+                83,
+                "With gift-giving, there\u2019s an implied social contract. If I show up tonight with a present, and she doesn\u2019t have one for me, she\u2019ll feel terrible."
+            ],
+            [
+                85,
+                "Yes. Maybe she\u2019ll feel so guilty, she\u2019ll never make me celebrate the holidays again."
+            ],
+            [
+                87,
+                "That\u2019s right. So stay on my good side, or I\u2019ll get you a little something, too."
+            ],
+            [
+                133,
+                "No, it\u2019s not good enough. It has to be perfect."
+            ],
+            [
+                135,
+                "Hmm. Let\u2019s see, what do I know about Amy? She loves medieval literature, Chaucer\u2019s her favourite. And her eyes sparkle when she watches old French movies. I enjoy how harp music causes her fingers to dance as if she\u2019s playing along."
+            ],
+            [
+                137,
+                "I do. Now, let\u2019s find the kind of gift that makes her feel small and worthless."
+            ],
+            [
+                147,
+                "Correct."
+            ],
+            [
+                149,
+                "There\u2019s an argument for that. But I want to make sure."
+            ],
+            [
+                204,
+                "If you like raisins."
+            ],
+            [
+                206,
+                "Oh. Oh, in that case, it was pretty good."
+            ],
+            [
+                211,
+                "Uh, what do you say we exchange gifts?"
+            ],
+            [
+                214,
+                "Yeah, I do. Which is why I got Amy this."
+            ],
+            [
+                216,
+                "Oh, not just something, no. It\u2019s from the heart, it\u2019s holiday-themed, and I swallowed the gift receipt so you cannot return it."
+            ],
+            [
+                218,
+                "Of course it is. It\u2019s the perfect gift. How are you feeling right now? Guilty? Sad? Wishing you were Jewish?"
+            ],
+            [
+                220,
+                "Oh, really? Well, how about now? (On recording) Happy holidays to my dear Amy. I hope you treasure this as much as I treasure you. (Not on recording) And you got me nothing. Christmas is ruined. Let\u2019s never speak of it again. Well, this was fun."
+            ],
+            [
+                222,
+                "But what about our agreement?"
+            ],
+            [
+                224,
+                "Cookies?"
+            ],
+            [
+                226,
+                "They\u2019re perfect. It tastes like her hugs."
+            ],
+            [
+                228,
+                "I can\u2019t believe this. You\u2019re happy, I\u2019m happy. Well, maybe a holiday that\u2019s all about giving isn\u2019t so\u2026 Get your hand out of that box."
+            ]
+        ],
+        "Amy": [
+            [
+                5,
+                "Wait, She-Hulk\u2019s a lawyer?"
+            ],
+            [
+                9,
+                "If you\u2019re not up to hosting Christmas dinner, I\u2019m happy to do it. You can even bring your father."
+            ],
+            [
+                11,
+                "I\u2019ve always wanted to do a traditional Victorian Christmas. Parlour games, goose and figgy pudding."
+            ],
+            [
+                13,
+                "You\u2019re going."
+            ],
+            [
+                15,
+                "I don\u2019t hate you. I love you."
+            ],
+            [
+                57,
+                "What\u2019s going on?"
+            ],
+            [
+                112,
+                "Okay, let\u2019s get this Victorian party started. I\u2019ve done some research about some traditional parlour games we can play."
+            ],
+            [
+                114,
+                "Well, there\u2019s a fun one called Ball of Wool. You take a ball of wool, and you put it right in the centre of the table. Then people sit on opposite sides of the table and try to blow the wool off."
+            ],
+            [
+                139,
+                "You won."
+            ],
+            [
+                205,
+                "Thank you. And it\u2019s figs."
+            ],
+            [
+                215,
+                "You got me something?"
+            ],
+            [
+                217,
+                "Look at you on Santa\u2019s lap. That\u2019s so sweet."
+            ],
+            [
+                219,
+                "No, I love it."
+            ],
+            [
+                221,
+                "Actually, I did get you something."
+            ],
+            [
+                223,
+                "Well, you got me something. Here."
+            ],
+            [
+                225,
+                "They\u2019re your Meemaw\u2019s Christmas cookies. I called and got the recipe."
+            ],
+            [
+                227,
+                "Merry Christmas, Sheldon."
+            ],
+            [
+                230,
+                "Okay. The next game is called Hot Boiled Beans."
+            ],
+            [
+                232,
+                "One person is sent out of the room while the others hide a small item. Then they invite the first person back by saying hot boiled beans and bacon for supper, hurry up before it gets cold."
+            ]
+        ],
+        "Howard": [
+            [
+                6,
+                "Yeah, she works at a law firm in New York."
+            ],
+            [
+                19,
+                "I agree."
+            ],
+            [
+                26,
+                "We should get going to Amy\u2019s."
+            ],
+            [
+                28,
+                "I know. If we were still single, we\u2019d be tripping over all that booty."
+            ],
+            [
+                30,
+                "How the hell did a pigeon get in here?"
+            ],
+            [
+                32,
+                "I thought you did."
+            ],
+            [
+                34,
+                "You mean \u2019cause this room isn\u2019t supposed to have dust in it, and we just let in a flying crap machine?"
+            ],
+            [
+                36,
+                "And tell them that we compromised all the equipment? Let\u2019s just get it out of here before anyone knows."
+            ],
+            [
+                38,
+                "Well, what if we turn off all the lights except for one, and it\u2019ll come to it."
+            ],
+            [
+                40,
+                "Don\u2019t yell at me. You\u2019re not gonna get any good ideas out of me if you\u2019re yelling."
+            ],
+            [
+                42,
+                "Great, we\u2019re turning on each other. That\u2019s just what the bird wants us to do."
+            ],
+            [
+                89,
+                "Okay, here\u2019s the plan. I\u2019m gonna put the food in the bag, and when he lands in the bag to eat it, we close it up."
+            ],
+            [
+                91,
+                "It\u2019s all I could find. It\u2019ll work."
+            ],
+            [
+                93,
+                "Okay, well, what\u2019s your plan?"
+            ],
+            [
+                95,
+                "And admit that we contaminated the clean room?"
+            ],
+            [
+                97,
+                "Why do you keep assuming it was me?"
+            ],
+            [
+                99,
+                "Like when?"
+            ],
+            [
+                101,
+                "Again, it looked like my car, and the baby didn\u2019t even cry until his mother punched me with her keys."
+            ],
+            [
+                103,
+                "Well, what if you said it without sounding so condescending?"
+            ],
+            [
+                117,
+                "You know what I think your problem is? You\u2019re jealous because you and I used to be best friends until Koothrappali came along."
+            ],
+            [
+                120,
+                "Stay out of this."
+            ],
+            [
+                122,
+                "You know, maybe I\u2019m best friends with Raj because he doesn\u2019t think he\u2019s smarter than me."
+            ],
+            [
+                124,
+                "I said, stay out of it."
+            ],
+            [
+                127,
+                "Well, if you\u2019re so smart, you get the bird out."
+            ],
+            [
+                129,
+                "How do you know it wasn\u2019t Leonard?"
+            ],
+            [
+                154,
+                "Are you sure a dummy like me can handle something as complicated as a blanket?"
+            ],
+            [
+                156,
+                "Yeah, I do."
+            ],
+            [
+                158,
+                "Okay. One, two, three."
+            ],
+            [
+                161,
+                "On three. One, two, three."
+            ],
+            [
+                163,
+                "It was an accident. Oh, my God. Oh, my God."
+            ],
+            [
+                165,
+                "Uh, maybe it\u2019s just stunned."
+            ],
+            [
+                167,
+                "Oh, no. I killed it. Oh, not again."
+            ],
+            [
+                169,
+                "When I was ten, I was playing in my backyard and sat on a blue jay. I mean, I tried to bring it back to life with electricity, but it just caught on fire. The worst part was it smelled delicious."
+            ],
+            [
+                171,
+                "Great. Do it."
+            ],
+            [
+                174,
+                "No. I need to do it. This is on me."
+            ],
+            [
+                178,
+                "I am tasting a lot of Slim Jim."
+            ],
+            [
+                180,
+                "Oh, he blinked his eyes. He\u2019s alive."
+            ],
+            [
+                182,
+                "I might argue a Hanukkah miracle, but I\u2019ll take it. Come on, little guy, let\u2019s get you outside. Get the curtain."
+            ],
+            [
+                186,
+                "You were right. Go ahead, call Building Services. Tell them it was my fault."
+            ],
+            [
+                196,
+                "Can\u2019t do what?"
+            ],
+            [
+                198,
+                "We can\u2019t do that."
+            ],
+            [
+                208,
+                "It smelled too much like blue jay."
+            ]
+        ],
+        "Bernadette": [
+            [
+                18,
+                "I think a Victorian Christmas sounds nice."
+            ],
+            [
+                70,
+                "Maybe you\u2019d like it more if you thought of Santa as a superhero and his power is bringing joy to children."
+            ],
+            [
+                72,
+                "Okay, new subject. Let\u2019s talk about presents. What did you get Amy?"
+            ],
+            [
+                74,
+                "Come on, Sheldon, you have to get her something."
+            ],
+            [
+                76,
+                "She\u2019s just excited about the holidays."
+            ],
+            [
+                78,
+                "How?"
+            ],
+            [
+                80,
+                "What?"
+            ],
+            [
+                82,
+                "Yeah, you\u2019re gonna have to walk me through that."
+            ],
+            [
+                84,
+                "Then you\u2019re both sad?"
+            ],
+            [
+                86,
+                "So your evil plot here is to buy your girlfriend a present?"
+            ],
+            [
+                132,
+                "What about that sweater?"
+            ],
+            [
+                134,
+                "I think the nicest gifts I\u2019ve got from Howie show how well he knows me."
+            ],
+            [
+                136,
+                "Wow, you really do love her."
+            ],
+            [
+                207,
+                "You feeling okay? You hardly touched your goose."
+            ]
+        ],
+        "Leonard": [
+            [
+                20,
+                "Why not?"
+            ],
+            [
+                25,
+                "You know the best part of working in the clean room? No allergies. Check it out. Oh, that, that, that\u2019s a lot of oxygen."
+            ],
+            [
+                27,
+                "Can you believe there was a time when we would have needed an array of giant Cherenkov telescopes to detect cosmic particles? And here we are building our own multi-wire detector like a couple of badasses."
+            ],
+            [
+                29,
+                "Ladies do love a man dressed like a kitchen garbage bag. Oh, no."
+            ],
+            [
+                31,
+                "You shut the loading doors, right?"
+            ],
+            [
+                33,
+                "Do you know what a disaster this is?"
+            ],
+            [
+                35,
+                "What do we do? Should we call someone?"
+            ],
+            [
+                37,
+                "Okay, how do we catch it?"
+            ],
+            [
+                39,
+                "It\u2019s not a moth."
+            ],
+            [
+                41,
+                "Okay, so if I remain calm, I\u2019ll get more gems like turn off the lights?"
+            ],
+            [
+                90,
+                "A Slim Jim?"
+            ],
+            [
+                92,
+                "Sure. If the pigeon\u2019s stoned or a trucker."
+            ],
+            [
+                94,
+                "I told you my plan. Let\u2019s call Building Services and get help."
+            ],
+            [
+                96,
+                "No, admit that you contaminated the clean room."
+            ],
+            [
+                98,
+                "Because you do this kind of thing all the time, and then you try to cover it up."
+            ],
+            [
+                100,
+                "What about when you flipped the Mars Rover, or lost Koothrappali\u2019s dog, or almost drove off with that baby?"
+            ],
+            [
+                102,
+                "Fine, put the Slim Jim in the garbage bag."
+            ],
+            [
+                104,
+                "I can try, but your plan has the words garbage bag and Slim Jim in it."
+            ],
+            [
+                106,
+                "Oh. Genius here wants to catch a bird with a garbage bag and a Slim Jim."
+            ],
+            [
+                118,
+                "And you found somebody you could push around?"
+            ],
+            [
+                125,
+                "No, no, no. No, Raj, go ahead, say what you were gonna say."
+            ],
+            [
+                153,
+                "Okay. On the count of three, I\u2019ll shoot the fire extinguisher and get him airborne. Howard, you wave the blanket and guide him towards the exit. Raj, you hold open the curtain so he can fly out."
+            ],
+            [
+                155,
+                "Do you want the fire extinguisher?"
+            ],
+            [
+                157,
+                "Great. Here you go."
+            ],
+            [
+                160,
+                "You miss the blanket now, don\u2019t you?"
+            ],
+            [
+                164,
+                "Relax, it wasn\u2019t your fault."
+            ],
+            [
+                170,
+                "Uh, guys, I found an article here that says you can do CPR on birds."
+            ],
+            [
+                172,
+                "I\u2019m not doing it. You killed him, you do it."
+            ],
+            [
+                175,
+                "Okay. Mouth over beak and light chest compressions."
+            ],
+            [
+                177,
+                "Anything?"
+            ],
+            [
+                179,
+                "Wait, wait, his wing moved."
+            ],
+            [
+                187,
+                "No, we\u2019re both to blame. You know, let me take the heat on this one."
+            ],
+            [
+                191,
+                "I don\u2019t know. There\u2019s still a bird in here. We are gonna get in a ton of trouble."
+            ],
+            [
+                193,
+                "No, our names are on the sign-in sheet."
+            ],
+            [
+                195,
+                "I can\u2019t do that."
+            ],
+            [
+                197,
+                "She says take our names off the sign-in sheet and leave."
+            ],
+            [
+                199,
+                "Yeah."
+            ],
+            [
+                213,
+                "I thought you hate giving gifts."
+            ]
+        ],
+        "Dr Koothrappali": [
+            [
+                45,
+                "Twenty hours."
+            ],
+            [
+                47,
+                "Not at all. Did you know that when you fly transcontinental without your wife, you don\u2019t pray for the plane to crash?"
+            ],
+            [
+                49,
+                "Forgive me. How are you and Leonard?"
+            ],
+            [
+                51,
+                "I see you got engaged."
+            ],
+            [
+                53,
+                "Let me tell you a story."
+            ],
+            [
+                55,
+                "Sorry. I\u2019m sure you won\u2019t grow to hate each other."
+            ],
+            [
+                59,
+                "You want me to come?"
+            ],
+            [
+                61,
+                "Relax. Easy for you to say. Your mother isn\u2019t cleaning out your bank account. Forty years, the woman never cleaned a thing."
+            ],
+            [
+                63,
+                "Relax, he says."
+            ],
+            [
+                110,
+                "It\u2019s much too soon for that. Why? Do you know someone?"
+            ],
+            [
+                141,
+                "You know, my wife used to throw theme parties like this all the time."
+            ],
+            [
+                143,
+                "Well, he and his mother spent a lot of time together when he was young. I was always working."
+            ],
+            [
+                209,
+                "Can I help you clean up?"
+            ]
+        ],
+        "Raj (on phone)": [
+            [
+                56,
+                "Hey, Leonard. What\u2019s up? What? How did that happen? Yeah, okay. I\u2019ll be there as soon as I can. Sorry. I have to run to the university."
+            ]
+        ],
+        "Bernadette (singing)": [
+            [
+                66,
+                "Here comes Santa Claus, here comes Santa Claus, right down Santa Claus Lane. Vixen and Blitzen and all his reindeer pulling on the reins."
+            ],
+            [
+                68,
+                "Bells are ringing, children singing, all is merry and bright. So hang your stockings and say your prayers \u2019cause Santa Claus is coming tonight. Why\u2019d you turn it off?"
+            ]
+        ],
+        "Santa": [
+            [
+                146,
+                "All right, let me see if I\u2019ve got this straight. A picture of you on my lap is a way to punish your girlfriend for making you celebrate Christmas?"
+            ],
+            [
+                148,
+                "Santa thinks dating you may be punishment enough."
+            ],
+            [
+                151,
+                "Ho, ho. ho."
+            ]
+        ],
+        "Photographer": [
+            [
+                150,
+                "Smile."
+            ]
+        ],
+        "Leonard (on phone)": [
+            [
+                189,
+                "Hey. I\u2019m sorry, we\u2019re still here. Is everything okay?"
+            ]
+        ],
+        "Leonard, Howard and Raj (singing)": [
+            [
+                201,
+                "Jingle bells, jingle bells, jingle all the way. Oh, what fun it is to ride in a one-horse open sleigh, hey."
+            ]
+        ],
+        "Amy: Oh, you Heimliched a ball of wool out of me": [
+            [
+                210,
+                "you\u2019re good."
+            ]
+        ]
+    },
+    "AllLines": [
+        [
+            "Scene",
+            "The apartment. "
+        ],
+        [
+            "Penny",
+            "Hey, how are things going with your parents?"
+        ],
+        [
+            "Raj",
+            "Not great. They hired divorce attorneys."
+        ],
+        [
+            "Sheldon",
+            "You know, speaking of attorneys, if I ever needed a lawyer, I would not hire She-Hulk."
+        ],
+        [
+            "Penny",
+            "You know what? That was almost on topic. I\u2019m gonna say good job, Sheldon."
+        ],
+        [
+            "Amy",
+            "Wait, She-Hulk\u2019s a lawyer?"
+        ],
+        [
+            "Howard",
+            "Yeah, she works at a law firm in New York."
+        ],
+        [
+            "Sheldon",
+            "Yes, but she\u2019s the only monster at the firm. Between you, me and the wall, I think she\u2019s an affirmative action hire."
+        ],
+        [
+            "Raj",
+            "Anyway, Dad\u2019s gonna be here in town, so I won\u2019t be able to do Christmas dinner this year."
+        ],
+        [
+            "Amy",
+            "If you\u2019re not up to hosting Christmas dinner, I\u2019m happy to do it. You can even bring your father."
+        ],
+        [
+            "Raj",
+            "That would be nice."
+        ],
+        [
+            "Amy",
+            "I\u2019ve always wanted to do a traditional Victorian Christmas. Parlour games, goose and figgy pudding."
+        ],
+        [
+            "Sheldon",
+            "Ugh. English pudding. You get yourself all excited for pudding, and here comes a cake with raisins in it. I\u2019m not going."
+        ],
+        [
+            "Amy",
+            "You\u2019re going."
+        ],
+        [
+            "Sheldon",
+            "Why do you hate me?"
+        ],
+        [
+            "Amy",
+            "I don\u2019t hate you. I love you."
+        ],
+        [
+            "Sheldon",
+            "Well, you call it love, but it has a lot of raisins in it."
+        ],
+        [
+            "Raj",
+            "Amy, good luck getting these guys excited about a dinner with a theme. I gave up when no one cared about my Tom Hanks-giving."
+        ],
+        [
+            "Bernadette",
+            "I think a Victorian Christmas sounds nice."
+        ],
+        [
+            "Howard",
+            "I agree."
+        ],
+        [
+            "Leonard",
+            "Why not?"
+        ],
+        [
+            "Penny",
+            "Me, too."
+        ],
+        [
+            "Raj",
+            "You guys suck."
+        ],
+        [
+            "Scene",
+            "Credits sequence."
+        ],
+        [
+            "Scene",
+            "The University clean room."
+        ],
+        [
+            "Leonard",
+            "You know the best part of working in the clean room? No allergies. Check it out. Oh, that, that, that\u2019s a lot of oxygen."
+        ],
+        [
+            "Howard",
+            "We should get going to Amy\u2019s."
+        ],
+        [
+            "Leonard",
+            "Can you believe there was a time when we would have needed an array of giant Cherenkov telescopes to detect cosmic particles? And here we are building our own multi-wire detector like a couple of badasses."
+        ],
+        [
+            "Howard",
+            "I know. If we were still single, we\u2019d be tripping over all that booty."
+        ],
+        [
+            "Leonard",
+            "Ladies do love a man dressed like a kitchen garbage bag. Oh, no."
+        ],
+        [
+            "Howard",
+            "How the hell did a pigeon get in here?"
+        ],
+        [
+            "Leonard",
+            "You shut the loading doors, right?"
+        ],
+        [
+            "Howard",
+            "I thought you did."
+        ],
+        [
+            "Leonard",
+            "Do you know what a disaster this is?"
+        ],
+        [
+            "Howard",
+            "You mean \u2019cause this room isn\u2019t supposed to have dust in it, and we just let in a flying crap machine?"
+        ],
+        [
+            "Leonard",
+            "What do we do? Should we call someone?"
+        ],
+        [
+            "Howard",
+            "And tell them that we compromised all the equipment? Let\u2019s just get it out of here before anyone knows."
+        ],
+        [
+            "Leonard",
+            "Okay, how do we catch it?"
+        ],
+        [
+            "Howard",
+            "Well, what if we turn off all the lights except for one, and it\u2019ll come to it."
+        ],
+        [
+            "Leonard",
+            "It\u2019s not a moth."
+        ],
+        [
+            "Howard",
+            "Don\u2019t yell at me. You\u2019re not gonna get any good ideas out of me if you\u2019re yelling."
+        ],
+        [
+            "Leonard",
+            "Okay, so if I remain calm, I\u2019ll get more gems like turn off the lights?"
+        ],
+        [
+            "Howard",
+            "Great, we\u2019re turning on each other. That\u2019s just what the bird wants us to do."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. "
+        ],
+        [
+            "Penny",
+            "So, Dr. Koothrappali, long flight?"
+        ],
+        [
+            "Dr Koothrappali",
+            "Twenty hours."
+        ],
+        [
+            "Penny",
+            "Oh, that\u2019s rough."
+        ],
+        [
+            "Dr Koothrappali",
+            "Not at all. Did you know that when you fly transcontinental without your wife, you don\u2019t pray for the plane to crash?"
+        ],
+        [
+            "Raj",
+            "Can we please talk about anything else?"
+        ],
+        [
+            "Dr Koothrappali",
+            "Forgive me. How are you and Leonard?"
+        ],
+        [
+            "Penny",
+            "Oh, great. Everything\u2019s good."
+        ],
+        [
+            "Dr Koothrappali",
+            "I see you got engaged."
+        ],
+        [
+            "Penny",
+            "Yes, we did."
+        ],
+        [
+            "Dr Koothrappali",
+            "Let me tell you a story."
+        ],
+        [
+            "Raj",
+            "Dad."
+        ],
+        [
+            "Dr Koothrappali",
+            "Sorry. I\u2019m sure you won\u2019t grow to hate each other."
+        ],
+        [
+            "Raj (on phone)",
+            "Hey, Leonard. What\u2019s up? What? How did that happen? Yeah, okay. I\u2019ll be there as soon as I can. Sorry. I have to run to the university."
+        ],
+        [
+            "Amy",
+            "What\u2019s going on?"
+        ],
+        [
+            "Raj",
+            "There\u2019s been a problem with an experiment. A bird got into the clean room."
+        ],
+        [
+            "Dr Koothrappali",
+            "You want me to come?"
+        ],
+        [
+            "Raj",
+            "Uh, no. You had a long flight. You stay here and relax."
+        ],
+        [
+            "Dr Koothrappali",
+            "Relax. Easy for you to say. Your mother isn\u2019t cleaning out your bank account. Forty years, the woman never cleaned a thing."
+        ],
+        [
+            "Penny",
+            "You\u2019re just gonna leave him here?"
+        ],
+        [
+            "Dr Koothrappali",
+            "Relax, he says."
+        ],
+        [
+            "Raj",
+            "Yup. Bye."
+        ],
+        [
+            "Scene",
+            "Bernadette\u2019s car."
+        ],
+        [
+            "Bernadette (singing)",
+            "Here comes Santa Claus, here comes Santa Claus, right down Santa Claus Lane. Vixen and Blitzen and all his reindeer pulling on the reins."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I appreciate the ride."
+        ],
+        [
+            "Bernadette (singing)",
+            "Bells are ringing, children singing, all is merry and bright. So hang your stockings and say your prayers \u2019cause Santa Claus is coming tonight. Why\u2019d you turn it off?"
+        ],
+        [
+            "Sheldon",
+            "Because in the last ten minutes, Santa came to town, kissed Mommy and ran Grandma over with a reindeer. I had a drunk uncle who did all those things. Nobody sings songs about him."
+        ],
+        [
+            "Bernadette",
+            "Maybe you\u2019d like it more if you thought of Santa as a superhero and his power is bringing joy to children."
+        ],
+        [
+            "Sheldon",
+            "My uncle was accused of that, too. It turned out to be legal in Oklahoma."
+        ],
+        [
+            "Bernadette",
+            "Okay, new subject. Let\u2019s talk about presents. What did you get Amy?"
+        ],
+        [
+            "Sheldon",
+            "Oh, we\u2019re not exchanging gifts."
+        ],
+        [
+            "Bernadette",
+            "Come on, Sheldon, you have to get her something."
+        ],
+        [
+            "Sheldon",
+            "Why should I? She knows that I don\u2019t like Christmas, and yet, every year, she forces me to celebrate it. Not only am I going to this foolish dinner against my will, at the Christmas tree lot, there was mistletoe, and she kissed me under it in public. Like we were the stars of a Tijuana sex show."
+        ],
+        [
+            "Bernadette",
+            "She\u2019s just excited about the holidays."
+        ],
+        [
+            "Sheldon",
+            "Yes, and she\u2019s not taking my feelings into account at all. Maybe it\u2019s time I teach her a lesson."
+        ],
+        [
+            "Bernadette",
+            "How?"
+        ],
+        [
+            "Sheldon",
+            "Hmm. It\u2019d have to be something heinous, something that makes her as miserable as she\u2019s making me. Oh, I\u2019ve got it. This is good."
+        ],
+        [
+            "Bernadette",
+            "What?"
+        ],
+        [
+            "Sheldon",
+            "I\u2019m going to buy her a present."
+        ],
+        [
+            "Bernadette",
+            "Yeah, you\u2019re gonna have to walk me through that."
+        ],
+        [
+            "Sheldon",
+            "With gift-giving, there\u2019s an implied social contract. If I show up tonight with a present, and she doesn\u2019t have one for me, she\u2019ll feel terrible."
+        ],
+        [
+            "Bernadette",
+            "Then you\u2019re both sad?"
+        ],
+        [
+            "Sheldon",
+            "Yes. Maybe she\u2019ll feel so guilty, she\u2019ll never make me celebrate the holidays again."
+        ],
+        [
+            "Bernadette",
+            "So your evil plot here is to buy your girlfriend a present?"
+        ],
+        [
+            "Sheldon",
+            "That\u2019s right. So stay on my good side, or I\u2019ll get you a little something, too."
+        ],
+        [
+            "Scene",
+            "The clean room. "
+        ],
+        [
+            "Howard",
+            "Okay, here\u2019s the plan. I\u2019m gonna put the food in the bag, and when he lands in the bag to eat it, we close it up."
+        ],
+        [
+            "Leonard",
+            "A Slim Jim?"
+        ],
+        [
+            "Howard",
+            "It\u2019s all I could find. It\u2019ll work."
+        ],
+        [
+            "Leonard",
+            "Sure. If the pigeon\u2019s stoned or a trucker."
+        ],
+        [
+            "Howard",
+            "Okay, well, what\u2019s your plan?"
+        ],
+        [
+            "Leonard",
+            "I told you my plan. Let\u2019s call Building Services and get help."
+        ],
+        [
+            "Howard",
+            "And admit that we contaminated the clean room?"
+        ],
+        [
+            "Leonard",
+            "No, admit that you contaminated the clean room."
+        ],
+        [
+            "Howard",
+            "Why do you keep assuming it was me?"
+        ],
+        [
+            "Leonard",
+            "Because you do this kind of thing all the time, and then you try to cover it up."
+        ],
+        [
+            "Howard",
+            "Like when?"
+        ],
+        [
+            "Leonard",
+            "What about when you flipped the Mars Rover, or lost Koothrappali\u2019s dog, or almost drove off with that baby?"
+        ],
+        [
+            "Howard",
+            "Again, it looked like my car, and the baby didn\u2019t even cry until his mother punched me with her keys."
+        ],
+        [
+            "Leonard",
+            "Fine, put the Slim Jim in the garbage bag."
+        ],
+        [
+            "Howard",
+            "Well, what if you said it without sounding so condescending?"
+        ],
+        [
+            "Leonard",
+            "I can try, but your plan has the words garbage bag and Slim Jim in it."
+        ],
+        [
+            "Raj",
+            "Hey, what\u2019s going on?"
+        ],
+        [
+            "Leonard",
+            "Oh. Genius here wants to catch a bird with a garbage bag and a Slim Jim."
+        ],
+        [
+            "Raj",
+            "Should have put it in the bag first."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment."
+        ],
+        [
+            "Penny",
+            "So, if you don\u2019t mind me asking, do you think you might start dating again?"
+        ],
+        [
+            "Dr Koothrappali",
+            "It\u2019s much too soon for that. Why? Do you know someone?"
+        ],
+        [
+            "Penny",
+            "No, but if things don\u2019t work out with me and Leonard, I\u2019ll give you a call. Wait. How much do you talk about Star Trek?"
+        ],
+        [
+            "Amy",
+            "Okay, let\u2019s get this Victorian party started. I\u2019ve done some research about some traditional parlour games we can play."
+        ],
+        [
+            "Penny",
+            "Like what?"
+        ],
+        [
+            "Amy",
+            "Well, there\u2019s a fun one called Ball of Wool. You take a ball of wool, and you put it right in the centre of the table. Then people sit on opposite sides of the table and try to blow the wool off."
+        ],
+        [
+            "Penny",
+            "Sorry. She\u2019s taken, too."
+        ],
+        [
+            "Scene",
+            "The clean room."
+        ],
+        [
+            "Howard",
+            "You know what I think your problem is? You\u2019re jealous because you and I used to be best friends until Koothrappali came along."
+        ],
+        [
+            "Leonard",
+            "And you found somebody you could push around?"
+        ],
+        [
+            "Raj",
+            "Hey."
+        ],
+        [
+            "Howard",
+            "Stay out of this."
+        ],
+        [
+            "Raj",
+            "Okay."
+        ],
+        [
+            "Howard",
+            "You know, maybe I\u2019m best friends with Raj because he doesn\u2019t think he\u2019s smarter than me."
+        ],
+        [
+            "Raj",
+            "Actually."
+        ],
+        [
+            "Howard",
+            "I said, stay out of it."
+        ],
+        [
+            "Leonard",
+            "No, no, no. No, Raj, go ahead, say what you were gonna say."
+        ],
+        [
+            "Raj",
+            "All I\u2019m gonna say is you guys need to stop this right now. It. it\u2019s bad enough that my parents are fighting, now I have to hear the two of you? And who cares who\u2019s smarter? If it\u2019s Leonard or me or, you know, it\u2019s Christmas, let\u2019s say it\u2019s Howard."
+        ],
+        [
+            "Howard",
+            "Well, if you\u2019re so smart, you get the bird out."
+        ],
+        [
+            "Raj",
+            "No, you\u2019re the one who let him in."
+        ],
+        [
+            "Howard",
+            "How do you know it wasn\u2019t Leonard?"
+        ],
+        [
+            "Raj",
+            "Come on."
+        ],
+        [
+            "Scene",
+            "A shopping mall."
+        ],
+        [
+            "Bernadette",
+            "What about that sweater?"
+        ],
+        [
+            "Sheldon",
+            "No, it\u2019s not good enough. It has to be perfect."
+        ],
+        [
+            "Bernadette",
+            "I think the nicest gifts I\u2019ve got from Howie show how well he knows me."
+        ],
+        [
+            "Sheldon",
+            "Hmm. Let\u2019s see, what do I know about Amy? She loves medieval literature, Chaucer\u2019s her favourite. And her eyes sparkle when she watches old French movies. I enjoy how harp music causes her fingers to dance as if she\u2019s playing along."
+        ],
+        [
+            "Bernadette",
+            "Wow, you really do love her."
+        ],
+        [
+            "Sheldon",
+            "I do. Now, let\u2019s find the kind of gift that makes her feel small and worthless."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. "
+        ],
+        [
+            "Amy",
+            "You won."
+        ],
+        [
+            "Penny",
+            "Certainly doesn\u2019t feel like it, does it?"
+        ],
+        [
+            "Dr Koothrappali",
+            "You know, my wife used to throw theme parties like this all the time."
+        ],
+        [
+            "Penny",
+            "Oh, I guess that\u2019s where Raj gets it from."
+        ],
+        [
+            "Dr Koothrappali",
+            "Well, he and his mother spent a lot of time together when he was young. I was always working."
+        ],
+        [
+            "Penny",
+            "Hey, you know, Raj is dating a doctor who works a lot. Him and his mom have a type. You, you got to laugh at that, right? No? All right."
+        ],
+        [
+            "Scene",
+            "Santa\u2019s grotto. "
+        ],
+        [
+            "Santa",
+            "All right, let me see if I\u2019ve got this straight. A picture of you on my lap is a way to punish your girlfriend for making you celebrate Christmas?"
+        ],
+        [
+            "Sheldon",
+            "Correct."
+        ],
+        [
+            "Santa",
+            "Santa thinks dating you may be punishment enough."
+        ],
+        [
+            "Sheldon",
+            "There\u2019s an argument for that. But I want to make sure."
+        ],
+        [
+            "Photographer",
+            "Smile."
+        ],
+        [
+            "Santa",
+            "Ho, ho. ho."
+        ],
+        [
+            "Scene",
+            "The clean room."
+        ],
+        [
+            "Leonard",
+            "Okay. On the count of three, I\u2019ll shoot the fire extinguisher and get him airborne. Howard, you wave the blanket and guide him towards the exit. Raj, you hold open the curtain so he can fly out."
+        ],
+        [
+            "Howard",
+            "Are you sure a dummy like me can handle something as complicated as a blanket?"
+        ],
+        [
+            "Leonard",
+            "Do you want the fire extinguisher?"
+        ],
+        [
+            "Howard",
+            "Yeah, I do."
+        ],
+        [
+            "Leonard",
+            "Great. Here you go."
+        ],
+        [
+            "Howard",
+            "Okay. One, two, three."
+        ],
+        [
+            "Raj",
+            "Uh, you have to take the pin out."
+        ],
+        [
+            "Leonard",
+            "You miss the blanket now, don\u2019t you?"
+        ],
+        [
+            "Howard",
+            "On three. One, two, three."
+        ],
+        [
+            "Raj",
+            "What did you do?"
+        ],
+        [
+            "Howard",
+            "It was an accident. Oh, my God. Oh, my God."
+        ],
+        [
+            "Leonard",
+            "Relax, it wasn\u2019t your fault."
+        ],
+        [
+            "Howard",
+            "Uh, maybe it\u2019s just stunned."
+        ],
+        [
+            "Raj",
+            "Dude, it\u2019s not breathing."
+        ],
+        [
+            "Howard",
+            "Oh, no. I killed it. Oh, not again."
+        ],
+        [
+            "Raj",
+            "What do you mean, not again?"
+        ],
+        [
+            "Howard",
+            "When I was ten, I was playing in my backyard and sat on a blue jay. I mean, I tried to bring it back to life with electricity, but it just caught on fire. The worst part was it smelled delicious."
+        ],
+        [
+            "Leonard",
+            "Uh, guys, I found an article here that says you can do CPR on birds."
+        ],
+        [
+            "Howard",
+            "Great. Do it."
+        ],
+        [
+            "Leonard",
+            "I\u2019m not doing it. You killed him, you do it."
+        ],
+        [
+            "Raj",
+            "I\u2019ll do it."
+        ],
+        [
+            "Howard",
+            "No. I need to do it. This is on me."
+        ],
+        [
+            "Leonard",
+            "Okay. Mouth over beak and light chest compressions."
+        ],
+        [
+            "Raj",
+            "Don\u2019t blow too hard. If you pop him, I will vomit."
+        ],
+        [
+            "Leonard",
+            "Anything?"
+        ],
+        [
+            "Howard",
+            "I am tasting a lot of Slim Jim."
+        ],
+        [
+            "Leonard",
+            "Wait, wait, his wing moved."
+        ],
+        [
+            "Howard",
+            "Oh, he blinked his eyes. He\u2019s alive."
+        ],
+        [
+            "Raj",
+            "It\u2019s a Christmas miracle."
+        ],
+        [
+            "Howard",
+            "I might argue a Hanukkah miracle, but I\u2019ll take it. Come on, little guy, let\u2019s get you outside. Get the curtain."
+        ],
+        [
+            "Raj",
+            "Someone should really close that loading door."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Raj",
+            "Well, that\u2019s that. The room\u2019s compromised. They\u2019ll have to change all the filters, probably shut it down for weeks."
+        ],
+        [
+            "Howard",
+            "You were right. Go ahead, call Building Services. Tell them it was my fault."
+        ],
+        [
+            "Leonard",
+            "No, we\u2019re both to blame. You know, let me take the heat on this one."
+        ],
+        [
+            "Raj",
+            "Yeah, just leave me out of it. You know if they come here and see crap everywhere, they\u2019re just gonna blame the Indian guy."
+        ],
+        [
+            "Leonard (on phone)",
+            "Hey. I\u2019m sorry, we\u2019re still here. Is everything okay?"
+        ],
+        [
+            "Penny",
+            "It\u2019s kind of boring. Although it did get exciting for a minute when Amy inhaled a wool ball. How much longer do you think you\u2019ll be?"
+        ],
+        [
+            "Leonard",
+            "I don\u2019t know. There\u2019s still a bird in here. We are gonna get in a ton of trouble."
+        ],
+        [
+            "Penny",
+            "Honey, it\u2019s Christmas Eve. Who even knows you\u2019re in there?"
+        ],
+        [
+            "Leonard",
+            "No, our names are on the sign-in sheet."
+        ],
+        [
+            "Penny",
+            "So erase them and walk out."
+        ],
+        [
+            "Leonard",
+            "I can\u2019t do that."
+        ],
+        [
+            "Howard",
+            "Can\u2019t do what?"
+        ],
+        [
+            "Leonard",
+            "She says take our names off the sign-in sheet and leave."
+        ],
+        [
+            "Howard",
+            "We can\u2019t do that."
+        ],
+        [
+            "Leonard",
+            "Yeah."
+        ],
+        [
+            "Scene",
+            "Leonard\u2019s car."
+        ],
+        [
+            "Leonard, Howard and Raj (singing)",
+            "Jingle bells, jingle bells, jingle all the way. Oh, what fun it is to ride in a one-horse open sleigh, hey."
+        ],
+        [
+            "Scene",
+            "Amy\u2019s apartment. "
+        ],
+        [
+            "Raj",
+            "Mmm. Amy, that pudding was delicious."
+        ],
+        [
+            "Sheldon",
+            "If you like raisins."
+        ],
+        [
+            "Amy",
+            "Thank you. And it\u2019s figs."
+        ],
+        [
+            "Sheldon",
+            "Oh. Oh, in that case, it was pretty good."
+        ],
+        [
+            "Bernadette",
+            "You feeling okay? You hardly touched your goose."
+        ],
+        [
+            "Howard",
+            "It smelled too much like blue jay."
+        ],
+        [
+            "Dr Koothrappali",
+            "Can I help you clean up?"
+        ],
+        [
+            "Amy: Oh, you Heimliched a ball of wool out of me",
+            "you\u2019re good."
+        ],
+        [
+            "Sheldon",
+            "Uh, what do you say we exchange gifts?"
+        ],
+        [
+            "Penny",
+            "Oh, Sheldon, we didn\u2019t bring any."
+        ],
+        [
+            "Leonard",
+            "I thought you hate giving gifts."
+        ],
+        [
+            "Sheldon",
+            "Yeah, I do. Which is why I got Amy this."
+        ],
+        [
+            "Amy",
+            "You got me something?"
+        ],
+        [
+            "Sheldon",
+            "Oh, not just something, no. It\u2019s from the heart, it\u2019s holiday-themed, and I swallowed the gift receipt so you cannot return it."
+        ],
+        [
+            "Amy",
+            "Look at you on Santa\u2019s lap. That\u2019s so sweet."
+        ],
+        [
+            "Sheldon",
+            "Of course it is. It\u2019s the perfect gift. How are you feeling right now? Guilty? Sad? Wishing you were Jewish?"
+        ],
+        [
+            "Amy",
+            "No, I love it."
+        ],
+        [
+            "Sheldon",
+            "Oh, really? Well, how about now? (On recording) Happy holidays to my dear Amy. I hope you treasure this as much as I treasure you. (Not on recording) And you got me nothing. Christmas is ruined. Let\u2019s never speak of it again. Well, this was fun."
+        ],
+        [
+            "Amy",
+            "Actually, I did get you something."
+        ],
+        [
+            "Sheldon",
+            "But what about our agreement?"
+        ],
+        [
+            "Amy",
+            "Well, you got me something. Here."
+        ],
+        [
+            "Sheldon",
+            "Cookies?"
+        ],
+        [
+            "Amy",
+            "They\u2019re your Meemaw\u2019s Christmas cookies. I called and got the recipe."
+        ],
+        [
+            "Sheldon",
+            "They\u2019re perfect. It tastes like her hugs."
+        ],
+        [
+            "Amy",
+            "Merry Christmas, Sheldon."
+        ],
+        [
+            "Sheldon",
+            "I can\u2019t believe this. You\u2019re happy, I\u2019m happy. Well, maybe a holiday that\u2019s all about giving isn\u2019t so\u2026 Get your hand out of that box."
+        ],
+        [
+            "Scene",
+            "The same, later."
+        ],
+        [
+            "Amy",
+            "Okay. The next game is called Hot Boiled Beans."
+        ],
+        [
+            "Penny",
+            "Of course it is."
+        ],
+        [
+            "Amy",
+            "One person is sent out of the room while the others hide a small item. Then they invite the first person back by saying hot boiled beans and bacon for supper, hurry up before it gets cold."
+        ],
+        [
+            "Raj",
+            "If you people think this is better than Tom Hanks-giving, you\u2019re all crazy."
+        ]
+    ],
+    "url": "https://bigbangtrans.wordpress.com/series-8-episode-11-the-clean-room-infiltration/"
+}
