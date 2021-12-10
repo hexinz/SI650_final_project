@@ -1,13 +1,13 @@
+import re
 import csv
-from collections import defaultdict
 import pandas as pd
 import numpy as np
-import re
-from sklearn.model_selection import train_test_split
-
+from collections import defaultdict
 import pytorch_lightning as pl
+from sklearn.model_selection import train_test_split
 from pytorch_lightning.callbacks import ModelCheckpoint
-from model import QADataset, DataModule, QAModel
+from qa_model import QADataset, DataModule, QAModel
+from qa_model import generate_answer
 
 ''' first read data from file '''
 questions = list() # list of questions
@@ -38,21 +38,14 @@ for i, question in enumerate(questions):
 
 df = pd.DataFrame(np.array(data))
 df.columns = ['question', 'context', 'answer_text']
-# print(df.head(5))
 
-''' create dataset for training '''
-# qa_dataset = QADataset(df)
-# for data in qa_dataset:
-#     print("Question: ", data['question'])
-#     print("Answer text: ", data['answer_text'])
-#     print("Input_ids: ", data['input_ids'][:10])
-#     print("Labels: ", data['labels'][:10])
-#     break 
-
-train_df, val_df = train_test_split(df, test_size=3)
+''' create dataset and set training parameters '''
 
 BATCH_SIZE = 8
-EPOCHS = 2
+EPOCHS = 50
+VAL_SIZE = 3
+
+train_df, val_df = train_test_split(df, test_size=VAL_SIZE)
 data_module = DataModule(train_df, val_df, batch_size=BATCH_SIZE)
 data_module.setup() 
 
@@ -81,9 +74,9 @@ trainer.test() # evaluate the model according to the last checkpoint
 trained_model = QAModel.load_from_checkpoint("checkpoints/best-checkpoint.ckpt")
 trained_model.freeze() #
 
-
-sample_question = val_df.iloc[0]
-print(sample_question["question"])
-print(sample_question["answer_text"])  # Label Answer
-predicted_answer = generate_answer(sample_question, trained_model)  # Predicted answer
-print(predicted_answer)
+for i in range(VAL_SIZE):
+    sample_question = train_df.iloc[i]
+    print(sample_question["question"])
+    print(sample_question["answer_text"])  # Label Answer
+    predicted_answer = generate_answer(sample_question, trained_model)  # Predicted answer
+    print(predicted_answer)
