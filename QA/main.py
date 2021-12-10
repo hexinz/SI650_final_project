@@ -67,11 +67,11 @@ trainer = pl.Trainer(
 ) 
 
 ''' start finetune '''
-trainer.fit(model, data_module)
-trainer.test() # evaluate the model according to the last checkpoint
+#trainer.fit(model, data_module)
+#trainer.test() # evaluate the model according to the last checkpoint
 
 ''' evaluations '''
-trained_model = QAModel.load_from_checkpoint("checkpoints/best-checkpoint.ckpt")
+trained_model = QAModel.load_from_checkpoint("checkpoints/best-checkpoint-v3.ckpt")
 trained_model.freeze() #
 
 for i in range(VAL_SIZE):

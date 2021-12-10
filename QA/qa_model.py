@@ -6,7 +6,11 @@ from torch.utils.data import Dataset, DataLoader
 from transformers import T5ForConditionalGeneration, T5Tokenizer, AdamW
 import pytorch_lightning as pl
 
-tokenizer = T5Tokenizer.from_pretrained('t5-base')
+from transformers import AutoTokenizer, AutoModelWithLMHead
+
+tokenizer = AutoTokenizer.from_pretrained("deep-learning-analytics/triviaqa-t5-base")
+
+# tokenizer = T5Tokenizer.from_pretrained('t5-base')
 
 class QADataset(Dataset):
     def __init__(
@@ -110,8 +114,9 @@ class QAModel(pl.LightningModule):
 
     def __init__(self):
         super().__init__()
-        self.model = T5ForConditionalGeneration.from_pretrained('t5-base', return_dict=True)
-
+        # self.model = T5ForConditionalGeneration.from_pretrained('t5-base', return_dict=True)
+        self.model = AutoModelWithLMHead.from_pretrained("deep-learning-analytics/triviaqa-t5-base", return_dict=True)
+    
     def forward(self, input_ids, attention_mask, labels=None):
         output = self.model(
             input_ids, 
@@ -165,8 +170,8 @@ def generate_answer(question, trained_model):
     generated_ids = trained_model.model.generate(
         input_ids=source_encoding["input_ids"],
         attention_mask=source_encoding["attention_mask"],
-        num_beams=1,  # greedy search
-        max_length=80,
+        num_beams=10,  # greedy search
+        max_length=20,
         repetition_penalty=2.5,
         early_stopping=True,
         use_cache=True)
