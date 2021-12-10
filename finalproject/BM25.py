@@ -8,10 +8,8 @@ import pickle
 from pyserini.index import IndexReader
 import json
 
-data = pd.read_csv('./si-650eecs-549-rankergaming/documents.csv')
-index_reader = IndexReader('./si-650eecs-549-rankergaming/indexes/collection_jsonl')
-query_data = pd.read_csv('./si-650eecs-549-rankergaming/query_gaming.csv')
-idx = [i for i in data['id'].unique() if index_reader.doc(str(i))]
+index_reader = IndexReader('./transcripts/indexes')
+idx = range(54936)
 
 
 class Ranker(object):
@@ -91,9 +89,9 @@ class Retrival_Interface():
         # Raw += [json.loads(index_reader.doc(str(idx[r])).raw())['contents'] for r in relevant]
         # result = dict({'DocumentId': DocumentId, 'Score': Score, 'Raw': Raw})
         for r in relevant:
-            result.append([idx[r], rel_score[r], json.loads(index_reader.doc(str(idx[r])).raw())['contents']])
+            result.append([idx[r], rel_score[r], json.loads(json.loads(index_reader.doc(str(idx[r])).raw())['contents'])['line']])
         return result
 
-# test = Retrival_Interface(10)
-# result = test.Retrival('Can the trophy system protect me against bullets?')
-# print(result)
+test = Retrival_Interface(10)
+result = test.Retrival('Sheldon idiot')
+print(result)

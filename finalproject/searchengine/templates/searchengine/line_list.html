@@ -1,5 +1,5 @@
-
-   
+{% extends "base_menu.html" %}
+{% block content %}
 <html>
 
 <head>
@@ -30,12 +30,7 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-inverse">
-      <div class="container-fluid">
-        <div class="navbar-header">
-        </div>
-      </div>
-  </nav>
+
   <h3> The output table </h3>
 
   {% if results %}
@@ -66,3 +61,4 @@
   {% endif %}
 </body>
 </html>
+{% endblock %}

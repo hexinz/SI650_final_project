@@ -1,0 +1,84 @@
+{% extends "base_menu.html" %}
+{% block content %}
+{% load static %}
+<html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<h1>Episodes</h1>
+<div style="float:right">
+<!-- https://www.w3schools.com/howto/howto_css_search_button.asp -->
+</div>
+<p>
+{% if episode_list %}
+<ul>
+    {% for episode in episode_list %}
+    <li>
+        Series {{episode.serie}} Episode {{episode.episode}} - {{episode.title}}
+        {% if user.is_authenticated %}
+        <!-- Two hrefs with two stacked icons each - one showing and one hidden -->
+        <a href="#"
+            {% if episode.id not in ratings %} style="display: none;" {% endif %}
+            id="favorite_star_{{episode.id}}">
+        <span class="fa-stack" style="vertical-align: middle;">
+        <i class="fa fa-star fa-stack-1x" style="color: orange;"></i>
+        <i class="fa fa-star-o fa-stack-1x"></i>
+        </span>
+        </a>
+        <!-- the second href -->
+        <a href="#"
+            {% if episode.id in ratings %} style="display: none;" {% endif %}
+            id="unfavorite_star_{{episode.id}}">
+        <span class="fa-stack" style="vertical-align: middle;">
+        <i class="fa fa-star fa-stack-1x" style="display: none; color: orange;"></i>
+        <i class="fa fa-star-o fa-stack-1x"></i>
+        </span>
+        </a>
+        <div class="rating">
+            ratings:
+            <a href="#" onclick=
+            "favPost('{% url 'searchengine:episode_unrating' episode.id %}', {{ episode.id }});return false;"
+            {% if episode.id not in ratings %} style="display: inline;" {% endif %}>0</a>
+            <a href="#" onclick=
+            "favPost('{% url 'searchengine:episode_rating' episode.id 1 %}', {{ episode.id }} );return false;"
+            {% if episode.id not in ratings %} style="display: inline;" {% endif %}
+            id="unfavorite_star_{{episode.id}}">1</a>
+            <a href="#" onclick=
+            "favPost('{% url 'searchengine:episode_rating' episode.id 2 %}', {{ episode.id }} );return false;"
+            {% if episode.id not in ratings %} style="display: inline;" {% endif %}
+            id="unfavorite_star_{{episode.id}}">2</a>
+            <a href="#" onclick=
+            "favPost('{% url 'searchengine:episode_rating' episode.id 3 %}', {{ episode.id }} );return false;"
+            {% if episode.id not in ratings %} style="display: inline;" {% endif %}
+            id="unfavorite_star_{{episode.id}}">3</a>
+            <a href="#" onclick=
+            "favPost('{% url 'searchengine:episode_rating' episode.id 4 %}', {{ episode.id }} );return false;"
+            {% if episode.id not in ratings %} style="display: inline;" {% endif %}
+            id="unfavorite_star_{{episode.id}}">4</a>
+            <a href="#" onclick=
+            "favPost('{% url 'searchengine:episode_rating' episode.id 5 %}', {{ episode.id }} );return false;"
+            {% if episode.id not in ratings %} style="display: inline;" {% endif %}
+            id="unfavorite_star_{{episode.id}}">5</a>
+        </div>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+  <p>There are no episodes in the database.</p>
+{% endif %}
+
+<script>
+function favPost(url, episode_id) {
+    console.log('Requesting JSON');
+    $.post(url, {},  function(rowz){
+        console.log(url, 'finished');
+        $("#unfavorite_star_"+episode_id).toggle();
+        $("#favorite_star_"+episode_id).toggle();
+    }).fail(function(xhr) {
+        alert('Url failed with '+xhr.status+' '+url);
+    });
+}
+</script>
+
+
+</html>
+{% endblock %}
