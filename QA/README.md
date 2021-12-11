@@ -77,3 +77,10 @@ Correct Answer:          Sheldon
 Predicted Answer:        Sheldon
 ```
 
+### Replicating the results
+
+download the finetuned checkpoint from google drive:
+
+place the checkpoint under `QA/checkpoints/bigbang_qa.ckpt`
+
+run the command `cd QA && python test.py checkpoints/bigbang_qa.ckpt qa_data.csv  `
