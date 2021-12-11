@@ -1,8 +1,16 @@
-### Training Data:
+# Task Definition:
+
+We wish to let our search engine handle natural language Q&A style queries. For instance, when receiving a question "Who did not have a drivers license in the Big Bang Theory", we wish to obtain a short and concise answer "Sheldon" or "Sheldon Cooper". Our Q&A component directly implements this functionality with T5.
+
+# Environment prepartion
+
+Install everything specified in the `requirements.txt`
+
+# Training Data:
 
 We designed 130 Q&A pairs in total. The questions are designed so that each can be answered by context of one line in a particular transcript. While this seems limiting, it is quite necessary due to the huge workload of data annotation and limited labeled data resources.
 
-### Training Process:
+# Training Process:
 
 The T5 model is initially pretrained on the C4 dataset. Since our data is very limited, it is lucrative to first continue pretrain on a general Q&A dataset, and finally finetune on our own TV-domain Q&A pairs. Specifically, I chose the `triviaQA` dataset because it has the same input format of `(question, context, answer)` triples. We hope the model to learn general natural language questions, which is knowledge that could transfer to our specific domain data.
 
@@ -13,11 +21,13 @@ DATALOADER:0 TEST RESULTS
 {'test_loss': 1.187434434890747}
 ```
 
-### Train Test Split
+We trained a total of 20 epochs, and obtained the best validation results at epoch 6. This is also probably due to the small size of our data and the huge number of model parameters.
 
-We adopted the `train_test_split` method provided in the scikit-learn package. We set the validation/test set to be 10% of the overall data. The `random_state` is not fixed during finetuning, but is fixed in the final test stage to ensure reproducibility.
+## Train Test Split
 
-### Test performance:
+We adopted the `train_test_split` method provided in the scikit-learn package. We set the validation/test set to be 10% of the overall data. The `random_state` is fixed ensure reproducibility.
+
+## Test performance:
 
 Accuracy = $11/13\approx84\%$
 
@@ -77,10 +87,14 @@ Correct Answer:          Sheldon
 Predicted Answer:        Sheldon
 ```
 
-### Replicating the results
+# Replicating the results
 
 download the finetuned checkpoint from google drive:
 
 place the checkpoint under `QA/checkpoints/bigbang_qa.ckpt`
 
 run the command `cd QA && python test.py checkpoints/bigbang_qa.ckpt qa_data.csv  `
+
+### Incorporating the QA module into overall pipeline
+
+For each question, we first retrieve the top 20 most relevant transcript lines from our BigBangTheory transcript dataset. These 20 lines are then concatenated together to form the "context" input to our model. The questions and their retrieved contexts should be placed into a data frame object with "question" and "context" column labels. Then, calling the `predicted_answer` function inside `test.py` will return a list of generated answers. Unanswerable questions will result in a "*".
