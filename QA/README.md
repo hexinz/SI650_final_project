@@ -89,7 +89,7 @@ Predicted Answer:        Sheldon
 
 # Replicating the results
 
-download the finetuned checkpoint from google drive:
+download the finetuned checkpoint from [google drive](https://drive.google.com/file/d/1D1WgfCmtZ9_PP6siby2582PFyx5486pm/view?usp=sharing)
 
 place the checkpoint under `QA/checkpoints/bigbang_qa.ckpt`
 
