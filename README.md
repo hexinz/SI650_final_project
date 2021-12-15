@@ -6,8 +6,9 @@ Develop a fun search engine for the Big Bang Theory
 
 ## Search Engine Functions
 
-- search for episode by quote
-- quote author identification
+- search for transcript by keyword
+- question-answering
+- recommendation of episodes
 
 
 ## Data Collection
