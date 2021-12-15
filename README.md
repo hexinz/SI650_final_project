@@ -1,22 +1,4 @@
 # SI650_final_project
+This project aims at developing a fun retrieval system in the TV series domain. Specifically, we will focus on the Big Bang Theory. Our retrieval system will provide TV series lovers as well as the general audience with an easy-to-use interface to accurately search for quotes in any episode. Along with the search results we will provide tailored episodes recommendation for different users. Moreover, specially for the general audience, we will provide a question and answer section for them to quickly know more about the Big Bang Theory. The final deliverable will be an application interface with the aforementioned functionalities. 
 
-## Project Goal
-
-Develop a fun search engine for the Big Bang Theory
-
-## Search Engine Functions
-
-- search for transcript by keyword(using L2R(FastRank) model)
-- question-answering
-- recommendation of episodes
-
-
-## Data Collection
-
-`crawler/`, can craw single page or entire season
-
-- Only season 1 has full transcripts
-- crawls transcript from https://bigbangtheory.fandom.com/wiki/Transcripts/
-- saves under `transcripts`
-- 
-
+![image](./interface.png)
