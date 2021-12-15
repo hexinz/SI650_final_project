@@ -6,7 +6,7 @@ Develop a fun search engine for the Big Bang Theory
 
 ## Search Engine Functions
 
-- search for transcript by keyword
+- search for transcript by keyword(using L2R(FastRank) model)
 - question-answering
 - recommendation of episodes
 
