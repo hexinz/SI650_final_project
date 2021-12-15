@@ -8,7 +8,7 @@ Develop a fun search engine for the Big Bang Theory
 
 - search for episode by quote
 - quote author identification
-- fuzzy-search
+
 
 ## Data Collection
 
