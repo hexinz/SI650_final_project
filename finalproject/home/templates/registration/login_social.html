@@ -1,6 +1,30 @@
 {% extends "base_bootstrap.html" %}
 
 {% block content %}
+{% load static %}
+<head>
+  <style>
+  body {
+          background-image: url("{% static "img/backgound2.jpeg" %}");
+          
+          background-attachment: fixed;
+          background-position: center;
+          background-size: cover;
+          font: 17px 'Lucida sans', Arial, Helvetica;
+          color: white;
+          
+      }
+      input{
+        color:black
+      }
+  
+  
+  </style>
+  
+  
+  
+  
+  </head>
 
 {% if form.errors %}
   <p>Your username and password didn't match. Please try again.</p>

@@ -11,8 +11,11 @@
       {% url 'searchengine' as searchengine %}
         <li {% if request.get_full_path == searchengine %}class="active"{% endif %}>
           <a href="{% url 'searchengine:index' %}">Search engine</a></li>
-      <li {% if request.get_full_path == searchengine %}class="active"{% endif %}>
-          <a href="{% url 'searchengine:list' %}">Fav episodes</a></li>
+       
+        <li {% if request.get_full_path == searchengine %}class="active"{% endif %}>
+          <a href="{% url 'searchengine:qa' %}">Q&A</a></li>
+          <li {% if request.get_full_path == searchengine %}class="active"{% endif %}>
+            <a href="{% url 'searchengine:list' %}">Episode you like</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
         {% if user.is_authenticated %}

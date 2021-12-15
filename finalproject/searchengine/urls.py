@@ -6,6 +6,8 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('search', views.search),
     path('episode', views.episodeListView, name='list'),
+    path('qa', views.QAView, name='qa'),
+    path('answer', views.answerView, name='answer'),
     path(r'episode/<int:pk>&<int:rating>/rating',
          views.AddRating.as_view(), name='episode_rating'),
     path('episode/<int:pk>/unrating',

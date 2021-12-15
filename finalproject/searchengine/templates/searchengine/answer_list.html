@@ -1,0 +1,182 @@
+{% extends "base_menu.html" %}
+{% block content %}
+{% load static %}
+<html>
+  <head>
+    <style>
+
+body {
+                background-image: url("{% static "img/backgound2.jpeg" %}");
+        
+                background-attachment: fixed;
+                background-position: center;
+                background-size: cover;
+                font: 20px 'Lucida sans', Arial, Helvetica;
+                color: white;
+                text-align: center;
+              }
+
+    .form-wrapper {
+        
+        width: 450px;
+        padding: 20px;
+        margin: 60px auto 50px auto;
+        background:#494e8f;
+        opacity:0.9;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        -moz-box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 1px 0 rgba(255,255,255,.2);
+        -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 1px 0 rgba(255,255,255,.2);
+        box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 1px 0 rgba(255,255,255,.2);
+    }
+
+    .form-wrapper input {
+        width: 430px;
+        height: 30px;
+        padding: 10px 5px;
+        float: left;
+        font: 'lucida sans';
+        color:white;
+        font-size: 15pt;
+        border: 0;
+        background: #494e8f;
+        opacity:1;
+        -moz-border-radius: 3px 0 0 3px;
+        -webkit-border-radius: 3px 0 0 3px;
+        border-radius: 3px 0 0 3px;
+    }
+
+    .form-wrapper input:focus {
+        outline: 0;
+        background: #494e8f;
+        opacity:1;
+        color:white;
+        font-size: 15pt;
+        -moz-box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
+        -webkit-box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
+        box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
+    }
+
+    .form-wrapper input::-webkit-input-placeholder {
+       color:white;
+       font-weight: normal;
+       font-style: italic;
+       font-size: 15pt;
+    }
+
+    .form-wrapper input:-moz-placeholder {
+        color:white;
+        font-weight: normal;
+        font-style: italic;
+        font-size: 15pt;
+    }
+
+    .form-wrapper input:-ms-input-placeholder {
+        color:white;
+        font-weight: normal;
+        font-style: italic;
+        font-size: 15pt;
+    }
+
+    .form-wrapper button {
+		overflow: visible;
+        
+        float: middle;
+        border: 0;
+        padding: 0;
+        cursor: pointer;
+        height: 40px;
+        width: 110px;
+        font: 'lucida sans';
+        color: #494e8f;
+        text-transform: uppercase;
+        background: #e0ffff;
+        -moz-border-radius: 0 3px 3px 0;
+        -webkit-border-radius: 0 3px 3px 0;
+        border-radius: 0 3px 3px 0;
+        text-shadow: 0 -1px 0 rgba(0, 0 ,0, .3);
+    }
+
+    .form-wrapper button:hover{
+        background: #e54040;
+    }
+
+    .form-wrapper button:active,
+    .form-wrapper button:focus{
+        background: #c42f2f;
+    }
+
+    .form-wrapper button:before {
+        content: '';
+        position: absolute;
+        border-width: 8px 8px 8px 0;
+        border-style: solid solid solid none;
+        border-color: transparent #e0ffff transparent;
+        top: 12px;
+        left: -6px;
+    }
+
+    .form-wrapper button:hover:before{
+        border-right-color: #e54040;
+    }
+
+    .form-wrapper button:focus:before{
+        border-right-color: #c42f2f;
+    }
+
+    .form-wrapper button::-moz-focus-inner {
+        border: 0;
+        padding: 0;
+    }
+    ul{
+      font-size: 22pt;
+
+    }
+    </style>
+
+
+  </head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<div style="float:right">
+<!-- https://www.w3schools.com/howto/howto_css_search_button.asp -->
+</div>
+<h1>Q&A</h1>
+<!--<div style="float:right">-->
+<!--    <h3>Recommended Episodes</h3>-->
+<!--{% if recommend_episode_list %}-->
+<!--<ul>-->
+<!--    {% for episode in recommend_episode_list %}-->
+<!--    <li>-->
+<!--        Series {{episode.serie}} Episode {{episode.episode}} - {{episode.title}}-->
+<!--    </li>-->
+<!--    {% endfor %}-->
+<!--</ul>-->
+<!--{% else %}-->
+<!--<p>There are no recommended episodes.</p>-->
+<!--{% endif %}-->
+<!--</div>-->
+
+<form method="GET" action="/answer" class="form-wrapper cf">
+   {% csrf_token %}
+
+  <input type="text" name="question" placeholder="Ask a question" required>
+	<button type="submit" name="first">Submit</button>
+</form>
+
+
+
+{% if result %}
+<ul>
+    <li>
+        The answer is {{ result }}.
+    </li>
+</ul>
+{% else %}
+  <p>There are no answer to the question.</p>
+{% endif %}
+
+
+</html>
+{% endblock %}

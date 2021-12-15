@@ -2,12 +2,52 @@
 {% block content %}
 {% load static %}
 <html>
+<head>
+<style>
+body {
+        background-image: url("{% static "img/backgound2.jpeg" %}");
+        
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        font: 17px 'Lucida sans', Arial, Helvetica;
+        color: white;
+        
+    }
+    a{
+        color:yellow
+    }
+
+
+
+</style>
+
+
+
+
+</head>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<h1>Episodes</h1>
+
 <div style="float:right">
 <!-- https://www.w3schools.com/howto/howto_css_search_button.asp -->
 </div>
-<p>
+<h1>Episodes</h1>
+<div style="float:right">
+    <h3>Recommended Episodes</h3>
+{% if recommend_episode_list %}
+<ul>
+    {% for episode in recommend_episode_list %}
+    <li>
+        Series {{episode.serie}} Episode {{episode.episode}} - {{episode.title}}
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>There are no recommended episodes.</p>
+{% endif %}
+</div>
+
+
 {% if episode_list %}
 <ul>
     {% for episode in episode_list %}

@@ -30,6 +30,8 @@ ALLOWED_HOSTS = ['*']
 
 
 # Application definition
+# pip install social-auth-app-django
+# pip install pip install django-crispy-forms
 
 INSTALLED_APPS = [
     'searchengine.apps.SearchengineConfig',
@@ -159,3 +161,4 @@ MEDIA_ROOT = '/home/hexinz0427/finalproject/media'
 MEDIA_URL = '/media/'
 STATIC_ROOT = '/home/hexinz0427/finalproject/static'
 # STATIC_URL = '/static/'
+

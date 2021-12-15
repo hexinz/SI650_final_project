@@ -1,4 +1,3 @@
-from pyserini.index import IndexReader
 from tqdm import tqdm, trange
 import sys
 import numpy as np
@@ -92,6 +91,7 @@ class Retrival_Interface():
             result.append([idx[r], rel_score[r], json.loads(json.loads(index_reader.doc(str(idx[r])).raw())['contents'])['line']])
         return result
 
-test = Retrival_Interface(10)
-result = test.Retrival('Sheldon idiot')
-print(result)
+
+# test = Retrival_Interface(10)
+# result = test.Retrival('Sheldon idiot')
+# print(result)
